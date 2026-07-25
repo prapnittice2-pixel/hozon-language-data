@@ -1,0 +1,8894 @@
+[
+  {
+    "w": "신기하다",
+    "p": "singihada",
+    "m": "kỳ diệu, kỳ lạ",
+    "cat": "adjective"
+  },
+  {
+    "w": "조심스럽다",
+    "p": "josimseureopda",
+    "m": "cẩn thận",
+    "cat": "adjective"
+  },
+  {
+    "w": "구리다",
+    "p": "guridah",
+    "m": "hôi, thối",
+    "cat": "adjective"
+  },
+  {
+    "w": "낙관적이다",
+    "p": "nakgwanjeogida",
+    "m": "lạc quan",
+    "cat": "adjective"
+  },
+  {
+    "w": "비관적이다",
+    "p": "bigwanjeogida",
+    "m": "bi quan",
+    "cat": "adjective"
+  },
+  {
+    "w": "전문적이다",
+    "p": "jeonmunjeogida",
+    "m": "chuyên nghiệp",
+    "cat": "adjective"
+  },
+  {
+    "w": "의욕적이다",
+    "p": "uiyokjeogida",
+    "m": "có động lực",
+    "cat": "adjective"
+  },
+  {
+    "w": "헌신적이다",
+    "p": "heonsinjeogida",
+    "m": "tận tụy, hết lòng",
+    "cat": "adjective"
+  },
+  {
+    "w": "경험이 많다",
+    "p": "gyeongheomi manta",
+    "m": "có kinh nghiệm",
+    "cat": "adjective"
+  },
+  {
+    "w": "자격이 있다",
+    "p": "jagyeogi itda",
+    "m": "đủ năng lực, có bằng cấp",
+    "cat": "adjective"
+  },
+  {
+    "w": "시간을 잘 지키다",
+    "p": "siganeul jal jikida",
+    "m": "đúng giờ",
+    "cat": "adjective"
+  },
+  {
+    "w": "책임감이 있다",
+    "p": "chaegimgami itda",
+    "m": "có trách nhiệm",
+    "cat": "adjective"
+  },
+  {
+    "w": "순하다",
+    "p": "sunhada",
+    "m": "nhẹ nhàng, hiền lành",
+    "cat": "adjective"
+  },
+  {
+    "w": "길들여지다",
+    "p": "gildeuryeojida",
+    "m": "đã thuần hóa, hiền lành",
+    "cat": "adjective"
+  },
+  {
+    "w": "연례의",
+    "p": "yeollyeui",
+    "m": "hàng năm",
+    "cat": "adjective"
+  },
+  {
+    "w": "주간의",
+    "p": "juganui",
+    "m": "hàng tuần",
+    "cat": "adjective"
+  },
+  {
+    "w": "생생하다",
+    "p": "saengsaenghada",
+    "m": "sắc nét, sinh động",
+    "cat": "adjective"
+  },
+  {
+    "w": "줄무늬가 있다",
+    "p": "julmunuiga itda",
+    "m": "có sọc",
+    "cat": "adjective"
+  },
+  {
+    "w": "무늬가 없다",
+    "p": "munuiga eopda",
+    "m": "trơn, không hoa văn",
+    "cat": "adjective"
+  },
+  {
+    "w": "꽉 끼다",
+    "p": "kkwak kkida",
+    "m": "chật, bó sát",
+    "cat": "adjective"
+  },
+  {
+    "w": "헐렁하다",
+    "p": "heollonghada",
+    "m": "rộng, lỏng lẻo",
+    "cat": "adjective"
+  },
+  {
+    "w": "회의실",
+    "p": "hoeuisil",
+    "m": "phòng họp",
+    "cat": "work"
+  },
+  {
+    "w": "업무량",
+    "p": "eommuryang",
+    "m": "khối lượng công việc",
+    "cat": "work"
+  },
+  {
+    "w": "사직서",
+    "p": "sajikseo",
+    "m": "đơn xin nghỉ việc",
+    "cat": "work"
+  },
+  {
+    "w": "임금 인상",
+    "p": "imgeum insang",
+    "m": "tăng lương",
+    "cat": "work"
+  },
+  {
+    "w": "면접",
+    "p": "myeonjeop",
+    "m": "buổi phỏng vấn xin việc",
+    "cat": "work"
+  },
+  {
+    "w": "지원서",
+    "p": "jiwonseo",
+    "m": "mẫu đơn xin việc",
+    "cat": "work"
+  },
+  {
+    "w": "이력서",
+    "p": "iryeokseo",
+    "m": "bản lý lịch, CV",
+    "cat": "work"
+  },
+  {
+    "w": "교대 근무",
+    "p": "gyodae geunmu",
+    "m": "ca làm việc",
+    "cat": "work"
+  },
+  {
+    "w": "출산 휴가",
+    "p": "chulsan hyuga",
+    "m": "nghỉ thai sản",
+    "cat": "work"
+  },
+  {
+    "w": "팀장",
+    "p": "timjang",
+    "m": "trưởng nhóm",
+    "cat": "work"
+  },
+  {
+    "w": "본사",
+    "p": "bonsa",
+    "m": "trụ sở chính",
+    "cat": "work"
+  },
+  {
+    "w": "화상 회의",
+    "p": "hwasang hoeui",
+    "m": "họp qua video",
+    "cat": "work"
+  },
+  {
+    "w": "회의록",
+    "p": "hoeuirok",
+    "m": "biên bản cuộc họp",
+    "cat": "work"
+  },
+  {
+    "w": "스프레드시트",
+    "p": "seupeuredeusiteu",
+    "m": "bảng tính",
+    "cat": "work"
+  },
+  {
+    "w": "일정",
+    "p": "iljeong",
+    "m": "lịch trình",
+    "cat": "work"
+  },
+  {
+    "w": "출장",
+    "p": "chuljang",
+    "m": "chuyến công tác",
+    "cat": "work"
+  },
+  {
+    "w": "부동산 중개인",
+    "p": "budongsan junggaein",
+    "m": "môi giới bất động sản",
+    "cat": "work"
+  },
+  {
+    "w": "외과 의사",
+    "p": "oegwa uisa",
+    "m": "bác sĩ phẫu thuật",
+    "cat": "work"
+  },
+  {
+    "w": "회계사",
+    "p": "hoegyesa",
+    "m": "kế toán viên",
+    "cat": "work"
+  },
+  {
+    "w": "변호사",
+    "p": "byeonhosa",
+    "m": "luật sư",
+    "cat": "work"
+  },
+  {
+    "w": "기자",
+    "p": "gija",
+    "m": "nhà báo",
+    "cat": "work"
+  },
+  {
+    "w": "약사",
+    "p": "yaksa",
+    "m": "dược sĩ",
+    "cat": "work"
+  },
+  {
+    "w": "사서",
+    "p": "saseo",
+    "m": "thủ thư",
+    "cat": "work"
+  },
+  {
+    "w": "연구원",
+    "p": "yeonguwon",
+    "m": "nhà nghiên cứu",
+    "cat": "work"
+  },
+  {
+    "w": "강사",
+    "p": "gangsa",
+    "m": "giảng viên",
+    "cat": "work"
+  },
+  {
+    "w": "정비공",
+    "p": "jeongbigong",
+    "m": "thợ sửa xe",
+    "cat": "work"
+  },
+  {
+    "w": "승진",
+    "p": "seungjin",
+    "m": "thăng chức",
+    "cat": "work"
+  },
+  {
+    "w": "고용주",
+    "p": "goyongju",
+    "m": "người sử dụng lao động",
+    "cat": "work"
+  },
+  {
+    "w": "자격증",
+    "p": "jagyeokjeung",
+    "m": "bằng cấp, chứng chỉ",
+    "cat": "work"
+  },
+  {
+    "w": "관심이 있다",
+    "p": "gwansimi itda",
+    "m": "quan tâm",
+    "cat": "emotion"
+  },
+  {
+    "w": "기꺼이 하다",
+    "p": "gikkeoi hada",
+    "m": "sẵn lòng",
+    "cat": "emotion"
+  },
+  {
+    "w": "감탄하다",
+    "p": "gamtanhada",
+    "m": "khâm phục, ngưỡng mộ",
+    "cat": "emotion"
+  },
+  {
+    "w": "당황하다",
+    "p": "danghwanghada",
+    "m": "bối rối, không hiểu",
+    "cat": "emotion"
+  },
+  {
+    "w": "향수병에 걸리다",
+    "p": "hyangsubyeonge geollida",
+    "m": "nhớ nhà",
+    "cat": "emotion"
+  },
+  {
+    "w": "만족스럽다",
+    "p": "manjokseureopda",
+    "m": "hài lòng",
+    "cat": "emotion"
+  },
+  {
+    "w": "충격을 받다",
+    "p": "chunggyeogeul batda",
+    "m": "choáng váng, bị sốc",
+    "cat": "emotion"
+  },
+  {
+    "w": "애정",
+    "p": "aejeong",
+    "m": "tình cảm, sự yêu thương",
+    "cat": "emotion"
+  },
+  {
+    "w": "실패",
+    "p": "silpae",
+    "m": "sự thất bại",
+    "cat": "emotion"
+  },
+  {
+    "w": "동기",
+    "p": "donggi",
+    "m": "động lực",
+    "cat": "emotion"
+  },
+  {
+    "w": "영감",
+    "p": "yeonggam",
+    "m": "nguồn cảm hứng",
+    "cat": "emotion"
+  },
+  {
+    "w": "만족감",
+    "p": "manjokgam",
+    "m": "sự thỏa mãn, hài lòng",
+    "cat": "emotion"
+  },
+  {
+    "w": "실망감",
+    "p": "silmanggam",
+    "m": "sự thất vọng",
+    "cat": "emotion"
+  },
+  {
+    "w": "중독",
+    "p": "jungdok",
+    "m": "sự nghiện ngập",
+    "cat": "health"
+  },
+  {
+    "w": "면역 체계",
+    "p": "myeonyeok chegye",
+    "m": "hệ miễn dịch",
+    "cat": "health"
+  },
+  {
+    "w": "응급 처치",
+    "p": "eunggeup cheochi",
+    "m": "sơ cứu",
+    "cat": "health"
+  },
+  {
+    "w": "위생",
+    "p": "wisaeng",
+    "m": "vệ sinh",
+    "cat": "health"
+  },
+  {
+    "w": "복용량",
+    "p": "bogyongnyang",
+    "m": "liều thuốc",
+    "cat": "health"
+  },
+  {
+    "w": "전염병",
+    "p": "jeonyeombyeong",
+    "m": "dịch bệnh",
+    "cat": "health"
+  },
+  {
+    "w": "골절",
+    "p": "goljeol",
+    "m": "gãy xương",
+    "cat": "health"
+  },
+  {
+    "w": "맥박",
+    "p": "maekbak",
+    "m": "mạch đập",
+    "cat": "health"
+  },
+  {
+    "w": "체온",
+    "p": "cheon",
+    "m": "nhiệt độ, thân nhiệt",
+    "cat": "health"
+  },
+  {
+    "w": "메스꺼움",
+    "p": "meseukkeoum",
+    "m": "buồn nôn",
+    "cat": "health"
+  },
+  {
+    "w": "발진",
+    "p": "baljin",
+    "m": "phát ban",
+    "cat": "health"
+  },
+  {
+    "w": "치료법",
+    "p": "chiryobeop",
+    "m": "phương thuốc, cách chữa",
+    "cat": "health"
+  },
+  {
+    "w": "캡슐",
+    "p": "kaepsyul",
+    "m": "viên nang",
+    "cat": "health"
+  },
+  {
+    "w": "연고",
+    "p": "yeongo",
+    "m": "thuốc mỡ, kem bôi",
+    "cat": "health"
+  },
+  {
+    "w": "혈액 검사",
+    "p": "hyeoraek geomsa",
+    "m": "xét nghiệm máu",
+    "cat": "health"
+  },
+  {
+    "w": "항생제",
+    "p": "hangsaengje",
+    "m": "kháng sinh",
+    "cat": "health"
+  },
+  {
+    "w": "주사기",
+    "p": "jusagi",
+    "m": "ống tiêm",
+    "cat": "health"
+  },
+  {
+    "w": "불면증",
+    "p": "bulmyeonjeung",
+    "m": "mất ngủ",
+    "cat": "health"
+  },
+  {
+    "w": "미네랄",
+    "p": "mineral",
+    "m": "khoáng chất",
+    "cat": "health"
+  },
+  {
+    "w": "과체중",
+    "p": "gwachejung",
+    "m": "thừa cân",
+    "cat": "health"
+  },
+  {
+    "w": "저체중",
+    "p": "jeochejung",
+    "m": "thiếu cân",
+    "cat": "health"
+  },
+  {
+    "w": "영양",
+    "p": "yeongyang",
+    "m": "dinh dưỡng",
+    "cat": "health"
+  },
+  {
+    "w": "정신",
+    "p": "jeongsin",
+    "m": "tinh thần",
+    "cat": "health"
+  },
+  {
+    "w": "체중",
+    "p": "chejung",
+    "m": "cân nặng",
+    "cat": "health"
+  },
+  {
+    "w": "살을 빼다",
+    "p": "sareul ppaeda",
+    "m": "giảm cân",
+    "cat": "health"
+  },
+  {
+    "w": "식습관",
+    "p": "siksseupgwan",
+    "m": "chế độ ăn, thói quen ăn uống",
+    "cat": "health"
+  },
+  {
+    "w": "양고기",
+    "p": "yanggogi",
+    "m": "thịt cừu",
+    "cat": "health"
+  },
+  {
+    "w": "해산물",
+    "p": "haesanmul",
+    "m": "hải sản",
+    "cat": "health"
+  },
+  {
+    "w": "치료하다",
+    "p": "chiryohada",
+    "m": "điều trị",
+    "cat": "health"
+  },
+  {
+    "w": "검사",
+    "p": "geomsa",
+    "m": "kiểm tra, khám bệnh",
+    "cat": "health"
+  },
+  {
+    "w": "수술",
+    "p": "susul",
+    "m": "phẫu thuật",
+    "cat": "health"
+  },
+  {
+    "w": "체력",
+    "p": "cheryeok",
+    "m": "thể lực",
+    "cat": "health"
+  },
+  {
+    "w": "생활 방식",
+    "p": "saenghwal bangsik",
+    "m": "lối sống",
+    "cat": "health"
+  },
+  {
+    "w": "명상",
+    "p": "myeongsang",
+    "m": "thiền định",
+    "cat": "health"
+  },
+  {
+    "w": "손님",
+    "p": "sonnim",
+    "m": "khách",
+    "cat": "person"
+  },
+  {
+    "w": "자신",
+    "p": "jasin",
+    "m": "bản thân",
+    "cat": "person"
+  },
+  {
+    "w": "난민",
+    "p": "nanmin",
+    "m": "người tị nạn",
+    "cat": "person"
+  },
+  {
+    "w": "이민자",
+    "p": "iminja",
+    "m": "người nhập cư",
+    "cat": "person"
+  },
+  {
+    "w": "시민",
+    "p": "simin",
+    "m": "công dân",
+    "cat": "person"
+  },
+  {
+    "w": "국적",
+    "p": "gukjeok",
+    "m": "quốc tịch",
+    "cat": "person"
+  },
+  {
+    "w": "고아",
+    "p": "goa",
+    "m": "trẻ mồ côi",
+    "cat": "person"
+  },
+  {
+    "w": "과부",
+    "p": "gwabu",
+    "m": "người phụ nữ góa chồng",
+    "cat": "person"
+  },
+  {
+    "w": "청소년",
+    "p": "cheongsonyeon",
+    "m": "thanh thiếu niên",
+    "cat": "person"
+  },
+  {
+    "w": "멘토",
+    "p": "mento",
+    "m": "người cố vấn dìu dắt",
+    "cat": "person"
+  },
+  {
+    "w": "과외 선생님",
+    "p": "gwaoe seonsaengnim",
+    "m": "gia sư",
+    "cat": "person"
+  },
+  {
+    "w": "내과 의사",
+    "p": "naegwa uisa",
+    "m": "bác sĩ nội khoa",
+    "cat": "person"
+  },
+  {
+    "w": "특파원",
+    "p": "teukpawon",
+    "m": "phóng viên thường trú",
+    "cat": "person"
+  },
+  {
+    "w": "앵커",
+    "p": "aengkeo",
+    "m": "người dẫn chương trình",
+    "cat": "person"
+  },
+  {
+    "w": "학장",
+    "p": "hakjang",
+    "m": "trưởng khoa",
+    "cat": "person"
+  },
+  {
+    "w": "교수",
+    "p": "gyosu",
+    "m": "giáo sư",
+    "cat": "person"
+  },
+  {
+    "w": "대변인",
+    "p": "daebyeonin",
+    "m": "người phát ngôn",
+    "cat": "person"
+  },
+  {
+    "w": "인플루언서",
+    "p": "inpeulluenseo",
+    "m": "người có ảnh hưởng trên mạng",
+    "cat": "person"
+  },
+  {
+    "w": "팔로워",
+    "p": "pallowo",
+    "m": "người theo dõi",
+    "cat": "person"
+  },
+  {
+    "w": "후보",
+    "p": "hubo",
+    "m": "ứng cử viên",
+    "cat": "person"
+  },
+  {
+    "w": "대사",
+    "p": "daesa",
+    "m": "đại sứ",
+    "cat": "person"
+  },
+  {
+    "w": "조각가",
+    "p": "jokkakga",
+    "m": "nhà điêu khắc",
+    "cat": "person"
+  },
+  {
+    "w": "비평가",
+    "p": "bipyeongga",
+    "m": "nhà phê bình",
+    "cat": "person"
+  },
+  {
+    "w": "관중",
+    "p": "gwanjung",
+    "m": "khán giả (thể thao)",
+    "cat": "person"
+  },
+  {
+    "w": "챔피언",
+    "p": "chaempieon",
+    "m": "nhà vô địch",
+    "cat": "person"
+  },
+  {
+    "w": "가죽 구두",
+    "p": "gajuk gudu",
+    "m": "giày da",
+    "cat": "object"
+  },
+  {
+    "w": "파일 캐비닛",
+    "p": "pail kaebinit",
+    "m": "tủ đựng hồ sơ",
+    "cat": "object"
+  },
+  {
+    "w": "화이트보드",
+    "p": "hwaiteubodeu",
+    "m": "bảng trắng",
+    "cat": "object"
+  },
+  {
+    "w": "프로젝터",
+    "p": "peurojekteo",
+    "m": "máy chiếu",
+    "cat": "object"
+  },
+  {
+    "w": "가전제품",
+    "p": "gajeonjepum",
+    "m": "thiết bị gia dụng",
+    "cat": "object"
+  },
+  {
+    "w": "가죽",
+    "p": "gajuk",
+    "m": "da (thuộc)",
+    "cat": "object"
+  },
+  {
+    "w": "면직물",
+    "p": "myeonjingmul",
+    "m": "vải bông, cotton",
+    "cat": "object"
+  },
+  {
+    "w": "실크",
+    "p": "silkeu",
+    "m": "tơ lụa",
+    "cat": "object"
+  },
+  {
+    "w": "냉동고",
+    "p": "naengdonggo",
+    "m": "ngăn đông lạnh",
+    "cat": "object"
+  },
+  {
+    "w": "망치",
+    "p": "mangchi",
+    "m": "cái búa",
+    "cat": "object"
+  },
+  {
+    "w": "드라이버",
+    "p": "deuraibeo",
+    "m": "tua vít",
+    "cat": "object"
+  },
+  {
+    "w": "드릴",
+    "p": "deuril",
+    "m": "máy khoan",
+    "cat": "object"
+  },
+  {
+    "w": "유물",
+    "p": "yumul",
+    "m": "hiện vật, đồ tạo tác",
+    "cat": "object"
+  },
+  {
+    "w": "청진기",
+    "p": "cheongjingi",
+    "m": "ống nghe bác sĩ",
+    "cat": "object"
+  },
+  {
+    "w": "목발",
+    "p": "mokbal",
+    "m": "cái nạng",
+    "cat": "object"
+  },
+  {
+    "w": "마이크",
+    "p": "maikeu",
+    "m": "micrô",
+    "cat": "object"
+  },
+  {
+    "w": "삼각대",
+    "p": "samgakdae",
+    "m": "chân máy ảnh",
+    "cat": "object"
+  },
+  {
+    "w": "붓",
+    "p": "but",
+    "m": "cọ vẽ",
+    "cat": "object"
+  },
+  {
+    "w": "이젤",
+    "p": "ijel",
+    "m": "giá vẽ",
+    "cat": "object"
+  },
+  {
+    "w": "액자",
+    "p": "aekja",
+    "m": "khung tranh",
+    "cat": "object"
+  },
+  {
+    "w": "문장",
+    "p": "munjang",
+    "m": "câu (văn)",
+    "cat": "education"
+  },
+  {
+    "w": "유학",
+    "p": "yuhak",
+    "m": "du học",
+    "cat": "education"
+  },
+  {
+    "w": "학년",
+    "p": "hangnyeon",
+    "m": "khối lớp",
+    "cat": "education"
+  },
+  {
+    "w": "수학",
+    "p": "suhak",
+    "m": "toán học",
+    "cat": "education"
+  },
+  {
+    "w": "교장",
+    "p": "gyojang",
+    "m": "hiệu trưởng",
+    "cat": "education"
+  },
+  {
+    "w": "학기",
+    "p": "hakgi",
+    "m": "học kỳ",
+    "cat": "education"
+  },
+  {
+    "w": "문해력",
+    "p": "munhaeryeok",
+    "m": "khả năng đọc viết",
+    "cat": "education"
+  },
+  {
+    "w": "교육 제도",
+    "p": "gyoyuk jedo",
+    "m": "hệ thống giáo dục",
+    "cat": "education"
+  },
+  {
+    "w": "교과과정",
+    "p": "gyogwagwajeong",
+    "m": "chương trình học, đề cương",
+    "cat": "education"
+  },
+  {
+    "w": "등급",
+    "p": "deunggeup",
+    "m": "điểm số, xếp loại",
+    "cat": "education"
+  },
+  {
+    "w": "등록하다",
+    "p": "deungnokhada",
+    "m": "ghi danh, đăng ký học",
+    "cat": "education"
+  },
+  {
+    "w": "의무적이다",
+    "p": "uimujeogida",
+    "m": "bắt buộc",
+    "cat": "education"
+  },
+  {
+    "w": "선택 과목",
+    "p": "seontaek gwamok",
+    "m": "môn tự chọn",
+    "cat": "education"
+  },
+  {
+    "w": "출석",
+    "p": "chulseok",
+    "m": "sự tham dự, chuyên cần",
+    "cat": "education"
+  },
+  {
+    "w": "과제물",
+    "p": "gwajemul",
+    "m": "bài tập trong khóa học",
+    "cat": "education"
+  },
+  {
+    "w": "방과 후 활동",
+    "p": "banggwa hu hwaldong",
+    "m": "hoạt động ngoại khóa",
+    "cat": "education"
+  },
+  {
+    "w": "중학교",
+    "p": "junghakgyo",
+    "m": "trường trung học cơ sở",
+    "cat": "education"
+  },
+  {
+    "w": "직업 교육",
+    "p": "jigeop gyoyuk",
+    "m": "giáo dục hướng nghiệp",
+    "cat": "education"
+  },
+  {
+    "w": "기숙학교",
+    "p": "gisukhakgyo",
+    "m": "trường nội trú",
+    "cat": "education"
+  },
+  {
+    "w": "원격 학습",
+    "p": "wongyeok hakseup",
+    "m": "học từ xa",
+    "cat": "education"
+  },
+  {
+    "w": "지식",
+    "p": "jisik",
+    "m": "kiến thức",
+    "cat": "education"
+  },
+  {
+    "w": "토론하다",
+    "p": "toronhada",
+    "m": "thảo luận",
+    "cat": "education"
+  },
+  {
+    "w": "기억",
+    "p": "gieok",
+    "m": "ký ức, ghi nhớ",
+    "cat": "education"
+  },
+  {
+    "w": "장학금",
+    "p": "janghakgeum",
+    "m": "học bổng",
+    "cat": "education"
+  },
+  {
+    "w": "한자",
+    "p": "hanja",
+    "m": "chữ Hán",
+    "cat": "education"
+  },
+  {
+    "w": "어휘",
+    "p": "eohwi",
+    "m": "từ vựng",
+    "cat": "education"
+  },
+  {
+    "w": "번역",
+    "p": "beonyeok",
+    "m": "dịch thuật",
+    "cat": "education"
+  },
+  {
+    "w": "외국어",
+    "p": "oegugeo",
+    "m": "ngoại ngữ",
+    "cat": "education"
+  },
+  {
+    "w": "발전",
+    "p": "baljeon",
+    "m": "tiến bộ",
+    "cat": "education"
+  },
+  {
+    "w": "강의",
+    "p": "gangui",
+    "m": "bài giảng",
+    "cat": "education"
+  },
+  {
+    "w": "세미나",
+    "p": "seminar",
+    "m": "hội thảo nhóm nhỏ",
+    "cat": "education"
+  },
+  {
+    "w": "과제",
+    "p": "gwaje",
+    "m": "bài tập được giao",
+    "cat": "education"
+  },
+  {
+    "w": "에세이",
+    "p": "eseui",
+    "m": "bài luận",
+    "cat": "education"
+  },
+  {
+    "w": "논문",
+    "p": "nonmun",
+    "m": "luận văn",
+    "cat": "education"
+  },
+  {
+    "w": "실험",
+    "p": "silheom",
+    "m": "thí nghiệm",
+    "cat": "education"
+  },
+  {
+    "w": "실험실",
+    "p": "silheomsil",
+    "m": "phòng thí nghiệm",
+    "cat": "education"
+  },
+  {
+    "w": "조상",
+    "p": "josang",
+    "m": "tổ tiên",
+    "cat": "family"
+  },
+  {
+    "w": "친척",
+    "p": "chinchok",
+    "m": "họ hàng, người thân",
+    "cat": "family"
+  },
+  {
+    "w": "형제자매",
+    "p": "hyeongjejamae",
+    "m": "anh chị em ruột",
+    "cat": "family"
+  },
+  {
+    "w": "배우자",
+    "p": "baeuja",
+    "m": "vợ hoặc chồng",
+    "cat": "family"
+  },
+  {
+    "w": "계부",
+    "p": "gyebu",
+    "m": "cha dượng",
+    "cat": "family"
+  },
+  {
+    "w": "보호자",
+    "p": "bohoja",
+    "m": "người giám hộ",
+    "cat": "family"
+  },
+  {
+    "w": "결혼기념일",
+    "p": "gyeolhon ginyeomil",
+    "m": "kỷ niệm ngày cưới",
+    "cat": "family"
+  },
+  {
+    "w": "약혼",
+    "p": "yakhon",
+    "m": "đám hỏi, đính hôn",
+    "cat": "family"
+  },
+  {
+    "w": "신생아",
+    "p": "sinsaenga",
+    "m": "trẻ sơ sinh",
+    "cat": "family"
+  },
+  {
+    "w": "입양",
+    "p": "ibyang",
+    "m": "sự nhận con nuôi",
+    "cat": "family"
+  },
+  {
+    "w": "가족 모임",
+    "p": "gajok moim",
+    "m": "buổi họp mặt, đoàn tụ",
+    "cat": "family"
+  },
+  {
+    "w": "장례식",
+    "p": "jangnyesik",
+    "m": "đám tang",
+    "cat": "family"
+  },
+  {
+    "w": "유산",
+    "p": "yusan",
+    "m": "tài sản thừa kế",
+    "cat": "family"
+  },
+  {
+    "w": "양육권",
+    "p": "yangyukgwon",
+    "m": "quyền nuôi con",
+    "cat": "family"
+  },
+  {
+    "w": "별거",
+    "p": "byeolgeo",
+    "m": "sự ly thân",
+    "cat": "family"
+  },
+  {
+    "w": "후손",
+    "p": "huson",
+    "m": "con cháu, hậu duệ",
+    "cat": "family"
+  },
+  {
+    "w": "부고",
+    "p": "bugo",
+    "m": "cáo phó",
+    "cat": "family"
+  },
+  {
+    "w": "피로연",
+    "p": "piroyeon",
+    "m": "tiệc cưới",
+    "cat": "family"
+  },
+  {
+    "w": "신부 들러리",
+    "p": "sinbu deulleori",
+    "m": "phù dâu",
+    "cat": "family"
+  },
+  {
+    "w": "신랑 들러리",
+    "p": "sinrang deulleori",
+    "m": "phù rể",
+    "cat": "family"
+  },
+  {
+    "w": "서약",
+    "p": "seoyak",
+    "m": "lời thề, lời hứa thiêng liêng",
+    "cat": "family"
+  },
+  {
+    "w": "축배",
+    "p": "chukbae",
+    "m": "nâng ly chúc mừng",
+    "cat": "family"
+  },
+  {
+    "w": "위탁 부모",
+    "p": "witak bumo",
+    "m": "cha mẹ nuôi tạm thời",
+    "cat": "family"
+  },
+  {
+    "w": "대부모",
+    "p": "daebumo",
+    "m": "cha mẹ đỡ đầu",
+    "cat": "family"
+  },
+  {
+    "w": "환전",
+    "p": "hwanjeon",
+    "m": "đổi ngoại tệ",
+    "cat": "money"
+  },
+  {
+    "w": "기부",
+    "p": "gibu",
+    "m": "sự quyên góp",
+    "cat": "money"
+  },
+  {
+    "w": "세금",
+    "p": "segeum",
+    "m": "thuế",
+    "cat": "money"
+  },
+  {
+    "w": "대출",
+    "p": "daechul",
+    "m": "khoản vay",
+    "cat": "money"
+  },
+  {
+    "w": "이자율",
+    "p": "ijayul",
+    "m": "lãi suất",
+    "cat": "money"
+  },
+  {
+    "w": "청구서",
+    "p": "cheongguseo",
+    "m": "hóa đơn (nhà hàng/dịch vụ)",
+    "cat": "money"
+  },
+  {
+    "w": "공과금",
+    "p": "gonggwageum",
+    "m": "hóa đơn điện nước",
+    "cat": "money"
+  },
+  {
+    "w": "부동산",
+    "p": "budongsan",
+    "m": "bất động sản, tài sản",
+    "cat": "money"
+  },
+  {
+    "w": "구독",
+    "p": "gudok",
+    "m": "đăng ký dài hạn, thuê bao",
+    "cat": "money"
+  },
+  {
+    "w": "기금",
+    "p": "gigeum",
+    "m": "quỹ, tài trợ",
+    "cat": "money"
+  },
+  {
+    "w": "보조금",
+    "p": "bojogeum",
+    "m": "trợ cấp, tài trợ",
+    "cat": "money"
+  },
+  {
+    "w": "임금",
+    "p": "imgeum",
+    "m": "lương, tiền công",
+    "cat": "money"
+  },
+  {
+    "w": "생활비",
+    "p": "saenghwalbi",
+    "m": "chi phí sinh hoạt",
+    "cat": "money"
+  },
+  {
+    "w": "빚",
+    "p": "bit",
+    "m": "nợ",
+    "cat": "money"
+  },
+  {
+    "w": "구매",
+    "p": "gumae",
+    "m": "mua hàng",
+    "cat": "money"
+  },
+  {
+    "w": "거래",
+    "p": "georae",
+    "m": "giao dịch",
+    "cat": "money"
+  },
+  {
+    "w": "잔액",
+    "p": "janaek",
+    "m": "số dư tài khoản",
+    "cat": "money"
+  },
+  {
+    "w": "체크카드",
+    "p": "chekeukadeu",
+    "m": "thẻ ghi nợ",
+    "cat": "money"
+  },
+  {
+    "w": "수수료",
+    "p": "susuryo",
+    "m": "phí dịch vụ",
+    "cat": "money"
+  },
+  {
+    "w": "최저임금",
+    "p": "choejeoimgeum",
+    "m": "lương tối thiểu",
+    "cat": "money"
+  },
+  {
+    "w": "할부",
+    "p": "halbu",
+    "m": "trả góp",
+    "cat": "money"
+  },
+  {
+    "w": "태양광 패널",
+    "p": "taeyanggwang paenel",
+    "m": "tấm pin năng lượng mặt trời",
+    "cat": "technology"
+  },
+  {
+    "w": "헤드라인",
+    "p": "hedeurain",
+    "m": "tiêu đề tin tức",
+    "cat": "technology"
+  },
+  {
+    "w": "방송",
+    "p": "bangsong",
+    "m": "phát sóng, truyền hình",
+    "cat": "technology"
+  },
+  {
+    "w": "팟캐스트",
+    "p": "patkaeseuteu",
+    "m": "podcast",
+    "cat": "technology"
+  },
+  {
+    "w": "실시간 방송",
+    "p": "silsigan bangsong",
+    "m": "phát trực tiếp",
+    "cat": "technology"
+  },
+  {
+    "w": "검색 엔진",
+    "p": "geomsaek enjin",
+    "m": "công cụ tìm kiếm",
+    "cat": "technology"
+  },
+  {
+    "w": "사용자 이름",
+    "p": "sayongja ireum",
+    "m": "tên đăng nhập",
+    "cat": "technology"
+  },
+  {
+    "w": "설치하다",
+    "p": "seolchihada",
+    "m": "cài đặt",
+    "cat": "technology"
+  },
+  {
+    "w": "파일",
+    "p": "pail",
+    "m": "tệp tin",
+    "cat": "technology"
+  },
+  {
+    "w": "저장 공간",
+    "p": "jeojang gonggan",
+    "m": "bộ nhớ lưu trữ",
+    "cat": "technology"
+  },
+  {
+    "w": "클릭하다",
+    "p": "keullikhada",
+    "m": "nhấp chuột",
+    "cat": "technology"
+  },
+  {
+    "w": "스크롤하다",
+    "p": "seukeurolhada",
+    "m": "cuộn trang",
+    "cat": "technology"
+  },
+  {
+    "w": "첨부 파일",
+    "p": "cheombu pail",
+    "m": "tệp đính kèm",
+    "cat": "technology"
+  },
+  {
+    "w": "받은 편지함",
+    "p": "badeun pyeonjiham",
+    "m": "hộp thư đến",
+    "cat": "technology"
+  },
+  {
+    "w": "스팸",
+    "p": "seupaem",
+    "m": "thư rác",
+    "cat": "technology"
+  },
+  {
+    "w": "구독하다",
+    "p": "gudokhada",
+    "m": "đăng ký theo dõi",
+    "cat": "technology"
+  },
+  {
+    "w": "차단하다",
+    "p": "chadanhada",
+    "m": "chặn người dùng",
+    "cat": "technology"
+  },
+  {
+    "w": "해시태그",
+    "p": "haesitaegeu",
+    "m": "thẻ hashtag",
+    "cat": "technology"
+  },
+  {
+    "w": "이모티콘",
+    "p": "imotikon",
+    "m": "biểu tượng cảm xúc",
+    "cat": "technology"
+  },
+  {
+    "w": "스크린샷",
+    "p": "seukeurinsyat",
+    "m": "ảnh chụp màn hình",
+    "cat": "technology"
+  },
+  {
+    "w": "식욕",
+    "p": "sigyok",
+    "m": "sự thèm ăn, khẩu vị",
+    "cat": "food"
+  },
+  {
+    "w": "썰다",
+    "p": "sseolda",
+    "m": "chặt, băm nhỏ",
+    "cat": "food"
+  },
+  {
+    "w": "바삭하다",
+    "p": "basakhada",
+    "m": "giòn, giòn rụm",
+    "cat": "food"
+  },
+  {
+    "w": "음식 문화",
+    "p": "eumsik munhwa",
+    "m": "nền ẩm thực",
+    "cat": "food"
+  },
+  {
+    "w": "요리",
+    "p": "yori",
+    "m": "món ăn",
+    "cat": "food"
+  },
+  {
+    "w": "풍미",
+    "p": "pungmi",
+    "m": "hương vị, mùi vị",
+    "cat": "food"
+  },
+  {
+    "w": "소스",
+    "p": "soseu",
+    "m": "nước sốt",
+    "cat": "food"
+  },
+  {
+    "w": "얇게 썰다",
+    "p": "yapge sseolda",
+    "m": "thái lát",
+    "cat": "food"
+  },
+  {
+    "w": "젓다",
+    "p": "jeotda",
+    "m": "khuấy, đảo",
+    "cat": "food"
+  },
+  {
+    "w": "팬케이크",
+    "p": "paenkeikeu",
+    "m": "bánh kếp",
+    "cat": "food"
+  },
+  {
+    "w": "와플",
+    "p": "wapeul",
+    "m": "bánh quế",
+    "cat": "food"
+  },
+  {
+    "w": "오믈렛",
+    "p": "omeullet",
+    "m": "trứng tráng",
+    "cat": "food"
+  },
+  {
+    "w": "시리얼",
+    "p": "sirieol",
+    "m": "ngũ cốc ăn sáng",
+    "cat": "food"
+  },
+  {
+    "w": "스튜",
+    "p": "seutyu",
+    "m": "món hầm",
+    "cat": "food"
+  },
+  {
+    "w": "카레",
+    "p": "kare",
+    "m": "cà ri",
+    "cat": "food"
+  },
+  {
+    "w": "볶음 요리",
+    "p": "bokkeum yori",
+    "m": "món xào",
+    "cat": "food"
+  },
+  {
+    "w": "수프",
+    "p": "supeu",
+    "m": "súp",
+    "cat": "food"
+  },
+  {
+    "w": "푸딩",
+    "p": "puding",
+    "m": "bánh pudding",
+    "cat": "food"
+  },
+  {
+    "w": "파이",
+    "p": "pai",
+    "m": "bánh nhân, pie",
+    "cat": "food"
+  },
+  {
+    "w": "얼마나",
+    "p": "eolmana",
+    "m": "biết bao",
+    "cat": "adverb"
+  },
+  {
+    "w": "틀림없이",
+    "p": "teullimeopsi",
+    "m": "chắc chắn, nhất định",
+    "cat": "adverb"
+  },
+  {
+    "w": "합계",
+    "p": "hapgye",
+    "m": "tổng cộng",
+    "cat": "adverb"
+  },
+  {
+    "w": "정직하게",
+    "p": "jeongjikhage",
+    "m": "một cách thành thật",
+    "cat": "adverb"
+  },
+  {
+    "w": "조심스럽게",
+    "p": "josimseureopge",
+    "m": "một cách cẩn thận",
+    "cat": "adverb"
+  },
+  {
+    "w": "현재",
+    "p": "hyeonjae",
+    "m": "hiện tại, hiện nay",
+    "cat": "adverb"
+  },
+  {
+    "w": "상당히",
+    "p": "sangdanghi",
+    "m": "đáng kể",
+    "cat": "adverb"
+  },
+  {
+    "w": "놀랍게도",
+    "p": "nollapgedo",
+    "m": "một cách đáng ngạc nhiên",
+    "cat": "adverb"
+  },
+  {
+    "w": "다행히",
+    "p": "dahaenghi",
+    "m": "thật may mắn",
+    "cat": "adverb"
+  },
+  {
+    "w": "사실상",
+    "p": "sasilsang",
+    "m": "trên thực tế",
+    "cat": "adverb"
+  },
+  {
+    "w": "전통적으로",
+    "p": "jeontongjeogeuro",
+    "m": "theo truyền thống",
+    "cat": "adverb"
+  },
+  {
+    "w": "흔히",
+    "p": "heunhi",
+    "m": "thường gặp, phổ biến",
+    "cat": "adverb"
+  },
+  {
+    "w": "정기적으로",
+    "p": "jeonggijeogeuro",
+    "m": "đều đặn, thường xuyên",
+    "cat": "adverb"
+  },
+  {
+    "w": "드물게",
+    "p": "deumulge",
+    "m": "hiếm khi",
+    "cat": "adverb"
+  },
+  {
+    "w": "전 세계적으로",
+    "p": "jeon segyejeogeuro",
+    "m": "trên toàn cầu",
+    "cat": "adverb"
+  },
+  {
+    "w": "따로",
+    "p": "ttaro",
+    "m": "riêng biệt",
+    "cat": "adverb"
+  },
+  {
+    "w": "지금까지",
+    "p": "jigeumkkaji",
+    "m": "cho đến nay",
+    "cat": "adverb"
+  },
+  {
+    "w": "적어도",
+    "p": "jeogeodo",
+    "m": "ít nhất là",
+    "cat": "adverb"
+  },
+  {
+    "w": "결국",
+    "p": "gyeolguk",
+    "m": "dù sao thì, rốt cuộc",
+    "cat": "adverb"
+  },
+  {
+    "w": "무엇보다도",
+    "p": "mueotbodado",
+    "m": "trên hết",
+    "cat": "adverb"
+  },
+  {
+    "w": "처음에는",
+    "p": "cheoeumeneun",
+    "m": "lúc đầu",
+    "cat": "adverb"
+  },
+  {
+    "w": "결국에는",
+    "p": "gyeolgugeneun",
+    "m": "cuối cùng",
+    "cat": "adverb"
+  },
+  {
+    "w": "온실가스",
+    "p": "onsilgaseu",
+    "m": "khí nhà kính",
+    "cat": "nature"
+  },
+  {
+    "w": "재생 에너지",
+    "p": "jaesaeng eneoji",
+    "m": "năng lượng tái tạo",
+    "cat": "nature"
+  },
+  {
+    "w": "풍력 발전기",
+    "p": "pungnyeok baljeongi",
+    "m": "tua bin gió",
+    "cat": "nature"
+  },
+  {
+    "w": "산호초",
+    "p": "sanhocho",
+    "m": "rạn san hô",
+    "cat": "nature"
+  },
+  {
+    "w": "대기질",
+    "p": "daegijil",
+    "m": "chất lượng không khí",
+    "cat": "nature"
+  },
+  {
+    "w": "절벽",
+    "p": "jeolbyeok",
+    "m": "vách đá",
+    "cat": "nature"
+  },
+  {
+    "w": "동굴",
+    "p": "donggul",
+    "m": "hang động",
+    "cat": "nature"
+  },
+  {
+    "w": "조수",
+    "p": "josu",
+    "m": "thủy triều",
+    "cat": "nature"
+  },
+  {
+    "w": "파도",
+    "p": "pado",
+    "m": "sóng biển",
+    "cat": "nature"
+  },
+  {
+    "w": "조약돌",
+    "p": "joyakdol",
+    "m": "viên cuội, sỏi",
+    "cat": "nature"
+  },
+  {
+    "w": "수확",
+    "p": "suhwak",
+    "m": "mùa gặt, thu hoạch",
+    "cat": "nature"
+  },
+  {
+    "w": "농작물",
+    "p": "nongjangmul",
+    "m": "cây trồng, vụ mùa",
+    "cat": "nature"
+  },
+  {
+    "w": "목초지",
+    "p": "mokchoji",
+    "m": "đồng cỏ, bãi chăn thả",
+    "cat": "nature"
+  },
+  {
+    "w": "초원",
+    "p": "chowon",
+    "m": "đồng cỏ, thảo nguyên",
+    "cat": "nature"
+  },
+  {
+    "w": "나무 줄기",
+    "p": "namu julgi",
+    "m": "thân cây",
+    "cat": "nature"
+  },
+  {
+    "w": "이주",
+    "p": "iju",
+    "m": "sự di cư",
+    "cat": "nature"
+  },
+  {
+    "w": "대양",
+    "p": "daeyang",
+    "m": "đại dương",
+    "cat": "nature"
+  },
+  {
+    "w": "화산",
+    "p": "hwasan",
+    "m": "núi lửa",
+    "cat": "nature"
+  },
+  {
+    "w": "항공편",
+    "p": "hanggongpyeon",
+    "m": "chuyến bay",
+    "cat": "travel"
+  },
+  {
+    "w": "여행 가이드",
+    "p": "yeohaeng gaideu",
+    "m": "hướng dẫn viên du lịch",
+    "cat": "travel"
+  },
+  {
+    "w": "관광지",
+    "p": "gwangwangji",
+    "m": "điểm tham quan",
+    "cat": "travel"
+  },
+  {
+    "w": "방향",
+    "p": "banghyang",
+    "m": "hướng, phương hướng",
+    "cat": "travel"
+  },
+  {
+    "w": "길을 잃다",
+    "p": "gireul ilta",
+    "m": "lạc đường",
+    "cat": "travel"
+  },
+  {
+    "w": "근처",
+    "p": "geuncheo",
+    "m": "gần đây, xung quanh",
+    "cat": "travel"
+  },
+  {
+    "w": "간격",
+    "p": "gangyeok",
+    "m": "khoảng cách",
+    "cat": "travel"
+  },
+  {
+    "w": "길을 묻다",
+    "p": "gireul mutda",
+    "m": "hỏi đường",
+    "cat": "travel"
+  },
+  {
+    "w": "체크인하다",
+    "p": "chekeuinhada",
+    "m": "nhận phòng",
+    "cat": "travel"
+  },
+  {
+    "w": "관광객",
+    "p": "gwangwanggaek",
+    "m": "khách du lịch",
+    "cat": "travel"
+  },
+  {
+    "w": "승객",
+    "p": "seunggaek",
+    "m": "hành khách",
+    "cat": "travel"
+  },
+  {
+    "w": "여정",
+    "p": "yeojeong",
+    "m": "hành trình du lịch",
+    "cat": "travel"
+  },
+  {
+    "w": "명소",
+    "p": "myeongso",
+    "m": "danh lam thắng cảnh",
+    "cat": "travel"
+  },
+  {
+    "w": "숙소",
+    "p": "sukso",
+    "m": "chỗ ở, nơi lưu trú",
+    "cat": "travel"
+  },
+  {
+    "w": "목적지",
+    "p": "mokjeokji",
+    "m": "điểm đến",
+    "cat": "travel"
+  },
+  {
+    "w": "짧은 여행",
+    "p": "jjalbeun yeohaeng",
+    "m": "chuyến tham quan ngắn",
+    "cat": "travel"
+  },
+  {
+    "w": "캐리어",
+    "p": "kaerieo",
+    "m": "vali",
+    "cat": "travel"
+  },
+  {
+    "w": "항공사",
+    "p": "hanggongsa",
+    "m": "hãng hàng không",
+    "cat": "travel"
+  },
+  {
+    "w": "팸플릿",
+    "p": "paempeullit",
+    "m": "tờ quảng cáo, tập gấp",
+    "cat": "travel"
+  },
+  {
+    "w": "캠핑장",
+    "p": "kaempingjang",
+    "m": "khu cắm trại",
+    "cat": "travel"
+  },
+  {
+    "w": "대사관",
+    "p": "daesagwan",
+    "m": "đại sứ quán",
+    "cat": "travel"
+  },
+  {
+    "w": "선박",
+    "p": "seonbak",
+    "m": "thuyền, tàu thủy",
+    "cat": "transport"
+  },
+  {
+    "w": "통근하다",
+    "p": "tonggeunhada",
+    "m": "đi làm hàng ngày",
+    "cat": "transport"
+  },
+  {
+    "w": "출발",
+    "p": "chulbal",
+    "m": "sự khởi hành",
+    "cat": "transport"
+  },
+  {
+    "w": "기내 수하물",
+    "p": "ginae suhamul",
+    "m": "hành lý xách tay",
+    "cat": "transport"
+  },
+  {
+    "w": "여행자 보험",
+    "p": "yeohaengja boheom",
+    "m": "bảo hiểm du lịch",
+    "cat": "transport"
+  },
+  {
+    "w": "환승 항공편",
+    "p": "hwanseung hanggongpyeon",
+    "m": "chuyến bay nối chuyến",
+    "cat": "transport"
+  },
+  {
+    "w": "시간표",
+    "p": "siganpyo",
+    "m": "thời gian biểu",
+    "cat": "transport"
+  },
+  {
+    "w": "대중교통",
+    "p": "daejunggyotong",
+    "m": "giao thông công cộng",
+    "cat": "transport"
+  },
+  {
+    "w": "교통 체증",
+    "p": "gyotong chejeung",
+    "m": "tắc đường",
+    "cat": "transport"
+  },
+  {
+    "w": "승차하다",
+    "p": "seungchahada",
+    "m": "lên xe",
+    "cat": "transport"
+  },
+  {
+    "w": "검표하다",
+    "p": "geompyohada",
+    "m": "kiểm tra vé",
+    "cat": "transport"
+  },
+  {
+    "w": "농촌",
+    "p": "nongchon",
+    "m": "nông thôn",
+    "cat": "place"
+  },
+  {
+    "w": "경찰서",
+    "p": "gyeongchalseo",
+    "m": "đồn cảnh sát",
+    "cat": "place"
+  },
+  {
+    "w": "북방",
+    "p": "bukbang",
+    "m": "miền Bắc",
+    "cat": "place"
+  },
+  {
+    "w": "가이드 투어",
+    "p": "gaideu tueo",
+    "m": "tour có hướng dẫn viên",
+    "cat": "place"
+  },
+  {
+    "w": "기념비",
+    "p": "ginyeombi",
+    "m": "tượng đài, di tích",
+    "cat": "place"
+  },
+  {
+    "w": "교외",
+    "p": "gyooe",
+    "m": "vùng ngoại ô",
+    "cat": "place"
+  },
+  {
+    "w": "병동",
+    "p": "byeongdong",
+    "m": "phòng bệnh viện",
+    "cat": "place"
+  },
+  {
+    "w": "사원",
+    "p": "sawon",
+    "m": "đền thờ, miếu",
+    "cat": "place"
+  },
+  {
+    "w": "대성당",
+    "p": "daeseongdang",
+    "m": "nhà thờ lớn",
+    "cat": "place"
+  },
+  {
+    "w": "행사장",
+    "p": "haengsajang",
+    "m": "địa điểm tổ chức sự kiện",
+    "cat": "place"
+  },
+  {
+    "w": "스튜디오",
+    "p": "seutyudio",
+    "m": "phòng thu âm/nghệ thuật",
+    "cat": "place"
+  },
+  {
+    "w": "성곽",
+    "p": "seonggwak",
+    "m": "lâu đài, thành quách",
+    "cat": "place"
+  },
+  {
+    "w": "구역",
+    "p": "guyeok",
+    "m": "quận, huyện, khu vực",
+    "cat": "place"
+  },
+  {
+    "w": "도심",
+    "p": "dosim",
+    "m": "trung tâm thành phố",
+    "cat": "place"
+  },
+  {
+    "w": "항구",
+    "p": "hanggu",
+    "m": "bến cảng",
+    "cat": "place"
+  },
+  {
+    "w": "인도",
+    "p": "indo",
+    "m": "vỉa hè",
+    "cat": "place"
+  },
+  {
+    "w": "시대",
+    "p": "sidae",
+    "m": "thời đại, kỷ nguyên",
+    "cat": "time"
+  },
+  {
+    "w": "분기",
+    "p": "bungi",
+    "m": "quý (3 tháng)",
+    "cat": "time"
+  },
+  {
+    "w": "이정표",
+    "p": "ijeongpyo",
+    "m": "cột mốc quan trọng",
+    "cat": "time"
+  },
+  {
+    "w": "황혼",
+    "p": "hwanghon",
+    "m": "hoàng hôn, chạng vạng",
+    "cat": "time"
+  },
+  {
+    "w": "매달",
+    "p": "maedal",
+    "m": "hằng tháng",
+    "cat": "time"
+  },
+  {
+    "w": "영구적이다",
+    "p": "yeongujeogida",
+    "m": "lâu dài, vĩnh viễn",
+    "cat": "time"
+  },
+  {
+    "w": "지각하다",
+    "p": "jigakhada",
+    "m": "đến muộn",
+    "cat": "time"
+  },
+  {
+    "w": "오래",
+    "p": "orae",
+    "m": "lâu",
+    "cat": "time"
+  },
+  {
+    "w": "잠깐",
+    "p": "jamkkan",
+    "m": "một lát",
+    "cat": "time"
+  },
+  {
+    "w": "연초",
+    "p": "yeoncho",
+    "m": "đầu năm",
+    "cat": "time"
+  },
+  {
+    "w": "연말",
+    "p": "yeonmal",
+    "m": "cuối năm",
+    "cat": "time"
+  },
+  {
+    "w": "공휴일",
+    "p": "gonghyuil",
+    "m": "ngày lễ, ngày nghỉ",
+    "cat": "time"
+  },
+  {
+    "w": "근무일",
+    "p": "geunmuil",
+    "m": "ngày làm việc",
+    "cat": "time"
+  },
+  {
+    "w": "휴가철",
+    "p": "hyugacheol",
+    "m": "kỳ nghỉ",
+    "cat": "time"
+  },
+  {
+    "w": "현지 음식",
+    "p": "hyeonji eumsik",
+    "m": "ẩm thực địa phương",
+    "cat": "food"
+  },
+  {
+    "w": "길거리 음식",
+    "p": "gilgeori eumsik",
+    "m": "đồ ăn đường phố",
+    "cat": "food"
+  },
+  {
+    "w": "채식하다",
+    "p": "chaesikhada",
+    "m": "ăn chay",
+    "cat": "food"
+  },
+  {
+    "w": "애피타이저",
+    "p": "aepitaijeo",
+    "m": "món khai vị",
+    "cat": "food"
+  },
+  {
+    "w": "메인 요리",
+    "p": "mein yori",
+    "m": "món chính",
+    "cat": "food"
+  },
+  {
+    "w": "뷔페",
+    "p": "bwipe",
+    "m": "tiệc buffet",
+    "cat": "food"
+  },
+  {
+    "w": "프로그램",
+    "p": "peurogeuraem",
+    "m": "chương trình",
+    "cat": "entertainment"
+  },
+  {
+    "w": "자수",
+    "p": "jasu",
+    "m": "thêu thùa",
+    "cat": "entertainment"
+  },
+  {
+    "w": "스케치하다",
+    "p": "seuketchihada",
+    "m": "phác họa",
+    "cat": "entertainment"
+  },
+  {
+    "w": "새 관찰",
+    "p": "sae gwanchal",
+    "m": "ngắm chim",
+    "cat": "entertainment"
+  },
+  {
+    "w": "별 보기",
+    "p": "byeol bogi",
+    "m": "ngắm sao",
+    "cat": "entertainment"
+  },
+  {
+    "w": "낱말 퍼즐",
+    "p": "natmal peojeul",
+    "m": "ô chữ",
+    "cat": "entertainment"
+  },
+  {
+    "w": "노래방에 가다",
+    "p": "noraebange gada",
+    "m": "hát karaoke",
+    "cat": "entertainment"
+  },
+  {
+    "w": "저글링",
+    "p": "jeogeulling",
+    "m": "tung hứng",
+    "cat": "entertainment"
+  },
+  {
+    "w": "종이접기",
+    "p": "jongijeopgi",
+    "m": "gấp giấy, origami",
+    "cat": "entertainment"
+  },
+  {
+    "w": "목공예",
+    "p": "mokgongye",
+    "m": "làm đồ gỗ",
+    "cat": "entertainment"
+  },
+  {
+    "w": "손실",
+    "p": "sonsil",
+    "m": "thua lỗ, tổn thất",
+    "cat": "business"
+  },
+  {
+    "w": "주주",
+    "p": "juju",
+    "m": "cổ đông",
+    "cat": "business"
+  },
+  {
+    "w": "경쟁자",
+    "p": "gyeongjaengja",
+    "m": "đối thủ cạnh tranh",
+    "cat": "business"
+  },
+  {
+    "w": "소비자",
+    "p": "sobija",
+    "m": "người tiêu dùng",
+    "cat": "business"
+  },
+  {
+    "w": "합병",
+    "p": "hapbyeong",
+    "m": "sự sáp nhập",
+    "cat": "business"
+  },
+  {
+    "w": "송장",
+    "p": "songjang",
+    "m": "hóa đơn (thương mại)",
+    "cat": "business"
+  },
+  {
+    "w": "물가 상승",
+    "p": "mulga sangseung",
+    "m": "lạm phát",
+    "cat": "business"
+  },
+  {
+    "w": "경기 침체",
+    "p": "gyeonggi chimche",
+    "m": "suy thoái kinh tế",
+    "cat": "business"
+  },
+  {
+    "w": "후원자",
+    "p": "huwonja",
+    "m": "nhà tài trợ",
+    "cat": "business"
+  },
+  {
+    "w": "사업을 운영하다",
+    "p": "sabeobeul unyeonghada",
+    "m": "điều hành doanh nghiệp",
+    "cat": "business"
+  },
+  {
+    "w": "제품을 출시하다",
+    "p": "jepumeul chulsihada",
+    "m": "ra mắt sản phẩm",
+    "cat": "business"
+  },
+  {
+    "w": "이윤을 늘리다",
+    "p": "iyuneul neullida",
+    "m": "tăng lợi nhuận",
+    "cat": "business"
+  },
+  {
+    "w": "경제",
+    "p": "gyeongje",
+    "m": "kinh tế",
+    "cat": "business"
+  },
+  {
+    "w": "국회",
+    "p": "gukhoe",
+    "m": "nghị viện, quốc hội",
+    "cat": "politics"
+  },
+  {
+    "w": "헌법",
+    "p": "heonbeop",
+    "m": "hiến pháp",
+    "cat": "politics"
+  },
+  {
+    "w": "검열",
+    "p": "geomyeol",
+    "m": "kiểm duyệt",
+    "cat": "politics"
+  },
+  {
+    "w": "보도자료",
+    "p": "bodojaryo",
+    "m": "thông cáo báo chí",
+    "cat": "politics"
+  },
+  {
+    "w": "기자회견",
+    "p": "gijahoegyeon",
+    "m": "họp báo",
+    "cat": "politics"
+  },
+  {
+    "w": "성명",
+    "p": "seongmyeong",
+    "m": "tuyên bố, phát biểu",
+    "cat": "politics"
+  },
+  {
+    "w": "정당",
+    "p": "jeongdang",
+    "m": "đảng phái",
+    "cat": "politics"
+  },
+  {
+    "w": "조약",
+    "p": "joyak",
+    "m": "hiệp ước",
+    "cat": "politics"
+  },
+  {
+    "w": "제재",
+    "p": "jejae",
+    "m": "trừng phạt kinh tế",
+    "cat": "politics"
+  },
+  {
+    "w": "외교",
+    "p": "oegyo",
+    "m": "ngoại giao",
+    "cat": "politics"
+  },
+  {
+    "w": "정치",
+    "p": "jeongchi",
+    "m": "chính trị",
+    "cat": "politics"
+  },
+  {
+    "w": "오염",
+    "p": "oyeom",
+    "m": "ô nhiễm",
+    "cat": "environment"
+  },
+  {
+    "w": "재활용",
+    "p": "jaehwaryong",
+    "m": "tái chế",
+    "cat": "environment"
+  },
+  {
+    "w": "재생 가능하다",
+    "p": "jaesaeng ganeunghada",
+    "m": "có thể tái tạo",
+    "cat": "environment"
+  },
+  {
+    "w": "지속 가능하다",
+    "p": "jisok ganeunghada",
+    "m": "bền vững",
+    "cat": "environment"
+  },
+  {
+    "w": "지구 온난화",
+    "p": "jigu onnanhwa",
+    "m": "nóng lên toàn cầu",
+    "cat": "environment"
+  },
+  {
+    "w": "탄소 발자국",
+    "p": "tanso baljaguk",
+    "m": "dấu chân carbon",
+    "cat": "environment"
+  },
+  {
+    "w": "배출",
+    "p": "baechul",
+    "m": "khí thải",
+    "cat": "environment"
+  },
+  {
+    "w": "화석 연료",
+    "p": "hwaseok yeonnyo",
+    "m": "nhiên liệu hóa thạch",
+    "cat": "environment"
+  },
+  {
+    "w": "태양 에너지",
+    "p": "taeyang eneoji",
+    "m": "năng lượng mặt trời",
+    "cat": "environment"
+  },
+  {
+    "w": "삼림 파괴",
+    "p": "samrim pagoe",
+    "m": "phá rừng",
+    "cat": "environment"
+  },
+  {
+    "w": "서식지",
+    "p": "seosikji",
+    "m": "môi trường sống",
+    "cat": "environment"
+  },
+  {
+    "w": "멸종 위기에 처하다",
+    "p": "myeoljong wigie cheohada",
+    "m": "có nguy cơ tuyệt chủng",
+    "cat": "environment"
+  },
+  {
+    "w": "보전",
+    "p": "bojeon",
+    "m": "bảo tồn",
+    "cat": "environment"
+  },
+  {
+    "w": "생물 다양성",
+    "p": "saengmul dayangseong",
+    "m": "đa dạng sinh học",
+    "cat": "environment"
+  },
+  {
+    "w": "생태계",
+    "p": "saengtaegye",
+    "m": "hệ sinh thái",
+    "cat": "environment"
+  },
+  {
+    "w": "지진",
+    "p": "jijin",
+    "m": "động đất",
+    "cat": "environment"
+  },
+  {
+    "w": "산불",
+    "p": "sanbul",
+    "m": "cháy rừng",
+    "cat": "environment"
+  },
+  {
+    "w": "빙하",
+    "p": "bingha",
+    "m": "sông băng",
+    "cat": "environment"
+  },
+  {
+    "w": "대기",
+    "p": "daegi",
+    "m": "khí quyển",
+    "cat": "environment"
+  },
+  {
+    "w": "유독하다",
+    "p": "yudokhada",
+    "m": "độc hại",
+    "cat": "environment"
+  },
+  {
+    "w": "폐기물",
+    "p": "pyegimul",
+    "m": "chất thải, rác thải",
+    "cat": "environment"
+  },
+  {
+    "w": "친환경적이다",
+    "p": "chinhwangyeongjeogida",
+    "m": "thân thiện môi trường",
+    "cat": "environment"
+  },
+  {
+    "w": "그린 에너지",
+    "p": "geurin eneoji",
+    "m": "năng lượng xanh",
+    "cat": "environment"
+  },
+  {
+    "w": "기후 변화",
+    "p": "gihu byeonhwa",
+    "m": "biến đổi khí hậu",
+    "cat": "environment"
+  },
+  {
+    "w": "오존층",
+    "p": "ojoncheung",
+    "m": "tầng ozone",
+    "cat": "environment"
+  },
+  {
+    "w": "열대 우림",
+    "p": "yeoldae urim",
+    "m": "rừng nhiệt đới",
+    "cat": "environment"
+  },
+  {
+    "w": "멸종되다",
+    "p": "myeoljongdoeda",
+    "m": "tuyệt chủng",
+    "cat": "environment"
+  },
+  {
+    "w": "야생 동물",
+    "p": "yasaeng dongmul",
+    "m": "động vật hoang dã",
+    "cat": "environment"
+  },
+  {
+    "w": "오염시키다",
+    "p": "oyeomsikida",
+    "m": "làm ô nhiễm",
+    "cat": "environment"
+  },
+  {
+    "w": "재사용하다",
+    "p": "jaesayonghada",
+    "m": "tái sử dụng",
+    "cat": "environment"
+  },
+  {
+    "w": "요리사",
+    "p": "yorisa",
+    "m": "đầu bếp",
+    "cat": "job"
+  },
+  {
+    "w": "종업원",
+    "p": "jongeobwon",
+    "m": "nhân viên phục vụ",
+    "cat": "job"
+  },
+  {
+    "w": "과학자",
+    "p": "gwahakja",
+    "m": "nhà khoa học",
+    "cat": "job"
+  },
+  {
+    "w": "우편배달부",
+    "p": "upyeonbaedalbu",
+    "m": "người đưa thư",
+    "cat": "job"
+  },
+  {
+    "w": "소방관",
+    "p": "sobanggwan",
+    "m": "lính cứu hỏa",
+    "cat": "job"
+  },
+  {
+    "w": "조종사",
+    "p": "jojongsa",
+    "m": "phi công",
+    "cat": "job"
+  },
+  {
+    "w": "노동자",
+    "p": "nodongja",
+    "m": "công nhân, thợ",
+    "cat": "job"
+  },
+  {
+    "w": "평균",
+    "p": "pyeonggyun",
+    "m": "trung bình",
+    "cat": "number"
+  },
+  {
+    "w": "다수",
+    "p": "dasu",
+    "m": "đa số",
+    "cat": "number"
+  },
+  {
+    "w": "소수",
+    "p": "sosu",
+    "m": "thiểu số",
+    "cat": "number"
+  },
+  {
+    "w": "두 배",
+    "p": "du bae",
+    "m": "gấp đôi",
+    "cat": "number"
+  },
+  {
+    "w": "세 배",
+    "p": "se bae",
+    "m": "gấp ba",
+    "cat": "number"
+  },
+  {
+    "w": "다스",
+    "p": "daseu",
+    "m": "một tá (12 cái)",
+    "cat": "number"
+  },
+  {
+    "w": "목재",
+    "p": "mokjae",
+    "m": "gỗ (vật liệu)",
+    "cat": "material"
+  },
+  {
+    "w": "철",
+    "p": "cheol",
+    "m": "sắt",
+    "cat": "material"
+  },
+  {
+    "w": "금",
+    "p": "geum",
+    "m": "vàng, kim loại quý",
+    "cat": "material"
+  },
+  {
+    "w": "플라스틱",
+    "p": "peullaseutik",
+    "m": "nhựa, chất dẻo",
+    "cat": "material"
+  },
+  {
+    "w": "유리",
+    "p": "yuri",
+    "m": "kính, thủy tinh",
+    "cat": "material"
+  },
+  {
+    "w": "풍습",
+    "p": "pungseup",
+    "m": "phong tục, tập quán",
+    "cat": "culture"
+  },
+  {
+    "w": "민족",
+    "p": "minjok",
+    "m": "dân tộc",
+    "cat": "culture"
+  },
+  {
+    "w": "공동체",
+    "p": "gongdongche",
+    "m": "cộng đồng",
+    "cat": "culture"
+  },
+  {
+    "w": "무용",
+    "p": "muyong",
+    "m": "vũ điệu, múa",
+    "cat": "culture"
+  },
+  {
+    "w": "무술",
+    "p": "musul",
+    "m": "võ thuật",
+    "cat": "culture"
+  },
+  {
+    "w": "유적",
+    "p": "yujeok",
+    "m": "di tích cổ",
+    "cat": "culture"
+  },
+  {
+    "w": "궁전",
+    "p": "gungjeon",
+    "m": "cung điện",
+    "cat": "culture"
+  },
+  {
+    "w": "예식",
+    "p": "yesik",
+    "m": "nghi lễ, buổi lễ",
+    "cat": "culture"
+  },
+  {
+    "w": "언어 장벽",
+    "p": "eoneo jangbyeok",
+    "m": "rào cản ngôn ngữ",
+    "cat": "culture"
+  },
+  {
+    "w": "고정관념",
+    "p": "gojeonggwannyeom",
+    "m": "định kiến, khuôn mẫu",
+    "cat": "culture"
+  },
+  {
+    "w": "다문화의",
+    "p": "damunhwaui",
+    "m": "đa văn hóa",
+    "cat": "culture"
+  },
+  {
+    "w": "이중 언어의",
+    "p": "ijung eoneoui",
+    "m": "thông thạo hai ngôn ngữ",
+    "cat": "culture"
+  },
+  {
+    "w": "예절",
+    "p": "yejeol",
+    "m": "nghi thức, phép tắc xã giao",
+    "cat": "culture"
+  },
+  {
+    "w": "민속",
+    "p": "minsok",
+    "m": "văn hóa dân gian",
+    "cat": "culture"
+  },
+  {
+    "w": "전설",
+    "p": "jeonseol",
+    "m": "huyền thoại, truyền thuyết",
+    "cat": "culture"
+  },
+  {
+    "w": "신성하다",
+    "p": "sinseonghada",
+    "m": "thiêng liêng, thánh thiện",
+    "cat": "culture"
+  },
+  {
+    "w": "금기",
+    "p": "geumgi",
+    "m": "điều cấm kỵ",
+    "cat": "culture"
+  },
+  {
+    "w": "미신",
+    "p": "misin",
+    "m": "mê tín dị đoan",
+    "cat": "culture"
+  },
+  {
+    "w": "유행",
+    "p": "yuhaeng",
+    "m": "thời trang, xu hướng",
+    "cat": "culture"
+  },
+  {
+    "w": "유명 인사",
+    "p": "yumyeong insa",
+    "m": "người nổi tiếng",
+    "cat": "culture"
+  },
+  {
+    "w": "우상",
+    "p": "usang",
+    "m": "thần tượng",
+    "cat": "culture"
+  },
+  {
+    "w": "대중문화",
+    "p": "daejungmunhwa",
+    "m": "văn hóa đại chúng",
+    "cat": "culture"
+  },
+  {
+    "w": "건축",
+    "p": "geonchuk",
+    "m": "kiến trúc",
+    "cat": "culture"
+  },
+  {
+    "w": "연회",
+    "p": "yeonhoe",
+    "m": "tiệc lớn",
+    "cat": "culture"
+  },
+  {
+    "w": "신화",
+    "p": "sinhwa",
+    "m": "thần thoại",
+    "cat": "culture"
+  },
+  {
+    "w": "연극",
+    "p": "yeongeuk",
+    "m": "kịch",
+    "cat": "art"
+  },
+  {
+    "w": "촬영",
+    "p": "chwaryeong",
+    "m": "nhiếp ảnh, quay phim",
+    "cat": "art"
+  },
+  {
+    "w": "작가",
+    "p": "jakga",
+    "m": "nhà văn",
+    "cat": "art"
+  },
+  {
+    "w": "화가",
+    "p": "hwaga",
+    "m": "họa sĩ",
+    "cat": "art"
+  },
+  {
+    "w": "음악가",
+    "p": "eumakga",
+    "m": "nhạc sĩ",
+    "cat": "art"
+  },
+  {
+    "w": "가수",
+    "p": "gasu",
+    "m": "ca sĩ",
+    "cat": "art"
+  },
+  {
+    "w": "배우",
+    "p": "baeu",
+    "m": "diễn viên",
+    "cat": "art"
+  },
+  {
+    "w": "감독",
+    "p": "gamdok",
+    "m": "đạo diễn",
+    "cat": "art"
+  },
+  {
+    "w": "흥행",
+    "p": "heunghaeng",
+    "m": "doanh thu phòng vé",
+    "cat": "art"
+  },
+  {
+    "w": "무대",
+    "p": "mudae",
+    "m": "sân khấu",
+    "cat": "art"
+  },
+  {
+    "w": "저자",
+    "p": "jeoja",
+    "m": "tác giả",
+    "cat": "art"
+  },
+  {
+    "w": "줄거리",
+    "p": "julgeori",
+    "m": "cốt truyện",
+    "cat": "art"
+  },
+  {
+    "w": "등장인물",
+    "p": "deungjanginmul",
+    "m": "nhân vật (trong truyện/phim)",
+    "cat": "art"
+  },
+  {
+    "w": "장르",
+    "p": "jangneu",
+    "m": "thể loại",
+    "cat": "art"
+  },
+  {
+    "w": "전기",
+    "p": "jeongi",
+    "m": "tiểu sử",
+    "cat": "art"
+  },
+  {
+    "w": "가사",
+    "p": "gasa",
+    "m": "lời bài hát",
+    "cat": "art"
+  },
+  {
+    "w": "작곡가",
+    "p": "jakgokga",
+    "m": "nhạc sĩ sáng tác",
+    "cat": "art"
+  },
+  {
+    "w": "지휘자",
+    "p": "jihwija",
+    "m": "nhạc trưởng",
+    "cat": "art"
+  },
+  {
+    "w": "리허설",
+    "p": "riheoseol",
+    "m": "buổi tập (biểu diễn)",
+    "cat": "art"
+  },
+  {
+    "w": "박수",
+    "p": "baksu",
+    "m": "tiếng vỗ tay",
+    "cat": "art"
+  },
+  {
+    "w": "초상화",
+    "p": "chosanghwa",
+    "m": "chân dung",
+    "cat": "art"
+  },
+  {
+    "w": "풍경화",
+    "p": "punggyeonghwa",
+    "m": "bức tranh phong cảnh",
+    "cat": "art"
+  },
+  {
+    "w": "건축가",
+    "p": "geonchukga",
+    "m": "kiến trúc sư",
+    "cat": "art"
+  },
+  {
+    "w": "다큐멘터리",
+    "p": "dakyumenteori",
+    "m": "phim tài liệu",
+    "cat": "art"
+  },
+  {
+    "w": "오케스트라",
+    "p": "okeseuteura",
+    "m": "dàn nhạc giao hưởng",
+    "cat": "art"
+  },
+  {
+    "w": "걸작",
+    "p": "geoljak",
+    "m": "kiệt tác",
+    "cat": "art"
+  },
+  {
+    "w": "리듬",
+    "p": "rideum",
+    "m": "nhịp điệu",
+    "cat": "art"
+  },
+  {
+    "w": "멜로디",
+    "p": "mellodi",
+    "m": "giai điệu",
+    "cat": "art"
+  },
+  {
+    "w": "후렴구",
+    "p": "huryeomgu",
+    "m": "điệp khúc",
+    "cat": "art"
+  },
+  {
+    "w": "밴드",
+    "p": "baendeu",
+    "m": "ban nhạc",
+    "cat": "art"
+  },
+  {
+    "w": "빈곤",
+    "p": "bingon",
+    "m": "nghèo đói",
+    "cat": "society"
+  },
+  {
+    "w": "불평등",
+    "p": "bulpyeongdeung",
+    "m": "bất bình đẳng",
+    "cat": "society"
+  },
+  {
+    "w": "차별",
+    "p": "chabyeol",
+    "m": "phân biệt đối xử",
+    "cat": "society"
+  },
+  {
+    "w": "다양성",
+    "p": "dayangseong",
+    "m": "sự đa dạng",
+    "cat": "society"
+  },
+  {
+    "w": "인권",
+    "p": "ingwon",
+    "m": "nhân quyền",
+    "cat": "society"
+  },
+  {
+    "w": "정의",
+    "p": "jeongui",
+    "m": "công lý",
+    "cat": "society"
+  },
+  {
+    "w": "민주주의",
+    "p": "minjujuui",
+    "m": "dân chủ",
+    "cat": "society"
+  },
+  {
+    "w": "부패",
+    "p": "bupae",
+    "m": "tham nhũng",
+    "cat": "society"
+  },
+  {
+    "w": "시위",
+    "p": "siwi",
+    "m": "biểu tình",
+    "cat": "society"
+  },
+  {
+    "w": "캠페인",
+    "p": "kaempein",
+    "m": "chiến dịch",
+    "cat": "society"
+  },
+  {
+    "w": "자선단체",
+    "p": "jaseondanche",
+    "m": "tổ chức từ thiện",
+    "cat": "society"
+  },
+  {
+    "w": "종교",
+    "p": "jonggyo",
+    "m": "tôn giáo",
+    "cat": "society"
+  },
+  {
+    "w": "신념",
+    "p": "sinnyeom",
+    "m": "niềm tin, tín ngưỡng",
+    "cat": "society"
+  },
+  {
+    "w": "선거",
+    "p": "seongeo",
+    "m": "cuộc bầu cử",
+    "cat": "society"
+  },
+  {
+    "w": "개혁",
+    "p": "gaehyeok",
+    "m": "cải cách",
+    "cat": "society"
+  },
+  {
+    "w": "도전",
+    "p": "dojeon",
+    "m": "thách thức",
+    "cat": "society"
+  },
+  {
+    "w": "해결책",
+    "p": "haegyeolchaek",
+    "m": "giải pháp",
+    "cat": "society"
+  },
+  {
+    "w": "영향",
+    "p": "yeonghyang",
+    "m": "tác động, ảnh hưởng",
+    "cat": "society"
+  },
+  {
+    "w": "여론",
+    "p": "yeoron",
+    "m": "dư luận, ý kiến chung",
+    "cat": "society"
+  },
+  {
+    "w": "인종차별",
+    "p": "injongchabyeol",
+    "m": "chủ nghĩa phân biệt chủng tộc",
+    "cat": "society"
+  },
+  {
+    "w": "성평등",
+    "p": "seongpyeongdeung",
+    "m": "bình đẳng giới",
+    "cat": "society"
+  },
+  {
+    "w": "노숙자",
+    "p": "nosukja",
+    "m": "người vô gia cư",
+    "cat": "society"
+  },
+  {
+    "w": "실업률",
+    "p": "sireomnyul",
+    "m": "tỷ lệ thất nghiệp",
+    "cat": "society"
+  },
+  {
+    "w": "범죄율",
+    "p": "beomjoeyul",
+    "m": "tỷ lệ tội phạm",
+    "cat": "society"
+  },
+  {
+    "w": "가짜 뉴스",
+    "p": "gajja nyuseu",
+    "m": "tin tức giả mạo",
+    "cat": "society"
+  },
+  {
+    "w": "옮기다",
+    "p": "omgida",
+    "m": "chuyển, khiêng",
+    "cat": "verb"
+  },
+  {
+    "w": "마중 나가다",
+    "p": "majung nagada",
+    "m": "đón",
+    "cat": "verb"
+  },
+  {
+    "w": "목격하다",
+    "p": "mokgyeokhada",
+    "m": "nhìn thấy, chứng kiến",
+    "cat": "verb"
+  },
+  {
+    "w": "떠나다",
+    "p": "tteonada",
+    "m": "rời khỏi",
+    "cat": "verb"
+  },
+  {
+    "w": "요구하다",
+    "p": "yoguhada",
+    "m": "yêu cầu",
+    "cat": "verb"
+  },
+  {
+    "w": "마주치다",
+    "p": "majuchida",
+    "m": "gặp phải, chạm trán",
+    "cat": "verb"
+  },
+  {
+    "w": "돌보다",
+    "p": "dolboda",
+    "m": "chăm sóc",
+    "cat": "verb"
+  },
+  {
+    "w": "전달하다",
+    "p": "jeondalhada",
+    "m": "chuyển tiếp, truyền đạt",
+    "cat": "verb"
+  },
+  {
+    "w": "협력하다",
+    "p": "hyeomnyeokhada",
+    "m": "hợp tác cùng nhau",
+    "cat": "verb"
+  },
+  {
+    "w": "제출하다",
+    "p": "jechulhada",
+    "m": "nộp (bài/hồ sơ)",
+    "cat": "verb"
+  },
+  {
+    "w": "해고하다",
+    "p": "haegohada",
+    "m": "sa thải",
+    "cat": "verb"
+  },
+  {
+    "w": "인식하다",
+    "p": "insikhada",
+    "m": "nhận biết, nhận thức",
+    "cat": "verb"
+  },
+  {
+    "w": "지지하다",
+    "p": "jijihada",
+    "m": "ủng hộ, hỗ trợ",
+    "cat": "verb"
+  },
+  {
+    "w": "절약하다",
+    "p": "jeoryakhada",
+    "m": "tiết kiệm",
+    "cat": "verb"
+  },
+  {
+    "w": "증가하다",
+    "p": "jeunggahada",
+    "m": "tăng thêm",
+    "cat": "verb"
+  },
+  {
+    "w": "감소하다",
+    "p": "gamsohada",
+    "m": "giảm bớt",
+    "cat": "verb"
+  },
+  {
+    "w": "감상하다",
+    "p": "gamsanghada",
+    "m": "thưởng thức, ngắm",
+    "cat": "verb"
+  },
+  {
+    "w": "사진을 찍다",
+    "p": "sajineul jjikda",
+    "m": "chụp ảnh",
+    "cat": "verb"
+  },
+  {
+    "w": "질문하다",
+    "p": "jilmunhada",
+    "m": "đặt câu hỏi",
+    "cat": "verb"
+  },
+  {
+    "w": "조직하다",
+    "p": "jojikhada",
+    "m": "tổ chức",
+    "cat": "verb"
+  },
+  {
+    "w": "통보하다",
+    "p": "tongbohada",
+    "m": "thông báo",
+    "cat": "verb"
+  },
+  {
+    "w": "응답하다",
+    "p": "eungdaphada",
+    "m": "trả lời, phản hồi",
+    "cat": "verb"
+  },
+  {
+    "w": "전송하다",
+    "p": "jeonsonghada",
+    "m": "gửi",
+    "cat": "verb"
+  },
+  {
+    "w": "수신하다",
+    "p": "susinhada",
+    "m": "nhận, tiếp nhận",
+    "cat": "verb"
+  },
+  {
+    "w": "침식",
+    "p": "chimsik",
+    "m": "xói mòn đất",
+    "cat": "nature"
+  },
+  {
+    "w": "자갈",
+    "p": "jagal",
+    "m": "viên cuội, sỏi",
+    "cat": "nature"
+  },
+  {
+    "w": "이동",
+    "p": "idong",
+    "m": "sự di cư, di chuyển",
+    "cat": "nature"
+  },
+  {
+    "w": "산들바람",
+    "p": "sandeulbaram",
+    "m": "gió nhẹ, làn gió",
+    "cat": "nature"
+  },
+  {
+    "w": "에너지",
+    "p": "eneoji",
+    "m": "năng lượng",
+    "cat": "nature"
+  },
+  {
+    "w": "표면",
+    "p": "pyomyeon",
+    "m": "bề mặt",
+    "cat": "nature"
+  },
+  {
+    "w": "까마귀",
+    "p": "kkamagwi",
+    "m": "quạ",
+    "cat": "nature"
+  },
+  {
+    "w": "까치",
+    "p": "kkachi",
+    "m": "chim ác là",
+    "cat": "nature"
+  },
+  {
+    "w": "딱따구리",
+    "p": "ttakttaguri",
+    "m": "chim gõ kiến",
+    "cat": "nature"
+  },
+  {
+    "w": "신비롭다",
+    "p": "sinbiropda",
+    "m": "kỳ diệu, huyền bí",
+    "cat": "adjective"
+  },
+  {
+    "w": "익명의",
+    "p": "ingmyeongui",
+    "m": "ẩn danh",
+    "cat": "adjective"
+  },
+  {
+    "w": "현대의",
+    "p": "hyeondaeui",
+    "m": "đương đại, hiện đại",
+    "cat": "adjective"
+  },
+  {
+    "w": "고대의",
+    "p": "godaeui",
+    "m": "cổ đại, xưa",
+    "cat": "adjective"
+  },
+  {
+    "w": "민족의",
+    "p": "minjogui",
+    "m": "thuộc về dân tộc",
+    "cat": "adjective"
+  },
+  {
+    "w": "종교적이다",
+    "p": "jonggyojeogida",
+    "m": "thuộc về tôn giáo",
+    "cat": "adjective"
+  },
+  {
+    "w": "영적이다",
+    "p": "yeongjeogida",
+    "m": "thuộc về tinh thần, tâm linh",
+    "cat": "adjective"
+  },
+  {
+    "w": "세속적이다",
+    "p": "sesokjeogida",
+    "m": "thế tục, không tôn giáo",
+    "cat": "adjective"
+  },
+  {
+    "w": "포괄적이다",
+    "p": "pogwaljeogida",
+    "m": "bao gồm tất cả",
+    "cat": "adjective"
+  },
+  {
+    "w": "배타적이다",
+    "p": "baetajeogida",
+    "m": "độc quyền, loại trừ",
+    "cat": "adjective"
+  },
+  {
+    "w": "국가의",
+    "p": "gukgaui",
+    "m": "quốc gia, dân tộc",
+    "cat": "adjective"
+  },
+  {
+    "w": "국제적이다",
+    "p": "gukjejeogida",
+    "m": "quốc tế",
+    "cat": "adjective"
+  },
+  {
+    "w": "문구류",
+    "p": "mungyuryu",
+    "m": "văn phòng phẩm",
+    "cat": "work"
+  },
+  {
+    "w": "전화 회의",
+    "p": "jeonhwa hoeui",
+    "m": "cuộc họp qua điện thoại",
+    "cat": "work"
+  },
+  {
+    "w": "접수원",
+    "p": "jeopsuwon",
+    "m": "lễ tân",
+    "cat": "work"
+  },
+  {
+    "w": "정비사",
+    "p": "jeongbisa",
+    "m": "thợ cơ khí, thợ sửa xe",
+    "cat": "work"
+  },
+  {
+    "w": "웨이터",
+    "p": "weiteo",
+    "m": "bồi bàn (nam)",
+    "cat": "work"
+  },
+  {
+    "w": "심리 치료사",
+    "p": "simni chiryosa",
+    "m": "nhà trị liệu, chuyên gia tâm lý",
+    "cat": "work"
+  },
+  {
+    "w": "사회복지사",
+    "p": "sahoebokjisa",
+    "m": "nhân viên xã hội",
+    "cat": "work"
+  },
+  {
+    "w": "수습생",
+    "p": "suseupsaeng",
+    "m": "người học việc",
+    "cat": "work"
+  },
+  {
+    "w": "마감을 지키다",
+    "p": "magameul jikida",
+    "m": "hoàn thành đúng hạn",
+    "cat": "work"
+  },
+  {
+    "w": "장기 목표",
+    "p": "janggi mokpyo",
+    "m": "mục tiêu dài hạn",
+    "cat": "work"
+  },
+  {
+    "w": "단기 계획",
+    "p": "dangi gyehoek",
+    "m": "kế hoạch ngắn hạn",
+    "cat": "work"
+  },
+  {
+    "w": "워라밸",
+    "p": "worabael",
+    "m": "cân bằng công việc-cuộc sống",
+    "cat": "work"
+  },
+  {
+    "w": "시간 관리",
+    "p": "sigan gwalli",
+    "m": "quản lý thời gian",
+    "cat": "work"
+  },
+  {
+    "w": "담당하다",
+    "p": "damdanghada",
+    "m": "chịu trách nhiệm về, phụ trách",
+    "cat": "work"
+  },
+  {
+    "w": "아쉽다",
+    "p": "aswipda",
+    "m": "tiếc nuối",
+    "cat": "emotion"
+  },
+  {
+    "w": "안도감",
+    "p": "andogam",
+    "m": "sự nhẹ nhõm, thuyên giảm",
+    "cat": "emotion"
+  },
+  {
+    "w": "외로움",
+    "p": "oeroum",
+    "m": "cảm giác cô đơn",
+    "cat": "emotion"
+  },
+  {
+    "w": "수치심",
+    "p": "suchisim",
+    "m": "xấu hổ",
+    "cat": "emotion"
+  },
+  {
+    "w": "결심",
+    "p": "gyeolsim",
+    "m": "sự quyết tâm",
+    "cat": "emotion"
+  },
+  {
+    "w": "용기",
+    "p": "yonggi",
+    "m": "lòng can đảm",
+    "cat": "emotion"
+  },
+  {
+    "w": "관람하다",
+    "p": "gwallamhada",
+    "m": "tham quan",
+    "cat": "travel"
+  },
+  {
+    "w": "둘러보다",
+    "p": "dulleoboda",
+    "m": "tham quan, dạo xem",
+    "cat": "travel"
+  },
+  {
+    "w": "세관",
+    "p": "segwan",
+    "m": "hải quan",
+    "cat": "travel"
+  },
+  {
+    "w": "출입국 관리",
+    "p": "churipguk gwalli",
+    "m": "xuất nhập cảnh",
+    "cat": "travel"
+  },
+  {
+    "w": "통화",
+    "p": "tonghwa",
+    "m": "tiền tệ",
+    "cat": "travel"
+  },
+  {
+    "w": "취소",
+    "p": "chwiso",
+    "m": "sự hủy bỏ",
+    "cat": "travel"
+  },
+  {
+    "w": "탐험하다",
+    "p": "tamheomhada",
+    "m": "khám phá",
+    "cat": "travel"
+  },
+  {
+    "w": "추천하다",
+    "p": "chucheonhada",
+    "m": "giới thiệu, đề xuất",
+    "cat": "travel"
+  },
+  {
+    "w": "경로",
+    "p": "gyeongno",
+    "m": "tuyến đường",
+    "cat": "travel"
+  },
+  {
+    "w": "회복",
+    "p": "hoebok",
+    "m": "sự hồi phục",
+    "cat": "health"
+  },
+  {
+    "w": "호흡기의",
+    "p": "hoheupgiui",
+    "m": "thuộc về hô hấp",
+    "cat": "health"
+  },
+  {
+    "w": "소화기의",
+    "p": "sohwagiui",
+    "m": "thuộc về tiêu hóa",
+    "cat": "health"
+  },
+  {
+    "w": "멍",
+    "p": "meong",
+    "m": "vết bầm tím",
+    "cat": "health"
+  },
+  {
+    "w": "질병",
+    "p": "jilbyeong",
+    "m": "bệnh, bệnh tật",
+    "cat": "health"
+  },
+  {
+    "w": "두통",
+    "p": "dutong",
+    "m": "đau đầu, nhức đầu",
+    "cat": "health"
+  },
+  {
+    "w": "고통스럽다",
+    "p": "gotongseureopda",
+    "m": "đau đớn, gây đau",
+    "cat": "health"
+  },
+  {
+    "w": "독",
+    "p": "dok",
+    "m": "chất độc, thuốc độc",
+    "cat": "health"
+  },
+  {
+    "w": "정신 건강",
+    "p": "jeongsin geongang",
+    "m": "sức khỏe tâm thần",
+    "cat": "health"
+  },
+  {
+    "w": "우울증",
+    "p": "uuljeung",
+    "m": "trầm cảm",
+    "cat": "health"
+  },
+  {
+    "w": "치료",
+    "p": "chiryo",
+    "m": "liệu pháp, trị liệu",
+    "cat": "health"
+  },
+  {
+    "w": "라켓",
+    "p": "raket",
+    "m": "vợt",
+    "cat": "object"
+  },
+  {
+    "w": "그물",
+    "p": "geumul",
+    "m": "lưới",
+    "cat": "object"
+  },
+  {
+    "w": "바늘",
+    "p": "baneul",
+    "m": "kim khâu",
+    "cat": "object"
+  },
+  {
+    "w": "면도기",
+    "p": "myeondogi",
+    "m": "dao cạo",
+    "cat": "object"
+  },
+  {
+    "w": "밧줄",
+    "p": "batjul",
+    "m": "dây thừng",
+    "cat": "object"
+  },
+  {
+    "w": "끈",
+    "p": "kkeun",
+    "m": "dây, sợi dây mảnh",
+    "cat": "object"
+  },
+  {
+    "w": "낙제하다",
+    "p": "nakjehada",
+    "m": "trượt (kỳ thi)",
+    "cat": "education"
+  },
+  {
+    "w": "직업 훈련",
+    "p": "jigeop hullyeon",
+    "m": "đào tạo hướng nghiệp",
+    "cat": "education"
+  },
+  {
+    "w": "온라인 강좌",
+    "p": "ollain gangjwa",
+    "m": "khóa học trực tuyến",
+    "cat": "education"
+  },
+  {
+    "w": "워크숍",
+    "p": "wokeusyop",
+    "m": "xưởng thực hành, hội thảo",
+    "cat": "education"
+  },
+  {
+    "w": "현장 학습",
+    "p": "hyeonjang hakseup",
+    "m": "chuyến tham quan thực tế",
+    "cat": "education"
+  },
+  {
+    "w": "구술 시험",
+    "p": "gusul siheom",
+    "m": "thi vấn đáp",
+    "cat": "education"
+  },
+  {
+    "w": "필기시험",
+    "p": "pilgisiheom",
+    "m": "thi viết",
+    "cat": "education"
+  },
+  {
+    "w": "학부",
+    "p": "hakbu",
+    "m": "khoa, bậc đại học",
+    "cat": "education"
+  },
+  {
+    "w": "홀아비",
+    "p": "horabi",
+    "m": "người đàn ông góa vợ",
+    "cat": "person"
+  },
+  {
+    "w": "준우승자",
+    "p": "junuseungja",
+    "m": "á quân",
+    "cat": "person"
+  },
+  {
+    "w": "예술가",
+    "p": "yesulga",
+    "m": "nghệ sĩ",
+    "cat": "person"
+  },
+  {
+    "w": "무용수",
+    "p": "muyongsu",
+    "m": "vũ công",
+    "cat": "person"
+  },
+  {
+    "w": "남자 배우",
+    "p": "namja baeu",
+    "m": "diễn viên nam",
+    "cat": "person"
+  },
+  {
+    "w": "상대",
+    "p": "sangdae",
+    "m": "đối thủ",
+    "cat": "person"
+  },
+  {
+    "w": "팀원",
+    "p": "timwon",
+    "m": "đồng đội",
+    "cat": "person"
+  },
+  {
+    "w": "지인",
+    "p": "jiin",
+    "m": "người quen",
+    "cat": "person"
+  },
+  {
+    "w": "성인",
+    "p": "seongin",
+    "m": "người lớn, người trưởng thành",
+    "cat": "person"
+  },
+  {
+    "w": "동행자",
+    "p": "donghaengja",
+    "m": "bạn đồng hành",
+    "cat": "person"
+  },
+  {
+    "w": "군중",
+    "p": "gunjung",
+    "m": "đám đông",
+    "cat": "person"
+  },
+  {
+    "w": "전문가",
+    "p": "jeonmunga",
+    "m": "chuyên gia",
+    "cat": "person"
+  },
+  {
+    "w": "외국인",
+    "p": "oegugin",
+    "m": "người nước ngoài",
+    "cat": "person"
+  },
+  {
+    "w": "주민",
+    "p": "jumin",
+    "m": "cư dân, người dân",
+    "cat": "person"
+  },
+  {
+    "w": "소유주",
+    "p": "soyuju",
+    "m": "chủ sở hữu",
+    "cat": "person"
+  },
+  {
+    "w": "정치인",
+    "p": "jeongchiin",
+    "m": "chính trị gia",
+    "cat": "person"
+  },
+  {
+    "w": "석쇠에 굽다",
+    "p": "seokssoee gupda",
+    "m": "nướng vỉ",
+    "cat": "food"
+  },
+  {
+    "w": "오븐에 굽다",
+    "p": "obeune gupda",
+    "m": "quay, nướng lò",
+    "cat": "food"
+  },
+  {
+    "w": "오트밀",
+    "p": "oteumil",
+    "m": "cháo yến mạch",
+    "cat": "food"
+  },
+  {
+    "w": "타르트",
+    "p": "tareuteu",
+    "m": "bánh tart",
+    "cat": "food"
+  },
+  {
+    "w": "머핀",
+    "p": "meopin",
+    "m": "bánh nướng xốp",
+    "cat": "food"
+  },
+  {
+    "w": "도넛",
+    "p": "doneot",
+    "m": "bánh vòng, donut",
+    "cat": "food"
+  },
+  {
+    "w": "비스킷",
+    "p": "biseukit",
+    "m": "bánh quy",
+    "cat": "food"
+  },
+  {
+    "w": "크래커",
+    "p": "keuraekeo",
+    "m": "bánh quy giòn",
+    "cat": "food"
+  },
+  {
+    "w": "잼",
+    "p": "jaem",
+    "m": "mứt",
+    "cat": "food"
+  },
+  {
+    "w": "꿀",
+    "p": "kkul",
+    "m": "mật ong",
+    "cat": "food"
+  },
+  {
+    "w": "그레이비 소스",
+    "p": "geureibi soseu",
+    "m": "nước thịt sệt",
+    "cat": "food"
+  },
+  {
+    "w": "드레싱",
+    "p": "deuresing",
+    "m": "sốt trộn salad",
+    "cat": "food"
+  },
+  {
+    "w": "더욱",
+    "p": "deouk",
+    "m": "càng, hơn nữa",
+    "cat": "adverb"
+  },
+  {
+    "w": "극히",
+    "p": "geukhi",
+    "m": "cực kỳ",
+    "cat": "adverb"
+  },
+  {
+    "w": "그렇지만",
+    "p": "geureochiman",
+    "m": "dù vậy, tuy nhiên",
+    "cat": "adverb"
+  },
+  {
+    "w": "즉시",
+    "p": "jeuksi",
+    "m": "ngay lập tức",
+    "cat": "adverb"
+  },
+  {
+    "w": "지금부터",
+    "p": "jigeumbuteo",
+    "m": "từ bây giờ trở đi",
+    "cat": "adverb"
+  },
+  {
+    "w": "서둘러서",
+    "p": "seodulleoseo",
+    "m": "vội vàng, trong lúc hối hả",
+    "cat": "adverb"
+  },
+  {
+    "w": "그런데",
+    "p": "geureonde",
+    "m": "nhân tiện, mà",
+    "cat": "adverb"
+  },
+  {
+    "w": "조금씩",
+    "p": "jogeumssik",
+    "m": "từng chút một, dần dần",
+    "cat": "adverb"
+  },
+  {
+    "w": "그럼에도 불구하고",
+    "p": "geureomedo bulguhago",
+    "m": "dù vậy, mặc dù thế",
+    "cat": "adverb"
+  },
+  {
+    "w": "그 후에",
+    "p": "geu hue",
+    "m": "sau đó, về sau",
+    "cat": "adverb"
+  },
+  {
+    "w": "구체적으로",
+    "p": "guchejeogeuro",
+    "m": "cụ thể là",
+    "cat": "adverb"
+  },
+  {
+    "w": "선수권 대회",
+    "p": "seonsugwon daehoe",
+    "m": "giải vô địch",
+    "cat": "sport"
+  },
+  {
+    "w": "메달",
+    "p": "medal",
+    "m": "huy chương",
+    "cat": "sport"
+  },
+  {
+    "w": "트로피",
+    "p": "teuropi",
+    "m": "cúp (thể thao)",
+    "cat": "sport"
+  },
+  {
+    "w": "팬",
+    "p": "paen",
+    "m": "người hâm mộ",
+    "cat": "sport"
+  },
+  {
+    "w": "패배",
+    "p": "paebae",
+    "m": "sự thất bại, đánh bại",
+    "cat": "sport"
+  },
+  {
+    "w": "승리",
+    "p": "seungni",
+    "m": "chiến thắng",
+    "cat": "sport"
+  },
+  {
+    "w": "무승부",
+    "p": "museungbu",
+    "m": "hòa (tỷ số)",
+    "cat": "sport"
+  },
+  {
+    "w": "페널티",
+    "p": "penalti",
+    "m": "phạt đền",
+    "cat": "sport"
+  },
+  {
+    "w": "예선 통과하다",
+    "p": "yeseon tonggwahada",
+    "m": "vượt vòng loại",
+    "cat": "sport"
+  },
+  {
+    "w": "기록",
+    "p": "girok",
+    "m": "kỷ lục",
+    "cat": "sport"
+  },
+  {
+    "w": "육상 트랙",
+    "p": "yuksang teuraek",
+    "m": "đường đua",
+    "cat": "sport"
+  },
+  {
+    "w": "스키를 타다",
+    "p": "seukireul tada",
+    "m": "trượt tuyết",
+    "cat": "sport"
+  },
+  {
+    "w": "맏이",
+    "p": "madi",
+    "m": "con cả, lớn nhất",
+    "cat": "family"
+  },
+  {
+    "w": "막내",
+    "p": "magnae",
+    "m": "con út, nhỏ nhất",
+    "cat": "family"
+  },
+  {
+    "w": "핵가족",
+    "p": "haekgajok",
+    "m": "gia đình hạt nhân",
+    "cat": "family"
+  },
+  {
+    "w": "대가족",
+    "p": "daegajok",
+    "m": "gia đình mở rộng, đại gia đình",
+    "cat": "family"
+  },
+  {
+    "w": "한부모 가정",
+    "p": "hanbumo gajeong",
+    "m": "gia đình phụ huynh đơn thân",
+    "cat": "family"
+  },
+  {
+    "w": "신부",
+    "p": "sinbu",
+    "m": "cô dâu",
+    "cat": "family"
+  },
+  {
+    "w": "신랑",
+    "p": "sinrang",
+    "m": "chú rể",
+    "cat": "family"
+  },
+  {
+    "w": "약혼하다",
+    "p": "yakhonhada",
+    "m": "đính hôn",
+    "cat": "family"
+  },
+  {
+    "w": "시댁",
+    "p": "sidaek",
+    "m": "gia đình bên chồng",
+    "cat": "family"
+  },
+  {
+    "w": "문학",
+    "p": "munhak",
+    "m": "văn học",
+    "cat": "culture"
+  },
+  {
+    "w": "참가하다",
+    "p": "chamgahada",
+    "m": "tham gia, tham dự",
+    "cat": "culture"
+  },
+  {
+    "w": "초대장",
+    "p": "chodaejang",
+    "m": "lời mời, thiệp mời",
+    "cat": "culture"
+  },
+  {
+    "w": "습관",
+    "p": "seupgwan",
+    "m": "thói quen",
+    "cat": "culture"
+  },
+  {
+    "w": "문화재",
+    "p": "munhwajae",
+    "m": "di vật văn hóa",
+    "cat": "culture"
+  },
+  {
+    "w": "절",
+    "p": "jeol",
+    "m": "chùa, đền",
+    "cat": "culture"
+  },
+  {
+    "w": "하드웨어",
+    "p": "hadeuweo",
+    "m": "phần cứng",
+    "cat": "technology"
+  },
+  {
+    "w": "운영 체제",
+    "p": "unyeong cheje",
+    "m": "hệ điều hành",
+    "cat": "technology"
+  },
+  {
+    "w": "프로필",
+    "p": "peuropil",
+    "m": "trang cá nhân",
+    "cat": "technology"
+  },
+  {
+    "w": "보안",
+    "p": "boan",
+    "m": "bảo mật",
+    "cat": "technology"
+  },
+  {
+    "w": "개인정보",
+    "p": "gaeinjeongbo",
+    "m": "quyền riêng tư, thông tin cá nhân",
+    "cat": "technology"
+  },
+  {
+    "w": "바이러스",
+    "p": "baireoseu",
+    "m": "virus máy tính",
+    "cat": "technology"
+  },
+  {
+    "w": "백업하다",
+    "p": "baegeophada",
+    "m": "sao lưu dữ liệu",
+    "cat": "technology"
+  },
+  {
+    "w": "클라우드",
+    "p": "keullaudeu",
+    "m": "đám mây (lưu trữ)",
+    "cat": "technology"
+  },
+  {
+    "w": "무선의",
+    "p": "museonui",
+    "m": "không dây",
+    "cat": "technology"
+  },
+  {
+    "w": "인공지능",
+    "p": "ingongjineung",
+    "m": "trí tuệ nhân tạo",
+    "cat": "technology"
+  },
+  {
+    "w": "로봇",
+    "p": "robot",
+    "m": "robot",
+    "cat": "technology"
+  },
+  {
+    "w": "자동화",
+    "p": "jadonghwa",
+    "m": "tự động hóa",
+    "cat": "technology"
+  },
+  {
+    "w": "인터페이스",
+    "p": "inteopeiseu",
+    "m": "giao diện",
+    "cat": "technology"
+  },
+  {
+    "w": "아이콘",
+    "p": "aikon",
+    "m": "biểu tượng",
+    "cat": "technology"
+  },
+  {
+    "w": "데이터베이스",
+    "p": "deiteobeiseu",
+    "m": "cơ sở dữ liệu",
+    "cat": "technology"
+  },
+  {
+    "w": "알고리즘",
+    "p": "algorijeum",
+    "m": "thuật toán",
+    "cat": "technology"
+  },
+  {
+    "w": "코드",
+    "p": "kodeu",
+    "m": "mã nguồn, lập trình",
+    "cat": "technology"
+  },
+  {
+    "w": "네트워크",
+    "p": "neteuwokeu",
+    "m": "mạng lưới",
+    "cat": "technology"
+  },
+  {
+    "w": "서버",
+    "p": "seobeo",
+    "m": "máy chủ",
+    "cat": "technology"
+  },
+  {
+    "w": "스마트폰",
+    "p": "seumateupon",
+    "m": "điện thoại thông minh",
+    "cat": "technology"
+  },
+  {
+    "w": "전기차",
+    "p": "jeongicha",
+    "m": "xe điện",
+    "cat": "technology"
+  },
+  {
+    "w": "셀카",
+    "p": "selka",
+    "m": "ảnh tự chụp",
+    "cat": "technology"
+  },
+  {
+    "w": "공유기",
+    "p": "gongyugi",
+    "m": "bộ định tuyến, router",
+    "cat": "technology"
+  },
+  {
+    "w": "대합실",
+    "p": "daehapsil",
+    "m": "phòng chờ",
+    "cat": "place"
+  },
+  {
+    "w": "모스크",
+    "p": "moseukeu",
+    "m": "nhà thờ Hồi giáo",
+    "cat": "place"
+  },
+  {
+    "w": "분수",
+    "p": "bunsu",
+    "m": "đài phun nước",
+    "cat": "place"
+  },
+  {
+    "w": "세탁소",
+    "p": "setakso",
+    "m": "tiệm giặt",
+    "cat": "place"
+  },
+  {
+    "w": "지역",
+    "p": "jiyeok",
+    "m": "vùng, khu vực",
+    "cat": "place"
+  },
+  {
+    "w": "시청",
+    "p": "sicheong",
+    "m": "tòa thị chính",
+    "cat": "place"
+  },
+  {
+    "w": "창고",
+    "p": "changgo",
+    "m": "nhà kho, kho hàng",
+    "cat": "place"
+  },
+  {
+    "w": "담보 대출",
+    "p": "dambo daechul",
+    "m": "khoản vay thế chấp",
+    "cat": "money"
+  },
+  {
+    "w": "팁",
+    "p": "tip",
+    "m": "tiền boa",
+    "cat": "money"
+  },
+  {
+    "w": "계산서",
+    "p": "gyesanseo",
+    "m": "hóa đơn (nhà hàng)",
+    "cat": "money"
+  },
+  {
+    "w": "투자하다",
+    "p": "tujahada",
+    "m": "đầu tư vào",
+    "cat": "money"
+  },
+  {
+    "w": "벌금",
+    "p": "beolgeum",
+    "m": "tiền phạt",
+    "cat": "money"
+  },
+  {
+    "w": "사치스럽다",
+    "p": "sachiseureopda",
+    "m": "xa xỉ, sang trọng",
+    "cat": "money"
+  },
+  {
+    "w": "빚지다",
+    "p": "bitjida",
+    "m": "nợ (ai đó)",
+    "cat": "money"
+  },
+  {
+    "w": "저축",
+    "p": "jeochuk",
+    "m": "tiền tiết kiệm",
+    "cat": "money"
+  },
+  {
+    "w": "부유하다",
+    "p": "buyuhada",
+    "m": "giàu có",
+    "cat": "money"
+  },
+  {
+    "w": "개최하다",
+    "p": "gaechoehada",
+    "m": "tổ chức, cử hành",
+    "cat": "verb"
+  },
+  {
+    "w": "추정하다",
+    "p": "chujeonghada",
+    "m": "ước tính, đoán chừng",
+    "cat": "verb"
+  },
+  {
+    "w": "표시하다",
+    "p": "pyosihada",
+    "m": "biểu thị, thể hiện",
+    "cat": "verb"
+  },
+  {
+    "w": "표현하다",
+    "p": "pyohyeonhada",
+    "m": "biểu đạt, diễn đạt",
+    "cat": "verb"
+  },
+  {
+    "w": "초래하다",
+    "p": "choraehada",
+    "m": "gây ra, tạo ra",
+    "cat": "verb"
+  },
+  {
+    "w": "야기하다",
+    "p": "yagihada",
+    "m": "dẫn đến, gây ra",
+    "cat": "verb"
+  },
+  {
+    "w": "성장하다",
+    "p": "seongjanghada",
+    "m": "lớn lên, trưởng thành",
+    "cat": "verb"
+  },
+  {
+    "w": "독서하다",
+    "p": "dokseohada",
+    "m": "đọc sách",
+    "cat": "verb"
+  },
+  {
+    "w": "통화하다",
+    "p": "tonghwahada",
+    "m": "gọi điện thoại",
+    "cat": "verb"
+  },
+  {
+    "w": "빙산",
+    "p": "bingsan",
+    "m": "tảng băng trôi",
+    "cat": "nature"
+  },
+  {
+    "w": "물 부족",
+    "p": "mul bujok",
+    "m": "thiếu hụt nước",
+    "cat": "nature"
+  },
+  {
+    "w": "토양",
+    "p": "toyang",
+    "m": "đất trồng trọt, thổ nhưỡng",
+    "cat": "nature"
+  },
+  {
+    "w": "벌새",
+    "p": "beolsae",
+    "m": "chim ruồi",
+    "cat": "nature"
+  },
+  {
+    "w": "플라밍고",
+    "p": "peullamingo",
+    "m": "hồng hạc",
+    "cat": "nature"
+  },
+  {
+    "w": "제비",
+    "p": "jebi",
+    "m": "chim én",
+    "cat": "nature"
+  },
+  {
+    "w": "울새",
+    "p": "ulsae",
+    "m": "chim cổ đỏ",
+    "cat": "nature"
+  },
+  {
+    "w": "태양",
+    "p": "taeyang",
+    "m": "mặt trời",
+    "cat": "nature"
+  },
+  {
+    "w": "별",
+    "p": "byeol",
+    "m": "ngôi sao",
+    "cat": "nature"
+  },
+  {
+    "w": "공기",
+    "p": "gonggi",
+    "m": "không khí",
+    "cat": "nature"
+  },
+  {
+    "w": "기후",
+    "p": "gihu",
+    "m": "khí hậu",
+    "cat": "nature"
+  },
+  {
+    "w": "자연",
+    "p": "jayeon",
+    "m": "tự nhiên",
+    "cat": "nature"
+  },
+  {
+    "w": "보호하다",
+    "p": "bohohada",
+    "m": "bảo vệ",
+    "cat": "nature"
+  },
+  {
+    "w": "사막",
+    "p": "samak",
+    "m": "sa mạc",
+    "cat": "nature"
+  },
+  {
+    "w": "섬",
+    "p": "seom",
+    "m": "đảo",
+    "cat": "nature"
+  },
+  {
+    "w": "육지",
+    "p": "yukji",
+    "m": "đất đai, lục địa",
+    "cat": "nature"
+  },
+  {
+    "w": "지역의",
+    "p": "jiyeogui",
+    "m": "khu vực, vùng miền",
+    "cat": "adjective"
+  },
+  {
+    "w": "아마추어의",
+    "p": "amachueoui",
+    "m": "nghiệp dư",
+    "cat": "adjective"
+  },
+  {
+    "w": "규율이 있다",
+    "p": "gyuyuri itda",
+    "m": "kỷ luật, nghiêm túc",
+    "cat": "adjective"
+  },
+  {
+    "w": "근무 시간",
+    "p": "geunmu sigan",
+    "m": "giờ làm việc",
+    "cat": "work"
+  },
+  {
+    "w": "회의를 열다",
+    "p": "hoeuireul yeolda",
+    "m": "tổ chức cuộc họp",
+    "cat": "work"
+  },
+  {
+    "w": "취업하다",
+    "p": "chwieophada",
+    "m": "xin việc làm",
+    "cat": "work"
+  },
+  {
+    "w": "약속",
+    "p": "yaksok",
+    "m": "cuộc hẹn, lịch hẹn",
+    "cat": "work"
+  },
+  {
+    "w": "직원",
+    "p": "jigwon",
+    "m": "nhân viên, người lao động",
+    "cat": "work"
+  },
+  {
+    "w": "고용",
+    "p": "goyong",
+    "m": "việc làm, sự thuê mướn",
+    "cat": "work"
+  },
+  {
+    "w": "경력",
+    "p": "gyeongnyeok",
+    "m": "kinh nghiệm làm việc",
+    "cat": "work"
+  },
+  {
+    "w": "부서",
+    "p": "buseo",
+    "m": "bộ phận, phòng ban",
+    "cat": "work"
+  },
+  {
+    "w": "임무",
+    "p": "immu",
+    "m": "nhiệm vụ",
+    "cat": "work"
+  },
+  {
+    "w": "책임지다",
+    "p": "chaegimjida",
+    "m": "chịu trách nhiệm",
+    "cat": "work"
+  },
+  {
+    "w": "보고서",
+    "p": "bogoseo",
+    "m": "báo cáo",
+    "cat": "work"
+  },
+  {
+    "w": "배치하다",
+    "p": "baechihada",
+    "m": "sắp xếp, bố trí",
+    "cat": "work"
+  },
+  {
+    "w": "연락하다",
+    "p": "yeollakhada",
+    "m": "liên lạc, liên hệ",
+    "cat": "work"
+  },
+  {
+    "w": "고객",
+    "p": "gogaek",
+    "m": "khách hàng",
+    "cat": "work"
+  },
+  {
+    "w": "좌절감",
+    "p": "jwajeolgam",
+    "m": "sự bực bội, thất vọng",
+    "cat": "emotion"
+  },
+  {
+    "w": "불안하다",
+    "p": "buranhada",
+    "m": "lo lắng, bồn chồn",
+    "cat": "emotion"
+  },
+  {
+    "w": "애도",
+    "p": "aedo",
+    "m": "sự để tang, đau buồn",
+    "cat": "emotion"
+  },
+  {
+    "w": "조의",
+    "p": "joui",
+    "m": "lời chia buồn",
+    "cat": "emotion"
+  },
+  {
+    "w": "랜드마크",
+    "p": "raendeumakeu",
+    "m": "địa danh nổi tiếng",
+    "cat": "travel"
+  },
+  {
+    "w": "이민",
+    "p": "imin",
+    "m": "sự nhập cư, di dân",
+    "cat": "travel"
+  },
+  {
+    "w": "지연",
+    "p": "jiyeon",
+    "m": "sự chậm trễ",
+    "cat": "travel"
+  },
+  {
+    "w": "보험",
+    "p": "boheom",
+    "m": "bảo hiểm",
+    "cat": "travel"
+  },
+  {
+    "w": "길을 찾다",
+    "p": "gireul chatda",
+    "m": "tìm đường, điều hướng",
+    "cat": "travel"
+  },
+  {
+    "w": "현지의",
+    "p": "hyeonjiui",
+    "m": "địa phương",
+    "cat": "travel"
+  },
+  {
+    "w": "엑스레이",
+    "p": "ekseurei",
+    "m": "chụp X-quang",
+    "cat": "health"
+  },
+  {
+    "w": "스캔하다",
+    "p": "seukaenhada",
+    "m": "chụp CT, quét hình ảnh",
+    "cat": "health"
+  },
+  {
+    "w": "신체 건강",
+    "p": "sinche geongang",
+    "m": "sức khỏe thể chất",
+    "cat": "health"
+  },
+  {
+    "w": "수분 섭취",
+    "p": "subun seopchwi",
+    "m": "sự cung cấp nước",
+    "cat": "health"
+  },
+  {
+    "w": "지치다",
+    "p": "jichida",
+    "m": "kiệt sức, hết năng lượng",
+    "cat": "health"
+  },
+  {
+    "w": "앓다",
+    "p": "alta",
+    "m": "chịu đựng, mắc bệnh",
+    "cat": "health"
+  },
+  {
+    "w": "다치다",
+    "p": "dachida",
+    "m": "bị thương",
+    "cat": "health"
+  },
+  {
+    "w": "속눈썹",
+    "p": "songnunsseop",
+    "m": "lông mi",
+    "cat": "health"
+  },
+  {
+    "w": "통합",
+    "p": "tonghap",
+    "m": "sự hòa nhập, tích hợp",
+    "cat": "society"
+  },
+  {
+    "w": "실업",
+    "p": "sireop",
+    "m": "nạn thất nghiệp",
+    "cat": "society"
+  },
+  {
+    "w": "과밀",
+    "p": "gwamil",
+    "m": "sự đông đúc quá mức",
+    "cat": "society"
+  },
+  {
+    "w": "사이버 폭력",
+    "p": "saibeo pongnyeok",
+    "m": "bắt nạt trực tuyến",
+    "cat": "society"
+  },
+  {
+    "w": "원주민",
+    "p": "wonjumin",
+    "m": "bản địa, người dân tộc thiểu số",
+    "cat": "society"
+  },
+  {
+    "w": "속보",
+    "p": "sokbo",
+    "m": "tin tức nóng hổi",
+    "cat": "society"
+  },
+  {
+    "w": "시사",
+    "p": "sisa",
+    "m": "thời sự, sự kiện hiện tại",
+    "cat": "society"
+  },
+  {
+    "w": "정체성",
+    "p": "jeongcheseong",
+    "m": "bản sắc, danh tính",
+    "cat": "society"
+  },
+  {
+    "w": "규범",
+    "p": "gyubeom",
+    "m": "quy tắc xã hội, chuẩn mực",
+    "cat": "society"
+  },
+  {
+    "w": "가치",
+    "p": "gachi",
+    "m": "giá trị",
+    "cat": "society"
+  },
+  {
+    "w": "권리",
+    "p": "gwolli",
+    "m": "quyền lợi",
+    "cat": "society"
+  },
+  {
+    "w": "편견",
+    "p": "pyeongyeon",
+    "m": "định kiến, thành kiến",
+    "cat": "society"
+  },
+  {
+    "w": "표현의 자유",
+    "p": "pyohyeonui jayu",
+    "m": "tự do ngôn luận",
+    "cat": "society"
+  },
+  {
+    "w": "봉사 활동",
+    "p": "bongsa hwaldong",
+    "m": "công việc tình nguyện",
+    "cat": "society"
+  },
+  {
+    "w": "대학원",
+    "p": "daehagwon",
+    "m": "cao học, sau đại học",
+    "cat": "education"
+  },
+  {
+    "w": "교류하다",
+    "p": "gyoryuhada",
+    "m": "giao lưu, trao đổi",
+    "cat": "education"
+  },
+  {
+    "w": "가설",
+    "p": "gaseol",
+    "m": "giả thuyết",
+    "cat": "education"
+  },
+  {
+    "w": "증거",
+    "p": "jeunggeo",
+    "m": "bằng chứng",
+    "cat": "education"
+  },
+  {
+    "w": "결론",
+    "p": "gyeollon",
+    "m": "kết luận",
+    "cat": "education"
+  },
+  {
+    "w": "논쟁",
+    "p": "nonjaeng",
+    "m": "lập luận, tranh luận",
+    "cat": "education"
+  },
+  {
+    "w": "토론",
+    "p": "toron",
+    "m": "cuộc tranh luận",
+    "cat": "education"
+  },
+  {
+    "w": "분석하다",
+    "p": "bunseokhada",
+    "m": "phân tích",
+    "cat": "education"
+  },
+  {
+    "w": "평가하다",
+    "p": "pyeonggahada",
+    "m": "đánh giá",
+    "cat": "education"
+  },
+  {
+    "w": "요약하다",
+    "p": "yoyakhada",
+    "m": "tóm tắt",
+    "cat": "education"
+  },
+  {
+    "w": "통계",
+    "p": "tonggye",
+    "m": "thống kê",
+    "cat": "education"
+  },
+  {
+    "w": "실습",
+    "p": "silseup",
+    "m": "thực hành phòng thí nghiệm",
+    "cat": "education"
+  },
+  {
+    "w": "합격률",
+    "p": "hapgyeongnyul",
+    "m": "tỷ lệ đậu",
+    "cat": "education"
+  },
+  {
+    "w": "경험을 쌓다",
+    "p": "gyeongheomeul ssada",
+    "m": "tích lũy kinh nghiệm",
+    "cat": "education"
+  },
+  {
+    "w": "십대",
+    "p": "sipdae",
+    "m": "thiếu niên, tuổi mới lớn",
+    "cat": "person"
+  },
+  {
+    "w": "피해자",
+    "p": "pihaeja",
+    "m": "nạn nhân",
+    "cat": "person"
+  },
+  {
+    "w": "협력자",
+    "p": "hyeopnyeokja",
+    "m": "cộng sự",
+    "cat": "person"
+  },
+  {
+    "w": "적",
+    "p": "jeok",
+    "m": "kẻ thù",
+    "cat": "person"
+  },
+  {
+    "w": "파트너",
+    "p": "pateuneo",
+    "m": "đối tác, bạn đời",
+    "cat": "person"
+  },
+  {
+    "w": "약혼자",
+    "p": "yakhonja",
+    "m": "hôn phu, hôn thê",
+    "cat": "person"
+  },
+  {
+    "w": "조미료",
+    "p": "jomiryo",
+    "m": "gia vị nêm",
+    "cat": "food"
+  },
+  {
+    "w": "스무디",
+    "p": "seumudi",
+    "m": "sinh tố",
+    "cat": "food"
+  },
+  {
+    "w": "밀크셰이크",
+    "p": "milkeusyeikeu",
+    "m": "sữa lắc",
+    "cat": "food"
+  },
+  {
+    "w": "레모네이드",
+    "p": "remoneideu",
+    "m": "nước chanh",
+    "cat": "food"
+  },
+  {
+    "w": "칵테일",
+    "p": "kaktail",
+    "m": "cốc-tai",
+    "cat": "food"
+  },
+  {
+    "w": "애플사이더",
+    "p": "aepeul saideo",
+    "m": "rượu táo lên men",
+    "cat": "food"
+  },
+  {
+    "w": "쌀밥",
+    "p": "ssalbap",
+    "m": "cơm trắng",
+    "cat": "food"
+  },
+  {
+    "w": "맛집",
+    "p": "matjip",
+    "m": "quán ăn ngon",
+    "cat": "food"
+  },
+  {
+    "w": "복숭아",
+    "p": "boksunga",
+    "m": "quả đào",
+    "cat": "food"
+  },
+  {
+    "w": "녹차",
+    "p": "nokcha",
+    "m": "trà xanh",
+    "cat": "food"
+  },
+  {
+    "w": "어쩐지",
+    "p": "eojjeonji",
+    "m": "không có gì lạ, thảo nào",
+    "cat": "adverb"
+  },
+  {
+    "w": "기본적으로",
+    "p": "gibonjeogeuro",
+    "m": "về cơ bản",
+    "cat": "adverb"
+  },
+  {
+    "w": "동시에",
+    "p": "dongsie",
+    "m": "đồng thời, cùng lúc đó",
+    "cat": "adverb"
+  },
+  {
+    "w": "꽤나",
+    "p": "kkwaena",
+    "m": "đáng kể, nhiều",
+    "cat": "adverb"
+  },
+  {
+    "w": "양육",
+    "p": "yangyuk",
+    "m": "cách nuôi dưỡng, giáo dục từ nhỏ",
+    "cat": "family"
+  },
+  {
+    "w": "세례",
+    "p": "serye",
+    "m": "lễ rửa tội",
+    "cat": "family"
+  },
+  {
+    "w": "건배",
+    "p": "geonbae",
+    "m": "nâng ly chúc mừng",
+    "cat": "family"
+  },
+  {
+    "w": "베이비 샤워",
+    "p": "beibi syawo",
+    "m": "tiệc chào đón em bé",
+    "cat": "family"
+  },
+  {
+    "w": "재혼 가정",
+    "p": "jaehon gajeong",
+    "m": "gia đình ghép, gia đình tái hôn",
+    "cat": "family"
+  },
+  {
+    "w": "유대감",
+    "p": "yudaegam",
+    "m": "mối liên kết, tình thân",
+    "cat": "family"
+  },
+  {
+    "w": "운동선수",
+    "p": "undongseonsu",
+    "m": "vận động viên",
+    "cat": "sport"
+  },
+  {
+    "w": "토너먼트",
+    "p": "toneomeonteu",
+    "m": "giải đấu",
+    "cat": "sport"
+  },
+  {
+    "w": "후보 선수",
+    "p": "hubo seonsu",
+    "m": "cầu thủ dự bị",
+    "cat": "sport"
+  },
+  {
+    "w": "준비 운동",
+    "p": "junbi undong",
+    "m": "khởi động",
+    "cat": "sport"
+  },
+  {
+    "w": "자격을 얻다",
+    "p": "jagyeogeul eotda",
+    "m": "vượt vòng loại, đủ điều kiện",
+    "cat": "sport"
+  },
+  {
+    "w": "전력 질주",
+    "p": "jeollyeok jilju",
+    "m": "chạy nước rút",
+    "cat": "sport"
+  },
+  {
+    "w": "등산",
+    "p": "deungsan",
+    "m": "đi bộ đường dài, leo núi",
+    "cat": "sport"
+  },
+  {
+    "w": "서핑",
+    "p": "seoping",
+    "m": "lướt sóng",
+    "cat": "sport"
+  },
+  {
+    "w": "신정",
+    "p": "sinjeong",
+    "m": "Tết Dương lịch",
+    "cat": "culture"
+  },
+  {
+    "w": "광복절",
+    "p": "gwangbokjeol",
+    "m": "Quốc khánh (ngày Giải phóng)",
+    "cat": "culture"
+  },
+  {
+    "w": "경복궁",
+    "p": "gyeongbokgung",
+    "m": "Cung điện Gyeongbokgung",
+    "cat": "culture"
+  },
+  {
+    "w": "순례",
+    "p": "sullye",
+    "m": "cuộc hành hương",
+    "cat": "culture"
+  },
+  {
+    "w": "가면",
+    "p": "gamyeon",
+    "m": "mặt nạ",
+    "cat": "culture"
+  },
+  {
+    "w": "대중적이다",
+    "p": "daejungjeogida",
+    "m": "phổ biến, đại chúng",
+    "cat": "culture"
+  },
+  {
+    "w": "잔치",
+    "p": "janchi",
+    "m": "bữa tiệc thịnh soạn",
+    "cat": "culture"
+  },
+  {
+    "w": "남색",
+    "p": "namsaek",
+    "m": "màu xanh hải quân",
+    "cat": "color"
+  },
+  {
+    "w": "청록색",
+    "p": "cheongnoksaek",
+    "m": "màu xanh ngọc lam",
+    "cat": "color"
+  },
+  {
+    "w": "베이지색",
+    "p": "beijisaek",
+    "m": "màu be",
+    "cat": "color"
+  },
+  {
+    "w": "크림색",
+    "p": "keurimsaek",
+    "m": "màu kem",
+    "cat": "color"
+  },
+  {
+    "w": "진홍색",
+    "p": "jinhongsaek",
+    "m": "màu đỏ thẫm",
+    "cat": "color"
+  },
+  {
+    "w": "올리브색",
+    "p": "ollibeusaek",
+    "m": "màu xanh ô liu",
+    "cat": "color"
+  },
+  {
+    "w": "밤색",
+    "p": "bamsaek",
+    "m": "nâu đỏ (hạt dẻ)",
+    "cat": "color"
+  },
+  {
+    "w": "카키색",
+    "p": "kakisaek",
+    "m": "màu kaki",
+    "cat": "color"
+  },
+  {
+    "w": "연보라색",
+    "p": "yeonborasaek",
+    "m": "tím nhạt",
+    "cat": "color"
+  },
+  {
+    "w": "자홍색",
+    "p": "jahongsaek",
+    "m": "đỏ tươi cánh sen",
+    "cat": "color"
+  },
+  {
+    "w": "호박색",
+    "p": "hobaksaek",
+    "m": "màu hổ phách",
+    "cat": "color"
+  },
+  {
+    "w": "상아색",
+    "p": "sangasaek",
+    "m": "màu ngà",
+    "cat": "color"
+  },
+  {
+    "w": "숯색",
+    "p": "sutsaek",
+    "m": "xám than",
+    "cat": "color"
+  },
+  {
+    "w": "에메랄드색",
+    "p": "emeraldeusaek",
+    "m": "xanh lục bảo",
+    "cat": "color"
+  },
+  {
+    "w": "황금색",
+    "p": "hwanggeumsaek",
+    "m": "vàng óng",
+    "cat": "color"
+  },
+  {
+    "w": "의원",
+    "p": "uiwon",
+    "m": "phòng khám",
+    "cat": "place"
+  },
+  {
+    "w": "시골의",
+    "p": "sigorui",
+    "m": "thuộc nông thôn",
+    "cat": "place"
+  },
+  {
+    "w": "구독료",
+    "p": "gudongnyo",
+    "m": "phí đăng ký định kỳ",
+    "cat": "money"
+  },
+  {
+    "w": "부과하다",
+    "p": "bugwahada",
+    "m": "tính phí",
+    "cat": "money"
+  },
+  {
+    "w": "신용",
+    "p": "sinyong",
+    "m": "tín dụng",
+    "cat": "money"
+  },
+  {
+    "w": "지불",
+    "p": "jibul",
+    "m": "thanh toán, khoản trả",
+    "cat": "money"
+  },
+  {
+    "w": "화랑",
+    "p": "hwarang",
+    "m": "phòng trưng bày nghệ thuật",
+    "cat": "art"
+  },
+  {
+    "w": "캐릭터",
+    "p": "kaerikteo",
+    "m": "nhân vật (trong truyện/phim)",
+    "cat": "art"
+  },
+  {
+    "w": "픽션",
+    "p": "piksyeon",
+    "m": "tiểu thuyết hư cấu",
+    "cat": "art"
+  },
+  {
+    "w": "논픽션",
+    "p": "nonpiksyeon",
+    "m": "sách phi hư cấu",
+    "cat": "art"
+  },
+  {
+    "w": "우화",
+    "p": "uhwa",
+    "m": "ngụ ngôn",
+    "cat": "art"
+  },
+  {
+    "w": "캔버스",
+    "p": "kaenbeoseu",
+    "m": "vải tranh",
+    "cat": "art"
+  },
+  {
+    "w": "에피소드",
+    "p": "episodeu",
+    "m": "tập phim",
+    "cat": "art"
+  },
+  {
+    "w": "드라마 시리즈",
+    "p": "deurama sirijeu",
+    "m": "phim dài tập",
+    "cat": "art"
+  },
+  {
+    "w": "애니메이션",
+    "p": "aenimeisyeon",
+    "m": "phim hoạt hình",
+    "cat": "art"
+  },
+  {
+    "w": "자막",
+    "p": "jamak",
+    "m": "phụ đề",
+    "cat": "art"
+  },
+  {
+    "w": "베스트셀러",
+    "p": "beseuteuselleo",
+    "m": "sách bán chạy nhất",
+    "cat": "art"
+  },
+  {
+    "w": "필터",
+    "p": "pilteo",
+    "m": "bộ lọc",
+    "cat": "technology"
+  },
+  {
+    "w": "팔로우하다",
+    "p": "pallouhada",
+    "m": "theo dõi (tài khoản)",
+    "cat": "technology"
+  },
+  {
+    "w": "디지털 기기",
+    "p": "dijiteol gigi",
+    "m": "thiết bị kỹ thuật số",
+    "cat": "technology"
+  },
+  {
+    "w": "온라인 플랫폼",
+    "p": "ollain peullaespom",
+    "m": "nền tảng trực tuyến",
+    "cat": "technology"
+  },
+  {
+    "w": "인터넷을 검색하다",
+    "p": "inteoneseul geomsakhada",
+    "m": "duyệt web, lướt xem",
+    "cat": "technology"
+  },
+  {
+    "w": "기기",
+    "p": "gigi",
+    "m": "thiết bị",
+    "cat": "technology"
+  },
+  {
+    "w": "소형 기기",
+    "p": "sohyeong gigi",
+    "m": "thiết bị nhỏ tiện ích",
+    "cat": "technology"
+  },
+  {
+    "w": "빗",
+    "p": "bit",
+    "m": "lược chải tóc",
+    "cat": "home"
+  },
+  {
+    "w": "대야",
+    "p": "daeya",
+    "m": "chậu, thau",
+    "cat": "home"
+  },
+  {
+    "w": "침대 시트",
+    "p": "chimdae siteu",
+    "m": "ga trải giường",
+    "cat": "home"
+  },
+  {
+    "w": "몸매",
+    "p": "mommae",
+    "m": "vóc dáng",
+    "cat": "body"
+  },
+  {
+    "w": "허리",
+    "p": "heori",
+    "m": "eo, lưng dưới",
+    "cat": "body"
+  },
+  {
+    "w": "척추",
+    "p": "cheokchu",
+    "m": "cột sống",
+    "cat": "body"
+  },
+  {
+    "w": "폐",
+    "p": "pye",
+    "m": "phổi",
+    "cat": "body"
+  },
+  {
+    "w": "간",
+    "p": "gan",
+    "m": "gan",
+    "cat": "body"
+  },
+  {
+    "w": "신장",
+    "p": "sinjang",
+    "m": "thận",
+    "cat": "body"
+  },
+  {
+    "w": "장기",
+    "p": "janggi",
+    "m": "cơ quan nội tạng",
+    "cat": "body"
+  },
+  {
+    "w": "혈관",
+    "p": "hyeolgwan",
+    "m": "mạch máu",
+    "cat": "body"
+  },
+  {
+    "w": "신경",
+    "p": "singyeong",
+    "m": "dây thần kinh",
+    "cat": "body"
+  },
+  {
+    "w": "어울리다",
+    "p": "eoullida",
+    "m": "phù hợp, hợp với",
+    "cat": "shopping"
+  },
+  {
+    "w": "특가",
+    "p": "teukga",
+    "m": "giá đặc biệt",
+    "cat": "shopping"
+  },
+  {
+    "w": "프로모션",
+    "p": "peuromosyeon",
+    "m": "khuyến mãi",
+    "cat": "shopping"
+  },
+  {
+    "w": "반품하다",
+    "p": "banpumhada",
+    "m": "trả hàng",
+    "cat": "shopping"
+  },
+  {
+    "w": "계산대",
+    "p": "gyesandae",
+    "m": "quầy thu ngân",
+    "cat": "shopping"
+  },
+  {
+    "w": "할인율",
+    "p": "harinyul",
+    "m": "tỷ lệ giảm giá, chiết khấu",
+    "cat": "shopping"
+  },
+  {
+    "w": "멸종 위기종",
+    "p": "myeoljong wigijong",
+    "m": "loài có nguy cơ tuyệt chủng",
+    "cat": "animal"
+  },
+  {
+    "w": "벌집",
+    "p": "beoljip",
+    "m": "tổ ong",
+    "cat": "animal"
+  },
+  {
+    "w": "둥지",
+    "p": "dungji",
+    "m": "tổ chim",
+    "cat": "animal"
+  },
+  {
+    "w": "포유류",
+    "p": "poyuryu",
+    "m": "động vật có vú",
+    "cat": "animal"
+  },
+  {
+    "w": "파충류",
+    "p": "pachungnyu",
+    "m": "bò sát",
+    "cat": "animal"
+  },
+  {
+    "w": "곤충",
+    "p": "gonchung",
+    "m": "côn trùng",
+    "cat": "animal"
+  },
+  {
+    "w": "먹이",
+    "p": "meogi",
+    "m": "con mồi",
+    "cat": "animal"
+  },
+  {
+    "w": "포식자",
+    "p": "poksikja",
+    "m": "động vật săn mồi",
+    "cat": "animal"
+  },
+  {
+    "w": "맨투맨",
+    "p": "maetumaen",
+    "m": "áo nỉ dài tay",
+    "cat": "clothing"
+  },
+  {
+    "w": "가디건",
+    "p": "gadigeon",
+    "m": "áo len dài tay có cúc",
+    "cat": "clothing"
+  },
+  {
+    "w": "후드티",
+    "p": "hudeuti",
+    "m": "áo hoodie",
+    "cat": "clothing"
+  },
+  {
+    "w": "블라우스",
+    "p": "beullauseu",
+    "m": "áo sơ mi nữ",
+    "cat": "clothing"
+  },
+  {
+    "w": "정장",
+    "p": "jeongjang",
+    "m": "bộ vest",
+    "cat": "clothing"
+  },
+  {
+    "w": "굽",
+    "p": "gup",
+    "m": "gót giày",
+    "cat": "clothing"
+  },
+  {
+    "w": "전통 의상",
+    "p": "jeontong uisang",
+    "m": "trang phục truyền thống",
+    "cat": "clothing"
+  },
+  {
+    "w": "야구 모자",
+    "p": "yagu moja",
+    "m": "mũ lưỡi trai",
+    "cat": "clothing"
+  },
+  {
+    "w": "액세서리",
+    "p": "aekseseori",
+    "m": "phụ kiện",
+    "cat": "clothing"
+  },
+  {
+    "w": "손목시계",
+    "p": "sonmoksigye",
+    "m": "đồng hồ đeo tay",
+    "cat": "clothing"
+  },
+  {
+    "w": "넥타이",
+    "p": "nektai",
+    "m": "cà vạt",
+    "cat": "clothing"
+  },
+  {
+    "w": "샴페인",
+    "p": "syampein",
+    "m": "rượu sâm panh",
+    "cat": "food"
+  },
+  {
+    "w": "위스키",
+    "p": "wiseuki",
+    "m": "rượu whisky",
+    "cat": "food"
+  },
+  {
+    "w": "브랜디",
+    "p": "beurandi",
+    "m": "rượu brandy",
+    "cat": "food"
+  },
+  {
+    "w": "직무 만족도",
+    "p": "jingmu manjokdo",
+    "m": "sự hài lòng với công việc",
+    "cat": "work"
+  },
+  {
+    "w": "팀워크가 좋다",
+    "p": "timwokeuga jota",
+    "m": "biết làm việc nhóm",
+    "cat": "work"
+  },
+  {
+    "w": "지원하다",
+    "p": "jiwonhada",
+    "m": "xin việc, nộp đơn xin việc",
+    "cat": "work"
+  },
+  {
+    "w": "승진하다",
+    "p": "seungjinhada",
+    "m": "được thăng chức",
+    "cat": "work"
+  },
+  {
+    "w": "매니저",
+    "p": "maenijeo",
+    "m": "quản lý, giám đốc",
+    "cat": "work"
+  },
+  {
+    "w": "눈꺼풀",
+    "p": "nunkkeopul",
+    "m": "mí mắt",
+    "cat": "health"
+  },
+  {
+    "w": "콧구멍",
+    "p": "kotgumeong",
+    "m": "lỗ mũi",
+    "cat": "health"
+  },
+  {
+    "w": "잇몸",
+    "p": "inmom",
+    "m": "lợi, nướu",
+    "cat": "health"
+  },
+  {
+    "w": "목구멍",
+    "p": "mokgumeong",
+    "m": "cổ họng",
+    "cat": "health"
+  },
+  {
+    "w": "회복되다",
+    "p": "hoebokdoeda",
+    "m": "hồi phục sau bệnh",
+    "cat": "health"
+  },
+  {
+    "w": "쓰라리다",
+    "p": "sseuraerida",
+    "m": "đau rát, nhức",
+    "cat": "health"
+  },
+  {
+    "w": "우려",
+    "p": "uryeo",
+    "m": "mối lo ngại lớn",
+    "cat": "society"
+  },
+  {
+    "w": "심각한 문제",
+    "p": "simgakan munje",
+    "m": "vấn đề nghiêm trọng",
+    "cat": "society"
+  },
+  {
+    "w": "파업하다",
+    "p": "paeophada",
+    "m": "đình công",
+    "cat": "society"
+  },
+  {
+    "w": "옹호하다",
+    "p": "onghohada",
+    "m": "đứng lên bảo vệ, ủng hộ",
+    "cat": "society"
+  },
+  {
+    "w": "언론",
+    "p": "eollon",
+    "m": "cơ quan truyền thông, báo chí",
+    "cat": "society"
+  },
+  {
+    "w": "회원 자격",
+    "p": "hoewon jagyeok",
+    "m": "tư cách thành viên",
+    "cat": "society"
+  },
+  {
+    "w": "참가자",
+    "p": "chamgaja",
+    "m": "người tham gia",
+    "cat": "society"
+  },
+  {
+    "w": "또래 집단",
+    "p": "ttorae jipdan",
+    "m": "nhóm bạn cùng trang lứa",
+    "cat": "society"
+  },
+  {
+    "w": "방지하다",
+    "p": "bangjihada",
+    "m": "ngăn chặn, phòng ngừa",
+    "cat": "verb"
+  },
+  {
+    "w": "피하다",
+    "p": "pihada",
+    "m": "tránh, tránh né",
+    "cat": "verb"
+  },
+  {
+    "w": "유지하다",
+    "p": "yujihada",
+    "m": "kiên trì, duy trì",
+    "cat": "verb"
+  },
+  {
+    "w": "소중한 교훈",
+    "p": "sojunghan gyohun",
+    "m": "bài học quý giá",
+    "cat": "education"
+  },
+  {
+    "w": "자료",
+    "p": "jaryo",
+    "m": "nguồn tài liệu",
+    "cat": "education"
+  },
+  {
+    "w": "자녀",
+    "p": "janyeo",
+    "m": "con cái",
+    "cat": "family"
+  },
+  {
+    "w": "신참",
+    "p": "sinchan",
+    "m": "người mới đến",
+    "cat": "person"
+  },
+  {
+    "w": "절친",
+    "p": "jeolchin",
+    "m": "người tâm phúc, bạn thân nhất",
+    "cat": "person"
+  },
+  {
+    "w": "동지",
+    "p": "dongji",
+    "m": "đồng minh",
+    "cat": "person"
+  },
+  {
+    "w": "공범",
+    "p": "gongbeom",
+    "m": "đồng phạm",
+    "cat": "person"
+  },
+  {
+    "w": "개천절",
+    "p": "gaecheonjeol",
+    "m": "Quốc khánh (ngày lập quốc)",
+    "cat": "culture"
+  },
+  {
+    "w": "남대문",
+    "p": "namdaemun",
+    "m": "Cổng Namdaemun",
+    "cat": "culture"
+  },
+  {
+    "w": "카니발",
+    "p": "kanibal",
+    "m": "lễ hội hóa trang",
+    "cat": "culture"
+  },
+  {
+    "w": "패션",
+    "p": "paesyeon",
+    "m": "thời trang",
+    "cat": "culture"
+  },
+  {
+    "w": "골키퍼",
+    "p": "golkipeo",
+    "m": "thủ môn",
+    "cat": "sport"
+  },
+  {
+    "w": "호루라기",
+    "p": "horuragi",
+    "m": "còi, huýt sáo",
+    "cat": "sport"
+  },
+  {
+    "w": "회화",
+    "p": "hoehwa",
+    "m": "bức tranh, hội họa",
+    "cat": "art"
+  },
+  {
+    "w": "출연진",
+    "p": "churyeonjin",
+    "m": "dàn diễn viên",
+    "cat": "art"
+  },
+  {
+    "w": "영화 음악",
+    "p": "yeonghwa eumak",
+    "m": "nhạc nền phim",
+    "cat": "art"
+  },
+  {
+    "w": "아울렛",
+    "p": "aullet",
+    "m": "cửa hàng bán lẻ, outlet",
+    "cat": "place"
+  },
+  {
+    "w": "펠리컨",
+    "p": "pellikeon",
+    "m": "bồ nông",
+    "cat": "nature"
+  },
+  {
+    "w": "갈매기",
+    "p": "galmaegi",
+    "m": "hải âu",
+    "cat": "nature"
+  },
+  {
+    "w": "매",
+    "p": "mae",
+    "m": "chim cắt",
+    "cat": "nature"
+  },
+  {
+    "w": "독수리",
+    "p": "doksuri",
+    "m": "kền kền, đại bàng",
+    "cat": "nature"
+  },
+  {
+    "w": "재능이 있다",
+    "p": "jaeneungi itda",
+    "m": "tài năng",
+    "cat": "adjective"
+  },
+  {
+    "w": "두려움",
+    "p": "duryeoum",
+    "m": "nỗi sợ hãi",
+    "cat": "emotion"
+  },
+  {
+    "w": "해외",
+    "p": "haeoe",
+    "m": "ở nước ngoài, hải ngoại",
+    "cat": "travel"
+  },
+  {
+    "w": "성취",
+    "p": "seongchwi",
+    "m": "thành tựu",
+    "cat": "advanced"
+  },
+  {
+    "w": "태도",
+    "p": "taedo",
+    "m": "thái độ",
+    "cat": "advanced"
+  },
+  {
+    "w": "권위",
+    "p": "gwonwi",
+    "m": "thẩm quyền",
+    "cat": "advanced"
+  },
+  {
+    "w": "이용 가능하다",
+    "p": "iyong ganeunghada",
+    "m": "có sẵn, rảnh",
+    "cat": "advanced"
+  },
+  {
+    "w": "원인",
+    "p": "wonin",
+    "m": "nguyên nhân",
+    "cat": "advanced"
+  },
+  {
+    "w": "주장하다",
+    "p": "jujanghada",
+    "m": "khẳng định, yêu cầu",
+    "cat": "advanced"
+  },
+  {
+    "w": "우려하다",
+    "p": "uryeohada",
+    "m": "lo ngại",
+    "cat": "advanced"
+  },
+  {
+    "w": "고려하다",
+    "p": "goryeohada",
+    "m": "xem xét, cân nhắc",
+    "cat": "advanced"
+  },
+  {
+    "w": "통제하다",
+    "p": "tongjehada",
+    "m": "kiểm soát",
+    "cat": "advanced"
+  },
+  {
+    "w": "의존하다",
+    "p": "uijonhada",
+    "m": "phụ thuộc",
+    "cat": "advanced"
+  },
+  {
+    "w": "차이",
+    "p": "chai",
+    "m": "sự khác biệt",
+    "cat": "advanced"
+  },
+  {
+    "w": "효과적이다",
+    "p": "hyogwajeogida",
+    "m": "hiệu quả",
+    "cat": "advanced"
+  },
+  {
+    "w": "감정",
+    "p": "gamjeong",
+    "m": "cảm xúc",
+    "cat": "advanced"
+  },
+  {
+    "w": "격려하다",
+    "p": "gyeongnyeohada",
+    "m": "khuyến khích",
+    "cat": "advanced"
+  },
+  {
+    "w": "필수적이다",
+    "p": "pilsujeogida",
+    "m": "thiết yếu",
+    "cat": "advanced"
+  },
+  {
+    "w": "요소",
+    "p": "yoso",
+    "m": "yếu tố",
+    "cat": "advanced"
+  },
+  {
+    "w": "집중하다",
+    "p": "jipjunghada",
+    "m": "tập trung",
+    "cat": "advanced"
+  },
+  {
+    "w": "공식적이다",
+    "p": "gongsikjeogida",
+    "m": "trang trọng, chính thức",
+    "cat": "advanced"
+  },
+  {
+    "w": "세대",
+    "p": "sedae",
+    "m": "thế hệ",
+    "cat": "advanced"
+  },
+  {
+    "w": "성장",
+    "p": "seongjang",
+    "m": "sự tăng trưởng",
+    "cat": "advanced"
+  },
+  {
+    "w": "해를 끼치다",
+    "p": "haereul kkichida",
+    "m": "gây hại",
+    "cat": "advanced"
+  },
+  {
+    "w": "개선하다",
+    "p": "gaeseonhada",
+    "m": "cải thiện",
+    "cat": "advanced"
+  },
+  {
+    "w": "포함하다",
+    "p": "pohamhada",
+    "m": "bao gồm",
+    "cat": "advanced"
+  },
+  {
+    "w": "관련되다",
+    "p": "gwallyeondoeda",
+    "m": "liên quan đến",
+    "cat": "advanced"
+  },
+  {
+    "w": "제한되다",
+    "p": "jehandoeda",
+    "m": "hạn chế",
+    "cat": "advanced"
+  },
+  {
+    "w": "언급하다",
+    "p": "eongeuphada",
+    "m": "đề cập",
+    "cat": "advanced"
+  },
+  {
+    "w": "정상적이다",
+    "p": "jeongsangjeogida",
+    "m": "bình thường",
+    "cat": "advanced"
+  },
+  {
+    "w": "특정하다",
+    "p": "teukjeonghada",
+    "m": "đặc biệt, cụ thể",
+    "cat": "advanced"
+  },
+  {
+    "w": "신체적이다",
+    "p": "sinchejeogida",
+    "m": "thể chất, vật lý",
+    "cat": "advanced"
+  },
+  {
+    "w": "조사하다",
+    "p": "josahada",
+    "m": "điều tra, xem xét kỹ",
+    "cat": "phrasal"
+  },
+  {
+    "w": "생각해내다",
+    "p": "saenggakhaenaeda",
+    "m": "nghĩ ra, đưa ra ý tưởng",
+    "cat": "phrasal"
+  },
+  {
+    "w": "설립하다",
+    "p": "seollipada",
+    "m": "thiết lập, thành lập",
+    "cat": "phrasal"
+  },
+  {
+    "w": "떠맡다",
+    "p": "tteomatda",
+    "m": "đảm nhận, nhận lấy",
+    "cat": "phrasal"
+  },
+  {
+    "w": "실행하다",
+    "p": "silhaenghada",
+    "m": "thực hiện",
+    "cat": "phrasal"
+  },
+  {
+    "w": "보상하다",
+    "p": "bosanghada",
+    "m": "bù đắp cho",
+    "cat": "phrasal"
+  },
+  {
+    "w": "미루다",
+    "p": "miruda",
+    "m": "trì hoãn",
+    "cat": "phrasal"
+  },
+  {
+    "w": "인수하다",
+    "p": "insuhada",
+    "m": "tiếp quản",
+    "cat": "phrasal"
+  },
+  {
+    "w": "밝혀지다",
+    "p": "balkyeojida",
+    "m": "hóa ra",
+    "cat": "phrasal"
+  },
+  {
+    "w": "알아내다",
+    "p": "aranaeda",
+    "m": "hiểu ra, tìm cách",
+    "cat": "phrasal"
+  },
+  {
+    "w": "사이좋게 지내다",
+    "p": "saijoke jinaeda",
+    "m": "hòa thuận",
+    "cat": "phrasal"
+  },
+  {
+    "w": "기대하다",
+    "p": "gidaehada",
+    "m": "mong đợi",
+    "cat": "phrasal"
+  },
+  {
+    "w": "상징하다",
+    "p": "sangjinghada",
+    "m": "đại diện cho, tượng trưng",
+    "cat": "phrasal"
+  },
+  {
+    "w": "고수하다",
+    "p": "gosuhada",
+    "m": "kiên trì, giữ vững",
+    "cat": "phrasal"
+  },
+  {
+    "w": "극복하다",
+    "p": "geukbokhada",
+    "m": "vượt qua",
+    "cat": "phrasal"
+  },
+  {
+    "w": "헤어지다",
+    "p": "heeojida",
+    "m": "chia tay, tan vỡ",
+    "cat": "phrasal"
+  },
+  {
+    "w": "키우다",
+    "p": "kiuda",
+    "m": "nuôi dạy, nuôi dưỡng",
+    "cat": "phrasal"
+  },
+  {
+    "w": "따라잡다",
+    "p": "ttarajapda",
+    "m": "theo kịp, bắt kịp",
+    "cat": "phrasal"
+  },
+  {
+    "w": "우연히 만나다",
+    "p": "uyeonhi mannada",
+    "m": "tình cờ gặp, bắt gặp",
+    "cat": "phrasal"
+  },
+  {
+    "w": "대처하다",
+    "p": "daecheohada",
+    "m": "đối phó, xử lý",
+    "cat": "phrasal"
+  },
+  {
+    "w": "인정하다",
+    "p": "injeonghada",
+    "m": "thừa nhận",
+    "cat": "advanced"
+  },
+  {
+    "w": "기관",
+    "p": "gigwan",
+    "m": "cơ quan, đại lý, hãng",
+    "cat": "advanced"
+  },
+  {
+    "w": "공격적이다",
+    "p": "gonggyeokjeogida",
+    "m": "hung hăng",
+    "cat": "advanced"
+  },
+  {
+    "w": "허락하다",
+    "p": "heorakhada",
+    "m": "cho phép",
+    "cat": "advanced"
+  },
+  {
+    "w": "대안",
+    "p": "daean",
+    "m": "lựa chọn thay thế",
+    "cat": "advanced"
+  },
+  {
+    "w": "야심 차다",
+    "p": "yasim chada",
+    "m": "tham vọng",
+    "cat": "advanced"
+  },
+  {
+    "w": "명백하다",
+    "p": "myeongbaekhada",
+    "m": "rõ ràng, có vẻ như",
+    "cat": "advanced"
+  },
+  {
+    "w": "신청하다",
+    "p": "sincheonghada",
+    "m": "xin, đăng ký, ứng dụng",
+    "cat": "advanced"
+  },
+  {
+    "w": "접근 방식",
+    "p": "jeopgeun bangsik",
+    "m": "cách tiếp cận",
+    "cat": "advanced"
+  },
+  {
+    "w": "적절하다",
+    "p": "jeokjeolhada",
+    "m": "thích hợp",
+    "cat": "advanced"
+  },
+  {
+    "w": "승인하다",
+    "p": "seunginhada",
+    "m": "phê duyệt",
+    "cat": "advanced"
+  },
+  {
+    "w": "측면",
+    "p": "cheungmyeon",
+    "m": "khía cạnh",
+    "cat": "advanced"
+  },
+  {
+    "w": "가정하다",
+    "p": "gajeonghada",
+    "m": "giả định",
+    "cat": "advanced"
+  },
+  {
+    "w": "첨부하다",
+    "p": "cheombuhada",
+    "m": "đính kèm",
+    "cat": "advanced"
+  },
+  {
+    "w": "끌다",
+    "p": "kkeulda",
+    "m": "thu hút, kéo",
+    "cat": "advanced"
+  },
+  {
+    "w": "행동",
+    "p": "haengdong",
+    "m": "hành vi",
+    "cat": "advanced"
+  },
+  {
+    "w": "유능하다",
+    "p": "yuneunghada",
+    "m": "có khả năng",
+    "cat": "advanced"
+  },
+  {
+    "w": "범주",
+    "p": "beomju",
+    "m": "danh mục, loại",
+    "cat": "advanced"
+  },
+  {
+    "w": "조합",
+    "p": "johap",
+    "m": "sự kết hợp",
+    "cat": "advanced"
+  },
+  {
+    "w": "의사소통하다",
+    "p": "uisasotonghada",
+    "m": "giao tiếp",
+    "cat": "advanced"
+  },
+  {
+    "w": "수행하다",
+    "p": "suhaenghada",
+    "m": "tiến hành, thực hiện",
+    "cat": "advanced"
+  },
+  {
+    "w": "일관되다",
+    "p": "ilgwandoeda",
+    "m": "nhất quán",
+    "cat": "advanced"
+  },
+  {
+    "w": "접촉하다",
+    "p": "jeopchokhada",
+    "m": "liên lạc",
+    "cat": "advanced"
+  },
+  {
+    "w": "기여하다",
+    "p": "giyeohada",
+    "m": "đóng góp",
+    "cat": "advanced"
+  },
+  {
+    "w": "설득하다",
+    "p": "seoldeukhada",
+    "m": "thuyết phục",
+    "cat": "advanced"
+  },
+  {
+    "w": "창조하다",
+    "p": "changjohada",
+    "m": "tạo ra",
+    "cat": "advanced"
+  },
+  {
+    "w": "정의하다",
+    "p": "jeonguihada",
+    "m": "định nghĩa",
+    "cat": "advanced"
+  },
+  {
+    "w": "설계하다",
+    "p": "seolgyehada",
+    "m": "thiết kế",
+    "cat": "advanced"
+  },
+  {
+    "w": "분배하다",
+    "p": "bunbaehada",
+    "m": "phân phối",
+    "cat": "advanced"
+  },
+  {
+    "w": "효율적이다",
+    "p": "hyoyuljeogida",
+    "m": "hiệu quả, năng suất cao",
+    "cat": "advanced"
+  },
+  {
+    "w": "가능하게 하다",
+    "p": "ganeunghage hada",
+    "m": "cho phép, tạo điều kiện",
+    "cat": "advanced"
+  },
+  {
+    "w": "시행하다",
+    "p": "sihaenghada",
+    "m": "thực thi",
+    "cat": "advanced"
+  },
+  {
+    "w": "참여하다",
+    "p": "chamyeohada",
+    "m": "tham gia, thu hút",
+    "cat": "advanced"
+  },
+  {
+    "w": "보장하다",
+    "p": "bojanghada",
+    "m": "đảm bảo",
+    "cat": "advanced"
+  },
+  {
+    "w": "전체",
+    "p": "jeonche",
+    "m": "toàn bộ",
+    "cat": "advanced"
+  },
+  {
+    "w": "과잉",
+    "p": "gwaing",
+    "m": "dư thừa",
+    "cat": "advanced"
+  },
+  {
+    "w": "존재하다",
+    "p": "jonjaehada",
+    "m": "tồn tại",
+    "cat": "advanced"
+  },
+  {
+    "w": "확장하다",
+    "p": "hwakjanghada",
+    "m": "mở rộng",
+    "cat": "advanced"
+  },
+  {
+    "w": "연장하다",
+    "p": "yeonjanghada",
+    "m": "kéo dài, mở rộng",
+    "cat": "advanced"
+  },
+  {
+    "w": "극단적이다",
+    "p": "geukdanjeogida",
+    "m": "cực đoan",
+    "cat": "advanced"
+  },
+  {
+    "w": "자랑하다",
+    "p": "jaranghada",
+    "m": "khoe khoang",
+    "cat": "phrasal"
+  },
+  {
+    "w": "심사숙고하다",
+    "p": "simsasukgohada",
+    "m": "suy nghĩ kỹ",
+    "cat": "phrasal"
+  },
+  {
+    "w": "다 쓰다",
+    "p": "da sseuda",
+    "m": "dùng hết",
+    "cat": "phrasal"
+  },
+  {
+    "w": "침입하다",
+    "p": "chimiphada",
+    "m": "đột nhập",
+    "cat": "phrasal"
+  },
+  {
+    "w": "쌓다",
+    "p": "ssahda",
+    "m": "tích lũy, xây dựng",
+    "cat": "phrasal"
+  },
+  {
+    "w": "걸리다",
+    "p": "geollida",
+    "m": "bị mắc bệnh",
+    "cat": "phrasal"
+  },
+  {
+    "w": "나서다",
+    "p": "naseoda",
+    "m": "tình nguyện, bước ra",
+    "cat": "phrasal"
+  },
+  {
+    "w": "작성하다",
+    "p": "jakseonghada",
+    "m": "soạn thảo",
+    "cat": "phrasal"
+  },
+  {
+    "w": "중퇴하다",
+    "p": "jungtoehada",
+    "m": "bỏ học",
+    "cat": "phrasal"
+  },
+  {
+    "w": "무너지다",
+    "p": "muneojida",
+    "m": "tan rã, sụp đổ",
+    "cat": "phrasal"
+  },
+  {
+    "w": "뒤처지다",
+    "p": "dwicheojida",
+    "m": "bị tụt hậu",
+    "cat": "phrasal"
+  },
+  {
+    "w": "적응하다",
+    "p": "jeogeunghada",
+    "m": "hòa nhập, thích nghi",
+    "cat": "phrasal"
+  },
+  {
+    "w": "처벌을 면하다",
+    "p": "cheobeoreul myeonhada",
+    "m": "thoát khỏi hình phạt",
+    "cat": "phrasal"
+  },
+  {
+    "w": "다시 연락하다",
+    "p": "dasi yeollakhada",
+    "m": "liên lạc lại",
+    "cat": "phrasal"
+  },
+  {
+    "w": "나눠 주다",
+    "p": "nanwo juda",
+    "m": "phân phát",
+    "cat": "phrasal"
+  },
+  {
+    "w": "쓰러뜨리다",
+    "p": "sseureotteurida",
+    "m": "đánh bại, hạ gục",
+    "cat": "phrasal"
+  },
+  {
+    "w": "일시 해고하다",
+    "p": "ilsi haegohada",
+    "m": "sa thải tạm thời",
+    "cat": "phrasal"
+  },
+  {
+    "w": "실망시키다",
+    "p": "silmangsikida",
+    "m": "làm thất vọng",
+    "cat": "phrasal"
+  },
+  {
+    "w": "기대에 부응하다",
+    "p": "gidaee bueunghada",
+    "m": "đáp ứng kỳ vọng",
+    "cat": "phrasal"
+  },
+  {
+    "w": "찾아보다",
+    "p": "chajaboda",
+    "m": "tra cứu",
+    "cat": "phrasal"
+  },
+  {
+    "w": "최대한 활용하다",
+    "p": "choedaehan hwaryonghada",
+    "m": "tận dụng tối đa",
+    "cat": "phrasal"
+  },
+  {
+    "w": "참여를 거부하다",
+    "p": "chamyeoreul geobuhada",
+    "m": "từ chối tham gia",
+    "cat": "phrasal"
+  },
+  {
+    "w": "단계적으로 없애다",
+    "p": "dangyejeogeuro eopsaeda",
+    "m": "loại bỏ dần",
+    "cat": "phrasal"
+  },
+  {
+    "w": "이겨내다",
+    "p": "igyeonaeda",
+    "m": "vượt qua khó khăn",
+    "cat": "phrasal"
+  },
+  {
+    "w": "바닥나다",
+    "p": "badaknada",
+    "m": "hết, cạn",
+    "cat": "phrasal"
+  },
+  {
+    "w": "긍정적이다",
+    "p": "geungjeongjeogida",
+    "m": "tích cực",
+    "cat": "advanced"
+  },
+  {
+    "w": "잠재력",
+    "p": "jamjaeryeok",
+    "m": "tiềm năng",
+    "cat": "advanced"
+  },
+  {
+    "w": "예측하다",
+    "p": "yechukhada",
+    "m": "dự đoán",
+    "cat": "advanced"
+  },
+  {
+    "w": "우선순위",
+    "p": "useonsunwi",
+    "m": "ưu tiên",
+    "cat": "advanced"
+  },
+  {
+    "w": "홍보하다",
+    "p": "hongbohada",
+    "m": "thúc đẩy, quảng bá",
+    "cat": "advanced"
+  },
+  {
+    "w": "출판하다",
+    "p": "chulpanhada",
+    "m": "xuất bản",
+    "cat": "advanced"
+  },
+  {
+    "w": "비율",
+    "p": "biyul",
+    "m": "tỉ lệ, tỷ lệ",
+    "cat": "advanced"
+  },
+  {
+    "w": "정기적이다",
+    "p": "jeonggijeogida",
+    "m": "thường xuyên, đều đặn",
+    "cat": "advanced"
+  },
+  {
+    "w": "교체하다",
+    "p": "gyochehada",
+    "m": "thay thế",
+    "cat": "advanced"
+  },
+  {
+    "w": "대표하다",
+    "p": "daepyohada",
+    "m": "đại diện cho",
+    "cat": "advanced"
+  },
+  {
+    "w": "자원",
+    "p": "jawon",
+    "m": "tài nguyên",
+    "cat": "advanced"
+  },
+  {
+    "w": "검토하다",
+    "p": "geomtohada",
+    "m": "xem lại, đánh giá",
+    "cat": "advanced"
+  },
+  {
+    "w": "위험",
+    "p": "wiheom",
+    "m": "rủi ro",
+    "cat": "advanced"
+  },
+  {
+    "w": "만족시키다",
+    "p": "manjoksikida",
+    "m": "thỏa mãn",
+    "cat": "advanced"
+  },
+  {
+    "w": "민감하다",
+    "p": "mingamhada",
+    "m": "nhạy cảm",
+    "cat": "advanced"
+  },
+  {
+    "w": "분리하다",
+    "p": "bullihada",
+    "m": "tách biệt",
+    "cat": "advanced"
+  },
+  {
+    "w": "신호",
+    "p": "sinho",
+    "m": "tín hiệu, dấu hiệu",
+    "cat": "advanced"
+  },
+  {
+    "w": "상황",
+    "p": "sanghwang",
+    "m": "tình huống",
+    "cat": "advanced"
+  },
+  {
+    "w": "퍼지다",
+    "p": "peojida",
+    "m": "lan rộng",
+    "cat": "advanced"
+  },
+  {
+    "w": "기준",
+    "p": "gijun",
+    "m": "tiêu chuẩn",
+    "cat": "advanced"
+  },
+  {
+    "w": "진술하다",
+    "p": "jinsulhada",
+    "m": "phát biểu, trình bày",
+    "cat": "advanced"
+  },
+  {
+    "w": "강력하다",
+    "p": "gangnyeokhada",
+    "m": "mạnh mẽ",
+    "cat": "advanced"
+  },
+  {
+    "w": "경향이 있다",
+    "p": "gyeonghyangi itda",
+    "m": "có xu hướng",
+    "cat": "advanced"
+  },
+  {
+    "w": "완전히",
+    "p": "wanjeonhi",
+    "m": "hoàn toàn",
+    "cat": "advanced"
+  },
+  {
+    "w": "이체하다",
+    "p": "ichehada",
+    "m": "chuyển giao, chuyển khoản",
+    "cat": "advanced"
+  },
+  {
+    "w": "불가능하다",
+    "p": "bulganeunghada",
+    "m": "không có khả năng",
+    "cat": "advanced"
+  },
+  {
+    "w": "예상치 못하다",
+    "p": "yesangchi motada",
+    "m": "bất ngờ",
+    "cat": "advanced"
+  },
+  {
+    "w": "도시의",
+    "p": "dosiui",
+    "m": "đô thị",
+    "cat": "advanced"
+  },
+  {
+    "w": "가치 있다",
+    "p": "gachi itda",
+    "m": "có giá trị",
+    "cat": "advanced"
+  },
+  {
+    "w": "재산",
+    "p": "jaesan",
+    "m": "của cải, tài sản",
+    "cat": "advanced"
+  },
+  {
+    "w": "널리 퍼지다",
+    "p": "neolli peojida",
+    "m": "lan rộng, phổ biến",
+    "cat": "advanced"
+  },
+  {
+    "w": "절대적으로",
+    "p": "jeoldaejeogeuro",
+    "m": "hoàn toàn, chắc chắn",
+    "cat": "advanced"
+  },
+  {
+    "w": "따라서",
+    "p": "ttaraseo",
+    "m": "tương ứng, do vậy",
+    "cat": "advanced"
+  },
+  {
+    "w": "게다가",
+    "p": "gedaga",
+    "m": "ngoài ra, thêm vào",
+    "cat": "advanced"
+  },
+  {
+    "w": "보아하니",
+    "p": "boahani",
+    "m": "có vẻ như",
+    "cat": "advanced"
+  },
+  {
+    "w": "대략",
+    "p": "daeryak",
+    "m": "xấp xỉ, khoảng",
+    "cat": "advanced"
+  },
+  {
+    "w": "대체로",
+    "p": "daechero",
+    "m": "nhìn chung, rộng rãi",
+    "cat": "advanced"
+  },
+  {
+    "w": "밀접하게",
+    "p": "miljeophage",
+    "m": "chặt chẽ, gần gũi",
+    "cat": "advanced"
+  },
+  {
+    "w": "상대적으로",
+    "p": "sangdaejeogeuro",
+    "m": "so sánh mà nói, tương đối",
+    "cat": "advanced"
+  },
+  {
+    "w": "지속적으로",
+    "p": "jisokjeogeuro",
+    "m": "một cách nhất quán, liên tục",
+    "cat": "advanced"
+  },
+  {
+    "w": "끊임없이",
+    "p": "kkeunimeopsi",
+    "m": "liên tục",
+    "cat": "advanced"
+  },
+  {
+    "w": "고의로",
+    "p": "goeuiro",
+    "m": "có chủ ý, cố tình",
+    "cat": "advanced"
+  },
+  {
+    "w": "직접적으로",
+    "p": "jikjeopjeogeuro",
+    "m": "trực tiếp",
+    "cat": "advanced"
+  },
+  {
+    "w": "효과적으로",
+    "p": "hyogwajeogeuro",
+    "m": "một cách hiệu quả",
+    "cat": "advanced"
+  },
+  {
+    "w": "똑같이",
+    "p": "ttokgachi",
+    "m": "bằng nhau",
+    "cat": "advanced"
+  },
+  {
+    "w": "굉장히",
+    "p": "goengjanghi",
+    "m": "rất, ở mức cao",
+    "cat": "advanced"
+  },
+  {
+    "w": "점점 더",
+    "p": "jeomjeom deo",
+    "m": "ngày càng tăng",
+    "cat": "advanced"
+  },
+  {
+    "w": "대부분",
+    "p": "daebubun",
+    "m": "phần lớn",
+    "cat": "advanced"
+  },
+  {
+    "w": "문자 그대로",
+    "p": "munja geudaero",
+    "m": "theo nghĩa đen",
+    "cat": "advanced"
+  },
+  {
+    "w": "그저",
+    "p": "geujeo",
+    "m": "chỉ đơn giản là",
+    "cat": "advanced"
+  },
+  {
+    "w": "돌려주다",
+    "p": "dollyeojuda",
+    "m": "trả lại",
+    "cat": "phrasal"
+  },
+  {
+    "w": "이륙하다",
+    "p": "iryukhada",
+    "m": "cất cánh",
+    "cat": "phrasal"
+  },
+  {
+    "w": "치우다",
+    "p": "chiuda",
+    "m": "cất đi, dọn dẹp",
+    "cat": "phrasal"
+  },
+  {
+    "w": "내려놓다",
+    "p": "naeryonota",
+    "m": "đặt xuống",
+    "cat": "phrasal"
+  },
+  {
+    "w": "도망치다",
+    "p": "domangchida",
+    "m": "trốn thoát",
+    "cat": "phrasal"
+  },
+  {
+    "w": "되찾다",
+    "p": "doechatda",
+    "m": "lấy lại",
+    "cat": "phrasal"
+  },
+  {
+    "w": "통과하다",
+    "p": "tonggwahada",
+    "m": "vượt qua, hoàn thành xong",
+    "cat": "phrasal"
+  },
+  {
+    "w": "계속되다",
+    "p": "gyesokdoeda",
+    "m": "tiếp tục, xảy ra",
+    "cat": "phrasal"
+  },
+  {
+    "w": "외출하다",
+    "p": "oechulhada",
+    "m": "ra ngoài",
+    "cat": "phrasal"
+  },
+  {
+    "w": "울리다",
+    "p": "ullida",
+    "m": "reo (chuông)",
+    "cat": "phrasal"
+  },
+  {
+    "w": "사라지다",
+    "p": "sarajida",
+    "m": "đi khỏi, biến mất",
+    "cat": "phrasal"
+  },
+  {
+    "w": "나타나다",
+    "p": "natanada",
+    "m": "xuất hiện, nảy sinh",
+    "cat": "phrasal"
+  },
+  {
+    "w": "놀러 오다",
+    "p": "nolleo oda",
+    "m": "ghé qua chơi",
+    "cat": "phrasal"
+  },
+  {
+    "w": "발표되다",
+    "p": "balpyodoeda",
+    "m": "ra mắt, được công bố",
+    "cat": "phrasal"
+  },
+  {
+    "w": "조심하다",
+    "p": "josimhada",
+    "m": "coi chừng, cẩn thận",
+    "cat": "phrasal"
+  },
+  {
+    "w": "훑어보다",
+    "p": "hulteoboda",
+    "m": "xem qua, kiểm tra nhanh",
+    "cat": "phrasal"
+  },
+  {
+    "w": "발발하다",
+    "p": "balbalhada",
+    "m": "bùng phát, nổ ra",
+    "cat": "phrasal"
+  },
+  {
+    "w": "끊다",
+    "p": "kkeunta",
+    "m": "cắt đứt, chấm dứt",
+    "cat": "phrasal"
+  },
+  {
+    "w": "다시 전화하다",
+    "p": "dasi jeonhwahada",
+    "m": "gọi điện lại",
+    "cat": "phrasal"
+  },
+  {
+    "w": "소리치다",
+    "p": "sorichida",
+    "m": "gọi to, hô lớn",
+    "cat": "phrasal"
+  },
+  {
+    "w": "인식",
+    "p": "insik",
+    "m": "sự nhận thức, ý thức",
+    "cat": "academic"
+  },
+  {
+    "w": "그래프",
+    "p": "geuraepeu",
+    "m": "biểu đồ",
+    "cat": "academic"
+  },
+  {
+    "w": "분석",
+    "p": "bunseok",
+    "m": "sự phân tích",
+    "cat": "academic"
+  },
+  {
+    "w": "사설",
+    "p": "sasel",
+    "m": "bài xã luận",
+    "cat": "academic"
+  },
+  {
+    "w": "칼럼",
+    "p": "kalleom",
+    "m": "cột báo, chuyên mục",
+    "cat": "academic"
+  },
+  {
+    "w": "방언",
+    "p": "bangeon",
+    "m": "phương ngữ",
+    "cat": "academic"
+  },
+  {
+    "w": "연구 논문",
+    "p": "yeongu nonmun",
+    "m": "bài nghiên cứu khoa học",
+    "cat": "academic"
+  },
+  {
+    "w": "견본",
+    "p": "gyeonbon",
+    "m": "mẫu, ví dụ điển hình",
+    "cat": "academic"
+  },
+  {
+    "w": "통계적이다",
+    "p": "tonggyejeogida",
+    "m": "thuộc về thống kê",
+    "cat": "academic"
+  },
+  {
+    "w": "특집 기사",
+    "p": "teukjip gisa",
+    "m": "bài báo chuyên đề",
+    "cat": "academic"
+  },
+  {
+    "w": "은유",
+    "p": "eunyu",
+    "m": "ẩn dụ",
+    "cat": "academic"
+  },
+  {
+    "w": "개념",
+    "p": "gaenyeom",
+    "m": "khái niệm",
+    "cat": "academic"
+  },
+  {
+    "w": "초안",
+    "p": "choan",
+    "m": "bản thảo",
+    "cat": "academic"
+  },
+  {
+    "w": "요컨대",
+    "p": "yokeondae",
+    "m": "tóm lại, nói tóm lại",
+    "cat": "academic"
+  },
+  {
+    "w": "전반적으로",
+    "p": "jeonbanjeogeuro",
+    "m": "nhìn chung, tổng thể",
+    "cat": "academic"
+  },
+  {
+    "w": "다시 말해서",
+    "p": "dasi malhaeseo",
+    "m": "nói cách khác",
+    "cat": "academic"
+  },
+  {
+    "w": "사실은",
+    "p": "sasireun",
+    "m": "thực ra là",
+    "cat": "academic"
+  },
+  {
+    "w": "일반적으로",
+    "p": "ilbanjeogeuro",
+    "m": "nói chung, nhìn tổng quát",
+    "cat": "academic"
+  },
+  {
+    "w": "솔직히",
+    "p": "soljikhi",
+    "m": "thành thật mà nói",
+    "cat": "academic"
+  },
+  {
+    "w": "그 결과",
+    "p": "geu gyeolgwa",
+    "m": "là hệ quả của, vì thế",
+    "cat": "academic"
+  },
+  {
+    "w": "우선",
+    "p": "useon",
+    "m": "đầu tiên là, để bắt đầu",
+    "cat": "academic"
+  },
+  {
+    "w": "측면에서",
+    "p": "cheungmyeoneseo",
+    "m": "về mặt, xét theo góc độ",
+    "cat": "academic"
+  },
+  {
+    "w": "관계없이",
+    "p": "gwangyeeopsi",
+    "m": "bất kể, không quan tâm đến",
+    "cat": "academic"
+  },
+  {
+    "w": "비교하면",
+    "p": "bigyohamyeon",
+    "m": "so với, so sánh với",
+    "cat": "academic"
+  },
+  {
+    "w": "근거로",
+    "p": "geungeoro",
+    "m": "dựa trên, căn cứ vào",
+    "cat": "academic"
+  },
+  {
+    "w": "연구를 진행하다",
+    "p": "yeonguleul jinhaenghada",
+    "m": "tiến hành nghiên cứu",
+    "cat": "academic"
+  },
+  {
+    "w": "강한 의견",
+    "p": "ganghan uigyeon",
+    "m": "ý kiến mạnh mẽ",
+    "cat": "academic"
+  },
+  {
+    "w": "뚜렷한 대조",
+    "p": "tturyeotan daejo",
+    "m": "sự tương phản sắc nét",
+    "cat": "academic"
+  },
+  {
+    "w": "핵심 요인",
+    "p": "haeksim yoin",
+    "m": "yếu tố then chốt",
+    "cat": "academic"
+  },
+  {
+    "w": "중요한 역할",
+    "p": "jungyohan yeokhal",
+    "m": "vai trò quan trọng",
+    "cat": "academic"
+  },
+  {
+    "w": "상당한 영향",
+    "p": "sangdanghan yeonghyang",
+    "m": "tác động đáng kể",
+    "cat": "academic"
+  },
+  {
+    "w": "부정적 영향",
+    "p": "bujeongjeok yeonghyang",
+    "m": "tác động tiêu cực",
+    "cat": "academic"
+  },
+  {
+    "w": "긍정적 결과",
+    "p": "geungjeongjeok gyeolgwa",
+    "m": "kết quả tích cực",
+    "cat": "academic"
+  },
+  {
+    "w": "다양한 범위",
+    "p": "dayanghan beomwi",
+    "m": "phạm vi rộng, đa dạng",
+    "cat": "academic"
+  },
+  {
+    "w": "필수 과목",
+    "p": "pilsu gwamok",
+    "m": "môn học bắt buộc",
+    "cat": "education"
+  },
+  {
+    "w": "담임 선생님",
+    "p": "damim seonsaengnim",
+    "m": "giáo viên chủ nhiệm",
+    "cat": "education"
+  },
+  {
+    "w": "재시험",
+    "p": "jaesiheom",
+    "m": "thi lại",
+    "cat": "education"
+  },
+  {
+    "w": "합격 점수",
+    "p": "hapgyeok jeomsu",
+    "m": "điểm đạt yêu cầu",
+    "cat": "education"
+  },
+  {
+    "w": "교칙",
+    "p": "gyochik",
+    "m": "nội quy trường",
+    "cat": "education"
+  },
+  {
+    "w": "학부모 모임",
+    "p": "hakbumo moim",
+    "m": "buổi họp phụ huynh",
+    "cat": "education"
+  },
+  {
+    "w": "영재반",
+    "p": "yeongjaeban",
+    "m": "lớp năng khiếu",
+    "cat": "education"
+  },
+  {
+    "w": "졸업장",
+    "p": "joreopjang",
+    "m": "bằng tốt nghiệp",
+    "cat": "education"
+  },
+  {
+    "w": "동창회",
+    "p": "dongchanghoe",
+    "m": "buổi họp lớp",
+    "cat": "education"
+  },
+  {
+    "w": "캠퍼스",
+    "p": "kaempeoseu",
+    "m": "khuôn viên trường",
+    "cat": "education"
+  },
+  {
+    "w": "학생 식당",
+    "p": "haksaeng sikdang",
+    "m": "nhà ăn, căng tin",
+    "cat": "education"
+  },
+  {
+    "w": "학용품",
+    "p": "hagyongpum",
+    "m": "đồ dùng học tập",
+    "cat": "education"
+  },
+  {
+    "w": "여름 방학",
+    "p": "yeoreum banghak",
+    "m": "kỳ nghỉ hè",
+    "cat": "education"
+  },
+  {
+    "w": "생활기록부",
+    "p": "saenghwalgirokbu",
+    "m": "bảng điểm, học bạ",
+    "cat": "education"
+  },
+  {
+    "w": "연습 문제",
+    "p": "yeonseup munje",
+    "m": "bài tập luyện tập",
+    "cat": "education"
+  },
+  {
+    "w": "오답",
+    "p": "odap",
+    "m": "câu làm sai",
+    "cat": "education"
+  },
+  {
+    "w": "시험 결과",
+    "p": "siheom gyeolgwa",
+    "m": "kết quả thi",
+    "cat": "education"
+  },
+  {
+    "w": "재수강하다",
+    "p": "jaesuganghada",
+    "m": "học lại (môn học)",
+    "cat": "education"
+  },
+  {
+    "w": "지도 교수",
+    "p": "jido gyosu",
+    "m": "giáo viên hướng dẫn, cố vấn",
+    "cat": "education"
+  },
+  {
+    "w": "체력을 기르다",
+    "p": "cheryeogeul gireuda",
+    "m": "rèn luyện sức khỏe",
+    "cat": "education"
+  },
+  {
+    "w": "체육 시간",
+    "p": "cheyuk sigan",
+    "m": "giờ học thể dục",
+    "cat": "education"
+  },
+  {
+    "w": "음악 시간",
+    "p": "eumak sigan",
+    "m": "giờ học âm nhạc",
+    "cat": "education"
+  },
+  {
+    "w": "미술 시간",
+    "p": "misul sigan",
+    "m": "giờ học mỹ thuật",
+    "cat": "education"
+  },
+  {
+    "w": "과학 시간",
+    "p": "gwahak sigan",
+    "m": "giờ học khoa học",
+    "cat": "education"
+  },
+  {
+    "w": "역사 시간",
+    "p": "yeoksa sigan",
+    "m": "giờ học lịch sử",
+    "cat": "education"
+  },
+  {
+    "w": "지리 시간",
+    "p": "jiri sigan",
+    "m": "giờ học địa lý",
+    "cat": "education"
+  },
+  {
+    "w": "수학 문제",
+    "p": "suhak munje",
+    "m": "bài toán",
+    "cat": "education"
+  },
+  {
+    "w": "영어 시간",
+    "p": "yeongeo sigan",
+    "m": "giờ học tiếng Anh",
+    "cat": "education"
+  },
+  {
+    "w": "한국어 실력",
+    "p": "hangugeo sillyeok",
+    "m": "trình độ tiếng Hàn",
+    "cat": "education"
+  },
+  {
+    "w": "독해",
+    "p": "dokhae",
+    "m": "đọc hiểu",
+    "cat": "education"
+  },
+  {
+    "w": "작문하다",
+    "p": "jangmunhada",
+    "m": "viết văn",
+    "cat": "education"
+  },
+  {
+    "w": "부교재",
+    "p": "bugyojae",
+    "m": "sách ngoại khóa",
+    "cat": "education"
+  },
+  {
+    "w": "교환 학생",
+    "p": "gyohwan haksaeng",
+    "m": "sinh viên trao đổi",
+    "cat": "education"
+  },
+  {
+    "w": "운전면허증",
+    "p": "unjeonmyeoheojeung",
+    "m": "bằng lái xe",
+    "cat": "transport"
+  },
+  {
+    "w": "표를 예매하다",
+    "p": "pyoreul yemaehada",
+    "m": "đặt vé",
+    "cat": "transport"
+  },
+  {
+    "w": "내비게이션",
+    "p": "naebigeisyeon",
+    "m": "định vị dẫn đường",
+    "cat": "transport"
+  },
+  {
+    "w": "길을 안내하다",
+    "p": "gireul annaehada",
+    "m": "chỉ đường",
+    "cat": "transport"
+  },
+  {
+    "w": "표지판",
+    "p": "pyojipan",
+    "m": "biển chỉ đường",
+    "cat": "transport"
+  },
+  {
+    "w": "버스 터미널",
+    "p": "beoseu teomineol",
+    "m": "bến xe",
+    "cat": "transport"
+  },
+  {
+    "w": "교통 법규",
+    "p": "gyotong beopgyu",
+    "m": "luật giao thông",
+    "cat": "transport"
+  },
+  {
+    "w": "교통 위반",
+    "p": "gyotong wiban",
+    "m": "vi phạm giao thông",
+    "cat": "transport"
+  },
+  {
+    "w": "과속하다",
+    "p": "gwasokhada",
+    "m": "chạy quá tốc độ",
+    "cat": "transport"
+  },
+  {
+    "w": "과태료",
+    "p": "gwataeryo",
+    "m": "phiếu phạt, tiền phạt",
+    "cat": "transport"
+  },
+  {
+    "w": "매대",
+    "p": "maedae",
+    "m": "quầy hàng",
+    "cat": "work"
+  },
+  {
+    "w": "재입고되다",
+    "p": "jaeipgodoeda",
+    "m": "nhập hàng bổ sung",
+    "cat": "work"
+  },
+  {
+    "w": "공동구매",
+    "p": "gongdonggumae",
+    "m": "mua theo nhóm",
+    "cat": "work"
+  },
+  {
+    "w": "증정품",
+    "p": "jeungjeongpum",
+    "m": "quà tặng kèm",
+    "cat": "work"
+  },
+  {
+    "w": "회원 카드",
+    "p": "hoewon kadeu",
+    "m": "thẻ hội viên",
+    "cat": "work"
+  },
+  {
+    "w": "영업시간",
+    "p": "yeongeopsigan",
+    "m": "giờ mở cửa kinh doanh",
+    "cat": "work"
+  },
+  {
+    "w": "문을 닫다",
+    "p": "muneul datda",
+    "m": "đóng cửa",
+    "cat": "work"
+  },
+  {
+    "w": "문을 열다",
+    "p": "muneul yeolda",
+    "m": "mở cửa",
+    "cat": "work"
+  },
+  {
+    "w": "번호표",
+    "p": "beonhopyo",
+    "m": "số thứ tự (xếp hàng)",
+    "cat": "work"
+  },
+  {
+    "w": "휴대폰 번호",
+    "p": "hyudaepon beonho",
+    "m": "số điện thoại di động",
+    "cat": "tech"
+  },
+  {
+    "w": "무선 인터넷",
+    "p": "museon inteonet",
+    "m": "không dây (wifi)",
+    "cat": "tech"
+  },
+  {
+    "w": "웹 브라우저",
+    "p": "wep beurauseo",
+    "m": "trình duyệt web",
+    "cat": "tech"
+  },
+  {
+    "w": "비밀번호 오류",
+    "p": "bimilbeonho oryu",
+    "m": "sai mật khẩu",
+    "cat": "tech"
+  },
+  {
+    "w": "셀카를 찍다",
+    "p": "selkareul jjikda",
+    "m": "tự chụp ảnh (selfie)",
+    "cat": "tech"
+  },
+  {
+    "w": "텔레비전 프로그램",
+    "p": "tellebijeon peurogeuraem",
+    "m": "chương trình truyền hình",
+    "cat": "media"
+  },
+  {
+    "w": "퇴원하다",
+    "p": "toewonhada",
+    "m": "xuất viện",
+    "cat": "health"
+  },
+  {
+    "w": "병가",
+    "p": "byeongga",
+    "m": "nghỉ ốm",
+    "cat": "health"
+  },
+  {
+    "w": "복용하다",
+    "p": "bogyonghada",
+    "m": "uống thuốc (trang trọng)",
+    "cat": "health"
+  },
+  {
+    "w": "치과 의사",
+    "p": "chigwa uisa",
+    "m": "nha sĩ",
+    "cat": "work"
+  },
+  {
+    "w": "살이 찌다",
+    "p": "sari jjida",
+    "m": "tăng cân",
+    "cat": "health"
+  },
+  {
+    "w": "꿈을 꾸다",
+    "p": "kkumeul kkuda",
+    "m": "nằm mơ",
+    "cat": "health"
+  },
+  {
+    "w": "일자리를 구하다",
+    "p": "iljarireul guhada",
+    "m": "tìm việc",
+    "cat": "work"
+  },
+  {
+    "w": "연차",
+    "p": "yeoncha",
+    "m": "nghỉ phép năm",
+    "cat": "work"
+  },
+  {
+    "w": "조퇴하다",
+    "p": "jotoehada",
+    "m": "về sớm (khi chưa hết giờ)",
+    "cat": "work"
+  },
+  {
+    "w": "당직을 서다",
+    "p": "dangjigeul seoda",
+    "m": "trực ca",
+    "cat": "work"
+  },
+  {
+    "w": "비서",
+    "p": "biseo",
+    "m": "thư ký",
+    "cat": "work"
+  },
+  {
+    "w": "판매원",
+    "p": "panmaewon",
+    "m": "nhân viên bán hàng",
+    "cat": "work"
+  },
+  {
+    "w": "미화원",
+    "p": "mihwawon",
+    "m": "công nhân vệ sinh",
+    "cat": "work"
+  },
+  {
+    "w": "수리공",
+    "p": "surigong",
+    "m": "thợ sửa chữa",
+    "cat": "work"
+  },
+  {
+    "w": "미용사",
+    "p": "miyongsa",
+    "m": "thợ làm tóc",
+    "cat": "work"
+  },
+  {
+    "w": "메이크업 아티스트",
+    "p": "meikeueop atiseuteu",
+    "m": "chuyên viên trang điểm",
+    "cat": "work"
+  },
+  {
+    "w": "사진작가",
+    "p": "sajinjakga",
+    "m": "nhiếp ảnh gia",
+    "cat": "work"
+  },
+  {
+    "w": "디자이너",
+    "p": "dijaineo",
+    "m": "nhà thiết kế",
+    "cat": "work"
+  },
+  {
+    "w": "외삼촌",
+    "p": "oesamchon",
+    "m": "cậu (em/anh trai của mẹ)",
+    "cat": "family"
+  },
+  {
+    "w": "고모",
+    "p": "gomo",
+    "m": "cô (em/chị gái của bố)",
+    "cat": "family"
+  },
+  {
+    "w": "부부",
+    "p": "bubu",
+    "m": "vợ chồng",
+    "cat": "family"
+  },
+  {
+    "w": "동창",
+    "p": "dongchang",
+    "m": "bạn học cũ",
+    "cat": "family"
+  },
+  {
+    "w": "오랜 친구",
+    "p": "oraen chingu",
+    "m": "bạn cũ, bạn lâu năm",
+    "cat": "family"
+  },
+  {
+    "w": "새 친구",
+    "p": "sae chingu",
+    "m": "bạn mới",
+    "cat": "family"
+  },
+  {
+    "w": "반장",
+    "p": "banjang",
+    "m": "lớp trưởng",
+    "cat": "family"
+  },
+  {
+    "w": "세탁하다",
+    "p": "setakhada",
+    "m": "giặt quần áo",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "볶다",
+    "p": "bokda",
+    "m": "xào món ăn",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "밥을 짓다",
+    "p": "babeul jitda",
+    "m": "nấu cơm",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "쓰레기",
+    "p": "sseuregi",
+    "m": "rác",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "택배",
+    "p": "taekbae",
+    "m": "chuyển phát nhanh, bưu kiện",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "임대하다",
+    "p": "imdaehada",
+    "m": "cho thuê",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "주택",
+    "p": "jutaek",
+    "m": "nhà, căn nhà",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "주거 단지",
+    "p": "jugeo danji",
+    "m": "khu dân cư",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "유통기한이 지나다",
+    "p": "yutonggihani jinada",
+    "m": "hết hạn sử dụng",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "수하물 초과",
+    "p": "suhamul chogwa",
+    "m": "quá cân (hành lý)",
+    "cat": "travel"
+  },
+  {
+    "w": "해외로 나가다",
+    "p": "haeoero nagada",
+    "m": "xuất ngoại, ra nước ngoài",
+    "cat": "travel"
+  },
+  {
+    "w": "홍수",
+    "p": "hongsu",
+    "m": "lũ lụt",
+    "cat": "nature"
+  },
+  {
+    "w": "기온",
+    "p": "gion",
+    "m": "nhiệt độ (khí quyển)",
+    "cat": "nature"
+  },
+  {
+    "w": "폭우",
+    "p": "pogu",
+    "m": "mưa lớn",
+    "cat": "nature"
+  },
+  {
+    "w": "소나기",
+    "p": "sonagi",
+    "m": "mưa rào",
+    "cat": "nature"
+  },
+  {
+    "w": "얼어붙다",
+    "p": "eoreobutda",
+    "m": "đóng băng",
+    "cat": "nature"
+  },
+  {
+    "w": "혹한",
+    "p": "hokhan",
+    "m": "lạnh giá",
+    "cat": "nature"
+  },
+  {
+    "w": "골목",
+    "p": "golmok",
+    "m": "ngõ nhỏ",
+    "cat": "nature"
+  },
+  {
+    "w": "마을",
+    "p": "maeul",
+    "m": "làng, thôn",
+    "cat": "nature"
+  },
+  {
+    "w": "논밭",
+    "p": "nonbat",
+    "m": "ruộng đất",
+    "cat": "nature"
+  },
+  {
+    "w": "풍속",
+    "p": "pungsok",
+    "m": "sức gió, cấp gió",
+    "cat": "nature"
+  },
+  {
+    "w": "물을 절약하다",
+    "p": "mureul jeoryakhada",
+    "m": "tiết kiệm nước",
+    "cat": "environment"
+  },
+  {
+    "w": "전기를 절약하다",
+    "p": "jeongireul jeoryakhada",
+    "m": "tiết kiệm điện",
+    "cat": "environment"
+  },
+  {
+    "w": "소음",
+    "p": "soeum",
+    "m": "tiếng ồn",
+    "cat": "environment"
+  },
+  {
+    "w": "조용한 환경",
+    "p": "joyonghan hwangyeong",
+    "m": "môi trường yên tĩnh",
+    "cat": "environment"
+  },
+  {
+    "w": "남을 돕다",
+    "p": "nameul dopda",
+    "m": "giúp đỡ người khác",
+    "cat": "xã hội"
+  },
+  {
+    "w": "서로 돕다",
+    "p": "seoro dopda",
+    "m": "giúp đỡ lẫn nhau",
+    "cat": "xã hội"
+  },
+  {
+    "w": "단결하다",
+    "p": "dangyeolhada",
+    "m": "đoàn kết",
+    "cat": "xã hội"
+  },
+  {
+    "w": "기쁨을 나누다",
+    "p": "gippeumeul nanuda",
+    "m": "chia sẻ niềm vui",
+    "cat": "xã hội"
+  },
+  {
+    "w": "명절을 보내다",
+    "p": "myeongjeoreul bonaeda",
+    "m": "ăn tết, đón lễ",
+    "cat": "culture"
+  },
+  {
+    "w": "정월대보름",
+    "p": "jeongwoldaeboreum",
+    "m": "rằm tháng Giêng (lễ Hàn)",
+    "cat": "culture"
+  },
+  {
+    "w": "동행하다",
+    "p": "donghaenghada",
+    "m": "đồng hành, ở bên",
+    "cat": "travel"
+  },
+  {
+    "w": "거만하다",
+    "p": "geomanhada",
+    "m": "kiêu ngạo tự mãn",
+    "cat": "tính từ"
+  },
+  {
+    "w": "유머러스하다",
+    "p": "yumeoreoseuhada",
+    "m": "hài hước, dí dỏm",
+    "cat": "tính từ"
+  },
+  {
+    "w": "식물원",
+    "p": "singmurwon",
+    "m": "vườn thực vật",
+    "cat": "travel"
+  },
+  {
+    "w": "기념사진을 찍다",
+    "p": "ginyeomsajineul jjikda",
+    "m": "chụp ảnh lưu niệm",
+    "cat": "travel"
+  },
+  {
+    "w": "체육 대회",
+    "p": "cheyuk daehoe",
+    "m": "hội thao",
+    "cat": "sport"
+  },
+  {
+    "w": "우울하다",
+    "p": "uulhada",
+    "m": "buồn bực, u uất",
+    "cat": "emotions"
+  },
+  {
+    "w": "원만하다",
+    "p": "wonmanhada",
+    "m": "dễ tính, hòa đồng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "햇빛을 가리다",
+    "p": "haetbicheul garida",
+    "m": "chống nắng",
+    "cat": "health"
+  },
+  {
+    "w": "탑승구",
+    "p": "tapseunggu",
+    "m": "cổng lên máy bay",
+    "cat": "travel"
+  },
+  {
+    "w": "태풍 경보",
+    "p": "taepung gyeongbo",
+    "m": "cảnh báo bão",
+    "cat": "nature"
+  },
+  {
+    "w": "예상 밖이다",
+    "p": "yesang bakkida",
+    "m": "ngoài dự đoán",
+    "cat": "tính từ"
+  },
+  {
+    "w": "입원하다",
+    "p": "ibwonhada",
+    "m": "nhập viện",
+    "cat": "health"
+  },
+  {
+    "w": "응급실",
+    "p": "eunggeupsil",
+    "m": "phòng cấp cứu",
+    "cat": "health"
+  },
+  {
+    "w": "근시",
+    "p": "geunsi",
+    "m": "cận thị",
+    "cat": "health"
+  },
+  {
+    "w": "건강 검진",
+    "p": "geongang geomjin",
+    "m": "khám sức khỏe",
+    "cat": "health"
+  },
+  {
+    "w": "환불받다",
+    "p": "hwanbulbatda",
+    "m": "được hoàn tiền",
+    "cat": "work"
+  },
+  {
+    "w": "가뭄",
+    "p": "gamum",
+    "m": "hạn hán",
+    "cat": "nature"
+  },
+  {
+    "w": "아이를 돌보다",
+    "p": "aireul dolboda",
+    "m": "kèm học, chăm sóc con",
+    "cat": "family"
+  },
+  {
+    "w": "접대하다",
+    "p": "jeopdaehada",
+    "m": "đến làm khách, tiếp đãi",
+    "cat": "xã hội"
+  },
+  {
+    "w": "분하다",
+    "p": "bunhada",
+    "m": "bực bội, tức giận",
+    "cat": "emotions"
+  },
+  {
+    "w": "축복하다",
+    "p": "chukbokhada",
+    "m": "chúc phúc",
+    "cat": "culture"
+  },
+  {
+    "w": "프로그래머",
+    "p": "peurogeuraemeo",
+    "m": "lập trình viên",
+    "cat": "work"
+  },
+  {
+    "w": "판매 상담원",
+    "p": "panmae sangdamwon",
+    "m": "nhân viên tư vấn mua hàng",
+    "cat": "work"
+  },
+  {
+    "w": "학원",
+    "p": "hagwon",
+    "m": "lớp học thêm, trung tâm luyện thi",
+    "cat": "education"
+  },
+  {
+    "w": "어린이집",
+    "p": "eorinijip",
+    "m": "nhà trẻ",
+    "cat": "education"
+  },
+  {
+    "w": "초등학교",
+    "p": "chodeunghakgyo",
+    "m": "trường tiểu học",
+    "cat": "education"
+  },
+  {
+    "w": "대학생",
+    "p": "daehaksaeng",
+    "m": "sinh viên đại học",
+    "cat": "education"
+  },
+  {
+    "w": "스쿨버스",
+    "p": "seukulbeoseu",
+    "m": "xe buýt trường học",
+    "cat": "education"
+  },
+  {
+    "w": "학생증",
+    "p": "haksaengjeung",
+    "m": "thẻ học sinh, thẻ sinh viên",
+    "cat": "education"
+  },
+  {
+    "w": "책을 반납하다",
+    "p": "chaegeul bannaphada",
+    "m": "trả sách",
+    "cat": "education"
+  },
+  {
+    "w": "농구장",
+    "p": "nonggujang",
+    "m": "sân bóng rổ",
+    "cat": "sport"
+  },
+  {
+    "w": "축구장",
+    "p": "chukgujang",
+    "m": "sân bóng đá",
+    "cat": "sport"
+  },
+  {
+    "w": "배구장",
+    "p": "baegujang",
+    "m": "sân bóng chuyền",
+    "cat": "sport"
+  },
+  {
+    "w": "탁구대",
+    "p": "takgudae",
+    "m": "bàn bóng bàn",
+    "cat": "sport"
+  },
+  {
+    "w": "배드민턴 라켓",
+    "p": "baedeuminteon raket",
+    "m": "vợt cầu lông",
+    "cat": "sport"
+  },
+  {
+    "w": "중간고사",
+    "p": "junggangosa",
+    "m": "kỳ thi giữa kỳ",
+    "cat": "education"
+  },
+  {
+    "w": "기말고사",
+    "p": "gimalgosa",
+    "m": "kỳ thi cuối kỳ",
+    "cat": "education"
+  },
+  {
+    "w": "포인트를 적립하다",
+    "p": "pointeureul jeongnipada",
+    "m": "tích điểm",
+    "cat": "work"
+  },
+  {
+    "w": "온라인 쇼핑",
+    "p": "ollain syoping",
+    "m": "mua sắm online",
+    "cat": "work"
+  },
+  {
+    "w": "잡화점",
+    "p": "japhwajeom",
+    "m": "cửa hàng tạp hóa",
+    "cat": "work"
+  },
+  {
+    "w": "중고품",
+    "p": "junggopum",
+    "m": "đồ cũ",
+    "cat": "work"
+  },
+  {
+    "w": "신상품",
+    "p": "sinsangpum",
+    "m": "mẫu mới",
+    "cat": "work"
+  },
+  {
+    "w": "현금 결제",
+    "p": "hyeongeum gyeolje",
+    "m": "thanh toán tiền mặt",
+    "cat": "work"
+  },
+  {
+    "w": "나쁜 후기",
+    "p": "nappeun hugi",
+    "m": "đánh giá xấu",
+    "cat": "work"
+  },
+  {
+    "w": "좋은 후기",
+    "p": "joeun hugi",
+    "m": "đánh giá tốt",
+    "cat": "work"
+  },
+  {
+    "w": "흐려지다",
+    "p": "heuryeojida",
+    "m": "trở nên âm u, nhiều mây",
+    "cat": "nature"
+  },
+  {
+    "w": "가랑비",
+    "p": "garangbi",
+    "m": "mưa nhỏ",
+    "cat": "nature"
+  },
+  {
+    "w": "폭설",
+    "p": "pokseol",
+    "m": "bão tuyết",
+    "cat": "nature"
+  },
+  {
+    "w": "양산",
+    "p": "yangsan",
+    "m": "ô che nắng",
+    "cat": "work"
+  },
+  {
+    "w": "개찰구를 통과하다",
+    "p": "gaechalgureul tonggwahada",
+    "m": "quẹt thẻ qua cổng soát vé",
+    "cat": "transport"
+  },
+  {
+    "w": "막차",
+    "p": "makcha",
+    "m": "chuyến xe cuối",
+    "cat": "transport"
+  },
+  {
+    "w": "첫차",
+    "p": "cheotcha",
+    "m": "chuyến xe đầu tiên",
+    "cat": "transport"
+  },
+  {
+    "w": "안전벨트를 매다",
+    "p": "anjeonbelteureul maeda",
+    "m": "thắt dây an toàn",
+    "cat": "transport"
+  },
+  {
+    "w": "운전면허 시험을 보다",
+    "p": "unjeonmyeoheo siheomeul boda",
+    "m": "thi bằng lái xe",
+    "cat": "transport"
+  },
+  {
+    "w": "행인에게 길을 묻다",
+    "p": "haengin-ege gireul mutda",
+    "m": "hỏi đường người đi đường",
+    "cat": "transport"
+  },
+  {
+    "w": "기분이 안 좋다",
+    "p": "gibuni an jota",
+    "m": "tâm trạng không tốt",
+    "cat": "emotions"
+  },
+  {
+    "w": "마음이 벅차다",
+    "p": "maeumi beokchada",
+    "m": "trong lòng vui mừng, xúc động",
+    "cat": "emotions"
+  },
+  {
+    "w": "의기소침하다",
+    "p": "uigisochimhada",
+    "m": "tâm trạng chán nản",
+    "cat": "emotions"
+  },
+  {
+    "w": "흥분되다",
+    "p": "heungbundoeda",
+    "m": "cảm xúc kích động, hào hứng",
+    "cat": "emotions"
+  },
+  {
+    "w": "심경이 복잡하다",
+    "p": "simgyeongi bokjaphada",
+    "m": "tâm trạng phức tạp",
+    "cat": "emotions"
+  },
+  {
+    "w": "마음이 놓이다",
+    "p": "maeumi nohida",
+    "m": "trong lòng yên tâm",
+    "cat": "emotions"
+  },
+  {
+    "w": "시름에 잠기다",
+    "p": "sireume jamgida",
+    "m": "lo âu, sầu muộn",
+    "cat": "emotions"
+  },
+  {
+    "w": "화가 치밀다",
+    "p": "hwaga chimilda",
+    "m": "giận âm ỉ trong lòng",
+    "cat": "emotions"
+  },
+  {
+    "w": "안타까워하다",
+    "p": "antakkawohada",
+    "m": "xót xa, thương xót",
+    "cat": "emotions"
+  },
+  {
+    "w": "훌쩍이다",
+    "p": "huljjeogida",
+    "m": "khóc nhè, sụt sịt",
+    "cat": "emotions"
+  },
+  {
+    "w": "눈물을 흘리다",
+    "p": "nunmureul heullida",
+    "m": "chảy nước mắt",
+    "cat": "emotions"
+  },
+  {
+    "w": "투정을 부리다",
+    "p": "tujeongeul burida",
+    "m": "làm nũng, giở tính khí",
+    "cat": "emotions"
+  },
+  {
+    "w": "어리광을 부리다",
+    "p": "eoriganggeul burida",
+    "m": "nũng nịu",
+    "cat": "emotions"
+  },
+  {
+    "w": "위로하다",
+    "p": "wirohada",
+    "m": "an ủi người khác",
+    "cat": "emotions"
+  },
+  {
+    "w": "타이르다",
+    "p": "taireuda",
+    "m": "khuyên nhủ",
+    "cat": "emotions"
+  },
+  {
+    "w": "보살피다",
+    "p": "bosalpida",
+    "m": "quan tâm chăm sóc",
+    "cat": "emotions"
+  },
+  {
+    "w": "성격이 좋다",
+    "p": "seonggyeogi jota",
+    "m": "tính tình tốt, dễ chịu",
+    "cat": "tính từ"
+  },
+  {
+    "w": "성격이 급하다",
+    "p": "seonggyeogi geupada",
+    "m": "tính tình nóng nảy",
+    "cat": "tính từ"
+  },
+  {
+    "w": "기꺼이 돕다",
+    "p": "gikkeoi dopda",
+    "m": "vui vẻ giúp đỡ người khác",
+    "cat": "tính từ"
+  },
+  {
+    "w": "막무가내다",
+    "p": "makmuganaeda",
+    "m": "không biết điều, vô lý",
+    "cat": "tính từ"
+  },
+  {
+    "w": "온화하다",
+    "p": "onhwahada",
+    "m": "hòa nhã, ôn hòa",
+    "cat": "tính từ"
+  },
+  {
+    "w": "부자 관계",
+    "p": "buja gwangye",
+    "m": "quan hệ cha con",
+    "cat": "gia đình"
+  },
+  {
+    "w": "모녀 관계",
+    "p": "monyeo gwangye",
+    "m": "quan hệ mẹ con gái",
+    "cat": "gia đình"
+  },
+  {
+    "w": "부모 자식 관계",
+    "p": "bumo jasik gwangye",
+    "m": "quan hệ cha mẹ con cái",
+    "cat": "gia đình"
+  },
+  {
+    "w": "자녀 교육",
+    "p": "janyeo gyoyuk",
+    "m": "giáo dục con cái",
+    "cat": "gia đình"
+  },
+  {
+    "w": "훈육하다",
+    "p": "hunyukhada",
+    "m": "dạy dỗ, quản giáo",
+    "cat": "gia đình"
+  },
+  {
+    "w": "과잉보호하다",
+    "p": "gwaingbohohada",
+    "m": "nuông chiều quá mức",
+    "cat": "gia đình"
+  },
+  {
+    "w": "귀여워하다",
+    "p": "gwiyeowohada",
+    "m": "cưng chiều",
+    "cat": "gia đình"
+  },
+  {
+    "w": "효도하다",
+    "p": "hyodohada",
+    "m": "hiếu thảo",
+    "cat": "gia đình"
+  },
+  {
+    "w": "봉양하다",
+    "p": "bongyanghada",
+    "m": "hiếu kính, phụng dưỡng",
+    "cat": "gia đình"
+  },
+  {
+    "w": "노후를 보내다",
+    "p": "nohureul bonaeda",
+    "m": "dưỡng già",
+    "cat": "gia đình"
+  },
+  {
+    "w": "아이를 봐주다",
+    "p": "aireul bwajuda",
+    "m": "trông trẻ giúp",
+    "cat": "gia đình"
+  },
+  {
+    "w": "아이를 데려다주다",
+    "p": "aireul deryeodajuda",
+    "m": "đưa con đi học",
+    "cat": "gia đình"
+  },
+  {
+    "w": "아이를 데리러 가다",
+    "p": "aireul derireo gada",
+    "m": "đón con",
+    "cat": "gia đình"
+  },
+  {
+    "w": "방과 후 숙제",
+    "p": "banggwa hu sukje",
+    "m": "bài tập sau giờ học",
+    "cat": "education"
+  },
+  {
+    "w": "단어를 외우다",
+    "p": "daneoreul oeuda",
+    "m": "học thuộc từ vựng",
+    "cat": "education"
+  },
+  {
+    "w": "필기하다",
+    "p": "pilgihada",
+    "m": "ghi chép bài",
+    "cat": "education"
+  },
+  {
+    "w": "소리 내어 읽다",
+    "p": "sori naeeo ikda",
+    "m": "đọc to",
+    "cat": "education"
+  },
+  {
+    "w": "일기를 쓰다",
+    "p": "ilgireul sseuda",
+    "m": "viết nhật ký",
+    "cat": "education"
+  },
+  {
+    "w": "편지를 보내다",
+    "p": "pyeonjireul bonaeda",
+    "m": "gửi thư",
+    "cat": "education"
+  },
+  {
+    "w": "편지를 받다",
+    "p": "pyeonjireul batda",
+    "m": "nhận thư",
+    "cat": "education"
+  },
+  {
+    "w": "답장하다",
+    "p": "dapjanghada",
+    "m": "trả lời thư",
+    "cat": "education"
+  },
+  {
+    "w": "단체 채팅",
+    "p": "danche chaeting",
+    "m": "trò chuyện nhóm",
+    "cat": "tech"
+  },
+  {
+    "w": "개인 채팅",
+    "p": "gaein chaeting",
+    "m": "trò chuyện riêng",
+    "cat": "tech"
+  },
+  {
+    "w": "좋아요를 누르다",
+    "p": "joayoreul nureuda",
+    "m": "bấm thích, like",
+    "cat": "tech"
+  },
+  {
+    "w": "친구를 삭제하다",
+    "p": "chingureul sakjehada",
+    "m": "xóa bạn bè",
+    "cat": "tech"
+  },
+  {
+    "w": "친구를 추가하다",
+    "p": "chingureul chugahada",
+    "m": "kết bạn",
+    "cat": "tech"
+  },
+  {
+    "w": "QR 코드를 스캔하다",
+    "p": "QR kodeureul seukaenhada",
+    "m": "quét mã QR",
+    "cat": "tech"
+  },
+  {
+    "w": "카카오페이",
+    "p": "kakaopei",
+    "m": "ứng dụng thanh toán KakaoPay",
+    "cat": "tech"
+  },
+  {
+    "w": "인터넷 뱅킹",
+    "p": "inteonet baenking",
+    "m": "ngân hàng trực tuyến",
+    "cat": "tech"
+  },
+  {
+    "w": "모바일 뱅킹",
+    "p": "mobail baenking",
+    "m": "ngân hàng trên điện thoại",
+    "cat": "tech"
+  },
+  {
+    "w": "직장인",
+    "p": "jikjangin",
+    "m": "dân văn phòng",
+    "cat": "work"
+  },
+  {
+    "w": "정규직",
+    "p": "jeonggyujik",
+    "m": "công việc chính thức, toàn thời gian",
+    "cat": "work"
+  },
+  {
+    "w": "임무를 완수하다",
+    "p": "immureul wansuhada",
+    "m": "hoàn thành nhiệm vụ",
+    "cat": "work"
+  },
+  {
+    "w": "백화점 직원",
+    "p": "baekhwajeom jigwon",
+    "m": "nhân viên trung tâm thương mại",
+    "cat": "work"
+  },
+  {
+    "w": "치수를 바꾸다",
+    "p": "chisureul bakkuda",
+    "m": "đổi kích cỡ",
+    "cat": "work"
+  },
+  {
+    "w": "치수를 재다",
+    "p": "chisureul jaeda",
+    "m": "đo kích thước",
+    "cat": "work"
+  },
+  {
+    "w": "허리둘레",
+    "p": "heoridulle",
+    "m": "vòng eo",
+    "cat": "health"
+  },
+  {
+    "w": "키와 몸무게",
+    "p": "kiwa mommuge",
+    "m": "chiều cao cân nặng",
+    "cat": "health"
+  },
+  {
+    "w": "선물을 포장하다",
+    "p": "seonmureul pojanghada",
+    "m": "gói quà",
+    "cat": "culture"
+  },
+  {
+    "w": "생일 축하 노래를 부르다",
+    "p": "saengil chukha noraereul bureuda",
+    "m": "hát bài chúc mừng sinh nhật",
+    "cat": "culture"
+  },
+  {
+    "w": "선물을 받다",
+    "p": "seonmureul batda",
+    "m": "nhận quà",
+    "cat": "culture"
+  },
+  {
+    "w": "새해 인사를 드리다",
+    "p": "saehae insareul deurida",
+    "m": "chúc Tết",
+    "cat": "culture"
+  },
+  {
+    "w": "오랜만이다",
+    "p": "oraenmanida",
+    "m": "lâu rồi không gặp",
+    "cat": "greeting"
+  },
+  {
+    "w": "계약을 맺다",
+    "p": "gyeyageul maetda",
+    "m": "ký hợp đồng",
+    "cat": "work"
+  },
+  {
+    "w": "택시 호출 앱",
+    "p": "taeksi hochul aep",
+    "m": "ứng dụng gọi xe",
+    "cat": "tech"
+  },
+  {
+    "w": "뜻밖의 기쁨",
+    "p": "tteutbakkui gippeum",
+    "m": "bất ngờ đầy niềm vui",
+    "cat": "emotions"
+  },
+  {
+    "w": "하루하루를 살다",
+    "p": "haruharureul salda",
+    "m": "sống qua ngày, sinh sống",
+    "cat": "default"
+  },
+  {
+    "w": "입학식",
+    "p": "ipaksik",
+    "m": "lễ khai giảng",
+    "cat": "education"
+  },
+  {
+    "w": "졸업식",
+    "p": "joreopsik",
+    "m": "lễ tốt nghiệp",
+    "cat": "education"
+  },
+  {
+    "w": "본문을 외우다",
+    "p": "bonmuneul oeuda",
+    "m": "học thuộc bài văn",
+    "cat": "education"
+  },
+  {
+    "w": "시식하다",
+    "p": "sisikhada",
+    "m": "nếm thử",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "샘플",
+    "p": "saempeul",
+    "m": "hàng mẫu",
+    "cat": "work"
+  },
+  {
+    "w": "포장 상자",
+    "p": "pojang sangja",
+    "m": "hộp đóng gói",
+    "cat": "work"
+  },
+  {
+    "w": "셀프 계산대",
+    "p": "selpeu gyesandae",
+    "m": "quầy tự thanh toán",
+    "cat": "work"
+  },
+  {
+    "w": "보증 기간",
+    "p": "bojeung gigan",
+    "m": "thời hạn bảo hành",
+    "cat": "work"
+  },
+  {
+    "w": "기상청",
+    "p": "gisangcheong",
+    "m": "đài khí tượng",
+    "cat": "nature"
+  },
+  {
+    "w": "최고 기온",
+    "p": "choego gion",
+    "m": "nhiệt độ cao nhất",
+    "cat": "nature"
+  },
+  {
+    "w": "최저 기온",
+    "p": "choejeo gion",
+    "m": "nhiệt độ thấp nhất",
+    "cat": "nature"
+  },
+  {
+    "w": "연락처",
+    "p": "yeollakcheo",
+    "m": "thông tin liên lạc",
+    "cat": "tech"
+  },
+  {
+    "w": "연락을 유지하다",
+    "p": "yeollageul yujihada",
+    "m": "giữ liên lạc",
+    "cat": "xã hội"
+  },
+  {
+    "w": "친척을 방문하다",
+    "p": "chincheogeul bangmunhada",
+    "m": "thăm họ hàng",
+    "cat": "family"
+  },
+  {
+    "w": "기억력",
+    "p": "gieokryeok",
+    "m": "trí nhớ",
+    "cat": "health"
+  },
+  {
+    "w": "서명하다",
+    "p": "seomyeonghada",
+    "m": "ký tên",
+    "cat": "work"
+  },
+  {
+    "w": "교대하다",
+    "p": "gyodaehada",
+    "m": "đổi ca",
+    "cat": "work"
+  },
+  {
+    "w": "신고 전화",
+    "p": "singo jeonhwa",
+    "m": "số điện thoại khiếu nại",
+    "cat": "work"
+  },
+  {
+    "w": "경비원",
+    "p": "gyeongbiwon",
+    "m": "người gác cổng, bảo vệ",
+    "cat": "work"
+  },
+  {
+    "w": "보건교사",
+    "p": "bogeongyosa",
+    "m": "y tá trường học",
+    "cat": "work"
+  },
+  {
+    "w": "오프라인 매장",
+    "p": "opeurain maejang",
+    "m": "cửa hàng thực tế (không online)",
+    "cat": "work"
+  },
+  {
+    "w": "길을 양보하다",
+    "p": "gireul yangbohada",
+    "m": "nhường đường",
+    "cat": "transport"
+  },
+  {
+    "w": "쉬는 시간",
+    "p": "swineun sigan",
+    "m": "giờ giải lao giữa tiết học",
+    "cat": "education"
+  },
+  {
+    "w": "먹구름",
+    "p": "meokgureum",
+    "m": "mây đen, mây u ám",
+    "cat": "nature"
+  },
+  {
+    "w": "짙은 안개",
+    "p": "jiteun angae",
+    "m": "sương mù dày đặc",
+    "cat": "nature"
+  },
+  {
+    "w": "아침노을",
+    "p": "achimnoeul",
+    "m": "ráng mây buổi sáng",
+    "cat": "nature"
+  },
+  {
+    "w": "저녁노을",
+    "p": "jeonyeoknoeul",
+    "m": "ráng chiều",
+    "cat": "nature"
+  },
+  {
+    "w": "허리띠",
+    "p": "heoritti",
+    "m": "thắt lưng, dây lưng",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "립스틱",
+    "p": "ripseutik",
+    "m": "son môi",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "향수",
+    "p": "hyangsu",
+    "m": "nước hoa",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "헤어스타일",
+    "p": "heeoseutail",
+    "m": "kiểu tóc",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "욕조",
+    "p": "yokjo",
+    "m": "bồn tắm",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "변기",
+    "p": "byeongi",
+    "m": "bồn cầu",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "걸레",
+    "p": "geolle",
+    "m": "giẻ lau",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "다리미",
+    "p": "darimi",
+    "m": "bàn ủi",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "계란 프라이",
+    "p": "gyeran peurai",
+    "m": "trứng chiên",
+    "cat": "ẩm thực"
+  }
+]

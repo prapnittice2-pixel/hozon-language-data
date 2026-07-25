@@ -1,0 +1,104 @@
+[
+  {
+    "w": "こんにちは",
+    "p": "konnichiwa",
+    "m": "xin chào",
+    "cat": "greeting"
+  },
+  {
+    "w": "ありがとう",
+    "p": "arigatou",
+    "m": "cảm ơn",
+    "cat": "greeting"
+  },
+  {
+    "w": "さようなら",
+    "p": "sayounara",
+    "m": "tạm biệt",
+    "cat": "greeting"
+  },
+  {
+    "w": "すみません",
+    "p": "sumimasen",
+    "m": "xin lỗi",
+    "cat": "greeting"
+  },
+  {
+    "w": "お父さん",
+    "p": "otousan",
+    "m": "bố",
+    "cat": "family"
+  },
+  {
+    "w": "お母さん",
+    "p": "okaasan",
+    "m": "mẹ",
+    "cat": "family"
+  },
+  {
+    "w": "一",
+    "p": "ichi",
+    "m": "một",
+    "cat": "number"
+  },
+  {
+    "w": "二",
+    "p": "ni",
+    "m": "hai",
+    "cat": "number"
+  },
+  {
+    "w": "三",
+    "p": "san",
+    "m": "ba",
+    "cat": "number"
+  },
+  {
+    "w": "きれい",
+    "p": "kirei",
+    "m": "đẹp",
+    "cat": "adjective"
+  },
+  {
+    "w": "おいしい",
+    "p": "oishii",
+    "m": "ngon",
+    "cat": "adjective"
+  },
+  {
+    "w": "学校",
+    "p": "gakkou",
+    "m": "trường học",
+    "cat": "place"
+  },
+  {
+    "w": "病院",
+    "p": "byouin",
+    "m": "bệnh viện",
+    "cat": "place"
+  },
+  {
+    "w": "スーパー",
+    "p": "suupaa",
+    "m": "siêu thị",
+    "cat": "place"
+  },
+  {
+    "w": "レストラン",
+    "p": "resutoran",
+    "m": "nhà hàng",
+    "cat": "place"
+  },
+  {
+    "w": "ご飯",
+    "p": "gohan",
+    "m": "cơm",
+    "cat": "food"
+  },
+  {
+    "w": "机",
+    "p": "tsukue",
+    "m": "bàn",
+    "cat": "home"
+  }
+]

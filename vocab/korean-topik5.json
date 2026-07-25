@@ -1,0 +1,6962 @@
+[
+  {
+    "w": "논지",
+    "p": "nonji",
+    "m": "luận điểm chính, luận điểm trọng tâm",
+    "cat": "học thuật"
+  },
+  {
+    "w": "반증하다",
+    "p": "banjeunghada",
+    "m": "phản chứng, chứng minh ngược lại",
+    "cat": "học thuật"
+  },
+  {
+    "w": "논박하다",
+    "p": "nonbakhada",
+    "m": "bác bỏ có căn cứ, phản bác lý luận",
+    "cat": "học thuật"
+  },
+  {
+    "w": "회의적이다",
+    "p": "hoeuijeogida",
+    "m": "hoài nghi, có tính hoài nghi",
+    "cat": "tính từ"
+  },
+  {
+    "w": "귀결되다",
+    "p": "gwigyeoldoeda",
+    "m": "dẫn đến kết quả, quy kết về",
+    "cat": "học thuật"
+  },
+  {
+    "w": "통념",
+    "p": "tongnyeom",
+    "m": "quan niệm phổ biến, nhận thức chung",
+    "cat": "học thuật"
+  },
+  {
+    "w": "유보하다",
+    "p": "yubohada",
+    "m": "bảo lưu ý kiến, tạm hoãn kết luận",
+    "cat": "học thuật"
+  },
+  {
+    "w": "방증",
+    "p": "bangjeung",
+    "m": "bằng chứng gián tiếp, chứng cứ bổ trợ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "논지를 흐리다",
+    "p": "nonjileul heulida",
+    "m": "làm mờ luận điểm, lạc đề",
+    "cat": "học thuật"
+  },
+  {
+    "w": "표준 편차",
+    "p": "pyojun pyeoncha",
+    "m": "độ lệch chuẩn",
+    "cat": "science"
+  },
+  {
+    "w": "실험군",
+    "p": "silheomgun",
+    "m": "nhóm thực nghiệm",
+    "cat": "science"
+  },
+  {
+    "w": "검증 가능성",
+    "p": "geomjeung ganeungseong",
+    "m": "khả năng kiểm chứng",
+    "cat": "science"
+  },
+  {
+    "w": "실험 설계",
+    "p": "silheom seolgye",
+    "m": "thiết kế thí nghiệm",
+    "cat": "science"
+  },
+  {
+    "w": "오차 범위",
+    "p": "ocha beomwi",
+    "m": "phạm vi sai số",
+    "cat": "science"
+  },
+  {
+    "w": "통계적 검정",
+    "p": "tonggyejeog geomjeong",
+    "m": "kiểm định thống kê",
+    "cat": "science"
+  },
+  {
+    "w": "재현성",
+    "p": "jaehyeonseong",
+    "m": "khả năng tái lập kết quả (thí nghiệm)",
+    "cat": "science"
+  },
+  {
+    "w": "연구 윤리",
+    "p": "yeon-gu yulli",
+    "m": "đạo đức nghiên cứu",
+    "cat": "science"
+  },
+  {
+    "w": "데이터 왜곡",
+    "p": "deiteo waegog",
+    "m": "sự bóp méo dữ liệu",
+    "cat": "science"
+  },
+  {
+    "w": "변수를 통제하다",
+    "p": "byeonsuleul tongjehada",
+    "m": "kiểm soát biến số",
+    "cat": "science"
+  },
+  {
+    "w": "소송 절차",
+    "p": "sosong jeolcha",
+    "m": "thủ tục tố tụng",
+    "cat": "law"
+  },
+  {
+    "w": "항소심",
+    "p": "hangsosim",
+    "m": "phiên tòa phúc thẩm",
+    "cat": "law"
+  },
+  {
+    "w": "상고심",
+    "p": "sanggosim",
+    "m": "phiên tòa giám đốc thẩm",
+    "cat": "law"
+  },
+  {
+    "w": "판례",
+    "p": "pallye",
+    "m": "án lệ, tiền lệ pháp lý",
+    "cat": "law"
+  },
+  {
+    "w": "법정 증언",
+    "p": "beopjeong jeung-eon",
+    "m": "lời khai tại tòa",
+    "cat": "law"
+  },
+  {
+    "w": "무죄 추정",
+    "p": "mujoe chujeong",
+    "m": "suy đoán vô tội",
+    "cat": "law"
+  },
+  {
+    "w": "입증 책임",
+    "p": "ibjeung chaeg-im",
+    "m": "nghĩa vụ chứng minh",
+    "cat": "law"
+  },
+  {
+    "w": "공소시효",
+    "p": "gongsosihyo",
+    "m": "thời hiệu truy tố",
+    "cat": "law"
+  },
+  {
+    "w": "관할권",
+    "p": "gwanhalgwon",
+    "m": "quyền tài phán",
+    "cat": "law"
+  },
+  {
+    "w": "법적 구속력",
+    "p": "beopjeog gusoglyeog",
+    "m": "hiệu lực ràng buộc pháp lý",
+    "cat": "law"
+  },
+  {
+    "w": "항변하다",
+    "p": "hangbyeonhada",
+    "m": "biện hộ, phản bác lại (trước tòa)",
+    "cat": "law"
+  },
+  {
+    "w": "유죄 판결",
+    "p": "yujoe pangyeol",
+    "m": "phán quyết có tội",
+    "cat": "law"
+  },
+  {
+    "w": "문예사조",
+    "p": "munyesajo",
+    "m": "trào lưu văn học",
+    "cat": "literary"
+  },
+  {
+    "w": "서사 기법",
+    "p": "seosa gibeob",
+    "m": "kỹ thuật tự sự",
+    "cat": "literary"
+  },
+  {
+    "w": "상징적 의미",
+    "p": "sangjingjeog uimi",
+    "m": "ý nghĩa biểu tượng",
+    "cat": "literary"
+  },
+  {
+    "w": "문학적 장치",
+    "p": "munhagjeog jangchi",
+    "m": "thủ pháp văn học",
+    "cat": "literary"
+  },
+  {
+    "w": "비유적 표현",
+    "p": "biyujeog pyohyeon",
+    "m": "cách diễn đạt ẩn dụ",
+    "cat": "literary"
+  },
+  {
+    "w": "낭만주의",
+    "p": "nangmanjuui",
+    "m": "chủ nghĩa lãng mạn",
+    "cat": "literary"
+  },
+  {
+    "w": "자연주의",
+    "p": "jayeonjuui",
+    "m": "chủ nghĩa tự nhiên (văn học)",
+    "cat": "literary"
+  },
+  {
+    "w": "실존주의",
+    "p": "siljonjuui",
+    "m": "chủ nghĩa hiện sinh",
+    "cat": "literary"
+  },
+  {
+    "w": "해체주의",
+    "p": "haechejuui",
+    "m": "chủ nghĩa giải cấu trúc",
+    "cat": "literary"
+  },
+  {
+    "w": "작품 해석",
+    "p": "jagpum haeseog",
+    "m": "diễn giải tác phẩm",
+    "cat": "literary"
+  },
+  {
+    "w": "기후 변화 협약",
+    "p": "gihu byeonhwa hyeobyag",
+    "m": "hiệp định biến đổi khí hậu",
+    "cat": "environment"
+  },
+  {
+    "w": "탄소 국경세",
+    "p": "tanso guggyeongse",
+    "m": "thuế biên giới carbon",
+    "cat": "environment"
+  },
+  {
+    "w": "환경영향평가",
+    "p": "hwan-gyeong-yeonghyangpyeong-ga",
+    "m": "đánh giá tác động môi trường",
+    "cat": "environment"
+  },
+  {
+    "w": "환경 규제",
+    "p": "hwan-gyeong gyuje",
+    "m": "quy định môi trường",
+    "cat": "environment"
+  },
+  {
+    "w": "오염물질 배출량",
+    "p": "oyeommuljil baechullyang",
+    "m": "lượng phát thải chất ô nhiễm",
+    "cat": "environment"
+  },
+  {
+    "w": "기후 난민",
+    "p": "gihu nanmin",
+    "m": "người tị nạn khí hậu",
+    "cat": "environment"
+  },
+  {
+    "w": "생물 축적",
+    "p": "saengmul chugjeog",
+    "m": "tích lũy sinh học (chất độc)",
+    "cat": "environment"
+  },
+  {
+    "w": "환경 정의",
+    "p": "hwan-gyeong jeong-ui",
+    "m": "công bằng môi trường",
+    "cat": "environment"
+  },
+  {
+    "w": "녹색 성장",
+    "p": "nogsaeg seongjang",
+    "m": "tăng trưởng xanh",
+    "cat": "environment"
+  },
+  {
+    "w": "거시 경제",
+    "p": "geosi gyeongje",
+    "m": "kinh tế vĩ mô",
+    "cat": "economics"
+  },
+  {
+    "w": "미시 경제",
+    "p": "misi gyeongje",
+    "m": "kinh tế vi mô",
+    "cat": "economics"
+  },
+  {
+    "w": "경기 순환",
+    "p": "gyeonggi sunhwan",
+    "m": "chu kỳ kinh tế",
+    "cat": "economics"
+  },
+  {
+    "w": "재정 정책",
+    "p": "jaejeong jeongchaeg",
+    "m": "chính sách tài khóa",
+    "cat": "economics"
+  },
+  {
+    "w": "통화 정책",
+    "p": "tonghwa jeongchaeg",
+    "m": "chính sách tiền tệ",
+    "cat": "economics"
+  },
+  {
+    "w": "무역 흑자",
+    "p": "muyeog heugja",
+    "m": "thặng dư thương mại",
+    "cat": "economics"
+  },
+  {
+    "w": "자유 무역",
+    "p": "jayu muyeog",
+    "m": "thương mại tự do",
+    "cat": "economics"
+  },
+  {
+    "w": "보호무역주의",
+    "p": "bohomuyeogjuui",
+    "m": "chủ nghĩa bảo hộ thương mại",
+    "cat": "economics"
+  },
+  {
+    "w": "국민총생산",
+    "p": "gungmintchongsaengsan",
+    "m": "tổng sản phẩm quốc dân (GNP)",
+    "cat": "economics"
+  },
+  {
+    "w": "스태그플레이션",
+    "p": "seutaegeupeulleisyeon",
+    "m": "lạm phát đình trệ (stagflation)",
+    "cat": "economics"
+  },
+  {
+    "w": "경제 불균형",
+    "p": "gyeongje bulgyunhyeong",
+    "m": "mất cân bằng kinh tế",
+    "cat": "economics"
+  },
+  {
+    "w": "정치 체제",
+    "p": "jeongchi chje",
+    "m": "thể chế chính trị",
+    "cat": "politics"
+  },
+  {
+    "w": "전제 정치",
+    "p": "jeonje jeongchi",
+    "m": "chế độ chuyên chế",
+    "cat": "politics"
+  },
+  {
+    "w": "내각",
+    "p": "naegag",
+    "m": "nội các",
+    "cat": "politics"
+  },
+  {
+    "w": "임기",
+    "p": "imgi",
+    "m": "nhiệm kỳ",
+    "cat": "politics"
+  },
+  {
+    "w": "법치주의",
+    "p": "beobchijuui",
+    "m": "chủ nghĩa pháp trị, nhà nước pháp quyền",
+    "cat": "politics"
+  },
+  {
+    "w": "삼권분립",
+    "p": "samgwonbunlib",
+    "m": "tam quyền phân lập",
+    "cat": "politics"
+  },
+  {
+    "w": "정치적 스펙트럼",
+    "p": "jeongchijeog seupegteureom",
+    "m": "phổ chính trị (tả-hữu)",
+    "cat": "politics"
+  },
+  {
+    "w": "중도",
+    "p": "jungdo",
+    "m": "phe trung dung, trung lập chính trị",
+    "cat": "politics"
+  },
+  {
+    "w": "극좌",
+    "p": "geugjwa",
+    "m": "cực tả",
+    "cat": "politics"
+  },
+  {
+    "w": "극우",
+    "p": "geuguu",
+    "m": "cực hữu",
+    "cat": "politics"
+  },
+  {
+    "w": "정치적 양극화",
+    "p": "jeongchijeog yanggeughwa",
+    "m": "phân cực chính trị",
+    "cat": "politics"
+  },
+  {
+    "w": "사회 문제",
+    "p": "sahoe munje",
+    "m": "vấn đề xã hội",
+    "cat": "society"
+  },
+  {
+    "w": "빈부 격차",
+    "p": "binbu gyeogcha",
+    "m": "khoảng cách giàu nghèo",
+    "cat": "society"
+  },
+  {
+    "w": "교육 불평등",
+    "p": "gyoyug bulpyeongdeung",
+    "m": "bất bình đẳng giáo dục",
+    "cat": "society"
+  },
+  {
+    "w": "계층 이동성",
+    "p": "gyecheung idongseong",
+    "m": "tính di động tầng lớp xã hội",
+    "cat": "society"
+  },
+  {
+    "w": "세대 간 이전",
+    "p": "sedae gan ijeon",
+    "m": "sự truyền thừa liên thế hệ",
+    "cat": "society"
+  },
+  {
+    "w": "도농 격차",
+    "p": "donong gyeogcha",
+    "m": "khoảng cách thành thị-nông thôn",
+    "cat": "society"
+  },
+  {
+    "w": "이주 문제",
+    "p": "iju munje",
+    "m": "vấn đề di cư",
+    "cat": "society"
+  },
+  {
+    "w": "난민 위기",
+    "p": "nanmin wigi",
+    "m": "khủng hoảng tị nạn",
+    "cat": "society"
+  },
+  {
+    "w": "인구 고령화",
+    "p": "in-gu goryeonghwa",
+    "m": "lão hóa dân số",
+    "cat": "society"
+  },
+  {
+    "w": "인구 문제",
+    "p": "in-gu munje",
+    "m": "vấn đề dân số",
+    "cat": "society"
+  },
+  {
+    "w": "세대 갈등",
+    "p": "sedae galdeung",
+    "m": "xung đột thế hệ",
+    "cat": "society"
+  },
+  {
+    "w": "여성 인권",
+    "p": "yeoseong ingwon",
+    "m": "quyền phụ nữ",
+    "cat": "society"
+  },
+  {
+    "w": "배신하다",
+    "p": "baesinhada",
+    "m": "phản bội",
+    "cat": "hành động"
+  },
+  {
+    "w": "공감대를 형성하다",
+    "p": "gonggamdaeleul hyeongseonghada",
+    "m": "tạo sự đồng cảm chung",
+    "cat": "hành động"
+  },
+  {
+    "w": "감축하다",
+    "p": "gamchughada",
+    "m": "cắt giảm (khí thải, chi phí)",
+    "cat": "hành động"
+  },
+  {
+    "w": "모험하다",
+    "p": "moheomhada",
+    "m": "phiêu lưu, mạo hiểm",
+    "cat": "hành động"
+  },
+  {
+    "w": "담합하다",
+    "p": "damhabhada",
+    "m": "thông đồng, câu kết",
+    "cat": "hành động"
+  },
+  {
+    "w": "화해하다",
+    "p": "hwahaehada",
+    "m": "hòa giải",
+    "cat": "hành động"
+  },
+  {
+    "w": "타협하다",
+    "p": "tahyeobhada",
+    "m": "thỏa hiệp",
+    "cat": "hành động"
+  },
+  {
+    "w": "절충하다",
+    "p": "jeolchunghada",
+    "m": "dung hòa, thỏa hiệp trung gian",
+    "cat": "hành động"
+  },
+  {
+    "w": "공존하다",
+    "p": "gongjonhada",
+    "m": "cùng tồn tại",
+    "cat": "hành động"
+  },
+  {
+    "w": "진보적이다",
+    "p": "jinbojeogida",
+    "m": "có tính cấp tiến",
+    "cat": "tính từ"
+  },
+  {
+    "w": "시대를 앞서가다",
+    "p": "sidaleul apseogada",
+    "m": "đi trước thời đại",
+    "cat": "tính từ"
+  },
+  {
+    "w": "편협하다",
+    "p": "pyeonhyeobhada",
+    "m": "hẹp hòi, thiển cận",
+    "cat": "tính từ"
+  },
+  {
+    "w": "이기적이다",
+    "p": "igijeogida",
+    "m": "ích kỷ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "이타적이다",
+    "p": "itajeogida",
+    "m": "vị tha",
+    "cat": "tính từ"
+  },
+  {
+    "w": "여론 동향",
+    "p": "yeolon donghyang",
+    "m": "tình hình dư luận",
+    "cat": "media"
+  },
+  {
+    "w": "온라인 루머",
+    "p": "olrain lumeo",
+    "m": "tin đồn trực tuyến",
+    "cat": "media"
+  },
+  {
+    "w": "루머를 반박하다",
+    "p": "lumeoleul banbaghada",
+    "m": "bác bỏ tin đồn, đính chính",
+    "cat": "media"
+  },
+  {
+    "w": "미디어 리터러시",
+    "p": "midieo liteoleosi",
+    "m": "khả năng hiểu biết truyền thông",
+    "cat": "media"
+  },
+  {
+    "w": "언론 윤리",
+    "p": "eonlon yulli",
+    "m": "đạo đức báo chí",
+    "cat": "media"
+  },
+  {
+    "w": "시민 저널리즘",
+    "p": "simin jeoneollijeum",
+    "m": "báo chí công dân",
+    "cat": "media"
+  },
+  {
+    "w": "디지털 격차",
+    "p": "dijiteol gyeogcha",
+    "m": "hố ngăn cách kỹ thuật số",
+    "cat": "media"
+  },
+  {
+    "w": "의제 설정",
+    "p": "uije seoljeong",
+    "m": "thiết lập chương trình nghị sự",
+    "cat": "media"
+  },
+  {
+    "w": "프레이밍 효과",
+    "p": "peuleiming hyogwa",
+    "m": "hiệu ứng khung (thông tin)",
+    "cat": "media"
+  },
+  {
+    "w": "게이트키핑",
+    "p": "geiteukiping",
+    "m": "kiểm soát cổng thông tin (gatekeeping)",
+    "cat": "media"
+  },
+  {
+    "w": "데이터 보안",
+    "p": "deiteo boan",
+    "m": "an toàn dữ liệu",
+    "cat": "media"
+  },
+  {
+    "w": "신뢰도",
+    "p": "sinloedo",
+    "m": "độ tin cậy (thang đo)",
+    "cat": "science"
+  },
+  {
+    "w": "인용 지수",
+    "p": "in-yong jisu",
+    "m": "chỉ số trích dẫn",
+    "cat": "science"
+  },
+  {
+    "w": "영향력 지수",
+    "p": "yeonghyanglyeog jisu",
+    "m": "chỉ số ảnh hưởng (impact factor)",
+    "cat": "science"
+  },
+  {
+    "w": "학문적 진실성",
+    "p": "hagmunjeog jinsilseong",
+    "m": "liêm chính học thuật",
+    "cat": "science"
+  },
+  {
+    "w": "독창성",
+    "p": "dogchangseong",
+    "m": "tính độc đáo, tính nguyên gốc",
+    "cat": "science"
+  },
+  {
+    "w": "혁신성",
+    "p": "hyeogsinseong",
+    "m": "tính đổi mới, tính sáng tạo",
+    "cat": "science"
+  },
+  {
+    "w": "획기적이다",
+    "p": "hoeggijeogida",
+    "m": "có tính đột phá, mang tính bước ngoặt",
+    "cat": "science"
+  },
+  {
+    "w": "기초 연구",
+    "p": "gicho yeon-gu",
+    "m": "nghiên cứu cơ bản",
+    "cat": "science"
+  },
+  {
+    "w": "응용 연구",
+    "p": "eung-yong yeon-gu",
+    "m": "nghiên cứu ứng dụng",
+    "cat": "science"
+  },
+  {
+    "w": "중개 의학",
+    "p": "junggae uihag",
+    "m": "y học chuyển dịch (translational medicine)",
+    "cat": "science"
+  },
+  {
+    "w": "관측",
+    "p": "gwancheug",
+    "m": "sự quan sát, đo đạc",
+    "cat": "science"
+  },
+  {
+    "w": "민사",
+    "p": "minsa",
+    "m": "dân sự",
+    "cat": "law"
+  },
+  {
+    "w": "행정법",
+    "p": "haengjeongbeob",
+    "m": "luật hành chính",
+    "cat": "law"
+  },
+  {
+    "w": "계약법",
+    "p": "gyeyagbeob",
+    "m": "luật hợp đồng",
+    "cat": "law"
+  },
+  {
+    "w": "권리 침해",
+    "p": "gwonli chimhae",
+    "m": "xâm phạm quyền lợi",
+    "cat": "law"
+  },
+  {
+    "w": "중재",
+    "p": "jungjae",
+    "m": "hòa giải, trọng tài (pháp lý)",
+    "cat": "law"
+  },
+  {
+    "w": "집행",
+    "p": "jibhaeng",
+    "m": "sự thực thi, thi hành",
+    "cat": "law"
+  },
+  {
+    "w": "강제 집행",
+    "p": "gangje jibhaeng",
+    "m": "cưỡng chế thi hành",
+    "cat": "law"
+  },
+  {
+    "w": "구금",
+    "p": "gugeum",
+    "m": "sự tạm giữ, giam giữ",
+    "cat": "law"
+  },
+  {
+    "w": "구류",
+    "p": "guryu",
+    "m": "giam giữ, câu lưu",
+    "cat": "law"
+  },
+  {
+    "w": "양형",
+    "p": "yanghyeong",
+    "m": "sự xác định hình phạt, lượng hình",
+    "cat": "law"
+  },
+  {
+    "w": "모더니즘",
+    "p": "modeonijeum",
+    "m": "chủ nghĩa hiện đại",
+    "cat": "literary"
+  },
+  {
+    "w": "포스트모더니즘",
+    "p": "poseuteumodeonijeum",
+    "m": "chủ nghĩa hậu hiện đại",
+    "cat": "literary"
+  },
+  {
+    "w": "주제 의식",
+    "p": "juje uisig",
+    "m": "ý thức chủ đề",
+    "cat": "literary"
+  },
+  {
+    "w": "정조",
+    "p": "jeongjo",
+    "m": "ý cảnh, tâm trạng (văn học)",
+    "cat": "literary"
+  },
+  {
+    "w": "비유",
+    "p": "biyu",
+    "m": "phép ví von, so sánh",
+    "cat": "literary"
+  },
+  {
+    "w": "비극",
+    "p": "bigeug",
+    "m": "bi kịch",
+    "cat": "literary"
+  },
+  {
+    "w": "희극",
+    "p": "huigeug",
+    "m": "hài kịch",
+    "cat": "literary"
+  },
+  {
+    "w": "서스펜스",
+    "p": "seoseupenseu",
+    "m": "sự hồi hộp, kịch tính (suspense)",
+    "cat": "literary"
+  },
+  {
+    "w": "계몽성",
+    "p": "gyemongseong",
+    "m": "tính gợi mở, khai sáng",
+    "cat": "literary"
+  },
+  {
+    "w": "감화력",
+    "p": "gamhwalyeog",
+    "m": "sức cảm hóa, lan tỏa",
+    "cat": "literary"
+  },
+  {
+    "w": "탈중앙화",
+    "p": "taljung-anghwa",
+    "m": "sự phi tập trung hóa",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "스마트 계약",
+    "p": "seumateu gyeyag",
+    "m": "hợp đồng thông minh",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "메타버스",
+    "p": "metabeoseu",
+    "m": "vũ trụ ảo (metaverse)",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "디지털 트윈",
+    "p": "dijiteol teuwin",
+    "m": "bản sao số (digital twin)",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "엣지 컴퓨팅",
+    "p": "esji keompyuting",
+    "m": "điện toán biên (edge computing)",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "신재생에너지",
+    "p": "sinjaesaeng-eneoji",
+    "m": "năng lượng mới và tái tạo",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "생명공학",
+    "p": "saengmyeong-gonghag",
+    "m": "công nghệ sinh học",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "사이버 공격",
+    "p": "saibeo gong-gyeog",
+    "m": "tấn công mạng",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "반복 개선",
+    "p": "banbog gaeseon",
+    "m": "lặp lại cải tiến dần",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "유니콘 기업",
+    "p": "yunikon gieob",
+    "m": "công ty kỳ lân (startup tỷ đô)",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "투자 라운드",
+    "p": "tuja laundeu",
+    "m": "vòng gọi vốn",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "비즈니스 모델",
+    "p": "bijeuniseu model",
+    "m": "mô hình kinh doanh",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "차별화",
+    "p": "chabyeolhwa",
+    "m": "sự khác biệt hóa",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "품질 관리",
+    "p": "pumjil gwanli",
+    "m": "quản lý chất lượng",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "프로젝트 관리",
+    "p": "peulojegteu gwanli",
+    "m": "quản lý dự án",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "제조업",
+    "p": "jejoeob",
+    "m": "ngành chế tạo",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "서비스업",
+    "p": "seobiseueob",
+    "m": "ngành dịch vụ",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "태권도",
+    "p": "taegwondo",
+    "m": "taekwondo",
+    "cat": "thể thao"
+  },
+  {
+    "w": "탁구",
+    "p": "tagku",
+    "m": "bóng bàn",
+    "cat": "thể thao"
+  },
+  {
+    "w": "승마",
+    "p": "seungma",
+    "m": "cưỡi ngựa, môn đua ngựa",
+    "cat": "thể thao"
+  },
+  {
+    "w": "카레이싱",
+    "p": "kaleising",
+    "m": "đua xe ô tô",
+    "cat": "thể thao"
+  },
+  {
+    "w": "승급",
+    "p": "seung-geub",
+    "m": "sự thăng hạng",
+    "cat": "thể thao"
+  },
+  {
+    "w": "협응력",
+    "p": "hyeob-eunglyeog",
+    "m": "tính phối hợp (vận động)",
+    "cat": "thể thao"
+  },
+  {
+    "w": "유연성",
+    "p": "yuyeonseong",
+    "m": "tính linh hoạt, dẻo dai",
+    "cat": "thể thao"
+  },
+  {
+    "w": "반응 속도",
+    "p": "baneung sogdo",
+    "m": "tốc độ phản xạ",
+    "cat": "thể thao"
+  },
+  {
+    "w": "외래 진료",
+    "p": "oelae jinlyo",
+    "m": "khám ngoại trú",
+    "cat": "health"
+  },
+  {
+    "w": "링거를 맞다",
+    "p": "ling-geoleul majda",
+    "m": "truyền dịch",
+    "cat": "health"
+  },
+  {
+    "w": "양성 종양",
+    "p": "yangseong jong-yang",
+    "m": "khối u lành tính",
+    "cat": "health"
+  },
+  {
+    "w": "양생",
+    "p": "yangsaeng",
+    "m": "dưỡng sinh, chăm sóc sức khỏe",
+    "cat": "health"
+  },
+  {
+    "w": "진료 기록부",
+    "p": "jinlyo gilogbu",
+    "m": "bệnh án, hồ sơ khám bệnh",
+    "cat": "health"
+  },
+  {
+    "w": "면역력",
+    "p": "myeog-yeoglyeog",
+    "m": "sức đề kháng miễn dịch",
+    "cat": "health"
+  },
+  {
+    "w": "재발",
+    "p": "jaebal",
+    "m": "sự tái phát (bệnh)",
+    "cat": "health"
+  },
+  {
+    "w": "합병증",
+    "p": "habbyeongjeung",
+    "m": "biến chứng",
+    "cat": "health"
+  },
+  {
+    "w": "통원 치료",
+    "p": "tong-won chilyo",
+    "m": "điều trị ngoại trú (không nằm viện)",
+    "cat": "health"
+  },
+  {
+    "w": "시술",
+    "p": "sisul",
+    "m": "thủ thuật y tế",
+    "cat": "health"
+  },
+  {
+    "w": "부동산 개발",
+    "p": "budongsan gaebal",
+    "m": "dự án phát triển bất động sản",
+    "cat": "home"
+  },
+  {
+    "w": "부동산 관리",
+    "p": "budongsan gwanli",
+    "m": "quản lý bất động sản",
+    "cat": "home"
+  },
+  {
+    "w": "학군",
+    "p": "haggun",
+    "m": "khu vực tuyển sinh (học khu)",
+    "cat": "home"
+  },
+  {
+    "w": "시세",
+    "p": "sise",
+    "m": "giá thị trường (bất động sản)",
+    "cat": "home"
+  },
+  {
+    "w": "등기",
+    "p": "deunggi",
+    "m": "đăng ký quyền sở hữu (nhà đất)",
+    "cat": "home"
+  },
+  {
+    "w": "국자",
+    "p": "guggja",
+    "m": "muôi múc canh",
+    "cat": "home"
+  },
+  {
+    "w": "도마",
+    "p": "doma",
+    "m": "cái thớt",
+    "cat": "home"
+  },
+  {
+    "w": "웍",
+    "p": "weog",
+    "m": "chảo xào kiểu Á (wok)",
+    "cat": "home"
+  },
+  {
+    "w": "발매트",
+    "p": "balmaeteu",
+    "m": "thảm chùi chân",
+    "cat": "home"
+  },
+  {
+    "w": "유화",
+    "p": "yuhwa",
+    "m": "tranh sơn dầu",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "교향곡",
+    "p": "gyohyanggog",
+    "m": "nhạc giao hưởng",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "지각",
+    "p": "jigag",
+    "m": "tri giác, sự cảm nhận",
+    "cat": "học thuật"
+  },
+  {
+    "w": "사유하다",
+    "p": "sayuhada",
+    "m": "tư duy, suy nghĩ sâu sắc",
+    "cat": "học thuật"
+  },
+  {
+    "w": "성찰하다",
+    "p": "seongchalhada",
+    "m": "phản tư, suy ngẫm lại",
+    "cat": "học thuật"
+  },
+  {
+    "w": "정제하다",
+    "p": "jeongjehada",
+    "m": "đúc kết, tinh lọc (ý tưởng)",
+    "cat": "học thuật"
+  },
+  {
+    "w": "승화시키다",
+    "p": "seunghwasikida",
+    "m": "thăng hoa, nâng tầm",
+    "cat": "học thuật"
+  },
+  {
+    "w": "체제",
+    "p": "chje",
+    "m": "hệ thống, thể chế",
+    "cat": "học thuật"
+  },
+  {
+    "w": "기제",
+    "p": "gije",
+    "m": "cơ chế (tâm lý, xã hội)",
+    "cat": "học thuật"
+  },
+  {
+    "w": "사회적 구성주의",
+    "p": "sahoejeog guseongjuui",
+    "m": "chủ nghĩa kiến tạo xã hội",
+    "cat": "society"
+  },
+  {
+    "w": "법제화하다",
+    "p": "beobjehwahada",
+    "m": "hợp pháp hóa, luật hóa",
+    "cat": "law"
+  },
+  {
+    "w": "낭비적이다",
+    "p": "nangbijeogida",
+    "m": "lãng phí, không hiệu quả",
+    "cat": "tính từ"
+  },
+  {
+    "w": "실행 불가능하다",
+    "p": "silhaeng bulganeunghada",
+    "m": "không khả thi",
+    "cat": "tính từ"
+  },
+  {
+    "w": "미덥지 않다",
+    "p": "mideobji anhda",
+    "m": "đáng nghi ngờ, không đáng tin",
+    "cat": "tính từ"
+  },
+  {
+    "w": "방심하다",
+    "p": "bangsimhada",
+    "m": "lơ là, mất cảnh giác",
+    "cat": "hành động"
+  },
+  {
+    "w": "우유부단하다",
+    "p": "uyubudanhada",
+    "m": "do dự, thiếu kiên định",
+    "cat": "tính từ"
+  },
+  {
+    "w": "황사",
+    "p": "hwangsa",
+    "m": "bão cát vàng (hiện tượng thời tiết)",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "토석류",
+    "p": "toseoglyu",
+    "m": "lũ bùn đá",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "특별 전형",
+    "p": "teugbyeol jeonhyeong",
+    "m": "diện tuyển thẳng, xét tuyển đặc biệt",
+    "cat": "học tập"
+  },
+  {
+    "w": "변호사 수임료",
+    "p": "byeonhosa suimlyo",
+    "m": "phí thuê luật sư",
+    "cat": "law"
+  },
+  {
+    "w": "보증인",
+    "p": "bojeung-in",
+    "m": "người bảo lãnh",
+    "cat": "law"
+  },
+  {
+    "w": "톨게이트",
+    "p": "tolgeiteu",
+    "m": "trạm thu phí (đường cao tốc)",
+    "cat": "giao thông"
+  },
+  {
+    "w": "연착",
+    "p": "yeonchag",
+    "m": "sự trễ giờ (tàu xe, máy bay)",
+    "cat": "giao thông"
+  },
+  {
+    "w": "직항",
+    "p": "jighang",
+    "m": "chuyến bay thẳng, đi trực tiếp",
+    "cat": "giao thông"
+  },
+  {
+    "w": "정기편",
+    "p": "jeong-gipyeon",
+    "m": "chuyến bay định kỳ",
+    "cat": "giao thông"
+  },
+  {
+    "w": "항로",
+    "p": "hanglo",
+    "m": "tuyến bay, tuyến hàng không",
+    "cat": "giao thông"
+  },
+  {
+    "w": "관리비",
+    "p": "gwanlibi",
+    "m": "phí quản lý chung cư",
+    "cat": "home"
+  },
+  {
+    "w": "풀옵션",
+    "p": "pul-obsyeon",
+    "m": "nội thất đầy đủ, hoàn thiện cao cấp",
+    "cat": "home"
+  },
+  {
+    "w": "채광",
+    "p": "chaegwang",
+    "m": "sự lấy ánh sáng tự nhiên",
+    "cat": "home"
+  },
+  {
+    "w": "평면도",
+    "p": "pyeongmyeondo",
+    "m": "sơ đồ mặt bằng, kiểu căn hộ",
+    "cat": "home"
+  },
+  {
+    "w": "명의 이전",
+    "p": "myeong-ui ijeon",
+    "m": "sang tên, chuyển quyền sở hữu",
+    "cat": "home"
+  },
+  {
+    "w": "전시관",
+    "p": "jeonsigwan",
+    "m": "nhà triển lãm",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "기념관",
+    "p": "ginyeomgwan",
+    "m": "nhà tưởng niệm, bảo tàng lưu niệm",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "휴양",
+    "p": "hyuyang",
+    "m": "sự nghỉ dưỡng",
+    "cat": "du lịch"
+  },
+  {
+    "w": "리조트",
+    "p": "lijoteu",
+    "m": "khu nghỉ dưỡng (resort)",
+    "cat": "du lịch"
+  },
+  {
+    "w": "합승",
+    "p": "habseung",
+    "m": "đi chung xe, ghép xe",
+    "cat": "giao thông"
+  },
+  {
+    "w": "히치하이킹",
+    "p": "hichihaiking",
+    "m": "đi nhờ xe (hitchhiking)",
+    "cat": "giao thông"
+  },
+  {
+    "w": "주행 거리",
+    "p": "juhaeng geoli",
+    "m": "quãng đường đã đi, lộ trình",
+    "cat": "giao thông"
+  },
+  {
+    "w": "우회하다",
+    "p": "uhoehada",
+    "m": "đi đường vòng",
+    "cat": "giao thông"
+  },
+  {
+    "w": "지름길",
+    "p": "jileumgil",
+    "m": "đường tắt, lối tắt",
+    "cat": "giao thông"
+  },
+  {
+    "w": "검사를 받다",
+    "p": "geomsaleul badda",
+    "m": "làm xét nghiệm",
+    "cat": "health"
+  },
+  {
+    "w": "수술실",
+    "p": "susulsil",
+    "m": "phòng phẫu thuật",
+    "cat": "health"
+  },
+  {
+    "w": "약효",
+    "p": "yaghyo",
+    "m": "hiệu quả của thuốc",
+    "cat": "health"
+  },
+  {
+    "w": "발병 원인",
+    "p": "balbyeong won-in",
+    "m": "nguyên nhân gây bệnh",
+    "cat": "health"
+  },
+  {
+    "w": "병세",
+    "p": "byeongse",
+    "m": "tình trạng bệnh",
+    "cat": "health"
+  },
+  {
+    "w": "저항력",
+    "p": "jeohanglyeog",
+    "m": "sức đề kháng",
+    "cat": "health"
+  },
+  {
+    "w": "체질",
+    "p": "chejil",
+    "m": "thể chất, cơ địa",
+    "cat": "health"
+  },
+  {
+    "w": "보양하다",
+    "p": "boyanghada",
+    "m": "tẩm bổ, bồi bổ sức khỏe",
+    "cat": "health"
+  },
+  {
+    "w": "물리치료",
+    "p": "mullichilyo",
+    "m": "vật lý trị liệu",
+    "cat": "health"
+  },
+  {
+    "w": "완쾌하다",
+    "p": "wankwaehada",
+    "m": "bình phục hoàn toàn",
+    "cat": "health"
+  },
+  {
+    "w": "유전병",
+    "p": "yujeonbyeong",
+    "m": "bệnh di truyền",
+    "cat": "health"
+  },
+  {
+    "w": "장애",
+    "p": "jang-ae",
+    "m": "tàn tật, khuyết tật",
+    "cat": "health"
+  },
+  {
+    "w": "시력",
+    "p": "silyeog",
+    "m": "thị lực",
+    "cat": "health"
+  },
+  {
+    "w": "실명하다",
+    "p": "silmyeonghada",
+    "m": "mù, mất thị lực",
+    "cat": "health"
+  },
+  {
+    "w": "근육이 늘어나다",
+    "p": "geun-yug-i neul-eonada",
+    "m": "bị kéo giãn cơ, chấn thương do kéo căng",
+    "cat": "health"
+  },
+  {
+    "w": "찰과상",
+    "p": "chalgwasang",
+    "m": "vết trầy xước",
+    "cat": "health"
+  },
+  {
+    "w": "붓기",
+    "p": "busgi",
+    "m": "sự sưng tấy",
+    "cat": "health"
+  },
+  {
+    "w": "소염하다",
+    "p": "soyeomhada",
+    "m": "tiêu sưng, giảm viêm",
+    "cat": "health"
+  },
+  {
+    "w": "진통",
+    "p": "jintong",
+    "m": "sự giảm đau",
+    "cat": "health"
+  },
+  {
+    "w": "소화불량",
+    "p": "sohwabullyang",
+    "m": "khó tiêu, tiêu hóa kém",
+    "cat": "health"
+  },
+  {
+    "w": "변비",
+    "p": "byeonbi",
+    "m": "táo bón",
+    "cat": "health"
+  },
+  {
+    "w": "구토하다",
+    "p": "gutohada",
+    "m": "nôn mửa",
+    "cat": "health"
+  },
+  {
+    "w": "의리",
+    "p": "uili",
+    "m": "nghĩa tình, tình nghĩa",
+    "cat": "emotion"
+  },
+  {
+    "w": "사교 범위",
+    "p": "sagyo beomwi",
+    "m": "vòng tròn xã giao",
+    "cat": "society"
+  },
+  {
+    "w": "동향",
+    "p": "donghyang",
+    "m": "người đồng hương",
+    "cat": "society"
+  },
+  {
+    "w": "동반자",
+    "p": "dongbanja",
+    "m": "bạn đồng hành, đối tác",
+    "cat": "emotion"
+  },
+  {
+    "w": "단짝",
+    "p": "danjjag",
+    "m": "bạn thân, đôi bạn",
+    "cat": "emotion"
+  },
+  {
+    "w": "가족애",
+    "p": "gajog-ae",
+    "m": "tình cảm gia đình",
+    "cat": "emotion"
+  },
+  {
+    "w": "짝사랑",
+    "p": "jjagsalang",
+    "m": "thầm yêu, yêu đơn phương",
+    "cat": "emotion"
+  },
+  {
+    "w": "열애",
+    "p": "yeol-ae",
+    "m": "yêu say đắm",
+    "cat": "emotion"
+  },
+  {
+    "w": "실연",
+    "p": "sil-yeon",
+    "m": "sự thất tình",
+    "cat": "emotion"
+  },
+  {
+    "w": "재결합",
+    "p": "jaegyeolhab",
+    "m": "sự tái hợp (vợ chồng cũ)",
+    "cat": "emotion"
+  },
+  {
+    "w": "재혼",
+    "p": "jaehon",
+    "m": "sự tái hôn",
+    "cat": "emotion"
+  },
+  {
+    "w": "청혼하다",
+    "p": "cheonghonhada",
+    "m": "cầu hôn",
+    "cat": "emotion"
+  },
+  {
+    "w": "신혼",
+    "p": "sinhon",
+    "m": "mới cưới",
+    "cat": "emotion"
+  },
+  {
+    "w": "맞선",
+    "p": "majseon",
+    "m": "sự xem mắt",
+    "cat": "emotion"
+  },
+  {
+    "w": "중매하다",
+    "p": "jungmaehada",
+    "m": "làm mối, mai mối",
+    "cat": "emotion"
+  },
+  {
+    "w": "고백하다",
+    "p": "gobaeghada",
+    "m": "tỏ tình",
+    "cat": "emotion"
+  },
+  {
+    "w": "의심이 많다",
+    "p": "uisim-i mand",
+    "m": "đa nghi, hay nghi ngờ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "굴복하다",
+    "p": "gulboghada",
+    "m": "khuất phục, nhượng bộ",
+    "cat": "hành động"
+  },
+  {
+    "w": "순종하다",
+    "p": "sunjonghada",
+    "m": "vâng lời, phục tùng",
+    "cat": "hành động"
+  },
+  {
+    "w": "반항하다",
+    "p": "banhanghada",
+    "m": "nổi loạn, phản kháng",
+    "cat": "hành động"
+  },
+  {
+    "w": "임명하다",
+    "p": "immyeonghada",
+    "m": "bổ nhiệm",
+    "cat": "work"
+  },
+  {
+    "w": "파견하다",
+    "p": "pagyeonhada",
+    "m": "cử đi, điều động (công tác)",
+    "cat": "work"
+  },
+  {
+    "w": "인사이동",
+    "p": "insaidong",
+    "m": "sự điều chuyển nhân sự",
+    "cat": "work"
+  },
+  {
+    "w": "재직 중이다",
+    "p": "jaejig jung-ida",
+    "m": "đang tại chức",
+    "cat": "work"
+  },
+  {
+    "w": "직책을 맡다",
+    "p": "jigchaeg-eul madda",
+    "m": "đảm nhiệm chức vụ",
+    "cat": "work"
+  },
+  {
+    "w": "직급",
+    "p": "jigkeub",
+    "m": "cấp bậc chức vụ",
+    "cat": "work"
+  },
+  {
+    "w": "결원",
+    "p": "gyeol-won",
+    "m": "chỗ trống, khuyết vị trí",
+    "cat": "work"
+  },
+  {
+    "w": "계약 연장",
+    "p": "gyeyag yeonjang",
+    "m": "sự gia hạn hợp đồng",
+    "cat": "work"
+  },
+  {
+    "w": "태업",
+    "p": "taeeob",
+    "m": "sự lãn công",
+    "cat": "work"
+  },
+  {
+    "w": "직무를 수행하다",
+    "p": "jigmuleul suhaenghada",
+    "m": "thực hiện nhiệm vụ, làm tròn chức trách",
+    "cat": "work"
+  },
+  {
+    "w": "공동 출자",
+    "p": "gongdong chulja",
+    "m": "góp vốn chung, hợp tác kinh doanh",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "창립하다",
+    "p": "changlibhada",
+    "m": "sáng lập, thành lập",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "결손",
+    "p": "gyeolson",
+    "m": "thâm hụt, lỗ",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "지분",
+    "p": "jibun",
+    "m": "cổ phần, phần vốn góp",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "주가가 오르다",
+    "p": "jugaga oleuda",
+    "m": "giá cổ phiếu tăng",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "박람회",
+    "p": "baglamhoe",
+    "m": "hội chợ triển lãm",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "무역 박람회",
+    "p": "muyeog baglamhoe",
+    "m": "hội chợ giao thương",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "보험금 청구",
+    "p": "boheomgeum cheong-gu",
+    "m": "đòi bồi thường bảo hiểm",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "심사 승인",
+    "p": "simsa seung-in",
+    "m": "thẩm định phê duyệt",
+    "cat": "work"
+  },
+  {
+    "w": "여가 활동",
+    "p": "yeoga hwaldong",
+    "m": "hoạt động giải trí lúc rảnh rỗi",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "화초를 기르다",
+    "p": "hwacholeul gileuda",
+    "m": "trồng hoa cỏ",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "강아지를 산책시키다",
+    "p": "gang-ajileul sanchaegsikida",
+    "m": "dắt chó đi dạo",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "하이킹",
+    "p": "haiking",
+    "m": "đi bộ đường dài (hiking)",
+    "cat": "thể thao"
+  },
+  {
+    "w": "캠핑",
+    "p": "kaemping",
+    "m": "cắm trại",
+    "cat": "du lịch"
+  },
+  {
+    "w": "교외 나들이",
+    "p": "gyooe nadeul-i",
+    "m": "đi chơi ngoại ô",
+    "cat": "du lịch"
+  },
+  {
+    "w": "스케이팅",
+    "p": "seukeiting",
+    "m": "trượt băng, patin",
+    "cat": "thể thao"
+  },
+  {
+    "w": "바둑",
+    "p": "badug",
+    "m": "cờ vây",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "마작",
+    "p": "majag",
+    "m": "mạt chược",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "학위 논문",
+    "p": "hagwi nonmun",
+    "m": "luận văn tốt nghiệp, luận án",
+    "cat": "học thuật"
+  },
+  {
+    "w": "인용문",
+    "p": "in-yongmun",
+    "m": "đoạn trích dẫn",
+    "cat": "học thuật"
+  },
+  {
+    "w": "논평하다",
+    "p": "nonpyeonghada",
+    "m": "bình luận, nhận xét (học thuật)",
+    "cat": "học thuật"
+  },
+  {
+    "w": "판단 기준",
+    "p": "pandan gijun",
+    "m": "tiêu chí phán đoán",
+    "cat": "học thuật"
+  },
+  {
+    "w": "문헌",
+    "p": "munheon",
+    "m": "tài liệu, văn hiến",
+    "cat": "học thuật"
+  },
+  {
+    "w": "개관",
+    "p": "gaegwan",
+    "m": "tổng thuật, tổng quan",
+    "cat": "học thuật"
+  },
+  {
+    "w": "각주",
+    "p": "gagju",
+    "m": "chú thích cuối trang",
+    "cat": "học thuật"
+  },
+  {
+    "w": "고찰하다",
+    "p": "gochalhada",
+    "m": "xem xét kỹ, khảo sát",
+    "cat": "học thuật"
+  },
+  {
+    "w": "심화시키다",
+    "p": "simhwasikida",
+    "m": "đào sâu, làm sâu sắc thêm",
+    "cat": "học thuật"
+  },
+  {
+    "w": "체계성",
+    "p": "chegyeseong",
+    "m": "tính hệ thống",
+    "cat": "tính từ"
+  },
+  {
+    "w": "논리성",
+    "p": "nonliseong",
+    "m": "tính logic",
+    "cat": "tính từ"
+  },
+  {
+    "w": "주관성",
+    "p": "jugwanseong",
+    "m": "tính chủ quan",
+    "cat": "tính từ"
+  },
+  {
+    "w": "과학성",
+    "p": "gwahagseong",
+    "m": "tính khoa học",
+    "cat": "tính từ"
+  },
+  {
+    "w": "엄밀성",
+    "p": "eommilseong",
+    "m": "tính nghiêm túc, chặt chẽ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "비판적 사고",
+    "p": "bipanjeog sago",
+    "m": "tư duy phê phán",
+    "cat": "tính từ"
+  },
+  {
+    "w": "변증법",
+    "p": "byeonjeungbeob",
+    "m": "phép biện chứng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "추상적이다",
+    "p": "chusangjeogida",
+    "m": "trừu tượng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "미시적이다",
+    "p": "misijeogida",
+    "m": "vi mô",
+    "cat": "tính từ"
+  },
+  {
+    "w": "거시적이다",
+    "p": "geosijeogida",
+    "m": "vĩ mô",
+    "cat": "tính từ"
+  },
+  {
+    "w": "외재적이다",
+    "p": "oejaejeogida",
+    "m": "ngoại tại, bên ngoài",
+    "cat": "tính từ"
+  },
+  {
+    "w": "본질",
+    "p": "bonjil",
+    "m": "bản chất",
+    "cat": "học thuật"
+  },
+  {
+    "w": "현상",
+    "p": "hyeonsang",
+    "m": "hiện tượng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "벤처 투자",
+    "p": "bencheo tuja",
+    "m": "đầu tư mạo hiểm",
+    "cat": "economics"
+  },
+  {
+    "w": "상장하다",
+    "p": "sangjanghada",
+    "m": "niêm yết, lên sàn chứng khoán",
+    "cat": "economics"
+  },
+  {
+    "w": "청산하다",
+    "p": "cheongsanhada",
+    "m": "thanh lý, thanh toán",
+    "cat": "economics"
+  },
+  {
+    "w": "자본 시장",
+    "p": "jabon sijang",
+    "m": "thị trường vốn",
+    "cat": "economics"
+  },
+  {
+    "w": "시장 메커니즘",
+    "p": "sijang mekeonijeum",
+    "m": "cơ chế thị trường",
+    "cat": "economics"
+  },
+  {
+    "w": "계획 경제",
+    "p": "gyehoeg gyeongje",
+    "m": "kinh tế kế hoạch",
+    "cat": "economics"
+  },
+  {
+    "w": "혼합 경제",
+    "p": "honhab gyeongje",
+    "m": "kinh tế hỗn hợp",
+    "cat": "economics"
+  },
+  {
+    "w": "가격 메커니즘",
+    "p": "gagyeog mekeonijeum",
+    "m": "cơ chế giá cả",
+    "cat": "economics"
+  },
+  {
+    "w": "가격 탄력성",
+    "p": "gagyeog tanlyeogseong",
+    "m": "độ co giãn giá cả",
+    "cat": "economics"
+  },
+  {
+    "w": "한계 비용",
+    "p": "hangye biyong",
+    "m": "chi phí cận biên",
+    "cat": "economics"
+  },
+  {
+    "w": "비교우위",
+    "p": "bigyouwi",
+    "m": "lợi thế so sánh",
+    "cat": "economics"
+  },
+  {
+    "w": "외부효과",
+    "p": "oebuhyogwa",
+    "m": "ngoại tác, ngoại ứng",
+    "cat": "economics"
+  },
+  {
+    "w": "시장 실패",
+    "p": "sijang silpae",
+    "m": "thất bại thị trường",
+    "cat": "economics"
+  },
+  {
+    "w": "공공재",
+    "p": "gonggongjae",
+    "m": "hàng hóa công cộng",
+    "cat": "economics"
+  },
+  {
+    "w": "정보 비대칭",
+    "p": "jeongbo bidaeching",
+    "m": "bất cân xứng thông tin",
+    "cat": "economics"
+  },
+  {
+    "w": "게임 이론",
+    "p": "geim ilon",
+    "m": "lý thuyết trò chơi",
+    "cat": "economics"
+  },
+  {
+    "w": "내시 균형",
+    "p": "naesi gyunhyeong",
+    "m": "cân bằng Nash",
+    "cat": "economics"
+  },
+  {
+    "w": "죄수의 딜레마",
+    "p": "joesu-ui dilrema",
+    "m": "tình thế lưỡng nan của người tù",
+    "cat": "economics"
+  },
+  {
+    "w": "통화량",
+    "p": "tonghwalyang",
+    "m": "lưu thông tiền tệ",
+    "cat": "economics"
+  },
+  {
+    "w": "중앙은행",
+    "p": "jung-ang-eunhaeng",
+    "m": "ngân hàng trung ương",
+    "cat": "economics"
+  },
+  {
+    "w": "정당성",
+    "p": "jeongdangseong",
+    "m": "tính hợp pháp, chính danh",
+    "cat": "politics"
+  },
+  {
+    "w": "의원 내각제",
+    "p": "uiwon naegagje",
+    "m": "chế độ đại nghị",
+    "cat": "politics"
+  },
+  {
+    "w": "언론의 자유",
+    "p": "eonlon-ui jayu",
+    "m": "tự do báo chí",
+    "cat": "politics"
+  },
+  {
+    "w": "외교 정책",
+    "p": "oegyo jeongchaeg",
+    "m": "chính sách ngoại giao",
+    "cat": "politics"
+  },
+  {
+    "w": "국제 관계",
+    "p": "gugje gwan-gye",
+    "m": "quan hệ quốc tế",
+    "cat": "politics"
+  },
+  {
+    "w": "다자주의",
+    "p": "dajajuui",
+    "m": "chủ nghĩa đa phương",
+    "cat": "politics"
+  },
+  {
+    "w": "일방주의",
+    "p": "ilbangjuui",
+    "m": "chủ nghĩa đơn phương",
+    "cat": "politics"
+  },
+  {
+    "w": "영향권",
+    "p": "yeonghyanggwon",
+    "m": "phạm vi ảnh hưởng",
+    "cat": "politics"
+  },
+  {
+    "w": "냉전",
+    "p": "naengjeon",
+    "m": "chiến tranh lạnh",
+    "cat": "politics"
+  },
+  {
+    "w": "국제법",
+    "p": "gugjebeob",
+    "m": "luật quốc tế",
+    "cat": "politics"
+  },
+  {
+    "w": "국제연합",
+    "p": "gugjeyeonhab",
+    "m": "Liên Hợp Quốc",
+    "cat": "politics"
+  },
+  {
+    "w": "안전보장이사회",
+    "p": "anjeonbojang-isahoe",
+    "m": "Hội đồng Bảo an",
+    "cat": "politics"
+  },
+  {
+    "w": "포퓰리즘",
+    "p": "popyulrijeum",
+    "m": "chủ nghĩa dân túy",
+    "cat": "politics"
+  },
+  {
+    "w": "극단주의",
+    "p": "geugdanjuui",
+    "m": "chủ nghĩa cực đoan",
+    "cat": "politics"
+  },
+  {
+    "w": "테러리즘",
+    "p": "teoleolijeum",
+    "m": "chủ nghĩa khủng bố",
+    "cat": "politics"
+  },
+  {
+    "w": "거버넌스",
+    "p": "geobeoneonseu",
+    "m": "sự quản trị, điều hành (governance)",
+    "cat": "politics"
+  },
+  {
+    "w": "정책을 시행하다",
+    "p": "jeongchaeg-eul sihaenghada",
+    "m": "thực thi chính sách",
+    "cat": "politics"
+  },
+  {
+    "w": "득표",
+    "p": "deugpyo",
+    "m": "số phiếu bầu",
+    "cat": "politics"
+  },
+  {
+    "w": "선거 운동",
+    "p": "seon-geo undong",
+    "m": "sự vận động tranh cử",
+    "cat": "politics"
+  },
+  {
+    "w": "정치 후원금",
+    "p": "jeongchi huwongeum",
+    "m": "khoản đóng góp tài chính cho chính trị",
+    "cat": "politics"
+  },
+  {
+    "w": "로비",
+    "p": "lobi",
+    "m": "sự vận động hành lang (lobby)",
+    "cat": "politics"
+  },
+  {
+    "w": "이익 집단",
+    "p": "i-ig jibdan",
+    "m": "nhóm lợi ích",
+    "cat": "politics"
+  },
+  {
+    "w": "민심",
+    "p": "minsim",
+    "m": "lòng dân, nguyện vọng nhân dân",
+    "cat": "politics"
+  },
+  {
+    "w": "총리",
+    "p": "chongli",
+    "m": "thủ tướng",
+    "cat": "politics"
+  },
+  {
+    "w": "노동조합",
+    "p": "nodongjohab",
+    "m": "công đoàn",
+    "cat": "society"
+  },
+  {
+    "w": "노사 관계",
+    "p": "nosa gwan-gye",
+    "m": "quan hệ lao động-tư bản",
+    "cat": "society"
+  },
+  {
+    "w": "계급 갈등",
+    "p": "gyegeub galdeung",
+    "m": "mâu thuẫn giai cấp",
+    "cat": "society"
+  },
+  {
+    "w": "엘리트주의",
+    "p": "ellliteujuui",
+    "m": "chủ nghĩa tinh hoa",
+    "cat": "society"
+  },
+  {
+    "w": "배제",
+    "p": "baeje",
+    "m": "sự loại trừ, bài xích",
+    "cat": "society"
+  },
+  {
+    "w": "소외 계층",
+    "p": "soewe gyecheung",
+    "m": "nhóm yếu thế",
+    "cat": "society"
+  },
+  {
+    "w": "민족 정체성",
+    "p": "minjog jeongcheseong",
+    "m": "bản sắc dân tộc",
+    "cat": "society"
+  },
+  {
+    "w": "문화적 정체성",
+    "p": "munhwajeog jeongcheseong",
+    "m": "bản sắc văn hóa",
+    "cat": "society"
+  },
+  {
+    "w": "사회적 결속력",
+    "p": "sahoejeog gyeolsoglyeog",
+    "m": "sức gắn kết xã hội",
+    "cat": "society"
+  },
+  {
+    "w": "사회적 자본",
+    "p": "sahoejeog jabon",
+    "m": "vốn xã hội",
+    "cat": "society"
+  },
+  {
+    "w": "신뢰 위기",
+    "p": "sinloe wigi",
+    "m": "khủng hoảng niềm tin",
+    "cat": "society"
+  },
+  {
+    "w": "가치관",
+    "p": "gachigwan",
+    "m": "quan niệm giá trị",
+    "cat": "society"
+  },
+  {
+    "w": "세계관",
+    "p": "segyegwan",
+    "m": "thế giới quan",
+    "cat": "society"
+  },
+  {
+    "w": "인생관",
+    "p": "insaenggwan",
+    "m": "nhân sinh quan",
+    "cat": "society"
+  },
+  {
+    "w": "사회 규범",
+    "p": "sahoe gyubeom",
+    "m": "chuẩn mực xã hội",
+    "cat": "society"
+  },
+  {
+    "w": "사회 계약",
+    "p": "sahoe gyeyag",
+    "m": "khế ước xã hội",
+    "cat": "society"
+  },
+  {
+    "w": "시민사회",
+    "p": "siminsahoe",
+    "m": "xã hội dân sự",
+    "cat": "society"
+  },
+  {
+    "w": "비정부기구",
+    "p": "bijeongbugigu",
+    "m": "tổ chức phi chính phủ (NGO)",
+    "cat": "society"
+  },
+  {
+    "w": "이웃 공동체",
+    "p": "iwus gongdongche",
+    "m": "cộng đồng láng giềng",
+    "cat": "society"
+  },
+  {
+    "w": "계급 의식",
+    "p": "gyegeub uisig",
+    "m": "ý thức giai cấp",
+    "cat": "society"
+  },
+  {
+    "w": "사회 구조",
+    "p": "sahoe gujo",
+    "m": "cấu trúc xã hội",
+    "cat": "society"
+  },
+  {
+    "w": "사회 계층화",
+    "p": "sahoe gyecheunghwa",
+    "m": "sự phân tầng xã hội",
+    "cat": "society"
+  },
+  {
+    "w": "직업 이동",
+    "p": "jigeob idong",
+    "m": "sự dịch chuyển nghề nghiệp",
+    "cat": "society"
+  },
+  {
+    "w": "내면화",
+    "p": "naemyeonhwa",
+    "m": "sự nội tâm hóa",
+    "cat": "society"
+  },
+  {
+    "w": "표준화하다",
+    "p": "pyojunhwahada",
+    "m": "chuẩn hóa",
+    "cat": "society"
+  },
+  {
+    "w": "적법 절차",
+    "p": "jeogbeob jeolcha",
+    "m": "trình tự tố tụng đúng đắn",
+    "cat": "law"
+  },
+  {
+    "w": "법률 구조",
+    "p": "beoblyul gujo",
+    "m": "sự trợ giúp pháp lý",
+    "cat": "law"
+  },
+  {
+    "w": "민사 책임",
+    "p": "minsa chaeg-im",
+    "m": "trách nhiệm dân sự",
+    "cat": "law"
+  },
+  {
+    "w": "형사 책임",
+    "p": "hyeongsa chaeg-im",
+    "m": "trách nhiệm hình sự",
+    "cat": "law"
+  },
+  {
+    "w": "과실",
+    "p": "gwasil",
+    "m": "lỗi vô ý, sơ suất",
+    "cat": "law"
+  },
+  {
+    "w": "고의",
+    "p": "goui",
+    "m": "sự cố ý",
+    "cat": "law"
+  },
+  {
+    "w": "주범",
+    "p": "jubeom",
+    "m": "chủ mưu, tội phạm chính",
+    "cat": "law"
+  },
+  {
+    "w": "재범",
+    "p": "jaebeom",
+    "m": "sự tái phạm",
+    "cat": "law"
+  },
+  {
+    "w": "선례",
+    "p": "seonlye",
+    "m": "tiền lệ",
+    "cat": "law"
+  },
+  {
+    "w": "성문법",
+    "p": "seongmunbeob",
+    "m": "luật thành văn",
+    "cat": "law"
+  },
+  {
+    "w": "관습법",
+    "p": "gwanseupbeob",
+    "m": "luật tập quán",
+    "cat": "law"
+  },
+  {
+    "w": "사법 독립",
+    "p": "sabeob dogrib",
+    "m": "sự độc lập tư pháp",
+    "cat": "law"
+  },
+  {
+    "w": "특허권",
+    "p": "teugheogwon",
+    "m": "quyền bằng sáng chế",
+    "cat": "law"
+  },
+  {
+    "w": "상표권",
+    "p": "sangpyogwon",
+    "m": "quyền thương hiệu",
+    "cat": "law"
+  },
+  {
+    "w": "초상권",
+    "p": "chosanggwon",
+    "m": "quyền hình ảnh cá nhân",
+    "cat": "law"
+  },
+  {
+    "w": "재산권",
+    "p": "jaesangwon",
+    "m": "quyền tài sản",
+    "cat": "law"
+  },
+  {
+    "w": "상속권",
+    "p": "sangsoggwon",
+    "m": "quyền thừa kế",
+    "cat": "law"
+  },
+  {
+    "w": "계약 이행",
+    "p": "gyeyag ihaeng",
+    "m": "sự thực hiện hợp đồng",
+    "cat": "law"
+  },
+  {
+    "w": "협상하다",
+    "p": "hyeobsanghada",
+    "m": "thương lượng",
+    "cat": "hành động"
+  },
+  {
+    "w": "기획하다",
+    "p": "gihoeghada",
+    "m": "quy hoạch, lên kế hoạch",
+    "cat": "hành động"
+  },
+  {
+    "w": "동원하다",
+    "p": "dong-wonhada",
+    "m": "huy động, điều động",
+    "cat": "hành động"
+  },
+  {
+    "w": "갱신하다",
+    "p": "gaengsinhada",
+    "m": "cập nhật, đổi mới",
+    "cat": "hành động"
+  },
+  {
+    "w": "실현하다",
+    "p": "silhyeonhada",
+    "m": "thực hiện, đạt được",
+    "cat": "hành động"
+  },
+  {
+    "w": "보급하다",
+    "p": "boguphada",
+    "m": "phổ biến, quảng bá",
+    "cat": "hành động"
+  },
+  {
+    "w": "폐지하다",
+    "p": "pyejihada",
+    "m": "hủy bỏ, bãi bỏ",
+    "cat": "hành động"
+  },
+  {
+    "w": "대응하다",
+    "p": "daeeunghada",
+    "m": "đối phó, ứng phó",
+    "cat": "hành động"
+  },
+  {
+    "w": "억제하다",
+    "p": "eogjehada",
+    "m": "ức chế, kìm hãm",
+    "cat": "hành động"
+  },
+  {
+    "w": "유인하다",
+    "p": "yuinhada",
+    "m": "thu hút, dẫn dụ",
+    "cat": "hành động"
+  },
+  {
+    "w": "입찰하다",
+    "p": "ibchalhada",
+    "m": "mời thầu, đấu thầu",
+    "cat": "hành động"
+  },
+  {
+    "w": "통계학",
+    "p": "tonggyehag",
+    "m": "thống kê học",
+    "cat": "science"
+  },
+  {
+    "w": "회귀분석",
+    "p": "hoegwibunseog",
+    "m": "phân tích hồi quy",
+    "cat": "science"
+  },
+  {
+    "w": "영가설",
+    "p": "yeong-gaseol",
+    "m": "giả thuyết không (null hypothesis)",
+    "cat": "science"
+  },
+  {
+    "w": "p값",
+    "p": "pi-gab",
+    "m": "giá trị p",
+    "cat": "science"
+  },
+  {
+    "w": "이중맹검법",
+    "p": "ijungmaenggeombeob",
+    "m": "phương pháp mù đôi",
+    "cat": "science"
+  },
+  {
+    "w": "개입",
+    "p": "gaeib",
+    "m": "sự can thiệp",
+    "cat": "science"
+  },
+  {
+    "w": "상호작용 효과",
+    "p": "sanghojag-yong hyogwa",
+    "m": "hiệu ứng tương tác",
+    "cat": "science"
+  },
+  {
+    "w": "교란 변수",
+    "p": "gyolan byeonsu",
+    "m": "biến gây nhiễu",
+    "cat": "science"
+  },
+  {
+    "w": "유전자 편집",
+    "p": "yujeonja pyeonjib",
+    "m": "chỉnh sửa gen",
+    "cat": "science"
+  },
+  {
+    "w": "양자 컴퓨팅",
+    "p": "yangja keompyuting",
+    "m": "tính toán lượng tử",
+    "cat": "science"
+  },
+  {
+    "w": "신경망",
+    "p": "singyeongmang",
+    "m": "mạng nơ-ron",
+    "cat": "science"
+  },
+  {
+    "w": "유전공학",
+    "p": "yujeon-gonghag",
+    "m": "kỹ thuật di truyền",
+    "cat": "science"
+  },
+  {
+    "w": "DNA",
+    "p": "dienei",
+    "m": "DNA, ADN",
+    "cat": "science"
+  },
+  {
+    "w": "RNA",
+    "p": "aleneiei",
+    "m": "RNA, ARN",
+    "cat": "science"
+  },
+  {
+    "w": "화학 반응",
+    "p": "hwahag ban-eung",
+    "m": "phản ứng hóa học",
+    "cat": "science"
+  },
+  {
+    "w": "주기율표",
+    "p": "jugiyulpyo",
+    "m": "bảng tuần hoàn nguyên tố",
+    "cat": "science"
+  },
+  {
+    "w": "동위원소",
+    "p": "dong-wiwonso",
+    "m": "đồng vị",
+    "cat": "science"
+  },
+  {
+    "w": "방사능",
+    "p": "bangsaneung",
+    "m": "sự phóng xạ",
+    "cat": "science"
+  },
+  {
+    "w": "핵분열",
+    "p": "haegbunyeol",
+    "m": "phân hạch hạt nhân",
+    "cat": "science"
+  },
+  {
+    "w": "핵융합",
+    "p": "haegyunghab",
+    "m": "nhiệt hạch, phản ứng tổng hợp hạt nhân",
+    "cat": "science"
+  },
+  {
+    "w": "생화학",
+    "p": "saenghwahag",
+    "m": "sinh hóa học",
+    "cat": "science"
+  },
+  {
+    "w": "분자생물학",
+    "p": "bunjasaengmulhag",
+    "m": "sinh học phân tử",
+    "cat": "science"
+  },
+  {
+    "w": "언어 스타일",
+    "p": "eon-eo seutail",
+    "m": "phong cách ngôn ngữ",
+    "cat": "literary"
+  },
+  {
+    "w": "전고",
+    "p": "jeon-go",
+    "m": "điển cố, điển tích",
+    "cat": "literary"
+  },
+  {
+    "w": "함의",
+    "p": "ham-ui",
+    "m": "hàm ý, ý nghĩa sâu xa",
+    "cat": "literary"
+  },
+  {
+    "w": "내포",
+    "p": "naepo",
+    "m": "nội hàm, ý nghĩa ẩn",
+    "cat": "literary"
+  },
+  {
+    "w": "외연",
+    "p": "oeyeon",
+    "m": "ngoại diên, nghĩa mở rộng",
+    "cat": "literary"
+  },
+  {
+    "w": "해체",
+    "p": "haeche",
+    "m": "sự giải cấu trúc",
+    "cat": "literary"
+  },
+  {
+    "w": "재구성",
+    "p": "jaeguseong",
+    "m": "sự tái cấu trúc",
+    "cat": "literary"
+  },
+  {
+    "w": "상호텍스트성",
+    "p": "sanghoteseuteuseong",
+    "m": "tính liên văn bản",
+    "cat": "literary"
+  },
+  {
+    "w": "클라이맥스",
+    "p": "keullaimaegseu",
+    "m": "cao trào",
+    "cat": "literary"
+  },
+  {
+    "w": "전환점",
+    "p": "jeonhwanjeom",
+    "m": "bước ngoặt, chuyển biến",
+    "cat": "literary"
+  },
+  {
+    "w": "호응",
+    "p": "hoeung",
+    "m": "sự chiếu ứng, hô ứng",
+    "cat": "literary"
+  },
+  {
+    "w": "화학 오염",
+    "p": "hwahag oyeom",
+    "m": "ô nhiễm hóa chất",
+    "cat": "environment"
+  },
+  {
+    "w": "지속가능한 발전",
+    "p": "jisogganeunghan baljeon",
+    "m": "phát triển bền vững",
+    "cat": "environment"
+  },
+  {
+    "w": "탄소 흡수원",
+    "p": "tanso heubsuwon",
+    "m": "bể hấp thụ carbon",
+    "cat": "environment"
+  },
+  {
+    "w": "수자원",
+    "p": "sujawon",
+    "m": "tài nguyên nước",
+    "cat": "environment"
+  },
+  {
+    "w": "조류",
+    "p": "jolyu",
+    "m": "loài chim",
+    "cat": "environment"
+  },
+  {
+    "w": "양서류",
+    "p": "yangseolyu",
+    "m": "lưỡng cư",
+    "cat": "environment"
+  },
+  {
+    "w": "식생",
+    "p": "sigsaeng",
+    "m": "thảm thực vật",
+    "cat": "environment"
+  },
+  {
+    "w": "온대림",
+    "p": "ondaelim",
+    "m": "rừng ôn đới",
+    "cat": "environment"
+  },
+  {
+    "w": "툰드라",
+    "p": "tundeula",
+    "m": "đài nguyên (tundra)",
+    "cat": "environment"
+  },
+  {
+    "w": "수권",
+    "p": "sugwon",
+    "m": "quyển nước (thủy quyển)",
+    "cat": "environment"
+  },
+  {
+    "w": "암석권",
+    "p": "amseoggwon",
+    "m": "quyển thạch (địa quyển)",
+    "cat": "environment"
+  },
+  {
+    "w": "생태학적 불균형",
+    "p": "saengtaehagjeog bulgyunhyeong",
+    "m": "sự mất cân bằng sinh thái",
+    "cat": "environment"
+  },
+  {
+    "w": "환경 수용력",
+    "p": "hwan-gyeong suyonglyeog",
+    "m": "sức chịu tải môi trường",
+    "cat": "environment"
+  },
+  {
+    "w": "수력 발전",
+    "p": "sulyeog baljeon",
+    "m": "thủy điện",
+    "cat": "environment"
+  },
+  {
+    "w": "수소 에너지",
+    "p": "suso eneoji",
+    "m": "năng lượng hydro",
+    "cat": "environment"
+  },
+  {
+    "w": "철거",
+    "p": "cheolgeo",
+    "m": "sự giải tỏa, di dời (nhà cửa)",
+    "cat": "home"
+  },
+  {
+    "w": "미술 전시회",
+    "p": "misul jeonsihoe",
+    "m": "triển lãm nghệ thuật",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "서화",
+    "p": "seohwa",
+    "m": "thư pháp và hội họa",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "골동품",
+    "p": "goldongpum",
+    "m": "đồ cổ",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "수집가",
+    "p": "sujibga",
+    "m": "nhà sưu tầm",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "경매",
+    "p": "gyeongmae",
+    "m": "sự đấu giá",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "전통 공예",
+    "p": "jeontong gong-ye",
+    "m": "thủ công truyền thống",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "고건축",
+    "p": "gogeonchug",
+    "m": "kiến trúc cổ",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "고도",
+    "p": "godo",
+    "m": "cố đô, thị trấn cổ",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "저축 통장",
+    "p": "jeochug tongjang",
+    "m": "sổ tiết kiệm",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "이체 내역",
+    "p": "iche naeyeog",
+    "m": "lịch sử chuyển khoản",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "수표",
+    "p": "supyo",
+    "m": "séc",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "어음",
+    "p": "eoeum",
+    "m": "hối phiếu",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "예산 초과",
+    "p": "yesan chogwa",
+    "m": "sự vượt ngân sách",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "진술",
+    "p": "jinsul",
+    "m": "lời khai",
+    "cat": "law"
+  },
+  {
+    "w": "소송 사건",
+    "p": "sosong sageon",
+    "m": "vụ án",
+    "cat": "law"
+  },
+  {
+    "w": "전과",
+    "p": "jeon-gwa",
+    "m": "tiền án, phạm pháp",
+    "cat": "law"
+  },
+  {
+    "w": "호적",
+    "p": "hojeog",
+    "m": "hộ khẩu",
+    "cat": "law"
+  },
+  {
+    "w": "정부 기관",
+    "p": "jeongbu gigwan",
+    "m": "cơ quan chính phủ",
+    "cat": "politics"
+  },
+  {
+    "w": "공식 발표",
+    "p": "gongsig balpyo",
+    "m": "thông báo chính thức",
+    "cat": "media"
+  },
+  {
+    "w": "말을 전하다",
+    "p": "mal-eul jeonhada",
+    "m": "nhắn lại, chuyển lời",
+    "cat": "hành động"
+  },
+  {
+    "w": "미리 알리다",
+    "p": "mili allida",
+    "m": "báo trước",
+    "cat": "hành động"
+  },
+  {
+    "w": "당부하다",
+    "p": "dangbuhada",
+    "m": "dặn dò",
+    "cat": "hành động"
+  },
+  {
+    "w": "위탁하다",
+    "p": "witaghada",
+    "m": "ủy thác, giao phó",
+    "cat": "hành động"
+  },
+  {
+    "w": "자문을 구하다",
+    "p": "jamun-eul guhada",
+    "m": "hỏi ý kiến chuyên gia",
+    "cat": "hành động"
+  },
+  {
+    "w": "캐묻다",
+    "p": "kaemudda",
+    "m": "dò hỏi, thăm dò",
+    "cat": "hành động"
+  },
+  {
+    "w": "열람하다",
+    "p": "yeollamhada",
+    "m": "tra cứu, đọc để tham khảo",
+    "cat": "hành động"
+  },
+  {
+    "w": "진상을 밝히다",
+    "p": "jinsang-eul balghida",
+    "m": "làm rõ sự thật",
+    "cat": "hành động"
+  },
+  {
+    "w": "정정하다",
+    "p": "jeongjeonghada",
+    "m": "đính chính, sửa lại",
+    "cat": "hành động"
+  },
+  {
+    "w": "견해를 밝히다",
+    "p": "gyeonhaeleul balghida",
+    "m": "trình bày quan điểm",
+    "cat": "hành động"
+  },
+  {
+    "w": "개괄하다",
+    "p": "gaegwalhada",
+    "m": "khái quát, tóm lược",
+    "cat": "hành động"
+  },
+  {
+    "w": "집중력",
+    "p": "jibjunglyeog",
+    "m": "khả năng tập trung",
+    "cat": "psychology"
+  },
+  {
+    "w": "자기반성",
+    "p": "jagibanseong",
+    "m": "sự tự kiểm điểm",
+    "cat": "psychology"
+  },
+  {
+    "w": "행복감",
+    "p": "haengboggam",
+    "m": "cảm giác hạnh phúc",
+    "cat": "psychology"
+  },
+  {
+    "w": "존재감",
+    "p": "jonjaegam",
+    "m": "cảm giác hiện diện, được chú ý",
+    "cat": "psychology"
+  },
+  {
+    "w": "심경",
+    "p": "simgyeong",
+    "m": "tâm trạng, cảnh giới tâm hồn",
+    "cat": "psychology"
+  },
+  {
+    "w": "감정 조절 불능",
+    "p": "gamjeong jojeol buneung",
+    "m": "mất kiểm soát cảm xúc",
+    "cat": "psychology"
+  },
+  {
+    "w": "정신 상태",
+    "p": "jeongsin sangtae",
+    "m": "trạng thái tinh thần",
+    "cat": "psychology"
+  },
+  {
+    "w": "회의를 주재하다",
+    "p": "hoeuileul jujaehada",
+    "m": "chủ trì cuộc họp",
+    "cat": "work"
+  },
+  {
+    "w": "의안",
+    "p": "uian",
+    "m": "đề án, nghị quyết",
+    "cat": "work"
+  },
+  {
+    "w": "표결하다",
+    "p": "pyogyeolhada",
+    "m": "biểu quyết",
+    "cat": "work"
+  },
+  {
+    "w": "만장일치",
+    "p": "manjang-ilchi",
+    "m": "sự nhất trí thông qua",
+    "cat": "work"
+  },
+  {
+    "w": "반대표",
+    "p": "bandaepyo",
+    "m": "phiếu chống",
+    "cat": "work"
+  },
+  {
+    "w": "기권표",
+    "p": "gigwonpyo",
+    "m": "phiếu trắng",
+    "cat": "work"
+  },
+  {
+    "w": "업무 보고",
+    "p": "eobmu bogo",
+    "m": "báo cáo công việc",
+    "cat": "work"
+  },
+  {
+    "w": "연간 결산",
+    "p": "yeon-gan gyeolsan",
+    "m": "tổng kết năm",
+    "cat": "work"
+  },
+  {
+    "w": "프로젝트 진척도",
+    "p": "peulojegteu jincheogdo",
+    "m": "tiến độ dự án",
+    "cat": "work"
+  },
+  {
+    "w": "부서 간 협업",
+    "p": "buseo gan hyeobeob",
+    "m": "sự hợp tác liên phòng ban",
+    "cat": "work"
+  },
+  {
+    "w": "박물관 안내원",
+    "p": "bagmulgwan annae-won",
+    "m": "hướng dẫn viên bảo tàng",
+    "cat": "work"
+  },
+  {
+    "w": "공익 활동",
+    "p": "gong-ig hwaldong",
+    "m": "hoạt động công ích",
+    "cat": "society"
+  },
+  {
+    "w": "소심하다",
+    "p": "sosimhada",
+    "m": "nhút nhát, rụt rè",
+    "cat": "tính từ"
+  },
+  {
+    "w": "눈치가 빠르다",
+    "p": "nunchiga ppaleuda",
+    "m": "nhanh trí, tinh ý",
+    "cat": "tính từ"
+  },
+  {
+    "w": "결정론",
+    "p": "gyeoljeonglon",
+    "m": "chủ nghĩa tất định",
+    "cat": "học thuật"
+  },
+  {
+    "w": "자유의지",
+    "p": "jayuuiji",
+    "m": "ý chí tự do",
+    "cat": "học thuật"
+  },
+  {
+    "w": "이원론",
+    "p": "iwonlon",
+    "m": "nhị nguyên luận",
+    "cat": "học thuật"
+  },
+  {
+    "w": "다원론",
+    "p": "dawonlon",
+    "m": "đa nguyên luận",
+    "cat": "học thuật"
+  },
+  {
+    "w": "존재론",
+    "p": "jonjaelon",
+    "m": "bản thể luận",
+    "cat": "học thuật"
+  },
+  {
+    "w": "형이상학",
+    "p": "hyeong-isanghag",
+    "m": "siêu hình học",
+    "cat": "học thuật"
+  },
+  {
+    "w": "목적론",
+    "p": "mogjeoglon",
+    "m": "mục đích luận",
+    "cat": "học thuật"
+  },
+  {
+    "w": "해석학",
+    "p": "haeseoghag",
+    "m": "giải thích học",
+    "cat": "học thuật"
+  },
+  {
+    "w": "단속적이다",
+    "p": "dansogjeogida",
+    "m": "ngắt quãng, không liên tục",
+    "cat": "tính từ"
+  },
+  {
+    "w": "산발적이다",
+    "p": "sanbaljeogida",
+    "m": "lẻ tẻ, không thường xuyên",
+    "cat": "tính từ"
+  },
+  {
+    "w": "역설적으로",
+    "p": "yeogseoljeog-eulo",
+    "m": "một cách nghịch lý",
+    "cat": "tính từ"
+  },
+  {
+    "w": "표면상",
+    "p": "pyomyeonsang",
+    "m": "bề ngoài, hình thức",
+    "cat": "tính từ"
+  },
+  {
+    "w": "소위",
+    "p": "sowi",
+    "m": "được cho là, cái gọi là",
+    "cat": "tính từ"
+  },
+  {
+    "w": "불변하다",
+    "p": "bulbyeonhada",
+    "m": "luôn luôn, bất biến",
+    "cat": "tính từ"
+  },
+  {
+    "w": "식별 가능하다",
+    "p": "sigbyeol ganeunghada",
+    "m": "có thể nhận ra, nhận biết được",
+    "cat": "tính từ"
+  },
+  {
+    "w": "중의적이다",
+    "p": "jung-uijeogida",
+    "m": "mơ hồ, có thể hiểu hai cách",
+    "cat": "tính từ"
+  },
+  {
+    "w": "설득력이 있다",
+    "p": "seoldeuglyeog-i issda",
+    "m": "chặt chẽ, thuyết phục",
+    "cat": "tính từ"
+  },
+  {
+    "w": "뚜렷한 차이",
+    "p": "ttuolyeoshan chai",
+    "m": "sự khác biệt đáng kể",
+    "cat": "học thuật"
+  },
+  {
+    "w": "두드러진 유사점",
+    "p": "dudeuleojin yusajeom",
+    "m": "sự tương đồng nổi bật",
+    "cat": "học thuật"
+  },
+  {
+    "w": "미묘한 차이",
+    "p": "mimyohan chai",
+    "m": "sự khác biệt tinh tế",
+    "cat": "học thuật"
+  },
+  {
+    "w": "심오한 함축",
+    "p": "sim-ohan hamchug",
+    "m": "hàm ý sâu xa",
+    "cat": "học thuật"
+  },
+  {
+    "w": "암묵적 이해",
+    "p": "ammuhjeog ihae",
+    "m": "sự hiểu biết ngầm",
+    "cat": "học thuật"
+  },
+  {
+    "w": "경제학",
+    "p": "gyeongjehag",
+    "m": "kinh tế học",
+    "cat": "economics"
+  },
+  {
+    "w": "세계무역기구",
+    "p": "segyemuyeoggigu",
+    "m": "Tổ chức Thương mại Thế giới (WTO)",
+    "cat": "economics"
+  },
+  {
+    "w": "국제통화기금",
+    "p": "gugjetonghwagigeum",
+    "m": "Quỹ Tiền tệ Quốc tế (IMF)",
+    "cat": "economics"
+  },
+  {
+    "w": "채권자",
+    "p": "chaegwonja",
+    "m": "chủ nợ",
+    "cat": "economics"
+  },
+  {
+    "w": "사모펀드",
+    "p": "samopeondeu",
+    "m": "quỹ đầu tư tư nhân",
+    "cat": "economics"
+  },
+  {
+    "w": "관세 장벽",
+    "p": "gwanse jangbyeog",
+    "m": "hàng rào thuế quan",
+    "cat": "economics"
+  },
+  {
+    "w": "경상수지",
+    "p": "gyeongsangsuji",
+    "m": "cán cân vãng lai",
+    "cat": "economics"
+  },
+  {
+    "w": "관찰 연구",
+    "p": "gwanchal yeongu",
+    "m": "nghiên cứu quan sát",
+    "cat": "science"
+  },
+  {
+    "w": "대표성",
+    "p": "daepyoseong",
+    "m": "tính đại diện (của mẫu nghiên cứu)",
+    "cat": "science"
+  },
+  {
+    "w": "뉴미디어",
+    "p": "nyumidieo",
+    "m": "truyền thông mới",
+    "cat": "media"
+  },
+  {
+    "w": "정보 거품",
+    "p": "jeongbo geopum",
+    "m": "bong bóng thông tin",
+    "cat": "media"
+  },
+  {
+    "w": "반향실 효과",
+    "p": "banhyangsil hyogwa",
+    "m": "hiệu ứng buồng vang",
+    "cat": "media"
+  },
+  {
+    "w": "심층 보도",
+    "p": "simcheung bodo",
+    "m": "báo cáo chuyên sâu",
+    "cat": "media"
+  },
+  {
+    "w": "미디어 융합",
+    "p": "midieo yunghab",
+    "m": "hội tụ truyền thông",
+    "cat": "media"
+  },
+  {
+    "w": "트래픽",
+    "p": "teuraepig",
+    "m": "lưu lượng truy cập",
+    "cat": "media"
+  },
+  {
+    "w": "댓글",
+    "p": "daetgeul",
+    "m": "lời bình luận (mạng)",
+    "cat": "media"
+  },
+  {
+    "w": "암호화폐",
+    "p": "amhohwapye",
+    "m": "tiền mã hóa",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "채굴하다",
+    "p": "chaegulhada",
+    "m": "đào coin",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "데이터 프라이버시",
+    "p": "deiteo peuraibeosi",
+    "m": "quyền riêng tư dữ liệu",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "버그",
+    "p": "beogeu",
+    "m": "lỗi phần mềm",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "올림픽",
+    "p": "ollimpig",
+    "m": "Thế vận hội Olympic",
+    "cat": "thể thao"
+  },
+  {
+    "w": "사격",
+    "p": "sagyeog",
+    "m": "bắn súng",
+    "cat": "thể thao"
+  },
+  {
+    "w": "역도",
+    "p": "yeogdo",
+    "m": "cử tạ",
+    "cat": "thể thao"
+  },
+  {
+    "w": "장대높이뛰기",
+    "p": "jangdaenop-ittwigi",
+    "m": "nhảy sào",
+    "cat": "thể thao"
+  },
+  {
+    "w": "투포환",
+    "p": "tupohwan",
+    "m": "đẩy tạ",
+    "cat": "thể thao"
+  },
+  {
+    "w": "스타트업 인큐베이터",
+    "p": "seutateueob inkyubeiteo",
+    "m": "vườn ươm khởi nghiệp",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "공매도",
+    "p": "gongmaedo",
+    "m": "bán khống",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "강세장",
+    "p": "gangsejang",
+    "m": "thị trường tăng giá",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "약세장",
+    "p": "yagsejang",
+    "m": "thị trường giảm giá",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "버블",
+    "p": "beobeul",
+    "m": "bong bóng kinh tế",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "시장 붕괴",
+    "p": "sijang bunggoe",
+    "m": "sụp đổ thị trường",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "반등",
+    "p": "bandeung",
+    "m": "phục hồi, bật lại (giá)",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "정취",
+    "p": "jeongchwi",
+    "m": "phong vị, hương vị (nghệ thuật)",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "풍격",
+    "p": "punggyeog",
+    "m": "phong cách, khí chất (nghệ thuật)",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "희곡",
+    "p": "huigog",
+    "m": "kịch nói (thể loại văn học)",
+    "cat": "literary"
+  },
+  {
+    "w": "서술 시점",
+    "p": "seosul sijeom",
+    "m": "điểm nhìn tự sự",
+    "cat": "literary"
+  },
+  {
+    "w": "1인칭 시점",
+    "p": "ilinching sijeom",
+    "m": "ngôi kể thứ nhất",
+    "cat": "literary"
+  },
+  {
+    "w": "3인칭 시점",
+    "p": "saminching sijeom",
+    "m": "ngôi kể thứ ba",
+    "cat": "literary"
+  },
+  {
+    "w": "의식의 흐름",
+    "p": "uisig-ui heureum",
+    "m": "dòng ý thức (kỹ thuật văn học)",
+    "cat": "literary"
+  },
+  {
+    "w": "법 조항",
+    "p": "beob johang",
+    "m": "điều khoản pháp luật",
+    "cat": "law"
+  },
+  {
+    "w": "사법 절차",
+    "p": "sabeob jeolcha",
+    "m": "thủ tục tư pháp",
+    "cat": "law"
+  },
+  {
+    "w": "소송을 제기하다",
+    "p": "sosong-eul jegihada",
+    "m": "đệ đơn khởi kiện",
+    "cat": "law"
+  },
+  {
+    "w": "증인",
+    "p": "jeung-in",
+    "m": "nhân chứng",
+    "cat": "law"
+  },
+  {
+    "w": "구금하다",
+    "p": "gugeumhada",
+    "m": "giam giữ",
+    "cat": "law"
+  },
+  {
+    "w": "체포하다",
+    "p": "chepohada",
+    "m": "bắt giữ, bắt giam",
+    "cat": "law"
+  },
+  {
+    "w": "집행하다",
+    "p": "jibhaenghada",
+    "m": "thực thi, thi hành (pháp luật)",
+    "cat": "law"
+  },
+  {
+    "w": "집권하다",
+    "p": "jibgwonhada",
+    "m": "cầm quyền, nắm quyền lực",
+    "cat": "politics"
+  },
+  {
+    "w": "정치 개혁",
+    "p": "jeongchi gaehyeog",
+    "m": "cải cách chính trị",
+    "cat": "politics"
+  },
+  {
+    "w": "청렴한 정부",
+    "p": "cheongryeomhan jeongbu",
+    "m": "chính phủ liêm khiết",
+    "cat": "politics"
+  },
+  {
+    "w": "콘텐츠 관리",
+    "p": "kontencheu gwanli",
+    "m": "quản lý nội dung",
+    "cat": "media"
+  },
+  {
+    "w": "플랫폼 책임",
+    "p": "peullaespom chaeg-im",
+    "m": "trách nhiệm nền tảng",
+    "cat": "media"
+  },
+  {
+    "w": "탈진실",
+    "p": "taljinsil",
+    "m": "hậu sự thật (post-truth)",
+    "cat": "media"
+  },
+  {
+    "w": "허위 정보",
+    "p": "heowi jeongbo",
+    "m": "thông tin sai lệch",
+    "cat": "media"
+  },
+  {
+    "w": "알고리즘 추천",
+    "p": "algolijeum chucheon",
+    "m": "gợi ý thuật toán",
+    "cat": "media"
+  },
+  {
+    "w": "원조",
+    "p": "wonjo",
+    "m": "viện trợ, hỗ trợ",
+    "cat": "economics"
+  },
+  {
+    "w": "지분율",
+    "p": "jibunyul",
+    "m": "tỷ lệ cổ phần",
+    "cat": "economics"
+  },
+  {
+    "w": "공급망 관리",
+    "p": "gong-geubmang gwanli",
+    "m": "quản lý chuỗi cung ứng",
+    "cat": "economics"
+  },
+  {
+    "w": "극한 기후",
+    "p": "geughan gihu",
+    "m": "thời tiết cực đoan",
+    "cat": "environment"
+  },
+  {
+    "w": "자외선",
+    "p": "jaoeseon",
+    "m": "tia cực tím",
+    "cat": "environment"
+  },
+  {
+    "w": "산성비",
+    "p": "sanseongbi",
+    "m": "mưa axit",
+    "cat": "environment"
+  },
+  {
+    "w": "토양 악화",
+    "p": "toyang aghwa",
+    "m": "sự suy thoái đất",
+    "cat": "environment"
+  },
+  {
+    "w": "중금속 오염",
+    "p": "junggeumsog oyeom",
+    "m": "ô nhiễm kim loại nặng",
+    "cat": "environment"
+  },
+  {
+    "w": "녹색 발전",
+    "p": "nogsaeg baljeon",
+    "m": "phát triển xanh",
+    "cat": "environment"
+  },
+  {
+    "w": "생태 보호",
+    "p": "saengtae boho",
+    "m": "sự bảo vệ sinh thái",
+    "cat": "environment"
+  },
+  {
+    "w": "방안",
+    "p": "bang-an",
+    "m": "phương án, giải pháp",
+    "cat": "học thuật"
+  },
+  {
+    "w": "상상력",
+    "p": "sangsanglyeog",
+    "m": "trí tưởng tượng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "곤경",
+    "p": "gongyeong",
+    "m": "tình cảnh khó khăn",
+    "cat": "học thuật"
+  },
+  {
+    "w": "학문 분야",
+    "p": "hagmun bun-ya",
+    "m": "ngành học, lĩnh vực khoa học",
+    "cat": "học thuật"
+  },
+  {
+    "w": "종사하다",
+    "p": "jongsahada",
+    "m": "làm nghề, theo đuổi nghề",
+    "cat": "work"
+  },
+  {
+    "w": "묵비권",
+    "p": "mugbigwon",
+    "m": "quyền im lặng",
+    "cat": "law"
+  },
+  {
+    "w": "법률 지원",
+    "p": "beoblyul jiwon",
+    "m": "trợ giúp pháp lý",
+    "cat": "law"
+  },
+  {
+    "w": "명예권",
+    "p": "myeong-yegwon",
+    "m": "quyền danh dự",
+    "cat": "law"
+  },
+  {
+    "w": "담보권",
+    "p": "dambogwon",
+    "m": "quyền thế chấp",
+    "cat": "law"
+  },
+  {
+    "w": "인도하다",
+    "p": "indohada",
+    "m": "dẫn độ (tội phạm)",
+    "cat": "law"
+  },
+  {
+    "w": "책임을 추궁하다",
+    "p": "chaeg-im-eul chugunghada",
+    "m": "truy cứu trách nhiệm",
+    "cat": "politics"
+  },
+  {
+    "w": "합법성",
+    "p": "habbeobseong",
+    "m": "tính hợp pháp",
+    "cat": "politics"
+  },
+  {
+    "w": "시민권",
+    "p": "simingwon",
+    "m": "quyền công dân",
+    "cat": "politics"
+  },
+  {
+    "w": "국정 운영",
+    "p": "gugjeong un-yeong",
+    "m": "quản trị điều hành đất nước",
+    "cat": "politics"
+  },
+  {
+    "w": "로비하다",
+    "p": "lobihada",
+    "m": "vận động hành lang",
+    "cat": "politics"
+  },
+  {
+    "w": "도지사",
+    "p": "dojisa",
+    "m": "tỉnh trưởng",
+    "cat": "politics"
+  },
+  {
+    "w": "군수",
+    "p": "gunsu",
+    "m": "huyện trưởng",
+    "cat": "politics"
+  },
+  {
+    "w": "기회비용",
+    "p": "gihoebiyong",
+    "m": "chi phí cơ hội",
+    "cat": "economics"
+  },
+  {
+    "w": "지니계수",
+    "p": "jinigyesu",
+    "m": "hệ số Gini",
+    "cat": "economics"
+  },
+  {
+    "w": "무역 장벽",
+    "p": "muyeog jangbyeog",
+    "m": "rào cản thương mại",
+    "cat": "economics"
+  },
+  {
+    "w": "덤핑",
+    "p": "deomping",
+    "m": "bán phá giá",
+    "cat": "economics"
+  },
+  {
+    "w": "통화 유통",
+    "p": "tonghwa yutong",
+    "m": "lưu thông tiền tệ",
+    "cat": "economics"
+  },
+  {
+    "w": "외화 준비금",
+    "p": "oehwa junbigeum",
+    "m": "dự trữ ngoại hối",
+    "cat": "economics"
+  },
+  {
+    "w": "국제사법",
+    "p": "gugjesabeob",
+    "m": "tư pháp quốc tế",
+    "cat": "law"
+  },
+  {
+    "w": "난민법",
+    "p": "nanminbeob",
+    "m": "luật tị nạn",
+    "cat": "law"
+  },
+  {
+    "w": "노동법",
+    "p": "nodongbeob",
+    "m": "luật lao động",
+    "cat": "law"
+  },
+  {
+    "w": "환경법",
+    "p": "hwan-gyeongbeob",
+    "m": "luật môi trường",
+    "cat": "law"
+  },
+  {
+    "w": "반독점법",
+    "p": "bandogjeombeob",
+    "m": "luật chống độc quyền",
+    "cat": "law"
+  },
+  {
+    "w": "소비자보호법",
+    "p": "sobijabohobeob",
+    "m": "luật bảo vệ người tiêu dùng",
+    "cat": "law"
+  },
+  {
+    "w": "데이터보호법",
+    "p": "deiteobohobeob",
+    "m": "luật bảo vệ dữ liệu",
+    "cat": "law"
+  },
+  {
+    "w": "사이버보안법",
+    "p": "saibeoboanbeob",
+    "m": "luật an ninh mạng",
+    "cat": "law"
+  },
+  {
+    "w": "공무원",
+    "p": "gongmuwon",
+    "m": "công chức, quan chức nhà nước",
+    "cat": "politics"
+  },
+  {
+    "w": "행정 구역",
+    "p": "haengjeong guyeog",
+    "m": "đơn vị hành chính",
+    "cat": "politics"
+  },
+  {
+    "w": "당헌",
+    "p": "danghyeon",
+    "m": "cương lĩnh đảng",
+    "cat": "politics"
+  },
+  {
+    "w": "당원",
+    "p": "dang-won",
+    "m": "đảng viên",
+    "cat": "politics"
+  },
+  {
+    "w": "입당하다",
+    "p": "ibdanghada",
+    "m": "gia nhập đảng",
+    "cat": "politics"
+  },
+  {
+    "w": "보수파",
+    "p": "bosupa",
+    "m": "phe bảo thủ",
+    "cat": "politics"
+  },
+  {
+    "w": "진보파",
+    "p": "jinbopa",
+    "m": "phe tự do, phe cấp tiến",
+    "cat": "politics"
+  },
+  {
+    "w": "좌파",
+    "p": "jwapa",
+    "m": "cánh tả",
+    "cat": "politics"
+  },
+  {
+    "w": "우파",
+    "p": "upa",
+    "m": "cánh hữu",
+    "cat": "politics"
+  },
+  {
+    "w": "중도파",
+    "p": "jungdopa",
+    "m": "phe trung dung",
+    "cat": "politics"
+  },
+  {
+    "w": "사회주의",
+    "p": "sahoejuui",
+    "m": "chủ nghĩa xã hội",
+    "cat": "politics"
+  },
+  {
+    "w": "자본주의",
+    "p": "jabonjuui",
+    "m": "chủ nghĩa tư bản",
+    "cat": "politics"
+  },
+  {
+    "w": "공산주의",
+    "p": "gongsanjuui",
+    "m": "chủ nghĩa cộng sản",
+    "cat": "politics"
+  },
+  {
+    "w": "연성 권력",
+    "p": "yeonseong gwonlyeog",
+    "m": "quyền lực mềm",
+    "cat": "politics"
+  },
+  {
+    "w": "산업 정책",
+    "p": "san-eob jeongchaeg",
+    "m": "chính sách công nghiệp",
+    "cat": "economics"
+  },
+  {
+    "w": "다국적 기업",
+    "p": "dagugjeog gieob",
+    "m": "công ty đa quốc gia",
+    "cat": "economics"
+  },
+  {
+    "w": "무역 마찰",
+    "p": "muyeog machal",
+    "m": "ma sát thương mại",
+    "cat": "economics"
+  },
+  {
+    "w": "무역 전쟁",
+    "p": "muyeog jeonjaeng",
+    "m": "chiến tranh thương mại",
+    "cat": "economics"
+  },
+  {
+    "w": "금융 위기",
+    "p": "geumyung wigi",
+    "m": "khủng hoảng tài chính",
+    "cat": "economics"
+  },
+  {
+    "w": "선물 거래",
+    "p": "seonmul georae",
+    "m": "giao dịch hợp đồng tương lai",
+    "cat": "economics"
+  },
+  {
+    "w": "옵션",
+    "p": "obsyeon",
+    "m": "quyền chọn",
+    "cat": "economics"
+  },
+  {
+    "w": "레버리지",
+    "p": "lebeoliji",
+    "m": "đòn bẩy tài chính",
+    "cat": "economics"
+  },
+  {
+    "w": "고전 문학",
+    "p": "gojeon munhag",
+    "m": "văn học cổ điển",
+    "cat": "literary"
+  },
+  {
+    "w": "현대 문학",
+    "p": "hyeondae munhag",
+    "m": "văn học hiện đại",
+    "cat": "literary"
+  },
+  {
+    "w": "세계 문학",
+    "p": "segye munhag",
+    "m": "văn học thế giới",
+    "cat": "literary"
+  },
+  {
+    "w": "비교 문학",
+    "p": "bigyo munhag",
+    "m": "văn học so sánh",
+    "cat": "literary"
+  },
+  {
+    "w": "문학 비평",
+    "p": "munhag bipyeong",
+    "m": "phê bình văn học",
+    "cat": "literary"
+  },
+  {
+    "w": "무형문화유산",
+    "p": "muhyeongmunhwayusan",
+    "m": "di sản văn hóa phi vật thể",
+    "cat": "literary"
+  },
+  {
+    "w": "민간전승",
+    "p": "min-ganjeonseung",
+    "m": "văn học dân gian",
+    "cat": "literary"
+  },
+  {
+    "w": "서사시",
+    "p": "seosasi",
+    "m": "sử thi",
+    "cat": "literary"
+  },
+  {
+    "w": "찬가",
+    "p": "changa",
+    "m": "thánh ca, bài ca ngợi",
+    "cat": "literary"
+  },
+  {
+    "w": "여운",
+    "p": "yeoun",
+    "m": "dư âm, dư vị",
+    "cat": "literary"
+  },
+  {
+    "w": "과학적 방법",
+    "p": "gwahagjeog bangbeob",
+    "m": "phương pháp khoa học",
+    "cat": "science"
+  },
+  {
+    "w": "실증 연구",
+    "p": "siljeung yeongu",
+    "m": "nghiên cứu thực chứng",
+    "cat": "science"
+  },
+  {
+    "w": "정량 연구",
+    "p": "jeonglyang yeongu",
+    "m": "nghiên cứu định lượng",
+    "cat": "science"
+  },
+  {
+    "w": "통계적 유의성",
+    "p": "tonggyejeog yuuiseong",
+    "m": "ý nghĩa thống kê",
+    "cat": "science"
+  },
+  {
+    "w": "표본 오차",
+    "p": "pyobon ocha",
+    "m": "sai số mẫu",
+    "cat": "science"
+  },
+  {
+    "w": "정량화하다",
+    "p": "jeonglyanghwahada",
+    "m": "định lượng hóa",
+    "cat": "science"
+  },
+  {
+    "w": "모델링하다",
+    "p": "modellinghada",
+    "m": "mô hình hóa",
+    "cat": "science"
+  },
+  {
+    "w": "연출",
+    "p": "yeonchul",
+    "m": "sự dàn dựng, đạo diễn sân khấu",
+    "cat": "literary"
+  },
+  {
+    "w": "대본",
+    "p": "daebon",
+    "m": "kịch bản, lời thoại",
+    "cat": "literary"
+  },
+  {
+    "w": "즉흥극",
+    "p": "jeukheunggeug",
+    "m": "kịch ứng tác",
+    "cat": "literary"
+  },
+  {
+    "w": "방백",
+    "p": "bangbaeg",
+    "m": "lời nói riêng (trong kịch)",
+    "cat": "literary"
+  },
+  {
+    "w": "시장 진입 장벽",
+    "p": "sijang jin-ib jangbyeog",
+    "m": "rào cản gia nhập thị trường",
+    "cat": "economics"
+  },
+  {
+    "w": "기회의 균등",
+    "p": "gihoeui gyundeung",
+    "m": "sự bình đẳng cơ hội",
+    "cat": "economics"
+  },
+  {
+    "w": "직업 이동성",
+    "p": "jig-eob idongseong",
+    "m": "dịch chuyển nghề nghiệp",
+    "cat": "society"
+  },
+  {
+    "w": "외현화",
+    "p": "oehyeonhwa",
+    "m": "sự bộc lộ ra ngoài (ngoại hiện hóa)",
+    "cat": "society"
+  },
+  {
+    "w": "제도화",
+    "p": "jedohwa",
+    "m": "sự thể chế hóa",
+    "cat": "society"
+  },
+  {
+    "w": "관료화",
+    "p": "gwanlyohwa",
+    "m": "sự quan liêu hóa",
+    "cat": "society"
+  },
+  {
+    "w": "집단주의",
+    "p": "jibdanjuui",
+    "m": "chủ nghĩa tập thể",
+    "cat": "society"
+  },
+  {
+    "w": "개인주의",
+    "p": "gaeinjuui",
+    "m": "chủ nghĩa cá nhân",
+    "cat": "society"
+  },
+  {
+    "w": "확대가족",
+    "p": "hwagdaegajog",
+    "m": "đại gia đình",
+    "cat": "society"
+  },
+  {
+    "w": "딩크족",
+    "p": "dingkeujog",
+    "m": "gia đình DINK (không con)",
+    "cat": "society"
+  },
+  {
+    "w": "인구 보너스",
+    "p": "in-gu boneoseu",
+    "m": "lợi tức dân số",
+    "cat": "society"
+  },
+  {
+    "w": "인구 감소",
+    "p": "in-gu gamso",
+    "m": "sự thu hẹp dân số",
+    "cat": "society"
+  },
+  {
+    "w": "부양비",
+    "p": "buyangbi",
+    "m": "tỷ lệ phụ thuộc",
+    "cat": "society"
+  },
+  {
+    "w": "농촌 발전",
+    "p": "nongchon baljeon",
+    "m": "phát triển nông thôn",
+    "cat": "society"
+  },
+  {
+    "w": "도시농촌 일체화",
+    "p": "dosinongchon ilchehwa",
+    "m": "nhất thể hóa thành thị nông thôn",
+    "cat": "society"
+  },
+  {
+    "w": "빈곤 퇴치",
+    "p": "bingon toechi",
+    "m": "sự xóa đói giảm nghèo",
+    "cat": "society"
+  },
+  {
+    "w": "사회 거버넌스",
+    "p": "sahoe geobeoneonseu",
+    "m": "quản trị xã hội",
+    "cat": "society"
+  },
+  {
+    "w": "사회 정의",
+    "p": "sahoe jeong-ui",
+    "m": "công bằng xã hội",
+    "cat": "society"
+  },
+  {
+    "w": "계층 경직성",
+    "p": "gyecheung gyeongjigseong",
+    "m": "sự cứng nhắc của tầng lớp xã hội",
+    "cat": "society"
+  },
+  {
+    "w": "사회 유동성",
+    "p": "sahoe yudongseong",
+    "m": "tính di động xã hội",
+    "cat": "society"
+  },
+  {
+    "w": "베이비붐",
+    "p": "beibibum",
+    "m": "sự bùng nổ trẻ sơ sinh (baby boom)",
+    "cat": "society"
+  },
+  {
+    "w": "인종 차별",
+    "p": "injong chabyeol",
+    "m": "sự phân biệt chủng tộc",
+    "cat": "society"
+  },
+  {
+    "w": "문화 충돌",
+    "p": "munhwa chungdol",
+    "m": "sự xung đột văn hóa",
+    "cat": "society"
+  },
+  {
+    "w": "문화 융합",
+    "p": "munhwa yunghab",
+    "m": "sự hòa nhập, dung hợp văn hóa",
+    "cat": "society"
+  },
+  {
+    "w": "현지화",
+    "p": "hyeonjihwa",
+    "m": "sự địa phương hóa",
+    "cat": "society"
+  },
+  {
+    "w": "복지국가",
+    "p": "bogjigugga",
+    "m": "nhà nước phúc lợi",
+    "cat": "society"
+  },
+  {
+    "w": "사회보장",
+    "p": "sahoebojang",
+    "m": "an sinh xã hội",
+    "cat": "society"
+  },
+  {
+    "w": "의료보험",
+    "p": "uilyoboheom",
+    "m": "bảo hiểm y tế",
+    "cat": "society"
+  },
+  {
+    "w": "노동권",
+    "p": "nodonggwon",
+    "m": "quyền lợi lao động",
+    "cat": "society"
+  },
+  {
+    "w": "배척",
+    "p": "baecheog",
+    "m": "sự loại trừ, bài xích",
+    "cat": "society"
+  },
+  {
+    "w": "사회적 낙인",
+    "p": "sahoejeog nag-in",
+    "m": "sự kỳ thị xã hội",
+    "cat": "society"
+  },
+  {
+    "w": "다문화 사회",
+    "p": "damunhwa sahoe",
+    "m": "xã hội đa văn hóa",
+    "cat": "society"
+  },
+  {
+    "w": "시민 참여",
+    "p": "simin cham-yeo",
+    "m": "sự tham gia của công dân",
+    "cat": "society"
+  },
+  {
+    "w": "수학적 모델",
+    "p": "suhagjeog model",
+    "m": "mô hình toán học",
+    "cat": "science"
+  },
+  {
+    "w": "대조군 실험",
+    "p": "daejogun silheom",
+    "m": "thí nghiệm đối chứng",
+    "cat": "science"
+  },
+  {
+    "w": "위약 효과",
+    "p": "uiyag hyogwa",
+    "m": "hiệu ứng giả dược",
+    "cat": "science"
+  },
+  {
+    "w": "메타분석",
+    "p": "metabunseog",
+    "m": "phân tích tổng hợp (meta-analysis)",
+    "cat": "science"
+  },
+  {
+    "w": "체계적 문헌고찰",
+    "p": "chegyejeog munheongochal",
+    "m": "tổng quan hệ thống",
+    "cat": "science"
+  },
+  {
+    "w": "근거 중심 의학",
+    "p": "geungeo jungsim uihag",
+    "m": "y học dựa trên bằng chứng",
+    "cat": "science"
+  },
+  {
+    "w": "정밀 의학",
+    "p": "jeongmil uihag",
+    "m": "y học chính xác",
+    "cat": "science"
+  },
+  {
+    "w": "유전자 치료",
+    "p": "yujeonja chilyo",
+    "m": "liệu pháp gen",
+    "cat": "science"
+  },
+  {
+    "w": "재생 의학",
+    "p": "jaesaeng uihag",
+    "m": "y học tái tạo",
+    "cat": "science"
+  },
+  {
+    "w": "면역학",
+    "p": "myeon-yeoghag",
+    "m": "miễn dịch học",
+    "cat": "science"
+  },
+  {
+    "w": "역학",
+    "p": "yeoghag",
+    "m": "dịch tễ học",
+    "cat": "science"
+  },
+  {
+    "w": "불안 장애",
+    "p": "bul-an jang-ae",
+    "m": "rối loạn lo âu",
+    "cat": "science"
+  },
+  {
+    "w": "발명",
+    "p": "balmyeong",
+    "m": "phát minh",
+    "cat": "science"
+  },
+  {
+    "w": "인지과학",
+    "p": "injigwahag",
+    "m": "khoa học nhận thức",
+    "cat": "science"
+  },
+  {
+    "w": "행동과학",
+    "p": "haengdonggwahag",
+    "m": "khoa học hành vi",
+    "cat": "science"
+  },
+  {
+    "w": "생명과학",
+    "p": "saengmyeonggwahag",
+    "m": "khoa học sự sống",
+    "cat": "science"
+  },
+  {
+    "w": "변수",
+    "p": "byeonsu",
+    "m": "biến số",
+    "cat": "science"
+  },
+  {
+    "w": "인물 형상화",
+    "p": "inmul hyeongsanghwa",
+    "m": "sự xây dựng hình tượng nhân vật",
+    "cat": "literary"
+  },
+  {
+    "w": "직유",
+    "p": "jig-yu",
+    "m": "phép so sánh trực tiếp (simile)",
+    "cat": "literary"
+  },
+  {
+    "w": "반영론",
+    "p": "banyeonglon",
+    "m": "lý thuyết phản ánh (văn học)",
+    "cat": "literary"
+  },
+  {
+    "w": "미디어 감성화",
+    "p": "midieo gamseonghwa",
+    "m": "sự cảm xúc hóa truyền thông",
+    "cat": "media"
+  },
+  {
+    "w": "바이럴 미디어",
+    "p": "baileol midieo",
+    "m": "truyền thông lan truyền (viral)",
+    "cat": "media"
+  },
+  {
+    "w": "인터넷 리터러시",
+    "p": "inteonet liteoleosi",
+    "m": "hiểu biết về internet",
+    "cat": "media"
+  },
+  {
+    "w": "디지털 리터러시",
+    "p": "dijiteol liteoleosi",
+    "m": "hiểu biết số",
+    "cat": "media"
+  },
+  {
+    "w": "미디어학",
+    "p": "midieohag",
+    "m": "truyền thông học",
+    "cat": "media"
+  },
+  {
+    "w": "알고리즘 편향",
+    "p": "algolijeum pyeonhyang",
+    "m": "thiên lệch thuật toán",
+    "cat": "media"
+  },
+  {
+    "w": "필명",
+    "p": "pilmyeong",
+    "m": "bút danh",
+    "cat": "literary"
+  },
+  {
+    "w": "수필",
+    "p": "supil",
+    "m": "tùy bút",
+    "cat": "literary"
+  },
+  {
+    "w": "기행문",
+    "p": "gihaengmun",
+    "m": "bài ký du lịch (du ký)",
+    "cat": "literary"
+  },
+  {
+    "w": "신체권",
+    "p": "sinchegwon",
+    "m": "quyền thân thể",
+    "cat": "law"
+  },
+  {
+    "w": "물권",
+    "p": "mulgwon",
+    "m": "vật quyền",
+    "cat": "law"
+  },
+  {
+    "w": "유치권",
+    "p": "yuchigwon",
+    "m": "quyền cầm giữ",
+    "cat": "law"
+  },
+  {
+    "w": "질권",
+    "p": "jilgwon",
+    "m": "quyền cầm cố",
+    "cat": "law"
+  },
+  {
+    "w": "재판관할권",
+    "p": "jaepangwanhalgwon",
+    "m": "thẩm quyền xét xử",
+    "cat": "law"
+  },
+  {
+    "w": "속지주의",
+    "p": "sogjijuui",
+    "m": "nguyên tắc lãnh thổ",
+    "cat": "law"
+  },
+  {
+    "w": "속인주의",
+    "p": "sog-injuui",
+    "m": "nguyên tắc thuộc người",
+    "cat": "law"
+  },
+  {
+    "w": "법률 충돌",
+    "p": "beoblyul chungdol",
+    "m": "xung đột pháp luật",
+    "cat": "law"
+  },
+  {
+    "w": "인도주의법",
+    "p": "indojuuibeob",
+    "m": "luật nhân đạo",
+    "cat": "law"
+  },
+  {
+    "w": "분쟁",
+    "p": "bunjaeng",
+    "m": "tranh chấp",
+    "cat": "law"
+  },
+  {
+    "w": "계약 조항",
+    "p": "gyeyag johang",
+    "m": "điều khoản hợp đồng",
+    "cat": "law"
+  },
+  {
+    "w": "영감을 주다",
+    "p": "yeonggam-eul juda",
+    "m": "truyền cảm hứng",
+    "cat": "hành động"
+  },
+  {
+    "w": "계발하다",
+    "p": "gyebalhada",
+    "m": "khai mở, phát triển (năng lực)",
+    "cat": "hành động"
+  },
+  {
+    "w": "실천하다",
+    "p": "silcheonhada",
+    "m": "thực hiện, biến thành hành động",
+    "cat": "hành động"
+  },
+  {
+    "w": "혁신적이다",
+    "p": "hyeoksinjeog-ida",
+    "m": "mang tính đổi mới, cải tiến",
+    "cat": "học thuật"
+  },
+  {
+    "w": "창의력",
+    "p": "chang-uilyeog",
+    "m": "sức sáng tạo",
+    "cat": "học thuật"
+  },
+  {
+    "w": "난제",
+    "p": "nanje",
+    "m": "vấn đề nan giải",
+    "cat": "học thuật"
+  },
+  {
+    "w": "사상",
+    "p": "sasang",
+    "m": "tư tưởng, học thuyết",
+    "cat": "học thuật"
+  },
+  {
+    "w": "정세",
+    "p": "jeongse",
+    "m": "tình hình, cục diện",
+    "cat": "học thuật"
+  },
+  {
+    "w": "수속을 밟다",
+    "p": "susog-eul balda",
+    "m": "làm thủ tục",
+    "cat": "work"
+  },
+  {
+    "w": "역량",
+    "p": "yeoglyang",
+    "m": "năng lực, năng lực cạnh tranh",
+    "cat": "work"
+  },
+  {
+    "w": "도달하다",
+    "p": "dodalhada",
+    "m": "đạt tới, đạt đến",
+    "cat": "work"
+  },
+  {
+    "w": "대우",
+    "p": "daeu",
+    "m": "đãi ngộ",
+    "cat": "work"
+  },
+  {
+    "w": "아르바이트하다",
+    "p": "aleubaiteuhada",
+    "m": "làm thêm, làm việc bán thời gian",
+    "cat": "work"
+  },
+  {
+    "w": "벡터",
+    "p": "bekteo",
+    "m": "vectơ",
+    "cat": "science"
+  },
+  {
+    "w": "좌표",
+    "p": "jwapyo",
+    "m": "tọa độ",
+    "cat": "science"
+  },
+  {
+    "w": "도형",
+    "p": "dohyeong",
+    "m": "hình học (hình dạng hình học)",
+    "cat": "science"
+  },
+  {
+    "w": "기울기",
+    "p": "giulgi",
+    "m": "độ dốc, hệ số góc",
+    "cat": "science"
+  },
+  {
+    "w": "미분",
+    "p": "mibun",
+    "m": "vi phân",
+    "cat": "science"
+  },
+  {
+    "w": "적분",
+    "p": "jeogbun",
+    "m": "tích phân",
+    "cat": "science"
+  },
+  {
+    "w": "넓이",
+    "p": "neolbi",
+    "m": "diện tích",
+    "cat": "science"
+  },
+  {
+    "w": "부피",
+    "p": "bupi",
+    "m": "thể tích",
+    "cat": "science"
+  },
+  {
+    "w": "삼각형",
+    "p": "samgaghyeong",
+    "m": "hình tam giác",
+    "cat": "science"
+  },
+  {
+    "w": "원기둥",
+    "p": "wongidung",
+    "m": "hình trụ",
+    "cat": "science"
+  },
+  {
+    "w": "자원봉사",
+    "p": "jawonbongsa",
+    "m": "tình nguyện (hoạt động)",
+    "cat": "society"
+  },
+  {
+    "w": "지역사회",
+    "p": "jiyeogsahoe",
+    "m": "cộng đồng, khu dân cư",
+    "cat": "society"
+  },
+  {
+    "w": "음모",
+    "p": "eummo",
+    "m": "âm mưu",
+    "cat": "society"
+  },
+  {
+    "w": "도덕관념",
+    "p": "dodeoggwannyeom",
+    "m": "quan niệm đạo đức",
+    "cat": "society"
+  },
+  {
+    "w": "최종심",
+    "p": "choejongsim",
+    "m": "xét xử cuối cùng (chung thẩm)",
+    "cat": "law"
+  },
+  {
+    "w": "형사 사건",
+    "p": "hyeongsa sageon",
+    "m": "vụ án hình sự",
+    "cat": "law"
+  },
+  {
+    "w": "변호권",
+    "p": "byeonhogwon",
+    "m": "quyền bào chữa",
+    "cat": "law"
+  },
+  {
+    "w": "유동자산",
+    "p": "yudongjasan",
+    "m": "tài sản lưu động",
+    "cat": "economics"
+  },
+  {
+    "w": "무형자산",
+    "p": "muhyeongjasan",
+    "m": "tài sản vô hình",
+    "cat": "economics"
+  },
+  {
+    "w": "고정자산",
+    "p": "gojeongjasan",
+    "m": "tài sản cố định",
+    "cat": "economics"
+  },
+  {
+    "w": "영업이익",
+    "p": "yeong-eob-iig",
+    "m": "lợi nhuận kinh doanh",
+    "cat": "economics"
+  },
+  {
+    "w": "원가",
+    "p": "wonga",
+    "m": "giá vốn",
+    "cat": "economics"
+  },
+  {
+    "w": "숏폼",
+    "p": "syotpom",
+    "m": "video dạng ngắn (short-form)",
+    "cat": "media"
+  },
+  {
+    "w": "셀럽",
+    "p": "selleob",
+    "m": "người nổi tiếng trên mạng",
+    "cat": "media"
+  },
+  {
+    "w": "여론전",
+    "p": "yeoronjeon",
+    "m": "cuộc chiến dư luận",
+    "cat": "media"
+  },
+  {
+    "w": "소수점",
+    "p": "sosujeom",
+    "m": "dấu chấm thập phân, số thập phân",
+    "cat": "science"
+  },
+  {
+    "w": "원소",
+    "p": "wonso",
+    "m": "nguyên tố (hóa học)",
+    "cat": "science"
+  },
+  {
+    "w": "급수",
+    "p": "geubsu",
+    "m": "chuỗi số, cấp số (toán học)",
+    "cat": "science"
+  },
+  {
+    "w": "수열",
+    "p": "suyeol",
+    "m": "dãy số (toán học)",
+    "cat": "science"
+  },
+  {
+    "w": "정수",
+    "p": "jeongsu",
+    "m": "số nguyên (toán học)",
+    "cat": "science"
+  },
+  {
+    "w": "지수함수",
+    "p": "jisuhamsu",
+    "m": "hàm số mũ (toán học)",
+    "cat": "science"
+  },
+  {
+    "w": "로그",
+    "p": "logeu",
+    "m": "logarit (toán học)",
+    "cat": "science"
+  },
+  {
+    "w": "집합",
+    "p": "jibhab",
+    "m": "tập hợp (toán học)",
+    "cat": "science"
+  },
+  {
+    "w": "원통하다",
+    "p": "wontonghada",
+    "m": "ấm ức, tủi thân",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "서운하다",
+    "p": "seounhada",
+    "m": "buồn tủi, hụt hẫng",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "흡족하다",
+    "p": "heubjoghada",
+    "m": "vui lòng, thỏa lòng",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "감개무량하다",
+    "p": "gamgaemulyanghada",
+    "m": "bồi hồi xúc động, cảm khái",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "호기심",
+    "p": "hogisim",
+    "m": "tò mò",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "자율주행",
+    "p": "jayuljuhaeng",
+    "m": "công nghệ lái xe tự động",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "소프트웨어",
+    "p": "sopeuteueo",
+    "m": "phần mềm",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "프로그래밍",
+    "p": "peurogeuraeming",
+    "m": "lập trình",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "디지털 화폐",
+    "p": "dijiteol hwapye",
+    "m": "tiền kỹ thuật số",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "배포하다",
+    "p": "baepohada",
+    "m": "triển khai, phân phối (phần mềm)",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "지능화",
+    "p": "jineunghwa",
+    "m": "sự thông minh hóa",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "모듈화",
+    "p": "mojulhwa",
+    "m": "sự mô-đun hóa",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "애자일 개발",
+    "p": "aejail gaebal",
+    "m": "phát triển linh hoạt (Agile)",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "실적",
+    "p": "siljeog",
+    "m": "thành tích, kết quả kinh doanh",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "노출률",
+    "p": "nochullyul",
+    "m": "tỷ lệ hiển thị",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "전환율",
+    "p": "jeonhwanyul",
+    "m": "tỷ lệ chuyển đổi",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "시너지 효과",
+    "p": "sineoji hyogwa",
+    "m": "hiệu ứng hiệp lực, cộng hưởng",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "운동경기",
+    "p": "undonggyeong-gi",
+    "m": "cuộc thi đấu thể thao",
+    "cat": "thể thao"
+  },
+  {
+    "w": "순발력",
+    "p": "sunbalyeog",
+    "m": "sức bùng phát, phản xạ nhanh",
+    "cat": "thể thao"
+  },
+  {
+    "w": "지구력",
+    "p": "jiguryeog",
+    "m": "sức bền, sự chịu đựng",
+    "cat": "thể thao"
+  },
+  {
+    "w": "훈련 강도",
+    "p": "hunlyeon gangdo",
+    "m": "cường độ luyện tập",
+    "cat": "thể thao"
+  },
+  {
+    "w": "예선 탈락",
+    "p": "yeseon tallag",
+    "m": "sự bị loại ở vòng loại",
+    "cat": "thể thao"
+  },
+  {
+    "w": "월드컵",
+    "p": "woldeukeob",
+    "m": "World Cup, Cúp thế giới",
+    "cat": "thể thao"
+  },
+  {
+    "w": "경기 종목",
+    "p": "gyeong-gi jongmog",
+    "m": "môn thi đấu",
+    "cat": "thể thao"
+  },
+  {
+    "w": "물질 순환",
+    "p": "muljil sunhwan",
+    "m": "chu trình vật chất (tự nhiên)",
+    "cat": "environment"
+  },
+  {
+    "w": "교훈적이다",
+    "p": "gyohunjeog-ida",
+    "m": "mang tính giáo huấn, có tính đạo lý",
+    "cat": "literary"
+  },
+  {
+    "w": "분위기",
+    "p": "bunwigi",
+    "m": "không khí, tâm trạng (bầu không khí)",
+    "cat": "literary"
+  },
+  {
+    "w": "시청자",
+    "p": "sicheongja",
+    "m": "người xem truyền hình",
+    "cat": "media"
+  },
+  {
+    "w": "미디어 플랫폼",
+    "p": "midieo peullaespom",
+    "m": "nền tảng truyền thông",
+    "cat": "media"
+  },
+  {
+    "w": "정당 정치",
+    "p": "jeongdang jeongchi",
+    "m": "chính trị đảng phái",
+    "cat": "politics"
+  },
+  {
+    "w": "정치적 올바름",
+    "p": "jeongchijeog olbaleum",
+    "m": "đúng đắn chính trị (political correctness)",
+    "cat": "politics"
+  },
+  {
+    "w": "공직자",
+    "p": "gongjigja",
+    "m": "quan chức nhà nước",
+    "cat": "politics"
+  },
+  {
+    "w": "국정감사",
+    "p": "gugjeonggamsa",
+    "m": "giám sát điều hành quốc gia",
+    "cat": "politics"
+  },
+  {
+    "w": "탄핵",
+    "p": "tanhaeg",
+    "m": "sự luận tội, đàn hặc",
+    "cat": "politics"
+  },
+  {
+    "w": "불신임",
+    "p": "bulsin-im",
+    "m": "sự bất tín nhiệm",
+    "cat": "politics"
+  },
+  {
+    "w": "간접선거",
+    "p": "ganjeobseongeo",
+    "m": "bầu cử gián tiếp",
+    "cat": "politics"
+  },
+  {
+    "w": "직접선거",
+    "p": "jigjeobseongeo",
+    "m": "bầu cử trực tiếp",
+    "cat": "politics"
+  },
+  {
+    "w": "비례대표제",
+    "p": "biryedaepyoje",
+    "m": "chế độ đại diện tỷ lệ",
+    "cat": "politics"
+  },
+  {
+    "w": "소선거구제",
+    "p": "soseongeoguje",
+    "m": "chế độ đơn vị bầu cử nhỏ",
+    "cat": "politics"
+  },
+  {
+    "w": "정계",
+    "p": "jeong-gye",
+    "m": "giới chính trị",
+    "cat": "politics"
+  },
+  {
+    "w": "소환하다",
+    "p": "sohwanhada",
+    "m": "triệu hồi, triệu tập",
+    "cat": "law"
+  },
+  {
+    "w": "배심원 제도",
+    "p": "baesim-won jedo",
+    "m": "chế độ bồi thẩm đoàn",
+    "cat": "law"
+  },
+  {
+    "w": "재심",
+    "p": "jaesim",
+    "m": "tái thẩm, xét xử lại",
+    "cat": "law"
+  },
+  {
+    "w": "궐석재판",
+    "p": "gwolseogjaepan",
+    "m": "xét xử vắng mặt",
+    "cat": "law"
+  },
+  {
+    "w": "공소권",
+    "p": "gongsogwon",
+    "m": "quyền công tố",
+    "cat": "law"
+  },
+  {
+    "w": "면책특권",
+    "p": "myeonchaegteuggwon",
+    "m": "đặc quyền miễn trừ",
+    "cat": "law"
+  },
+  {
+    "w": "위헌",
+    "p": "wiheon",
+    "m": "sự vi hiến",
+    "cat": "law"
+  },
+  {
+    "w": "합헌",
+    "p": "habheon",
+    "m": "sự hợp hiến",
+    "cat": "law"
+  },
+  {
+    "w": "헌법재판소",
+    "p": "heonbeobjaepanso",
+    "m": "tòa án hiến pháp",
+    "cat": "law"
+  },
+  {
+    "w": "국민참여재판",
+    "p": "gugminchamyeojaepan",
+    "m": "phiên tòa có sự tham gia của công dân",
+    "cat": "law"
+  },
+  {
+    "w": "방청객",
+    "p": "bangcheong-gaeg",
+    "m": "khán giả dự thính",
+    "cat": "law"
+  },
+  {
+    "w": "방청석",
+    "p": "bangcheongseog",
+    "m": "ghế dự thính",
+    "cat": "law"
+  },
+  {
+    "w": "경제 위기",
+    "p": "gyeongje wigi",
+    "m": "khủng hoảng kinh tế",
+    "cat": "economics"
+  },
+  {
+    "w": "디플레이션 압력",
+    "p": "dipeulleisyeon ablyeog",
+    "m": "áp lực giảm phát",
+    "cat": "economics"
+  },
+  {
+    "w": "국내총생산 성장률",
+    "p": "gugnaechongsaengsan seongjanglyul",
+    "m": "tốc độ tăng trưởng GDP",
+    "cat": "economics"
+  },
+  {
+    "w": "보호무역주의 정책",
+    "p": "bohomuyeogjuui jeongchaeg",
+    "m": "chính sách bảo hộ mậu dịch",
+    "cat": "economics"
+  },
+  {
+    "w": "수입 할당제",
+    "p": "suib haldangje",
+    "m": "chế độ hạn ngạch nhập khẩu",
+    "cat": "economics"
+  },
+  {
+    "w": "부채를 상환하다",
+    "p": "buchaeleul sanghwanhada",
+    "m": "trả nợ",
+    "cat": "economics"
+  },
+  {
+    "w": "채권자 권리",
+    "p": "chaegwonja gwolli",
+    "m": "quyền chủ nợ",
+    "cat": "economics"
+  },
+  {
+    "w": "지분 참여",
+    "p": "jibun chamyeo",
+    "m": "sự tham gia góp vốn cổ phần",
+    "cat": "economics"
+  },
+  {
+    "w": "영업 손실",
+    "p": "yeong-eob sonsil",
+    "m": "thua lỗ kinh doanh",
+    "cat": "economics"
+  },
+  {
+    "w": "투자수익률",
+    "p": "tujasuiglyul",
+    "m": "tỷ suất hoàn vốn đầu tư (ROI)",
+    "cat": "economics"
+  },
+  {
+    "w": "통화 완화 정책",
+    "p": "tonghwa wanhwa jeongchaeg",
+    "m": "chính sách nới lỏng tiền tệ (QE)",
+    "cat": "economics"
+  },
+  {
+    "w": "외화 예금",
+    "p": "oehwa yegeum",
+    "m": "tiền gửi ngoại tệ",
+    "cat": "economics"
+  },
+  {
+    "w": "자산 배분",
+    "p": "jasan baebun",
+    "m": "sự phân bổ tài sản",
+    "cat": "economics"
+  },
+  {
+    "w": "가족 구조",
+    "p": "gajog gujo",
+    "m": "cấu trúc gia đình",
+    "cat": "society"
+  },
+  {
+    "w": "소중하다",
+    "p": "sojunghada",
+    "m": "quý báu",
+    "cat": "society"
+  },
+  {
+    "w": "행정소송",
+    "p": "haengjeongsosong",
+    "m": "tố tụng hành chính",
+    "cat": "law"
+  },
+  {
+    "w": "행정심판",
+    "p": "haengjeongsimpan",
+    "m": "xét xử khiếu nại hành chính",
+    "cat": "law"
+  },
+  {
+    "w": "국제사법재판소",
+    "p": "gugjesabeobjaepanso",
+    "m": "tòa án công lý quốc tế",
+    "cat": "law"
+  },
+  {
+    "w": "조약을 비준하다",
+    "p": "joyageul bijunhada",
+    "m": "phê chuẩn hiệp ước",
+    "cat": "law"
+  },
+  {
+    "w": "외교 특권",
+    "p": "oegyo teuggwon",
+    "m": "đặc quyền ngoại giao",
+    "cat": "law"
+  },
+  {
+    "w": "영사관",
+    "p": "yeongsagwan",
+    "m": "lãnh sự quán",
+    "cat": "law"
+  },
+  {
+    "w": "치외법권",
+    "p": "chioebeobgwon",
+    "m": "quyền miễn trừ ngoại giao (trị ngoại pháp quyền)",
+    "cat": "law"
+  },
+  {
+    "w": "국적을 취득하다",
+    "p": "gugjeog-eul chwideughada",
+    "m": "nhập quốc tịch",
+    "cat": "law"
+  },
+  {
+    "w": "난민 지위",
+    "p": "nanmin jiwi",
+    "m": "quy chế tị nạn",
+    "cat": "law"
+  },
+  {
+    "w": "망명을 신청하다",
+    "p": "mangmyeong-eul sincheonghada",
+    "m": "xin tị nạn chính trị",
+    "cat": "law"
+  },
+  {
+    "w": "탈춤",
+    "p": "talchum",
+    "m": "múa mặt nạ truyền thống (talchum)",
+    "cat": "literary"
+  },
+  {
+    "w": "판소리 명창",
+    "p": "pansori myeongchang",
+    "m": "nghệ nhân hát pansori bậc thầy",
+    "cat": "literary"
+  },
+  {
+    "w": "가곡",
+    "p": "gagog",
+    "m": "ca khúc nghệ thuật truyền thống Hàn",
+    "cat": "literary"
+  },
+  {
+    "w": "민속놀이",
+    "p": "minsognol-i",
+    "m": "trò chơi dân gian",
+    "cat": "literary"
+  },
+  {
+    "w": "세시풍속",
+    "p": "sesipungsog",
+    "m": "phong tục theo mùa trong năm",
+    "cat": "literary"
+  },
+  {
+    "w": "시조",
+    "p": "sijo",
+    "m": "thơ Sijo (thể thơ truyền thống Hàn)",
+    "cat": "literary"
+  },
+  {
+    "w": "판소리",
+    "p": "pansoli",
+    "m": "Pansori (hát kể chuyện truyền thống Hàn)",
+    "cat": "literary"
+  },
+  {
+    "w": "상호 참조",
+    "p": "sangho chamjo",
+    "m": "sự tham chiếu chéo (văn học)",
+    "cat": "literary"
+  },
+  {
+    "w": "본론으로 들어가다",
+    "p": "bonlon-eulo deul-eogada",
+    "m": "đi thẳng vào vấn đề",
+    "cat": "literary"
+  },
+  {
+    "w": "수미상관",
+    "p": "sumisang-gwan",
+    "m": "đầu cuối tương ứng (kết cấu văn học)",
+    "cat": "literary"
+  },
+  {
+    "w": "재정 흑자",
+    "p": "jaejeong heugja",
+    "m": "thặng dư ngân sách",
+    "cat": "economics"
+  },
+  {
+    "w": "재정 적자",
+    "p": "jaejeong jeogja",
+    "m": "thâm hụt ngân sách",
+    "cat": "economics"
+  },
+  {
+    "w": "국채",
+    "p": "gugchae",
+    "m": "trái phiếu chính phủ",
+    "cat": "economics"
+  },
+  {
+    "w": "세금을 징수하다",
+    "p": "segeumeul jingsuhada",
+    "m": "thu thuế",
+    "cat": "economics"
+  },
+  {
+    "w": "감세",
+    "p": "gamse",
+    "m": "sự giảm thuế",
+    "cat": "economics"
+  },
+  {
+    "w": "소비 심리",
+    "p": "sobi simli",
+    "m": "tâm lý tiêu dùng",
+    "cat": "economics"
+  },
+  {
+    "w": "해외 투자",
+    "p": "haeoe tuja",
+    "m": "đầu tư nước ngoài",
+    "cat": "economics"
+  },
+  {
+    "w": "수출 주도형 경제",
+    "p": "suchul judohyeong gyeongje",
+    "m": "kinh tế hướng xuất khẩu",
+    "cat": "economics"
+  },
+  {
+    "w": "자유무역협정",
+    "p": "jayumuyeoghyeobjeong",
+    "m": "hiệp định thương mại tự do (FTA)",
+    "cat": "economics"
+  },
+  {
+    "w": "경상수지 흑자",
+    "p": "gyeongsangsuji heugja",
+    "m": "thặng dư cán cân vãng lai",
+    "cat": "economics"
+  },
+  {
+    "w": "공공 지출",
+    "p": "gonggong jichul",
+    "m": "chi tiêu công",
+    "cat": "economics"
+  },
+  {
+    "w": "소비자 물가 지수",
+    "p": "sobija mulga jisu",
+    "m": "chỉ số giá tiêu dùng (CPI)",
+    "cat": "economics"
+  },
+  {
+    "w": "인플루언서 마케팅",
+    "p": "inpeulluueonseo maketing",
+    "m": "tiếp thị qua người ảnh hưởng (KOL)",
+    "cat": "media"
+  },
+  {
+    "w": "콘텐츠 마케팅",
+    "p": "kontenceu maketing",
+    "m": "tiếp thị nội dung",
+    "cat": "media"
+  },
+  {
+    "w": "브랜드 커뮤니케이션",
+    "p": "beulraendeu keomyunikeisyeon",
+    "m": "truyền thông thương hiệu",
+    "cat": "media"
+  },
+  {
+    "w": "담론 권력",
+    "p": "damlon gwollyeog",
+    "m": "quyền lực diễn ngôn",
+    "cat": "media"
+  },
+  {
+    "w": "여론 주도자",
+    "p": "yeolon judoja",
+    "m": "người dẫn dắt dư luận",
+    "cat": "media"
+  },
+  {
+    "w": "필터 버블",
+    "p": "pilteo beobeul",
+    "m": "bong bóng lọc thông tin do thuật toán (filter bubble)",
+    "cat": "media"
+  },
+  {
+    "w": "수라간",
+    "p": "sulagan",
+    "m": "ngự thiện phòng (bếp hoàng cung)",
+    "cat": "literary"
+  },
+  {
+    "w": "궁중요리",
+    "p": "gungjungyoli",
+    "m": "ẩm thực cung đình",
+    "cat": "literary"
+  },
+  {
+    "w": "종묘제례",
+    "p": "jongmyojelye",
+    "m": "lễ tế tông miếu",
+    "cat": "literary"
+  },
+  {
+    "w": "도포",
+    "p": "dopo",
+    "m": "áo choàng truyền thống nho sĩ (dopo)",
+    "cat": "literary"
+  },
+  {
+    "w": "갓",
+    "p": "gat",
+    "m": "mũ truyền thống Hàn (gat)",
+    "cat": "literary"
+  },
+  {
+    "w": "상투",
+    "p": "sangtu",
+    "m": "búi tóc truyền thống nam giới",
+    "cat": "literary"
+  },
+  {
+    "w": "서원",
+    "p": "seowon",
+    "m": "thư viện Nho học địa phương (seowon)",
+    "cat": "literary"
+  },
+  {
+    "w": "향교",
+    "p": "hyanggyo",
+    "m": "trường học Nho giáo địa phương (hyanggyo)",
+    "cat": "literary"
+  },
+  {
+    "w": "과거 시험",
+    "p": "gwageo siheom",
+    "m": "kỳ thi khoa cử",
+    "cat": "literary"
+  },
+  {
+    "w": "양반",
+    "p": "yangban",
+    "m": "tầng lớp quý tộc học giả (yangban)",
+    "cat": "literary"
+  },
+  {
+    "w": "상놈",
+    "p": "sangnom",
+    "m": "tầng lớp bình dân, thường dân",
+    "cat": "literary"
+  },
+  {
+    "w": "머슴",
+    "p": "meoseum",
+    "m": "người ở, người làm thuê nông trại thời xưa",
+    "cat": "literary"
+  },
+  {
+    "w": "서당",
+    "p": "seodang",
+    "m": "trường học truyền thống cho trẻ em (seodang)",
+    "cat": "literary"
+  },
+  {
+    "w": "온돌",
+    "p": "ondol",
+    "m": "hệ thống sưởi sàn nhà truyền thống (ondol)",
+    "cat": "literary"
+  },
+  {
+    "w": "한옥",
+    "p": "hanog",
+    "m": "nhà truyền thống Hàn Quốc (hanok)",
+    "cat": "literary"
+  },
+  {
+    "w": "장독대",
+    "p": "jangdogdae",
+    "m": "giàn để chum tương truyền thống",
+    "cat": "literary"
+  },
+  {
+    "w": "정자",
+    "p": "jeongja",
+    "m": "đình, nhà thủy tạ truyền thống",
+    "cat": "literary"
+  },
+  {
+    "w": "민화",
+    "p": "minhwa",
+    "m": "tranh dân gian truyền thống Hàn",
+    "cat": "literary"
+  },
+  {
+    "w": "도자기 공예",
+    "p": "dojagi gong-ye",
+    "m": "nghề thủ công gốm sứ",
+    "cat": "literary"
+  },
+  {
+    "w": "자개 공예",
+    "p": "jagae gong-ye",
+    "m": "nghề thủ công khảm xà cừ",
+    "cat": "literary"
+  },
+  {
+    "w": "매듭",
+    "p": "maedeup",
+    "m": "nút thắt trang trí truyền thống Hàn",
+    "cat": "literary"
+  },
+  {
+    "w": "씨름",
+    "p": "ssileum",
+    "m": "đấu vật truyền thống Hàn (ssireum)",
+    "cat": "thể thao"
+  },
+  {
+    "w": "한복 저고리",
+    "p": "hanbog jeogoli",
+    "m": "áo ngắn của hanbok (jeogori)",
+    "cat": "literary"
+  },
+  {
+    "w": "한복 치마",
+    "p": "hanbog chima",
+    "m": "váy của hanbok (chima)",
+    "cat": "literary"
+  },
+  {
+    "w": "단오",
+    "p": "dano",
+    "m": "tết Đoan Ngọ (Dano)",
+    "cat": "literary"
+  },
+  {
+    "w": "동지 팥죽",
+    "p": "dongji patjug",
+    "m": "cháo đậu đỏ ngày đông chí",
+    "cat": "literary"
+  },
+  {
+    "w": "가야금",
+    "p": "gayageum",
+    "m": "đàn tranh 12 dây truyền thống Hàn (gayageum)",
+    "cat": "literary"
+  },
+  {
+    "w": "거문고",
+    "p": "geomungo",
+    "m": "đàn tranh 6 dây truyền thống Hàn (geomungo)",
+    "cat": "literary"
+  },
+  {
+    "w": "해금",
+    "p": "haegeum",
+    "m": "đàn nhị 2 dây truyền thống Hàn (haegeum)",
+    "cat": "literary"
+  },
+  {
+    "w": "꽹과리",
+    "p": "kkwaenggwali",
+    "m": "cồng nhỏ truyền thống Hàn (kkwaenggwari)",
+    "cat": "literary"
+  },
+  {
+    "w": "사물놀이",
+    "p": "samulnol-i",
+    "m": "hòa tấu 4 nhạc cụ gõ truyền thống (samulnori)",
+    "cat": "literary"
+  },
+  {
+    "w": "궁궐",
+    "p": "gunggwol",
+    "m": "cung điện hoàng gia",
+    "cat": "literary"
+  },
+  {
+    "w": "사찰",
+    "p": "sachal",
+    "m": "ngôi chùa",
+    "cat": "literary"
+  },
+  {
+    "w": "비무장지대",
+    "p": "bimujangjidae",
+    "m": "khu phi quân sự (DMZ)",
+    "cat": "literary"
+  },
+  {
+    "w": "막걸리",
+    "p": "maggeolli",
+    "m": "rượu gạo đục truyền thống (makgeolli)",
+    "cat": "literary"
+  },
+  {
+    "w": "된장찌개",
+    "p": "doenjangjjigae",
+    "m": "canh tương đậu nành (doenjang jjigae)",
+    "cat": "literary"
+  },
+  {
+    "w": "젓갈",
+    "p": "jeodgal",
+    "m": "mắm cá lên men truyền thống",
+    "cat": "literary"
+  },
+  {
+    "w": "김장",
+    "p": "gimjang",
+    "m": "sự muối kim chi dự trữ mùa đông (gimjang)",
+    "cat": "literary"
+  },
+  {
+    "w": "수라상",
+    "p": "sulasang",
+    "m": "mâm ngự thiện của vua",
+    "cat": "literary"
+  },
+  {
+    "w": "봉수대",
+    "p": "bongsudae",
+    "m": "đài phong hỏa cổ (lửa báo hiệu)",
+    "cat": "literary"
+  },
+  {
+    "w": "수문장",
+    "p": "sumunjang",
+    "m": "lính gác cổng thành",
+    "cat": "literary"
+  },
+  {
+    "w": "단청",
+    "p": "dancheong",
+    "m": "họa tiết sơn màu trang trí cung điện-chùa",
+    "cat": "literary"
+  },
+  {
+    "w": "처마",
+    "p": "cheoma",
+    "m": "mái hiên nhà truyền thống",
+    "cat": "literary"
+  },
+  {
+    "w": "기와지붕",
+    "p": "giwajibung",
+    "m": "mái ngói truyền thống",
+    "cat": "literary"
+  },
+  {
+    "w": "인간관계",
+    "p": "inganggwangye",
+    "m": "quan hệ giữa người với người",
+    "cat": "xã hội"
+  },
+  {
+    "w": "사회적 교류",
+    "p": "sahoejeog gyolyu",
+    "m": "giao tiếp xã hội",
+    "cat": "xã hội"
+  },
+  {
+    "w": "공중도덕",
+    "p": "gongjungdodeog",
+    "m": "đạo đức công cộng",
+    "cat": "xã hội"
+  },
+  {
+    "w": "평판",
+    "p": "pyeongpan",
+    "m": "danh tiếng, uy tín",
+    "cat": "xã hội"
+  },
+  {
+    "w": "호소력",
+    "p": "hosolyeog",
+    "m": "sức kêu gọi, sức thuyết phục",
+    "cat": "xã hội"
+  },
+  {
+    "w": "응집력",
+    "p": "eungjiblyeog",
+    "m": "sức gắn kết",
+    "cat": "xã hội"
+  },
+  {
+    "w": "억압",
+    "p": "eog-ab",
+    "m": "sự áp bức",
+    "cat": "xã hội"
+  },
+  {
+    "w": "착취",
+    "p": "chagchwi",
+    "m": "sự bóc lột",
+    "cat": "xã hội"
+  },
+  {
+    "w": "공공복지",
+    "p": "gonggongbogji",
+    "m": "phúc lợi công cộng",
+    "cat": "xã hội"
+  },
+  {
+    "w": "사회적 합의",
+    "p": "sahoejeog hab-ui",
+    "m": "đồng thuận xã hội",
+    "cat": "xã hội"
+  },
+  {
+    "w": "청렴함",
+    "p": "cheonglyeomham",
+    "m": "sự liêm khiết",
+    "cat": "xã hội"
+  },
+  {
+    "w": "구심력",
+    "p": "gusimlyeog",
+    "m": "lực hướng tâm, sức hút",
+    "cat": "xã hội"
+  },
+  {
+    "w": "생태 문명",
+    "p": "saengtae munmyeong",
+    "m": "văn minh sinh thái",
+    "cat": "xã hội"
+  },
+  {
+    "w": "민생 문제",
+    "p": "minsaeng munje",
+    "m": "vấn đề dân sinh",
+    "cat": "xã hội"
+  },
+  {
+    "w": "사회적 이익",
+    "p": "sahoejeog i-ig",
+    "m": "lợi ích xã hội",
+    "cat": "xã hội"
+  },
+  {
+    "w": "염원",
+    "p": "yeom-won",
+    "m": "nguyện vọng tha thiết, khát khao",
+    "cat": "xã hội"
+  },
+  {
+    "w": "영업 실적",
+    "p": "yeong-eob siljeog",
+    "m": "thành tích kinh doanh",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "브랜드 이미지",
+    "p": "beulraendeu imiji",
+    "m": "hình ảnh thương hiệu",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "가격 책정",
+    "p": "gagyeog chaeggjeong",
+    "m": "sự định giá (quá trình)",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "차별화 전략",
+    "p": "chabyeolhwa jeonlyag",
+    "m": "chiến lược khác biệt hóa",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "소매업",
+    "p": "somaeeob",
+    "m": "ngành bán lẻ",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "도매업",
+    "p": "domaeeob",
+    "m": "ngành bán buôn",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "제품 디자인",
+    "p": "jepum dijain",
+    "m": "thiết kế sản phẩm",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "후원금",
+    "p": "huwongeum",
+    "m": "khoản tài trợ",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "병목 지점",
+    "p": "byeongmog jijeom",
+    "m": "điểm nghẽn, nút thắt cổ chai (vị trí cụ thể)",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "돌파구",
+    "p": "dolpagu",
+    "m": "lối thoát, điểm đột phá",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "핵심 포인트",
+    "p": "haegsim point-eu",
+    "m": "điểm mấu chốt then chốt",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "전략적 배치",
+    "p": "jeonlyagjeog baechi",
+    "m": "bố cục chiến lược",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "한의학",
+    "p": "hanuihag",
+    "m": "y học cổ truyền Hàn Quốc",
+    "cat": "literary"
+  },
+  {
+    "w": "한의사",
+    "p": "hanuisa",
+    "m": "thầy thuốc đông y Hàn Quốc",
+    "cat": "literary"
+  },
+  {
+    "w": "뜸",
+    "p": "tteum",
+    "m": "cứu ngải",
+    "cat": "literary"
+  },
+  {
+    "w": "경락",
+    "p": "gyeonglag",
+    "m": "kinh lạc",
+    "cat": "literary"
+  },
+  {
+    "w": "한약재",
+    "p": "hanyagjae",
+    "m": "dược liệu đông y",
+    "cat": "literary"
+  },
+  {
+    "w": "탕약",
+    "p": "tang-yag",
+    "m": "thuốc thang sắc",
+    "cat": "literary"
+  },
+  {
+    "w": "사상의학",
+    "p": "sasang-uihag",
+    "m": "y học tứ tượng",
+    "cat": "literary"
+  },
+  {
+    "w": "지압",
+    "p": "jiab",
+    "m": "bấm huyệt",
+    "cat": "literary"
+  },
+  {
+    "w": "약초",
+    "p": "yagcho",
+    "m": "thảo dược",
+    "cat": "literary"
+  },
+  {
+    "w": "한방 병원",
+    "p": "hanbang byeong-won",
+    "m": "bệnh viện đông y",
+    "cat": "literary"
+  },
+  {
+    "w": "맥을 짚다",
+    "p": "maeg-eul jibda",
+    "m": "bắt mạch",
+    "cat": "literary"
+  },
+  {
+    "w": "기혈",
+    "p": "gihyeol",
+    "m": "khí huyết",
+    "cat": "literary"
+  },
+  {
+    "w": "음양오행",
+    "p": "eum-yang-ohaeng",
+    "m": "âm dương ngũ hành",
+    "cat": "literary"
+  },
+  {
+    "w": "택견",
+    "p": "taeggyeon",
+    "m": "võ taekkyeon truyền thống",
+    "cat": "thể thao"
+  },
+  {
+    "w": "국궁",
+    "p": "guggung",
+    "m": "cung thuật truyền thống Hàn",
+    "cat": "thể thao"
+  },
+  {
+    "w": "옹기",
+    "p": "onggi",
+    "m": "chum vại gốm truyền thống",
+    "cat": "literary"
+  },
+  {
+    "w": "보자기",
+    "p": "bojagi",
+    "m": "khăn gói bọc truyền thống",
+    "cat": "literary"
+  },
+  {
+    "w": "벌금을 부과하다",
+    "p": "beolgeum-eul bugwahada",
+    "m": "xử phạt tiền",
+    "cat": "law"
+  },
+  {
+    "w": "법적 의무",
+    "p": "beobjeog uimu",
+    "m": "nghĩa vụ pháp lý",
+    "cat": "law"
+  },
+  {
+    "w": "손해 배상",
+    "p": "sonhae baesang",
+    "m": "bồi thường thiệt hại",
+    "cat": "law"
+  },
+  {
+    "w": "원상회복",
+    "p": "wonsanghoebog",
+    "m": "khôi phục nguyên trạng",
+    "cat": "law"
+  },
+  {
+    "w": "무정부주의",
+    "p": "mujeongbujuui",
+    "m": "chủ nghĩa vô chính phủ",
+    "cat": "politics"
+  },
+  {
+    "w": "신자유주의",
+    "p": "sinjayujuui",
+    "m": "chủ nghĩa tân tự do",
+    "cat": "politics"
+  },
+  {
+    "w": "국가 개입",
+    "p": "gugga gaeib",
+    "m": "can thiệp nhà nước",
+    "cat": "politics"
+  },
+  {
+    "w": "국익",
+    "p": "gugig",
+    "m": "lợi ích quốc gia",
+    "cat": "politics"
+  },
+  {
+    "w": "경성 권력",
+    "p": "gyeongseong gwonlyeog",
+    "m": "quyền lực cứng",
+    "cat": "politics"
+  },
+  {
+    "w": "다수당",
+    "p": "dasudang",
+    "m": "đảng đa số",
+    "cat": "politics"
+  },
+  {
+    "w": "소수당",
+    "p": "sosudang",
+    "m": "đảng thiểu số",
+    "cat": "politics"
+  },
+  {
+    "w": "산업 사슬",
+    "p": "san-eob saseul",
+    "m": "chuỗi công nghiệp",
+    "cat": "economics"
+  },
+  {
+    "w": "가치 사슬",
+    "p": "gachi saseul",
+    "m": "chuỗi giá trị",
+    "cat": "economics"
+  },
+  {
+    "w": "대외 의존도",
+    "p": "daeoe uijondo",
+    "m": "mức độ phụ thuộc ngoại thương",
+    "cat": "economics"
+  },
+  {
+    "w": "경제 제재",
+    "p": "gyeongje jejae",
+    "m": "cấm vận kinh tế",
+    "cat": "economics"
+  },
+  {
+    "w": "경기 회복",
+    "p": "gyeong-gi hoebog",
+    "m": "phục hồi kinh tế",
+    "cat": "economics"
+  },
+  {
+    "w": "물가 안정",
+    "p": "mulga anjeong",
+    "m": "ổn định giá cả",
+    "cat": "economics"
+  },
+  {
+    "w": "실물 경제",
+    "p": "silmul gyeongje",
+    "m": "kinh tế thực",
+    "cat": "economics"
+  },
+  {
+    "w": "잠재성장률",
+    "p": "jamjaeseongjanglyul",
+    "m": "tốc độ tăng trưởng tiềm năng",
+    "cat": "economics"
+  },
+  {
+    "w": "미디어 생태계",
+    "p": "midieo saengtaegye",
+    "m": "hệ sinh thái truyền thông",
+    "cat": "media"
+  },
+  {
+    "w": "정보 과부하",
+    "p": "jeongbo gwabuha",
+    "m": "quá tải thông tin",
+    "cat": "media"
+  },
+  {
+    "w": "관심 경제",
+    "p": "gwansim gyeongje",
+    "m": "kinh tế chú ý",
+    "cat": "media"
+  },
+  {
+    "w": "트래픽 수익화",
+    "p": "teuraepig suighwa",
+    "m": "kiếm tiền từ lưu lượng truy cập",
+    "cat": "media"
+  },
+  {
+    "w": "구독 모델",
+    "p": "gudog model",
+    "m": "mô hình đăng ký",
+    "cat": "media"
+  },
+  {
+    "w": "태양인",
+    "p": "taeyang-in",
+    "m": "người thể chất Thái Dương",
+    "cat": "literary"
+  },
+  {
+    "w": "태음인",
+    "p": "taeeum-in",
+    "m": "người thể chất Thái Âm",
+    "cat": "literary"
+  },
+  {
+    "w": "소양인",
+    "p": "soyang-in",
+    "m": "người thể chất Thiếu Dương",
+    "cat": "literary"
+  },
+  {
+    "w": "소음인",
+    "p": "soeum-in",
+    "m": "người thể chất Thiếu Âm",
+    "cat": "literary"
+  },
+  {
+    "w": "경혈",
+    "p": "gyeonghyeol",
+    "m": "huyệt đạo",
+    "cat": "literary"
+  },
+  {
+    "w": "단전",
+    "p": "danjeon",
+    "m": "đan điền",
+    "cat": "literary"
+  },
+  {
+    "w": "보약",
+    "p": "boyag",
+    "m": "thuốc bổ",
+    "cat": "literary"
+  },
+  {
+    "w": "약침",
+    "p": "yagchim",
+    "m": "châm cứu kết hợp thuốc",
+    "cat": "literary"
+  },
+  {
+    "w": "한의원",
+    "p": "hanuiwon",
+    "m": "phòng khám đông y",
+    "cat": "literary"
+  },
+  {
+    "w": "미결수",
+    "p": "migyeolsu",
+    "m": "tù nhân chưa xét xử",
+    "cat": "law"
+  },
+  {
+    "w": "국선 변호인",
+    "p": "gugseon byeonhoin",
+    "m": "luật sư chỉ định",
+    "cat": "law"
+  },
+  {
+    "w": "불기소 처분",
+    "p": "bulgiso cheobun",
+    "m": "quyết định không truy tố",
+    "cat": "law"
+  },
+  {
+    "w": "소멸시효",
+    "p": "somyeolsihyo",
+    "m": "thời hiệu tiêu diệt quyền dân sự",
+    "cat": "law"
+  },
+  {
+    "w": "가석방",
+    "p": "gaseogbang",
+    "m": "tạm tha trước hạn",
+    "cat": "law"
+  },
+  {
+    "w": "과두제",
+    "p": "gwadujae",
+    "m": "chính thể đầu sỏ",
+    "cat": "politics"
+  },
+  {
+    "w": "정치적 무관심",
+    "p": "jeongchijeog mugwansim",
+    "m": "thờ ơ chính trị",
+    "cat": "politics"
+  },
+  {
+    "w": "정치 참여",
+    "p": "jeongchi chamyeo",
+    "m": "tham gia chính trị",
+    "cat": "politics"
+  },
+  {
+    "w": "통치 체제",
+    "p": "tongchi chelje",
+    "m": "hệ thống cai trị",
+    "cat": "politics"
+  },
+  {
+    "w": "정치적 자유",
+    "p": "jeongchijeog jayu",
+    "m": "tự do chính trị",
+    "cat": "politics"
+  },
+  {
+    "w": "국민 통합",
+    "p": "gugmin tonghab",
+    "m": "đoàn kết dân tộc",
+    "cat": "politics"
+  },
+  {
+    "w": "다당제",
+    "p": "dadangje",
+    "m": "chế độ đa đảng",
+    "cat": "politics"
+  },
+  {
+    "w": "탈산업화",
+    "p": "talsan-eobhwa",
+    "m": "phi công nghiệp hóa",
+    "cat": "society"
+  },
+  {
+    "w": "정보화 사회",
+    "p": "jeongbohwa sahoe",
+    "m": "xã hội thông tin hóa",
+    "cat": "society"
+  },
+  {
+    "w": "고령화 사회",
+    "p": "golyeonghwa sahoe",
+    "m": "xã hội già hóa",
+    "cat": "society"
+  },
+  {
+    "w": "사회 안전망",
+    "p": "sahoe anjeonmang",
+    "m": "mạng lưới an toàn xã hội",
+    "cat": "society"
+  },
+  {
+    "w": "공동체 의식",
+    "p": "gongdongche uisig",
+    "m": "ý thức cộng đồng",
+    "cat": "society"
+  },
+  {
+    "w": "특허권 침해",
+    "p": "teughyeogwon chimhae",
+    "m": "vi phạm quyền sáng chế",
+    "cat": "science"
+  },
+  {
+    "w": "연구 부정행위",
+    "p": "yeongu bujeonghaeng-wi",
+    "m": "hành vi gian lận nghiên cứu",
+    "cat": "science"
+  },
+  {
+    "w": "논문 표절",
+    "p": "nonmun pyojeol",
+    "m": "đạo văn luận văn",
+    "cat": "science"
+  },
+  {
+    "w": "데이터 무결성",
+    "p": "deiteo mugyeolseong",
+    "m": "tính toàn vẹn dữ liệu",
+    "cat": "science"
+  },
+  {
+    "w": "연구 설계",
+    "p": "yeongu seolgye",
+    "m": "thiết kế nghiên cứu",
+    "cat": "science"
+  },
+  {
+    "w": "과학적 엄밀성",
+    "p": "gwahagjeog eommilseong",
+    "m": "tính nghiêm ngặt khoa học",
+    "cat": "science"
+  },
+  {
+    "w": "불법행위 책임",
+    "p": "bulbeophaeng-wi chaeg-im",
+    "m": "trách nhiệm pháp lý xâm phạm",
+    "cat": "law"
+  },
+  {
+    "w": "담보권 설정",
+    "p": "dambogwon seoljeong",
+    "m": "xác lập quyền thế chấp",
+    "cat": "law"
+  },
+  {
+    "w": "공소를 취하하다",
+    "p": "gongsoleul chwihahada",
+    "m": "rút đơn truy tố",
+    "cat": "law"
+  },
+  {
+    "w": "불복하다",
+    "p": "bulboghada",
+    "m": "không tuân phục, kháng cự phán quyết",
+    "cat": "law"
+  },
+  {
+    "w": "장관",
+    "p": "jang-gwan",
+    "m": "bộ trưởng",
+    "cat": "politics"
+  },
+  {
+    "w": "국정",
+    "p": "gugjeong",
+    "m": "việc nước, chính sự quốc gia",
+    "cat": "politics"
+  },
+  {
+    "w": "단원제",
+    "p": "dan-wonje",
+    "m": "chế độ một viện",
+    "cat": "politics"
+  },
+  {
+    "w": "양원제",
+    "p": "yang-wonje",
+    "m": "chế độ lưỡng viện",
+    "cat": "politics"
+  },
+  {
+    "w": "자치권",
+    "p": "jachigwon",
+    "m": "quyền tự trị",
+    "cat": "politics"
+  },
+  {
+    "w": "특별 자치구",
+    "p": "teugbyeol jachigu",
+    "m": "đặc khu tự trị",
+    "cat": "politics"
+  },
+  {
+    "w": "가족 해체",
+    "p": "gajog haeche",
+    "m": "tan rã gia đình",
+    "cat": "society"
+  },
+  {
+    "w": "일인 가구",
+    "p": "il-in gagu",
+    "m": "hộ gia đình đơn thân một người",
+    "cat": "society"
+  },
+  {
+    "w": "정밀 빈곤 지원",
+    "p": "jeongmil bingon jiwon",
+    "m": "hỗ trợ nghèo chính xác",
+    "cat": "society"
+  },
+  {
+    "w": "지역사회 관리",
+    "p": "jiyeogsahoe gwanli",
+    "m": "quản lý cộng đồng",
+    "cat": "society"
+  },
+  {
+    "w": "다세대 가족",
+    "p": "dasedae gajog",
+    "m": "gia đình nhiều thế hệ",
+    "cat": "society"
+  },
+  {
+    "w": "독거노인",
+    "p": "doggeonoin",
+    "m": "người già sống một mình",
+    "cat": "society"
+  },
+  {
+    "w": "방사성 물질",
+    "p": "bangsaseong muljil",
+    "m": "chất phóng xạ",
+    "cat": "science"
+  },
+  {
+    "w": "무작위 대조 시험",
+    "p": "mujag-wi daejo siheom",
+    "m": "thử nghiệm đối chứng ngẫu nhiên",
+    "cat": "science"
+  },
+  {
+    "w": "생체 공학",
+    "p": "saengche gonghag",
+    "m": "kỹ thuật sinh học",
+    "cat": "science"
+  },
+  {
+    "w": "인공 장기",
+    "p": "in-gong janggi",
+    "m": "nội tạng nhân tạo",
+    "cat": "science"
+  },
+  {
+    "w": "유전자 검사",
+    "p": "yujeonja geomsa",
+    "m": "xét nghiệm gen",
+    "cat": "science"
+  },
+  {
+    "w": "탈세",
+    "p": "talse",
+    "m": "trốn thuế",
+    "cat": "economics"
+  },
+  {
+    "w": "조세 회피",
+    "p": "jose hoepi",
+    "m": "lách thuế",
+    "cat": "economics"
+  },
+  {
+    "w": "환경세",
+    "p": "hwan-gyeongse",
+    "m": "thuế môi trường",
+    "cat": "economics"
+  },
+  {
+    "w": "탄소 포집 저장",
+    "p": "tanso pojib jeojang",
+    "m": "thu giữ và lưu trữ carbon",
+    "cat": "environment"
+  },
+  {
+    "w": "부실 채권",
+    "p": "busil chaegwon",
+    "m": "nợ xấu",
+    "cat": "economics"
+  },
+  {
+    "w": "재무제표",
+    "p": "jaemujepyo",
+    "m": "báo cáo tài chính",
+    "cat": "economics"
+  },
+  {
+    "w": "손익 보고서",
+    "p": "soneg bogoseo",
+    "m": "báo cáo lãi lỗ",
+    "cat": "economics"
+  },
+  {
+    "w": "디지털 경제",
+    "p": "dijiteol gyeongje",
+    "m": "kinh tế số",
+    "cat": "economics"
+  },
+  {
+    "w": "플랫폼 경제",
+    "p": "peullaespom gyeongje",
+    "m": "kinh tế nền tảng",
+    "cat": "economics"
+  },
+  {
+    "w": "공유 경제",
+    "p": "gong-yu gyeongje",
+    "m": "kinh tế chia sẻ",
+    "cat": "economics"
+  },
+  {
+    "w": "녹색 경제",
+    "p": "nogsaeg gyeongje",
+    "m": "kinh tế xanh",
+    "cat": "economics"
+  },
+  {
+    "w": "신흥 경제",
+    "p": "sinheung gyeongje",
+    "m": "kinh tế mới nổi",
+    "cat": "economics"
+  },
+  {
+    "w": "창조 경제",
+    "p": "changjo gyeongje",
+    "m": "kinh tế sáng tạo",
+    "cat": "economics"
+  },
+  {
+    "w": "조현병",
+    "p": "johyeonbyeong",
+    "m": "bệnh tâm thần phân liệt",
+    "cat": "science"
+  },
+  {
+    "w": "표피",
+    "p": "pyopi",
+    "m": "biểu bì, bề mặt ngoài",
+    "cat": "science"
+  },
+  {
+    "w": "화학 성분",
+    "p": "hwahag seongbun",
+    "m": "thành phần hóa học",
+    "cat": "science"
+  },
+  {
+    "w": "아이돌",
+    "p": "aidol",
+    "m": "thần tượng (ca sĩ K-pop)",
+    "cat": "literary"
+  },
+  {
+    "w": "연습생",
+    "p": "yeonseubsaeng",
+    "m": "thực tập sinh (idol)",
+    "cat": "literary"
+  },
+  {
+    "w": "데뷔하다",
+    "p": "debwihada",
+    "m": "ra mắt (nghệ sĩ, ban nhạc)",
+    "cat": "literary"
+  },
+  {
+    "w": "팬덤",
+    "p": "paendeom",
+    "m": "cộng đồng người hâm mộ",
+    "cat": "literary"
+  },
+  {
+    "w": "컴백하다",
+    "p": "keombaeghada",
+    "m": "trở lại hoạt động (nghệ sĩ)",
+    "cat": "literary"
+  },
+  {
+    "w": "음원 차트",
+    "p": "eum-won chateu",
+    "m": "bảng xếp hạng nhạc số",
+    "cat": "literary"
+  },
+  {
+    "w": "소속사",
+    "p": "sosogsa",
+    "m": "công ty quản lý nghệ sĩ",
+    "cat": "literary"
+  },
+  {
+    "w": "팬미팅",
+    "p": "paenmiting",
+    "m": "buổi gặp gỡ người hâm mộ",
+    "cat": "literary"
+  },
+  {
+    "w": "응원봉",
+    "p": "eung-wonbong",
+    "m": "gậy phát sáng cổ vũ",
+    "cat": "literary"
+  },
+  {
+    "w": "칼군무",
+    "p": "kalgunmu",
+    "m": "vũ đạo đồng bộ hoàn hảo",
+    "cat": "literary"
+  },
+  {
+    "w": "비주얼 담당",
+    "p": "bijueol damdang",
+    "m": "thành viên phụ trách ngoại hình",
+    "cat": "literary"
+  },
+  {
+    "w": "타이틀곡",
+    "p": "taiteulgog",
+    "m": "bài hát chủ đề",
+    "cat": "literary"
+  },
+  {
+    "w": "수록곡",
+    "p": "surogog",
+    "m": "bài hát trong album",
+    "cat": "literary"
+  },
+  {
+    "w": "음악방송",
+    "p": "eum-agbangsong",
+    "m": "chương trình âm nhạc truyền hình",
+    "cat": "literary"
+  },
+  {
+    "w": "한류",
+    "p": "hallyu",
+    "m": "làn sóng văn hóa Hàn Quốc",
+    "cat": "literary"
+  },
+  {
+    "w": "드라마 촬영지",
+    "p": "deurama chwal-yeongji",
+    "m": "địa điểm quay phim truyền hình",
+    "cat": "literary"
+  },
+  {
+    "w": "각본가",
+    "p": "gagbon-ga",
+    "m": "biên kịch",
+    "cat": "literary"
+  },
+  {
+    "w": "본방송",
+    "p": "bonbangsong",
+    "m": "phát sóng lần đầu",
+    "cat": "literary"
+  },
+  {
+    "w": "웹툰",
+    "p": "webtun",
+    "m": "truyện tranh mạng (webtoon)",
+    "cat": "literary"
+  },
+  {
+    "w": "웹소설",
+    "p": "websoseol",
+    "m": "tiểu thuyết mạng",
+    "cat": "literary"
+  },
+  {
+    "w": "영상미",
+    "p": "yeongsangmi",
+    "m": "vẻ đẹp hình ảnh",
+    "cat": "literary"
+  },
+  {
+    "w": "인기 절정",
+    "p": "in-gi jeoljeong",
+    "m": "đỉnh cao độ nổi tiếng",
+    "cat": "literary"
+  },
+  {
+    "w": "화제성",
+    "p": "hwajeseong",
+    "m": "độ gây chú ý, tính viral",
+    "cat": "literary"
+  },
+  {
+    "w": "시청자 게시판",
+    "p": "sicheongja geshiban",
+    "m": "bảng thảo luận người xem",
+    "cat": "literary"
+  },
+  {
+    "w": "OTT 플랫폼",
+    "p": "OTT peullaespom",
+    "m": "nền tảng phát trực tuyến OTT",
+    "cat": "literary"
+  },
+  {
+    "w": "정주행하다",
+    "p": "jeongjuhaenghada",
+    "m": "xem liền một mạch (phim)",
+    "cat": "literary"
+  },
+  {
+    "w": "본방사수",
+    "p": "bonbangsasu",
+    "m": "xem đúng giờ phát sóng",
+    "cat": "literary"
+  },
+  {
+    "w": "사극",
+    "p": "sagug",
+    "m": "phim cổ trang",
+    "cat": "literary"
+  },
+  {
+    "w": "막장 드라마",
+    "p": "magjang deurama",
+    "m": "phim kịch tính thái quá",
+    "cat": "literary"
+  },
+  {
+    "w": "오디션 프로그램",
+    "p": "odisyeon peulogeulaem",
+    "m": "chương trình tuyển chọn tài năng",
+    "cat": "literary"
+  },
+  {
+    "w": "서바이벌 프로그램",
+    "p": "seobaibeol peulogeulaem",
+    "m": "chương trình thi đấu loại trực tiếp",
+    "cat": "literary"
+  },
+  {
+    "w": "로맨스물",
+    "p": "lomaenseumul",
+    "m": "thể loại phim lãng mạn",
+    "cat": "literary"
+  },
+  {
+    "w": "드라마 각색",
+    "p": "deurama gagsaeg",
+    "m": "chuyển thể thành phim truyền hình",
+    "cat": "literary"
+  },
+  {
+    "w": "시즌제",
+    "p": "sijeunje",
+    "m": "hệ thống theo mùa (phim)",
+    "cat": "literary"
+  },
+  {
+    "w": "e스포츠",
+    "p": "i-seupocheu",
+    "m": "thể thao điện tử",
+    "cat": "thể thao"
+  },
+  {
+    "w": "프로게이머",
+    "p": "peulogeimeo",
+    "m": "game thủ chuyên nghiệp",
+    "cat": "thể thao"
+  },
+  {
+    "w": "피시방",
+    "p": "pisibang",
+    "m": "quán net",
+    "cat": "literary"
+  },
+  {
+    "w": "랭킹전",
+    "p": "laengkingjeon",
+    "m": "trận đấu xếp hạng",
+    "cat": "thể thao"
+  },
+  {
+    "w": "팀전",
+    "p": "timjeon",
+    "m": "đấu đồng đội",
+    "cat": "thể thao"
+  },
+  {
+    "w": "우승 상금",
+    "p": "usung sanggeum",
+    "m": "tiền thưởng vô địch",
+    "cat": "thể thao"
+  },
+  {
+    "w": "게임 중계",
+    "p": "geim jung-gye",
+    "m": "tường thuật trực tiếp game",
+    "cat": "literary"
+  },
+  {
+    "w": "캐스터",
+    "p": "kaeseuteo",
+    "m": "bình luận viên (thể thao điện tử)",
+    "cat": "literary"
+  },
+  {
+    "w": "먹방",
+    "p": "meogbang",
+    "m": "phát trực tiếp cảnh ăn uống (mukbang)",
+    "cat": "literary"
+  },
+  {
+    "w": "매운맛 챌린지",
+    "p": "maeunmas chaelrinji",
+    "m": "thử thách ăn cay",
+    "cat": "literary"
+  },
+  {
+    "w": "한식 세계화",
+    "p": "hansig segyehwa",
+    "m": "quốc tế hóa ẩm thực Hàn",
+    "cat": "literary"
+  },
+  {
+    "w": "퓨전 한식",
+    "p": "pyujeon hansig",
+    "m": "ẩm thực Hàn fusion",
+    "cat": "literary"
+  },
+  {
+    "w": "스킨케어 루틴",
+    "p": "seunkinkeeo rutin",
+    "m": "quy trình chăm sóc da",
+    "cat": "literary"
+  },
+  {
+    "w": "마스크팩",
+    "p": "maseukeupaeg",
+    "m": "mặt nạ dưỡng da dạng giấy",
+    "cat": "literary"
+  },
+  {
+    "w": "쿠션 팩트",
+    "p": "kusyeon paegteu",
+    "m": "phấn nước trang điểm",
+    "cat": "literary"
+  },
+  {
+    "w": "수분크림",
+    "p": "subungeulim",
+    "m": "kem dưỡng ẩm",
+    "cat": "literary"
+  },
+  {
+    "w": "미백 효과",
+    "p": "mibaeg hyogwa",
+    "m": "hiệu quả làm trắng da",
+    "cat": "literary"
+  },
+  {
+    "w": "자외선 차단제",
+    "p": "jaoeseon chadanje",
+    "m": "kem chống nắng",
+    "cat": "literary"
+  },
+  {
+    "w": "스트리트 패션",
+    "p": "seuteuriteu paesyeon",
+    "m": "thời trang đường phố",
+    "cat": "literary"
+  },
+  {
+    "w": "코디하다",
+    "p": "kodihada",
+    "m": "phối đồ",
+    "cat": "literary"
+  },
+  {
+    "w": "데일리룩",
+    "p": "deillilug",
+    "m": "trang phục hàng ngày",
+    "cat": "literary"
+  },
+  {
+    "w": "시즌 컬렉션",
+    "p": "sijeun keolleksyeon",
+    "m": "bộ sưu tập theo mùa",
+    "cat": "literary"
+  },
+  {
+    "w": "카페 투어",
+    "p": "kape tueo",
+    "m": "tham quan quán cà phê",
+    "cat": "literary"
+  },
+  {
+    "w": "감성 카페",
+    "p": "gamseong kape",
+    "m": "quán cà phê phong cách cảm xúc",
+    "cat": "literary"
+  },
+  {
+    "w": "베이커리 카페",
+    "p": "beikeoli kape",
+    "m": "quán cà phê kết hợp tiệm bánh",
+    "cat": "literary"
+  },
+  {
+    "w": "디저트 맛집",
+    "p": "dijeoteu majjib",
+    "m": "quán tráng miệng nổi tiếng",
+    "cat": "literary"
+  },
+  {
+    "w": "인스타 감성",
+    "p": "inseuta gamseong",
+    "m": "cảm giác đẹp để chụp mạng xã hội",
+    "cat": "literary"
+  },
+  {
+    "w": "카카오톡",
+    "p": "kakaotog",
+    "m": "ứng dụng nhắn tin KakaoTalk",
+    "cat": "literary"
+  },
+  {
+    "w": "읽씹",
+    "p": "ilgssib",
+    "m": "đọc tin nhắn nhưng không trả lời",
+    "cat": "literary"
+  },
+  {
+    "w": "답장이 늦다",
+    "p": "dabjang-i neujda",
+    "m": "trả lời tin nhắn muộn",
+    "cat": "literary"
+  },
+  {
+    "w": "홈트레이닝",
+    "p": "homteuleining",
+    "m": "tập luyện tại nhà",
+    "cat": "literary"
+  },
+  {
+    "w": "바디프로필",
+    "p": "badipeulopil",
+    "m": "ảnh chụp cơ thể sau tập luyện",
+    "cat": "literary"
+  },
+  {
+    "w": "썸을 타다",
+    "p": "sseom-eul tada",
+    "m": "đang trong giai đoạn tìm hiểu tình cảm",
+    "cat": "literary"
+  },
+  {
+    "w": "갓생",
+    "p": "gassaeng",
+    "m": "cuộc sống kỷ luật tích cực",
+    "cat": "literary"
+  },
+  {
+    "w": "입대하다",
+    "p": "ibdaehada",
+    "m": "nhập ngũ",
+    "cat": "literary"
+  },
+  {
+    "w": "제대하다",
+    "p": "jedaehada",
+    "m": "xuất ngũ",
+    "cat": "literary"
+  },
+  {
+    "w": "훈련소",
+    "p": "hunlyeonso",
+    "m": "trại huấn luyện tân binh",
+    "cat": "literary"
+  },
+  {
+    "w": "군 면제",
+    "p": "gun myeonje",
+    "m": "miễn nghĩa vụ quân sự",
+    "cat": "literary"
+  },
+  {
+    "w": "국방의 의무",
+    "p": "gugbang-ui uimu",
+    "m": "nghĩa vụ quốc phòng",
+    "cat": "literary"
+  },
+  {
+    "w": "예비군",
+    "p": "yebigun",
+    "m": "quân dự bị",
+    "cat": "literary"
+  },
+  {
+    "w": "민방위",
+    "p": "minbang-wi",
+    "m": "phòng vệ dân sự",
+    "cat": "literary"
+  },
+  {
+    "w": "보충역",
+    "p": "bochung-yeog",
+    "m": "nghĩa vụ thay thế (không tham gia chiến đấu trực tiếp)",
+    "cat": "literary"
+  },
+  {
+    "w": "수능",
+    "p": "suneung",
+    "m": "kỳ thi đại học toàn quốc (Suneung)",
+    "cat": "literary"
+  },
+  {
+    "w": "정시",
+    "p": "jeongsi",
+    "m": "tuyển sinh theo kỳ thi chính quy",
+    "cat": "literary"
+  },
+  {
+    "w": "수시",
+    "p": "susi",
+    "m": "tuyển sinh xét tuyển sớm",
+    "cat": "literary"
+  },
+  {
+    "w": "내신",
+    "p": "naesin",
+    "m": "điểm học bạ",
+    "cat": "literary"
+  }
+]
