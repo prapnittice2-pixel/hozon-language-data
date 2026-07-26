@@ -4390,5 +4390,371 @@
     "p": "saenggak",
     "m": "ý kiến, suy nghĩ",
     "cat": "default"
+  },
+  {
+    "w": "있다",
+    "p": "itda",
+    "m": "có, tồn tại, ở",
+    "cat": "verb"
+  },
+  {
+    "w": "없다",
+    "p": "eopda",
+    "m": "không có, không tồn tại",
+    "cat": "verb"
+  },
+  {
+    "w": "중국",
+    "p": "jungguk",
+    "m": "Trung Quốc",
+    "cat": "place"
+  },
+  {
+    "w": "아니다",
+    "p": "anida",
+    "m": "không phải là",
+    "cat": "verb"
+  },
+  {
+    "w": "가족",
+    "p": "gajok",
+    "m": "gia đình",
+    "cat": "family"
+  },
+  {
+    "w": "귀",
+    "p": "gwi",
+    "m": "tai",
+    "cat": "body"
+  },
+  {
+    "w": "잔디",
+    "p": "jandi",
+    "m": "cỏ, bãi cỏ",
+    "cat": "nature"
+  },
+  {
+    "w": "바람",
+    "p": "baram",
+    "m": "gió",
+    "cat": "nature"
+  },
+  {
+    "w": "언어",
+    "p": "eoneo",
+    "m": "ngôn ngữ",
+    "cat": "school"
+  },
+  {
+    "w": "환영하다",
+    "p": "hwanyeonghada",
+    "m": "chào mừng, hoan nghênh",
+    "cat": "greeting"
+  },
+  {
+    "w": "오빠",
+    "p": "oppa",
+    "m": "anh trai (em gái gọi anh)",
+    "cat": "family"
+  },
+  {
+    "w": "언니",
+    "p": "eonni",
+    "m": "chị gái (em gái gọi chị)",
+    "cat": "family"
+  },
+  {
+    "w": "해",
+    "p": "hae",
+    "m": "mặt trời",
+    "cat": "nature"
+  },
+  {
+    "w": "명",
+    "p": "myeong",
+    "m": "người (lượng từ đếm người)",
+    "cat": "default"
+  },
+  {
+    "w": "첫 번째",
+    "p": "cheot beonjjae",
+    "m": "đầu tiên, thứ nhất",
+    "cat": "number"
+  },
+  {
+    "w": "냄새",
+    "p": "naemsae",
+    "m": "mùi, mùi hương",
+    "cat": "default"
+  },
+  {
+    "w": "소리",
+    "p": "sori",
+    "m": "âm thanh, tiếng động",
+    "cat": "default"
+  },
+  {
+    "w": "사랑",
+    "p": "sarang",
+    "m": "tình yêu",
+    "cat": "emotion"
+  },
+  {
+    "w": "여자친구",
+    "p": "yeojachingu",
+    "m": "bạn gái (người yêu)",
+    "cat": "default"
+  },
+  {
+    "w": "남자친구",
+    "p": "namjachingu",
+    "m": "bạn trai (người yêu)",
+    "cat": "default"
+  },
+  {
+    "w": "취미",
+    "p": "chwimi",
+    "m": "sở thích",
+    "cat": "culture"
+  },
+  {
+    "w": "아르바이트",
+    "p": "areubaiteu",
+    "m": "việc làm thêm",
+    "cat": "work"
+  },
+  {
+    "w": "선풍기",
+    "p": "seonpunggi",
+    "m": "quạt máy",
+    "cat": "home"
+  },
+  {
+    "w": "회사원",
+    "p": "hoesawon",
+    "m": "nhân viên công ty",
+    "cat": "work"
+  },
+  {
+    "w": "주부",
+    "p": "jubu",
+    "m": "nội trợ",
+    "cat": "work"
+  },
+  {
+    "w": "건강",
+    "p": "geongang",
+    "m": "sức khỏe",
+    "cat": "health"
+  },
+  {
+    "w": "버튼",
+    "p": "beoteun",
+    "m": "nút bấm, nút nhấn",
+    "cat": "tech"
+  },
+  {
+    "w": "파티",
+    "p": "pati",
+    "m": "tiệc, buổi tiệc",
+    "cat": "culture"
+  },
+  {
+    "w": "부탁하다",
+    "p": "butakhada",
+    "m": "nhờ vả, nhờ giúp",
+    "cat": "verb"
+  },
+  {
+    "w": "술",
+    "p": "sul",
+    "m": "rượu",
+    "cat": "drink"
+  },
+  {
+    "w": "담배",
+    "p": "dambae",
+    "m": "thuốc lá",
+    "cat": "default"
+  },
+  {
+    "w": "휴가",
+    "p": "hyuga",
+    "m": "kỳ nghỉ phép",
+    "cat": "work"
+  },
+  {
+    "w": "스트레스",
+    "p": "seuteureseu",
+    "m": "căng thẳng, áp lực tinh thần",
+    "cat": "emotion"
+  },
+  {
+    "w": "고향",
+    "p": "gohyang",
+    "m": "quê hương",
+    "cat": "place"
+  },
+  {
+    "w": "주인",
+    "p": "juin",
+    "m": "chủ (nhà, quán)",
+    "cat": "default"
+  },
+  {
+    "w": "사장",
+    "p": "sajang",
+    "m": "giám đốc",
+    "cat": "work"
+  },
+  {
+    "w": "직장",
+    "p": "jikjang",
+    "m": "nơi làm việc",
+    "cat": "work"
+  },
+  {
+    "w": "군인",
+    "p": "gunin",
+    "m": "quân nhân, bộ đội",
+    "cat": "work"
+  },
+  {
+    "w": "부모님",
+    "p": "bumonim",
+    "m": "cha mẹ (kính ngữ)",
+    "cat": "family"
+  },
+  {
+    "w": "손자",
+    "p": "sonja",
+    "m": "cháu trai (nội, ngoại)",
+    "cat": "family"
+  },
+  {
+    "w": "김치",
+    "p": "gimchi",
+    "m": "kim chi",
+    "cat": "food"
+  },
+  {
+    "w": "불고기",
+    "p": "bulgogi",
+    "m": "thịt bò nướng kiểu Hàn",
+    "cat": "food"
+  },
+  {
+    "w": "라디오",
+    "p": "radio",
+    "m": "radio, đài phát thanh",
+    "cat": "tech"
+  },
+  {
+    "w": "착하다",
+    "p": "chakhada",
+    "m": "hiền lành, tốt bụng",
+    "cat": "adjective"
+  },
+  {
+    "w": "멋있다",
+    "p": "meositda",
+    "m": "đẹp, ngầu, phong cách",
+    "cat": "adjective"
+  },
+  {
+    "w": "키",
+    "p": "ki",
+    "m": "chiều cao",
+    "cat": "body"
+  },
+  {
+    "w": "몸무게",
+    "p": "mommuge",
+    "m": "cân nặng",
+    "cat": "body"
+  },
+  {
+    "w": "날씬하다",
+    "p": "nalssinhada",
+    "m": "thon thả, mảnh mai",
+    "cat": "adjective"
+  },
+  {
+    "w": "성격",
+    "p": "seonggyeok",
+    "m": "tính cách",
+    "cat": "default"
+  },
+  {
+    "w": "인기",
+    "p": "ingi",
+    "m": "được yêu thích, phổ biến",
+    "cat": "default"
+  },
+  {
+    "w": "사전",
+    "p": "sajeon",
+    "m": "từ điển",
+    "cat": "school"
+  },
+  {
+    "w": "아까",
+    "p": "akka",
+    "m": "lúc nãy, vừa rồi",
+    "cat": "time"
+  },
+  {
+    "w": "이따가",
+    "p": "ittaga",
+    "m": "lát nữa, chút nữa",
+    "cat": "time"
+  },
+  {
+    "w": "엔지니어",
+    "p": "enjinieo",
+    "m": "kỹ sư",
+    "cat": "work"
+  },
+  {
+    "w": "요일",
+    "p": "yoil",
+    "m": "thứ (ngày trong tuần)",
+    "cat": "time"
+  },
+  {
+    "w": "메모",
+    "p": "memo",
+    "m": "ghi chú",
+    "cat": "school"
+  },
+  {
+    "w": "환전하다",
+    "p": "hwanjeonhada",
+    "m": "đổi tiền (ngoại tệ)",
+    "cat": "money"
+  },
+  {
+    "w": "트럭",
+    "p": "teureok",
+    "m": "xe tải",
+    "cat": "transport"
+  },
+  {
+    "w": "베트남",
+    "p": "beteunam",
+    "m": "Việt Nam",
+    "cat": "place"
+  },
+  {
+    "w": "넣다",
+    "p": "neota",
+    "m": "cho vào, bỏ vào",
+    "cat": "verb"
+  },
+  {
+    "w": "세다",
+    "p": "seda",
+    "m": "đếm",
+    "cat": "verb"
   }
 ]

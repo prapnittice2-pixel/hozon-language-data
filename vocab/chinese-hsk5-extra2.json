@@ -3089,7 +3089,7 @@
     "w": "汇报",
     "p": "huì bào",
     "m": "báo cáo",
-    "cat": "hành动",
+    "cat": "verb",
     "example": "他向经理汇报了工作进展。",
     "example_vi": "Anh ấy đã báo cáo tiến độ công việc cho giám đốc."
   },
@@ -3147,7 +3147,7 @@
     "w": "接受",
     "p": "jiē shòu",
     "m": "chấp nhận, tiếp nhận",
-    "cat": "hành动"
+    "cat": "verb"
   },
   {
     "w": "拒绝",
@@ -3159,7 +3159,7 @@
     "w": "妥协",
     "p": "tuǒ xié",
     "m": "thỏa hiệp",
-    "cat": "hành动",
+    "cat": "verb",
     "example": "双方最终达成了妥协。",
     "example_vi": "Hai bên cuối cùng đã đạt được thỏa hiệp."
   },
@@ -3173,7 +3173,7 @@
     "w": "放弃",
     "p": "fàng qì",
     "m": "từ bỏ",
-    "cat": "hành动"
+    "cat": "verb"
   },
   {
     "w": "克制",
@@ -3193,7 +3193,7 @@
     "w": "鼓励",
     "p": "gǔ lì",
     "m": "khuyến khích, cổ vũ",
-    "cat": "hành动"
+    "cat": "verb"
   },
   {
     "w": "培养",
@@ -3205,7 +3205,7 @@
     "w": "提升",
     "p": "tí shēng",
     "m": "nâng cao, cải thiện",
-    "cat": "hành动"
+    "cat": "verb"
   },
   {
     "w": "突破",
@@ -3217,7 +3217,7 @@
     "w": "超越",
     "p": "chāo yuè",
     "m": "vượt qua, vượt trội",
-    "cat": "hành动"
+    "cat": "verb"
   },
   {
     "w": "实现",
@@ -3229,7 +3229,7 @@
     "w": "达成",
     "p": "dá chéng",
     "m": "đạt được, đi đến",
-    "cat": "hành动",
+    "cat": "verb",
     "example": "双方达成了协议。",
     "example_vi": "Hai bên đã đạt được thỏa thuận."
   },
@@ -3237,13 +3237,13 @@
     "w": "完成",
     "p": "wán chéng",
     "m": "hoàn thành",
-    "cat": "hành动"
+    "cat": "verb"
   },
   {
     "w": "推进",
     "p": "tuī jìn",
     "m": "thúc đẩy, tiến hành",
-    "cat": "hành动",
+    "cat": "verb",
     "example": "公司正在推进这个项目。",
     "example_vi": "Công ty đang thúc đẩy dự án này."
   },
@@ -3251,7 +3251,7 @@
     "w": "拓展",
     "p": "tuò zhǎn",
     "m": "mở rộng, phát triển",
-    "cat": "hành動",
+    "cat": "verb",
     "example": "公司在拓展新的市场。",
     "example_vi": "Công ty đang mở rộng thị trường mới."
   },
@@ -3267,7 +3267,7 @@
     "w": "完善",
     "p": "wán shàn",
     "m": "hoàn thiện",
-    "cat": "hành动",
+    "cat": "verb",
     "example": "这个制度还需要完善。",
     "example_vi": "Chế độ này vẫn cần được hoàn thiện."
   },
@@ -3275,7 +3275,7 @@
     "w": "改进",
     "p": "gǎi jìn",
     "m": "cải tiến",
-    "cat": "hành动",
+    "cat": "verb",
     "example": "我们需要改进这个流程。",
     "example_vi": "Chúng ta cần cải tiến quy trình này."
   },
@@ -3283,7 +3283,7 @@
     "w": "革新",
     "p": "gé xīn",
     "m": "đổi mới, cải cách",
-    "cat": "hành动",
+    "cat": "verb",
     "example": "公司进行了一次技术革新。",
     "example_vi": "Công ty đã tiến hành một cuộc đổi mới công nghệ."
   },
@@ -3291,7 +3291,7 @@
     "w": "颠覆",
     "p": "diān fù",
     "m": "lật đổ, phá vỡ",
-    "cat": "hành動",
+    "cat": "verb",
     "example": "这项技术颠覆了传统行业。",
     "example_vi": "Công nghệ này đã làm đảo lộn ngành truyền thống."
   },
@@ -3307,7 +3307,7 @@
     "w": "转型",
     "p": "zhuǎn xíng",
     "m": "chuyển đổi",
-    "cat": "hành动",
+    "cat": "verb",
     "example": "公司正在向数字化转型。",
     "example_vi": "Công ty đang chuyển đổi sang số hóa."
   },
@@ -3323,7 +3323,7 @@
     "w": "降级",
     "p": "jiàng jí",
     "m": "hạ cấp",
-    "cat": "hành动",
+    "cat": "verb",
     "example": "他的职位被降级了。",
     "example_vi": "Chức vụ của anh ấy đã bị hạ cấp."
   },
@@ -3331,7 +3331,7 @@
     "w": "调整",
     "p": "tiáo zhěng",
     "m": "điều chỉnh",
-    "cat": "hành动"
+    "cat": "verb"
   },
   {
     "w": "把握",
@@ -3345,7 +3345,7 @@
     "w": "掌握",
     "p": "zhǎng wò",
     "m": "nắm vững",
-    "cat": "hành动",
+    "cat": "verb",
     "example": "他已经掌握了这门技术。",
     "example_vi": "Anh ấy đã nắm vững kỹ thuật này."
   },
@@ -3353,7 +3353,7 @@
     "w": "运用",
     "p": "yùn yòng",
     "m": "vận dụng, áp dụng",
-    "cat": "hành动",
+    "cat": "verb",
     "example": "他善于运用所学知识。",
     "example_vi": "Anh ấy giỏi vận dụng kiến thức đã học."
   },
@@ -3361,7 +3361,7 @@
     "w": "利用",
     "p": "lì yòng",
     "m": "sử dụng, tận dụng",
-    "cat": "hành动"
+    "cat": "verb"
   },
   {
     "w": "依托",
@@ -3375,13 +3375,13 @@
     "w": "依据",
     "p": "yī jù",
     "m": "căn cứ vào",
-    "cat": "hành动"
+    "cat": "verb"
   },
   {
     "w": "依赖",
     "p": "yī lài",
     "m": "phụ thuộc, dựa dẫm",
-    "cat": "hành動",
+    "cat": "verb",
     "example": "孩子不应该过度依赖父母。",
     "example_vi": "Trẻ em không nên quá phụ thuộc vào cha mẹ."
   },
@@ -3395,7 +3395,7 @@
     "w": "自主",
     "p": "zì zhǔ",
     "m": "tự chủ",
-    "cat": "tính从",
+    "cat": "adjective",
     "example": "公司拥有自主研发能力。",
     "example_vi": "Công ty có khả năng tự chủ nghiên cứu phát triển."
   },
@@ -3447,13 +3447,13 @@
     "w": "比较",
     "p": "bǐ jiào",
     "m": "so sánh",
-    "cat": "hành动"
+    "cat": "verb"
   },
   {
     "w": "对比",
     "p": "duì bǐ",
     "m": "đối chiếu, tương phản",
-    "cat": "hành动",
+    "cat": "verb",
     "example": "请对比一下这两个方案。",
     "example_vi": "Xin hãy đối chiếu hai phương án này."
   },
@@ -3461,7 +3461,7 @@
     "w": "区分",
     "p": "qū fēn",
     "m": "phân biệt",
-    "cat": "hành動",
+    "cat": "verb",
     "example": "请区分这两个概念。",
     "example_vi": "Xin hãy phân biệt hai khái niệm này."
   },
@@ -3541,7 +3541,7 @@
     "w": "依据",
     "p": "yī jù",
     "m": "căn cứ, cơ sở",
-    "cat": "học thuật"
+    "cat": "verb"
   },
   {
     "w": "前提",
@@ -4135,7 +4135,7 @@
     "w": "决策",
     "p": "jué cè",
     "m": "ra quyết định",
-    "cat": "hành动",
+    "cat": "verb",
     "example": "领导要做出正确的决策。",
     "example_vi": "Lãnh đạo phải đưa ra quyết định đúng đắn."
   },
@@ -4143,7 +4143,7 @@
     "w": "优先",
     "p": "yōu xiān",
     "m": "ưu tiên",
-    "cat": "hành动",
+    "cat": "verb",
     "example": "这个项目要优先处理。",
     "example_vi": "Dự án này phải được ưu tiên xử lý."
   },
@@ -4299,7 +4299,7 @@
     "w": "融合",
     "p": "róng hé",
     "m": "hòa nhập, hợp nhất, kết hợp, dung hợp, hội nhập",
-    "cat": "hành动"
+    "cat": "verb"
   },
   {
     "w": "影响力",
@@ -4585,7 +4585,7 @@
     "w": "报道",
     "p": "bào dào",
     "m": "đưa tin, phóng sự",
-    "cat": "hành动"
+    "cat": "verb"
   },
   {
     "w": "公众号",

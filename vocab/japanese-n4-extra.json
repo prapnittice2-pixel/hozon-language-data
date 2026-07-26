@@ -1,0 +1,1994 @@
+[
+  {
+    "w": "頑張る",
+    "p": "ganbaru",
+    "m": "cố gắng, nỗ lực",
+    "cat": "verb",
+    "ex": "試験に合格するために頑張ります。",
+    "exVi": "Tôi sẽ cố gắng để đậu kỳ thi."
+  },
+  {
+    "w": "間違える",
+    "p": "machigaeru",
+    "m": "nhầm lẫn, làm sai",
+    "cat": "verb",
+    "ex": "漢字の読み方を間違えました。",
+    "exVi": "Tôi đã đọc sai cách đọc chữ Hán."
+  },
+  {
+    "w": "決まる",
+    "p": "kimaru",
+    "m": "được quyết định",
+    "cat": "verb",
+    "ex": "旅行の日程がやっと決まりました。",
+    "exVi": "Lịch trình du lịch cuối cùng đã được quyết định."
+  },
+  {
+    "w": "止める",
+    "p": "tomeru",
+    "m": "dừng lại, ngăn chặn",
+    "cat": "verb",
+    "ex": "車をここで止めてください。",
+    "exVi": "Hãy dừng xe ở đây."
+  },
+  {
+    "w": "見つかる",
+    "p": "mitsukaru",
+    "m": "được tìm thấy",
+    "cat": "verb",
+    "ex": "なくした鍵がようやく見つかりました。",
+    "exVi": "Chiếc chìa khóa bị mất cuối cùng cũng được tìm thấy."
+  },
+  {
+    "w": "落とす",
+    "p": "otosu",
+    "m": "làm rơi",
+    "cat": "verb",
+    "ex": "財布を落としてしまいました。",
+    "exVi": "Tôi đã đánh rơi mất ví tiền."
+  },
+  {
+    "w": "拾う",
+    "p": "hirou",
+    "m": "nhặt lên",
+    "cat": "verb",
+    "ex": "道に落ちていたお金を拾いました。",
+    "exVi": "Tôi đã nhặt được tiền rơi trên đường."
+  },
+  {
+    "w": "包む",
+    "p": "tsutsumu",
+    "m": "gói, bọc",
+    "cat": "verb",
+    "ex": "プレゼントをきれいな紙で包みました。",
+    "exVi": "Tôi đã gói món quà bằng giấy đẹp."
+  },
+  {
+    "w": "折る",
+    "p": "oru",
+    "m": "bẻ gãy, gấp",
+    "cat": "verb",
+    "ex": "紙を半分に折ってください。",
+    "exVi": "Hãy gấp tờ giấy làm đôi."
+  },
+  {
+    "w": "割れる",
+    "p": "wareru",
+    "m": "bị vỡ",
+    "cat": "verb",
+    "ex": "コップが床に落ちて割れました。",
+    "exVi": "Cái cốc rơi xuống sàn và bị vỡ."
+  },
+  {
+    "w": "冷える",
+    "p": "hieru",
+    "m": "trở nên lạnh",
+    "cat": "verb",
+    "ex": "夜になると急に冷えますね。",
+    "exVi": "Cứ đến tối là trời lạnh đột ngột nhỉ."
+  },
+  {
+    "w": "温める",
+    "p": "atatameru",
+    "m": "hâm nóng, làm ấm",
+    "cat": "verb",
+    "ex": "スープを電子レンジで温めました。",
+    "exVi": "Tôi đã hâm nóng súp bằng lò vi sóng."
+  },
+  {
+    "w": "沸かす",
+    "p": "wakasu",
+    "m": "đun sôi",
+    "cat": "verb",
+    "ex": "やかんでお湯を沸かします。",
+    "exVi": "Tôi đun nước sôi bằng ấm."
+  },
+  {
+    "w": "混ぜる",
+    "p": "mazeru",
+    "m": "trộn, pha",
+    "cat": "verb",
+    "ex": "卵と砂糖をよく混ぜてください。",
+    "exVi": "Hãy trộn đều trứng và đường."
+  },
+  {
+    "w": "加える",
+    "p": "kuwaeru",
+    "m": "thêm vào",
+    "cat": "verb",
+    "ex": "スープに塩を少し加えました。",
+    "exVi": "Tôi đã thêm một chút muối vào súp."
+  },
+  {
+    "w": "通る",
+    "p": "tooru",
+    "m": "đi qua, đi ngang qua",
+    "cat": "verb",
+    "ex": "この道はいつも人がたくさん通ります。",
+    "exVi": "Con đường này lúc nào cũng có nhiều người đi qua."
+  },
+  {
+    "w": "渡る",
+    "p": "wataru",
+    "m": "băng qua, vượt qua",
+    "cat": "verb",
+    "ex": "信号が青になってから道を渡りましょう。",
+    "exVi": "Hãy băng qua đường sau khi đèn tín hiệu chuyển xanh."
+  },
+  {
+    "w": "亡くなる",
+    "p": "nakunaru",
+    "m": "qua đời",
+    "cat": "verb",
+    "ex": "祖父は去年の冬に亡くなりました。",
+    "exVi": "Ông tôi đã qua đời vào mùa đông năm ngoái."
+  },
+  {
+    "w": "引く",
+    "p": "hiku",
+    "m": "kéo, rút",
+    "cat": "verb",
+    "ex": "ドアを引いて開けてください。",
+    "exVi": "Hãy kéo cửa để mở."
+  },
+  {
+    "w": "支える",
+    "p": "sasaeru",
+    "m": "hỗ trợ, nâng đỡ",
+    "cat": "verb",
+    "ex": "家族がいつも私を支えてくれます。",
+    "exVi": "Gia đình luôn luôn nâng đỡ tôi."
+  },
+  {
+    "w": "倒す",
+    "p": "taosu",
+    "m": "đánh đổ, đánh bại",
+    "cat": "verb",
+    "ex": "相手のチームを倒して優勝しました。",
+    "exVi": "Chúng tôi đã đánh bại đội đối thủ và vô địch."
+  },
+  {
+    "w": "壊す",
+    "p": "kowasu",
+    "m": "làm hỏng, phá vỡ",
+    "cat": "verb",
+    "ex": "弟がおもちゃを壊してしまいました。",
+    "exVi": "Em trai tôi đã làm hỏng mất đồ chơi."
+  },
+  {
+    "w": "直る",
+    "p": "naoru",
+    "m": "được sửa xong",
+    "cat": "verb",
+    "ex": "壊れた時計がやっと直りました。",
+    "exVi": "Chiếc đồng hồ bị hỏng cuối cùng cũng được sửa xong."
+  },
+  {
+    "w": "治る",
+    "p": "naoru",
+    "m": "khỏi bệnh",
+    "cat": "verb",
+    "ex": "風邪はもうすっかり治りました。",
+    "exVi": "Cảm cúm đã khỏi hẳn rồi."
+  },
+  {
+    "w": "治す",
+    "p": "naosu",
+    "m": "chữa khỏi bệnh",
+    "cat": "verb",
+    "ex": "病院でしっかり病気を治しましょう。",
+    "exVi": "Hãy chữa khỏi bệnh thật kỹ ở bệnh viện."
+  },
+  {
+    "w": "眠る",
+    "p": "nemuru",
+    "m": "ngủ",
+    "cat": "verb",
+    "ex": "昨日はよく眠ることができませんでした。",
+    "exVi": "Hôm qua tôi đã không thể ngủ ngon."
+  },
+  {
+    "w": "起こす",
+    "p": "okosu",
+    "m": "đánh thức, gây ra",
+    "cat": "verb",
+    "ex": "明日の朝六時に起こしてください。",
+    "exVi": "Sáng mai hãy đánh thức tôi lúc sáu giờ."
+  },
+  {
+    "w": "急ぐ",
+    "p": "isogu",
+    "m": "vội vàng, gấp gáp",
+    "cat": "verb",
+    "ex": "遅れそうなので急ぎましょう。",
+    "exVi": "Có vẻ sẽ muộn nên chúng ta hãy đi nhanh lên."
+  },
+  {
+    "w": "慌てる",
+    "p": "awateru",
+    "m": "hoảng hốt, cuống quýt",
+    "cat": "verb",
+    "ex": "急なニュースに慌ててしまいました。",
+    "exVi": "Tôi đã hoảng hốt trước tin tức đột ngột."
+  },
+  {
+    "w": "喜ぶ",
+    "p": "yorokobu",
+    "m": "vui mừng",
+    "cat": "verb",
+    "ex": "合格の知らせを聞いて家族が喜びました。",
+    "exVi": "Gia đình đã vui mừng khi nghe tin đậu."
+  },
+  {
+    "w": "悲しむ",
+    "p": "kanashimu",
+    "m": "buồn bã, đau lòng",
+    "cat": "verb",
+    "ex": "ペットが死んで娘はとても悲しんでいます。",
+    "exVi": "Con gái tôi rất buồn vì thú cưng đã chết."
+  },
+  {
+    "w": "好む",
+    "p": "konomu",
+    "m": "ưa thích",
+    "cat": "verb",
+    "ex": "彼は静かな場所を好みます。",
+    "exVi": "Anh ấy ưa thích những nơi yên tĩnh."
+  },
+  {
+    "w": "褒める",
+    "p": "homeru",
+    "m": "khen ngợi",
+    "cat": "verb",
+    "ex": "先生が私の作文を褒めてくれました。",
+    "exVi": "Thầy giáo đã khen bài văn của tôi."
+  },
+  {
+    "w": "叱る",
+    "p": "shikaru",
+    "m": "la mắng, khiển trách",
+    "cat": "verb",
+    "ex": "遅刻して先生に叱られました。",
+    "exVi": "Tôi bị thầy giáo mắng vì đi trễ."
+  },
+  {
+    "w": "教わる",
+    "p": "osowaru",
+    "m": "được dạy, học từ (ai đó)",
+    "cat": "verb",
+    "ex": "日本語の先生に敬語を教わりました。",
+    "exVi": "Tôi đã được thầy giáo tiếng Nhật dạy cho kính ngữ."
+  },
+  {
+    "w": "気に入る",
+    "p": "ki ni iru",
+    "m": "vừa ý, ưng ý",
+    "cat": "verb",
+    "ex": "このデザインがとても気に入りました。",
+    "exVi": "Tôi rất ưng ý với thiết kế này."
+  },
+  {
+    "w": "触れる",
+    "p": "fureru",
+    "m": "chạm nhẹ, đề cập",
+    "cat": "verb",
+    "ex": "展示品には手を触れないでください。",
+    "exVi": "Xin đừng chạm tay vào hiện vật trưng bày."
+  },
+  {
+    "w": "乾かす",
+    "p": "kawakasu",
+    "m": "làm khô, sấy khô",
+    "cat": "verb",
+    "ex": "髪をドライヤーで乾かします。",
+    "exVi": "Tôi sấy khô tóc bằng máy sấy."
+  },
+  {
+    "w": "汚れる",
+    "p": "yogoreru",
+    "m": "bị bẩn",
+    "cat": "verb",
+    "ex": "靴が泥で汚れてしまいました。",
+    "exVi": "Đôi giày đã bị bẩn vì bùn đất."
+  },
+  {
+    "w": "汚す",
+    "p": "yogosu",
+    "m": "làm bẩn",
+    "cat": "verb",
+    "ex": "子供が服を絵の具で汚しました。",
+    "exVi": "Đứa trẻ đã làm bẩn quần áo bằng màu vẽ."
+  },
+  {
+    "w": "光る",
+    "p": "hikaru",
+    "m": "tỏa sáng, lấp lánh",
+    "cat": "verb",
+    "ex": "夜空に星が光っています。",
+    "exVi": "Những vì sao đang lấp lánh trên bầu trời đêm."
+  },
+  {
+    "w": "沈む",
+    "p": "shizumu",
+    "m": "chìm, lặn xuống",
+    "cat": "verb",
+    "ex": "太陽が海に沈んでいきます。",
+    "exVi": "Mặt trời đang lặn xuống biển."
+  },
+  {
+    "w": "浮かぶ",
+    "p": "ukabu",
+    "m": "nổi lên",
+    "cat": "verb",
+    "ex": "空に白い雲が浮かんでいます。",
+    "exVi": "Những đám mây trắng đang nổi trên bầu trời."
+  },
+  {
+    "w": "流れる",
+    "p": "nagareru",
+    "m": "chảy, trôi",
+    "cat": "verb",
+    "ex": "この川はとてもゆっくり流れています。",
+    "exVi": "Con sông này chảy rất chậm."
+  },
+  {
+    "w": "流す",
+    "p": "nagasu",
+    "m": "làm chảy, xả",
+    "cat": "verb",
+    "ex": "トイレの水を流してください。",
+    "exVi": "Hãy xả nước bồn cầu."
+  },
+  {
+    "w": "燃える",
+    "p": "moeru",
+    "m": "cháy",
+    "cat": "verb",
+    "ex": "山で火事が起きて木が燃えました。",
+    "exVi": "Đã xảy ra hỏa hoạn trên núi và cây cối bị cháy."
+  },
+  {
+    "w": "消える",
+    "p": "kieru",
+    "m": "biến mất, tắt",
+    "cat": "verb",
+    "ex": "急に電気が消えました。",
+    "exVi": "Đèn điện đột nhiên tắt phụt."
+  },
+  {
+    "w": "眺める",
+    "p": "nagameru",
+    "m": "ngắm nhìn",
+    "cat": "verb",
+    "ex": "窓から美しい景色を眺めました。",
+    "exVi": "Tôi đã ngắm nhìn phong cảnh đẹp từ cửa sổ."
+  },
+  {
+    "w": "見つめる",
+    "p": "mitsumeru",
+    "m": "nhìn chăm chú",
+    "cat": "verb",
+    "ex": "彼女は私の目をじっと見つめました。",
+    "exVi": "Cô ấy đã nhìn chăm chú vào mắt tôi."
+  },
+  {
+    "w": "誘う",
+    "p": "sasou",
+    "m": "rủ rê, mời",
+    "cat": "verb",
+    "ex": "友達を映画に誘いました。",
+    "exVi": "Tôi đã rủ bạn đi xem phim."
+  },
+  {
+    "w": "助ける",
+    "p": "tasukeru",
+    "m": "giúp đỡ, cứu giúp",
+    "cat": "verb",
+    "ex": "困っている人を助けたいです。",
+    "exVi": "Tôi muốn giúp đỡ những người đang gặp khó khăn."
+  },
+  {
+    "w": "守る",
+    "p": "mamoru",
+    "m": "bảo vệ, giữ gìn",
+    "cat": "verb",
+    "ex": "約束は必ず守ってください。",
+    "exVi": "Xin hãy luôn giữ đúng lời hứa."
+  },
+  {
+    "w": "貯める",
+    "p": "tameru",
+    "m": "tiết kiệm (tiền)",
+    "cat": "verb",
+    "ex": "留学のためにお金を貯めています。",
+    "exVi": "Tôi đang tiết kiệm tiền để đi du học."
+  },
+  {
+    "w": "キャンセルする",
+    "p": "kyanseru suru",
+    "m": "hủy bỏ",
+    "cat": "verb",
+    "ex": "予約をキャンセルしたいのですが。",
+    "exVi": "Tôi muốn hủy đặt chỗ."
+  },
+  {
+    "w": "延期する",
+    "p": "enki suru",
+    "m": "hoãn lại",
+    "cat": "verb",
+    "ex": "台風のため試合が延期されました。",
+    "exVi": "Trận đấu đã bị hoãn lại vì bão."
+  },
+  {
+    "w": "申し込む",
+    "p": "moushikomu",
+    "m": "đăng ký, xin",
+    "cat": "verb",
+    "ex": "日本語のコースに申し込みました。",
+    "exVi": "Tôi đã đăng ký khóa học tiếng Nhật."
+  },
+  {
+    "w": "記入する",
+    "p": "kinyuu suru",
+    "m": "điền vào (biểu mẫu)",
+    "cat": "verb",
+    "ex": "この用紙に名前と住所を記入してください。",
+    "exVi": "Hãy điền tên và địa chỉ vào tờ giấy này."
+  },
+  {
+    "w": "サインする",
+    "p": "sain suru",
+    "m": "ký tên",
+    "cat": "verb",
+    "ex": "ここにサインをお願いします。",
+    "exVi": "Xin hãy ký tên vào đây."
+  },
+  {
+    "w": "コピーする",
+    "p": "kopii suru",
+    "m": "photo, sao chép",
+    "cat": "verb",
+    "ex": "この書類を三枚コピーしてください。",
+    "exVi": "Hãy photo tài liệu này thành ba bản."
+  },
+  {
+    "w": "印刷する",
+    "p": "insatsu suru",
+    "m": "in ấn",
+    "cat": "verb",
+    "ex": "レポートを印刷してから提出します。",
+    "exVi": "Tôi sẽ in bài báo cáo ra rồi nộp."
+  },
+  {
+    "w": "保存する",
+    "p": "hozon suru",
+    "m": "lưu trữ, bảo quản",
+    "cat": "verb",
+    "ex": "大切なデータはパソコンに保存します。",
+    "exVi": "Tôi lưu trữ dữ liệu quan trọng vào máy tính."
+  },
+  {
+    "w": "削除する",
+    "p": "sakujo suru",
+    "m": "xóa bỏ",
+    "cat": "verb",
+    "ex": "間違えたファイルを削除しました。",
+    "exVi": "Tôi đã xóa tập tin bị nhầm."
+  },
+  {
+    "w": "更新する",
+    "p": "koushin suru",
+    "m": "cập nhật",
+    "cat": "verb",
+    "ex": "アプリを最新のバージョンに更新してください。",
+    "exVi": "Hãy cập nhật ứng dụng lên phiên bản mới nhất."
+  },
+  {
+    "w": "設定する",
+    "p": "settei suru",
+    "m": "cài đặt",
+    "cat": "verb",
+    "ex": "パスワードを新しく設定しました。",
+    "exVi": "Tôi đã cài đặt mật khẩu mới."
+  },
+  {
+    "w": "故障する",
+    "p": "koshou suru",
+    "m": "bị hỏng (máy móc)",
+    "cat": "verb",
+    "ex": "エアコンが故障して修理を頼みました。",
+    "exVi": "Máy điều hòa bị hỏng nên tôi đã nhờ sửa chữa."
+  },
+  {
+    "w": "動く",
+    "p": "ugoku",
+    "m": "hoạt động, di chuyển",
+    "cat": "verb",
+    "ex": "この機械はもう動きません。",
+    "exVi": "Cái máy này không còn hoạt động nữa."
+  },
+  {
+    "w": "結ぶ",
+    "p": "musubu",
+    "m": "buộc, thắt",
+    "cat": "verb",
+    "ex": "靴のひもをしっかり結びました。",
+    "exVi": "Tôi đã buộc chặt dây giày."
+  },
+  {
+    "w": "配る",
+    "p": "kubaru",
+    "m": "phân phát",
+    "cat": "verb",
+    "ex": "先生がテストの用紙を配りました。",
+    "exVi": "Thầy giáo đã phát tờ đề kiểm tra."
+  },
+  {
+    "w": "配達する",
+    "p": "haitatsu suru",
+    "m": "giao hàng",
+    "cat": "verb",
+    "ex": "このピザは三十分で配達します。",
+    "exVi": "Bánh pizza này sẽ được giao trong ba mươi phút."
+  },
+  {
+    "w": "積む",
+    "p": "tsumu",
+    "m": "chất, xếp chồng",
+    "cat": "verb",
+    "ex": "トラックに荷物を積みました。",
+    "exVi": "Tôi đã chất hàng hóa lên xe tải."
+  },
+  {
+    "w": "降ろす",
+    "p": "orosu",
+    "m": "hạ xuống, dỡ xuống",
+    "cat": "verb",
+    "ex": "荷物を車から降ろしてください。",
+    "exVi": "Hãy dỡ hàng hóa xuống từ xe."
+  },
+  {
+    "w": "話しかける",
+    "p": "hanashikakeru",
+    "m": "bắt chuyện",
+    "cat": "verb",
+    "ex": "知らない人に話しかけられました。",
+    "exVi": "Tôi đã bị một người lạ bắt chuyện."
+  },
+  {
+    "w": "追いかける",
+    "p": "oikakeru",
+    "m": "đuổi theo",
+    "cat": "verb",
+    "ex": "犬が猫を追いかけています。",
+    "exVi": "Con chó đang đuổi theo con mèo."
+  },
+  {
+    "w": "進む",
+    "p": "susumu",
+    "m": "tiến lên, tiến triển",
+    "cat": "verb",
+    "ex": "工事は予定通り進んでいます。",
+    "exVi": "Công trình đang tiến triển đúng như dự định."
+  },
+  {
+    "w": "戻す",
+    "p": "modosu",
+    "m": "trả lại, đưa về chỗ cũ",
+    "cat": "verb",
+    "ex": "使った本は棚に戻してください。",
+    "exVi": "Hãy đưa sách đã dùng về lại kệ."
+  },
+  {
+    "w": "近づく",
+    "p": "chikazuku",
+    "m": "đến gần",
+    "cat": "verb",
+    "ex": "台風が少しずつ近づいています。",
+    "exVi": "Cơn bão đang tiến đến gần dần dần."
+  },
+  {
+    "w": "離れる",
+    "p": "hanareru",
+    "m": "rời xa, cách xa",
+    "cat": "verb",
+    "ex": "十八歳で親元を離れました。",
+    "exVi": "Tôi đã rời xa cha mẹ khi mười tám tuổi."
+  },
+  {
+    "w": "増やす",
+    "p": "fuyasu",
+    "m": "làm tăng lên",
+    "cat": "verb",
+    "ex": "もっと単語の数を増やしたいです。",
+    "exVi": "Tôi muốn tăng thêm số lượng từ vựng."
+  },
+  {
+    "w": "減らす",
+    "p": "herasu",
+    "m": "làm giảm bớt",
+    "cat": "verb",
+    "ex": "塩の量を少し減らしましょう。",
+    "exVi": "Hãy giảm bớt một chút lượng muối."
+  },
+  {
+    "w": "登る",
+    "p": "noboru",
+    "m": "trèo lên, leo lên",
+    "cat": "verb",
+    "ex": "週末に富士山に登る予定です。",
+    "exVi": "Cuối tuần tôi có kế hoạch leo núi Phú Sĩ."
+  },
+  {
+    "w": "届く",
+    "p": "todoku",
+    "m": "đến nơi, được giao tới",
+    "cat": "verb",
+    "ex": "注文した本がやっと届きました。",
+    "exVi": "Cuốn sách đã đặt cuối cùng cũng được giao tới."
+  },
+  {
+    "w": "伝わる",
+    "p": "tsutawaru",
+    "m": "được truyền đạt",
+    "cat": "verb",
+    "ex": "私の気持ちが彼にちゃんと伝わりました。",
+    "exVi": "Cảm xúc của tôi đã được truyền đạt đến anh ấy một cách trọn vẹn."
+  },
+  {
+    "w": "集まる",
+    "p": "atsumaru",
+    "m": "tụ họp",
+    "cat": "verb",
+    "ex": "毎週土曜日にクラブのメンバーが集まります。",
+    "exVi": "Thành viên câu lạc bộ tụ họp vào mỗi thứ Bảy hàng tuần."
+  },
+  {
+    "w": "変わる",
+    "p": "kawaru",
+    "m": "thay đổi (tự động)",
+    "cat": "verb",
+    "ex": "彼は昔とずいぶん変わりましたね。",
+    "exVi": "Anh ấy đã thay đổi khá nhiều so với trước kia nhỉ."
+  },
+  {
+    "w": "太い",
+    "p": "futoi",
+    "m": "to, dày (que, ống)",
+    "cat": "adjective",
+    "ex": "この木の幹はとても太いです。",
+    "exVi": "Thân cây này rất to."
+  },
+  {
+    "w": "細い",
+    "p": "hosoi",
+    "m": "mảnh, nhỏ, gầy",
+    "cat": "adjective",
+    "ex": "彼女は腕がとても細いです。",
+    "exVi": "Cánh tay của cô ấy rất mảnh."
+  },
+  {
+    "w": "丁寧",
+    "p": "teinei",
+    "m": "lịch sự, tỉ mỉ",
+    "cat": "adjective",
+    "ex": "店員は丁寧に説明してくれました。",
+    "exVi": "Nhân viên cửa hàng đã giải thích một cách tỉ mỉ."
+  },
+  {
+    "w": "熱心",
+    "p": "nesshin",
+    "m": "nhiệt tình, hăng hái",
+    "cat": "adjective",
+    "ex": "彼は仕事にとても熱心です。",
+    "exVi": "Anh ấy rất nhiệt tình với công việc."
+  },
+  {
+    "w": "素直",
+    "p": "sunao",
+    "m": "ngoan ngoãn, thật thà",
+    "cat": "adjective",
+    "ex": "あの子はいつも素直に返事をします。",
+    "exVi": "Đứa trẻ đó lúc nào cũng trả lời một cách thật thà."
+  },
+  {
+    "w": "素敵",
+    "p": "suteki",
+    "m": "tuyệt vời, xinh đẹp",
+    "cat": "adjective",
+    "ex": "素敵なプレゼントをありがとうございます。",
+    "exVi": "Cảm ơn bạn vì món quà tuyệt vời."
+  },
+  {
+    "w": "立派",
+    "p": "rippa",
+    "m": "tráng lệ, xuất sắc",
+    "cat": "adjective",
+    "ex": "立派な建物ですね。",
+    "exVi": "Tòa nhà thật tráng lệ nhỉ."
+  },
+  {
+    "w": "得意",
+    "p": "tokui",
+    "m": "sở trường, giỏi về",
+    "cat": "adjective",
+    "ex": "私は数学が得意です。",
+    "exVi": "Tôi giỏi về môn toán."
+  },
+  {
+    "w": "苦手",
+    "p": "nigate",
+    "m": "không giỏi, sợ (việc gì)",
+    "cat": "adjective",
+    "ex": "私は運転が苦手です。",
+    "exVi": "Tôi không giỏi lái xe."
+  },
+  {
+    "w": "平気",
+    "p": "heiki",
+    "m": "bình thản, không bận tâm",
+    "cat": "adjective",
+    "ex": "一人で旅行しても平気です。",
+    "exVi": "Dù đi du lịch một mình tôi cũng không sao."
+  },
+  {
+    "w": "不安",
+    "p": "fuan",
+    "m": "bất an, lo lắng",
+    "cat": "adjective",
+    "ex": "将来のことがちょっと不安です。",
+    "exVi": "Tôi hơi lo lắng về tương lai."
+  },
+  {
+    "w": "邪魔",
+    "p": "jama",
+    "m": "cản trở, làm phiền",
+    "cat": "adjective",
+    "ex": "すみません、お邪魔します。",
+    "exVi": "Xin lỗi, tôi xin phép làm phiền."
+  },
+  {
+    "w": "無理",
+    "p": "muri",
+    "m": "vô lý, không thể, quá sức",
+    "cat": "adjective",
+    "ex": "今日中に終わらせるのは無理です。",
+    "exVi": "Không thể nào hoàn thành trong hôm nay được."
+  },
+  {
+    "w": "適当",
+    "p": "tekitou",
+    "m": "thích hợp, qua loa",
+    "cat": "adjective",
+    "ex": "適当な場所で休みましょう。",
+    "exVi": "Hãy nghỉ ngơi ở một nơi thích hợp."
+  },
+  {
+    "w": "意外",
+    "p": "igai",
+    "m": "bất ngờ, ngoài dự kiến",
+    "cat": "adjective",
+    "ex": "彼の答えは意外でした。",
+    "exVi": "Câu trả lời của anh ấy thật bất ngờ."
+  },
+  {
+    "w": "経済的",
+    "p": "keizaiteki",
+    "m": "tiết kiệm, có tính kinh tế",
+    "cat": "adjective",
+    "ex": "バスは電車より経済的です。",
+    "exVi": "Xe buýt tiết kiệm hơn tàu điện."
+  },
+  {
+    "w": "幸せ",
+    "p": "shiawase",
+    "m": "hạnh phúc",
+    "cat": "adjective",
+    "ex": "家族と一緒にいると幸せです。",
+    "exVi": "Tôi cảm thấy hạnh phúc khi ở bên gia đình."
+  },
+  {
+    "w": "残念",
+    "p": "zannen",
+    "m": "đáng tiếc",
+    "cat": "adjective",
+    "ex": "旅行に行けなくて残念です。",
+    "exVi": "Thật đáng tiếc vì không thể đi du lịch."
+  },
+  {
+    "w": "面倒",
+    "p": "mendou",
+    "m": "phiền phức, rắc rối",
+    "cat": "adjective",
+    "ex": "手続きが面倒で時間がかかりました。",
+    "exVi": "Thủ tục phiền phức nên đã mất nhiều thời gian."
+  },
+  {
+    "w": "面倒くさい",
+    "p": "mendokusai",
+    "m": "phiền toái, ngại làm",
+    "cat": "adjective",
+    "ex": "掃除するのが面倒くさいです。",
+    "exVi": "Việc dọn dẹp thật ngại làm."
+  },
+  {
+    "w": "重要",
+    "p": "juuyou",
+    "m": "quan trọng",
+    "cat": "adjective",
+    "ex": "これはとても重要な会議です。",
+    "exVi": "Đây là một cuộc họp rất quan trọng."
+  },
+  {
+    "w": "厳しい",
+    "p": "kibishii",
+    "m": "nghiêm khắc",
+    "cat": "adjective",
+    "ex": "父はしつけにとても厳しいです。",
+    "exVi": "Bố tôi rất nghiêm khắc trong việc dạy dỗ."
+  },
+  {
+    "w": "細かい",
+    "p": "komakai",
+    "m": "chi tiết, nhỏ nhặt",
+    "cat": "adjective",
+    "ex": "細かいことまで説明してくれました。",
+    "exVi": "Anh ấy đã giải thích cho tôi đến cả những điều nhỏ nhặt."
+  },
+  {
+    "w": "確か",
+    "p": "tashika",
+    "m": "chắc chắn, hình như",
+    "cat": "adjective",
+    "ex": "確かこの店は九時に開きます。",
+    "exVi": "Hình như cửa hàng này mở cửa lúc chín giờ."
+  },
+  {
+    "w": "温かい",
+    "p": "atatakai",
+    "m": "ấm áp (tình cảm, đồ vật)",
+    "cat": "adjective",
+    "ex": "家族の温かい言葉に励まされました。",
+    "exVi": "Tôi được động viên bởi những lời nói ấm áp của gia đình."
+  },
+  {
+    "w": "冷たい",
+    "p": "tsumetai",
+    "m": "lạnh (đồ vật, thái độ)",
+    "cat": "adjective",
+    "ex": "夏は冷たい飲み物がおいしいです。",
+    "exVi": "Mùa hè, đồ uống lạnh rất ngon."
+  },
+  {
+    "w": "怖い",
+    "p": "kowai",
+    "m": "đáng sợ, sợ hãi",
+    "cat": "adjective",
+    "ex": "一人で暗い道を歩くのは怖いです。",
+    "exVi": "Đi bộ một mình trên con đường tối thật đáng sợ."
+  },
+  {
+    "w": "すごい",
+    "p": "sugoi",
+    "m": "tuyệt vời, kinh khủng",
+    "cat": "adjective",
+    "ex": "このゲームはすごく面白いです。",
+    "exVi": "Trò chơi này thú vị kinh khủng."
+  },
+  {
+    "w": "素晴らしい",
+    "p": "subarashii",
+    "m": "tuyệt vời, xuất sắc",
+    "cat": "adjective",
+    "ex": "素晴らしい演奏をありがとうございました。",
+    "exVi": "Cảm ơn bạn vì màn biểu diễn tuyệt vời."
+  },
+  {
+    "w": "派手",
+    "p": "hade",
+    "m": "sặc sỡ, lòe loẹt",
+    "cat": "adjective",
+    "ex": "そのドレスはちょっと派手ですね。",
+    "exVi": "Chiếc váy đó hơi sặc sỡ nhỉ."
+  },
+  {
+    "w": "地味",
+    "p": "jimi",
+    "m": "giản dị, kín đáo",
+    "cat": "adjective",
+    "ex": "彼はいつも地味な服を着ています。",
+    "exVi": "Anh ấy lúc nào cũng mặc quần áo giản dị."
+  },
+  {
+    "w": "のんびり",
+    "p": "nonbiri",
+    "m": "thong thả, ung dung",
+    "cat": "adjective",
+    "ex": "休みの日はのんびり過ごしたいです。",
+    "exVi": "Vào ngày nghỉ tôi muốn được sống thong thả."
+  },
+  {
+    "w": "もったいない",
+    "p": "mottainai",
+    "m": "lãng phí, đáng tiếc (bỏ phí)",
+    "cat": "adjective",
+    "ex": "まだ使えるのに捨てるのはもったいないです。",
+    "exVi": "Vẫn còn dùng được mà vứt đi thì thật lãng phí."
+  },
+  {
+    "w": "損する",
+    "p": "son suru",
+    "m": "bị lỗ, thiệt thòi",
+    "cat": "verb",
+    "ex": "安物を買って結局損しました。",
+    "exVi": "Tôi đã mua đồ rẻ tiền và cuối cùng bị lỗ."
+  },
+  {
+    "w": "お得",
+    "p": "otoku",
+    "m": "hời, có lợi",
+    "cat": "adjective",
+    "ex": "このセットはお得な価格です。",
+    "exVi": "Bộ sản phẩm này có giá rất hời."
+  },
+  {
+    "w": "間違い",
+    "p": "machigai",
+    "m": "sai lầm, lỗi",
+    "cat": "noun",
+    "ex": "私の間違いを許してください。",
+    "exVi": "Xin hãy tha thứ cho lỗi lầm của tôi."
+  },
+  {
+    "w": "教科書",
+    "p": "kyoukasho",
+    "m": "sách giáo khoa",
+    "cat": "school",
+    "ex": "教科書の三十ページを開いてください。",
+    "exVi": "Hãy mở sách giáo khoa trang ba mươi."
+  },
+  {
+    "w": "文法",
+    "p": "bunpou",
+    "m": "ngữ pháp",
+    "cat": "school",
+    "ex": "日本語の文法は難しいと思います。",
+    "exVi": "Tôi nghĩ ngữ pháp tiếng Nhật khó."
+  },
+  {
+    "w": "発音",
+    "p": "hatsuon",
+    "m": "phát âm",
+    "cat": "school",
+    "ex": "先生の発音はとてもきれいです。",
+    "exVi": "Cách phát âm của thầy giáo rất chuẩn."
+  },
+  {
+    "w": "クラスメート",
+    "p": "kurasumeeto",
+    "m": "bạn cùng lớp",
+    "cat": "school",
+    "ex": "クラスメートと一緒に宿題をしました。",
+    "exVi": "Tôi đã làm bài tập cùng với bạn cùng lớp."
+  },
+  {
+    "w": "先輩",
+    "p": "senpai",
+    "m": "tiền bối, đàn anh chị",
+    "cat": "school",
+    "ex": "大学の先輩にアドバイスをもらいました。",
+    "exVi": "Tôi đã nhận được lời khuyên từ đàn anh ở đại học."
+  },
+  {
+    "w": "後輩",
+    "p": "kouhai",
+    "m": "hậu bối, đàn em",
+    "cat": "school",
+    "ex": "後輩にサッカーを教えています。",
+    "exVi": "Tôi đang dạy bóng đá cho đàn em."
+  },
+  {
+    "w": "専攻する",
+    "p": "senkou suru",
+    "m": "học chuyên ngành",
+    "cat": "school",
+    "ex": "大学で経済学を専攻しています。",
+    "exVi": "Tôi đang học chuyên ngành kinh tế học ở đại học."
+  },
+  {
+    "w": "レポート",
+    "p": "repooto",
+    "m": "bài báo cáo, tiểu luận",
+    "cat": "school",
+    "ex": "来週までにレポートを出さなければなりません。",
+    "exVi": "Tôi phải nộp bài báo cáo trước tuần sau."
+  },
+  {
+    "w": "黒板",
+    "p": "kokuban",
+    "m": "bảng đen",
+    "cat": "school",
+    "ex": "先生が黒板に単語を書きました。",
+    "exVi": "Thầy giáo đã viết từ vựng lên bảng đen."
+  },
+  {
+    "w": "部活",
+    "p": "bukatsu",
+    "m": "hoạt động câu lạc bộ (trường học)",
+    "cat": "school",
+    "ex": "高校のとき、テニス部の部活に入っていました。",
+    "exVi": "Hồi cấp ba, tôi đã tham gia hoạt động câu lạc bộ quần vợt."
+  },
+  {
+    "w": "塾",
+    "p": "juku",
+    "m": "trung tâm luyện thi, lớp học thêm",
+    "cat": "school",
+    "ex": "息子は毎週火曜日に塾へ通っています。",
+    "exVi": "Con trai tôi đi học thêm vào mỗi thứ Ba hàng tuần."
+  },
+  {
+    "w": "予習する",
+    "p": "yoshuu suru",
+    "m": "học bài trước",
+    "cat": "school",
+    "ex": "授業の前に必ず予習します。",
+    "exVi": "Trước giờ học tôi luôn học bài trước."
+  },
+  {
+    "w": "復習する",
+    "p": "fukushuu suru",
+    "m": "ôn tập lại",
+    "cat": "school",
+    "ex": "試験の前に習ったことを復習しました。",
+    "exVi": "Trước kỳ thi tôi đã ôn tập lại những gì đã học."
+  },
+  {
+    "w": "入試",
+    "p": "nyuushi",
+    "m": "kỳ thi tuyển sinh",
+    "cat": "school",
+    "ex": "来年、大学の入試を受けます。",
+    "exVi": "Sang năm tôi sẽ tham dự kỳ thi tuyển sinh đại học."
+  },
+  {
+    "w": "制服",
+    "p": "seifuku",
+    "m": "đồng phục",
+    "cat": "school",
+    "ex": "この学校の制服は白いシャツと黒いズボンです。",
+    "exVi": "Đồng phục của trường này là áo sơ mi trắng và quần đen."
+  },
+  {
+    "w": "出張",
+    "p": "shucchou",
+    "m": "đi công tác",
+    "cat": "work",
+    "ex": "来週から大阪へ出張します。",
+    "exVi": "Tuần sau tôi sẽ đi công tác đến Osaka."
+  },
+  {
+    "w": "残業する",
+    "p": "zangyou suru",
+    "m": "làm thêm giờ",
+    "cat": "work",
+    "ex": "昨日は夜十時まで残業しました。",
+    "exVi": "Hôm qua tôi đã làm thêm giờ đến mười giờ tối."
+  },
+  {
+    "w": "休暇",
+    "p": "kyuuka",
+    "m": "kỳ nghỉ phép",
+    "cat": "work",
+    "ex": "来月一週間の休暇を取る予定です。",
+    "exVi": "Tháng sau tôi dự định xin nghỉ phép một tuần."
+  },
+  {
+    "w": "契約する",
+    "p": "keiyaku suru",
+    "m": "ký hợp đồng",
+    "cat": "work",
+    "ex": "新しい会社と契約することになりました。",
+    "exVi": "Tôi đã quyết định ký hợp đồng với công ty mới."
+  },
+  {
+    "w": "ボーナス",
+    "p": "bonasu",
+    "m": "tiền thưởng",
+    "cat": "work",
+    "ex": "今年の夏、ボーナスをもらいました。",
+    "exVi": "Mùa hè năm nay tôi đã nhận được tiền thưởng."
+  },
+  {
+    "w": "昇進する",
+    "p": "shoushin suru",
+    "m": "thăng chức",
+    "cat": "work",
+    "ex": "頑張ったので課長に昇進しました。",
+    "exVi": "Vì đã cố gắng nên tôi đã được thăng chức lên trưởng ban."
+  },
+  {
+    "w": "転勤する",
+    "p": "tenkin suru",
+    "m": "chuyển công tác",
+    "cat": "work",
+    "ex": "来月、東京の支社に転勤します。",
+    "exVi": "Tháng sau tôi sẽ chuyển công tác đến chi nhánh Tokyo."
+  },
+  {
+    "w": "部長",
+    "p": "buchou",
+    "m": "trưởng phòng",
+    "cat": "work",
+    "ex": "部長に企画書を見せました。",
+    "exVi": "Tôi đã cho trưởng phòng xem bản kế hoạch."
+  },
+  {
+    "w": "社長",
+    "p": "shachou",
+    "m": "giám đốc công ty",
+    "cat": "work",
+    "ex": "社長は毎朝七時に出社します。",
+    "exVi": "Giám đốc đến công ty lúc bảy giờ sáng mỗi ngày."
+  },
+  {
+    "w": "アルバイト",
+    "p": "arubaito",
+    "m": "việc làm thêm",
+    "cat": "work",
+    "ex": "大学生のとき、カフェでアルバイトをしていました。",
+    "exVi": "Hồi là sinh viên đại học, tôi đã làm thêm ở quán cà phê."
+  },
+  {
+    "w": "正社員",
+    "p": "seishain",
+    "m": "nhân viên chính thức",
+    "cat": "work",
+    "ex": "来年から正社員として働きます。",
+    "exVi": "Từ sang năm tôi sẽ làm việc với tư cách nhân viên chính thức."
+  },
+  {
+    "w": "体温",
+    "p": "taion",
+    "m": "thân nhiệt",
+    "cat": "health",
+    "ex": "毎朝、体温を測っています。",
+    "exVi": "Mỗi sáng tôi đều đo thân nhiệt."
+  },
+  {
+    "w": "体重",
+    "p": "taijuu",
+    "m": "cân nặng",
+    "cat": "health",
+    "ex": "運動を始めてから体重が減りました。",
+    "exVi": "Từ khi bắt đầu tập thể dục, cân nặng của tôi đã giảm."
+  },
+  {
+    "w": "身長",
+    "p": "shinchou",
+    "m": "chiều cao",
+    "cat": "health",
+    "ex": "息子の身長は父親より高くなりました。",
+    "exVi": "Chiều cao của con trai tôi đã cao hơn cha rồi."
+  },
+  {
+    "w": "検査する",
+    "p": "kensa suru",
+    "m": "kiểm tra (y tế)",
+    "cat": "health",
+    "ex": "病院で目を検査してもらいました。",
+    "exVi": "Tôi đã được kiểm tra mắt ở bệnh viện."
+  },
+  {
+    "w": "手術する",
+    "p": "shujutsu suru",
+    "m": "phẫu thuật",
+    "cat": "health",
+    "ex": "来週、足の手術をすることになりました。",
+    "exVi": "Tuần sau tôi sẽ phải phẫu thuật chân."
+  },
+  {
+    "w": "入院する",
+    "p": "nyuuin suru",
+    "m": "nhập viện",
+    "cat": "health",
+    "ex": "祖母は先週から入院しています。",
+    "exVi": "Bà tôi đã nhập viện từ tuần trước."
+  },
+  {
+    "w": "退院する",
+    "p": "taiin suru",
+    "m": "xuất viện",
+    "cat": "health",
+    "ex": "来週の月曜日に退院できるそうです。",
+    "exVi": "Nghe nói tôi có thể xuất viện vào thứ Hai tuần sau."
+  },
+  {
+    "w": "症状",
+    "p": "shoujou",
+    "m": "triệu chứng",
+    "cat": "health",
+    "ex": "どんな症状がありますか。",
+    "exVi": "Bạn có triệu chứng như thế nào?"
+  },
+  {
+    "w": "予防する",
+    "p": "yobou suru",
+    "m": "phòng ngừa",
+    "cat": "health",
+    "ex": "手を洗って病気を予防しましょう。",
+    "exVi": "Hãy rửa tay để phòng ngừa bệnh tật."
+  },
+  {
+    "w": "体調",
+    "p": "taichou",
+    "m": "tình trạng sức khỏe",
+    "cat": "health",
+    "ex": "今日は体調があまりよくありません。",
+    "exVi": "Hôm nay tình trạng sức khỏe của tôi không được tốt lắm."
+  },
+  {
+    "w": "歯医者",
+    "p": "haisha",
+    "m": "nha sĩ",
+    "cat": "health",
+    "ex": "歯が痛くて歯医者に行きました。",
+    "exVi": "Tôi bị đau răng nên đã đi khám nha sĩ."
+  },
+  {
+    "w": "クローゼット",
+    "p": "kuroozetto",
+    "m": "tủ quần áo",
+    "cat": "household",
+    "ex": "冬の服はクローゼットにしまいました。",
+    "exVi": "Tôi đã cất quần áo mùa đông vào tủ quần áo."
+  },
+  {
+    "w": "ゴミ箱",
+    "p": "gomibako",
+    "m": "thùng rác",
+    "cat": "household",
+    "ex": "紙くずをゴミ箱に捨ててください。",
+    "exVi": "Hãy vứt giấy vụn vào thùng rác."
+  },
+  {
+    "w": "スイッチ",
+    "p": "suicchi",
+    "m": "công tắc",
+    "cat": "household",
+    "ex": "電気のスイッチはどこにありますか。",
+    "exVi": "Công tắc đèn ở đâu vậy?"
+  },
+  {
+    "w": "コンセント",
+    "p": "konsento",
+    "m": "ổ cắm điện",
+    "cat": "household",
+    "ex": "このコンセントは使えません。",
+    "exVi": "Ổ cắm điện này không dùng được."
+  },
+  {
+    "w": "玄関",
+    "p": "genkan",
+    "m": "lối vào nhà (chỗ để giày)",
+    "cat": "home",
+    "ex": "玄関で靴を脱いでください。",
+    "exVi": "Hãy cởi giày ở lối vào nhà."
+  },
+  {
+    "w": "廊下",
+    "p": "rouka",
+    "m": "hành lang",
+    "cat": "home",
+    "ex": "廊下を走らないでください。",
+    "exVi": "Xin đừng chạy trong hành lang."
+  },
+  {
+    "w": "味噌汁",
+    "p": "misoshiru",
+    "m": "súp miso",
+    "cat": "food",
+    "ex": "朝ごはんに味噌汁を飲みます。",
+    "exVi": "Tôi uống súp miso vào bữa sáng."
+  },
+  {
+    "w": "醤油",
+    "p": "shouyu",
+    "m": "nước tương",
+    "cat": "food",
+    "ex": "お寿司には醤油をつけて食べます。",
+    "exVi": "Sushi được ăn kèm với nước tương."
+  },
+  {
+    "w": "油",
+    "p": "abura",
+    "m": "dầu ăn",
+    "cat": "food",
+    "ex": "フライパンに油を入れて野菜を炒めます。",
+    "exVi": "Tôi cho dầu vào chảo rồi xào rau."
+  },
+  {
+    "w": "うどん",
+    "p": "udon",
+    "m": "mì udon",
+    "cat": "food",
+    "ex": "寒い日はあたたかいうどんが食べたいです。",
+    "exVi": "Ngày lạnh tôi muốn ăn mì udon nóng."
+  },
+  {
+    "w": "そば",
+    "p": "soba",
+    "m": "mì soba",
+    "cat": "food",
+    "ex": "お昼にそばを食べに行きましょう。",
+    "exVi": "Hãy đi ăn mì soba vào buổi trưa."
+  },
+  {
+    "w": "おにぎり",
+    "p": "onigiri",
+    "m": "cơm nắm",
+    "cat": "food",
+    "ex": "コンビニでおにぎりを買いました。",
+    "exVi": "Tôi đã mua cơm nắm ở cửa hàng tiện lợi."
+  },
+  {
+    "w": "おかわり",
+    "p": "okawari",
+    "m": "ăn/uống thêm phần",
+    "cat": "food",
+    "ex": "ご飯のおかわりをお願いします。",
+    "exVi": "Cho tôi xin thêm cơm."
+  },
+  {
+    "w": "味見する",
+    "p": "ajimi suru",
+    "m": "nếm thử",
+    "cat": "cooking",
+    "ex": "味が薄いかどうか味見してください。",
+    "exVi": "Hãy nếm thử xem vị có nhạt không."
+  },
+  {
+    "w": "冷ます",
+    "p": "samasu",
+    "m": "làm nguội",
+    "cat": "cooking",
+    "ex": "熱いスープを少し冷ましてから飲みます。",
+    "exVi": "Tôi để súp nóng nguội bớt rồi mới uống."
+  },
+  {
+    "w": "むく",
+    "p": "muku",
+    "m": "gọt vỏ",
+    "cat": "cooking",
+    "ex": "りんごの皮をむいてください。",
+    "exVi": "Hãy gọt vỏ táo."
+  },
+  {
+    "w": "刻む",
+    "p": "kizamu",
+    "m": "băm nhỏ, thái nhỏ",
+    "cat": "cooking",
+    "ex": "にんにくを細かく刻みます。",
+    "exVi": "Tôi băm nhỏ tỏi."
+  },
+  {
+    "w": "炒める",
+    "p": "itameru",
+    "m": "xào",
+    "cat": "cooking",
+    "ex": "肉と野菜を一緒に炒めます。",
+    "exVi": "Tôi xào thịt cùng với rau."
+  },
+  {
+    "w": "島",
+    "p": "shima",
+    "m": "đảo",
+    "cat": "nature",
+    "ex": "沖縄にはきれいな島がたくさんあります。",
+    "exVi": "Ở Okinawa có rất nhiều hòn đảo đẹp."
+  },
+  {
+    "w": "波",
+    "p": "nami",
+    "m": "sóng biển",
+    "cat": "nature",
+    "ex": "今日は波が高いので泳がないでください。",
+    "exVi": "Hôm nay sóng cao nên xin đừng bơi."
+  },
+  {
+    "w": "氷",
+    "p": "koori",
+    "m": "băng, đá",
+    "cat": "nature",
+    "ex": "飲み物に氷を入れましょうか。",
+    "exVi": "Tôi cho đá vào đồ uống nhé?"
+  },
+  {
+    "w": "蒸し暑い",
+    "p": "mushiatsui",
+    "m": "oi bức",
+    "cat": "weather",
+    "ex": "夏の日本はとても蒸し暑いです。",
+    "exVi": "Mùa hè ở Nhật rất oi bức."
+  },
+  {
+    "w": "梅雨",
+    "p": "tsuyu",
+    "m": "mùa mưa (Nhật Bản)",
+    "cat": "weather",
+    "ex": "六月は梅雨で雨がよく降ります。",
+    "exVi": "Tháng Sáu là mùa mưa nên trời hay mưa."
+  },
+  {
+    "w": "大雨",
+    "p": "ooame",
+    "m": "mưa lớn",
+    "cat": "weather",
+    "ex": "大雨のため電車が止まりました。",
+    "exVi": "Tàu điện đã dừng chạy vì mưa lớn."
+  },
+  {
+    "w": "大雪",
+    "p": "ooyuki",
+    "m": "tuyết lớn",
+    "cat": "weather",
+    "ex": "昨夜の大雪で道が真っ白になりました。",
+    "exVi": "Con đường đã trở nên trắng xóa vì trận tuyết lớn đêm qua."
+  },
+  {
+    "w": "植える",
+    "p": "ueru",
+    "m": "trồng (cây)",
+    "cat": "nature",
+    "ex": "庭に花の種を植えました。",
+    "exVi": "Tôi đã trồng hạt giống hoa trong vườn."
+  },
+  {
+    "w": "咲く",
+    "p": "saku",
+    "m": "nở hoa",
+    "cat": "nature",
+    "ex": "春になると桜が咲きます。",
+    "exVi": "Khi vào xuân hoa anh đào sẽ nở."
+  },
+  {
+    "w": "枯れる",
+    "p": "kareru",
+    "m": "héo, khô héo",
+    "cat": "nature",
+    "ex": "水をやらなかったので花が枯れました。",
+    "exVi": "Vì không tưới nước nên hoa đã héo."
+  },
+  {
+    "w": "犬",
+    "p": "inu",
+    "m": "chó",
+    "cat": "animal",
+    "ex": "毎朝、犬と一緒に散歩します。",
+    "exVi": "Mỗi sáng tôi đi dạo cùng với con chó."
+  },
+  {
+    "w": "猫",
+    "p": "neko",
+    "m": "mèo",
+    "cat": "animal",
+    "ex": "猫が窓の前で寝ています。",
+    "exVi": "Con mèo đang ngủ trước cửa sổ."
+  },
+  {
+    "w": "鳥",
+    "p": "tori",
+    "m": "chim",
+    "cat": "animal",
+    "ex": "公園の木に鳥がたくさんいます。",
+    "exVi": "Có rất nhiều chim trên cây trong công viên."
+  },
+  {
+    "w": "象",
+    "p": "zou",
+    "m": "voi",
+    "cat": "animal",
+    "ex": "動物園で象を見ました。",
+    "exVi": "Tôi đã xem voi ở sở thú."
+  },
+  {
+    "w": "虫",
+    "p": "mushi",
+    "m": "côn trùng",
+    "cat": "animal",
+    "ex": "夏になると虫が増えます。",
+    "exVi": "Đến mùa hè thì côn trùng tăng lên nhiều."
+  },
+  {
+    "w": "片道",
+    "p": "katamichi",
+    "m": "một chiều (vé)",
+    "cat": "travel",
+    "ex": "東京までの片道切符を買いました。",
+    "exVi": "Tôi đã mua vé một chiều đến Tokyo."
+  },
+  {
+    "w": "往復",
+    "p": "oufuku",
+    "m": "khứ hồi",
+    "cat": "travel",
+    "ex": "大阪までの往復チケットをお願いします。",
+    "exVi": "Cho tôi vé khứ hồi đến Osaka."
+  },
+  {
+    "w": "通勤する",
+    "p": "tsuukin suru",
+    "m": "đi làm (đi lại hàng ngày)",
+    "cat": "transportation",
+    "ex": "電車で会社まで通勤しています。",
+    "exVi": "Tôi đi làm đến công ty bằng tàu điện."
+  },
+  {
+    "w": "渋滞",
+    "p": "juutai",
+    "m": "kẹt xe, tắc đường",
+    "cat": "transportation",
+    "ex": "今朝は道路がひどい渋滞でした。",
+    "exVi": "Sáng nay đường xá bị tắc nghẽn nghiêm trọng."
+  },
+  {
+    "w": "高速道路",
+    "p": "kousoku douro",
+    "m": "đường cao tốc",
+    "cat": "transportation",
+    "ex": "高速道路を使えば二時間で着きます。",
+    "exVi": "Nếu đi đường cao tốc thì hai tiếng sẽ đến nơi."
+  },
+  {
+    "w": "免許",
+    "p": "menkyo",
+    "m": "bằng lái, giấy phép",
+    "cat": "transportation",
+    "ex": "先月、車の免許を取りました。",
+    "exVi": "Tháng trước tôi đã lấy được bằng lái xe ô tô."
+  },
+  {
+    "w": "満員",
+    "p": "man'in",
+    "m": "đầy người, chật kín",
+    "cat": "transportation",
+    "ex": "朝の電車はいつも満員です。",
+    "exVi": "Tàu điện buổi sáng lúc nào cũng chật kín người."
+  },
+  {
+    "w": "忘れ物",
+    "p": "wasuremono",
+    "m": "đồ bỏ quên",
+    "cat": "travel",
+    "ex": "電車に忘れ物をしてしまいました。",
+    "exVi": "Tôi đã để quên đồ trên tàu điện mất rồi."
+  },
+  {
+    "w": "観光地",
+    "p": "kankouchi",
+    "m": "địa điểm du lịch",
+    "cat": "travel",
+    "ex": "京都は人気の観光地です。",
+    "exVi": "Kyoto là địa điểm du lịch nổi tiếng."
+  },
+  {
+    "w": "データ",
+    "p": "deeta",
+    "m": "dữ liệu",
+    "cat": "technology",
+    "ex": "このデータをもう一度確認してください。",
+    "exVi": "Hãy kiểm tra lại dữ liệu này một lần nữa."
+  },
+  {
+    "w": "ファイル",
+    "p": "fairu",
+    "m": "tập tin",
+    "cat": "technology",
+    "ex": "添付ファイルを開けませんでした。",
+    "exVi": "Tôi đã không thể mở được tập tin đính kèm."
+  },
+  {
+    "w": "クリックする",
+    "p": "kurikku suru",
+    "m": "nhấp chuột",
+    "cat": "technology",
+    "ex": "このボタンをクリックしてください。",
+    "exVi": "Hãy nhấp chuột vào nút này."
+  },
+  {
+    "w": "お釣り",
+    "p": "otsuri",
+    "m": "tiền thối lại",
+    "cat": "money",
+    "ex": "お釣りを忘れずに受け取ってください。",
+    "exVi": "Hãy nhớ nhận lại tiền thối."
+  },
+  {
+    "w": "有料",
+    "p": "yuuryou",
+    "m": "có phí, mất phí",
+    "cat": "money",
+    "ex": "この駐車場は有料です。",
+    "exVi": "Bãi đỗ xe này có tính phí."
+  },
+  {
+    "w": "振り込む",
+    "p": "furikomu",
+    "m": "chuyển khoản",
+    "cat": "money",
+    "ex": "家賃を銀行に振り込みました。",
+    "exVi": "Tôi đã chuyển khoản tiền thuê nhà vào ngân hàng."
+  },
+  {
+    "w": "夫婦",
+    "p": "fuufu",
+    "m": "vợ chồng",
+    "cat": "family",
+    "ex": "あの夫婦はいつも仲がいいです。",
+    "exVi": "Cặp vợ chồng đó lúc nào cũng hòa thuận."
+  },
+  {
+    "w": "独身",
+    "p": "dokushin",
+    "m": "độc thân",
+    "cat": "family",
+    "ex": "兄は三十五歳ですが独身です。",
+    "exVi": "Anh trai tôi ba mươi lăm tuổi nhưng vẫn độc thân."
+  },
+  {
+    "w": "肩",
+    "p": "kata",
+    "m": "vai",
+    "cat": "body",
+    "ex": "長時間座っていたので肩が痛いです。",
+    "exVi": "Vì ngồi lâu nên vai tôi bị đau."
+  },
+  {
+    "w": "腰",
+    "p": "koshi",
+    "m": "thắt lưng, hông",
+    "cat": "body",
+    "ex": "重い荷物を持って腰が痛くなりました。",
+    "exVi": "Tôi bị đau lưng vì mang vác đồ nặng."
+  },
+  {
+    "w": "お盆",
+    "p": "obon",
+    "m": "lễ Vu Lan Nhật Bản",
+    "cat": "festival",
+    "ex": "お盆に田舎の家族に会いに行きます。",
+    "exVi": "Vào lễ Obon tôi về quê thăm gia đình."
+  },
+  {
+    "w": "内容",
+    "p": "naiyou",
+    "m": "nội dung",
+    "cat": "communication",
+    "ex": "この本の内容はとても面白いです。",
+    "exVi": "Nội dung cuốn sách này rất thú vị."
+  },
+  {
+    "w": "例",
+    "p": "rei",
+    "m": "ví dụ",
+    "cat": "communication",
+    "ex": "例を一つ挙げてください。",
+    "exVi": "Hãy đưa ra một ví dụ."
+  },
+  {
+    "w": "種類",
+    "p": "shurui",
+    "m": "chủng loại",
+    "cat": "abstract",
+    "ex": "このお店にはいろいろな種類のパンがあります。",
+    "exVi": "Cửa hàng này có nhiều loại bánh mì khác nhau."
+  },
+  {
+    "w": "部分",
+    "p": "bubun",
+    "m": "bộ phận, phần",
+    "cat": "abstract",
+    "ex": "この部分がよくわかりません。",
+    "exVi": "Tôi không hiểu rõ phần này."
+  },
+  {
+    "w": "全体",
+    "p": "zentai",
+    "m": "toàn bộ",
+    "cat": "abstract",
+    "ex": "全体としてはいい結果でした。",
+    "exVi": "Nhìn chung thì kết quả khá tốt."
+  },
+  {
+    "w": "場合",
+    "p": "baai",
+    "m": "trường hợp",
+    "cat": "abstract",
+    "ex": "雨の場合はイベントを中止します。",
+    "exVi": "Trong trường hợp trời mưa thì sự kiện sẽ bị hủy."
+  },
+  {
+    "w": "状態",
+    "p": "joutai",
+    "m": "trạng thái",
+    "cat": "abstract",
+    "ex": "この車はまだいい状態です。",
+    "exVi": "Chiếc xe này vẫn còn trong trạng thái tốt."
+  },
+  {
+    "w": "原因",
+    "p": "gen'in",
+    "m": "nguyên nhân",
+    "cat": "abstract",
+    "ex": "事故の原因はまだわかりません。",
+    "exVi": "Nguyên nhân của vụ tai nạn vẫn chưa được biết rõ."
+  },
+  {
+    "w": "印象",
+    "p": "inshou",
+    "m": "ấn tượng",
+    "cat": "communication",
+    "ex": "彼女は初対面からいい印象でした。",
+    "exVi": "Cô ấy đã để lại ấn tượng tốt ngay từ lần gặp đầu tiên."
+  },
+  {
+    "w": "態度",
+    "p": "taido",
+    "m": "thái độ",
+    "cat": "communication",
+    "ex": "彼の態度が急に変わりました。",
+    "exVi": "Thái độ của anh ấy đột nhiên thay đổi."
+  },
+  {
+    "w": "個性",
+    "p": "kosei",
+    "m": "cá tính",
+    "cat": "personality",
+    "ex": "彼女はとても個性が強いです。",
+    "exVi": "Cô ấy có cá tính rất mạnh mẽ."
+  },
+  {
+    "w": "常識",
+    "p": "joushiki",
+    "m": "lẽ thường, kiến thức phổ thông",
+    "cat": "abstract",
+    "ex": "遅刻しないのは常識です。",
+    "exVi": "Không đi trễ là lẽ thường tình."
+  },
+  {
+    "w": "ルール",
+    "p": "ruuru",
+    "m": "quy tắc, luật lệ",
+    "cat": "abstract",
+    "ex": "このゲームのルールを教えてください。",
+    "exVi": "Hãy chỉ cho tôi quy tắc của trò chơi này."
+  },
+  {
+    "w": "チャンス",
+    "p": "chansu",
+    "m": "cơ hội",
+    "cat": "abstract",
+    "ex": "これはいいチャンスだと思います。",
+    "exVi": "Tôi nghĩ đây là một cơ hội tốt."
+  },
+  {
+    "w": "秘密",
+    "p": "himitsu",
+    "m": "bí mật",
+    "cat": "abstract",
+    "ex": "これは二人だけの秘密です。",
+    "exVi": "Đây là bí mật chỉ giữa hai người."
+  },
+  {
+    "w": "うわさ",
+    "p": "uwasa",
+    "m": "tin đồn",
+    "cat": "communication",
+    "ex": "変なうわさを聞きました。",
+    "exVi": "Tôi đã nghe được tin đồn kỳ lạ."
+  },
+  {
+    "w": "冗談",
+    "p": "joudan",
+    "m": "lời nói đùa",
+    "cat": "communication",
+    "ex": "それはただの冗談ですよ。",
+    "exVi": "Đó chỉ là lời nói đùa thôi mà."
+  },
+  {
+    "w": "試合",
+    "p": "shiai",
+    "m": "trận đấu",
+    "cat": "sports",
+    "ex": "明日、サッカーの試合があります。",
+    "exVi": "Ngày mai có trận đấu bóng đá."
+  },
+  {
+    "w": "応援する",
+    "p": "ouen suru",
+    "m": "cổ vũ",
+    "cat": "sports",
+    "ex": "みんなで日本のチームを応援しました。",
+    "exVi": "Mọi người đã cùng nhau cổ vũ cho đội Nhật Bản."
+  },
+  {
+    "w": "優勝する",
+    "p": "yuushou suru",
+    "m": "vô địch",
+    "cat": "sports",
+    "ex": "私たちのチームが大会で優勝しました。",
+    "exVi": "Đội chúng tôi đã vô địch trong giải đấu."
+  },
+  {
+    "w": "負ける",
+    "p": "makeru",
+    "m": "thua, thất bại",
+    "cat": "sports",
+    "ex": "昨日の試合は一対三で負けました。",
+    "exVi": "Trận đấu hôm qua chúng tôi đã thua với tỉ số một trên ba."
+  },
+  {
+    "w": "ダンス",
+    "p": "dansu",
+    "m": "khiêu vũ, nhảy múa",
+    "cat": "hobby",
+    "ex": "週に一度ダンスを習っています。",
+    "exVi": "Mỗi tuần một lần tôi học khiêu vũ."
+  },
+  {
+    "w": "楽器",
+    "p": "gakki",
+    "m": "nhạc cụ",
+    "cat": "hobby",
+    "ex": "何か楽器を演奏できますか。",
+    "exVi": "Bạn có thể chơi nhạc cụ gì không?"
+  },
+  {
+    "w": "さらに",
+    "p": "sarani",
+    "m": "hơn nữa",
+    "cat": "grammar",
+    "ex": "値段はさらに安くなりました。",
+    "exVi": "Giá cả đã trở nên rẻ hơn nữa."
+  },
+  {
+    "w": "しかも",
+    "p": "shikamo",
+    "m": "hơn nữa, vả lại",
+    "cat": "grammar",
+    "ex": "このレストランは安くて、しかもおいしいです。",
+    "exVi": "Nhà hàng này vừa rẻ, hơn nữa lại còn ngon."
+  },
+  {
+    "w": "ただ",
+    "p": "tada",
+    "m": "chỉ là, miễn phí",
+    "cat": "adverb",
+    "ex": "ただ黙って聞いていました。",
+    "exVi": "Tôi chỉ im lặng lắng nghe thôi."
+  },
+  {
+    "w": "なるべく",
+    "p": "narubeku",
+    "m": "càng nhiều càng tốt, nếu có thể",
+    "cat": "adverb",
+    "ex": "なるべく早く返事をください。",
+    "exVi": "Xin hãy trả lời càng sớm càng tốt nếu có thể."
+  },
+  {
+    "w": "わざと",
+    "p": "wazato",
+    "m": "cố ý",
+    "cat": "adverb",
+    "ex": "彼はわざと知らないふりをしました。",
+    "exVi": "Anh ấy đã cố ý giả vờ như không biết."
+  },
+  {
+    "w": "わざわざ",
+    "p": "wazawaza",
+    "m": "đặc biệt (cất công làm gì đó)",
+    "cat": "adverb",
+    "ex": "わざわざ空港まで迎えに来てくれました。",
+    "exVi": "Bạn ấy đã cất công đến tận sân bay để đón tôi."
+  },
+  {
+    "w": "せっかく",
+    "p": "sekkaku",
+    "m": "đã cất công, khó khăn lắm mới",
+    "cat": "adverb",
+    "ex": "せっかく作った料理を残さないでください。",
+    "exVi": "Xin đừng để thừa món ăn mà tôi đã cất công làm."
+  },
+  {
+    "w": "いきなり",
+    "p": "ikinari",
+    "m": "đột ngột, bất thình lình",
+    "cat": "adverb",
+    "ex": "いきなり雨が降り出しました。",
+    "exVi": "Trời đột ngột đổ mưa."
+  },
+  {
+    "w": "案外",
+    "p": "angai",
+    "m": "ngoài dự đoán, bất ngờ",
+    "cat": "adverb",
+    "ex": "このテストは案外簡単でした。",
+    "exVi": "Bài kiểm tra này bất ngờ lại dễ."
+  },
+  {
+    "w": "なんとなく",
+    "p": "nantonaku",
+    "m": "không rõ vì sao, mơ hồ",
+    "cat": "adverb",
+    "ex": "今日はなんとなく元気が出ません。",
+    "exVi": "Hôm nay không hiểu sao tôi không có sức sống."
+  },
+  {
+    "w": "なんとか",
+    "p": "nantoka",
+    "m": "bằng cách nào đó, cố xoay sở",
+    "cat": "adverb",
+    "ex": "締め切りになんとか間に合いました。",
+    "exVi": "Tôi đã kịp xoay sở để đúng hạn chót."
+  },
+  {
+    "w": "お互いに",
+    "p": "otagai ni",
+    "m": "lẫn nhau",
+    "cat": "adverb",
+    "ex": "お互いに助け合いましょう。",
+    "exVi": "Chúng ta hãy giúp đỡ lẫn nhau nhé."
+  },
+  {
+    "w": "一応",
+    "p": "ichiou",
+    "m": "tạm thời, tạm coi như",
+    "cat": "adverb",
+    "ex": "一応、資料は準備しておきました。",
+    "exVi": "Tôi đã tạm chuẩn bị sẵn tài liệu rồi."
+  },
+  {
+    "w": "実際に",
+    "p": "jissai ni",
+    "m": "trên thực tế",
+    "cat": "adverb",
+    "ex": "実際に自分の目で見てください。",
+    "exVi": "Xin hãy tự mắt mình nhìn thấy trên thực tế."
+  },
+  {
+    "w": "確かに",
+    "p": "tashika ni",
+    "m": "đúng là, chắc chắn là",
+    "cat": "adverb",
+    "ex": "確かにあなたの言う通りです。",
+    "exVi": "Đúng là như những gì bạn nói."
+  },
+  {
+    "w": "どうしても",
+    "p": "dou shite mo",
+    "m": "dù thế nào cũng, nhất định phải",
+    "cat": "adverb",
+    "ex": "どうしても行きたい場所があります。",
+    "exVi": "Có một nơi mà dù thế nào tôi cũng muốn đi."
+  }
+]

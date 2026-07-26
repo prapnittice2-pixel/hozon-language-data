@@ -846,12 +846,6 @@
     "cat": "academic"
   },
   {
-    "w": "학문적이다",
-    "p": "hakmunjeogida",
-    "m": "học thuật, hàn lâm",
-    "cat": "academic"
-  },
-  {
     "w": "학술지",
     "p": "haksulji",
     "m": "tạp chí học thuật",
@@ -879,12 +873,6 @@
     "w": "검증하다",
     "p": "geomjeunghada",
     "m": "kiểm chứng, xác minh",
-    "cat": "academic"
-  },
-  {
-    "w": "추론하다",
-    "p": "churonhada",
-    "m": "suy luận, kết luận",
     "cat": "academic"
   },
   {
@@ -2799,12 +2787,6 @@
     "w": "반박하다",
     "p": "banbakhada",
     "m": "phản bác",
-    "cat": "vocabulary"
-  },
-  {
-    "w": "논증하다",
-    "p": "nonjeunghada",
-    "m": "luận chứng, chứng minh bằng luận cứ",
     "cat": "vocabulary"
   },
   {
@@ -10782,12 +10764,6 @@
     "cat": "academic"
   },
   {
-    "w": "귀납",
-    "p": "gwinap",
-    "m": "quy nạp",
-    "cat": "academic"
-  },
-  {
     "w": "해설",
     "p": "haeseol",
     "m": "giải đáp, chú giải",
@@ -10812,21 +10788,9 @@
     "cat": "academic"
   },
   {
-    "w": "패러다임",
-    "p": "paereodaim",
-    "m": "mô hình tư duy, hệ hình",
-    "cat": "academic"
-  },
-  {
     "w": "실증적이다",
     "p": "siljeungjeogida",
     "m": "dựa trên thực nghiệm",
-    "cat": "academic"
-  },
-  {
-    "w": "이론적이다",
-    "p": "ironjeogida",
-    "m": "thuộc lý thuyết",
     "cat": "academic"
   },
   {
@@ -13155,12 +13119,6 @@
     "w": "메타 분석",
     "p": "meta bunseok",
     "m": "phân tích tổng hợp",
-    "cat": "science"
-  },
-  {
-    "w": "가설 검정",
-    "p": "gaseol geomjeong",
-    "m": "kiểm định giả thuyết",
     "cat": "science"
   },
   {
@@ -15972,12 +15930,6 @@
     "cat": "học thuật"
   },
   {
-    "w": "연역적 추론",
-    "p": "yeonyeokjeok churon",
-    "m": "lý luận suy diễn",
-    "cat": "học thuật"
-  },
-  {
     "w": "인과관계",
     "p": "ingwagwangye",
     "m": "mối quan hệ nhân quả",
@@ -15987,12 +15939,6 @@
     "w": "추상적 개념",
     "p": "chusangjeok gaenyeom",
     "m": "khái niệm trừu tượng",
-    "cat": "học thuật"
-  },
-  {
-    "w": "학문적 성실성",
-    "p": "hakmunjeok seongsilseong",
-    "m": "tính liêm chính học thuật",
     "cat": "học thuật"
   },
   {
@@ -16716,12 +16662,6 @@
     "cat": "học thuật"
   },
   {
-    "w": "중심 논지",
-    "p": "jungsim nonji",
-    "m": "luận điểm trung tâm",
-    "cat": "học thuật"
-  },
-  {
     "w": "전제에 도전하다",
     "p": "jeonjee dojeonhada",
     "m": "thách thức các giả định",
@@ -16731,12 +16671,6 @@
     "w": "증거를 인용하다",
     "p": "jeunggeoreul in-yonghada",
     "m": "trích dẫn bằng chứng",
-    "cat": "học thuật"
-  },
-  {
-    "w": "일관된 논거",
-    "p": "ilgwandoen nongeo",
-    "m": "lập luận mạch lạc, nhất quán",
     "cat": "học thuật"
   },
   {
@@ -16836,18 +16770,6 @@
     "cat": "học thuật"
   },
   {
-    "w": "가설을 세우다",
-    "p": "gaseol-eul seuda",
-    "m": "đặt ra, xây dựng giả thuyết",
-    "cat": "học thuật"
-  },
-  {
-    "w": "논거를 구축하다",
-    "p": "nongeoreul guchukhada",
-    "m": "xây dựng lập luận",
-    "cat": "học thuật"
-  },
-  {
     "w": "기능적으로 동등하다",
     "p": "gineungjeog-eulo dongdeunghada",
     "m": "tương đương về mặt chức năng",
@@ -16908,21 +16830,9 @@
     "cat": "học thuật"
   },
   {
-    "w": "논리적 추론",
-    "p": "nonlijeok churon",
-    "m": "suy luận logic",
-    "cat": "học thuật"
-  },
-  {
     "w": "일관성을 유지하다",
     "p": "ilgwanseong-eul yujihada",
     "m": "duy trì sự mạch lạc, nhất quán",
-    "cat": "học thuật"
-  },
-  {
-    "w": "방법론적 접근",
-    "p": "bangbeomnonjeok jeopgeun",
-    "m": "cách tiếp cận phương pháp luận",
     "cat": "học thuật"
   },
   {
@@ -16944,21 +16854,9 @@
     "cat": "học thuật"
   },
   {
-    "w": "조작적 정의",
-    "p": "jojakjeok jeong-ui",
-    "m": "định nghĩa hoạt động (khái niệm nghiên cứu)",
-    "cat": "học thuật"
-  },
-  {
     "w": "포괄적 주제",
     "p": "pogwaljeok juje",
     "m": "chủ đề bao quát",
-    "cat": "học thuật"
-  },
-  {
-    "w": "패러다임 전환",
-    "p": "paeleodaim jeonhwan",
-    "m": "sự thay đổi mô hình tư duy",
     "cat": "học thuật"
   },
   {
@@ -16986,12 +16884,6 @@
     "cat": "học thuật"
   },
   {
-    "w": "연구 방법론",
-    "p": "yeongu bangbeomnon",
-    "m": "phương pháp nghiên cứu",
-    "cat": "học thuật"
-  },
-  {
     "w": "2차 자료",
     "p": "ichacharyo",
     "m": "nguồn tài liệu thứ cấp",
@@ -17013,12 +16905,6 @@
     "w": "잠정적 결론",
     "p": "jamjeongjeok gyeollon",
     "m": "kết luận tạm thời",
-    "cat": "học thuật"
-  },
-  {
-    "w": "이론적 토대",
-    "p": "ironjeok toda",
-    "m": "cơ sở lý thuyết",
     "cat": "học thuật"
   },
   {
@@ -17700,12 +17586,6 @@
     "cat": "học thuật"
   },
   {
-    "w": "귀납적 추론",
-    "p": "gwinapjeok churon",
-    "m": "lý luận quy nạp",
-    "cat": "học thuật"
-  },
-  {
     "w": "탐구 질문",
     "p": "tamgu jilmun",
     "m": "câu hỏi tìm hiểu, câu hỏi nghiên cứu",
@@ -17739,12 +17619,6 @@
     "w": "매개 요인",
     "p": "maegae yoin",
     "m": "yếu tố trung gian",
-    "cat": "học thuật"
-  },
-  {
-    "w": "방법론적 엄밀성",
-    "p": "bangbeomnonjeok eommilseong",
-    "m": "sự chặt chẽ về phương pháp",
     "cat": "học thuật"
   },
   {
@@ -17799,12 +17673,6 @@
     "w": "암묵지",
     "p": "ammukji",
     "m": "kiến thức ngầm định",
-    "cat": "học thuật"
-  },
-  {
-    "w": "가설을 검증하다",
-    "p": "gaseol-eul geomjeunghada",
-    "m": "kiểm tra giả thuyết",
     "cat": "học thuật"
   },
   {
@@ -17976,12 +17844,6 @@
     "cat": "học thuật"
   },
   {
-    "w": "명시적 추론",
-    "p": "myeongsijeok churon",
-    "m": "lý luận tường minh",
-    "cat": "học thuật"
-  },
-  {
     "w": "생성적이다",
     "p": "saengseongjeog-ida",
     "m": "mang tính sản sinh, tạo ra",
@@ -17992,12 +17854,6 @@
     "p": "wonchikjeog-eulo",
     "m": "về nguyên tắc",
     "cat": "trạng từ"
-  },
-  {
-    "w": "연역적이다",
-    "p": "yeonyeokjeog-ida",
-    "m": "mang tính suy diễn (deductive)",
-    "cat": "học thuật"
   },
   {
     "w": "도구화하다",

@@ -100,5 +100,4817 @@
     "p": "tsukue",
     "m": "bàn",
     "cat": "home"
+  },
+  {
+    "w": "四",
+    "p": "yon",
+    "m": "bốn",
+    "cat": "number"
+  },
+  {
+    "w": "七",
+    "p": "nana",
+    "m": "bảy",
+    "cat": "number"
+  },
+  {
+    "w": "九",
+    "p": "kyuu",
+    "m": "chín",
+    "cat": "number"
+  },
+  {
+    "w": "十",
+    "p": "juu",
+    "m": "mười",
+    "cat": "number"
+  },
+  {
+    "w": "十一",
+    "p": "juuichi",
+    "m": "mười một",
+    "cat": "number"
+  },
+  {
+    "w": "十二",
+    "p": "juuni",
+    "m": "mười hai",
+    "cat": "number"
+  },
+  {
+    "w": "十三",
+    "p": "juusan",
+    "m": "mười ba",
+    "cat": "number"
+  },
+  {
+    "w": "十四",
+    "p": "juuyon",
+    "m": "mười bốn",
+    "cat": "number"
+  },
+  {
+    "w": "十五",
+    "p": "juugo",
+    "m": "mười lăm",
+    "cat": "number"
+  },
+  {
+    "w": "十六",
+    "p": "juuroku",
+    "m": "mười sáu",
+    "cat": "number"
+  },
+  {
+    "w": "十七",
+    "p": "juunana",
+    "m": "mười bảy",
+    "cat": "number"
+  },
+  {
+    "w": "十八",
+    "p": "juuhachi",
+    "m": "mười tám",
+    "cat": "number"
+  },
+  {
+    "w": "十九",
+    "p": "juukyuu",
+    "m": "mười chín",
+    "cat": "number"
+  },
+  {
+    "w": "二十",
+    "p": "nijuu",
+    "m": "hai mươi",
+    "cat": "number"
+  },
+  {
+    "w": "三十",
+    "p": "sanjuu",
+    "m": "ba mươi",
+    "cat": "number"
+  },
+  {
+    "w": "四十",
+    "p": "yonjuu",
+    "m": "bốn mươi",
+    "cat": "number"
+  },
+  {
+    "w": "五十",
+    "p": "gojuu",
+    "m": "năm mươi",
+    "cat": "number"
+  },
+  {
+    "w": "六十",
+    "p": "rokujuu",
+    "m": "sáu mươi",
+    "cat": "number"
+  },
+  {
+    "w": "七十",
+    "p": "nanajuu",
+    "m": "bảy mươi",
+    "cat": "number"
+  },
+  {
+    "w": "八十",
+    "p": "hachijuu",
+    "m": "tám mươi",
+    "cat": "number"
+  },
+  {
+    "w": "九十",
+    "p": "kyuujuu",
+    "m": "chín mươi",
+    "cat": "number"
+  },
+  {
+    "w": "一万",
+    "p": "ichiman",
+    "m": "mười nghìn",
+    "cat": "number"
+  },
+  {
+    "w": "赤",
+    "p": "aka",
+    "m": "màu đỏ",
+    "cat": "color"
+  },
+  {
+    "w": "青",
+    "p": "ao",
+    "m": "màu xanh dương",
+    "cat": "color"
+  },
+  {
+    "w": "黄色",
+    "p": "kiiro",
+    "m": "màu vàng",
+    "cat": "color"
+  },
+  {
+    "w": "白",
+    "p": "shiro",
+    "m": "màu trắng",
+    "cat": "color"
+  },
+  {
+    "w": "黒",
+    "p": "kuro",
+    "m": "màu đen",
+    "cat": "color"
+  },
+  {
+    "w": "緑",
+    "p": "midori",
+    "m": "màu xanh lá",
+    "cat": "color"
+  },
+  {
+    "w": "茶色",
+    "p": "chairo",
+    "m": "màu nâu",
+    "cat": "color"
+  },
+  {
+    "w": "ピンク",
+    "p": "pinku",
+    "m": "màu hồng",
+    "cat": "color"
+  },
+  {
+    "w": "オレンジ色",
+    "p": "orenji iro",
+    "m": "màu cam",
+    "cat": "color"
+  },
+  {
+    "w": "紫",
+    "p": "murasaki",
+    "m": "màu tím",
+    "cat": "color"
+  },
+  {
+    "w": "灰色",
+    "p": "haiiro",
+    "m": "màu xám",
+    "cat": "color"
+  },
+  {
+    "w": "お兄さん",
+    "p": "oniisan",
+    "m": "anh trai",
+    "cat": "family"
+  },
+  {
+    "w": "妹",
+    "p": "imouto",
+    "m": "em gái",
+    "cat": "family"
+  },
+  {
+    "w": "弟",
+    "p": "otouto",
+    "m": "em trai",
+    "cat": "family"
+  },
+  {
+    "w": "お姉さん",
+    "p": "oneesan",
+    "m": "chị gái",
+    "cat": "family"
+  },
+  {
+    "w": "おばあさん",
+    "p": "obaasan",
+    "m": "bà nội, bà ngoại",
+    "cat": "family"
+  },
+  {
+    "w": "おじさん",
+    "p": "ojisan",
+    "m": "chú, dượng, bác trai",
+    "cat": "family"
+  },
+  {
+    "w": "おばさん",
+    "p": "obasan",
+    "m": "cô, dì, bác gái",
+    "cat": "family"
+  },
+  {
+    "w": "両親",
+    "p": "ryoushin",
+    "m": "bố mẹ",
+    "cat": "family"
+  },
+  {
+    "w": "家族",
+    "p": "kazoku",
+    "m": "gia đình",
+    "cat": "family"
+  },
+  {
+    "w": "赤ちゃん",
+    "p": "akachan",
+    "m": "em bé",
+    "cat": "family"
+  },
+  {
+    "w": "息子",
+    "p": "musuko",
+    "m": "con trai",
+    "cat": "family"
+  },
+  {
+    "w": "娘",
+    "p": "musume",
+    "m": "con gái",
+    "cat": "family"
+  },
+  {
+    "w": "友達",
+    "p": "tomodachi",
+    "m": "bạn bè",
+    "cat": "family"
+  },
+  {
+    "w": "夫",
+    "p": "otto",
+    "m": "chồng",
+    "cat": "family"
+  },
+  {
+    "w": "うし",
+    "p": "ushi",
+    "m": "con bò",
+    "cat": "animal"
+  },
+  {
+    "w": "とり",
+    "p": "tori",
+    "m": "con chim",
+    "cat": "animal"
+  },
+  {
+    "w": "ねずみ",
+    "p": "nezumi",
+    "m": "con chuột",
+    "cat": "animal"
+  },
+  {
+    "w": "いぬ",
+    "p": "inu",
+    "m": "con chó",
+    "cat": "animal"
+  },
+  {
+    "w": "さかな",
+    "p": "sakana",
+    "m": "con cá",
+    "cat": "animal"
+  },
+  {
+    "w": "にわとり",
+    "p": "niwatori",
+    "m": "con gà",
+    "cat": "animal"
+  },
+  {
+    "w": "くま",
+    "p": "kuma",
+    "m": "con gấu",
+    "cat": "animal"
+  },
+  {
+    "w": "とら",
+    "p": "tora",
+    "m": "con hổ",
+    "cat": "animal"
+  },
+  {
+    "w": "さる",
+    "p": "saru",
+    "m": "con khỉ",
+    "cat": "animal"
+  },
+  {
+    "w": "ぶた",
+    "p": "buta",
+    "m": "con lợn",
+    "cat": "animal"
+  },
+  {
+    "w": "ねこ",
+    "p": "neko",
+    "m": "con mèo",
+    "cat": "animal"
+  },
+  {
+    "w": "うま",
+    "p": "uma",
+    "m": "con ngựa",
+    "cat": "animal"
+  },
+  {
+    "w": "ライオン",
+    "p": "raion",
+    "m": "con sư tử",
+    "cat": "animal"
+  },
+  {
+    "w": "うさぎ",
+    "p": "usagi",
+    "m": "con thỏ",
+    "cat": "animal"
+  },
+  {
+    "w": "ぞう",
+    "p": "zou",
+    "m": "con voi",
+    "cat": "animal"
+  },
+  {
+    "w": "あひる",
+    "p": "ahiru",
+    "m": "con vịt",
+    "cat": "animal"
+  },
+  {
+    "w": "手",
+    "p": "te",
+    "m": "bàn tay",
+    "cat": "body"
+  },
+  {
+    "w": "お腹",
+    "p": "onaka",
+    "m": "bụng",
+    "cat": "body"
+  },
+  {
+    "w": "腕",
+    "p": "ude",
+    "m": "cánh tay",
+    "cat": "body"
+  },
+  {
+    "w": "足",
+    "p": "ashi",
+    "m": "chân",
+    "cat": "body"
+  },
+  {
+    "w": "顔",
+    "p": "kao",
+    "m": "khuôn mặt",
+    "cat": "body"
+  },
+  {
+    "w": "口",
+    "p": "kuchi",
+    "m": "miệng",
+    "cat": "body"
+  },
+  {
+    "w": "鼻",
+    "p": "hana",
+    "m": "mũi",
+    "cat": "body"
+  },
+  {
+    "w": "首",
+    "p": "kubi",
+    "m": "cổ",
+    "cat": "body"
+  },
+  {
+    "w": "ドア",
+    "p": "doa",
+    "m": "cái cửa",
+    "cat": "home"
+  },
+  {
+    "w": "いす",
+    "p": "isu",
+    "m": "cái ghế",
+    "cat": "home"
+  },
+  {
+    "w": "ベッド",
+    "p": "beddo",
+    "m": "cái giường",
+    "cat": "home"
+  },
+  {
+    "w": "窓",
+    "p": "mado",
+    "m": "cửa sổ",
+    "cat": "home"
+  },
+  {
+    "w": "鏡",
+    "p": "kagami",
+    "m": "gương",
+    "cat": "home"
+  },
+  {
+    "w": "かぎ",
+    "p": "kagi",
+    "m": "chìa khóa",
+    "cat": "home"
+  },
+  {
+    "w": "かばん",
+    "p": "kaban",
+    "m": "cặp sách",
+    "cat": "school"
+  },
+  {
+    "w": "コップ",
+    "p": "koppu",
+    "m": "cốc, ly",
+    "cat": "home"
+  },
+  {
+    "w": "ペン",
+    "p": "pen",
+    "m": "cây bút",
+    "cat": "school"
+  },
+  {
+    "w": "えんぴつ",
+    "p": "enpitsu",
+    "m": "bút chì",
+    "cat": "school"
+  },
+  {
+    "w": "けしゴム",
+    "p": "keshigomu",
+    "m": "cục tẩy",
+    "cat": "school"
+  },
+  {
+    "w": "地図",
+    "p": "chizu",
+    "m": "bản đồ",
+    "cat": "school"
+  },
+  {
+    "w": "テーブル",
+    "p": "teeburu",
+    "m": "cái bàn",
+    "cat": "home"
+  },
+  {
+    "w": "はさみ",
+    "p": "hasami",
+    "m": "cái kéo",
+    "cat": "school"
+  },
+  {
+    "w": "めがね",
+    "p": "megane",
+    "m": "kính mắt",
+    "cat": "clothing"
+  },
+  {
+    "w": "ノート",
+    "p": "nooto",
+    "m": "quyển vở",
+    "cat": "school"
+  },
+  {
+    "w": "海岸",
+    "p": "kaigan",
+    "m": "bãi biển",
+    "cat": "place"
+  },
+  {
+    "w": "郵便局",
+    "p": "yuubinkyoku",
+    "m": "bưu điện",
+    "cat": "place"
+  },
+  {
+    "w": "公園",
+    "p": "kouen",
+    "m": "công viên",
+    "cat": "place"
+  },
+  {
+    "w": "店",
+    "p": "mise",
+    "m": "cửa hàng",
+    "cat": "place"
+  },
+  {
+    "w": "ホテル",
+    "p": "hoteru",
+    "m": "khách sạn",
+    "cat": "place"
+  },
+  {
+    "w": "海",
+    "p": "umi",
+    "m": "biển",
+    "cat": "nature"
+  },
+  {
+    "w": "デパート",
+    "p": "depaato",
+    "m": "cửa hàng bách hóa",
+    "cat": "place"
+  },
+  {
+    "w": "動物園",
+    "p": "doubutsuen",
+    "m": "vườn thú",
+    "cat": "place"
+  },
+  {
+    "w": "空",
+    "p": "sora",
+    "m": "bầu trời",
+    "cat": "nature"
+  },
+  {
+    "w": "花",
+    "p": "hana",
+    "m": "bông hoa",
+    "cat": "nature"
+  },
+  {
+    "w": "木",
+    "p": "ki",
+    "m": "cây",
+    "cat": "nature"
+  },
+  {
+    "w": "草",
+    "p": "kusa",
+    "m": "cỏ",
+    "cat": "nature"
+  },
+  {
+    "w": "湖",
+    "p": "mizuumi",
+    "m": "cái hồ",
+    "cat": "nature"
+  },
+  {
+    "w": "川",
+    "p": "kawa",
+    "m": "con sông",
+    "cat": "nature"
+  },
+  {
+    "w": "風",
+    "p": "kaze",
+    "m": "gió",
+    "cat": "weather"
+  },
+  {
+    "w": "雨",
+    "p": "ame",
+    "m": "mưa",
+    "cat": "weather"
+  },
+  {
+    "w": "涼しい",
+    "p": "suzushii",
+    "m": "mát mẻ",
+    "cat": "weather"
+  },
+  {
+    "w": "星",
+    "p": "hoshi",
+    "m": "ngôi sao",
+    "cat": "nature"
+  },
+  {
+    "w": "パン",
+    "p": "pan",
+    "m": "bánh mì",
+    "cat": "food"
+  },
+  {
+    "w": "コーヒー",
+    "p": "koohii",
+    "m": "cà phê",
+    "cat": "food"
+  },
+  {
+    "w": "バナナ",
+    "p": "banana",
+    "m": "chuối",
+    "cat": "food"
+  },
+  {
+    "w": "みかん",
+    "p": "mikan",
+    "m": "cam (trái cây)",
+    "cat": "food"
+  },
+  {
+    "w": "塩",
+    "p": "shio",
+    "m": "muối",
+    "cat": "food"
+  },
+  {
+    "w": "食事",
+    "p": "shokuji",
+    "m": "bữa ăn",
+    "cat": "food"
+  },
+  {
+    "w": "米",
+    "p": "kome",
+    "m": "gạo",
+    "cat": "food"
+  },
+  {
+    "w": "ケーキ",
+    "p": "keeki",
+    "m": "bánh ngọt",
+    "cat": "food"
+  },
+  {
+    "w": "チーズ",
+    "p": "chiizu",
+    "m": "phô mai",
+    "cat": "food"
+  },
+  {
+    "w": "砂糖",
+    "p": "satou",
+    "m": "đường (gia vị)",
+    "cat": "food"
+  },
+  {
+    "w": "ジュース",
+    "p": "juusu",
+    "m": "nước ép",
+    "cat": "food"
+  },
+  {
+    "w": "お菓子",
+    "p": "okashi",
+    "m": "bánh kẹo",
+    "cat": "food"
+  },
+  {
+    "w": "弁当",
+    "p": "bentou",
+    "m": "cơm hộp",
+    "cat": "food"
+  },
+  {
+    "w": "アイスクリーム",
+    "p": "aisukuriimu",
+    "m": "kem",
+    "cat": "food"
+  },
+  {
+    "w": "誰",
+    "p": "dare",
+    "m": "ai",
+    "cat": "question"
+  },
+  {
+    "w": "何",
+    "p": "nani",
+    "m": "cái gì",
+    "cat": "question"
+  },
+  {
+    "w": "いつ",
+    "p": "itsu",
+    "m": "khi nào",
+    "cat": "question"
+  },
+  {
+    "w": "どれ",
+    "p": "dore",
+    "m": "cái nào",
+    "cat": "question"
+  },
+  {
+    "w": "いくつ",
+    "p": "ikutsu",
+    "m": "bao nhiêu (đếm được)",
+    "cat": "question"
+  },
+  {
+    "w": "いくら",
+    "p": "ikura",
+    "m": "bao nhiêu tiền",
+    "cat": "question"
+  },
+  {
+    "w": "何歳",
+    "p": "nansai",
+    "m": "bao nhiêu tuổi",
+    "cat": "question"
+  },
+  {
+    "w": "もしもし",
+    "p": "moshimoshi",
+    "m": "a-lô",
+    "cat": "phrase"
+  },
+  {
+    "w": "朝",
+    "p": "asa",
+    "m": "buổi sáng",
+    "cat": "time"
+  },
+  {
+    "w": "午後",
+    "p": "gogo",
+    "m": "buổi chiều",
+    "cat": "time"
+  },
+  {
+    "w": "昼",
+    "p": "hiru",
+    "m": "buổi trưa",
+    "cat": "time"
+  },
+  {
+    "w": "夕方",
+    "p": "yuugata",
+    "m": "buổi tối (chiều tối)",
+    "cat": "time"
+  },
+  {
+    "w": "今",
+    "p": "ima",
+    "m": "bây giờ",
+    "cat": "time"
+  },
+  {
+    "w": "今日",
+    "p": "kyou",
+    "m": "hôm nay",
+    "cat": "time"
+  },
+  {
+    "w": "昨日",
+    "p": "kinou",
+    "m": "hôm qua",
+    "cat": "time"
+  },
+  {
+    "w": "時間",
+    "p": "jikan",
+    "m": "giờ, thời gian",
+    "cat": "time"
+  },
+  {
+    "w": "夜",
+    "p": "yoru",
+    "m": "ban đêm",
+    "cat": "time"
+  },
+  {
+    "w": "おはようございます",
+    "p": "ohayou gozaimasu",
+    "m": "chào buổi sáng",
+    "cat": "greeting"
+  },
+  {
+    "w": "こんばんは",
+    "p": "konbanwa",
+    "m": "chào buổi tối",
+    "cat": "greeting"
+  },
+  {
+    "w": "ようこそ",
+    "p": "youkoso",
+    "m": "chào mừng",
+    "cat": "greeting"
+  },
+  {
+    "w": "おやすみなさい",
+    "p": "oyasuminasai",
+    "m": "chúc ngủ ngon",
+    "cat": "greeting"
+  },
+  {
+    "w": "お元気ですか",
+    "p": "ogenki desu ka",
+    "m": "bạn có khỏe không",
+    "cat": "greeting"
+  },
+  {
+    "w": "日曜日",
+    "p": "nichiyoubi",
+    "m": "Chủ nhật",
+    "cat": "time"
+  },
+  {
+    "w": "毎日",
+    "p": "mainichi",
+    "m": "mỗi ngày",
+    "cat": "time"
+  },
+  {
+    "w": "知る",
+    "p": "shiru",
+    "m": "biết",
+    "cat": "verb"
+  },
+  {
+    "w": "泳ぐ",
+    "p": "oyogu",
+    "m": "bơi",
+    "cat": "verb"
+  },
+  {
+    "w": "飛ぶ",
+    "p": "tobu",
+    "m": "bay",
+    "cat": "verb"
+  },
+  {
+    "w": "始める",
+    "p": "hajimeru",
+    "m": "bắt đầu",
+    "cat": "verb"
+  },
+  {
+    "w": "遊ぶ",
+    "p": "asobu",
+    "m": "chơi",
+    "cat": "verb"
+  },
+  {
+    "w": "走る",
+    "p": "hashiru",
+    "m": "chạy",
+    "cat": "verb"
+  },
+  {
+    "w": "待つ",
+    "p": "matsu",
+    "m": "chờ đợi",
+    "cat": "verb"
+  },
+  {
+    "w": "教える",
+    "p": "oshieru",
+    "m": "dạy",
+    "cat": "verb"
+  },
+  {
+    "w": "使う",
+    "p": "tsukau",
+    "m": "dùng, sử dụng",
+    "cat": "verb"
+  },
+  {
+    "w": "呼ぶ",
+    "p": "yobu",
+    "m": "gọi",
+    "cat": "verb"
+  },
+  {
+    "w": "送る",
+    "p": "okuru",
+    "m": "gửi",
+    "cat": "verb"
+  },
+  {
+    "w": "手伝う",
+    "p": "tetsudau",
+    "m": "giúp đỡ",
+    "cat": "verb"
+  },
+  {
+    "w": "会う",
+    "p": "au",
+    "m": "gặp gỡ",
+    "cat": "verb"
+  },
+  {
+    "w": "歌う",
+    "p": "utau",
+    "m": "hát",
+    "cat": "verb"
+  },
+  {
+    "w": "勉強する",
+    "p": "benkyou suru",
+    "m": "học",
+    "cat": "verb"
+  },
+  {
+    "w": "習う",
+    "p": "narau",
+    "m": "học hỏi",
+    "cat": "verb"
+  },
+  {
+    "w": "聞く",
+    "p": "kiku",
+    "m": "hỏi",
+    "cat": "verb"
+  },
+  {
+    "w": "切る",
+    "p": "kiru",
+    "m": "cắt",
+    "cat": "verb"
+  },
+  {
+    "w": "笑う",
+    "p": "warau",
+    "m": "cười",
+    "cat": "verb"
+  },
+  {
+    "w": "泣く",
+    "p": "naku",
+    "m": "khóc",
+    "cat": "verb"
+  },
+  {
+    "w": "終わる",
+    "p": "owaru",
+    "m": "kết thúc, hoàn thành",
+    "cat": "verb"
+  },
+  {
+    "w": "する",
+    "p": "suru",
+    "m": "làm",
+    "cat": "verb"
+  },
+  {
+    "w": "働く",
+    "p": "hataraku",
+    "m": "làm việc",
+    "cat": "verb"
+  },
+  {
+    "w": "取る",
+    "p": "toru",
+    "m": "lấy, mang",
+    "cat": "verb"
+  },
+  {
+    "w": "もらう",
+    "p": "morau",
+    "m": "lấy, nhận được",
+    "cat": "verb"
+  },
+  {
+    "w": "運ぶ",
+    "p": "hakobu",
+    "m": "mang, vác",
+    "cat": "verb"
+  },
+  {
+    "w": "持ってくる",
+    "p": "motte kuru",
+    "m": "mang đến",
+    "cat": "verb"
+  },
+  {
+    "w": "買う",
+    "p": "kau",
+    "m": "mua",
+    "cat": "verb"
+  },
+  {
+    "w": "要る",
+    "p": "iru",
+    "m": "cần",
+    "cat": "verb"
+  },
+  {
+    "w": "起きる",
+    "p": "okiru",
+    "m": "dậy, thức dậy",
+    "cat": "verb"
+  },
+  {
+    "w": "止まる",
+    "p": "tomaru",
+    "m": "dừng lại",
+    "cat": "verb"
+  },
+  {
+    "w": "あげる",
+    "p": "ageru",
+    "m": "cho, tặng",
+    "cat": "verb"
+  },
+  {
+    "w": "思う",
+    "p": "omou",
+    "m": "nghĩ",
+    "cat": "verb"
+  },
+  {
+    "w": "行く",
+    "p": "iku",
+    "m": "đi",
+    "cat": "verb"
+  },
+  {
+    "w": "来る",
+    "p": "kuru",
+    "m": "đến",
+    "cat": "verb"
+  },
+  {
+    "w": "食べる",
+    "p": "taberu",
+    "m": "ăn",
+    "cat": "verb"
+  },
+  {
+    "w": "飲む",
+    "p": "nomu",
+    "m": "uống",
+    "cat": "verb"
+  },
+  {
+    "w": "読む",
+    "p": "yomu",
+    "m": "đọc",
+    "cat": "verb"
+  },
+  {
+    "w": "分かる",
+    "p": "wakaru",
+    "m": "hiểu",
+    "cat": "verb"
+  },
+  {
+    "w": "休む",
+    "p": "yasumu",
+    "m": "nghỉ ngơi",
+    "cat": "verb"
+  },
+  {
+    "w": "開ける",
+    "p": "akeru",
+    "m": "mở",
+    "cat": "verb"
+  },
+  {
+    "w": "閉める",
+    "p": "shimeru",
+    "m": "đóng",
+    "cat": "verb"
+  },
+  {
+    "w": "乗る",
+    "p": "noru",
+    "m": "lên (xe)",
+    "cat": "verb"
+  },
+  {
+    "w": "降りる",
+    "p": "oriru",
+    "m": "xuống (xe)",
+    "cat": "verb"
+  },
+  {
+    "w": "持つ",
+    "p": "motsu",
+    "m": "cầm, mang theo",
+    "cat": "verb"
+  },
+  {
+    "w": "作る",
+    "p": "tsukuru",
+    "m": "làm, tạo ra",
+    "cat": "verb"
+  },
+  {
+    "w": "売る",
+    "p": "uru",
+    "m": "bán",
+    "cat": "verb"
+  },
+  {
+    "w": "貸す",
+    "p": "kasu",
+    "m": "cho mượn",
+    "cat": "verb"
+  },
+  {
+    "w": "借りる",
+    "p": "kariru",
+    "m": "mượn",
+    "cat": "verb"
+  },
+  {
+    "w": "消す",
+    "p": "kesu",
+    "m": "tắt, xóa",
+    "cat": "verb"
+  },
+  {
+    "w": "着る",
+    "p": "kiru",
+    "m": "mặc (áo)",
+    "cat": "verb"
+  },
+  {
+    "w": "死ぬ",
+    "p": "shinu",
+    "m": "chết",
+    "cat": "verb"
+  },
+  {
+    "w": "掃除する",
+    "p": "souji suru",
+    "m": "dọn dẹp",
+    "cat": "verb"
+  },
+  {
+    "w": "旅行する",
+    "p": "ryokou suru",
+    "m": "du lịch",
+    "cat": "verb"
+  },
+  {
+    "w": "脱ぐ",
+    "p": "nugu",
+    "m": "cởi (áo, giày)",
+    "cat": "verb"
+  },
+  {
+    "w": "かぶる",
+    "p": "kaburu",
+    "m": "đội (mũ)",
+    "cat": "verb"
+  },
+  {
+    "w": "履く",
+    "p": "haku",
+    "m": "mang, xỏ (giày, tất)",
+    "cat": "verb"
+  },
+  {
+    "w": "生まれる",
+    "p": "umareru",
+    "m": "sinh ra",
+    "cat": "verb"
+  },
+  {
+    "w": "結婚する",
+    "p": "kekkon suru",
+    "m": "kết hôn",
+    "cat": "verb"
+  },
+  {
+    "w": "洗濯する",
+    "p": "sentaku suru",
+    "m": "giặt đồ",
+    "cat": "verb"
+  },
+  {
+    "w": "散歩する",
+    "p": "sanpo suru",
+    "m": "đi dạo",
+    "cat": "verb"
+  },
+  {
+    "w": "触る",
+    "p": "sawaru",
+    "m": "chạm vào",
+    "cat": "verb"
+  },
+  {
+    "w": "選ぶ",
+    "p": "erabu",
+    "m": "chọn",
+    "cat": "verb"
+  },
+  {
+    "w": "探す",
+    "p": "sagasu",
+    "m": "tìm kiếm",
+    "cat": "verb"
+  },
+  {
+    "w": "決める",
+    "p": "kimeru",
+    "m": "quyết định",
+    "cat": "verb"
+  },
+  {
+    "w": "がんばる",
+    "p": "ganbaru",
+    "m": "cố gắng",
+    "cat": "verb"
+  },
+  {
+    "w": "安全",
+    "p": "anzen",
+    "m": "an toàn",
+    "cat": "adjective"
+  },
+  {
+    "w": "悲しい",
+    "p": "kanashii",
+    "m": "buồn",
+    "cat": "adjective"
+  },
+  {
+    "w": "高い",
+    "p": "takai",
+    "m": "cao",
+    "cat": "adjective"
+  },
+  {
+    "w": "長い",
+    "p": "nagai",
+    "m": "dài",
+    "cat": "adjective"
+  },
+  {
+    "w": "簡単",
+    "p": "kantan",
+    "m": "dễ, đơn giản",
+    "cat": "adjective"
+  },
+  {
+    "w": "近い",
+    "p": "chikai",
+    "m": "gần",
+    "cat": "adjective"
+  },
+  {
+    "w": "同じ",
+    "p": "onaji",
+    "m": "giống nhau",
+    "cat": "adjective"
+  },
+  {
+    "w": "違う",
+    "p": "chigau",
+    "m": "khác nhau",
+    "cat": "adjective"
+  },
+  {
+    "w": "のどが渇いた",
+    "p": "nodo ga kawaita",
+    "m": "khát",
+    "cat": "adjective"
+  },
+  {
+    "w": "難しい",
+    "p": "muzukashii",
+    "m": "khó",
+    "cat": "adjective"
+  },
+  {
+    "w": "狭い",
+    "p": "semai",
+    "m": "hẹp",
+    "cat": "adjective"
+  },
+  {
+    "w": "寒い",
+    "p": "samui",
+    "m": "lạnh (thời tiết)",
+    "cat": "adjective"
+  },
+  {
+    "w": "ゆっくり",
+    "p": "yukkuri",
+    "m": "chậm, từ từ",
+    "cat": "adjective"
+  },
+  {
+    "w": "遅れる",
+    "p": "okureru",
+    "m": "muộn, trễ",
+    "cat": "verb"
+  },
+  {
+    "w": "汚い",
+    "p": "kitanai",
+    "m": "bẩn",
+    "cat": "adjective"
+  },
+  {
+    "w": "古い",
+    "p": "furui",
+    "m": "cũ, già",
+    "cat": "adjective"
+  },
+  {
+    "w": "欲しい",
+    "p": "hoshii",
+    "m": "muốn",
+    "cat": "adjective"
+  },
+  {
+    "w": "少し",
+    "p": "sukoshi",
+    "m": "một chút, mấy",
+    "cat": "adjective"
+  },
+  {
+    "w": "大きい",
+    "p": "ookii",
+    "m": "to, lớn",
+    "cat": "adjective"
+  },
+  {
+    "w": "小さい",
+    "p": "chiisai",
+    "m": "nhỏ",
+    "cat": "adjective"
+  },
+  {
+    "w": "安い",
+    "p": "yasui",
+    "m": "rẻ",
+    "cat": "adjective"
+  },
+  {
+    "w": "軽い",
+    "p": "karui",
+    "m": "nhẹ",
+    "cat": "adjective"
+  },
+  {
+    "w": "強い",
+    "p": "tsuyoi",
+    "m": "mạnh, khỏe",
+    "cat": "adjective"
+  },
+  {
+    "w": "弱い",
+    "p": "yowai",
+    "m": "yếu",
+    "cat": "adjective"
+  },
+  {
+    "w": "元気",
+    "p": "genki",
+    "m": "khỏe, năng động",
+    "cat": "adjective"
+  },
+  {
+    "w": "忙しい",
+    "p": "isogashii",
+    "m": "bận rộn",
+    "cat": "adjective"
+  },
+  {
+    "w": "暇",
+    "p": "hima",
+    "m": "rảnh rỗi",
+    "cat": "adjective"
+  },
+  {
+    "w": "面白い",
+    "p": "omoshiroi",
+    "m": "thú vị, hay",
+    "cat": "adjective"
+  },
+  {
+    "w": "つまらない",
+    "p": "tsumaranai",
+    "m": "nhàm chán",
+    "cat": "adjective"
+  },
+  {
+    "w": "便利",
+    "p": "benri",
+    "m": "tiện lợi",
+    "cat": "adjective"
+  },
+  {
+    "w": "不便",
+    "p": "fuben",
+    "m": "bất tiện",
+    "cat": "adjective"
+  },
+  {
+    "w": "親切",
+    "p": "shinsetsu",
+    "m": "tốt bụng, thân thiện",
+    "cat": "adjective"
+  },
+  {
+    "w": "有名",
+    "p": "yuumei",
+    "m": "nổi tiếng",
+    "cat": "adjective"
+  },
+  {
+    "w": "上手",
+    "p": "jouzu",
+    "m": "giỏi",
+    "cat": "adjective"
+  },
+  {
+    "w": "下手",
+    "p": "heta",
+    "m": "kém, vụng về",
+    "cat": "adjective"
+  },
+  {
+    "w": "嫌い",
+    "p": "kirai",
+    "m": "ghét",
+    "cat": "adjective"
+  },
+  {
+    "w": "大好き",
+    "p": "daisuki",
+    "m": "rất thích",
+    "cat": "adjective"
+  },
+  {
+    "w": "くつ",
+    "p": "kutsu",
+    "m": "giày",
+    "cat": "clothing"
+  },
+  {
+    "w": "帽子",
+    "p": "boushi",
+    "m": "mũ",
+    "cat": "clothing"
+  },
+  {
+    "w": "服",
+    "p": "fuku",
+    "m": "quần áo",
+    "cat": "clothing"
+  },
+  {
+    "w": "手袋",
+    "p": "tebukuro",
+    "m": "găng tay",
+    "cat": "clothing"
+  },
+  {
+    "w": "飛行機",
+    "p": "hikouki",
+    "m": "máy bay",
+    "cat": "transport"
+  },
+  {
+    "w": "自転車",
+    "p": "jitensha",
+    "m": "xe đạp",
+    "cat": "transport"
+  },
+  {
+    "w": "船",
+    "p": "fune",
+    "m": "tàu thủy",
+    "cat": "transport"
+  },
+  {
+    "w": "道",
+    "p": "michi",
+    "m": "con đường",
+    "cat": "place"
+  },
+  {
+    "w": "方法",
+    "p": "houhou",
+    "m": "cách, phương pháp",
+    "cat": "misc"
+  },
+  {
+    "w": "橋",
+    "p": "hashi",
+    "m": "cây cầu",
+    "cat": "place"
+  },
+  {
+    "w": "仕事",
+    "p": "shigoto",
+    "m": "công việc",
+    "cat": "work"
+  },
+  {
+    "w": "質問",
+    "p": "shitsumon",
+    "m": "câu hỏi",
+    "cat": "school"
+  },
+  {
+    "w": "答え",
+    "p": "kotae",
+    "m": "câu trả lời",
+    "cat": "school"
+  },
+  {
+    "w": "生活",
+    "p": "seikatsu",
+    "m": "cuộc sống",
+    "cat": "misc"
+  },
+  {
+    "w": "サイズ",
+    "p": "saizu",
+    "m": "kích thước",
+    "cat": "misc"
+  },
+  {
+    "w": "回",
+    "p": "kai",
+    "m": "lần (số lần)",
+    "cat": "misc"
+  },
+  {
+    "w": "火",
+    "p": "hi",
+    "m": "lửa",
+    "cat": "nature"
+  },
+  {
+    "w": "色",
+    "p": "iro",
+    "m": "màu sắc",
+    "cat": "misc"
+  },
+  {
+    "w": "中国",
+    "p": "chuugoku",
+    "m": "Trung Quốc",
+    "cat": "place"
+  },
+  {
+    "w": "北京",
+    "p": "pekin",
+    "m": "Bắc Kinh",
+    "cat": "place"
+  },
+  {
+    "w": "見せる",
+    "p": "miseru",
+    "m": "chỉ cho xem",
+    "cat": "verb"
+  },
+  {
+    "w": "だけ",
+    "p": "dake",
+    "m": "chỉ, chỉ có",
+    "cat": "misc"
+  },
+  {
+    "w": "それ",
+    "p": "sore",
+    "m": "cái đó",
+    "cat": "misc"
+  },
+  {
+    "w": "これ",
+    "p": "kore",
+    "m": "cái này",
+    "cat": "misc"
+  },
+  {
+    "w": "絵",
+    "p": "e",
+    "m": "bức tranh, ảnh vẽ",
+    "cat": "misc"
+  },
+  {
+    "w": "あなた",
+    "p": "anata",
+    "m": "bạn, anh, chị",
+    "cat": "misc"
+  },
+  {
+    "w": "一緒に",
+    "p": "issho ni",
+    "m": "cùng nhau",
+    "cat": "misc"
+  },
+  {
+    "w": "下",
+    "p": "shita",
+    "m": "dưới",
+    "cat": "misc"
+  },
+  {
+    "w": "先生",
+    "p": "sensei",
+    "m": "giáo viên",
+    "cat": "school"
+  },
+  {
+    "w": "値段",
+    "p": "nedan",
+    "m": "giá cả",
+    "cat": "misc"
+  },
+  {
+    "w": "間",
+    "p": "aida",
+    "m": "giữa",
+    "cat": "misc"
+  },
+  {
+    "w": "鶏肉",
+    "p": "toriniku",
+    "m": "thịt gà",
+    "cat": "food"
+  },
+  {
+    "w": "または",
+    "p": "mataha",
+    "m": "hoặc",
+    "cat": "misc"
+  },
+  {
+    "w": "もっと",
+    "p": "motto",
+    "m": "hơn, nhiều hơn nữa",
+    "cat": "misc"
+  },
+  {
+    "w": "彼ら",
+    "p": "karera",
+    "m": "họ",
+    "cat": "misc"
+  },
+  {
+    "w": "学生",
+    "p": "gakusei",
+    "m": "học sinh",
+    "cat": "school"
+  },
+  {
+    "w": "とき",
+    "p": "toki",
+    "m": "khi",
+    "cat": "misc"
+  },
+  {
+    "w": "いいえ",
+    "p": "iie",
+    "m": "không",
+    "cat": "phrase"
+  },
+  {
+    "w": "全然",
+    "p": "zenzen",
+    "m": "không, hoàn toàn không",
+    "cat": "misc"
+  },
+  {
+    "w": "ない",
+    "p": "nai",
+    "m": "không có",
+    "cat": "misc"
+  },
+  {
+    "w": "どういたしまして",
+    "p": "dou itashimashite",
+    "m": "không có gì",
+    "cat": "greeting"
+  },
+  {
+    "w": "いつも",
+    "p": "itsumo",
+    "m": "luôn luôn",
+    "cat": "misc"
+  },
+  {
+    "w": "ください",
+    "p": "kudasai",
+    "m": "làm ơn, xin hãy cho",
+    "cat": "phrase"
+  },
+  {
+    "w": "運転する",
+    "p": "unten suru",
+    "m": "lái xe",
+    "cat": "verb"
+  },
+  {
+    "w": "背中",
+    "p": "senaka",
+    "m": "lưng",
+    "cat": "body"
+  },
+  {
+    "w": "また",
+    "p": "mata",
+    "m": "lại, lần nữa",
+    "cat": "misc"
+  },
+  {
+    "w": "風邪",
+    "p": "kaze",
+    "m": "cảm lạnh",
+    "cat": "health"
+  },
+  {
+    "w": "無料",
+    "p": "muryou",
+    "m": "miễn phí",
+    "cat": "misc"
+  },
+  {
+    "w": "なくす",
+    "p": "nakusu",
+    "m": "mất, làm mất",
+    "cat": "verb"
+  },
+  {
+    "w": "兄弟",
+    "p": "kyoudai",
+    "m": "anh trai, em trai",
+    "cat": "family"
+  },
+  {
+    "w": "彼",
+    "p": "kare",
+    "m": "anh ấy, ông ấy",
+    "cat": "misc"
+  },
+  {
+    "w": "知り合い",
+    "p": "shiriai",
+    "m": "người quen",
+    "cat": "misc"
+  },
+  {
+    "w": "医者",
+    "p": "isha",
+    "m": "bác sĩ",
+    "cat": "work"
+  },
+  {
+    "w": "隣",
+    "p": "tonari",
+    "m": "bên cạnh",
+    "cat": "misc"
+  },
+  {
+    "w": "外",
+    "p": "soto",
+    "m": "bên ngoài",
+    "cat": "misc"
+  },
+  {
+    "w": "中",
+    "p": "naka",
+    "m": "bên trong",
+    "cat": "misc"
+  },
+  {
+    "w": "左",
+    "p": "hidari",
+    "m": "bên trái",
+    "cat": "misc"
+  },
+  {
+    "w": "君",
+    "p": "kimi",
+    "m": "bạn, mày (thân mật)",
+    "cat": "misc"
+  },
+  {
+    "w": "北",
+    "p": "kita",
+    "m": "phía bắc",
+    "cat": "misc"
+  },
+  {
+    "w": "やあ",
+    "p": "yaa",
+    "m": "chào (thân mật)",
+    "cat": "greeting"
+  },
+  {
+    "w": "私たち",
+    "p": "watashitachi",
+    "m": "chúng tôi, chúng ta",
+    "cat": "misc"
+  },
+  {
+    "w": "匹",
+    "p": "hiki",
+    "m": "con (lượng từ cho động vật)",
+    "cat": "misc"
+  },
+  {
+    "w": "姉妹",
+    "p": "shimai",
+    "m": "chị gái, em gái",
+    "cat": "family"
+  },
+  {
+    "w": "最後",
+    "p": "saigo",
+    "m": "cuối cùng, vừa rồi",
+    "cat": "misc"
+  },
+  {
+    "w": "本",
+    "p": "hon",
+    "m": "cuốn sách",
+    "cat": "school"
+  },
+  {
+    "w": "はい",
+    "p": "hai",
+    "m": "có, vâng",
+    "cat": "phrase"
+  },
+  {
+    "w": "彼女",
+    "p": "kanojo",
+    "m": "cô ấy, bà ấy",
+    "cat": "misc"
+  },
+  {
+    "w": "両方",
+    "p": "ryouhou",
+    "m": "cả hai",
+    "cat": "misc"
+  },
+  {
+    "w": "感じる",
+    "p": "kanjiru",
+    "m": "cảm thấy",
+    "cat": "verb"
+  },
+  {
+    "w": "どうも",
+    "p": "doumo",
+    "m": "cảm ơn (thân mật)",
+    "cat": "greeting"
+  },
+  {
+    "w": "浮く",
+    "p": "uku",
+    "m": "nổi",
+    "cat": "verb"
+  },
+  {
+    "w": "バス停",
+    "p": "basutei",
+    "m": "trạm dừng xe buýt",
+    "cat": "place"
+  },
+  {
+    "w": "電話する",
+    "p": "denwa suru",
+    "m": "gọi điện",
+    "cat": "verb"
+  },
+  {
+    "w": "硬い",
+    "p": "katai",
+    "m": "cứng",
+    "cat": "adjective"
+  },
+  {
+    "w": "後ろ",
+    "p": "ushiro",
+    "m": "phía sau",
+    "cat": "misc"
+  },
+  {
+    "w": "自由",
+    "p": "jiyuu",
+    "m": "tự do",
+    "cat": "adjective"
+  },
+  {
+    "w": "音楽",
+    "p": "ongaku",
+    "m": "âm nhạc",
+    "cat": "misc"
+  },
+  {
+    "w": "歌",
+    "p": "uta",
+    "m": "bài hát",
+    "cat": "misc"
+  },
+  {
+    "w": "映画",
+    "p": "eiga",
+    "m": "phim",
+    "cat": "misc"
+  },
+  {
+    "w": "テレビ",
+    "p": "terebi",
+    "m": "ti vi",
+    "cat": "home"
+  },
+  {
+    "w": "新聞",
+    "p": "shinbun",
+    "m": "báo",
+    "cat": "misc"
+  },
+  {
+    "w": "カメラ",
+    "p": "kamera",
+    "m": "máy ảnh",
+    "cat": "misc"
+  },
+  {
+    "w": "手紙",
+    "p": "tegami",
+    "m": "lá thư",
+    "cat": "misc"
+  },
+  {
+    "w": "誕生日",
+    "p": "tanjoubi",
+    "m": "sinh nhật",
+    "cat": "time"
+  },
+  {
+    "w": "カード",
+    "p": "kaado",
+    "m": "thẻ",
+    "cat": "misc"
+  },
+  {
+    "w": "財布",
+    "p": "saifu",
+    "m": "ví tiền",
+    "cat": "misc"
+  },
+  {
+    "w": "会社",
+    "p": "kaisha",
+    "m": "công ty",
+    "cat": "work"
+  },
+  {
+    "w": "味",
+    "p": "aji",
+    "m": "vị, hương vị",
+    "cat": "food"
+  },
+  {
+    "w": "におい",
+    "p": "nioi",
+    "m": "mùi",
+    "cat": "misc"
+  },
+  {
+    "w": "声",
+    "p": "koe",
+    "m": "giọng nói",
+    "cat": "body"
+  },
+  {
+    "w": "切手",
+    "p": "kitte",
+    "m": "con tem",
+    "cat": "misc"
+  },
+  {
+    "w": "はがき",
+    "p": "hagaki",
+    "m": "bưu thiếp",
+    "cat": "misc"
+  },
+  {
+    "w": "荷物",
+    "p": "nimotsu",
+    "m": "hành lý",
+    "cat": "misc"
+  },
+  {
+    "w": "ネクタイ",
+    "p": "nekutai",
+    "m": "cà vạt",
+    "cat": "clothing"
+  },
+  {
+    "w": "三角",
+    "p": "sankaku",
+    "m": "hình tam giác",
+    "cat": "misc"
+  },
+  {
+    "w": "半分",
+    "p": "hanbun",
+    "m": "một nửa",
+    "cat": "misc"
+  },
+  {
+    "w": "天気",
+    "p": "tenki",
+    "m": "thời tiết",
+    "cat": "weather"
+  },
+  {
+    "w": "音",
+    "p": "oto",
+    "m": "âm thanh",
+    "cat": "misc"
+  },
+  {
+    "w": "浅い",
+    "p": "asai",
+    "m": "nông, cạn",
+    "cat": "adjective"
+  },
+  {
+    "w": "暗い",
+    "p": "kurai",
+    "m": "tối",
+    "cat": "adjective"
+  },
+  {
+    "w": "にぎやか",
+    "p": "nigiyaka",
+    "m": "náo nhiệt",
+    "cat": "adjective"
+  },
+  {
+    "w": "甘い",
+    "p": "amai",
+    "m": "ngọt",
+    "cat": "adjective"
+  },
+  {
+    "w": "辛い",
+    "p": "karai",
+    "m": "cay",
+    "cat": "adjective"
+  },
+  {
+    "w": "酸っぱい",
+    "p": "suppai",
+    "m": "chua",
+    "cat": "adjective"
+  },
+  {
+    "w": "苦い",
+    "p": "nigai",
+    "m": "đắng",
+    "cat": "adjective"
+  },
+  {
+    "w": "弾く",
+    "p": "hiku",
+    "m": "chơi (đàn)",
+    "cat": "verb"
+  },
+  {
+    "w": "来週",
+    "p": "raishuu",
+    "m": "tuần sau",
+    "cat": "time"
+  },
+  {
+    "w": "先週",
+    "p": "senshuu",
+    "m": "tuần trước",
+    "cat": "time"
+  },
+  {
+    "w": "来年",
+    "p": "rainen",
+    "m": "năm sau",
+    "cat": "time"
+  },
+  {
+    "w": "去年",
+    "p": "kyonen",
+    "m": "năm ngoái",
+    "cat": "time"
+  },
+  {
+    "w": "毎週",
+    "p": "maishuu",
+    "m": "mỗi tuần",
+    "cat": "time"
+  },
+  {
+    "w": "毎年",
+    "p": "maitoshi",
+    "m": "mỗi năm",
+    "cat": "time"
+  },
+  {
+    "w": "いとこ",
+    "p": "itoko",
+    "m": "anh chị em họ",
+    "cat": "family"
+  },
+  {
+    "w": "皆さん",
+    "p": "minasan",
+    "m": "mọi người, các bạn",
+    "cat": "misc"
+  },
+  {
+    "w": "つ",
+    "p": "tsu",
+    "m": "cái (lượng từ)",
+    "cat": "misc"
+  },
+  {
+    "w": "何人",
+    "p": "nannin",
+    "m": "mấy người",
+    "cat": "question"
+  },
+  {
+    "w": "何時間",
+    "p": "nanjikan",
+    "m": "mấy tiếng đồng hồ",
+    "cat": "question"
+  },
+  {
+    "w": "授業",
+    "p": "jugyou",
+    "m": "tiết học, buổi học",
+    "cat": "school"
+  },
+  {
+    "w": "テスト",
+    "p": "tesuto",
+    "m": "bài kiểm tra",
+    "cat": "school"
+  },
+  {
+    "w": "宿題",
+    "p": "shukudai",
+    "m": "bài tập về nhà",
+    "cat": "school"
+  },
+  {
+    "w": "教室",
+    "p": "kyoushitsu",
+    "m": "phòng học",
+    "cat": "school"
+  },
+  {
+    "w": "辞書",
+    "p": "jisho",
+    "m": "từ điển",
+    "cat": "school"
+  },
+  {
+    "w": "カレンダー",
+    "p": "karendaa",
+    "m": "lịch",
+    "cat": "home"
+  },
+  {
+    "w": "冷蔵庫",
+    "p": "reizouko",
+    "m": "tủ lạnh",
+    "cat": "home"
+  },
+  {
+    "w": "エアコン",
+    "p": "eakon",
+    "m": "điều hòa",
+    "cat": "home"
+  },
+  {
+    "w": "シャワー",
+    "p": "shawaa",
+    "m": "vòi hoa sen",
+    "cat": "home"
+  },
+  {
+    "w": "お風呂",
+    "p": "ofuro",
+    "m": "bồn tắm",
+    "cat": "home"
+  },
+  {
+    "w": "トイレ",
+    "p": "toire",
+    "m": "nhà vệ sinh",
+    "cat": "place"
+  },
+  {
+    "w": "台所",
+    "p": "daidokoro",
+    "m": "nhà bếp",
+    "cat": "home"
+  },
+  {
+    "w": "エレベーター",
+    "p": "erebeetaa",
+    "m": "thang máy",
+    "cat": "place"
+  },
+  {
+    "w": "階段",
+    "p": "kaidan",
+    "m": "cầu thang",
+    "cat": "place"
+  },
+  {
+    "w": "ラーメン",
+    "p": "raamen",
+    "m": "mì ramen",
+    "cat": "food"
+  },
+  {
+    "w": "すし",
+    "p": "sushi",
+    "m": "sushi",
+    "cat": "food"
+  },
+  {
+    "w": "カレー",
+    "p": "karee",
+    "m": "cà ri",
+    "cat": "food"
+  },
+  {
+    "w": "サラダ",
+    "p": "sarada",
+    "m": "sa lát",
+    "cat": "food"
+  },
+  {
+    "w": "お酒",
+    "p": "osake",
+    "m": "rượu",
+    "cat": "food"
+  },
+  {
+    "w": "漢字",
+    "p": "kanji",
+    "m": "chữ Hán",
+    "cat": "school"
+  },
+  {
+    "w": "ひらがな",
+    "p": "hiragana",
+    "m": "chữ hiragana",
+    "cat": "school"
+  },
+  {
+    "w": "カタカナ",
+    "p": "katakana",
+    "m": "chữ katakana",
+    "cat": "school"
+  },
+  {
+    "w": "意味",
+    "p": "imi",
+    "m": "ý nghĩa",
+    "cat": "misc"
+  },
+  {
+    "w": "練習する",
+    "p": "renshuu suru",
+    "m": "luyện tập",
+    "cat": "verb"
+  },
+  {
+    "w": "準備する",
+    "p": "junbi suru",
+    "m": "chuẩn bị",
+    "cat": "verb"
+  },
+  {
+    "w": "泊まる",
+    "p": "tomaru",
+    "m": "ở lại qua đêm",
+    "cat": "verb"
+  },
+  {
+    "w": "予約する",
+    "p": "yoyaku suru",
+    "m": "đặt trước",
+    "cat": "verb"
+  },
+  {
+    "w": "パスポート",
+    "p": "pasupooto",
+    "m": "hộ chiếu",
+    "cat": "misc"
+  },
+  {
+    "w": "空気",
+    "p": "kuuki",
+    "m": "không khí",
+    "cat": "nature"
+  },
+  {
+    "w": "夢",
+    "p": "yume",
+    "m": "giấc mơ",
+    "cat": "misc"
+  },
+  {
+    "w": "趣味",
+    "p": "shumi",
+    "m": "sở thích",
+    "cat": "misc"
+  },
+  {
+    "w": "予定",
+    "p": "yotei",
+    "m": "dự định, kế hoạch",
+    "cat": "misc"
+  },
+  {
+    "w": "用事",
+    "p": "youji",
+    "m": "việc bận",
+    "cat": "misc"
+  },
+  {
+    "w": "心配する",
+    "p": "shinpai suru",
+    "m": "lo lắng",
+    "cat": "verb"
+  },
+  {
+    "w": "安心する",
+    "p": "anshin suru",
+    "m": "yên tâm",
+    "cat": "verb"
+  },
+  {
+    "w": "特別",
+    "p": "tokubetsu",
+    "m": "đặc biệt",
+    "cat": "adjective"
+  },
+  {
+    "w": "普通",
+    "p": "futsuu",
+    "m": "bình thường",
+    "cat": "adjective"
+  },
+  {
+    "w": "火曜日",
+    "p": "kayoubi",
+    "m": "thứ Ba",
+    "cat": "time"
+  },
+  {
+    "w": "水曜日",
+    "p": "suiyoubi",
+    "m": "thứ Tư",
+    "cat": "time"
+  },
+  {
+    "w": "木曜日",
+    "p": "mokuyoubi",
+    "m": "thứ Năm",
+    "cat": "time"
+  },
+  {
+    "w": "金曜日",
+    "p": "kinyoubi",
+    "m": "thứ Sáu",
+    "cat": "time"
+  },
+  {
+    "w": "土曜日",
+    "p": "doyoubi",
+    "m": "thứ Bảy",
+    "cat": "time"
+  },
+  {
+    "w": "月曜日",
+    "p": "getsuyoubi",
+    "m": "thứ Hai",
+    "cat": "time"
+  },
+  {
+    "w": "一月",
+    "p": "ichigatsu",
+    "m": "tháng Một, tháng Giêng",
+    "cat": "time"
+  },
+  {
+    "w": "二月",
+    "p": "nigatsu",
+    "m": "tháng Hai",
+    "cat": "time"
+  },
+  {
+    "w": "三月",
+    "p": "sangatsu",
+    "m": "tháng Ba",
+    "cat": "time"
+  },
+  {
+    "w": "四月",
+    "p": "shigatsu",
+    "m": "tháng Tư",
+    "cat": "time"
+  },
+  {
+    "w": "五月",
+    "p": "gogatsu",
+    "m": "tháng Năm",
+    "cat": "time"
+  },
+  {
+    "w": "六月",
+    "p": "rokugatsu",
+    "m": "tháng Sáu",
+    "cat": "time"
+  },
+  {
+    "w": "七月",
+    "p": "shichigatsu",
+    "m": "tháng Bảy",
+    "cat": "time"
+  },
+  {
+    "w": "八月",
+    "p": "hachigatsu",
+    "m": "tháng Tám",
+    "cat": "time"
+  },
+  {
+    "w": "九月",
+    "p": "kugatsu",
+    "m": "tháng Chín",
+    "cat": "time"
+  },
+  {
+    "w": "十月",
+    "p": "juugatsu",
+    "m": "tháng Mười",
+    "cat": "time"
+  },
+  {
+    "w": "十一月",
+    "p": "juuichigatsu",
+    "m": "tháng Mười Một",
+    "cat": "time"
+  },
+  {
+    "w": "十二月",
+    "p": "juunigatsu",
+    "m": "tháng Mười Hai",
+    "cat": "time"
+  },
+  {
+    "w": "時",
+    "p": "ji",
+    "m": "giờ (đơn vị)",
+    "cat": "time"
+  },
+  {
+    "w": "分",
+    "p": "fun",
+    "m": "phút",
+    "cat": "time"
+  },
+  {
+    "w": "秒",
+    "p": "byou",
+    "m": "giây",
+    "cat": "time"
+  },
+  {
+    "w": "明日",
+    "p": "ashita",
+    "m": "ngày mai",
+    "cat": "time"
+  },
+  {
+    "w": "週",
+    "p": "shuu",
+    "m": "tuần",
+    "cat": "time"
+  },
+  {
+    "w": "今週",
+    "p": "konshuu",
+    "m": "tuần này",
+    "cat": "time"
+  },
+  {
+    "w": "今月",
+    "p": "kongetsu",
+    "m": "tháng này",
+    "cat": "time"
+  },
+  {
+    "w": "先月",
+    "p": "sengetsu",
+    "m": "tháng trước",
+    "cat": "time"
+  },
+  {
+    "w": "来月",
+    "p": "raigetsu",
+    "m": "tháng sau",
+    "cat": "time"
+  },
+  {
+    "w": "今年",
+    "p": "kotoshi",
+    "m": "năm nay",
+    "cat": "time"
+  },
+  {
+    "w": "年",
+    "p": "nen",
+    "m": "năm",
+    "cat": "time"
+  },
+  {
+    "w": "五",
+    "p": "go",
+    "m": "năm (số đếm)",
+    "cat": "number"
+  },
+  {
+    "w": "六",
+    "p": "roku",
+    "m": "sáu",
+    "cat": "number"
+  },
+  {
+    "w": "八",
+    "p": "hachi",
+    "m": "tám",
+    "cat": "number"
+  },
+  {
+    "w": "百",
+    "p": "hyaku",
+    "m": "trăm",
+    "cat": "number"
+  },
+  {
+    "w": "千",
+    "p": "sen",
+    "m": "nghìn",
+    "cat": "number"
+  },
+  {
+    "w": "万",
+    "p": "man",
+    "m": "mười nghìn, vạn",
+    "cat": "number"
+  },
+  {
+    "w": "半",
+    "p": "han",
+    "m": "rưỡi, nửa",
+    "cat": "number"
+  },
+  {
+    "w": "歳",
+    "p": "sai",
+    "m": "tuổi",
+    "cat": "number"
+  },
+  {
+    "w": "一人で",
+    "p": "hitori de",
+    "m": "một mình",
+    "cat": "adverb"
+  },
+  {
+    "w": "父",
+    "p": "chichi",
+    "m": "bố (cách nói khiêm nhường)",
+    "cat": "family"
+  },
+  {
+    "w": "母",
+    "p": "haha",
+    "m": "mẹ (cách nói khiêm nhường)",
+    "cat": "family"
+  },
+  {
+    "w": "兄",
+    "p": "ani",
+    "m": "anh trai (của mình)",
+    "cat": "family"
+  },
+  {
+    "w": "姉",
+    "p": "ane",
+    "m": "chị gái (của mình)",
+    "cat": "family"
+  },
+  {
+    "w": "祖父",
+    "p": "sofu",
+    "m": "ông (của mình)",
+    "cat": "family"
+  },
+  {
+    "w": "祖母",
+    "p": "sobo",
+    "m": "bà (của mình)",
+    "cat": "family"
+  },
+  {
+    "w": "お祖父さん",
+    "p": "ojiisan",
+    "m": "ông (người khác, lịch sự)",
+    "cat": "family"
+  },
+  {
+    "w": "お祖母さん",
+    "p": "obaasan",
+    "m": "bà (người khác, lịch sự)",
+    "cat": "family"
+  },
+  {
+    "w": "妻",
+    "p": "tsuma",
+    "m": "vợ",
+    "cat": "family"
+  },
+  {
+    "w": "子供",
+    "p": "kodomo",
+    "m": "trẻ em, con cái",
+    "cat": "family"
+  },
+  {
+    "w": "大人",
+    "p": "otona",
+    "m": "người lớn",
+    "cat": "family"
+  },
+  {
+    "w": "男の人",
+    "p": "otoko no hito",
+    "m": "đàn ông, người đàn ông",
+    "cat": "family"
+  },
+  {
+    "w": "女の人",
+    "p": "onna no hito",
+    "m": "phụ nữ, người phụ nữ",
+    "cat": "family"
+  },
+  {
+    "w": "男の子",
+    "p": "otoko no ko",
+    "m": "bé trai",
+    "cat": "family"
+  },
+  {
+    "w": "女の子",
+    "p": "onna no ko",
+    "m": "bé gái",
+    "cat": "family"
+  },
+  {
+    "w": "人",
+    "p": "hito",
+    "m": "người",
+    "cat": "family"
+  },
+  {
+    "w": "名前",
+    "p": "namae",
+    "m": "tên",
+    "cat": "family"
+  },
+  {
+    "w": "考える",
+    "p": "kangaeru",
+    "m": "nghĩ, suy nghĩ",
+    "cat": "verb"
+  },
+  {
+    "w": "座る",
+    "p": "suwaru",
+    "m": "ngồi",
+    "cat": "verb"
+  },
+  {
+    "w": "寝る",
+    "p": "neru",
+    "m": "ngủ",
+    "cat": "verb"
+  },
+  {
+    "w": "見る",
+    "p": "miru",
+    "m": "nhìn, xem",
+    "cat": "verb"
+  },
+  {
+    "w": "跳ぶ",
+    "p": "tobu",
+    "m": "nhảy",
+    "cat": "verb"
+  },
+  {
+    "w": "踊る",
+    "p": "odoru",
+    "m": "nhảy múa",
+    "cat": "verb"
+  },
+  {
+    "w": "覚える",
+    "p": "oboeru",
+    "m": "nhớ, ghi nhớ",
+    "cat": "verb"
+  },
+  {
+    "w": "話す",
+    "p": "hanasu",
+    "m": "nói, nói chuyện",
+    "cat": "verb"
+  },
+  {
+    "w": "料理する",
+    "p": "ryouri suru",
+    "m": "nấu ăn",
+    "cat": "verb"
+  },
+  {
+    "w": "曲がる",
+    "p": "magaru",
+    "m": "rẽ, quẹo",
+    "cat": "verb"
+  },
+  {
+    "w": "忘れる",
+    "p": "wasureru",
+    "m": "quên",
+    "cat": "verb"
+  },
+  {
+    "w": "出る",
+    "p": "deru",
+    "m": "ra, đi ra",
+    "cat": "verb"
+  },
+  {
+    "w": "洗う",
+    "p": "arau",
+    "m": "rửa",
+    "cat": "verb"
+  },
+  {
+    "w": "住む",
+    "p": "sumu",
+    "m": "sống, ở (một nơi)",
+    "cat": "verb"
+  },
+  {
+    "w": "直す",
+    "p": "naosu",
+    "m": "sửa chữa",
+    "cat": "verb"
+  },
+  {
+    "w": "好き",
+    "p": "suki",
+    "m": "thích",
+    "cat": "adjective"
+  },
+  {
+    "w": "試す",
+    "p": "tamesu",
+    "m": "thử",
+    "cat": "verb"
+  },
+  {
+    "w": "答える",
+    "p": "kotaeru",
+    "m": "trả lời",
+    "cat": "verb"
+  },
+  {
+    "w": "払う",
+    "p": "harau",
+    "m": "trả tiền",
+    "cat": "verb"
+  },
+  {
+    "w": "戻る",
+    "p": "modoru",
+    "m": "trở về, quay lại",
+    "cat": "verb"
+  },
+  {
+    "w": "見つける",
+    "p": "mitsukeru",
+    "m": "tìm thấy",
+    "cat": "verb"
+  },
+  {
+    "w": "書く",
+    "p": "kaku",
+    "m": "viết",
+    "cat": "verb"
+  },
+  {
+    "w": "入る",
+    "p": "hairu",
+    "m": "vào",
+    "cat": "verb"
+  },
+  {
+    "w": "かく",
+    "p": "kaku",
+    "m": "vẽ (tranh, hình)",
+    "cat": "verb"
+  },
+  {
+    "w": "たてる",
+    "p": "tateru",
+    "m": "xây dựng",
+    "cat": "verb"
+  },
+  {
+    "w": "歩く",
+    "p": "aruku",
+    "m": "đi bộ",
+    "cat": "verb"
+  },
+  {
+    "w": "ついて行く",
+    "p": "tsuite iku",
+    "m": "đi theo",
+    "cat": "verb"
+  },
+  {
+    "w": "押す",
+    "p": "osu",
+    "m": "đẩy, nhấn",
+    "cat": "verb"
+  },
+  {
+    "w": "立つ",
+    "p": "tatsu",
+    "m": "đứng",
+    "cat": "verb"
+  },
+  {
+    "w": "質問する",
+    "p": "shitsumon suru",
+    "m": "hỏi, đặt câu hỏi",
+    "cat": "verb"
+  },
+  {
+    "w": "案内する",
+    "p": "annai suru",
+    "m": "hướng dẫn, chỉ đường",
+    "cat": "verb"
+  },
+  {
+    "w": "疲れる",
+    "p": "tsukareru",
+    "m": "mệt, mệt mỏi",
+    "cat": "verb"
+  },
+  {
+    "w": "柔らかい",
+    "p": "yawarakai",
+    "m": "mềm",
+    "cat": "adjective"
+  },
+  {
+    "w": "新しい",
+    "p": "atarashii",
+    "m": "mới",
+    "cat": "adjective"
+  },
+  {
+    "w": "低い",
+    "p": "hikui",
+    "m": "thấp",
+    "cat": "adjective"
+  },
+  {
+    "w": "短い",
+    "p": "mijikai",
+    "m": "ngắn",
+    "cat": "adjective"
+  },
+  {
+    "w": "速い",
+    "p": "hayai",
+    "m": "nhanh",
+    "cat": "adjective"
+  },
+  {
+    "w": "多い",
+    "p": "ooi",
+    "m": "nhiều",
+    "cat": "adjective"
+  },
+  {
+    "w": "暑い",
+    "p": "atsui",
+    "m": "nóng (thời tiết)",
+    "cat": "adjective"
+  },
+  {
+    "w": "熱い",
+    "p": "atsui",
+    "m": "nóng (khi sờ, đồ ăn)",
+    "cat": "adjective"
+  },
+  {
+    "w": "重い",
+    "p": "omoi",
+    "m": "nặng",
+    "cat": "adjective"
+  },
+  {
+    "w": "たいら",
+    "p": "taira",
+    "m": "phẳng",
+    "cat": "adjective"
+  },
+  {
+    "w": "大切",
+    "p": "taisetsu",
+    "m": "quan trọng",
+    "cat": "adjective"
+  },
+  {
+    "w": "空っぽ",
+    "p": "karappo",
+    "m": "trống, rỗng",
+    "cat": "adjective"
+  },
+  {
+    "w": "広い",
+    "p": "hiroi",
+    "m": "rộng",
+    "cat": "adjective"
+  },
+  {
+    "w": "深い",
+    "p": "fukai",
+    "m": "sâu",
+    "cat": "adjective"
+  },
+  {
+    "w": "明るい",
+    "p": "akarui",
+    "m": "sáng, tươi sáng",
+    "cat": "adjective"
+  },
+  {
+    "w": "丸い",
+    "p": "marui",
+    "m": "tròn",
+    "cat": "adjective"
+  },
+  {
+    "w": "若い",
+    "p": "wakai",
+    "m": "trẻ",
+    "cat": "adjective"
+  },
+  {
+    "w": "いい",
+    "p": "ii",
+    "m": "tốt",
+    "cat": "adjective"
+  },
+  {
+    "w": "優しい",
+    "p": "yasashii",
+    "m": "hiền lành, tốt bụng",
+    "cat": "adjective"
+  },
+  {
+    "w": "楽しい",
+    "p": "tanoshii",
+    "m": "vui vẻ",
+    "cat": "adjective"
+  },
+  {
+    "w": "四角い",
+    "p": "shikakui",
+    "m": "vuông",
+    "cat": "adjective"
+  },
+  {
+    "w": "遠い",
+    "p": "tooi",
+    "m": "xa",
+    "cat": "adjective"
+  },
+  {
+    "w": "美しい",
+    "p": "utsukushii",
+    "m": "xinh đẹp",
+    "cat": "adjective"
+  },
+  {
+    "w": "悪い",
+    "p": "warui",
+    "m": "xấu, tệ, không tốt",
+    "cat": "adjective"
+  },
+  {
+    "w": "静か",
+    "p": "shizuka",
+    "m": "yên tĩnh",
+    "cat": "adjective"
+  },
+  {
+    "w": "少ない",
+    "p": "sukunai",
+    "m": "ít",
+    "cat": "adjective"
+  },
+  {
+    "w": "お腹がすく",
+    "p": "onaka ga suku",
+    "m": "đói bụng",
+    "cat": "verb"
+  },
+  {
+    "w": "正しい",
+    "p": "tadashii",
+    "m": "đúng",
+    "cat": "adjective"
+  },
+  {
+    "w": "大丈夫",
+    "p": "daijoubu",
+    "m": "ổn, không sao, được",
+    "cat": "adjective"
+  },
+  {
+    "w": "いっぱい",
+    "p": "ippai",
+    "m": "đầy, no",
+    "cat": "adjective"
+  },
+  {
+    "w": "暖かい",
+    "p": "atatakai",
+    "m": "ấm áp",
+    "cat": "adjective"
+  },
+  {
+    "w": "病気",
+    "p": "byouki",
+    "m": "bệnh, ốm đau",
+    "cat": "health"
+  },
+  {
+    "w": "眠い",
+    "p": "nemui",
+    "m": "buồn ngủ",
+    "cat": "adjective"
+  },
+  {
+    "w": "痛い",
+    "p": "itai",
+    "m": "đau",
+    "cat": "adjective"
+  },
+  {
+    "w": "易しい",
+    "p": "yasashii",
+    "m": "dễ, đơn giản",
+    "cat": "adjective"
+  },
+  {
+    "w": "大変",
+    "p": "taihen",
+    "m": "vất vả, khổ sở",
+    "cat": "adjective"
+  },
+  {
+    "w": "お茶",
+    "p": "ocha",
+    "m": "trà",
+    "cat": "food"
+  },
+  {
+    "w": "果物",
+    "p": "kudamono",
+    "m": "trái cây",
+    "cat": "food"
+  },
+  {
+    "w": "肉",
+    "p": "niku",
+    "m": "thịt",
+    "cat": "food"
+  },
+  {
+    "w": "スープ",
+    "p": "suupu",
+    "m": "súp, canh",
+    "cat": "food"
+  },
+  {
+    "w": "野菜",
+    "p": "yasai",
+    "m": "rau",
+    "cat": "food"
+  },
+  {
+    "w": "牛乳",
+    "p": "gyuunyuu",
+    "m": "sữa",
+    "cat": "food"
+  },
+  {
+    "w": "卵",
+    "p": "tamago",
+    "m": "trứng",
+    "cat": "food"
+  },
+  {
+    "w": "りんご",
+    "p": "ringo",
+    "m": "táo",
+    "cat": "food"
+  },
+  {
+    "w": "水",
+    "p": "mizu",
+    "m": "nước",
+    "cat": "food"
+  },
+  {
+    "w": "朝ご飯",
+    "p": "asagohan",
+    "m": "bữa sáng",
+    "cat": "food"
+  },
+  {
+    "w": "昼ご飯",
+    "p": "hirugohan",
+    "m": "bữa trưa",
+    "cat": "food"
+  },
+  {
+    "w": "晩ご飯",
+    "p": "bangohan",
+    "m": "bữa tối",
+    "cat": "food"
+  },
+  {
+    "w": "豚肉",
+    "p": "butaniku",
+    "m": "thịt heo",
+    "cat": "food"
+  },
+  {
+    "w": "牛肉",
+    "p": "gyuuniku",
+    "m": "thịt bò",
+    "cat": "food"
+  },
+  {
+    "w": "魚",
+    "p": "sakana",
+    "m": "cá",
+    "cat": "food"
+  },
+  {
+    "w": "食べ物",
+    "p": "tabemono",
+    "m": "thức ăn, đồ ăn",
+    "cat": "food"
+  },
+  {
+    "w": "飲み物",
+    "p": "nomimono",
+    "m": "đồ uống",
+    "cat": "food"
+  },
+  {
+    "w": "月",
+    "p": "tsuki",
+    "m": "mặt trăng",
+    "cat": "nature"
+  },
+  {
+    "w": "太陽",
+    "p": "taiyou",
+    "m": "mặt trời",
+    "cat": "nature"
+  },
+  {
+    "w": "地面",
+    "p": "jimen",
+    "m": "mặt đất",
+    "cat": "nature"
+  },
+  {
+    "w": "山",
+    "p": "yama",
+    "m": "núi",
+    "cat": "nature"
+  },
+  {
+    "w": "森",
+    "p": "mori",
+    "m": "rừng",
+    "cat": "nature"
+  },
+  {
+    "w": "雪",
+    "p": "yuki",
+    "m": "tuyết",
+    "cat": "nature"
+  },
+  {
+    "w": "石",
+    "p": "ishi",
+    "m": "đá",
+    "cat": "nature"
+  },
+  {
+    "w": "光",
+    "p": "hikari",
+    "m": "ánh sáng",
+    "cat": "nature"
+  },
+  {
+    "w": "雲",
+    "p": "kumo",
+    "m": "mây",
+    "cat": "nature"
+  },
+  {
+    "w": "動物",
+    "p": "doubutsu",
+    "m": "động vật",
+    "cat": "nature"
+  },
+  {
+    "w": "駅",
+    "p": "eki",
+    "m": "nhà ga, trạm xe, bến xe",
+    "cat": "place"
+  },
+  {
+    "w": "工場",
+    "p": "koujou",
+    "m": "nhà máy",
+    "cat": "place"
+  },
+  {
+    "w": "教会",
+    "p": "kyoukai",
+    "m": "nhà thờ",
+    "cat": "place"
+  },
+  {
+    "w": "農場",
+    "p": "noujou",
+    "m": "nông trại",
+    "cat": "place"
+  },
+  {
+    "w": "空港",
+    "p": "kuukou",
+    "m": "sân bay",
+    "cat": "place"
+  },
+  {
+    "w": "都市",
+    "p": "toshi",
+    "m": "thành phố",
+    "cat": "place"
+  },
+  {
+    "w": "図書館",
+    "p": "toshokan",
+    "m": "thư viện",
+    "cat": "place"
+  },
+  {
+    "w": "事務所",
+    "p": "jimusho",
+    "m": "văn phòng",
+    "cat": "place"
+  },
+  {
+    "w": "国",
+    "p": "kuni",
+    "m": "đất nước, quốc gia",
+    "cat": "place"
+  },
+  {
+    "w": "銀行",
+    "p": "ginkou",
+    "m": "ngân hàng",
+    "cat": "place"
+  },
+  {
+    "w": "部屋",
+    "p": "heya",
+    "m": "phòng",
+    "cat": "place"
+  },
+  {
+    "w": "家",
+    "p": "ie",
+    "m": "nhà",
+    "cat": "place"
+  },
+  {
+    "w": "交番",
+    "p": "kouban",
+    "m": "đồn công an (nhỏ)",
+    "cat": "place"
+  },
+  {
+    "w": "映画館",
+    "p": "eigakan",
+    "m": "rạp chiếu phim",
+    "cat": "place"
+  },
+  {
+    "w": "喫茶店",
+    "p": "kissaten",
+    "m": "quán cà phê",
+    "cat": "place"
+  },
+  {
+    "w": "指輪",
+    "p": "yubiwa",
+    "m": "nhẫn (đeo tay)",
+    "cat": "object"
+  },
+  {
+    "w": "プレゼント",
+    "p": "purezento",
+    "m": "quà tặng",
+    "cat": "object"
+  },
+  {
+    "w": "ボール",
+    "p": "booru",
+    "m": "quả bóng",
+    "cat": "object"
+  },
+  {
+    "w": "ズボン",
+    "p": "zubon",
+    "m": "quần",
+    "cat": "clothing"
+  },
+  {
+    "w": "定規",
+    "p": "jougi",
+    "m": "thước kẻ",
+    "cat": "object"
+  },
+  {
+    "w": "メッセージ",
+    "p": "messeeji",
+    "m": "tin nhắn",
+    "cat": "object"
+  },
+  {
+    "w": "靴下",
+    "p": "kutsushita",
+    "m": "tất, vớ",
+    "cat": "clothing"
+  },
+  {
+    "w": "切符",
+    "p": "kippu",
+    "m": "vé (tàu, xe)",
+    "cat": "object"
+  },
+  {
+    "w": "ワンピース",
+    "p": "wanpiisu",
+    "m": "váy đầm liền",
+    "cat": "clothing"
+  },
+  {
+    "w": "コート",
+    "p": "kooto",
+    "m": "áo khoác",
+    "cat": "clothing"
+  },
+  {
+    "w": "シャツ",
+    "p": "shatsu",
+    "m": "áo sơ mi",
+    "cat": "clothing"
+  },
+  {
+    "w": "傘",
+    "p": "kasa",
+    "m": "ô, dù",
+    "cat": "object"
+  },
+  {
+    "w": "電話",
+    "p": "denwa",
+    "m": "điện thoại",
+    "cat": "object"
+  },
+  {
+    "w": "電気",
+    "p": "denki",
+    "m": "đèn điện, điện",
+    "cat": "object"
+  },
+  {
+    "w": "おもちゃ",
+    "p": "omocha",
+    "m": "đồ chơi",
+    "cat": "object"
+  },
+  {
+    "w": "物",
+    "p": "mono",
+    "m": "đồ vật, thứ",
+    "cat": "object"
+  },
+  {
+    "w": "お金",
+    "p": "okane",
+    "m": "tiền",
+    "cat": "object"
+  },
+  {
+    "w": "円",
+    "p": "en",
+    "m": "đồng yên (tiền Nhật)",
+    "cat": "object"
+  },
+  {
+    "w": "時計",
+    "p": "tokei",
+    "m": "đồng hồ (treo tường)",
+    "cat": "object"
+  },
+  {
+    "w": "腕時計",
+    "p": "udedokei",
+    "m": "đồng hồ đeo tay",
+    "cat": "object"
+  },
+  {
+    "w": "鉛筆",
+    "p": "enpitsu",
+    "m": "bút chì",
+    "cat": "object"
+  },
+  {
+    "w": "消しゴム",
+    "p": "keshigomu",
+    "m": "cục tẩy",
+    "cat": "object"
+  },
+  {
+    "w": "鍵",
+    "p": "kagi",
+    "m": "chìa khóa",
+    "cat": "object"
+  },
+  {
+    "w": "車",
+    "p": "kuruma",
+    "m": "ô tô, xe hơi",
+    "cat": "transport"
+  },
+  {
+    "w": "眼鏡",
+    "p": "megane",
+    "m": "kính mắt",
+    "cat": "clothing"
+  },
+  {
+    "w": "靴",
+    "p": "kutsu",
+    "m": "giày",
+    "cat": "clothing"
+  },
+  {
+    "w": "電車",
+    "p": "densha",
+    "m": "tàu điện",
+    "cat": "transport"
+  },
+  {
+    "w": "地下鉄",
+    "p": "chikatetsu",
+    "m": "tàu điện ngầm",
+    "cat": "transport"
+  },
+  {
+    "w": "タクシー",
+    "p": "takushii",
+    "m": "taxi",
+    "cat": "transport"
+  },
+  {
+    "w": "バス",
+    "p": "basu",
+    "m": "xe buýt",
+    "cat": "transport"
+  },
+  {
+    "w": "新幹線",
+    "p": "shinkansen",
+    "m": "tàu cao tốc Shinkansen",
+    "cat": "transport"
+  },
+  {
+    "w": "目",
+    "p": "me",
+    "m": "mắt",
+    "cat": "body"
+  },
+  {
+    "w": "指",
+    "p": "yubi",
+    "m": "ngón tay",
+    "cat": "body"
+  },
+  {
+    "w": "歯",
+    "p": "ha",
+    "m": "răng",
+    "cat": "body"
+  },
+  {
+    "w": "耳",
+    "p": "mimi",
+    "m": "tai",
+    "cat": "body"
+  },
+  {
+    "w": "髪",
+    "p": "kami",
+    "m": "tóc",
+    "cat": "body"
+  },
+  {
+    "w": "頭",
+    "p": "atama",
+    "m": "đầu",
+    "cat": "body"
+  },
+  {
+    "w": "薬",
+    "p": "kusuri",
+    "m": "thuốc",
+    "cat": "health"
+  },
+  {
+    "w": "熱",
+    "p": "netsu",
+    "m": "sốt",
+    "cat": "health"
+  },
+  {
+    "w": "上",
+    "p": "ue",
+    "m": "phía trên, trên",
+    "cat": "position"
+  },
+  {
+    "w": "前",
+    "p": "mae",
+    "m": "phía trước, trước",
+    "cat": "position"
+  },
+  {
+    "w": "東",
+    "p": "higashi",
+    "m": "phía đông",
+    "cat": "position"
+  },
+  {
+    "w": "西",
+    "p": "nishi",
+    "m": "phía tây",
+    "cat": "position"
+  },
+  {
+    "w": "南",
+    "p": "minami",
+    "m": "phía nam",
+    "cat": "position"
+  },
+  {
+    "w": "右",
+    "p": "migi",
+    "m": "bên phải",
+    "cat": "position"
+  },
+  {
+    "w": "近く",
+    "p": "chikaku",
+    "m": "gần đây",
+    "cat": "position"
+  },
+  {
+    "w": "どう",
+    "p": "dou",
+    "m": "như thế nào, ra sao",
+    "cat": "question"
+  },
+  {
+    "w": "どうして",
+    "p": "doushite",
+    "m": "tại sao",
+    "cat": "question"
+  },
+  {
+    "w": "どこ",
+    "p": "doko",
+    "m": "ở đâu",
+    "cat": "question"
+  },
+  {
+    "w": "私",
+    "p": "watashi",
+    "m": "tôi",
+    "cat": "pronoun"
+  },
+  {
+    "w": "どの",
+    "p": "dono",
+    "m": "cái nào (đi với danh từ)",
+    "cat": "question"
+  },
+  {
+    "w": "どちら",
+    "p": "dochira",
+    "m": "cái nào, bên nào (lịch sự)",
+    "cat": "question"
+  },
+  {
+    "w": "でも",
+    "p": "demo",
+    "m": "nhưng",
+    "cat": "function"
+  },
+  {
+    "w": "とても",
+    "p": "totemo",
+    "m": "rất",
+    "cat": "function"
+  },
+  {
+    "w": "すごく",
+    "p": "sugoku",
+    "m": "rất, cực kỳ",
+    "cat": "function"
+  },
+  {
+    "w": "もう",
+    "p": "mou",
+    "m": "đã, rồi",
+    "cat": "function"
+  },
+  {
+    "w": "と",
+    "p": "to",
+    "m": "và, cùng với",
+    "cat": "particle"
+  },
+  {
+    "w": "だから",
+    "p": "dakara",
+    "m": "vì vậy",
+    "cat": "function"
+  },
+  {
+    "w": "から",
+    "p": "kara",
+    "m": "vì, bởi vì; từ",
+    "cat": "function"
+  },
+  {
+    "w": "もし",
+    "p": "moshi",
+    "m": "nếu",
+    "cat": "function"
+  },
+  {
+    "w": "くらい",
+    "p": "kurai",
+    "m": "khoảng chừng",
+    "cat": "function"
+  },
+  {
+    "w": "全部",
+    "p": "zenbu",
+    "m": "tất cả",
+    "cat": "function"
+  },
+  {
+    "w": "みんな",
+    "p": "minna",
+    "m": "mọi người, tất cả",
+    "cat": "function"
+  },
+  {
+    "w": "それぞれ",
+    "p": "sorezore",
+    "m": "mỗi, từng",
+    "cat": "function"
+  },
+  {
+    "w": "は",
+    "p": "wa",
+    "m": "trợ từ chủ đề (は)",
+    "cat": "particle"
+  },
+  {
+    "w": "が",
+    "p": "ga",
+    "m": "trợ từ chủ ngữ (が)",
+    "cat": "particle"
+  },
+  {
+    "w": "を",
+    "p": "o",
+    "m": "trợ từ tân ngữ (を)",
+    "cat": "particle"
+  },
+  {
+    "w": "に",
+    "p": "ni",
+    "m": "trợ từ chỉ thời gian, địa điểm (に)",
+    "cat": "particle"
+  },
+  {
+    "w": "か",
+    "p": "ka",
+    "m": "trợ từ nghi vấn (か)",
+    "cat": "particle"
+  },
+  {
+    "w": "時々",
+    "p": "tokidoki",
+    "m": "thỉnh thoảng, đôi khi",
+    "cat": "adverb"
+  },
+  {
+    "w": "よく",
+    "p": "yoku",
+    "m": "thường xuyên",
+    "cat": "adverb"
+  },
+  {
+    "w": "あまり",
+    "p": "amari",
+    "m": "không...lắm",
+    "cat": "adverb"
+  },
+  {
+    "w": "たくさん",
+    "p": "takusan",
+    "m": "nhiều, rất nhiều",
+    "cat": "adverb"
+  },
+  {
+    "w": "ちょっと",
+    "p": "chotto",
+    "m": "hơi, một chút",
+    "cat": "adverb"
+  },
+  {
+    "w": "すぐに",
+    "p": "sugu ni",
+    "m": "ngay lập tức",
+    "cat": "adverb"
+  },
+  {
+    "w": "まだ",
+    "p": "mada",
+    "m": "vẫn chưa, còn",
+    "cat": "adverb"
+  },
+  {
+    "w": "はじめて",
+    "p": "hajimete",
+    "m": "lần đầu tiên",
+    "cat": "adverb"
+  },
+  {
+    "w": "買い物",
+    "p": "kaimono",
+    "m": "việc mua sắm, đi mua đồ",
+    "cat": "shopping"
+  },
+  {
+    "w": "おつり",
+    "p": "otsuri",
+    "m": "tiền thối lại",
+    "cat": "shopping"
+  },
+  {
+    "w": "店員",
+    "p": "ten'in",
+    "m": "nhân viên bán hàng",
+    "cat": "shopping"
+  },
+  {
+    "w": "レシート",
+    "p": "reshiito",
+    "m": "hóa đơn, biên lai",
+    "cat": "shopping"
+  },
+  {
+    "w": "一番",
+    "p": "ichiban",
+    "m": "nhất, số một",
+    "cat": "adverb"
+  },
+  {
+    "w": "スポーツ",
+    "p": "supootsu",
+    "m": "thể thao",
+    "cat": "hobby"
+  },
+  {
+    "w": "サッカー",
+    "p": "sakkaa",
+    "m": "bóng đá",
+    "cat": "hobby"
+  },
+  {
+    "w": "テニス",
+    "p": "tenisu",
+    "m": "quần vợt",
+    "cat": "hobby"
+  },
+  {
+    "w": "ギター",
+    "p": "gitaa",
+    "m": "đàn guitar",
+    "cat": "hobby"
+  },
+  {
+    "w": "ゲーム",
+    "p": "geemu",
+    "m": "trò chơi điện tử",
+    "cat": "hobby"
+  },
+  {
+    "w": "写真",
+    "p": "shashin",
+    "m": "ảnh chụp",
+    "cat": "hobby"
+  },
+  {
+    "w": "ピアノ",
+    "p": "piano",
+    "m": "đàn piano",
+    "cat": "hobby"
+  },
+  {
+    "w": "プール",
+    "p": "puuru",
+    "m": "bể bơi",
+    "cat": "place"
+  },
+  {
+    "w": "嬉しい",
+    "p": "ureshii",
+    "m": "vui mừng, hạnh phúc",
+    "cat": "emotion"
+  },
+  {
+    "w": "心配",
+    "p": "shinpai",
+    "m": "lo lắng",
+    "cat": "emotion"
+  },
+  {
+    "w": "おどろく",
+    "p": "odoroku",
+    "m": "ngạc nhiên",
+    "cat": "emotion"
+  },
+  {
+    "w": "安心",
+    "p": "anshin",
+    "m": "yên tâm",
+    "cat": "emotion"
+  },
+  {
+    "w": "びっくり",
+    "p": "bikkuri",
+    "m": "giật mình, bất ngờ",
+    "cat": "emotion"
+  },
+  {
+    "w": "はずかしい",
+    "p": "hazukashii",
+    "m": "xấu hổ, ngại ngùng",
+    "cat": "emotion"
+  },
+  {
+    "w": "さびしい",
+    "p": "sabishii",
+    "m": "cô đơn, buồn (một mình)",
+    "cat": "emotion"
+  },
+  {
+    "w": "春",
+    "p": "haru",
+    "m": "mùa xuân",
+    "cat": "nature"
+  },
+  {
+    "w": "夏",
+    "p": "natsu",
+    "m": "mùa hè",
+    "cat": "nature"
+  },
+  {
+    "w": "秋",
+    "p": "aki",
+    "m": "mùa thu",
+    "cat": "nature"
+  },
+  {
+    "w": "冬",
+    "p": "fuyu",
+    "m": "mùa đông",
+    "cat": "nature"
+  },
+  {
+    "w": "晴れ",
+    "p": "hare",
+    "m": "trời nắng, quang đãng",
+    "cat": "nature"
+  },
+  {
+    "w": "曇り",
+    "p": "kumori",
+    "m": "trời nhiều mây, âm u",
+    "cat": "nature"
+  },
+  {
+    "w": "台風",
+    "p": "taifuu",
+    "m": "bão",
+    "cat": "nature"
+  },
+  {
+    "w": "社会",
+    "p": "shakai",
+    "m": "xã hội",
+    "cat": "basic"
+  },
+  {
+    "w": "会議",
+    "p": "kaigi",
+    "m": "cuộc họp",
+    "cat": "basic"
+  },
+  {
+    "w": "言う",
+    "p": "iu",
+    "m": "nói, bảo",
+    "cat": "verb"
+  },
+  {
+    "w": "ある",
+    "p": "aru",
+    "m": "có, tồn tại (vật vô tri)",
+    "cat": "verb"
+  },
+  {
+    "w": "いる",
+    "p": "iru",
+    "m": "có, tồn tại (người, động vật)",
+    "cat": "verb"
+  },
+  {
+    "w": "帰る",
+    "p": "kaeru",
+    "m": "trở về, về nhà",
+    "cat": "verb"
+  },
+  {
+    "w": "愛する",
+    "p": "aisuru",
+    "m": "yêu thương",
+    "cat": "verb"
+  },
+  {
+    "w": "つける",
+    "p": "tsukeru",
+    "m": "bật (đèn, máy)",
+    "cat": "hành động"
+  },
+  {
+    "w": "注ぐ",
+    "p": "sosogu",
+    "m": "rót",
+    "cat": "hành động"
+  },
+  {
+    "w": "濡れる",
+    "p": "nureru",
+    "m": "ướt",
+    "cat": "tính từ"
+  },
+  {
+    "w": "番",
+    "p": "ban",
+    "m": "số thứ tự, lượt",
+    "cat": "basic"
+  },
+  {
+    "w": "枚",
+    "p": "mai",
+    "m": "tờ, tấm (lượng từ vật mỏng)",
+    "cat": "basic"
+  },
+  {
+    "w": "台",
+    "p": "dai",
+    "m": "chiếc, cái (lượng từ máy móc, xe)",
+    "cat": "basic"
+  },
+  {
+    "w": "度",
+    "p": "do",
+    "m": "độ, lần",
+    "cat": "basic"
+  },
+  {
+    "w": "週間",
+    "p": "shuukan",
+    "m": "tuần lễ",
+    "cat": "time"
+  },
+  {
+    "w": "分間",
+    "p": "funkan",
+    "m": "khoảng thời gian (phút)",
+    "cat": "time"
+  },
+  {
+    "w": "午前",
+    "p": "gozen",
+    "m": "buổi sáng, trước trưa",
+    "cat": "time"
+  },
+  {
+    "w": "正午",
+    "p": "shougo",
+    "m": "giữa trưa, chính ngọ",
+    "cat": "time"
+  },
+  {
+    "w": "もうすぐ",
+    "p": "mousugu",
+    "m": "sắp, sớm thôi",
+    "cat": "thời gian"
+  },
+  {
+    "w": "オーブン",
+    "p": "oobun",
+    "m": "lò nướng",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "コンロ",
+    "p": "konro",
+    "m": "bếp nấu",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "電子レンジ",
+    "p": "denshi renji",
+    "m": "lò vi sóng",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "掃除機",
+    "p": "soujiki",
+    "m": "máy hút bụi",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "ソファー",
+    "p": "sofaa",
+    "m": "ghế sofa",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "鞄",
+    "p": "kaban",
+    "m": "túi xách, cặp",
+    "cat": "object"
+  },
+  {
+    "w": "石鹸",
+    "p": "sekken",
+    "m": "xà phòng",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "歯ブラシ",
+    "p": "haburashi",
+    "m": "bàn chải đánh răng",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "タオル",
+    "p": "taoru",
+    "m": "khăn tắm",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "布団",
+    "p": "futon",
+    "m": "chăn đệm, futon",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "枕",
+    "p": "makura",
+    "m": "cái gối",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "壁",
+    "p": "kabe",
+    "m": "bức tường",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "屋根",
+    "p": "yane",
+    "m": "mái nhà",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "門",
+    "p": "mon",
+    "m": "cổng",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "階",
+    "p": "kai",
+    "m": "tầng (nhà)",
+    "cat": "home"
+  },
+  {
+    "w": "筆箱",
+    "p": "fudebako",
+    "m": "hộp bút",
+    "cat": "học tập"
+  },
+  {
+    "w": "ホワイトボード",
+    "p": "howaitoboodo",
+    "m": "bảng trắng",
+    "cat": "học tập"
+  },
+  {
+    "w": "紙",
+    "p": "kami",
+    "m": "giấy",
+    "cat": "school"
+  },
+  {
+    "w": "スイカ",
+    "p": "suika",
+    "m": "dưa hấu",
+    "cat": "food"
+  },
+  {
+    "w": "ビール",
+    "p": "biiru",
+    "m": "bia",
+    "cat": "drink"
+  },
+  {
+    "w": "イチゴ",
+    "p": "ichigo",
+    "m": "quả dâu tây",
+    "cat": "thức ăn"
+  },
+  {
+    "w": "ニンジン",
+    "p": "ninjin",
+    "m": "cà rốt",
+    "cat": "thức ăn"
+  },
+  {
+    "w": "玉ねぎ",
+    "p": "tamanegi",
+    "m": "hành tây",
+    "cat": "thức ăn"
+  },
+  {
+    "w": "麺",
+    "p": "men",
+    "m": "mì sợi",
+    "cat": "thức ăn"
+  },
+  {
+    "w": "ヤギ",
+    "p": "yagi",
+    "m": "con dê",
+    "cat": "animal"
+  },
+  {
+    "w": "パンダ",
+    "p": "panda",
+    "m": "gấu trúc",
+    "cat": "animal"
+  },
+  {
+    "w": "蛇",
+    "p": "hebi",
+    "m": "con rắn",
+    "cat": "động vật"
+  },
+  {
+    "w": "カエル",
+    "p": "kaeru",
+    "m": "con ếch",
+    "cat": "động vật"
+  },
+  {
+    "w": "蝶",
+    "p": "chou",
+    "m": "con bướm",
+    "cat": "động vật"
+  },
+  {
+    "w": "蜂",
+    "p": "hachi",
+    "m": "con ong",
+    "cat": "động vật"
+  },
+  {
+    "w": "オウム",
+    "p": "oumu",
+    "m": "con vẹt",
+    "cat": "động vật"
+  },
+  {
+    "w": "亀",
+    "p": "kame",
+    "m": "con rùa",
+    "cat": "động vật"
+  },
+  {
+    "w": "鹿",
+    "p": "shika",
+    "m": "con hươu",
+    "cat": "động vật"
+  },
+  {
+    "w": "オオカミ",
+    "p": "ookami",
+    "m": "con sói",
+    "cat": "động vật"
+  },
+  {
+    "w": "肘",
+    "p": "hiji",
+    "m": "khuỷu tay",
+    "cat": "cơ thể"
+  },
+  {
+    "w": "胸",
+    "p": "mune",
+    "m": "ngực",
+    "cat": "cơ thể"
+  },
+  {
+    "w": "あご",
+    "p": "ago",
+    "m": "cằm",
+    "cat": "cơ thể"
+  },
+  {
+    "w": "眉毛",
+    "p": "mayuge",
+    "m": "lông mày",
+    "cat": "cơ thể"
+  },
+  {
+    "w": "舌",
+    "p": "shita",
+    "m": "lưỡi",
+    "cat": "cơ thể"
+  },
+  {
+    "w": "ジャケット",
+    "p": "jaketto",
+    "m": "áo jacket",
+    "cat": "quần áo"
+  },
+  {
+    "w": "ブーツ",
+    "p": "buutsu",
+    "m": "đôi ủng, giày ống",
+    "cat": "quần áo"
+  },
+  {
+    "w": "双子",
+    "p": "futago",
+    "m": "sinh đôi",
+    "cat": "gia đình"
+  },
+  {
+    "w": "バイク",
+    "p": "baiku",
+    "m": "xe máy",
+    "cat": "giao thông"
+  },
+  {
+    "w": "フェリー",
+    "p": "ferii",
+    "m": "phà, tàu đò",
+    "cat": "giao thông"
+  },
+  {
+    "w": "コイン",
+    "p": "koin",
+    "m": "đồng xu",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "農家",
+    "p": "nouka",
+    "m": "nông dân",
+    "cat": "công việc"
+  },
+  {
+    "w": "運転手",
+    "p": "untenshu",
+    "m": "tài xế",
+    "cat": "công việc"
+  },
+  {
+    "w": "警察官",
+    "p": "keisatsukan",
+    "m": "cảnh sát",
+    "cat": "công việc"
+  },
+  {
+    "w": "田舎",
+    "p": "inaka",
+    "m": "nông thôn, vùng quê",
+    "cat": "place"
+  },
+  {
+    "w": "運動場",
+    "p": "undoujou",
+    "m": "sân trường, sân vận động",
+    "cat": "school"
+  },
+  {
+    "w": "通り",
+    "p": "toori",
+    "m": "đường phố",
+    "cat": "place"
+  },
+  {
+    "w": "水族館",
+    "p": "suizokukan",
+    "m": "thủy cung",
+    "cat": "place"
+  },
+  {
+    "w": "美術館",
+    "p": "bijutsukan",
+    "m": "bảo tàng mỹ thuật",
+    "cat": "place"
+  },
+  {
+    "w": "中国語",
+    "p": "chuugokugo",
+    "m": "tiếng Trung",
+    "cat": "school"
+  },
+  {
+    "w": "地理",
+    "p": "chiri",
+    "m": "môn địa lý",
+    "cat": "học tập"
+  },
+  {
+    "w": "美術",
+    "p": "bijutsu",
+    "m": "môn mỹ thuật",
+    "cat": "học tập"
+  },
+  {
+    "w": "体育",
+    "p": "taiiku",
+    "m": "môn thể dục",
+    "cat": "học tập"
+  },
+  {
+    "w": "単語",
+    "p": "tango",
+    "m": "từ ngữ, từ vựng",
+    "cat": "basic"
+  },
+  {
+    "w": "気分",
+    "p": "kibun",
+    "m": "tâm trạng",
+    "cat": "emotion"
+  },
+  {
+    "w": "ラッキー",
+    "p": "rakkii",
+    "m": "may mắn",
+    "cat": "emotion"
+  },
+  {
+    "w": "手術",
+    "p": "shujutsu",
+    "m": "phẫu thuật",
+    "cat": "health"
+  },
+  {
+    "w": "お祭り",
+    "p": "omatsuri",
+    "m": "ngày lễ, lễ hội",
+    "cat": "culture"
+  },
+  {
+    "w": "またね",
+    "p": "matane",
+    "m": "hẹn gặp lại",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "お大事に",
+    "p": "odaijini",
+    "m": "giữ gìn sức khỏe",
+    "cat": "greeting"
+  },
+  {
+    "w": "キログラム",
+    "p": "kiroguramu",
+    "m": "ki-lô-gam",
+    "cat": "default"
+  },
+  {
+    "w": "メートル",
+    "p": "meetoru",
+    "m": "mét (đơn vị đo)",
+    "cat": "default"
+  },
+  {
+    "w": "キロメートル",
+    "p": "kiromeetoru",
+    "m": "ki-lô-mét",
+    "cat": "default"
+  },
+  {
+    "w": "虹",
+    "p": "niji",
+    "m": "cầu vồng",
+    "cat": "nature"
+  },
+  {
+    "w": "池",
+    "p": "ike",
+    "m": "ao",
+    "cat": "nature"
+  },
+  {
+    "w": "林",
+    "p": "hayashi",
+    "m": "rừng cây nhỏ",
+    "cat": "nature"
+  },
+  {
+    "w": "岩",
+    "p": "iwa",
+    "m": "tảng đá",
+    "cat": "nature"
+  },
+  {
+    "w": "砂",
+    "p": "suna",
+    "m": "cát",
+    "cat": "nature"
+  },
+  {
+    "w": "土",
+    "p": "tsuchi",
+    "m": "đất",
+    "cat": "nature"
+  },
+  {
+    "w": "煙",
+    "p": "kemuri",
+    "m": "khói",
+    "cat": "nature"
+  },
+  {
+    "w": "火事",
+    "p": "kaji",
+    "m": "hỏa hoạn, cháy",
+    "cat": "nature"
+  },
+  {
+    "w": "地震",
+    "p": "jishin",
+    "m": "động đất",
+    "cat": "nature"
+  },
+  {
+    "w": "缶",
+    "p": "kan",
+    "m": "lon",
+    "cat": "object"
+  },
+  {
+    "w": "瓶",
+    "p": "bin",
+    "m": "chai, lọ",
+    "cat": "object"
+  },
+  {
+    "w": "箱",
+    "p": "hako",
+    "m": "hộp",
+    "cat": "object"
+  },
+  {
+    "w": "袋",
+    "p": "fukuro",
+    "m": "túi",
+    "cat": "object"
+  },
+  {
+    "w": "針",
+    "p": "hari",
+    "m": "cây kim",
+    "cat": "object"
+  },
+  {
+    "w": "糸",
+    "p": "ito",
+    "m": "sợi chỉ",
+    "cat": "object"
+  },
+  {
+    "w": "ハンガー",
+    "p": "hangaa",
+    "m": "móc áo",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "洗剤",
+    "p": "senzai",
+    "m": "bột giặt, chất tẩy rửa",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "アイロン",
+    "p": "airon",
+    "m": "bàn ủi",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "ドライヤー",
+    "p": "doraiyaa",
+    "m": "máy sấy tóc",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "歯磨き粉",
+    "p": "hamigakiko",
+    "m": "kem đánh răng",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "シャンプー",
+    "p": "shanpuu",
+    "m": "dầu gội",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "化粧品",
+    "p": "keshouhin",
+    "m": "mỹ phẩm",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "口紅",
+    "p": "kuchibeni",
+    "m": "son môi",
+    "cat": "quần áo"
+  },
+  {
+    "w": "ネックレス",
+    "p": "nekkuresu",
+    "m": "vòng cổ, dây chuyền",
+    "cat": "quần áo"
+  },
+  {
+    "w": "イヤリング",
+    "p": "iyaringu",
+    "m": "bông tai",
+    "cat": "quần áo"
+  },
+  {
+    "w": "ブレスレット",
+    "p": "buresuretto",
+    "m": "vòng tay",
+    "cat": "quần áo"
+  },
+  {
+    "w": "サングラス",
+    "p": "sangurasu",
+    "m": "kính râm",
+    "cat": "quần áo"
+  },
+  {
+    "w": "ハンカチ",
+    "p": "hankachi",
+    "m": "khăn tay",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "ティッシュ",
+    "p": "tisshu",
+    "m": "khăn giấy",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "孫",
+    "p": "mago",
+    "m": "cháu (nội, ngoại)",
+    "cat": "family"
+  },
+  {
+    "w": "親戚",
+    "p": "shinseki",
+    "m": "họ hàng",
+    "cat": "family"
+  },
+  {
+    "w": "恋人",
+    "p": "koibito",
+    "m": "người yêu",
+    "cat": "relationship"
+  },
+  {
+    "w": "彼氏",
+    "p": "kareshi",
+    "m": "bạn trai",
+    "cat": "relationship"
+  },
+  {
+    "w": "結婚",
+    "p": "kekkon",
+    "m": "kết hôn",
+    "cat": "family"
+  },
+  {
+    "w": "近所",
+    "p": "kinjo",
+    "m": "hàng xóm, vùng lân cận",
+    "cat": "place"
+  },
+  {
+    "w": "都会",
+    "p": "tokai",
+    "m": "thành phố, đô thị",
+    "cat": "place"
+  },
+  {
+    "w": "郊外",
+    "p": "kougai",
+    "m": "ngoại ô",
+    "cat": "place"
+  },
+  {
+    "w": "エスカレーター",
+    "p": "esukareetaa",
+    "m": "thang cuốn",
+    "cat": "place"
+  },
+  {
+    "w": "駐車場",
+    "p": "chuushajou",
+    "m": "bãi đỗ xe",
+    "cat": "place"
+  },
+  {
+    "w": "信号",
+    "p": "shingou",
+    "m": "đèn giao thông",
+    "cat": "giao thông"
+  },
+  {
+    "w": "横断歩道",
+    "p": "oudanhodou",
+    "m": "vạch qua đường",
+    "cat": "giao thông"
+  },
+  {
+    "w": "歩道",
+    "p": "hodou",
+    "m": "vỉa hè",
+    "cat": "giao thông"
+  },
+  {
+    "w": "車道",
+    "p": "shadou",
+    "m": "lòng đường",
+    "cat": "giao thông"
+  },
+  {
+    "w": "出口",
+    "p": "deguchi",
+    "m": "lối ra",
+    "cat": "place"
+  },
+  {
+    "w": "入口",
+    "p": "iriguchi",
+    "m": "lối vào",
+    "cat": "place"
+  },
+  {
+    "w": "受付",
+    "p": "uketsuke",
+    "m": "quầy lễ tân",
+    "cat": "place"
+  },
+  {
+    "w": "案内",
+    "p": "annai",
+    "m": "hướng dẫn, chỉ dẫn",
+    "cat": "hành động"
   }
 ]
