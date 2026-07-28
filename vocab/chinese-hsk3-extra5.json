@@ -5,13 +5,15 @@
     "m": "đi khám bệnh, đến gặp bác sĩ",
     "cat": "health",
     "example": "他今天去医院看病。",
-    "example_vi": "Hôm nay anh ấy đến bệnh viện khám bệnh."
+    "example_vi": "Hôm nay anh ấy đến bệnh viện khám bệnh.",
+    "me": "go see a doctor"
   },
   {
     "w": "杯子",
     "p": "bēizi",
     "m": "cái cốc, ly uống nước",
-    "cat": "home"
+    "cat": "home",
+    "me": "cup, drinking glass"
   },
   {
     "w": "叉子",
@@ -19,7 +21,8 @@
     "m": "cái nĩa",
     "cat": "home",
     "example": "请给我一把叉子。",
-    "example_vi": "Xin cho tôi một cái nĩa."
+    "example_vi": "Xin cho tôi một cái nĩa.",
+    "me": "fork"
   },
   {
     "w": "剪刀",
@@ -27,25 +30,29 @@
     "m": "cái kéo",
     "cat": "home",
     "example": "请把剪刀给我。",
-    "example_vi": "Xin đưa cho tôi cái kéo."
+    "example_vi": "Xin đưa cho tôi cái kéo.",
+    "me": "scissors"
   },
   {
     "w": "窗帘",
     "p": "chuānglián",
     "m": "rèm cửa, màn che",
-    "cat": "home"
+    "cat": "home",
+    "me": "curtain"
   },
   {
     "w": "床单",
     "p": "chuángdān",
     "m": "ga trải giường, khăn trải giường",
-    "cat": "home"
+    "cat": "home",
+    "me": "bedsheet"
   },
   {
     "w": "扫地",
     "p": "sǎo dì",
     "m": "quét nhà, quét sàn",
-    "cat": "verb"
+    "cat": "verb",
+    "me": "to sweep the house/floor"
   },
   {
     "w": "倒垃圾",
@@ -53,13 +60,15 @@
     "m": "đổ rác, mang rác ra ngoài",
     "cat": "verb",
     "example": "每天晚上他去倒垃圾。",
-    "example_vi": "Mỗi tối anh ấy đi đổ rác."
+    "example_vi": "Mỗi tối anh ấy đi đổ rác.",
+    "me": "to take out the trash"
   },
   {
     "w": "大衣",
     "p": "dàyī",
     "m": "áo khoác dài, áo măng tô",
-    "cat": "clothing"
+    "cat": "clothing",
+    "me": "overcoat"
   },
   {
     "w": "夹克",
@@ -67,13 +76,15 @@
     "m": "áo khoác ngắn, jacket",
     "cat": "clothing",
     "example": "他穿着一件黑色夹克。",
-    "example_vi": "Anh ấy mặc một chiếc áo khoác màu đen."
+    "example_vi": "Anh ấy mặc một chiếc áo khoác màu đen.",
+    "me": "jacket"
   },
   {
     "w": "背包",
     "p": "bēibāo",
     "m": "ba lô, túi đeo lưng",
-    "cat": "clothing"
+    "cat": "clothing",
+    "me": "backpack"
   },
   {
     "w": "难道",
@@ -81,7 +92,8 @@
     "m": "lẽ nào, chẳng lẽ (câu hỏi tu từ)",
     "cat": "language",
     "example": "难道你不知道吗？",
-    "example_vi": "Lẽ nào bạn không biết sao?"
+    "example_vi": "Lẽ nào bạn không biết sao?",
+    "me": "could it be that, surely not"
   },
   {
     "w": "闪电",
@@ -89,7 +101,8 @@
     "m": "tia sét, chớp",
     "cat": "nature",
     "example": "天上出现了闪电。",
-    "example_vi": "Trên trời xuất hiện tia sét."
+    "example_vi": "Trên trời xuất hiện tia sét.",
+    "me": "lightning"
   },
   {
     "w": "雾",
@@ -97,7 +110,8 @@
     "m": "sương mù",
     "cat": "nature",
     "example": "今天早上有雾。",
-    "example_vi": "Sáng nay có sương mù."
+    "example_vi": "Sáng nay có sương mù.",
+    "me": "fog"
   },
   {
     "w": "草坪",
@@ -105,6 +119,7 @@
     "m": "bãi cỏ, thảm cỏ",
     "cat": "nature",
     "example": "孩子们在草坪上玩。",
-    "example_vi": "Bọn trẻ đang chơi trên bãi cỏ."
+    "example_vi": "Bọn trẻ đang chơi trên bãi cỏ.",
+    "me": "lawn, grass field"
   }
 ]

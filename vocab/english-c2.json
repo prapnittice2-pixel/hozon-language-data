@@ -870,7 +870,7 @@
   {
     "w": "research program",
     "p": "ɹᵻsˈɜːtʃ pɹˈoʊɡɹæm",
-    "m": "chương trình nghiên cứu (Lakatos)",
+    "m": "chương trình nghiên cứu theo Lakatos, chuỗi các lý thuyết khoa học liên tiếp chia sẻ chung một hạt nhân giả định cốt lõi, phát triển qua thời gian",
     "example": "Research program is useful.",
     "example_vi": "chương trình nghiên cứu (Lakatos) rất hữu ích."
   },
@@ -9723,13 +9723,6 @@
     "example_vi": "thỏa mãn (cơn khát, ham muốn); dập tắt rất hữu ích."
   },
   {
-    "w": "sombre",
-    "p": "sˈɑːmbɚ",
-    "m": "u ám, buồn bã, thiếu ánh sáng",
-    "example": "Sombre is useful.",
-    "example_vi": "u ám, buồn bã, thiếu ánh sáng rất hữu ích."
-  },
-  {
     "w": "sordid",
     "p": "sˈɔːɹdɪd",
     "m": "bẩn thỉu về đạo đức, đê tiện",
@@ -10773,13 +10766,6 @@
     "example_vi": "sàn gỗ ghép hoa văn, sàn gỗ ô vuông rất hữu ích."
   },
   {
-    "w": "artefact",
-    "p": "ˈɑːɹɾɪfˌækt",
-    "m": "hiện vật, đồ tạo tác do con người làm ra",
-    "example": "Artefact is useful.",
-    "example_vi": "hiện vật, đồ tạo tác do con người làm ra rất hữu ích."
-  },
-  {
     "w": "ephemera",
     "p": "ɪfˈɛmɚɹə",
     "m": "vật phẩm ngắn ngủi, tài liệu in ấn không dùng lâu dài",
@@ -11130,7 +11116,7 @@
     "example_vi": "Tôi bất đồng gay gắt, xung đột kịch liệt không giải quyết được mỗi ngày."
   },
   {
-    "w": "to curry favour",
+    "w": "to curry favor",
     "p": "tə kˈɜːɹi fˈeɪvɚ",
     "m": "tìm cách lấy lòng, xu nịnh để được ưu ái",
     "example": "I to curry favour every day.",
@@ -14476,7 +14462,7 @@
     "example_vi": "sự đạo đức giả rất hữu ích."
   },
   {
-    "w": "pretence",
+    "w": "pretense",
     "p": "pɹˈiːtɛns",
     "m": "sự giả vờ",
     "example": "Pretence is useful.",
@@ -16261,21 +16247,21 @@
     "example_vi": "lượng giác rất hữu ích."
   },
   {
-    "w": "kilometre",
+    "w": "kilometer",
     "p": "kˈɪləmˌiːɾɚ",
     "m": "ki-lô-mét",
     "example": "Kilometre is useful.",
     "example_vi": "ki-lô-mét rất hữu ích."
   },
   {
-    "w": "centimetre",
+    "w": "centimeter",
     "p": "sˈɛntɪmˌiːɾɚ",
     "m": "xen-ti-mét",
     "example": "Centimetre is useful.",
     "example_vi": "xen-ti-mét rất hữu ích."
   },
   {
-    "w": "millimetre",
+    "w": "millimeter",
     "p": "mˈɪlɪmˌiːɾɚ",
     "m": "mi-li-mét",
     "example": "Millimetre is useful.",
@@ -16296,7 +16282,7 @@
     "example_vi": "mi-li-gam rất hữu ích."
   },
   {
-    "w": "litre",
+    "w": "liter",
     "p": "lˈiːɾɚ",
     "m": "lít",
     "example": "Litre is useful.",
@@ -37665,13 +37651,6 @@
     "m": "tính nạp lý thuyết của quan sát, quan sát khoa học không hoàn toàn trung lập mà luôn bị định hình bởi các giả định lý thuyết sẵn có",
     "example": "Theory-ladenness of observation suggests that two scientists with different theoretical backgrounds might interpret the same data differently.",
     "example_vi": "Tính nạp lý thuyết của quan sát cho thấy hai nhà khoa học với nền tảng lý thuyết khác nhau có thể diễn giải cùng một dữ liệu theo những cách khác nhau."
-  },
-  {
-    "w": "research programme",
-    "p": "rɪˈsɜːrtʃ ˈproʊɡræm",
-    "m": "chương trình nghiên cứu theo Lakatos, chuỗi các lý thuyết khoa học liên tiếp chia sẻ chung một hạt nhân giả định cốt lõi, phát triển qua thời gian",
-    "example": "Lakatos argued that scientific progress should be evaluated at the level of an entire research programme, not a single theory.",
-    "example_vi": "Lakatos lập luận rằng tiến bộ khoa học nên được đánh giá ở cấp độ toàn bộ một chương trình nghiên cứu, chứ không phải từng lý thuyết đơn lẻ."
   },
   {
     "w": "crucial experiment",

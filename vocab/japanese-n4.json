@@ -3,2898 +3,3381 @@
     "w": "感謝する",
     "p": "kansha suru",
     "m": "biết ơn",
-    "cat": "emotion"
+    "cat": "emotion",
+    "me": "grateful"
   },
   {
     "w": "演奏する",
     "p": "ensou suru",
     "m": "biểu diễn (nhạc cụ)",
-    "cat": "entertainment"
+    "cat": "entertainment",
+    "me": "perform (an instrument)"
   },
   {
     "w": "イライラする",
     "p": "iraira suru",
     "m": "buồn bực, khó chịu",
-    "cat": "emotion"
+    "cat": "emotion",
+    "me": "upset"
   },
   {
     "w": "公演",
     "p": "kouen",
     "m": "buổi biểu diễn, hiệu suất",
-    "cat": "entertainment"
+    "cat": "entertainment",
+    "me": "performance"
   },
   {
     "w": "コンサート",
     "p": "konsaato",
     "m": "buổi hòa nhạc",
-    "cat": "entertainment"
+    "cat": "entertainment",
+    "me": "concert"
   },
   {
     "w": "レッスン",
     "p": "ressun",
     "m": "bài học (riêng)",
-    "cat": "school"
+    "cat": "school",
+    "me": "private lesson"
   },
   {
     "w": "試験",
     "p": "shiken",
     "m": "bài kiểm tra, kỳ thi, bài thi",
-    "cat": "school"
+    "cat": "school",
+    "me": "exam"
   },
   {
     "w": "キーボード",
     "p": "kiiboodo",
     "m": "bàn phím",
-    "cat": "technology"
+    "cat": "technology",
+    "me": "keyboard"
   },
   {
     "w": "報告する",
     "p": "houkoku suru",
     "m": "báo cáo",
-    "cat": "work"
+    "cat": "work",
+    "me": "report"
   },
   {
     "w": "太る",
     "p": "futoru",
     "m": "béo, mập",
-    "cat": "body"
+    "cat": "body",
+    "me": "fat, chubby"
   },
   {
     "w": "外側",
     "p": "sotogawa",
     "m": "bên ngoài",
-    "cat": "direction"
+    "cat": "direction",
+    "me": "outside"
   },
   {
     "w": "右側",
     "p": "migigawa",
     "m": "bên phải",
-    "cat": "direction"
+    "cat": "direction",
+    "me": "right side"
   },
   {
     "w": "内側",
     "p": "uchigawa",
     "m": "bên trong",
-    "cat": "direction"
+    "cat": "direction",
+    "me": "inside"
   },
   {
     "w": "左側",
     "p": "hidarigawa",
     "m": "bên trái",
-    "cat": "direction"
+    "cat": "direction",
+    "me": "left"
   },
   {
     "w": "落ち着く",
     "p": "ochitsuku",
     "m": "bình tĩnh",
-    "cat": "emotion"
+    "cat": "emotion",
+    "me": "calm"
   },
   {
     "w": "バスケットボール",
     "p": "basukettobooru",
     "m": "bóng rổ",
-    "cat": "sports"
+    "cat": "sports",
+    "me": "basketball"
   },
   {
     "w": "水泳",
     "p": "suiei",
     "m": "bơi lội",
-    "cat": "sports"
+    "cat": "sports",
+    "me": "swim"
   },
   {
     "w": "博物館",
     "p": "hakubutsukan",
     "m": "bảo tàng",
-    "cat": "place"
+    "cat": "place",
+    "me": "museum"
   },
   {
     "w": "病気になる",
     "p": "byouki ni naru",
     "m": "bị bệnh",
-    "cat": "health"
+    "cat": "health",
+    "me": "fall ill"
   },
   {
     "w": "困る",
     "p": "komaru",
     "m": "bối rối, khó xử",
-    "cat": "emotion"
+    "cat": "emotion",
+    "me": "confused, in an awkward position"
   },
   {
     "w": "流し台",
     "p": "nagashidai",
     "m": "bồn rửa",
-    "cat": "household"
+    "cat": "household",
+    "me": "sink"
   },
   {
     "w": "なぜなら",
     "p": "nazenara",
     "m": "bởi vì",
-    "cat": "grammar"
+    "cat": "grammar",
+    "me": "because"
   },
   {
     "w": "朝ごはん",
     "p": "asagohan",
     "m": "bữa sáng",
-    "cat": "food"
+    "cat": "food",
+    "me": "breakfast"
   },
   {
     "w": "昼ごはん",
     "p": "hirugohan",
     "m": "bữa trưa",
-    "cat": "food"
+    "cat": "food",
+    "me": "lunch"
   },
   {
     "w": "晩ごはん",
     "p": "bangohan",
     "m": "bữa tối",
-    "cat": "food"
+    "cat": "food",
+    "me": "dinner"
   },
   {
     "w": "勇気",
     "p": "yuuki",
     "m": "can đảm",
-    "cat": "personality"
+    "cat": "personality",
+    "me": "brave"
   },
   {
     "w": "詳しい",
     "p": "kuwashii",
     "m": "chi tiết",
-    "cat": "adjective"
+    "cat": "adjective",
+    "me": "detail"
   },
   {
     "w": "分ける",
     "p": "wakeru",
     "m": "chia sẻ, chia ra",
-    "cat": "verb"
+    "cat": "verb",
+    "me": "share, divide"
   },
   {
     "w": "揚げる",
     "p": "ageru",
     "m": "chiên, rán",
-    "cat": "cooking"
+    "cat": "cooking",
+    "me": "fry"
   },
   {
     "w": "一般",
     "p": "ippan",
     "m": "chung, tổng quát",
-    "cat": "adjective"
+    "cat": "adjective",
+    "me": "common, general"
   },
   {
     "w": "旅",
     "p": "tabi",
     "m": "chuyến đi, hành trình",
-    "cat": "travel"
+    "cat": "travel",
+    "me": "journey"
   },
   {
     "w": "マウス",
     "p": "mausu",
     "m": "chuột máy tính",
-    "cat": "technology"
+    "cat": "technology",
+    "me": "mouse"
   },
   {
     "w": "退屈",
     "p": "taikutsu",
     "m": "chán",
-    "cat": "emotion"
+    "cat": "emotion",
+    "me": "bored"
   },
   {
     "w": "政府",
     "p": "seifu",
     "m": "chính phủ",
-    "cat": "society"
+    "cat": "society",
+    "me": "government"
   },
   {
     "w": "正確",
     "p": "seikaku",
     "m": "chính xác",
-    "cat": "adjective"
+    "cat": "adjective",
+    "me": "exactly"
   },
   {
     "w": "主な",
     "p": "omona",
     "m": "chính, chủ yếu",
-    "cat": "adjective"
+    "cat": "adjective",
+    "me": "main"
   },
   {
     "w": "注意する",
     "p": "chuui suru",
     "m": "chú ý",
-    "cat": "verb"
+    "cat": "verb",
+    "me": "attention, to pay attention"
   },
   {
     "w": "お祝いする",
     "p": "oiwai suru",
     "m": "chúc mừng",
-    "cat": "festival"
+    "cat": "festival",
+    "me": "congratulate"
   },
   {
     "w": "スポーツをする",
     "p": "supootsu o suru",
     "m": "chơi thể thao",
-    "cat": "sports"
+    "cat": "sports",
+    "me": "play sports"
   },
   {
     "w": "けが",
     "p": "kega",
     "m": "chấn thương",
-    "cat": "health"
+    "cat": "health",
+    "me": "injury"
   },
   {
     "w": "受け入れる",
     "p": "ukeireru",
     "m": "chấp nhận",
-    "cat": "verb"
+    "cat": "verb",
+    "me": "accept"
   },
   {
     "w": "品質",
     "p": "hinshitsu",
     "m": "chất lượng",
-    "cat": "business"
+    "cat": "business",
+    "me": "quality"
   },
   {
     "w": "遅い",
     "p": "osoi",
     "m": "chậm",
-    "cat": "adjective"
+    "cat": "adjective",
+    "me": "slow"
   },
   {
     "w": "ダイエット",
     "p": "daietto",
     "m": "chế độ ăn kiêng",
-    "cat": "health"
+    "cat": "health",
+    "me": "diet"
   },
   {
     "w": "示す",
     "p": "shimesu",
     "m": "chỉ ra, chỉ cho xem",
-    "cat": "verb"
+    "cat": "verb",
+    "me": "point out, show"
   },
   {
     "w": "市場",
     "p": "ichiba",
     "m": "chợ, thị trường",
-    "cat": "place"
+    "cat": "place",
+    "me": "market"
   },
   {
     "w": "写真を撮る",
     "p": "shashin o toru",
     "m": "chụp ảnh",
-    "cat": "hobby"
+    "cat": "hobby",
+    "me": "photograph"
   },
   {
     "w": "話題",
     "p": "wadai",
     "m": "chủ đề",
-    "cat": "communication"
+    "cat": "communication",
+    "me": "topic"
   },
   {
     "w": "証明する",
     "p": "shoumei suru",
     "m": "chứng minh",
-    "cat": "verb"
+    "cat": "verb",
+    "me": "prove"
   },
   {
     "w": "文字",
     "p": "moji",
     "m": "chữ, ký tự",
-    "cat": "language"
+    "cat": "language",
+    "me": "character, letter"
   },
   {
     "w": "週末",
     "p": "shuumatsu",
     "m": "cuối tuần",
-    "cat": "time"
+    "cat": "time",
+    "me": "weekend"
   },
   {
     "w": "約束",
     "p": "yakusoku",
     "m": "cuộc hẹn",
-    "cat": "daily"
+    "cat": "daily",
+    "me": "appointment"
   },
   {
     "w": "診察",
     "p": "shinsatsu",
     "m": "cuộc hẹn khám bệnh",
-    "cat": "health"
+    "cat": "health",
+    "me": "appointment"
   },
   {
     "w": "冒険",
     "p": "bouken",
     "m": "cuộc phiêu lưu",
-    "cat": "entertainment"
+    "cat": "entertainment",
+    "me": "adventure"
   },
   {
     "w": "コンテスト",
     "p": "kontesuto",
     "m": "cuộc thi",
-    "cat": "event"
+    "cat": "event",
+    "me": "contest"
   },
   {
     "w": "競争",
     "p": "kyousou",
     "m": "cuộc thi, cạnh tranh",
-    "cat": "business"
+    "cat": "business",
+    "me": "competition"
   },
   {
     "w": "個人",
     "p": "kojin",
     "m": "cá nhân",
-    "cat": "society"
+    "cat": "society",
+    "me": "personal"
   },
   {
     "w": "色々",
     "p": "iroiro",
     "m": "các loại, đủ loại",
-    "cat": "adjective"
+    "cat": "adjective",
+    "me": "all kinds, every type"
   },
   {
     "w": "フォーク",
     "p": "fooku",
     "m": "cái nĩa",
-    "cat": "food"
+    "cat": "food",
+    "me": "fork"
   },
   {
     "w": "物語",
     "p": "monogatari",
     "m": "câu chuyện",
-    "cat": "entertainment"
+    "cat": "entertainment",
+    "me": "story"
   },
   {
     "w": "釣り",
     "p": "tsuri",
     "m": "câu cá",
-    "cat": "hobby"
+    "cat": "hobby",
+    "me": "fishing"
   },
   {
     "w": "クラブ",
     "p": "kurabu",
     "m": "câu lạc bộ",
-    "cat": "hobby"
+    "cat": "hobby",
+    "me": "club"
   },
   {
     "w": "返事",
     "p": "henji",
     "m": "câu trả lời",
-    "cat": "communication"
+    "cat": "communication",
+    "me": "answer"
   },
   {
     "w": "風が強い",
     "p": "kaze ga tsuyoi",
     "m": "có gió",
-    "cat": "weather"
+    "cat": "weather",
+    "me": "windy"
   },
   {
     "w": "たぶん",
     "p": "tabun",
     "m": "có lẽ",
-    "cat": "adverb"
+    "cat": "adverb",
+    "me": "probably"
   },
   {
     "w": "できる",
     "p": "dekiru",
     "m": "có thể (năng lực)",
-    "cat": "verb"
+    "cat": "verb",
+    "me": "can (ability)"
   },
   {
     "w": "かもしれない",
     "p": "kamoshirenai",
     "m": "có thể, có lẽ",
-    "cat": "grammar"
+    "cat": "grammar",
+    "me": "maybe"
   },
   {
     "w": "てもいい",
     "p": "temoii",
     "m": "có thể, được phép",
-    "cat": "grammar"
+    "cat": "grammar",
+    "me": "may, be permitted to"
   },
   {
     "w": "責任がある",
     "p": "sekinin ga aru",
     "m": "có trách nhiệm",
-    "cat": "personality"
+    "cat": "personality",
+    "me": "responsible"
   },
   {
     "w": "雪が降る",
     "p": "yuki ga furu",
     "m": "có tuyết, tuyết rơi",
-    "cat": "weather"
+    "cat": "weather",
+    "me": "snowy, snow falling"
   },
   {
     "w": "ようだ",
     "p": "you da",
     "m": "có vẻ như",
-    "cat": "grammar"
+    "cat": "grammar",
+    "me": "seem"
   },
   {
     "w": "寂しい",
     "p": "sabishii",
     "m": "cô đơn",
-    "cat": "emotion"
+    "cat": "emotion",
+    "me": "lonely"
   },
   {
     "w": "レシピ",
     "p": "reshipi",
     "m": "công thức nấu ăn",
-    "cat": "cooking"
+    "cat": "cooking",
+    "me": "recipe"
   },
   {
     "w": "インフルエンザ",
     "p": "infuruenza",
     "m": "cúm",
-    "cat": "health"
+    "cat": "health",
+    "me": "flu"
   },
   {
     "w": "どちらも〜ない",
     "p": "dochiramo ~nai",
     "m": "cũng không... cũng không",
-    "cat": "grammar"
+    "cat": "grammar",
+    "me": "neither"
   },
   {
     "w": "基本",
     "p": "kihon",
     "m": "cơ bản",
-    "cat": "education"
+    "cat": "education",
+    "me": "basic"
   },
   {
     "w": "機会",
     "p": "kikai",
     "m": "cơ hội",
-    "cat": "work"
+    "cat": "work",
+    "me": "chance"
   },
   {
     "w": "自転車に乗る",
     "p": "jitensha ni noru",
     "m": "cưỡi, đạp (xe đạp)",
-    "cat": "transportation"
+    "cat": "transportation",
+    "me": "ride, pedal (a bicycle)"
   },
   {
     "w": "改善する",
     "p": "kaizen suru",
     "m": "cải thiện",
-    "cat": "verb"
+    "cat": "verb",
+    "me": "improve"
   },
   {
     "w": "必要",
     "p": "hitsuyou",
     "m": "cần, cần thiết",
-    "cat": "adjective"
+    "cat": "adjective",
+    "me": "necessary, needed"
   },
   {
     "w": "慎重",
     "p": "shinchou",
     "m": "cẩn thận",
-    "cat": "personality"
+    "cat": "personality",
+    "me": "carefully"
   },
   {
     "w": "キャンプ",
     "p": "kyanpu",
     "m": "cắm trại",
-    "cat": "hobby"
+    "cat": "hobby",
+    "me": "camp"
   },
   {
     "w": "チェス",
     "p": "chesu",
     "m": "cờ vua",
-    "cat": "hobby"
+    "cat": "hobby",
+    "me": "chess"
   },
   {
     "w": "具体的",
     "p": "gutaiteki",
     "m": "cụ thể",
-    "cat": "adjective"
+    "cat": "adjective",
+    "me": "specific"
   },
   {
     "w": "ナイフ",
     "p": "naifu",
     "m": "dao",
-    "cat": "household"
+    "cat": "household",
+    "me": "knife"
   },
   {
     "w": "パレード",
     "p": "pareedo",
     "m": "diễu hành",
-    "cat": "event"
+    "cat": "event",
+    "me": "parade"
   },
   {
     "w": "人口",
     "p": "jinkou",
     "m": "dân số",
-    "cat": "society"
+    "cat": "society",
+    "me": "population"
   },
   {
     "w": "訳す",
     "p": "yakusu",
     "m": "dịch",
-    "cat": "language"
+    "cat": "language",
+    "me": "translate"
   },
   {
     "w": "サービス",
     "p": "saabisu",
     "m": "dịch vụ",
-    "cat": "business"
+    "cat": "business",
+    "me": "service"
   },
   {
     "w": "行事",
     "p": "gyouji",
     "m": "dịp, lễ",
-    "cat": "festival"
+    "cat": "festival",
+    "me": "occasion"
   },
   {
     "w": "停留所",
     "p": "teiryuujo",
     "m": "dừng lại, trạm dừng",
-    "cat": "transportation"
+    "cat": "transportation",
+    "me": "stop"
   },
   {
     "w": "天気予報",
     "p": "tenki yohou",
     "m": "dự báo thời tiết",
-    "cat": "weather"
+    "cat": "weather",
+    "me": "weather forecast"
   },
   {
     "w": "プロジェクト",
     "p": "purojekuto",
     "m": "dự án",
-    "cat": "work"
+    "cat": "work",
+    "me": "project"
   },
   {
     "w": "しっとする",
     "p": "shitto suru",
     "m": "ghen tuông",
-    "cat": "emotion"
+    "cat": "emotion",
+    "me": "jealous"
   },
   {
     "w": "ソファ",
     "p": "sofa",
     "m": "ghế sofa",
-    "cat": "household"
+    "cat": "household",
+    "me": "sofa"
   },
   {
     "w": "交通",
     "p": "koutsuu",
     "m": "giao thông",
-    "cat": "transportation"
+    "cat": "transportation",
+    "me": "traffic"
   },
   {
     "w": "解決する",
     "p": "kaiketsu suru",
     "m": "giải quyết",
-    "cat": "verb"
+    "cat": "verb",
+    "me": "resolve"
   },
   {
     "w": "説明する",
     "p": "setsumei suru",
     "m": "giải thích",
-    "cat": "verb"
+    "cat": "verb",
+    "me": "explain"
   },
   {
     "w": "賞",
     "p": "shou",
     "m": "giải thưởng",
-    "cat": "event"
+    "cat": "event",
+    "me": "prize"
   },
   {
     "w": "減る",
     "p": "heru",
     "m": "giảm",
-    "cat": "business"
+    "cat": "business",
+    "me": "reduce"
   },
   {
     "w": "割引",
     "p": "waribiki",
     "m": "giảm giá",
-    "cat": "shopping"
+    "cat": "shopping",
+    "me": "discount"
   },
   {
     "w": "下がる",
     "p": "sagaru",
     "m": "giảm xuống",
-    "cat": "verb"
+    "cat": "verb",
+    "me": "decrease"
   },
   {
     "w": "似ている",
     "p": "niteiru",
     "m": "giống nhau, tương tự",
-    "cat": "adjective"
+    "cat": "adjective",
+    "me": "similar"
   },
   {
     "w": "紹介する",
     "p": "shoukai suru",
     "m": "giới thiệu",
-    "cat": "verb"
+    "cat": "verb",
+    "me": "introduce"
   },
   {
     "w": "ほとんど",
     "p": "hotondo",
     "m": "gần như, hầu như",
-    "cat": "adverb"
+    "cat": "adverb",
+    "me": "almost"
   },
   {
     "w": "最近",
     "p": "saikin",
     "m": "gần đây",
-    "cat": "time"
+    "cat": "time",
+    "me": "recently"
   },
   {
     "w": "痩せる",
     "p": "yaseru",
     "m": "gầy",
-    "cat": "body"
+    "cat": "body",
+    "me": "thin"
   },
   {
     "w": "注文する",
     "p": "chuumon suru",
     "m": "gọi món, đặt hàng",
-    "cat": "food"
+    "cat": "food",
+    "me": "order"
   },
   {
     "w": "ビデオ通話",
     "p": "bideo tsuuwa",
     "m": "gọi video",
-    "cat": "technology"
+    "cat": "technology",
+    "me": "video call"
   },
   {
     "w": "それとも",
     "p": "soretomo",
     "m": "hay là, vẫn là",
-    "cat": "grammar"
+    "cat": "grammar",
+    "me": "or, still"
   },
   {
     "w": "理解する",
     "p": "rikai suru",
     "m": "hiểu, hiểu rõ",
-    "cat": "verb"
+    "cat": "verb",
+    "me": "understand, comprehend clearly"
   },
   {
     "w": "明らか",
     "p": "akiraka",
     "m": "rõ ràng",
-    "cat": "adjective"
+    "cat": "adjective",
+    "me": "clearly"
   },
   {
     "w": "調べる",
     "p": "shiraberu",
     "m": "tìm hiểu, tra cứu",
-    "cat": "verb"
+    "cat": "verb",
+    "me": "to look into, research"
   },
   {
     "w": "現代的",
     "p": "gendaiteki",
     "m": "hiện đại",
-    "cat": "adjective"
+    "cat": "adjective",
+    "me": "modern"
   },
   {
     "w": "本屋",
     "p": "hon'ya",
     "m": "hiệu sách",
-    "cat": "place"
+    "cat": "place",
+    "me": "bookstore"
   },
   {
     "w": "咳",
     "p": "seki",
     "m": "ho",
-    "cat": "health"
+    "cat": "health",
+    "me": "cough"
   },
   {
     "w": "完璧",
     "p": "kanpeki",
     "m": "hoàn hảo",
-    "cat": "adjective"
+    "cat": "adjective",
+    "me": "perfect"
   },
   {
     "w": "返金",
     "p": "henkin",
     "m": "hoàn tiền",
-    "cat": "shopping"
+    "cat": "shopping",
+    "me": "refund"
   },
   {
     "w": "活動",
     "p": "katsudou",
     "m": "hoạt động",
-    "cat": "hobby"
+    "cat": "hobby",
+    "me": "activity"
   },
   {
     "w": "どちらか",
     "p": "dochiraka",
     "m": "hoặc là... hoặc là, một trong hai",
-    "cat": "grammar"
+    "cat": "grammar",
+    "me": "either"
   },
   {
     "w": "希望する",
     "p": "kibou suru",
     "m": "hy vọng",
-    "cat": "emotion"
+    "cat": "emotion",
+    "me": "hope"
   },
   {
     "w": "満足",
     "p": "manzoku",
     "m": "hài lòng",
-    "cat": "emotion"
+    "cat": "emotion",
+    "me": "pleased"
   },
   {
     "w": "近所の人",
     "p": "kinjo no hito",
     "m": "hàng xóm",
-    "cat": "society"
+    "cat": "society",
+    "me": "neighbor"
   },
   {
     "w": "興奮する",
     "p": "koufun suru",
     "m": "hào hứng, phấn khích",
-    "cat": "emotion"
+    "cat": "emotion",
+    "me": "excited"
   },
   {
     "w": "気前がいい",
     "p": "kimae ga ii",
     "m": "hào phóng",
-    "cat": "personality"
+    "cat": "personality",
+    "me": "generous"
   },
   {
     "w": "その上",
     "p": "sono ue",
     "m": "hơn nữa, và còn",
-    "cat": "grammar"
+    "cat": "grammar",
+    "me": "moreover, and also"
   },
   {
     "w": "締め切り",
     "p": "shimekiri",
     "m": "hạn chót",
-    "cat": "work"
+    "cat": "work",
+    "me": "deadline"
   },
   {
     "w": "システム",
     "p": "shisutemu",
     "m": "hệ thống",
-    "cat": "technology"
+    "cat": "technology",
+    "me": "system"
   },
   {
     "w": "回復する",
     "p": "kaifuku suru",
     "m": "hồi phục",
-    "cat": "health"
+    "cat": "health",
+    "me": "recover"
   },
   {
     "w": "約束する",
     "p": "yakusoku suru",
     "m": "hứa",
-    "cat": "verb"
+    "cat": "verb",
+    "me": "promise"
   },
   {
     "w": "役に立つ",
     "p": "yaku ni tatsu",
     "m": "hữu ích",
-    "cat": "adjective"
+    "cat": "adjective",
+    "me": "helpful"
   },
   {
     "w": "〜時",
     "p": "~toki",
     "m": "khi",
-    "cat": "grammar"
+    "cat": "grammar",
+    "me": "when"
   },
   {
     "w": "期間",
     "p": "kikan",
     "m": "khoảng thời gian, chu kỳ",
-    "cat": "time"
+    "cat": "time",
+    "me": "period"
   },
   {
     "w": "瞬間",
     "p": "shunkan",
     "m": "khoảnh khắc",
-    "cat": "time"
+    "cat": "time",
+    "me": "moment"
   },
   {
     "w": "庭",
     "p": "niwa",
     "m": "khu vườn",
-    "cat": "home"
+    "cat": "home",
+    "me": "garden"
   },
   {
     "w": "他の",
     "p": "hoka no",
     "m": "khác",
-    "cat": "grammar"
+    "cat": "grammar",
+    "me": "other"
   },
   {
     "w": "コース",
     "p": "koosu",
     "m": "khóa học",
-    "cat": "school"
+    "cat": "school",
+    "me": "course"
   },
   {
     "w": "一度も〜ない",
     "p": "ichido mo ~nai",
     "m": "không bao giờ",
-    "cat": "grammar"
+    "cat": "grammar",
+    "me": "never"
   },
   {
     "w": "異常",
     "p": "ijou",
     "m": "không bình thường",
-    "cat": "adjective"
+    "cat": "adjective",
+    "me": "unusual"
   },
   {
     "w": "反対する",
     "p": "hantai suru",
     "m": "không đồng ý, phản đối",
-    "cat": "verb"
+    "cat": "verb",
+    "me": "disagree, object"
   },
   {
     "w": "一人前",
     "p": "ichininmae",
     "m": "khẩu phần",
-    "cat": "food"
+    "cat": "food",
+    "me": "portion"
   },
   {
     "w": "健康",
     "p": "kenkou",
     "m": "khỏe mạnh",
-    "cat": "health"
+    "cat": "health",
+    "me": "healthy"
   },
   {
     "w": "出発する",
     "p": "shuppatsu suru",
     "m": "khởi hành",
-    "cat": "travel"
+    "cat": "travel",
+    "me": "depart"
   },
   {
     "w": "経験",
     "p": "keiken",
     "m": "kinh nghiệm, trải nghiệm",
-    "cat": "work"
+    "cat": "work",
+    "me": "experience"
   },
   {
     "w": "患者",
     "p": "kanja",
     "m": "bệnh nhân",
-    "cat": "health"
+    "cat": "health",
+    "me": "patient"
   },
   {
     "w": "稼ぐ",
     "p": "kasegu",
     "m": "kiếm tiền",
-    "cat": "work"
+    "cat": "work",
+    "me": "earn"
   },
   {
     "w": "確認する",
     "p": "kakunin suru",
     "m": "kiểm tra, xác nhận",
-    "cat": "verb"
+    "cat": "verb",
+    "me": "check, confirm"
   },
   {
     "w": "計画",
     "p": "keikaku",
     "m": "kế hoạch",
-    "cat": "daily"
+    "cat": "daily",
+    "me": "plan"
   },
   {
     "w": "つなぐ",
     "p": "tsunagu",
     "m": "kết nối",
-    "cat": "technology"
+    "cat": "technology",
+    "me": "connect"
   },
   {
     "w": "結果",
     "p": "kekka",
     "m": "kết quả",
-    "cat": "school"
+    "cat": "school",
+    "me": "result"
   },
   {
     "w": "終える",
     "p": "oeru",
     "m": "kết thúc, hoàn thành",
-    "cat": "verb"
+    "cat": "verb",
+    "me": "finish"
   },
   {
     "w": "本棚",
     "p": "hondana",
     "m": "kệ sách",
-    "cat": "household"
+    "cat": "household",
+    "me": "bookshelf"
   },
   {
     "w": "祝う",
     "p": "iwau",
     "m": "kỷ niệm, ăn mừng, tổ chức lễ",
-    "cat": "festival"
+    "cat": "festival",
+    "me": "celebrate"
   },
   {
     "w": "ハイキング",
     "p": "haikingu",
     "m": "leo núi, đi bộ dã ngoại, đi bộ đường dài",
-    "cat": "sports"
+    "cat": "sports",
+    "me": "hike"
   },
   {
     "w": "柔軟",
     "p": "juunan",
     "m": "linh hoạt",
-    "cat": "personality"
+    "cat": "personality",
+    "me": "flexible"
   },
   {
     "w": "ずっと",
     "p": "zutto",
     "m": "liên tục, mãi mãi, suốt, luôn luôn",
-    "cat": "adverb"
+    "cat": "adverb",
+    "me": "continuously, forever, throughout, always"
   },
   {
     "w": "緊張する",
     "p": "kinchou suru",
     "m": "lo lắng, hồi hộp",
-    "cat": "emotion"
+    "cat": "emotion",
+    "me": "nervous"
   },
   {
     "w": "煮る",
     "p": "niru",
     "m": "luộc, đun sôi",
-    "cat": "cooking"
+    "cat": "cooking",
+    "me": "boil"
   },
   {
     "w": "ガーデニング",
     "p": "gaadeningu",
     "m": "làm vườn",
-    "cat": "hobby"
+    "cat": "hobby",
+    "me": "garden"
   },
   {
     "w": "計画する",
     "p": "keikaku suru",
     "m": "lên kế hoạch",
-    "cat": "daily"
+    "cat": "daily",
+    "me": "plan"
   },
   {
     "w": "理由",
     "p": "riyuu",
     "m": "lý do",
-    "cat": "communication"
+    "cat": "communication",
+    "me": "reason"
   },
   {
     "w": "給料",
     "p": "kyuuryou",
     "m": "lương",
-    "cat": "work"
+    "cat": "work",
+    "me": "salary"
   },
   {
     "w": "怠ける",
     "p": "namakeru",
     "m": "lười biếng",
-    "cat": "personality"
+    "cat": "personality",
+    "me": "lazy"
   },
   {
     "w": "変",
     "p": "hen",
     "m": "lạ lùng",
-    "cat": "adjective"
+    "cat": "adjective",
+    "me": "strange"
   },
   {
     "w": "もう一度",
     "p": "mou ichido",
     "m": "lại, một lần nữa",
-    "cat": "adverb"
+    "cat": "adverb",
+    "me": "again"
   },
   {
     "w": "繰り返す",
     "p": "kurikaesu",
     "m": "lặp lại",
-    "cat": "verb"
+    "cat": "verb",
+    "me": "repeat"
   },
   {
     "w": "祭り",
     "p": "matsuri",
     "m": "lễ hội",
-    "cat": "festival"
+    "cat": "festival",
+    "me": "festival"
   },
   {
     "w": "礼儀正しい",
     "p": "reigi tadashii",
     "m": "lịch sự",
-    "cat": "personality"
+    "cat": "personality",
+    "me": "polite"
   },
   {
     "w": "スケジュール",
     "p": "sukejuuru",
     "m": "lịch trình",
-    "cat": "daily"
+    "cat": "daily",
+    "me": "schedule"
   },
   {
     "w": "散らかる",
     "p": "chirakaru",
     "m": "lộn xộn, bừa bộn",
-    "cat": "household"
+    "cat": "household",
+    "me": "messy"
   },
   {
     "w": "アドバイス",
     "p": "adobaisu",
     "m": "lời khuyên",
-    "cat": "communication"
+    "cat": "communication",
+    "me": "advice"
   },
   {
     "w": "利益",
     "p": "rieki",
     "m": "lợi ích",
-    "cat": "business"
+    "cat": "business",
+    "me": "benefit"
   },
   {
     "w": "描写する",
     "p": "byousha suru",
     "m": "miêu tả",
-    "cat": "language"
+    "cat": "language",
+    "me": "describe"
   },
   {
     "w": "〜さえすれば",
     "p": "~sae sureba",
     "m": "miễn là, chỉ cần",
-    "cat": "grammar"
+    "cat": "grammar",
+    "me": "as long as, provided that"
   },
   {
     "w": "遅く",
     "p": "osoku",
     "m": "muộn, tối khuya",
-    "cat": "time"
+    "cat": "time",
+    "me": "late at night"
   },
   {
     "w": "画面",
     "p": "gamen",
     "m": "màn hình",
-    "cat": "technology"
+    "cat": "technology",
+    "me": "screen"
   },
   {
     "w": "洗濯機",
     "p": "sentakuki",
     "m": "máy giặt",
-    "cat": "household"
+    "cat": "household",
+    "me": "washing machine"
   },
   {
     "w": "プリンター",
     "p": "purintaa",
     "m": "máy in",
-    "cat": "technology"
+    "cat": "technology",
+    "me": "printer"
   },
   {
     "w": "パソコン",
     "p": "pasokon",
     "m": "máy tính",
-    "cat": "technology"
+    "cat": "technology",
+    "me": "computer"
   },
   {
     "w": "ノートパソコン",
     "p": "nooto pasokon",
     "m": "máy tính xách tay",
-    "cat": "technology"
+    "cat": "technology",
+    "me": "laptop"
   },
   {
     "w": "環境",
     "p": "kankyou",
     "m": "môi trường",
-    "cat": "society"
+    "cat": "society",
+    "me": "environment"
   },
   {
     "w": "状況",
     "p": "joukyou",
     "m": "hoàn cảnh, tình huống",
-    "cat": "communication"
+    "cat": "communication",
+    "me": "circumstance, situation"
   },
   {
     "w": "季節",
     "p": "kisetsu",
     "m": "mùa",
-    "cat": "nature"
+    "cat": "nature",
+    "me": "season"
   },
   {
     "w": "雨が降る",
     "p": "ame ga furu",
     "m": "mưa",
-    "cat": "weather"
+    "cat": "weather",
+    "me": "rain"
   },
   {
     "w": "インターネット",
     "p": "intaanetto",
     "m": "mạng internet",
-    "cat": "technology"
+    "cat": "technology",
+    "me": "internet"
   },
   {
     "w": "無線LAN",
     "p": "musen ran",
     "m": "mạng không dây",
-    "cat": "technology"
+    "cat": "technology",
+    "me": "wifi"
   },
   {
     "w": "失う",
     "p": "ushinau",
     "m": "mất, thua",
-    "cat": "verb"
+    "cat": "verb",
+    "me": "lose"
   },
   {
     "w": "パスワード",
     "p": "pasuwaado",
     "m": "mật khẩu",
-    "cat": "technology"
+    "cat": "technology",
+    "me": "password"
   },
   {
     "w": "けれども",
     "p": "keredomo",
     "m": "mặc dù, tuy nhiên",
-    "cat": "grammar"
+    "cat": "grammar",
+    "me": "although, however"
   },
   {
     "w": "しょっぱい",
     "p": "shoppai",
     "m": "mặn",
-    "cat": "food"
+    "cat": "food",
+    "me": "salty"
   },
   {
     "w": "もう一つ",
     "p": "mou hitotsu",
     "m": "một cái khác",
-    "cat": "shopping"
+    "cat": "shopping",
+    "me": "another"
   },
   {
     "w": "招待する",
     "p": "shoutai suru",
     "m": "mời",
-    "cat": "festival"
+    "cat": "festival",
+    "me": "invite"
   },
   {
     "w": "目標",
     "p": "mokuhyou",
     "m": "mục tiêu",
-    "cat": "work"
+    "cat": "work",
+    "me": "goal"
   },
   {
     "w": "目的",
     "p": "mokuteki",
     "m": "mục đích",
-    "cat": "education"
+    "cat": "education",
+    "me": "purpose"
   },
   {
     "w": "音楽を聞く",
     "p": "ongaku o kiku",
     "m": "nghe nhạc",
-    "cat": "hobby"
+    "cat": "hobby",
+    "me": "listen to music"
   },
   {
     "w": "真面目",
     "p": "majime",
     "m": "nghiêm túc",
-    "cat": "personality"
+    "cat": "personality",
+    "me": "serious"
   },
   {
     "w": "危険",
     "p": "kiken",
     "m": "nguy hiểm",
-    "cat": "adjective"
+    "cat": "adjective",
+    "me": "dangerous"
   },
   {
     "w": "材料",
     "p": "zairyou",
     "m": "nguyên liệu",
-    "cat": "cooking"
+    "cat": "cooking",
+    "me": "ingredient"
   },
   {
     "w": "ますます",
     "p": "masumasu",
     "m": "ngày càng",
-    "cat": "adverb"
+    "cat": "adverb",
+    "me": "increasingly"
   },
   {
     "w": "記念日",
     "p": "kinenbi",
     "m": "ngày kỷ niệm",
-    "cat": "festival"
+    "cat": "festival",
+    "me": "anniversary"
   },
   {
     "w": "休日",
     "p": "kyuujitsu",
     "m": "ngày nghỉ",
-    "cat": "time"
+    "cat": "time",
+    "me": "holiday"
   },
   {
     "w": "整理する",
     "p": "seiri suru",
     "m": "ngăn nắp, sắp xếp",
-    "cat": "household"
+    "cat": "household",
+    "me": "tidy, organized"
   },
   {
     "w": "リーダー",
     "p": "riidaa",
     "m": "người lãnh đạo",
-    "cat": "work"
+    "cat": "work",
+    "me": "leader"
   },
   {
     "w": "驚く",
     "p": "odoroku",
     "m": "ngạc nhiên",
-    "cat": "emotion"
+    "cat": "emotion",
+    "me": "surprised"
   },
   {
     "w": "主人",
     "p": "shujin",
     "m": "chồng (của mình)",
-    "cat": "family"
+    "cat": "family",
+    "me": "husband"
   },
   {
     "w": "くれる",
     "p": "kureru",
     "m": "cho, tặng (cho mình)",
-    "cat": "verb"
+    "cat": "verb",
+    "me": "give (to oneself/me)"
   },
   {
     "w": "伝える",
     "p": "tsutaeru",
     "m": "truyền đạt, nói lại",
-    "cat": "communication"
+    "cat": "communication",
+    "me": "to convey, relay"
   },
   {
     "w": "届ける",
     "p": "todokeru",
     "m": "giao, gửi đến",
-    "cat": "verb"
+    "cat": "verb",
+    "me": "deliver, send to"
   },
   {
     "w": "集める",
     "p": "atsumeru",
     "m": "thu thập, sưu tầm",
-    "cat": "hobby"
+    "cat": "hobby",
+    "me": "collect, gather"
   },
   {
     "w": "比べる",
     "p": "kuraberu",
     "m": "so sánh",
-    "cat": "verb"
+    "cat": "verb",
+    "me": "compare"
   },
   {
     "w": "続ける",
     "p": "tsuzukeru",
     "m": "tiếp tục",
-    "cat": "verb"
+    "cat": "verb",
+    "me": "continue"
   },
   {
     "w": "変える",
     "p": "kaeru",
     "m": "thay đổi",
-    "cat": "verb"
+    "cat": "verb",
+    "me": "change"
   },
   {
     "w": "間に合う",
     "p": "maniau",
     "m": "kịp giờ",
-    "cat": "time"
+    "cat": "time",
+    "me": "on time"
   },
   {
     "w": "気をつける",
     "p": "ki o tsukeru",
     "m": "chú ý, cẩn thận",
-    "cat": "verb"
+    "cat": "verb",
+    "me": "to pay attention, be careful"
   },
   {
     "w": "慣れる",
     "p": "nareru",
     "m": "quen (với)",
-    "cat": "verb"
+    "cat": "verb",
+    "me": "accustomed (to)"
   },
   {
     "w": "頼む",
     "p": "tanomu",
     "m": "nhờ, yêu cầu",
-    "cat": "verb"
+    "cat": "verb",
+    "me": "ask, request"
   },
   {
     "w": "迎える",
     "p": "mukaeru",
     "m": "đón",
-    "cat": "verb"
+    "cat": "verb",
+    "me": "welcome, pick up"
   },
   {
     "w": "育てる",
     "p": "sodateru",
     "m": "nuôi dưỡng",
-    "cat": "family"
+    "cat": "family",
+    "me": "nourish"
   },
   {
     "w": "通う",
     "p": "kayou",
     "m": "đi lại thường xuyên",
-    "cat": "school"
+    "cat": "school",
+    "me": "commute regularly"
   },
   {
     "w": "厚い",
     "p": "atsui",
     "m": "dày",
-    "cat": "adjective"
+    "cat": "adjective",
+    "me": "thick"
   },
   {
     "w": "薄い",
     "p": "usui",
     "m": "mỏng",
-    "cat": "adjective"
+    "cat": "adjective",
+    "me": "thin"
   },
   {
     "w": "濃い",
     "p": "koi",
     "m": "đậm",
-    "cat": "food"
+    "cat": "food",
+    "me": "strong, rich (flavor/color)"
   },
   {
     "w": "アレルギー",
     "p": "arerugii",
     "m": "dị ứng",
-    "cat": "health"
+    "cat": "health",
+    "me": "allergy"
   },
   {
     "w": "注射",
     "p": "chuusha",
     "m": "tiêm",
-    "cat": "health"
+    "cat": "health",
+    "me": "injection"
   },
   {
     "w": "交換する",
     "p": "koukan suru",
     "m": "đổi, trao đổi",
-    "cat": "shopping"
+    "cat": "shopping",
+    "me": "exchange"
   },
   {
     "w": "席",
     "p": "seki",
     "m": "chỗ ngồi",
-    "cat": "travel"
+    "cat": "travel",
+    "me": "seat"
   },
   {
     "w": "都合",
     "p": "tsugou",
     "m": "sự thuận tiện, điều kiện",
-    "cat": "daily"
+    "cat": "daily",
+    "me": "convenience, condition"
   },
   {
     "w": "増える",
     "p": "fueru",
     "m": "tăng lên",
-    "cat": "verb"
+    "cat": "verb",
+    "me": "increase"
   },
   {
     "w": "育児",
     "p": "ikuji",
     "m": "nuôi con",
-    "cat": "family"
+    "cat": "family",
+    "me": "raise a child"
   },
   {
     "w": "家事",
     "p": "kaji",
     "m": "việc nhà",
-    "cat": "household"
+    "cat": "household",
+    "me": "housework"
   },
   {
     "w": "干す",
     "p": "hosu",
     "m": "phơi",
-    "cat": "household"
+    "cat": "household",
+    "me": "dry in the sun"
   },
   {
     "w": "畳む",
     "p": "tatamu",
     "m": "gấp (quần áo)",
-    "cat": "household"
+    "cat": "household",
+    "me": "fold (clothes)"
   },
   {
     "w": "遅刻する",
     "p": "chikoku suru",
     "m": "đi trễ, đến muộn",
-    "cat": "school"
+    "cat": "school",
+    "me": "arrive late"
   },
   {
     "w": "欠席する",
     "p": "kesseki suru",
     "m": "vắng mặt, nghỉ học",
-    "cat": "school"
+    "cat": "school",
+    "me": "absent, skip class"
   },
   {
     "w": "出席する",
     "p": "shusseki suru",
     "m": "có mặt, tham dự",
-    "cat": "work"
+    "cat": "work",
+    "me": "be present, attend"
   },
   {
     "w": "卒業する",
     "p": "sotsugyou suru",
     "m": "tốt nghiệp",
-    "cat": "school"
+    "cat": "school",
+    "me": "graduate"
   },
   {
     "w": "入学する",
     "p": "nyuugaku suru",
     "m": "nhập học",
-    "cat": "school"
+    "cat": "school",
+    "me": "to enroll"
   },
   {
     "w": "就職する",
     "p": "shuushoku suru",
     "m": "xin việc, đi làm",
-    "cat": "work"
+    "cat": "work",
+    "me": "apply for a job, go to work"
   },
   {
     "w": "退職する",
     "p": "taishoku suru",
     "m": "nghỉ hưu, thôi việc",
-    "cat": "work"
+    "cat": "work",
+    "me": "to retire, resign"
   },
   {
     "w": "引っ越す",
     "p": "hikkosu",
     "m": "chuyển nhà",
-    "cat": "daily"
+    "cat": "daily",
+    "me": "move house"
   },
   {
     "w": "建てる",
     "p": "tateru",
     "m": "xây dựng",
-    "cat": "daily"
+    "cat": "daily",
+    "me": "build"
   },
   {
     "w": "壊れる",
     "p": "kowareru",
     "m": "bị hỏng",
-    "cat": "technology"
+    "cat": "technology",
+    "me": "broken, damaged"
   },
   {
     "w": "育つ",
     "p": "sodatsu",
     "m": "lớn lên, trưởng thành",
-    "cat": "family"
+    "cat": "family",
+    "me": "grow up"
   },
   {
     "w": "甘える",
     "p": "amaeru",
     "m": "làm nũng, nũng nịu",
-    "cat": "emotion"
+    "cat": "emotion",
+    "me": "act coquettishly, be clingy for attention"
   },
   {
     "w": "急いで",
     "p": "isoide",
     "m": "nhanh chóng, vội vàng",
-    "cat": "adverb"
+    "cat": "adverb",
+    "me": "quickly, hastily"
   },
   {
     "w": "気温",
     "p": "kion",
     "m": "nhiệt độ không khí",
-    "cat": "weather"
+    "cat": "weather",
+    "me": "air temperature"
   },
   {
     "w": "劇場",
     "p": "gekijou",
     "m": "nhà hát",
-    "cat": "place"
+    "cat": "place",
+    "me": "theatre"
   },
   {
     "w": "薬局",
     "p": "yakkyoku",
     "m": "nhà thuốc",
-    "cat": "place"
+    "cat": "place",
+    "me": "pharmacy"
   },
   {
     "w": "グループ",
     "p": "guruupu",
     "m": "nhóm",
-    "cat": "social"
+    "cat": "social",
+    "me": "group"
   },
   {
     "w": "恥ずかしがり屋",
     "p": "hazukashigariya",
     "m": "nhút nhát, e thẹn",
-    "cat": "personality"
+    "cat": "personality",
+    "me": "shy"
   },
   {
     "w": "受け取る",
     "p": "uketoru",
     "m": "nhận",
-    "cat": "action"
+    "cat": "action",
+    "me": "receive"
   },
   {
     "w": "気づく",
     "p": "kizuku",
     "m": "nhận thấy, nhận ra",
-    "cat": "cognition"
+    "cat": "cognition",
+    "me": "notice, realize"
   },
   {
     "w": "思い出す",
     "p": "omoidasu",
     "m": "nhớ ra, nhớ lại",
-    "cat": "cognition"
+    "cat": "cognition",
+    "me": "recall, remember"
   },
   {
     "w": "逃す",
     "p": "nogasu",
     "m": "lỡ mất, bỏ lỡ",
-    "cat": "action"
+    "cat": "action",
+    "me": "miss, let slip"
   },
   {
     "w": "べき",
     "p": "beki",
     "m": "nên, phải",
-    "cat": "grammar"
+    "cat": "grammar",
+    "me": "should, must"
   },
   {
     "w": "述べる",
     "p": "noberu",
     "m": "nói, phát biểu, cho biết",
-    "cat": "communication"
+    "cat": "communication",
+    "me": "to say, state, inform"
   },
   {
     "w": "語る",
     "p": "kataru",
     "m": "nói, kể chuyện",
-    "cat": "communication"
+    "cat": "communication",
+    "me": "speak, tell a story"
   },
   {
     "w": "場所",
     "p": "basho",
     "m": "nơi, chỗ, địa điểm",
-    "cat": "place"
+    "cat": "place",
+    "me": "place, location"
   },
   {
     "w": "焼く",
     "p": "yaku",
     "m": "nướng bánh, nướng thịt",
-    "cat": "cooking"
+    "cat": "cooking",
+    "me": "bake, grill"
   },
   {
     "w": "料理人",
     "p": "ryourinin",
     "m": "đầu bếp, người nấu ăn",
-    "cat": "job"
+    "cat": "job",
+    "me": "chef, cook"
   },
   {
     "w": "日差し",
     "p": "hizashi",
     "m": "nắng, ánh nắng",
-    "cat": "weather"
+    "cat": "weather",
+    "me": "sunshine, sunlight"
   },
   {
     "w": "もしも",
     "p": "moshimo",
     "m": "nếu như, giả sử",
-    "cat": "connector"
+    "cat": "connector",
+    "me": "if, supposing"
   },
   {
     "w": "努力",
     "p": "doryoku",
     "m": "nỗ lực",
-    "cat": "abstract"
+    "cat": "abstract",
+    "me": "effort"
   },
   {
     "w": "真夜中",
     "p": "mayonaka",
     "m": "nửa đêm",
-    "cat": "time"
+    "cat": "time",
+    "me": "midnight"
   },
   {
     "w": "発展する",
     "p": "hatten suru",
     "m": "phát triển",
-    "cat": "abstract"
+    "cat": "abstract",
+    "me": "develop"
   },
   {
     "w": "居間",
     "p": "ima",
     "m": "phòng khách",
-    "cat": "home"
+    "cat": "home",
+    "me": "living room"
   },
   {
     "w": "寝室",
     "p": "shinshitsu",
     "m": "phòng ngủ",
-    "cat": "home"
+    "cat": "home",
+    "me": "bedroom"
   },
   {
     "w": "ジム",
     "p": "jimu",
     "m": "phòng tập thể dục",
-    "cat": "place"
+    "cat": "place",
+    "me": "gym"
   },
   {
     "w": "浴室",
     "p": "yokushitsu",
     "m": "phòng tắm",
-    "cat": "home"
+    "cat": "home",
+    "me": "bathroom"
   },
   {
     "w": "方向",
     "p": "houkou",
     "m": "phương hướng, hướng đi",
-    "cat": "direction"
+    "cat": "direction",
+    "me": "direction, orientation"
   },
   {
     "w": "面接",
     "p": "mensetsu",
     "m": "phỏng vấn",
-    "cat": "work"
+    "cat": "work",
+    "me": "interview"
   },
   {
     "w": "人気",
     "p": "ninki",
     "m": "phổ biến, nổi tiếng",
-    "cat": "abstract"
+    "cat": "abstract",
+    "me": "popular, well-known"
   },
   {
     "w": "頼る",
     "p": "tayoru",
     "m": "phụ thuộc vào, dựa vào",
-    "cat": "verb"
+    "cat": "verb",
+    "me": "depend on, rely on"
   },
   {
     "w": "複雑",
     "p": "fukuzatsu",
     "m": "phức tạp",
-    "cat": "adjective"
+    "cat": "adjective",
+    "me": "complex"
   },
   {
     "w": "電池",
     "p": "denchi",
     "m": "pin",
-    "cat": "technology"
+    "cat": "technology",
+    "me": "battery"
   },
   {
     "w": "関係",
     "p": "kankei",
     "m": "quan hệ",
-    "cat": "abstract"
+    "cat": "abstract",
+    "me": "relationship"
   },
   {
     "w": "大事",
     "p": "daiji",
     "m": "quan trọng",
-    "cat": "adjective"
+    "cat": "adjective",
+    "me": "important"
   },
   {
     "w": "馴染み",
     "p": "najimi",
     "m": "quen thuộc",
-    "cat": "adjective"
+    "cat": "adjective",
+    "me": "familiar"
   },
   {
     "w": "過去",
     "p": "kako",
     "m": "quá khứ",
-    "cat": "time"
+    "cat": "time",
+    "me": "past"
   },
   {
     "w": "すぎる",
     "p": "sugiru",
     "m": "quá mức, quá nhiều",
-    "cat": "grammar"
+    "cat": "grammar",
+    "me": "excessive, too much"
   },
   {
     "w": "広告",
     "p": "koukoku",
     "m": "quảng cáo",
-    "cat": "business"
+    "cat": "business",
+    "me": "advertise"
   },
   {
     "w": "カーテン",
     "p": "kaaten",
     "m": "rèm cửa",
-    "cat": "home"
+    "cat": "home",
+    "me": "curtain"
   },
   {
     "w": "非常に",
     "p": "hijou ni",
     "m": "rất, vô cùng",
-    "cat": "adverb"
+    "cat": "adverb",
+    "me": "very, extremely"
   },
   {
     "w": "右折する",
     "p": "usetsu suru",
     "m": "rẽ phải",
-    "cat": "direction"
+    "cat": "direction",
+    "me": "turn right"
   },
   {
     "w": "左折する",
     "p": "sasetsu suru",
     "m": "rẽ trái",
-    "cat": "direction"
+    "cat": "direction",
+    "me": "turn left"
   },
   {
     "w": "後で",
     "p": "atode",
     "m": "sau, lát sau",
-    "cat": "time"
+    "cat": "time",
+    "me": "after, a little later"
   },
   {
     "w": "その後",
     "p": "sonogo",
     "m": "sau này, sau đó",
-    "cat": "time"
+    "cat": "time",
+    "me": "afterward, later"
   },
   {
     "w": "それから",
     "p": "sorekara",
     "m": "sau đó",
-    "cat": "connector"
+    "cat": "connector",
+    "me": "afterward"
   },
   {
     "w": "すると",
     "p": "suruto",
     "m": "sau đó thì",
-    "cat": "connector"
+    "cat": "connector",
+    "me": "and then"
   },
   {
     "w": "商店街",
     "p": "shoutengai",
     "m": "khu phố mua sắm, khu chợ",
-    "cat": "place"
+    "cat": "place",
+    "me": "shopping district, market area"
   },
   {
     "w": "床",
     "p": "yuka",
     "m": "sàn nhà",
-    "cat": "home"
+    "cat": "home",
+    "me": "floor"
   },
   {
     "w": "早朝",
     "p": "souchou",
     "m": "sáng sớm",
-    "cat": "time"
+    "cat": "time",
+    "me": "early morning"
   },
   {
     "w": "創造的",
     "p": "souzouteki",
     "m": "sáng tạo",
-    "cat": "personality"
+    "cat": "personality",
+    "me": "creative"
   },
   {
     "w": "遊び場",
     "p": "asobiba",
     "m": "sân chơi",
-    "cat": "place"
+    "cat": "place",
+    "me": "playground"
   },
   {
     "w": "ホーム",
     "p": "hoomu",
     "m": "sân ga, thềm ga",
-    "cat": "transportation"
+    "cat": "transportation",
+    "me": "(train) platform"
   },
   {
     "w": "競技場",
     "p": "kyougijou",
     "m": "sân vận động",
-    "cat": "place"
+    "cat": "place",
+    "me": "stadium"
   },
   {
     "w": "霧",
     "p": "kiri",
     "m": "sương mù",
-    "cat": "weather"
+    "cat": "weather",
+    "me": "fog"
   },
   {
     "w": "充電する",
     "p": "juuden suru",
     "m": "sạc pin",
-    "cat": "technology"
+    "cat": "technology",
+    "me": "charger"
   },
   {
     "w": "清潔",
     "p": "seiketsu",
     "m": "sạch sẽ",
-    "cat": "adjective"
+    "cat": "adjective",
+    "me": "clean"
   },
   {
     "w": "製品",
     "p": "seihin",
     "m": "sản phẩm",
-    "cat": "business"
+    "cat": "business",
+    "me": "product"
   },
   {
     "w": "生産する",
     "p": "seisan suru",
     "m": "sản xuất",
-    "cat": "business"
+    "cat": "business",
+    "me": "produce"
   },
   {
     "w": "雷",
     "p": "kaminari",
     "m": "sấm sét",
-    "cat": "weather"
+    "cat": "weather",
+    "me": "thunder and lightning"
   },
   {
     "w": "準備ができる",
     "p": "junbi ga dekiru",
     "m": "sẵn sàng",
-    "cat": "state"
+    "cat": "state",
+    "me": "ready"
   },
   {
     "w": "上司",
     "p": "joushi",
     "m": "sếp, cấp trên",
-    "cat": "work"
+    "cat": "work",
+    "me": "boss, superior"
   },
   {
     "w": "早めに",
     "p": "hayame ni",
     "m": "sớm hơn dự định",
-    "cat": "time"
+    "cat": "time",
+    "me": "earlier than planned"
   },
   {
     "w": "怖がる",
     "p": "kowagaru",
     "m": "sợ hãi",
-    "cat": "emotion"
+    "cat": "emotion",
+    "me": "scared"
   },
   {
     "w": "修理する",
     "p": "shuuri suru",
     "m": "sửa chữa",
-    "cat": "verb"
+    "cat": "verb",
+    "me": "fix"
   },
   {
     "w": "出来事",
     "p": "dekigoto",
     "m": "sự kiện, sự việc xảy ra",
-    "cat": "abstract"
+    "cat": "abstract",
+    "me": "an event, an occurrence"
   },
   {
     "w": "選択",
     "p": "sentaku",
     "m": "sự lựa chọn",
-    "cat": "abstract"
+    "cat": "abstract",
+    "me": "choice"
   },
   {
     "w": "事実",
     "p": "jijitsu",
     "m": "sự thật",
-    "cat": "abstract"
+    "cat": "abstract",
+    "me": "fact"
   },
   {
     "w": "事故",
     "p": "jiko",
     "m": "tai nạn",
-    "cat": "emergency"
+    "cat": "emergency",
+    "me": "accident"
   },
   {
     "w": "参加する",
     "p": "sanka suru",
     "m": "tham dự, tham gia",
-    "cat": "verb"
+    "cat": "verb",
+    "me": "attend, participate"
   },
   {
     "w": "従う",
     "p": "shitagau",
     "m": "theo, tuân theo",
-    "cat": "verb"
+    "cat": "verb",
+    "me": "to follow, comply with"
   },
   {
     "w": "デザイン",
     "p": "dezain",
     "m": "thiết kế",
-    "cat": "work"
+    "cat": "work",
+    "me": "design"
   },
   {
     "w": "くつろぐ",
     "p": "kutsurogu",
     "m": "thoải mái, thư giãn",
-    "cat": "emotion"
+    "cat": "emotion",
+    "me": "relaxed"
   },
   {
     "w": "レジ",
     "p": "reji",
     "m": "quầy thu ngân",
-    "cat": "shopping"
+    "cat": "shopping",
+    "me": "cashier counter"
   },
   {
     "w": "家賃",
     "p": "yachin",
     "m": "tiền thuê nhà",
-    "cat": "money"
+    "cat": "money",
+    "me": "rent"
   },
   {
     "w": "成功する",
     "p": "seikou suru",
     "m": "thành công",
-    "cat": "abstract"
+    "cat": "abstract",
+    "me": "successful"
   },
   {
     "w": "成績",
     "p": "seiseki",
     "m": "thành tích, điểm số",
-    "cat": "school"
+    "cat": "school",
+    "me": "achievement, score"
   },
   {
     "w": "メンバー",
     "p": "menbaa",
     "m": "thành viên",
-    "cat": "social"
+    "cat": "social",
+    "me": "member"
   },
   {
     "w": "親しい",
     "p": "shitashii",
     "m": "thân thiện, thân thiết",
-    "cat": "personality"
+    "cat": "personality",
+    "me": "friendly, close"
   },
   {
     "w": "スプーン",
     "p": "supuun",
     "m": "thìa",
-    "cat": "kitchen"
+    "cat": "kitchen",
+    "me": "spoon"
   },
   {
     "w": "むしろ",
     "p": "mushiro",
     "m": "thích hơn, thà rằng",
-    "cat": "grammar"
+    "cat": "grammar",
+    "me": "would rather, prefer"
   },
   {
     "w": "失礼",
     "p": "shitsurei",
     "m": "thô lỗ, thất lễ",
-    "cat": "personality"
+    "cat": "personality",
+    "me": "rude, discourteous"
   },
   {
     "w": "賢い",
     "p": "kashikoi",
     "m": "thông minh",
-    "cat": "personality"
+    "cat": "personality",
+    "me": "smart"
   },
   {
     "w": "情報",
     "p": "jouhou",
     "m": "thông tin",
-    "cat": "technology"
+    "cat": "technology",
+    "me": "information"
   },
   {
     "w": "訪ねる",
     "p": "tazuneru",
     "m": "thăm, ghé thăm",
-    "cat": "verb"
+    "cat": "verb",
+    "me": "visit"
   },
   {
     "w": "メール",
     "p": "meeru",
     "m": "thư điện tử, email",
-    "cat": "technology"
+    "cat": "technology",
+    "me": "email"
   },
   {
     "w": "普段",
     "p": "fudan",
     "m": "thường thường, thường ngày",
-    "cat": "time"
+    "cat": "time",
+    "me": "usually, everyday"
   },
   {
     "w": "頻繁に",
     "p": "hinpan ni",
     "m": "thường xuyên",
-    "cat": "adverb"
+    "cat": "adverb",
+    "me": "often"
   },
   {
     "w": "楽しむ",
     "p": "tanoshimu",
     "m": "thưởng thức, tận hưởng",
-    "cat": "emotion"
+    "cat": "emotion",
+    "me": "enjoy"
   },
   {
     "w": "じゅうたん",
     "p": "juutan",
     "m": "thảm",
-    "cat": "home"
+    "cat": "home",
+    "me": "carpet"
   },
   {
     "w": "がっかりする",
     "p": "gakkari suru",
     "m": "thất vọng",
-    "cat": "emotion"
+    "cat": "emotion",
+    "me": "disappointed"
   },
   {
     "w": "十年",
     "p": "juunen",
     "m": "thập kỷ",
-    "cat": "time"
+    "cat": "time",
+    "me": "decade"
   },
   {
     "w": "残念ながら",
     "p": "zannen nagara",
     "m": "thật không may",
-    "cat": "connector"
+    "cat": "connector",
+    "me": "unfortunately"
   },
   {
     "w": "実は",
     "p": "jitsu wa",
     "m": "thật ra, thực ra",
-    "cat": "connector"
+    "cat": "connector",
+    "me": "actually, in fact"
   },
   {
     "w": "本当に",
     "p": "hontou ni",
     "m": "thật, thực sự",
-    "cat": "adverb"
+    "cat": "adverb",
+    "me": "real, truly"
   },
   {
     "w": "勝つ",
     "p": "katsu",
     "m": "thắng, chiến thắng",
-    "cat": "sports"
+    "cat": "sports",
+    "me": "win"
   },
   {
     "w": "クレジットカード",
     "p": "kurejitto kaado",
     "m": "thẻ tín dụng",
-    "cat": "money"
+    "cat": "money",
+    "me": "credit card"
   },
   {
     "w": "世紀",
     "p": "seiki",
     "m": "thế kỷ",
-    "cat": "time"
+    "cat": "time",
+    "me": "century"
   },
   {
     "w": "満足する",
     "p": "manzoku suru",
     "m": "thỏa mãn, hài lòng",
-    "cat": "emotion"
+    "cat": "emotion",
+    "me": "satisfied"
   },
   {
     "w": "一位",
     "p": "ichii",
     "m": "thứ nhất, hạng nhất",
-    "cat": "abstract"
+    "cat": "abstract",
+    "me": "first, top-ranked"
   },
   {
     "w": "試着する",
     "p": "shichaku suru",
     "m": "thử quần áo",
-    "cat": "shopping"
+    "cat": "shopping",
+    "me": "try on clothes"
   },
   {
     "w": "メニュー",
     "p": "menyuu",
     "m": "thực đơn",
-    "cat": "food"
+    "cat": "food",
+    "me": "menu"
   },
   {
     "w": "デザート",
     "p": "dezaato",
     "m": "tráng miệng",
-    "cat": "food"
+    "cat": "food",
+    "me": "dessert"
   },
   {
     "w": "稲妻",
     "p": "inazuma",
     "m": "tia sét, tia chớp",
-    "cat": "weather"
+    "cat": "weather",
+    "me": "a bolt of lightning"
   },
   {
     "w": "知らせ",
     "p": "shirase",
     "m": "tin tức, thông báo",
-    "cat": "communication"
+    "cat": "communication",
+    "me": "news, announcement"
   },
   {
     "w": "ニュース",
     "p": "nyuusu",
     "m": "tin tức",
-    "cat": "media"
+    "cat": "media",
+    "me": "news"
   },
   {
     "w": "過ごす",
     "p": "sugosu",
     "m": "trải qua, dành thời gian",
-    "cat": "verb"
+    "cat": "verb",
+    "me": "go through, spend time"
   },
   {
     "w": "進み具合",
     "p": "susumiguai",
     "m": "tiến độ",
-    "cat": "work"
+    "cat": "work",
+    "me": "progress"
   },
   {
     "w": "節約する",
     "p": "setsuyaku suru",
     "m": "tiết kiệm",
-    "cat": "money"
+    "cat": "money",
+    "me": "to save, be thrifty"
   },
   {
     "w": "現金",
     "p": "genkin",
     "m": "tiền mặt",
-    "cat": "money"
+    "cat": "money",
+    "me": "cash"
   },
   {
     "w": "パン屋",
     "p": "pan-ya",
     "m": "tiệm bánh",
-    "cat": "place"
+    "cat": "place",
+    "me": "bakery"
   },
   {
     "w": "うるさい",
     "p": "urusai",
     "m": "ồn ào, to tiếng",
-    "cat": "adjective"
+    "cat": "adjective",
+    "me": "noisy, loud"
   },
   {
     "w": "世界的",
     "p": "sekaiteki",
     "m": "toàn cầu, mang tính thế giới",
-    "cat": "abstract"
+    "cat": "abstract",
+    "me": "global, worldwide"
   },
   {
     "w": "ウェブサイト",
     "p": "webusaito",
     "m": "trang web",
-    "cat": "technology"
+    "cat": "technology",
+    "me": "website"
   },
   {
     "w": "展覧会",
     "p": "tenrankai",
     "m": "triển lãm",
-    "cat": "event"
+    "cat": "event",
+    "me": "exhibition"
   },
   {
     "w": "正直",
     "p": "shoujiki",
     "m": "trung thực, thành thật",
-    "cat": "personality"
+    "cat": "personality",
+    "me": "honest, truthful"
   },
   {
     "w": "伝統",
     "p": "dentou",
     "m": "truyền thống",
-    "cat": "culture"
+    "cat": "culture",
+    "me": "traditional"
   },
   {
     "w": "レベル",
     "p": "reberu",
     "m": "trình độ, mức độ",
-    "cat": "abstract"
+    "cat": "abstract",
+    "me": "level"
   },
   {
     "w": "以前",
     "p": "izen",
     "m": "trước đây",
-    "cat": "time"
+    "cat": "time",
+    "me": "previously"
   },
   {
     "w": "まず",
     "p": "mazu",
     "m": "trước tiên",
-    "cat": "connector"
+    "cat": "connector",
+    "me": "first of all"
   },
   {
     "w": "落ちる",
     "p": "ochiru",
     "m": "trượt, rớt kỳ thi",
-    "cat": "school"
+    "cat": "school",
+    "me": "fail an exam"
   },
   {
     "w": "支払う",
     "p": "shiharau",
     "m": "trả tiền, thanh toán",
-    "cat": "money"
+    "cat": "money",
+    "me": "pay, settle payment"
   },
   {
     "w": "天井",
     "p": "tenjou",
     "m": "trần nhà",
-    "cat": "home"
+    "cat": "home",
+    "me": "ceiling"
   },
   {
     "w": "どんより",
     "p": "donyori",
     "m": "trời âm u",
-    "cat": "weather"
+    "cat": "weather",
+    "me": "overcast sky"
   },
   {
     "w": "返す",
     "p": "kaesu",
     "m": "trả lại",
-    "cat": "verb"
+    "cat": "verb",
+    "me": "give back"
   },
   {
     "w": "生",
     "p": "nama",
     "m": "trực tiếp, tươi sống",
-    "cat": "adjective"
+    "cat": "adjective",
+    "me": "direct, fresh"
   },
   {
     "w": "訓練",
     "p": "kunren",
     "m": "luyện tập, huấn luyện",
-    "cat": "work"
+    "cat": "work",
+    "me": "practice, train"
   },
   {
     "w": "カップ",
     "p": "kappu",
     "m": "tách, cốc",
-    "cat": "kitchen"
+    "cat": "kitchen",
+    "me": "cup"
   },
   {
     "w": "検索する",
     "p": "kensaku suru",
     "m": "tìm kiếm",
-    "cat": "technology"
+    "cat": "technology",
+    "me": "search"
   },
   {
     "w": "緊急事態",
     "p": "kinkyuu jitai",
     "m": "tình huống khẩn cấp",
-    "cat": "emergency"
+    "cat": "emergency",
+    "me": "emergency"
   },
   {
     "w": "買い物袋",
     "p": "kaimono bukuro",
     "m": "túi mua hàng, túi đựng đồ",
-    "cat": "shopping"
+    "cat": "shopping",
+    "me": "shopping bag"
   },
   {
     "w": "新鮮",
     "p": "shinsen",
     "m": "tươi, tươi mới",
-    "cat": "food"
+    "cat": "food",
+    "me": "fresh"
   },
   {
     "w": "将来",
     "p": "shourai",
     "m": "tương lai",
-    "cat": "time"
+    "cat": "time",
+    "me": "future"
   },
   {
     "w": "想像する",
     "p": "souzou suru",
     "m": "tưởng tượng",
-    "cat": "cognition"
+    "cat": "cognition",
+    "me": "imagine"
   },
   {
     "w": "作り出す",
     "p": "tsukuridasu",
     "m": "tạo ra",
-    "cat": "verb"
+    "cat": "verb",
+    "me": "create"
   },
   {
     "w": "アップロードする",
     "p": "appuroodo suru",
     "m": "tải lên",
-    "cat": "technology"
+    "cat": "technology",
+    "me": "upload"
   },
   {
     "w": "ダウンロードする",
     "p": "daunroodo suru",
     "m": "tải xuống",
-    "cat": "technology"
+    "cat": "technology",
+    "me": "download"
   },
   {
     "w": "もちろん",
     "p": "mochiron",
     "m": "tất nhiên rồi",
-    "cat": "connector"
+    "cat": "connector",
+    "me": "of course"
   },
   {
     "w": "運動する",
     "p": "undou suru",
     "m": "tập thể dục",
-    "cat": "health"
+    "cat": "health",
+    "me": "exercise"
   },
   {
     "w": "渡す",
     "p": "watasu",
     "m": "đưa, trao, tặng",
-    "cat": "verb"
+    "cat": "verb",
+    "me": "give, hand over, present"
   },
   {
     "w": "組織する",
     "p": "soshiki suru",
     "m": "tổ chức",
-    "cat": "work"
+    "cat": "work",
+    "me": "organization"
   },
   {
     "w": "怒る",
     "p": "okoru",
     "m": "tức giận",
-    "cat": "emotion"
+    "cat": "emotion",
+    "me": "angry"
   },
   {
     "w": "断る",
     "p": "kotowaru",
     "m": "từ chối",
-    "cat": "verb"
+    "cat": "verb",
+    "me": "refuse"
   },
   {
     "w": "誇り",
     "p": "hokori",
     "m": "tự hào",
-    "cat": "emotion"
+    "cat": "emotion",
+    "me": "proud"
   },
   {
     "w": "自然",
     "p": "shizen",
     "m": "tự nhiên, thiên nhiên",
-    "cat": "nature"
+    "cat": "nature",
+    "me": "nature"
   },
   {
     "w": "自信",
     "p": "jishin",
     "m": "tự tin",
-    "cat": "personality"
+    "cat": "personality",
+    "me": "confident"
   },
   {
     "w": "チケット",
     "p": "chiketto",
     "m": "vé",
-    "cat": "shopping"
+    "cat": "shopping",
+    "me": "ticket"
   },
   {
     "w": "それで",
     "p": "sorede",
     "m": "vì vậy, cho nên",
-    "cat": "connector"
+    "cat": "connector",
+    "me": "therefore, so"
   },
   {
     "w": "例えば",
     "p": "tatoeba",
     "m": "ví dụ",
-    "cat": "connector"
+    "cat": "connector",
+    "me": "example"
   },
   {
     "w": "にわか雨",
     "p": "niwakaame",
     "m": "cơn mưa rào",
-    "cat": "weather"
+    "cat": "weather",
+    "me": "a rain shower"
   },
   {
     "w": "オフィス",
     "p": "ofisu",
     "m": "văn phòng",
-    "cat": "work"
+    "cat": "work",
+    "me": "office"
   },
   {
     "w": "問題",
     "p": "mondai",
     "m": "vấn đề, câu hỏi",
-    "cat": "abstract"
+    "cat": "abstract",
+    "me": "problem, question"
   },
   {
     "w": "依然として",
     "p": "izen toshite",
     "m": "vẫn còn",
-    "cat": "adverb"
+    "cat": "adverb",
+    "me": "still"
   },
   {
     "w": "描く",
     "p": "egaku",
     "m": "vẽ, phác họa",
-    "cat": "hobby"
+    "cat": "hobby",
+    "me": "draw, sketch"
   },
   {
     "w": "絵を描く",
     "p": "e o kaku",
     "m": "vẽ tranh",
-    "cat": "hobby"
+    "cat": "hobby",
+    "me": "paint"
   },
   {
     "w": "休憩",
     "p": "kyuukei",
     "m": "nghỉ giải lao",
-    "cat": "time"
+    "cat": "time",
+    "me": "take a break"
   },
   {
     "w": "さっき",
     "p": "sakki",
     "m": "vừa rồi, lúc nãy",
-    "cat": "time"
+    "cat": "time",
+    "me": "just now, a moment ago"
   },
   {
     "w": "ばかり",
     "p": "bakari",
     "m": "vừa mới, chỉ",
-    "cat": "grammar"
+    "cat": "grammar",
+    "me": "just now, only"
   },
   {
     "w": "一方で",
     "p": "ippou de",
     "m": "một mặt, một phía",
-    "cat": "connector"
+    "cat": "connector",
+    "me": "on one hand, one side"
   },
   {
     "w": "救急車",
     "p": "kyuukyuusha",
     "m": "xe cứu thương",
-    "cat": "emergency"
+    "cat": "emergency",
+    "me": "ambulance"
   },
   {
     "w": "見直す",
     "p": "minaosu",
     "m": "xem lại, ôn tập",
-    "cat": "school"
+    "cat": "school",
+    "me": "review, revise"
   },
   {
     "w": "謝る",
     "p": "ayamaru",
     "m": "xin lỗi",
-    "cat": "communication"
+    "cat": "communication",
+    "me": "sorry"
   },
   {
     "w": "管理する",
     "p": "kanri suru",
     "m": "quản lý, xoay sở",
-    "cat": "work"
+    "cat": "work",
+    "me": "manage, cope"
   },
   {
     "w": "発表する",
     "p": "happyou suru",
     "m": "công bố, đăng, phát biểu",
-    "cat": "communication"
+    "cat": "communication",
+    "me": "publish, announce, state"
   },
   {
     "w": "起こる",
     "p": "okoru",
     "m": "xảy ra",
-    "cat": "abstract"
+    "cat": "abstract",
+    "me": "happen"
   },
   {
     "w": "恥ずかしい",
     "p": "hazukashii",
     "m": "xấu hổ, ngượng ngùng",
-    "cat": "emotion"
+    "cat": "emotion",
+    "me": "embarrassed, shy"
   },
   {
     "w": "看護師",
     "p": "kangoshi",
     "m": "y tá",
-    "cat": "job"
+    "cat": "job",
+    "me": "nurse"
   },
   {
     "w": "意見",
     "p": "iken",
     "m": "ý kiến",
-    "cat": "communication"
+    "cat": "communication",
+    "me": "opinion"
   },
   {
     "w": "アイデア",
     "p": "aidea",
     "m": "ý tưởng",
-    "cat": "abstract"
+    "cat": "abstract",
+    "me": "idea"
   },
   {
     "w": "ベジタリアン",
     "p": "bejitarian",
     "m": "người ăn chay",
-    "cat": "food"
+    "cat": "food",
+    "me": "vegetarian"
   },
   {
     "w": "腹痛",
     "p": "fukutsuu",
     "m": "đau bụng",
-    "cat": "health"
+    "cat": "health",
+    "me": "stomachache"
   },
   {
     "w": "歯痛",
     "p": "shitsuu",
     "m": "đau răng",
-    "cat": "health"
+    "cat": "health",
+    "me": "toothache"
   },
   {
     "w": "頭痛",
     "p": "zutsuu",
     "m": "đau đầu",
-    "cat": "health"
+    "cat": "health",
+    "me": "headache"
   },
   {
     "w": "痛み",
     "p": "itami",
     "m": "đau đớn, nỗi đau",
-    "cat": "health"
+    "cat": "health",
+    "me": "pain, suffering"
   },
   {
     "w": "まっすぐ",
     "p": "massugu",
     "m": "đi thẳng",
-    "cat": "direction"
+    "cat": "direction",
+    "me": "straight ahead"
   },
   {
     "w": "点数",
     "p": "tensuu",
     "m": "điểm số",
-    "cat": "school"
+    "cat": "school",
+    "me": "point"
   },
   {
     "w": "典型的",
     "p": "tenkeiteki",
     "m": "điển hình",
-    "cat": "abstract"
+    "cat": "abstract",
+    "me": "typical"
   },
   {
     "w": "携帯電話",
     "p": "keitai denwa",
     "m": "điện thoại di động",
-    "cat": "technology"
+    "cat": "technology",
+    "me": "mobile"
   },
   {
     "w": "推測する",
     "p": "suisoku suru",
     "m": "đoán, phỏng đoán",
-    "cat": "cognition"
+    "cat": "cognition",
+    "me": "guess, speculate"
   },
   {
     "w": "サッカーをする",
     "p": "sakkaa o suru",
     "m": "đá bóng",
-    "cat": "sports"
+    "cat": "sports",
+    "me": "kick"
   },
   {
     "w": "信頼できる",
     "p": "shinrai dekiru",
     "m": "đáng tin cậy",
-    "cat": "personality"
+    "cat": "personality",
+    "me": "reliable"
   },
   {
     "w": "すでに",
     "p": "sude ni",
     "m": "đã rồi, đã xong",
-    "cat": "adverb"
+    "cat": "adverb",
+    "me": "already done, already finished"
   },
   {
     "w": "それにしても",
     "p": "sore ni shite mo",
     "m": "đã thế, dù sao thì",
-    "cat": "connector"
+    "cat": "connector",
+    "me": "anyway, in any case"
   },
   {
     "w": "電気スタンド",
     "p": "denki sutando",
     "m": "đèn bàn",
-    "cat": "home"
+    "cat": "home",
+    "me": "lamp"
   },
   {
     "w": "凍る",
     "p": "kooru",
     "m": "đóng băng, rất lạnh",
-    "cat": "weather"
+    "cat": "weather",
+    "me": "freezing"
   },
   {
     "w": "投稿する",
     "p": "toukou suru",
     "m": "đăng bài",
-    "cat": "technology"
+    "cat": "technology",
+    "me": "post"
   },
   {
     "w": "皿",
     "p": "sara",
     "m": "đĩa",
-    "cat": "kitchen"
+    "cat": "kitchen",
+    "me": "plate"
   },
   {
     "w": "箸",
     "p": "hashi",
     "m": "đũa",
-    "cat": "kitchen"
+    "cat": "kitchen",
+    "me": "chopsticks"
   },
   {
     "w": "大学",
     "p": "daigaku",
     "m": "đại học",
-    "cat": "school"
+    "cat": "school",
+    "me": "university"
   },
   {
     "w": "達成する",
     "p": "tassei suru",
     "m": "đạt được",
-    "cat": "abstract"
+    "cat": "abstract",
+    "me": "achieve"
   },
   {
     "w": "合格する",
     "p": "goukaku suru",
     "m": "đậu, đỗ kỳ thi",
-    "cat": "school"
+    "cat": "school",
+    "me": "pass an exam"
   },
   {
     "w": "到着する",
     "p": "touchaku suru",
     "m": "đến nơi",
-    "cat": "travel"
+    "cat": "travel",
+    "me": "arrive"
   },
   {
     "w": "提供する",
     "p": "teikyou suru",
     "m": "đề nghị, cung cấp",
-    "cat": "business"
+    "cat": "business",
+    "me": "offer"
   },
   {
     "w": "提案する",
     "p": "teian suru",
     "m": "đề xuất",
-    "cat": "work"
+    "cat": "work",
+    "me": "suggest"
   },
   {
     "w": "定期的に",
     "p": "teikiteki ni",
     "m": "đều đặn, thường xuyên",
-    "cat": "adverb"
+    "cat": "adverb",
+    "me": "regularly"
   },
   {
     "w": "地元",
     "p": "jimoto",
     "m": "địa phương",
-    "cat": "place"
+    "cat": "place",
+    "me": "local"
   },
   {
     "w": "読書する",
     "p": "dokusho suru",
     "m": "đọc sách",
-    "cat": "hobby"
+    "cat": "hobby",
+    "me": "read"
   },
   {
     "w": "家具",
     "p": "kagu",
     "m": "đồ nội thất",
-    "cat": "home"
+    "cat": "home",
+    "me": "furniture"
   },
   {
     "w": "スナック",
     "p": "sunakku",
     "m": "đồ ăn vặt",
-    "cat": "food"
+    "cat": "food",
+    "me": "snack"
   },
   {
     "w": "同僚",
     "p": "douryou",
     "m": "đồng nghiệp",
-    "cat": "work"
+    "cat": "work",
+    "me": "colleague"
   },
   {
     "w": "賛成する",
     "p": "sansei suru",
     "m": "đồng ý, tán thành",
-    "cat": "communication"
+    "cat": "communication",
+    "me": "agree, approve"
   },
   {
     "w": "乗り換える",
     "p": "norikaeru",
     "m": "đổi xe, chuyển tuyến",
-    "cat": "transportation"
+    "cat": "transportation",
+    "me": "transfer, change routes"
   },
   {
     "w": "学位",
     "p": "gakui",
     "m": "bằng đại học, học vị",
-    "cat": "school"
+    "cat": "school",
+    "me": "university degree"
   },
   {
     "w": "湿度",
     "p": "shitsudo",
     "m": "độ ẩm",
-    "cat": "weather"
+    "cat": "weather",
+    "me": "humidity"
   },
   {
     "w": "独立する",
     "p": "dokuritsu suru",
     "m": "độc lập",
-    "cat": "abstract"
+    "cat": "abstract",
+    "me": "independent"
   },
   {
     "w": "チーム",
     "p": "chiimu",
     "m": "đội nhóm",
-    "cat": "social"
+    "cat": "social",
+    "me": "team"
   },
   {
     "w": "突然",
     "p": "totsuzen",
     "m": "đột nhiên",
-    "cat": "adverb"
+    "cat": "adverb",
+    "me": "suddenly"
   },
   {
     "w": "セール",
     "p": "seeru",
     "m": "đợt khuyến mãi",
-    "cat": "shopping"
+    "cat": "shopping",
+    "me": "sale"
   },
   {
     "w": "十分",
     "p": "juubun",
     "m": "đủ rồi, đầy đủ",
-    "cat": "adjective"
+    "cat": "adjective",
+    "me": "enough, sufficient"
   },
   {
     "w": "余裕がある",
     "p": "yoyuu ga aru",
     "m": "đủ khả năng, có dư dả",
-    "cat": "money"
+    "cat": "money",
+    "me": "capable enough, with room to spare"
   },
   {
     "w": "真ん中",
     "p": "mannaka",
     "m": "ở giữa, chính giữa",
-    "cat": "direction"
+    "cat": "direction",
+    "me": "in the middle, center"
   },
   {
     "w": "アプリ",
     "p": "apuri",
     "m": "ứng dụng",
-    "cat": "technology"
+    "cat": "technology",
+    "me": "app"
   },
   {
     "w": "経験する",
     "p": "keiken suru",
     "m": "trải nghiệm, kinh nghiệm",
-    "cat": "abstract"
+    "cat": "abstract",
+    "me": "experience"
   },
   {
     "w": "失敗する",
     "p": "shippai suru",
     "m": "thất bại",
-    "cat": "abstract"
+    "cat": "abstract",
+    "me": "failure"
   },
   {
     "w": "興味",
     "p": "kyoumi",
     "m": "hứng thú, quan tâm",
-    "cat": "emotion"
+    "cat": "emotion",
+    "me": "interest, curiosity"
   },
   {
     "w": "性格",
     "p": "seikaku",
     "m": "tính cách",
-    "cat": "personality"
+    "cat": "personality",
+    "me": "personality"
   },
   {
     "w": "習慣",
     "p": "shuukan",
     "m": "thói quen",
-    "cat": "abstract"
+    "cat": "abstract",
+    "me": "habit"
   },
   {
     "w": "生活する",
     "p": "seikatsu suru",
     "m": "sinh sống",
-    "cat": "abstract"
+    "cat": "abstract",
+    "me": "live, reside"
   },
   {
     "w": "経済",
     "p": "keizai",
     "m": "kinh tế",
-    "cat": "abstract"
+    "cat": "abstract",
+    "me": "economy"
   },
   {
     "w": "文化",
     "p": "bunka",
     "m": "văn hóa",
-    "cat": "culture"
+    "cat": "culture",
+    "me": "culture"
   },
   {
     "w": "歴史",
     "p": "rekishi",
     "m": "lịch sử",
-    "cat": "school"
+    "cat": "school",
+    "me": "historical"
   },
   {
     "w": "政治",
     "p": "seiji",
     "m": "chính trị",
-    "cat": "abstract"
+    "cat": "abstract",
+    "me": "political"
   },
   {
     "w": "技術",
     "p": "gijutsu",
     "m": "kỹ thuật, công nghệ",
-    "cat": "technology"
+    "cat": "technology",
+    "me": "technique, technology"
   },
   {
     "w": "産業",
     "p": "sangyou",
     "m": "ngành công nghiệp",
-    "cat": "business"
+    "cat": "business",
+    "me": "industry"
   },
   {
     "w": "国際的",
     "p": "kokusaiteki",
     "m": "mang tính quốc tế",
-    "cat": "abstract"
+    "cat": "abstract",
+    "me": "international in nature"
   },
   {
     "w": "地球",
     "p": "chikyuu",
     "m": "trái đất, địa cầu",
-    "cat": "nature"
+    "cat": "nature",
+    "me": "the Earth, the globe"
   },
   {
     "w": "宇宙",
     "p": "uchuu",
     "m": "vũ trụ",
-    "cat": "nature"
+    "cat": "nature",
+    "me": "universe"
   },
   {
     "w": "植物",
     "p": "shokubutsu",
     "m": "thực vật, cây cối",
-    "cat": "nature"
+    "cat": "nature",
+    "me": "plant, vegetation"
   },
   {
     "w": "揺れる",
     "p": "yureru",
     "m": "rung lắc, lung lay",
-    "cat": "nature"
+    "cat": "nature",
+    "me": "shake, wobble"
   },
   {
     "w": "倒れる",
     "p": "taoreru",
     "m": "ngã, đổ",
-    "cat": "health"
+    "cat": "health",
+    "me": "fall, collapse"
   },
   {
     "w": "比較的",
     "p": "hikakuteki",
     "m": "tương đối",
-    "cat": "adverb"
+    "cat": "adverb",
+    "me": "relatively"
   },
   {
     "w": "積極的",
     "p": "sekkyokuteki",
     "m": "tích cực, chủ động",
-    "cat": "personality"
+    "cat": "personality",
+    "me": "proactive, active"
   },
   {
     "w": "消極的",
     "p": "shoukyokuteki",
     "m": "tiêu cực, thụ động",
-    "cat": "personality"
+    "cat": "personality",
+    "me": "negative, passive"
   },
   {
     "w": "我慢する",
     "p": "gaman suru",
     "m": "nhẫn nhịn, chịu đựng",
-    "cat": "emotion"
+    "cat": "emotion",
+    "me": "endure, tolerate"
   },
   {
     "w": "尊敬する",
     "p": "sonkei suru",
     "m": "tôn trọng, kính trọng",
-    "cat": "emotion"
+    "cat": "emotion",
+    "me": "respect, esteem"
   },
   {
     "w": "信じる",
     "p": "shinjiru",
     "m": "tin tưởng",
-    "cat": "emotion"
+    "cat": "emotion",
+    "me": "trust"
   },
   {
     "w": "疑う",
     "p": "utagau",
     "m": "nghi ngờ",
-    "cat": "emotion"
+    "cat": "emotion",
+    "me": "doubt"
   },
   {
     "w": "許す",
     "p": "yurusu",
     "m": "tha thứ, cho phép",
-    "cat": "emotion"
+    "cat": "emotion",
+    "me": "forgive, allow"
   },
   {
     "w": "向上する",
     "p": "koujou suru",
     "m": "cải thiện, nâng cao",
-    "cat": "abstract"
+    "cat": "abstract",
+    "me": "improve, enhance"
   },
   {
     "w": "影響する",
     "p": "eikyou suru",
     "m": "ảnh hưởng",
-    "cat": "abstract"
+    "cat": "abstract",
+    "me": "influence"
   },
   {
     "w": "共通する",
     "p": "kyoutsuu suru",
     "m": "có điểm chung",
-    "cat": "abstract"
+    "cat": "abstract",
+    "me": "to have something in common"
   }
 ]

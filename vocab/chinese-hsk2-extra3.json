@@ -5,7 +5,8 @@
     "m": "mở ra, bật lên",
     "cat": "verb",
     "example": "请打开窗户。",
-    "example_vi": "Xin hãy mở cửa sổ."
+    "example_vi": "Xin hãy mở cửa sổ.",
+    "me": "open, turn on"
   },
   {
     "w": "关上",
@@ -13,13 +14,15 @@
     "m": "đóng lại, tắt đi",
     "cat": "verb",
     "example": "请把门关上。",
-    "example_vi": "Xin hãy đóng cửa lại."
+    "example_vi": "Xin hãy đóng cửa lại.",
+    "me": "close, turn off"
   },
   {
     "w": "摘",
     "p": "zhāi",
     "m": "hái (hoa, quả), lấy xuống",
-    "cat": "verb"
+    "cat": "verb",
+    "me": "pick (flowers, fruit), take down"
   },
   {
     "w": "拿走",
@@ -27,7 +30,8 @@
     "m": "lấy đi, mang đi",
     "cat": "verb",
     "example": "请把这些书拿走。",
-    "example_vi": "Xin hãy mang những cuốn sách này đi."
+    "example_vi": "Xin hãy mang những cuốn sách này đi.",
+    "me": "take away"
   },
   {
     "w": "胆小",
@@ -35,30 +39,35 @@
     "m": "nhút nhát, rụt rè, hèn nhát",
     "cat": "tính từ",
     "example": "这只小狗很胆小。",
-    "example_vi": "Con chó con này rất nhút nhát."
+    "example_vi": "Con chó con này rất nhút nhát.",
+    "me": "timid, shy, cowardly"
   },
   {
     "w": "一边...一边",
     "p": "yībiān...yībiān",
     "m": "vừa...vừa (làm hai việc cùng lúc)",
-    "cat": "language"
+    "cat": "language",
+    "me": "both...and (doing two things at once)"
   },
   {
     "w": "先...再...",
     "p": "xiān...zài...",
     "m": "trước...rồi mới... (thứ tự hành động)",
-    "cat": "language"
+    "cat": "language",
+    "me": "first...then... (sequence of action)"
   },
   {
     "w": "不但...而且",
     "p": "bùdàn...érqiě",
     "m": "không những...mà còn... (tăng tiến)",
-    "cat": "language"
+    "cat": "language",
+    "me": "not only...but also..."
   },
   {
     "w": "虽然...但是",
     "p": "suīrán...dànshì",
     "m": "mặc dù...nhưng... (nhượng bộ)",
-    "cat": "language"
+    "cat": "language",
+    "me": "although... yet... (concessive)"
   }
 ]

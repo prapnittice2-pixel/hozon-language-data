@@ -3,19 +3,22 @@
     "w": "年初",
     "p": "niánchū",
     "m": "đầu năm",
-    "cat": "time"
+    "cat": "time",
+    "me": "beginning of the year"
   },
   {
     "w": "年底",
     "p": "niándǐ",
     "m": "cuối năm",
-    "cat": "time"
+    "cat": "time",
+    "me": "year-end"
   },
   {
     "w": "年末",
     "p": "niánmò",
     "m": "cuối năm, dịp tất niên",
-    "cat": "time"
+    "cat": "time",
+    "me": "year-end, New Year's Eve occasion"
   },
   {
     "w": "平均",
@@ -23,7 +26,8 @@
     "m": "trung bình, bình quân",
     "cat": "noun",
     "example": "这个班的平均成绩很好。",
-    "example_vi": "Thành tích trung bình của lớp này rất tốt."
+    "example_vi": "Thành tích trung bình của lớp này rất tốt.",
+    "me": "average"
   },
   {
     "w": "结合",
@@ -31,7 +35,8 @@
     "m": "kết hợp, gắn kết",
     "cat": "verb",
     "example": "理论要和实践结合。",
-    "example_vi": "Lý thuyết phải kết hợp với thực hành."
+    "example_vi": "Lý thuyết phải kết hợp với thực hành.",
+    "me": "combine, bond"
   },
   {
     "w": "老实说",
@@ -39,7 +44,8 @@
     "m": "nói thật ra, thành thật mà nói",
     "cat": "default",
     "example": "老实说，我不太喜欢这个电影。",
-    "example_vi": "Nói thật ra, tôi không thích bộ phim này lắm."
+    "example_vi": "Nói thật ra, tôi không thích bộ phim này lắm.",
+    "me": "to tell the truth, honestly"
   },
   {
     "w": "尝试",
@@ -47,6 +53,7 @@
     "m": "thử, nỗ lực thử nghiệm",
     "cat": "verb",
     "example": "他尝试了很多次都失败了。",
-    "example_vi": "Anh ấy đã thử nhiều lần đều thất bại."
+    "example_vi": "Anh ấy đã thử nhiều lần đều thất bại.",
+    "me": "attempt, make a trial effort"
   }
 ]

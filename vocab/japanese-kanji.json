@@ -117,7 +117,8 @@
     "m": "lẫn nhau, qua lại",
     "grade": 7,
     "ex": "両国は相互に協力している。",
-    "exVi": "Hai nước hợp tác lẫn nhau."
+    "exVi": "Hai nước hợp tác lẫn nhau.",
+    "me": "mutual, reciprocal"
   },
   {
     "w": "亜",
@@ -333,7 +334,8 @@
     "m": "lương bổng",
     "grade": 7,
     "ex": "あの選手は年俸1億円で契約した。",
-    "exVi": "Cầu thủ đó đã ký hợp đồng với mức lương năm 100 triệu yên."
+    "exVi": "Cầu thủ đó đã ký hợp đồng với mức lương năm 100 triệu yên.",
+    "me": "salary, wages"
   },
   {
     "w": "俺",
@@ -637,7 +639,8 @@
     "m": "tầm thường, bình phàm",
     "grade": 7,
     "ex": "彼は平凡な毎日を送っている。",
-    "exVi": "Anh ấy sống một cuộc sống bình thường mỗi ngày."
+    "exVi": "Anh ấy sống một cuộc sống bình thường mỗi ngày.",
+    "me": "mediocre, ordinary"
   },
   {
     "w": "凶",
@@ -685,7 +688,8 @@
     "m": "hình phạt",
     "grade": 7,
     "ex": "法律に基づいて刑罰が科される。",
-    "exVi": "Hình phạt được áp dụng dựa trên pháp luật."
+    "exVi": "Hình phạt được áp dụng dựa trên pháp luật.",
+    "me": "punishment"
   },
   {
     "w": "到",
@@ -973,7 +977,8 @@
     "m": "đôi, cặp",
     "grade": 7,
     "ex": "彼女は双子の姉がいる。",
-    "exVi": "Cô ấy có chị gái sinh đôi."
+    "exVi": "Cô ấy có chị gái sinh đôi.",
+    "me": "pair, couple"
   },
   {
     "w": "叔",
@@ -1053,7 +1058,8 @@
     "m": "chứa đựng, bao gồm",
     "grade": 7,
     "ex": "この飲み物は糖分を多く含有している。",
-    "exVi": "Đồ uống này chứa nhiều đường."
+    "exVi": "Đồ uống này chứa nhiều đường.",
+    "me": "contain, include"
   },
   {
     "w": "吹",
@@ -1269,7 +1275,8 @@
     "m": "ủy thác, giao phó",
     "grade": 7,
     "ex": "彼は嘱託社員として働いている。",
-    "exVi": "Anh ấy làm việc với tư cách nhân viên hợp đồng."
+    "exVi": "Anh ấy làm việc với tư cách nhân viên hợp đồng.",
+    "me": "entrust, delegate"
   },
   {
     "w": "嘲",
@@ -1701,7 +1708,8 @@
     "m": "cản trở, ngăn cản",
     "grade": 7,
     "ex": "電波妨害が発生した。",
-    "exVi": "Đã xảy ra hiện tượng nhiễu sóng cản trở tín hiệu."
+    "exVi": "Đã xảy ra hiện tượng nhiễu sóng cản trở tín hiệu.",
+    "me": "hinder, obstruct"
   },
   {
     "w": "妬",
@@ -1797,7 +1805,8 @@
     "m": "môi giới, trung gian",
     "grade": 7,
     "ex": "テレビは重要な広告媒体だ。",
-    "exVi": "Truyền hình là phương tiện quảng cáo quan trọng."
+    "exVi": "Truyền hình là phương tiện quảng cáo quan trọng.",
+    "me": "broker, intermediary"
   },
   {
     "w": "嫁",
@@ -1909,7 +1918,8 @@
     "m": "khoan dung, rộng lượng",
     "grade": 7,
     "ex": "彼は寛容な心を持っている。",
-    "exVi": "Anh ấy có một tấm lòng khoan dung."
+    "exVi": "Anh ấy có một tấm lòng khoan dung.",
+    "me": "tolerant, generous"
   },
   {
     "w": "寝",
@@ -3093,7 +3103,8 @@
     "m": "từ chối, cự tuyệt",
     "grade": 8,
     "ex": "彼はその提案を拒否した。",
-    "exVi": "Anh ấy đã từ chối đề xuất đó."
+    "exVi": "Anh ấy đã từ chối đề xuất đó.",
+    "me": "refuse, reject"
   },
   {
     "w": "拓",
@@ -3117,7 +3128,8 @@
     "m": "vụng về, kém cỏi",
     "grade": 8,
     "ex": "彼の文章はまだ稚拙だ。",
-    "exVi": "Văn chương của anh ấy vẫn còn vụng về, non nớt."
+    "exVi": "Văn chương của anh ấy vẫn còn vụng về, non nớt.",
+    "me": "clumsy, inept"
   },
   {
     "w": "拠",
@@ -4213,7 +4225,8 @@
     "m": "mồ hôi",
     "grade": 8,
     "ex": "運動すると発汗作用が促される。",
-    "exVi": "Khi vận động thì cơ chế đổ mồ hôi được thúc đẩy."
+    "exVi": "Khi vận động thì cơ chế đổ mồ hôi được thúc đẩy.",
+    "me": "sweat"
   },
   {
     "w": "汚",
@@ -4749,7 +4762,8 @@
     "m": "nấu cơm",
     "grade": 8,
     "ex": "炊飯器でご飯を炊いた。",
-    "exVi": "Tôi đã nấu cơm bằng nồi cơm điện."
+    "exVi": "Tôi đã nấu cơm bằng nồi cơm điện.",
+    "me": "cook rice"
   },
   {
     "w": "炎",
@@ -4797,7 +4811,8 @@
     "m": "khói",
     "grade": 8,
     "ex": "工場の煙突から煙が出ている。",
-    "exVi": "Khói đang bốc ra từ ống khói nhà máy."
+    "exVi": "Khói đang bốc ra từ ống khói nhà máy.",
+    "me": "smoke"
   },
   {
     "w": "煩",
@@ -5221,7 +5236,8 @@
     "m": "gầy, ốm",
     "grade": 8,
     "ex": "痩身効果のあるサプリメントを試した。",
-    "exVi": "Tôi đã thử loại thực phẩm chức năng có hiệu quả làm gầy đi."
+    "exVi": "Tôi đã thử loại thực phẩm chức năng có hiệu quả làm gầy đi.",
+    "me": "thin, skinny"
   },
   {
     "w": "痴",
@@ -5341,7 +5357,8 @@
     "m": "ngắm nhìn",
     "grade": 8,
     "ex": "この部屋は眺望がいい。",
-    "exVi": "Căn phòng này có tầm nhìn đẹp."
+    "exVi": "Căn phòng này có tầm nhìn đẹp.",
+    "me": "gaze at, admire"
   },
   {
     "w": "睡",
@@ -5381,7 +5398,8 @@
     "m": "rõ ràng, sáng tỏ",
     "grade": 8,
     "ex": "彼の説明は明瞭だった。",
-    "exVi": "Lời giải thích của anh ấy rõ ràng, dễ hiểu."
+    "exVi": "Lời giải thích của anh ấy rõ ràng, dễ hiểu.",
+    "me": "clear, evident"
   },
   {
     "w": "瞳",
@@ -5453,7 +5471,8 @@
     "m": "cờ vây",
     "grade": 8,
     "ex": "祖父と囲碁を打った。",
-    "exVi": "Tôi đã chơi cờ vây với ông."
+    "exVi": "Tôi đã chơi cờ vây với ông.",
+    "me": "go (board game)"
   },
   {
     "w": "碑",
@@ -5485,7 +5504,8 @@
     "m": "nền móng, cơ sở",
     "grade": 8,
     "ex": "基礎から日本語を学ぶ。",
-    "exVi": "Học tiếng Nhật từ những kiến thức cơ bản."
+    "exVi": "Học tiếng Nhật từ những kiến thức cơ bản.",
+    "me": "foundation, basis"
   },
   {
     "w": "祈",
@@ -6077,7 +6097,8 @@
     "m": "hình phạt",
     "grade": 9,
     "ex": "違反すると罰金が科される。",
-    "exVi": "Nếu vi phạm sẽ bị phạt tiền."
+    "exVi": "Nếu vi phạm sẽ bị phạt tiền.",
+    "me": "punishment"
   },
   {
     "w": "罵",
@@ -6173,7 +6194,8 @@
     "m": "làn da",
     "grade": 9,
     "ex": "肌色のストッキングを履いた。",
-    "exVi": "Tôi đã mang tất màu da."
+    "exVi": "Tôi đã mang tất màu da.",
+    "me": "skin"
   },
   {
     "w": "肖",
@@ -6373,7 +6395,8 @@
     "m": "làn da",
     "grade": 9,
     "ex": "皮膚科で診てもらった。",
-    "exVi": "Tôi đã đi khám ở khoa da liễu."
+    "exVi": "Tôi đã đi khám ở khoa da liễu.",
+    "me": "skin"
   },
   {
     "w": "膜",
@@ -6445,7 +6468,8 @@
     "m": "cửa hàng, tiệm",
     "grade": 9,
     "ex": "この店は創業100年の老舗だ。",
-    "exVi": "Cửa hàng này là cửa hiệu lâu đời có 100 năm thành lập."
+    "exVi": "Cửa hàng này là cửa hiệu lâu đời có 100 năm thành lập.",
+    "me": "shop, store"
   },
   {
     "w": "舞",
@@ -6525,7 +6549,8 @@
     "m": "cỏ, bãi cỏ",
     "grade": 9,
     "ex": "庭の芝生を刈った。",
-    "exVi": "Tôi đã cắt cỏ sân vườn."
+    "exVi": "Tôi đã cắt cỏ sân vườn.",
+    "me": "grass, lawn"
   },
   {
     "w": "芯",
@@ -6597,7 +6622,8 @@
     "m": "hoa cúc",
     "grade": 9,
     "ex": "菊花展が開催された。",
-    "exVi": "Triển lãm hoa cúc đã được tổ chức."
+    "exVi": "Triển lãm hoa cúc đã được tổ chức.",
+    "me": "chrysanthemum"
   },
   {
     "w": "菌",
@@ -7213,7 +7239,8 @@
     "m": "sao chép",
     "grade": 9,
     "ex": "戸籍謄本を取得した。",
-    "exVi": "Tôi đã lấy bản sao hộ tịch."
+    "exVi": "Tôi đã lấy bản sao hộ tịch.",
+    "me": "copy"
   },
   {
     "w": "謎",
@@ -7693,7 +7720,8 @@
     "m": "lần lượt, dần dần",
     "grade": 9,
     "ex": "収益が逓減している。",
-    "exVi": "Lợi nhuận đang giảm dần dần."
+    "exVi": "Lợi nhuận đang giảm dần dần.",
+    "me": "one by one, gradually"
   },
   {
     "w": "途",
@@ -8429,7 +8457,8 @@
     "m": "sấm sét",
     "grade": 9,
     "ex": "激しい雷雨に見舞われた。",
-    "exVi": "Chúng tôi đã gặp phải trận mưa giông dữ dội."
+    "exVi": "Chúng tôi đã gặp phải trận mưa giông dữ dội.",
+    "me": "thunder and lightning"
   },
   {
     "w": "需",
@@ -8461,7 +8490,8 @@
     "m": "sương muối",
     "grade": 9,
     "ex": "冬の朝、霜柱を踏んだ。",
-    "exVi": "Vào buổi sáng mùa đông, tôi đã giẫm lên những cột băng sương giá."
+    "exVi": "Vào buổi sáng mùa đông, tôi đã giẫm lên những cột băng sương giá.",
+    "me": "frost"
   },
   {
     "w": "霧",
@@ -8493,7 +8523,8 @@
     "m": "Hàn Quốc",
     "grade": 9,
     "ex": "韓国語を勉強している。",
-    "exVi": "Tôi đang học tiếng Hàn Quốc."
+    "exVi": "Tôi đang học tiếng Hàn Quốc.",
+    "me": "Korea"
   },
   {
     "w": "韻",
@@ -8821,7 +8852,8 @@
     "m": "chân núi",
     "grade": 9,
     "ex": "山麓にある温泉宿に泊まった。",
-    "exVi": "Tôi đã nghỉ tại nhà trọ suối nước nóng dưới chân núi."
+    "exVi": "Tôi đã nghỉ tại nhà trọ suối nước nóng dưới chân núi.",
+    "me": "foot of the mountain"
   },
   {
     "w": "麗",
@@ -8837,7 +8869,8 @@
     "m": "mì, bún",
     "grade": 9,
     "ex": "麺類が好きでよく食べる。",
-    "exVi": "Tôi thích mì nên hay ăn."
+    "exVi": "Tôi thích mì nên hay ăn.",
+    "me": "noodles"
   },
   {
     "w": "麻",
@@ -8869,7 +8902,8 @@
     "m": "tuổi tác",
     "grade": 9,
     "ex": "年齢を重ねても学び続ける。",
-    "exVi": "Dù tuổi tác ngày càng cao vẫn tiếp tục học hỏi."
+    "exVi": "Dù tuổi tác ngày càng cao vẫn tiếp tục học hỏi.",
+    "me": "age"
   },
   {
     "w": "𠮟",
@@ -8997,7 +9031,8 @@
     "m": "trái",
     "grade": 1,
     "ex": "車に乗る前に左右を見ます。",
-    "exVi": "Trước khi lên xe, hãy nhìn trái phải."
+    "exVi": "Trước khi lên xe, hãy nhìn trái phải.",
+    "me": "left; fruit"
   },
   {
     "w": "右",
@@ -9005,7 +9040,8 @@
     "m": "phải",
     "grade": 1,
     "ex": "右手でペンを持ちます。",
-    "exVi": "Tôi cầm bút bằng tay phải."
+    "exVi": "Tôi cầm bút bằng tay phải.",
+    "me": "correct, right"
   },
   {
     "w": "中",
@@ -9101,7 +9137,8 @@
     "m": "đất",
     "grade": 1,
     "ex": "土曜日に買い物に行きます。",
-    "exVi": "Tôi đi mua sắm vào thứ bảy."
+    "exVi": "Tôi đi mua sắm vào thứ bảy.",
+    "me": "earth, land"
   },
   {
     "w": "空",
@@ -9165,7 +9202,8 @@
     "m": "chó",
     "grade": 1,
     "ex": "子犬が公園で遊んでいます。",
-    "exVi": "Chó con đang chơi trong công viên."
+    "exVi": "Chó con đang chơi trong công viên.",
+    "me": "dog"
   },
   {
     "w": "人",
@@ -9173,7 +9211,8 @@
     "m": "người",
     "grade": 1,
     "ex": "彼女は日本人です。",
-    "exVi": "Cô ấy là người Nhật."
+    "exVi": "Cô ấy là người Nhật.",
+    "me": "person"
   },
   {
     "w": "名",
@@ -9197,7 +9236,8 @@
     "m": "nam",
     "grade": 1,
     "ex": "その男性は親切です。",
-    "exVi": "Người đàn ông đó tốt bụng."
+    "exVi": "Người đàn ông đó tốt bụng.",
+    "me": "male"
   },
   {
     "w": "子",
@@ -9237,7 +9277,8 @@
     "m": "tay",
     "grade": 1,
     "ex": "友達に手紙を書きました。",
-    "exVi": "Tôi đã viết thư cho bạn."
+    "exVi": "Tôi đã viết thư cho bạn.",
+    "me": "hand"
   },
   {
     "w": "足",
@@ -9261,7 +9302,8 @@
     "m": "âm thanh",
     "grade": 1,
     "ex": "先生の発音はとても綺麗です。",
-    "exVi": "Cách phát âm của thầy giáo rất chuẩn."
+    "exVi": "Cách phát âm của thầy giáo rất chuẩn.",
+    "me": "sound"
   },
   {
     "w": "力",
@@ -9293,7 +9335,8 @@
     "m": "vào",
     "grade": 1,
     "ex": "来月、大学に入学します。",
-    "exVi": "Tháng sau tôi sẽ nhập học đại học."
+    "exVi": "Tháng sau tôi sẽ nhập học đại học.",
+    "me": "enter, into"
   },
   {
     "w": "出",
@@ -9421,7 +9464,8 @@
     "m": "lửa",
     "grade": 1,
     "ex": "火曜日に会議があります。",
-    "exVi": "Có cuộc họp vào thứ ba."
+    "exVi": "Có cuộc họp vào thứ ba.",
+    "me": "fire"
   },
   {
     "w": "玉",
@@ -9461,7 +9505,8 @@
     "m": "sợi chỉ",
     "grade": 1,
     "ex": "毛糸でセーターを編みました。",
-    "exVi": "Tôi đã đan áo len bằng sợi len."
+    "exVi": "Tôi đã đan áo len bằng sợi len.",
+    "me": "thread"
   },
   {
     "w": "貝",
@@ -9541,7 +9586,8 @@
     "m": "ít",
     "grade": 2,
     "ex": "あの少年はサッカーが上手です。",
-    "exVi": "Cậu thiếu niên đó chơi bóng đá giỏi."
+    "exVi": "Cậu thiếu niên đó chơi bóng đá giỏi.",
+    "me": "few, little"
   },
   {
     "w": "万",
@@ -9677,7 +9723,8 @@
     "m": "yếu",
     "grade": 2,
     "ex": "誰にでも弱点があります。",
-    "exVi": "Ai cũng có điểm yếu."
+    "exVi": "Ai cũng có điểm yếu.",
+    "me": "weak"
   },
   {
     "w": "強",
@@ -9733,7 +9780,8 @@
     "m": "chị gái",
     "grade": 2,
     "ex": "私たちは仲のいい姉妹です。",
-    "exVi": "Chúng tôi là chị em gái thân thiết."
+    "exVi": "Chúng tôi là chị em gái thân thiết.",
+    "me": "older sister"
   },
   {
     "w": "兄",
@@ -9741,7 +9789,8 @@
     "m": "anh trai",
     "grade": 2,
     "ex": "兄弟は何人いますか。",
-    "exVi": "Bạn có mấy anh chị em?"
+    "exVi": "Bạn có mấy anh chị em?",
+    "me": "older brother"
   },
   {
     "w": "弟",
@@ -9749,7 +9798,8 @@
     "m": "em trai",
     "grade": 2,
     "ex": "彼はその先生の弟子です。",
-    "exVi": "Anh ấy là học trò của thầy đó."
+    "exVi": "Anh ấy là học trò của thầy đó.",
+    "me": "younger brother"
   },
   {
     "w": "妹",
@@ -9757,7 +9807,8 @@
     "m": "em gái",
     "grade": 2,
     "ex": "彼と彼女は仲のいい兄妹です。",
-    "exVi": "Anh ấy và cô ấy là anh em thân thiết."
+    "exVi": "Anh ấy và cô ấy là anh em thân thiết.",
+    "me": "younger sister"
   },
   {
     "w": "自",
@@ -9805,7 +9856,8 @@
     "m": "mặt",
     "grade": 2,
     "ex": "朝、洗顔してから朝食を食べます。",
-    "exVi": "Buổi sáng tôi rửa mặt rồi mới ăn sáng."
+    "exVi": "Buổi sáng tôi rửa mặt rồi mới ăn sáng.",
+    "me": "face"
   },
   {
     "w": "首",
@@ -9813,7 +9865,8 @@
     "m": "cổ",
     "grade": 2,
     "ex": "新しい首相が決まりました。",
-    "exVi": "Thủ tướng mới đã được quyết định."
+    "exVi": "Thủ tướng mới đã được quyết định.",
+    "me": "neck; ancient"
   },
   {
     "w": "心",
@@ -9829,7 +9882,8 @@
     "m": "giờ, thời gian",
     "grade": 2,
     "ex": "時間がないので急ぎましょう。",
-    "exVi": "Vì không có thời gian nên hãy nhanh lên."
+    "exVi": "Vì không có thời gian nên hãy nhanh lên.",
+    "me": "hour, time"
   },
   {
     "w": "曜",
@@ -9933,7 +9987,8 @@
     "m": "cũ",
     "grade": 2,
     "ex": "中古の車を買いました。",
-    "exVi": "Tôi đã mua một chiếc xe cũ."
+    "exVi": "Tôi đã mua một chiếc xe cũ.",
+    "me": "old"
   },
   {
     "w": "間",
@@ -9957,7 +10012,8 @@
     "m": "bắc",
     "grade": 2,
     "ex": "北極はとても寒いです。",
-    "exVi": "Bắc Cực rất lạnh."
+    "exVi": "Bắc Cực rất lạnh.",
+    "me": "north"
   },
   {
     "w": "南",
@@ -9965,7 +10021,8 @@
     "m": "nam",
     "grade": 2,
     "ex": "南極にはペンギンがいます。",
-    "exVi": "Ở Nam Cực có chim cánh cụt."
+    "exVi": "Ở Nam Cực có chim cánh cụt.",
+    "me": "male"
   },
   {
     "w": "東",
@@ -9973,7 +10030,8 @@
     "m": "đông",
     "grade": 2,
     "ex": "東京は日本の首都です。",
-    "exVi": "Tokyo là thủ đô của Nhật Bản."
+    "exVi": "Tokyo là thủ đô của Nhật Bản.",
+    "me": "winter"
   },
   {
     "w": "西",
@@ -9981,7 +10039,8 @@
     "m": "tây",
     "grade": 2,
     "ex": "西洋の文化に興味があります。",
-    "exVi": "Tôi quan tâm đến văn hóa phương Tây."
+    "exVi": "Tôi quan tâm đến văn hóa phương Tây.",
+    "me": "west"
   },
   {
     "w": "遠",
@@ -10029,7 +10088,8 @@
     "m": "ngoài",
     "grade": 2,
     "ex": "外国で働きたいです。",
-    "exVi": "Tôi muốn làm việc ở nước ngoài."
+    "exVi": "Tôi muốn làm việc ở nước ngoài.",
+    "me": "outside"
   },
   {
     "w": "場",
@@ -10061,7 +10121,8 @@
     "m": "vườn",
     "grade": 2,
     "ex": "子供と公園で遊びました。",
-    "exVi": "Tôi đã chơi cùng con ở công viên."
+    "exVi": "Tôi đã chơi cùng con ở công viên.",
+    "me": "garden"
   },
   {
     "w": "谷",
@@ -10133,7 +10194,8 @@
     "m": "mây",
     "grade": 2,
     "ex": "山の上から雲海が見えました。",
-    "exVi": "Từ trên núi có thể nhìn thấy biển mây."
+    "exVi": "Từ trên núi có thể nhìn thấy biển mây.",
+    "me": "cloud"
   },
   {
     "w": "池",
@@ -10165,7 +10227,8 @@
     "m": "ngôi sao",
     "grade": 2,
     "ex": "あなたの星座は何ですか。",
-    "exVi": "Cung hoàng đạo của bạn là gì?"
+    "exVi": "Cung hoàng đạo của bạn là gì?",
+    "me": "star"
   },
   {
     "w": "室",
@@ -10181,7 +10244,8 @@
     "m": "cửa",
     "grade": 2,
     "ex": "台風が来るので雨戸を閉めました。",
-    "exVi": "Vì bão sắp đến nên tôi đã đóng cửa chớp."
+    "exVi": "Vì bão sắp đến nên tôi đã đóng cửa chớp.",
+    "me": "door"
   },
   {
     "w": "家",
@@ -10253,7 +10317,8 @@
     "m": "giọng nói",
     "grade": 2,
     "ex": "この音声はクリアに聞こえます。",
-    "exVi": "Âm thanh này nghe rất rõ."
+    "exVi": "Âm thanh này nghe rất rõ.",
+    "me": "voice"
   },
   {
     "w": "聞",
@@ -10301,7 +10366,8 @@
     "m": "giấy",
     "grade": 2,
     "ex": "財布に紙幣が入っています。",
-    "exVi": "Trong ví có tiền giấy."
+    "exVi": "Trong ví có tiền giấy.",
+    "me": "paper"
   },
   {
     "w": "画",
@@ -10405,7 +10471,8 @@
     "m": "làm, chế tạo",
     "grade": 2,
     "ex": "夏休みの作文を書きました。",
-    "exVi": "Tôi đã viết bài văn cho kỳ nghỉ hè."
+    "exVi": "Tôi đã viết bài văn cho kỳ nghỉ hè.",
+    "me": "make, manufacture"
   },
   {
     "w": "元",
@@ -10437,7 +10504,8 @@
     "m": "ngựa",
     "grade": 2,
     "ex": "父は競馬が好きです。",
-    "exVi": "Bố tôi thích đua ngựa."
+    "exVi": "Bố tôi thích đua ngựa.",
+    "me": "horse"
   },
   {
     "w": "牛",
@@ -10461,7 +10529,8 @@
     "m": "chim",
     "grade": 2,
     "ex": "この本には鳥類の写真が多いです。",
-    "exVi": "Cuốn sách này có nhiều ảnh về các loài chim."
+    "exVi": "Cuốn sách này có nhiều ảnh về các loài chim.",
+    "me": "bird"
   },
   {
     "w": "羽",
@@ -10493,7 +10562,8 @@
     "m": "gạo",
     "grade": 2,
     "ex": "米国へ出張に行きます。",
-    "exVi": "Tôi đi công tác đến Mỹ."
+    "exVi": "Tôi đi công tác đến Mỹ.",
+    "me": "rice"
   },
   {
     "w": "茶",
@@ -10549,7 +10619,8 @@
     "m": "trở về",
     "grade": 2,
     "ex": "来月、帰国する予定です。",
-    "exVi": "Tháng sau tôi dự định về nước."
+    "exVi": "Tháng sau tôi dự định về nước.",
+    "me": "return"
   },
   {
     "w": "歩",
@@ -10573,7 +10644,8 @@
     "m": "dừng lại",
     "grade": 2,
     "ex": "雨のため試合は中止になりました。",
-    "exVi": "Vì mưa nên trận đấu đã bị hủy."
+    "exVi": "Vì mưa nên trận đấu đã bị hủy.",
+    "me": "stop"
   },
   {
     "w": "活",
@@ -11181,7 +11253,8 @@
     "m": "khách",
     "grade": 3,
     "ex": "この町には観光客が多いです。",
-    "exVi": "Thị trấn này có nhiều khách du lịch."
+    "exVi": "Thị trấn này có nhiều khách du lịch.",
+    "me": "guest"
   },
   {
     "w": "宮",
@@ -11205,7 +11278,8 @@
     "m": "lạnh",
     "grade": 3,
     "ex": "熱があって寒気がします。",
-    "exVi": "Tôi bị sốt và cảm thấy ớn lạnh."
+    "exVi": "Tôi bị sốt và cảm thấy ớn lạnh.",
+    "me": "cold"
   },
   {
     "w": "対",
@@ -11245,7 +11319,8 @@
     "m": "đảo",
     "grade": 3,
     "ex": "伊豆半島へ旅行しました。",
-    "exVi": "Tôi đã đi du lịch bán đảo Izu."
+    "exVi": "Tôi đã đi du lịch bán đảo Izu.",
+    "me": "island"
   },
   {
     "w": "州",
@@ -11285,7 +11360,8 @@
     "m": "độ, lần",
     "grade": 3,
     "ex": "彼の態度はいつも親切です。",
-    "exVi": "Thái độ của anh ấy luôn tốt bụng."
+    "exVi": "Thái độ của anh ấy luôn tốt bụng.",
+    "me": "degree; time (occurrence)"
   },
   {
     "w": "庫",
@@ -11381,7 +11457,8 @@
     "m": "cảm nhận",
     "grade": 3,
     "ex": "その映画にとても感動しました。",
-    "exVi": "Tôi đã rất cảm động với bộ phim đó."
+    "exVi": "Tôi đã rất cảm động với bộ phim đó.",
+    "me": "perception, feeling"
   },
   {
     "w": "所",
@@ -11405,7 +11482,8 @@
     "m": "ném",
     "grade": 3,
     "ex": "彼は野球チームの投手です。",
-    "exVi": "Anh ấy là cầu thủ ném bóng của đội bóng chày."
+    "exVi": "Anh ấy là cầu thủ ném bóng của đội bóng chày.",
+    "me": "throw"
   },
   {
     "w": "拾",
@@ -11517,7 +11595,8 @@
     "m": "quần áo",
     "grade": 3,
     "ex": "新しい洋服を買いました。",
-    "exVi": "Tôi đã mua quần áo mới."
+    "exVi": "Tôi đã mua quần áo mới.",
+    "me": "clothes"
   },
   {
     "w": "期",
@@ -11613,7 +11692,8 @@
     "m": "chết",
     "grade": 3,
     "ex": "事故による死亡者はいませんでした。",
-    "exVi": "Không có người tử vong do tai nạn."
+    "exVi": "Không có người tử vong do tai nạn.",
+    "me": "die"
   },
   {
     "w": "氷",
@@ -11621,7 +11701,8 @@
     "m": "băng, đá",
     "grade": 3,
     "ex": "氷山が海に浮かんでいます。",
-    "exVi": "Núi băng đang trôi nổi trên biển."
+    "exVi": "Núi băng đang trôi nổi trên biển.",
+    "me": "ice"
   },
   {
     "w": "決",
@@ -11869,7 +11950,8 @@
     "m": "ngắn",
     "grade": 3,
     "ex": "誰にでも短所があります。",
-    "exVi": "Ai cũng có khuyết điểm."
+    "exVi": "Ai cũng có khuyết điểm.",
+    "me": "short"
   },
   {
     "w": "研",
@@ -11917,7 +11999,8 @@
     "m": "giây",
     "grade": 3,
     "ex": "時計の秒針が動いています。",
-    "exVi": "Kim giây của đồng hồ đang chạy."
+    "exVi": "Kim giây của đồng hồ đang chạy.",
+    "me": "second (time)"
   },
   {
     "w": "究",
@@ -11997,7 +12080,8 @@
     "m": "kết thúc",
     "grade": 3,
     "ex": "終電に間に合いました。",
-    "exVi": "Tôi đã kịp chuyến tàu cuối."
+    "exVi": "Tôi đã kịp chuyến tàu cuối.",
+    "me": "end, conclude"
   },
   {
     "w": "緑",
@@ -12021,7 +12105,8 @@
     "m": "cừu",
     "grade": 3,
     "ex": "羊毛のセーターを着ています。",
-    "exVi": "Tôi đang mặc áo len lông cừu."
+    "exVi": "Tôi đang mặc áo len lông cừu.",
+    "me": "sheep"
   },
   {
     "w": "美",
@@ -12101,7 +12186,8 @@
     "m": "máu",
     "grade": 3,
     "ex": "血液検査を受けました。",
-    "exVi": "Tôi đã xét nghiệm máu."
+    "exVi": "Tôi đã xét nghiệm máu.",
+    "me": "blood"
   },
   {
     "w": "表",
@@ -12117,7 +12203,8 @@
     "m": "thơ",
     "grade": 3,
     "ex": "彼女は有名な詩人です。",
-    "exVi": "Cô ấy là một nhà thơ nổi tiếng."
+    "exVi": "Cô ấy là một nhà thơ nổi tiếng.",
+    "me": "poetry"
   },
   {
     "w": "調",
@@ -12189,7 +12276,8 @@
     "m": "nhẹ",
     "grade": 3,
     "ex": "カフェで軽食を取りました。",
-    "exVi": "Tôi đã dùng bữa nhẹ ở quán cà phê."
+    "exVi": "Tôi đã dùng bữa nhẹ ở quán cà phê.",
+    "me": "light (weight)"
   },
   {
     "w": "農",
@@ -12277,7 +12365,8 @@
     "m": "phân phát",
     "grade": 3,
     "ex": "結果がとても心配です。",
-    "exVi": "Tôi rất lo lắng về kết quả."
+    "exVi": "Tôi rất lo lắng về kết quả.",
+    "me": "distribute"
   },
   {
     "w": "酒",
@@ -12285,7 +12374,8 @@
     "m": "rượu",
     "grade": 3,
     "ex": "日本酒を少し飲みました。",
-    "exVi": "Tôi đã uống một chút rượu sake."
+    "exVi": "Tôi đã uống một chút rượu sake.",
+    "me": "alcohol, liquor"
   },
   {
     "w": "重",
@@ -12301,7 +12391,8 @@
     "m": "sắt",
     "grade": 3,
     "ex": "地下鉄で会社に行きます。",
-    "exVi": "Tôi đi làm bằng tàu điện ngầm."
+    "exVi": "Tôi đi làm bằng tàu điện ngầm.",
+    "me": "iron"
   },
   {
     "w": "銀",
@@ -12341,7 +12432,8 @@
     "m": "tầng (nhà)",
     "grade": 3,
     "ex": "階段で二階に上がります。",
-    "exVi": "Tôi lên tầng hai bằng cầu thang."
+    "exVi": "Tôi lên tầng hai bằng cầu thang.",
+    "me": "floor (building)"
   },
   {
     "w": "集",
@@ -12645,7 +12737,8 @@
     "m": "in ấn",
     "grade": 4,
     "ex": "書類を印刷しました。",
-    "exVi": "Tôi đã in tài liệu."
+    "exVi": "Tôi đã in tài liệu.",
+    "me": "printing"
   },
   {
     "w": "副",
@@ -12669,7 +12762,8 @@
     "m": "thêm vào",
     "grade": 4,
     "ex": "イベントに参加しました。",
-    "exVi": "Tôi đã tham gia sự kiện."
+    "exVi": "Tôi đã tham gia sự kiện.",
+    "me": "add to"
   },
   {
     "w": "努",
@@ -12693,7 +12787,8 @@
     "m": "dũng cảm",
     "grade": 4,
     "ex": "勇気を出して話しかけました。",
-    "exVi": "Tôi đã lấy hết can đảm để bắt chuyện."
+    "exVi": "Tôi đã lấy hết can đảm để bắt chuyện.",
+    "me": "brave"
   },
   {
     "w": "包",
@@ -12765,7 +12860,8 @@
     "m": "mỗi, các",
     "grade": 4,
     "ex": "各地から人が集まりました。",
-    "exVi": "Người từ khắp nơi đã tụ tập lại."
+    "exVi": "Người từ khắp nơi đã tụ tập lại.",
+    "me": "each, every"
   },
   {
     "w": "周",
@@ -12805,7 +12901,8 @@
     "m": "thành, lâu đài",
     "grade": 4,
     "ex": "古い城壁が残っています。",
-    "exVi": "Bức tường thành cổ vẫn còn."
+    "exVi": "Bức tường thành cổ vẫn còn.",
+    "me": "castle"
   },
   {
     "w": "埼",
@@ -12981,7 +13078,8 @@
     "m": "chỗ ngồi",
     "grade": 4,
     "ex": "映画館は満席でした。",
-    "exVi": "Rạp chiếu phim đã hết chỗ ngồi."
+    "exVi": "Rạp chiếu phim đã hết chỗ ngồi.",
+    "me": "seat"
   },
   {
     "w": "帯",
@@ -13069,7 +13167,8 @@
     "m": "tình yêu",
     "grade": 4,
     "ex": "親の愛情を感じます。",
-    "exVi": "Tôi cảm nhận được tình yêu thương của cha mẹ."
+    "exVi": "Tôi cảm nhận được tình yêu thương của cha mẹ.",
+    "me": "love"
   },
   {
     "w": "成",
@@ -13117,7 +13216,8 @@
     "m": "thất bại",
     "grade": 4,
     "ex": "チームは敗北を認めました。",
-    "exVi": "Đội đã thừa nhận thất bại."
+    "exVi": "Đội đã thừa nhận thất bại.",
+    "me": "failure"
   },
   {
     "w": "散",
@@ -13269,7 +13369,8 @@
     "m": "quả lê",
     "grade": 4,
     "ex": "山梨県はぶどうが有名です。",
-    "exVi": "Tỉnh Yamanashi nổi tiếng với nho."
+    "exVi": "Tỉnh Yamanashi nổi tiếng với nho.",
+    "me": "pear"
   },
   {
     "w": "械",
@@ -13381,7 +13482,8 @@
     "m": "nông, cạn",
     "grade": 4,
     "ex": "浅瀬で子供が遊んでいます。",
-    "exVi": "Trẻ con đang chơi ở chỗ nước cạn."
+    "exVi": "Trẻ con đang chơi ở chỗ nước cạn.",
+    "me": "shallow"
   },
   {
     "w": "浴",
@@ -13445,7 +13547,8 @@
     "m": "không có",
     "grade": 4,
     "ex": "皆さんが無事に到着してよかったです。",
-    "exVi": "Thật tốt vì mọi người đã đến nơi an toàn."
+    "exVi": "Thật tốt vì mọi người đã đến nơi an toàn.",
+    "me": "not have, none"
   },
   {
     "w": "然",
@@ -13477,7 +13580,8 @@
     "m": "gấu",
     "grade": 4,
     "ex": "熊本県で地震がありました。",
-    "exVi": "Đã có động đất ở tỉnh Kumamoto."
+    "exVi": "Đã có động đất ở tỉnh Kumamoto.",
+    "me": "bear"
   },
   {
     "w": "熱",
@@ -13541,7 +13645,8 @@
     "m": "phiếu bầu",
     "grade": 4,
     "ex": "選挙で投票しました。",
-    "exVi": "Tôi đã bỏ phiếu trong cuộc bầu cử."
+    "exVi": "Tôi đã bỏ phiếu trong cuộc bầu cử.",
+    "me": "ballot, vote"
   },
   {
     "w": "種",
@@ -13645,7 +13750,8 @@
     "m": "già",
     "grade": 4,
     "ex": "老人に席を譲りました。",
-    "exVi": "Tôi đã nhường chỗ cho người già."
+    "exVi": "Tôi đã nhường chỗ cho người già.",
+    "me": "old"
   },
   {
     "w": "臣",
@@ -13981,7 +14087,8 @@
     "m": "cơm",
     "grade": 4,
     "ex": "夕飯は何を食べますか。",
-    "exVi": "Bữa tối bạn ăn gì?"
+    "exVi": "Bữa tối bạn ăn gì?",
+    "me": "rice, a meal"
   },
   {
     "w": "養",
@@ -13997,7 +14104,8 @@
     "m": "hương thơm",
     "grade": 4,
     "ex": "香川県はうどんが有名です。",
-    "exVi": "Tỉnh Kagawa nổi tiếng với mì udon."
+    "exVi": "Tỉnh Kagawa nổi tiếng với mì udon.",
+    "me": "fragrance"
   },
   {
     "w": "験",
@@ -14109,7 +14217,8 @@
     "m": "dừng lại",
     "grade": 5,
     "ex": "エレベーターが停止しました。",
-    "exVi": "Thang máy đã dừng lại."
+    "exVi": "Thang máy đã dừng lại.",
+    "me": "stop"
   },
   {
     "w": "備",
@@ -14181,7 +14290,8 @@
     "m": "nhiệm vụ",
     "grade": 5,
     "ex": "税金を払うのは国民の義務です。",
-    "exVi": "Đóng thuế là nghĩa vụ của công dân."
+    "exVi": "Đóng thuế là nghĩa vụ của công dân.",
+    "me": "mission, task"
   },
   {
     "w": "勢",
@@ -14237,7 +14347,8 @@
     "m": "vui mừng",
     "grade": 5,
     "ex": "喜劇映画を見て笑いました。",
-    "exVi": "Tôi đã cười khi xem phim hài."
+    "exVi": "Tôi đã cười khi xem phim hài.",
+    "me": "delighted"
   },
   {
     "w": "営",
@@ -14245,7 +14356,8 @@
     "m": "kinh doanh, quản lý",
     "grade": 5,
     "ex": "父はレストランを経営しています。",
-    "exVi": "Bố tôi đang kinh doanh nhà hàng."
+    "exVi": "Bố tôi đang kinh doanh nhà hàng.",
+    "me": "business, management"
   },
   {
     "w": "因",
@@ -14365,7 +14477,8 @@
     "m": "giấc mơ",
     "grade": 5,
     "ex": "息子はゲームに夢中です。",
-    "exVi": "Con trai tôi say mê trò chơi điện tử."
+    "exVi": "Con trai tôi say mê trò chơi điện tử.",
+    "me": "dream"
   },
   {
     "w": "妻",
@@ -14541,7 +14654,8 @@
     "m": "tình cảm",
     "grade": 5,
     "ex": "感情をうまく表現できません。",
-    "exVi": "Tôi không thể diễn đạt cảm xúc tốt."
+    "exVi": "Tôi không thể diễn đạt cảm xúc tốt.",
+    "me": "affection, feelings"
   },
   {
     "w": "態",
@@ -15309,7 +15423,8 @@
     "m": "phong phú, giàu có",
     "grade": 5,
     "ex": "この国は資源が豊富です。",
-    "exVi": "Đất nước này tài nguyên phong phú."
+    "exVi": "Đất nước này tài nguyên phong phú.",
+    "me": "abundant, rich"
   },
   {
     "w": "象",
@@ -15325,7 +15440,8 @@
     "m": "của cải, tài sản",
     "grade": 5,
     "ex": "財布を忘れてしまいました。",
-    "exVi": "Tôi đã quên mất ví tiền."
+    "exVi": "Tôi đã quên mất ví tiền.",
+    "me": "wealth, property"
   },
   {
     "w": "貧",
@@ -15333,7 +15449,8 @@
     "m": "nghèo",
     "grade": 5,
     "ex": "貧困問題を解決したいです。",
-    "exVi": "Tôi muốn giải quyết vấn đề nghèo đói."
+    "exVi": "Tôi muốn giải quyết vấn đề nghèo đói.",
+    "me": "poor"
   },
   {
     "w": "責",
@@ -15373,7 +15490,8 @@
     "m": "mậu dịch",
     "grade": 5,
     "ex": "貿易会社で働いています。",
-    "exVi": "Tôi làm việc ở công ty thương mại."
+    "exVi": "Tôi làm việc ở công ty thương mại.",
+    "me": "trade"
   },
   {
     "w": "資",
@@ -15477,7 +15595,8 @@
     "m": "khoáng sản",
     "grade": 5,
     "ex": "この地域には鉱山があります。",
-    "exVi": "Vùng này có mỏ khoáng sản."
+    "exVi": "Vùng này có mỏ khoáng sản.",
+    "me": "mineral resource"
   },
   {
     "w": "銅",
@@ -15501,7 +15620,8 @@
     "m": "giới hạn",
     "grade": 5,
     "ex": "時間制限があります。",
-    "exVi": "Có giới hạn thời gian."
+    "exVi": "Có giới hạn thời gian.",
+    "me": "limit"
   },
   {
     "w": "険",
@@ -15637,7 +15757,8 @@
     "m": "vết thương",
     "grade": 6,
     "ex": "事故で負傷しました。",
-    "exVi": "Tôi đã bị thương trong vụ tai nạn."
+    "exVi": "Tôi đã bị thương trong vụ tai nạn.",
+    "me": "wound"
   },
   {
     "w": "優",
@@ -15709,7 +15830,8 @@
     "m": "kịch",
     "grade": 6,
     "ex": "劇場で芝居を見ました。",
-    "exVi": "Tôi đã xem kịch ở nhà hát."
+    "exVi": "Tôi đã xem kịch ở nhà hát.",
+    "me": "drama, play"
   },
   {
     "w": "勤",
@@ -15781,7 +15903,8 @@
     "m": "gọi",
     "grade": 6,
     "ex": "クラスで点呼をとりました。",
-    "exVi": "Chúng tôi đã điểm danh trong lớp."
+    "exVi": "Chúng tôi đã điểm danh trong lớp.",
+    "me": "call"
   },
   {
     "w": "善",
@@ -15813,7 +15936,8 @@
     "m": "vùng, khu vực",
     "grade": 6,
     "ex": "専門の領域を広げたいです。",
-    "exVi": "Tôi muốn mở rộng lĩnh vực chuyên môn."
+    "exVi": "Tôi muốn mở rộng lĩnh vực chuyên môn.",
+    "me": "region, area"
   },
   {
     "w": "奏",
@@ -15837,7 +15961,8 @@
     "m": "dáng vẻ",
     "grade": 6,
     "ex": "彼女は容姿が美しいです。",
-    "exVi": "Cô ấy có vẻ ngoài xinh đẹp."
+    "exVi": "Cô ấy có vẻ ngoài xinh đẹp.",
+    "me": "appearance, demeanor"
   },
   {
     "w": "存",
@@ -15853,7 +15978,8 @@
     "m": "hiếu thảo",
     "grade": 6,
     "ex": "親孝行をしたいです。",
-    "exVi": "Tôi muốn hiếu thảo với cha mẹ."
+    "exVi": "Tôi muốn hiếu thảo với cha mẹ.",
+    "me": "filial piety"
   },
   {
     "w": "宅",
@@ -15893,7 +16019,8 @@
     "m": "báu vật",
     "grade": 6,
     "ex": "宝石のネックレスをもらいました。",
-    "exVi": "Tôi đã được tặng vòng cổ đá quý."
+    "exVi": "Tôi đã được tặng vòng cổ đá quý.",
+    "me": "treasure"
   },
   {
     "w": "宣",
@@ -15997,7 +16124,8 @@
     "m": "bản thân",
     "grade": 6,
     "ex": "自己紹介をしましょう。",
-    "exVi": "Hãy tự giới thiệu bản thân."
+    "exVi": "Hãy tự giới thiệu bản thân.",
+    "me": "oneself"
   },
   {
     "w": "巻",
@@ -16117,7 +16245,8 @@
     "m": "phê bình",
     "grade": 6,
     "ex": "政府の政策が批判されています。",
-    "exVi": "Chính sách của chính phủ đang bị phê phán."
+    "exVi": "Chính sách của chính phủ đang bị phê phán.",
+    "me": "criticize; criticism"
   },
   {
     "w": "承",
@@ -16301,7 +16430,8 @@
     "m": "quyền lực",
     "grade": 6,
     "ex": "人権を守ることが大切です。",
-    "exVi": "Bảo vệ nhân quyền là điều quan trọng."
+    "exVi": "Bảo vệ nhân quyền là điều quan trọng.",
+    "me": "power"
   },
   {
     "w": "樹",
@@ -16349,7 +16479,8 @@
     "m": "rửa, giặt",
     "grade": 6,
     "ex": "毎日洗濯をします。",
-    "exVi": "Tôi giặt đồ mỗi ngày."
+    "exVi": "Tôi giặt đồ mỗi ngày.",
+    "me": "wash, launder"
   },
   {
     "w": "派",
@@ -16453,7 +16584,8 @@
     "m": "hoàng đế",
     "grade": 6,
     "ex": "天皇陛下が式典に出席されました。",
-    "exVi": "Nhật hoàng đã tham dự buổi lễ."
+    "exVi": "Nhật hoàng đã tham dự buổi lễ.",
+    "me": "emperor"
   },
   {
     "w": "盛",
@@ -16509,7 +16641,8 @@
     "m": "bí mật",
     "grade": 6,
     "ex": "社長には秘書がいます。",
-    "exVi": "Giám đốc có thư ký riêng."
+    "exVi": "Giám đốc có thư ký riêng.",
+    "me": "secret"
   },
   {
     "w": "穀",
@@ -16813,7 +16946,8 @@
     "m": "bổ sung",
     "grade": 6,
     "ex": "放課後、補習を受けます。",
-    "exVi": "Sau giờ học tôi học phụ đạo."
+    "exVi": "Sau giờ học tôi học phụ đạo.",
+    "me": "supplement, add"
   },
   {
     "w": "視",
@@ -16821,7 +16955,8 @@
     "m": "nhìn, xem",
     "grade": 6,
     "ex": "視力が少し落ちました。",
-    "exVi": "Thị lực của tôi đã giảm sút một chút."
+    "exVi": "Thị lực của tôi đã giảm sút một chút.",
+    "me": "look, view"
   },
   {
     "w": "覧",
@@ -16845,7 +16980,8 @@
     "m": "thăm viếng",
     "grade": 6,
     "ex": "来週、取引先を訪問します。",
-    "exVi": "Tuần sau tôi sẽ đến thăm đối tác."
+    "exVi": "Tuần sau tôi sẽ đến thăm đối tác.",
+    "me": "visit"
   },
   {
     "w": "訳",
@@ -16885,7 +17021,8 @@
     "m": "sinh ra",
     "grade": 6,
     "ex": "明日は妹の誕生日です。",
-    "exVi": "Ngày mai là sinh nhật em gái tôi."
+    "exVi": "Ngày mai là sinh nhật em gái tôi.",
+    "me": "be born"
   },
   {
     "w": "誠",
@@ -16933,7 +17070,8 @@
     "m": "quý báu",
     "grade": 6,
     "ex": "貴重な経験ができました。",
-    "exVi": "Tôi đã có được một trải nghiệm quý giá."
+    "exVi": "Tôi đã có được một trải nghiệm quý giá.",
+    "me": "precious"
   },
   {
     "w": "賃",
@@ -16973,7 +17111,8 @@
     "m": "quê hương",
     "grade": 6,
     "ex": "故郷が恋しいです。",
-    "exVi": "Tôi nhớ quê hương."
+    "exVi": "Tôi nhớ quê hương.",
+    "me": "hometown"
   },
   {
     "w": "針",
@@ -16981,7 +17120,8 @@
     "m": "cây kim",
     "grade": 6,
     "ex": "会社の方針が変わりました。",
-    "exVi": "Phương châm của công ty đã thay đổi."
+    "exVi": "Phương châm của công ty đã thay đổi.",
+    "me": "needle"
   },
   {
     "w": "銭",
@@ -17085,6 +17225,7 @@
     "m": "xương",
     "grade": 6,
     "ex": "この動物は骨格が大きいです。",
-    "exVi": "Con vật này có khung xương lớn."
+    "exVi": "Con vật này có khung xương lớn.",
+    "me": "bone"
   }
 ]

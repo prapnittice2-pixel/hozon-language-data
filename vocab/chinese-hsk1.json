@@ -3,37 +3,43 @@
     "w": "你好",
     "p": "nǐ hǎo",
     "m": "xin chào",
-    "cat": "greeting"
+    "cat": "greeting",
+    "me": "hello"
   },
   {
     "w": "再见",
     "p": "zài jiàn",
     "m": "tạm biệt",
-    "cat": "greeting"
+    "cat": "greeting",
+    "me": "goodbye"
   },
   {
     "w": "谢谢",
     "p": "xiè xie",
     "m": "cảm ơn",
-    "cat": "greeting"
+    "cat": "greeting",
+    "me": "thank you"
   },
   {
     "w": "对不起",
     "p": "duì bu qǐ",
     "m": "xin lỗi",
-    "cat": "greeting"
+    "cat": "greeting",
+    "me": "sorry"
   },
   {
     "w": "不客气",
     "p": "bù kè qi",
     "m": "không có gì",
-    "cat": "greeting"
+    "cat": "greeting",
+    "me": "nothing, it's nothing"
   },
   {
     "w": "请",
     "p": "qǐng",
     "m": "xin mời",
-    "cat": "greeting"
+    "cat": "greeting",
+    "me": "please, welcome"
   },
   {
     "w": "喂",
@@ -41,7 +47,8 @@
     "m": "a-lô",
     "cat": "greeting",
     "example": "喂，你好，请问是王先生吗？",
-    "example_vi": "A-lô, xin chào, xin hỏi có phải là ông Vương không?"
+    "example_vi": "A-lô, xin chào, xin hỏi có phải là ông Vương không?",
+    "me": "hello (phone)"
   },
   {
     "w": "我",
@@ -49,7 +56,8 @@
     "m": "tôi, tao",
     "cat": "pronoun",
     "example": "我是学生。",
-    "example_vi": "Tôi là học sinh."
+    "example_vi": "Tôi là học sinh.",
+    "me": "I, me (informal)"
   },
   {
     "w": "你",
@@ -57,7 +65,8 @@
     "m": "bạn, mày",
     "cat": "pronoun",
     "example": "你叫什么名字？",
-    "example_vi": "Bạn tên là gì?"
+    "example_vi": "Bạn tên là gì?",
+    "me": "you (informal/casual)"
   },
   {
     "w": "他",
@@ -65,7 +74,8 @@
     "m": "anh ấy",
     "cat": "pronoun",
     "example": "他是我的朋友。",
-    "example_vi": "Anh ấy là bạn của tôi."
+    "example_vi": "Anh ấy là bạn của tôi.",
+    "me": "he"
   },
   {
     "w": "她",
@@ -73,7 +83,8 @@
     "m": "cô ấy",
     "cat": "pronoun",
     "example": "她是我的老师。",
-    "example_vi": "Cô ấy là giáo viên của tôi."
+    "example_vi": "Cô ấy là giáo viên của tôi.",
+    "me": "she, her"
   },
   {
     "w": "它",
@@ -81,7 +92,8 @@
     "m": "nó (vật)",
     "cat": "pronoun",
     "example": "这是一只猫，它很可爱。",
-    "example_vi": "Đây là một con mèo, nó rất dễ thương."
+    "example_vi": "Đây là một con mèo, nó rất dễ thương.",
+    "me": "it (object)"
   },
   {
     "w": "我们",
@@ -89,7 +101,8 @@
     "m": "chúng tôi",
     "cat": "pronoun",
     "example": "我们是同学。",
-    "example_vi": "Chúng tôi là bạn học."
+    "example_vi": "Chúng tôi là bạn học.",
+    "me": "we (excluding listener)"
   },
   {
     "w": "你们",
@@ -97,7 +110,8 @@
     "m": "các bạn",
     "cat": "pronoun",
     "example": "你们好吗？",
-    "example_vi": "Các bạn khỏe không?"
+    "example_vi": "Các bạn khỏe không?",
+    "me": "everyone, you all"
   },
   {
     "w": "他们",
@@ -105,7 +119,8 @@
     "m": "họ",
     "cat": "pronoun",
     "example": "他们在图书馆看书。",
-    "example_vi": "Họ đang đọc sách trong thư viện."
+    "example_vi": "Họ đang đọc sách trong thư viện.",
+    "me": "surname; they"
   },
   {
     "w": "这",
@@ -113,7 +128,8 @@
     "m": "cái này",
     "cat": "pronoun",
     "example": "这是我的书。",
-    "example_vi": "Đây là sách của tôi."
+    "example_vi": "Đây là sách của tôi.",
+    "me": "this"
   },
   {
     "w": "那",
@@ -121,7 +137,8 @@
     "m": "cái đó",
     "cat": "pronoun",
     "example": "那是你的手机吗？",
-    "example_vi": "Đó có phải điện thoại của bạn không?"
+    "example_vi": "Đó có phải điện thoại của bạn không?",
+    "me": "that"
   },
   {
     "w": "哪",
@@ -129,67 +146,78 @@
     "m": "cái nào",
     "cat": "pronoun",
     "example": "你喜欢哪个颜色？",
-    "example_vi": "Bạn thích màu nào?"
+    "example_vi": "Bạn thích màu nào?",
+    "me": "which"
   },
   {
     "w": "一",
     "p": "yī",
     "m": "một",
-    "cat": "number"
+    "cat": "number",
+    "me": "one"
   },
   {
     "w": "二",
     "p": "èr",
     "m": "hai",
-    "cat": "number"
+    "cat": "number",
+    "me": "two"
   },
   {
     "w": "三",
     "p": "sān",
     "m": "ba",
-    "cat": "number"
+    "cat": "number",
+    "me": "three"
   },
   {
     "w": "四",
     "p": "sì",
     "m": "bốn",
-    "cat": "number"
+    "cat": "number",
+    "me": "four"
   },
   {
     "w": "五",
     "p": "wǔ",
     "m": "năm",
-    "cat": "number"
+    "cat": "number",
+    "me": "year"
   },
   {
     "w": "六",
     "p": "liù",
     "m": "sáu",
-    "cat": "number"
+    "cat": "number",
+    "me": "six"
   },
   {
     "w": "七",
     "p": "qī",
     "m": "bảy",
-    "cat": "number"
+    "cat": "number",
+    "me": "seven"
   },
   {
     "w": "八",
     "p": "bā",
     "m": "tám",
-    "cat": "number"
+    "cat": "number",
+    "me": "eight"
   },
   {
     "w": "九",
     "p": "jiǔ",
     "m": "chín",
-    "cat": "number"
+    "cat": "number",
+    "me": "nine"
   },
   {
     "w": "十",
     "p": "shí",
     "m": "mười",
-    "cat": "number"
+    "cat": "number",
+    "me": "ten"
   },
   {
     "w": "百",
@@ -197,7 +225,8 @@
     "m": "trăm",
     "cat": "number",
     "example": "这本书一百页。",
-    "example_vi": "Cuốn sách này có một trăm trang."
+    "example_vi": "Cuốn sách này có một trăm trang.",
+    "me": "hundred"
   },
   {
     "w": "千",
@@ -205,25 +234,29 @@
     "m": "nghìn",
     "cat": "number",
     "example": "这个城市有一千所学校。",
-    "example_vi": "Thành phố này có một nghìn trường học."
+    "example_vi": "Thành phố này có một nghìn trường học.",
+    "me": "thousand"
   },
   {
     "w": "万",
     "p": "wàn",
     "m": "mười nghìn",
-    "cat": "number"
+    "cat": "number",
+    "me": "ten thousand"
   },
   {
     "w": "零",
     "p": "líng",
     "m": "số không",
-    "cat": "number"
+    "cat": "number",
+    "me": "zero"
   },
   {
     "w": "两",
     "p": "liǎng",
     "m": "hai (lượng)",
-    "cat": "number"
+    "cat": "number",
+    "me": "two (liang — a traditional unit of weight)"
   },
   {
     "w": "几",
@@ -231,85 +264,99 @@
     "m": "mấy",
     "cat": "number",
     "example": "你家有几个人？",
-    "example_vi": "Nhà bạn có mấy người?"
+    "example_vi": "Nhà bạn có mấy người?",
+    "me": "how many"
   },
   {
     "w": "多少",
     "p": "duō shao",
     "m": "bao nhiêu",
-    "cat": "number"
+    "cat": "number",
+    "me": "how much"
   },
   {
     "w": "爸爸",
     "p": "bà ba",
     "m": "bố",
-    "cat": "family"
+    "cat": "family",
+    "me": "father"
   },
   {
     "w": "妈妈",
     "p": "mā ma",
     "m": "mẹ",
-    "cat": "family"
+    "cat": "family",
+    "me": "mother"
   },
   {
     "w": "哥哥",
     "p": "gē ge",
     "m": "anh trai",
-    "cat": "family"
+    "cat": "family",
+    "me": "older brother"
   },
   {
     "w": "姐姐",
     "p": "jiě jie",
     "m": "chị gái",
-    "cat": "family"
+    "cat": "family",
+    "me": "older sister"
   },
   {
     "w": "弟弟",
     "p": "dì di",
     "m": "em trai",
-    "cat": "family"
+    "cat": "family",
+    "me": "younger brother"
   },
   {
     "w": "妹妹",
     "p": "mèi mei",
     "m": "em gái",
-    "cat": "family"
+    "cat": "family",
+    "me": "younger sister"
   },
   {
     "w": "儿子",
     "p": "ér zi",
     "m": "con trai",
-    "cat": "family"
+    "cat": "family",
+    "me": "son"
   },
   {
     "w": "女儿",
     "p": "nǚ ér",
     "m": "con gái",
-    "cat": "family"
+    "cat": "family",
+    "me": "daughter"
   },
   {
     "w": "朋友",
     "p": "péng yǒu",
     "m": "bạn bè",
-    "cat": "family"
+    "cat": "family",
+    "me": "friend"
   },
   {
     "w": "今天",
     "p": "jīn tiān",
     "m": "hôm nay",
-    "cat": "date"
+    "cat": "date",
+    "me": "today"
   },
   {
     "w": "明天",
     "p": "míng tiān",
     "m": "ngày mai",
-    "cat": "date"
+    "cat": "date",
+    "me": "tomorrow"
   },
   {
     "w": "昨天",
     "p": "zuó tiān",
     "m": "hôm qua",
-    "cat": "date"
+    "cat": "date",
+    "me": "yesterday"
   },
   {
     "w": "现在",
@@ -317,55 +364,64 @@
     "m": "bây giờ",
     "cat": "time",
     "example": "现在几点了？",
-    "example_vi": "Bây giờ là mấy giờ rồi?"
+    "example_vi": "Bây giờ là mấy giờ rồi?",
+    "me": "now"
   },
   {
     "w": "上午",
     "p": "shàng wǔ",
     "m": "buổi sáng",
-    "cat": "time"
+    "cat": "time",
+    "me": "morning"
   },
   {
     "w": "中午",
     "p": "zhōng wǔ",
     "m": "buổi trưa",
-    "cat": "time"
+    "cat": "time",
+    "me": "noon, midday"
   },
   {
     "w": "下午",
     "p": "xià wǔ",
     "m": "buổi chiều",
-    "cat": "time"
+    "cat": "time",
+    "me": "afternoon"
   },
   {
     "w": "晚上",
     "p": "wǎn shang",
     "m": "buổi tối",
-    "cat": "time"
+    "cat": "time",
+    "me": "evening"
   },
   {
     "w": "年",
     "p": "nián",
     "m": "năm",
-    "cat": "date"
+    "cat": "date",
+    "me": "year"
   },
   {
     "w": "月",
     "p": "yuè",
     "m": "tháng",
-    "cat": "date"
+    "cat": "date",
+    "me": "month"
   },
   {
     "w": "日",
     "p": "rì",
     "m": "ngày",
-    "cat": "date"
+    "cat": "date",
+    "me": "day"
   },
   {
     "w": "星期",
     "p": "xīng qī",
     "m": "tuần lễ",
-    "cat": "date"
+    "cat": "date",
+    "me": "week"
   },
   {
     "w": "时候",
@@ -373,7 +429,8 @@
     "m": "lúc, khi",
     "cat": "time",
     "example": "你什么时候回家？",
-    "example_vi": "Khi nào bạn về nhà?"
+    "example_vi": "Khi nào bạn về nhà?",
+    "me": "when, at the time of"
   },
   {
     "w": "中国",
@@ -381,7 +438,8 @@
     "m": "Trung Quốc",
     "cat": "place",
     "example": "我在中国学习汉语。",
-    "example_vi": "Tôi đang học tiếng Trung ở Trung Quốc."
+    "example_vi": "Tôi đang học tiếng Trung ở Trung Quốc.",
+    "me": "China"
   },
   {
     "w": "北京",
@@ -389,37 +447,43 @@
     "m": "Bắc Kinh",
     "cat": "place",
     "example": "北京是中国的首都。",
-    "example_vi": "Bắc Kinh là thủ đô của Trung Quốc."
+    "example_vi": "Bắc Kinh là thủ đô của Trung Quốc.",
+    "me": "Beijing"
   },
   {
     "w": "学校",
     "p": "xué xiào",
     "m": "trường học",
-    "cat": "school"
+    "cat": "school",
+    "me": "school"
   },
   {
     "w": "家",
     "p": "jiā",
     "m": "nhà",
-    "cat": "home"
+    "cat": "home",
+    "me": "home"
   },
   {
     "w": "医院",
     "p": "yī yuàn",
     "m": "bệnh viện",
-    "cat": "health"
+    "cat": "health",
+    "me": "hospital"
   },
   {
     "w": "商店",
     "p": "shāng diàn",
     "m": "cửa hàng",
-    "cat": "shopping"
+    "cat": "shopping",
+    "me": "shop"
   },
   {
     "w": "饭店",
     "p": "fàn diàn",
     "m": "nhà hàng/khách sạn",
-    "cat": "place"
+    "cat": "place",
+    "me": "restaurant/hotel"
   },
   {
     "w": "图书馆",
@@ -427,43 +491,50 @@
     "m": "thư viện",
     "cat": "school",
     "example": "我每天去图书馆看书。",
-    "example_vi": "Mỗi ngày tôi đến thư viện đọc sách."
+    "example_vi": "Mỗi ngày tôi đến thư viện đọc sách.",
+    "me": "library"
   },
   {
     "w": "吃",
     "p": "chī",
     "m": "ăn",
-    "cat": "verb"
+    "cat": "verb",
+    "me": "eat"
   },
   {
     "w": "喝",
     "p": "hē",
     "m": "uống",
-    "cat": "verb"
+    "cat": "verb",
+    "me": "drink"
   },
   {
     "w": "水",
     "p": "shuǐ",
     "m": "nước",
-    "cat": "drink"
+    "cat": "drink",
+    "me": "water"
   },
   {
     "w": "茶",
     "p": "chá",
     "m": "trà",
-    "cat": "drink"
+    "cat": "drink",
+    "me": "tea"
   },
   {
     "w": "饭",
     "p": "fàn",
     "m": "cơm, bữa ăn",
-    "cat": "food"
+    "cat": "food",
+    "me": "rice, meal"
   },
   {
     "w": "菜",
     "p": "cài",
     "m": "rau, món ăn",
-    "cat": "food"
+    "cat": "food",
+    "me": "vegetable, dish"
   },
   {
     "w": "水果",
@@ -471,13 +542,15 @@
     "m": "hoa quả",
     "cat": "food",
     "example": "我喜欢吃水果。",
-    "example_vi": "Tôi thích ăn hoa quả."
+    "example_vi": "Tôi thích ăn hoa quả.",
+    "me": "fruit"
   },
   {
     "w": "苹果",
     "p": "píng guǒ",
     "m": "táo",
-    "cat": "food"
+    "cat": "food",
+    "me": "apple"
   },
   {
     "w": "鸡蛋",
@@ -485,13 +558,15 @@
     "m": "trứng gà",
     "cat": "food",
     "example": "妈妈煮了两个鸡蛋。",
-    "example_vi": "Mẹ đã luộc hai quả trứng gà."
+    "example_vi": "Mẹ đã luộc hai quả trứng gà.",
+    "me": "chicken egg"
   },
   {
     "w": "米饭",
     "p": "mǐ fàn",
     "m": "cơm trắng",
-    "cat": "food"
+    "cat": "food",
+    "me": "plain white rice"
   },
   {
     "w": "猫",
@@ -499,7 +574,8 @@
     "m": "con mèo",
     "cat": "animal",
     "example": "我家有一只猫。",
-    "example_vi": "Nhà tôi có một con mèo."
+    "example_vi": "Nhà tôi có một con mèo.",
+    "me": "cat"
   },
   {
     "w": "狗",
@@ -507,7 +583,8 @@
     "m": "con chó",
     "cat": "animal",
     "example": "那只狗很聪明。",
-    "example_vi": "Con chó đó rất thông minh."
+    "example_vi": "Con chó đó rất thông minh.",
+    "me": "dog"
   },
   {
     "w": "鸟",
@@ -515,19 +592,22 @@
     "m": "con chim",
     "cat": "animal",
     "example": "树上有很多鸟。",
-    "example_vi": "Trên cây có rất nhiều chim."
+    "example_vi": "Trên cây có rất nhiều chim.",
+    "me": "bird"
   },
   {
     "w": "去",
     "p": "qù",
     "m": "đi (đến)",
-    "cat": "verb"
+    "cat": "verb",
+    "me": "to go (to)"
   },
   {
     "w": "来",
     "p": "lái",
     "m": "đến, lại",
-    "cat": "verb"
+    "cat": "verb",
+    "me": "come"
   },
   {
     "w": "看",
@@ -535,13 +615,15 @@
     "m": "nhìn, xem",
     "cat": "verb",
     "example": "我喜欢看电影。",
-    "example_vi": "Tôi thích xem phim."
+    "example_vi": "Tôi thích xem phim.",
+    "me": "look, view"
   },
   {
     "w": "买",
     "p": "mǎi",
     "m": "mua",
-    "cat": "verb"
+    "cat": "verb",
+    "me": "buy"
   },
   {
     "w": "做",
@@ -549,19 +631,22 @@
     "m": "làm",
     "cat": "verb",
     "example": "你在做什么？",
-    "example_vi": "Bạn đang làm gì?"
+    "example_vi": "Bạn đang làm gì?",
+    "me": "do"
   },
   {
     "w": "学",
     "p": "xué",
     "m": "học",
-    "cat": "verb"
+    "cat": "verb",
+    "me": "study"
   },
   {
     "w": "工作",
     "p": "gōng zuò",
     "m": "làm việc",
-    "cat": "verb"
+    "cat": "verb",
+    "me": "work"
   },
   {
     "w": "睡觉",
@@ -569,7 +654,8 @@
     "m": "ngủ",
     "cat": "verb",
     "example": "我十点睡觉。",
-    "example_vi": "Tôi ngủ lúc mười giờ."
+    "example_vi": "Tôi ngủ lúc mười giờ.",
+    "me": "sleep"
   },
   {
     "w": "说话",
@@ -577,7 +663,8 @@
     "m": "nói chuyện",
     "cat": "verb",
     "example": "请不要大声说话。",
-    "example_vi": "Xin đừng nói chuyện to tiếng."
+    "example_vi": "Xin đừng nói chuyện to tiếng.",
+    "me": "speak"
   },
   {
     "w": "听",
@@ -585,7 +672,8 @@
     "m": "nghe",
     "cat": "verb",
     "example": "我喜欢听音乐。",
-    "example_vi": "Tôi thích nghe nhạc."
+    "example_vi": "Tôi thích nghe nhạc.",
+    "me": "listen"
   },
   {
     "w": "写",
@@ -593,7 +681,8 @@
     "m": "viết",
     "cat": "verb",
     "example": "他正在写信。",
-    "example_vi": "Anh ấy đang viết thư."
+    "example_vi": "Anh ấy đang viết thư.",
+    "me": "write"
   },
   {
     "w": "读",
@@ -601,7 +690,8 @@
     "m": "đọc",
     "cat": "verb",
     "example": "我每天读书。",
-    "example_vi": "Mỗi ngày tôi đọc sách."
+    "example_vi": "Mỗi ngày tôi đọc sách.",
+    "me": "read"
   },
   {
     "w": "认识",
@@ -609,7 +699,8 @@
     "m": "biết, quen",
     "cat": "verb",
     "example": "我认识那个老师。",
-    "example_vi": "Tôi quen biết thầy giáo đó."
+    "example_vi": "Tôi quen biết thầy giáo đó.",
+    "me": "know, be familiar with"
   },
   {
     "w": "知道",
@@ -617,7 +708,8 @@
     "m": "biết",
     "cat": "verb",
     "example": "我不知道他的名字。",
-    "example_vi": "Tôi không biết tên anh ấy."
+    "example_vi": "Tôi không biết tên anh ấy.",
+    "me": "know"
   },
   {
     "w": "喜欢",
@@ -625,7 +717,8 @@
     "m": "thích",
     "cat": "verb",
     "example": "我喜欢喝茶。",
-    "example_vi": "Tôi thích uống trà."
+    "example_vi": "Tôi thích uống trà.",
+    "me": "like"
   },
   {
     "w": "想",
@@ -633,7 +726,8 @@
     "m": "muốn, nghĩ",
     "cat": "verb",
     "example": "我想去中国旅游。",
-    "example_vi": "Tôi muốn đi du lịch Trung Quốc."
+    "example_vi": "Tôi muốn đi du lịch Trung Quốc.",
+    "me": "want, think"
   },
   {
     "w": "叫",
@@ -641,7 +735,8 @@
     "m": "tên là, gọi, bảo, khiến, kêu",
     "cat": "verb",
     "example": "我叫王明。",
-    "example_vi": "Tôi tên là Vương Minh."
+    "example_vi": "Tôi tên là Vương Minh.",
+    "me": "named, call, tell, make, cry out"
   },
   {
     "w": "是",
@@ -649,7 +744,8 @@
     "m": "là",
     "cat": "verb",
     "example": "他是医生。",
-    "example_vi": "Anh ấy là bác sĩ."
+    "example_vi": "Anh ấy là bác sĩ.",
+    "me": "to be"
   },
   {
     "w": "有",
@@ -657,13 +753,15 @@
     "m": "có",
     "cat": "verb",
     "example": "我有一本新书。",
-    "example_vi": "Tôi có một cuốn sách mới."
+    "example_vi": "Tôi có một cuốn sách mới.",
+    "me": "have"
   },
   {
     "w": "住",
     "p": "zhù",
     "m": "sống, ở",
-    "cat": "verb"
+    "cat": "verb",
+    "me": "live"
   },
   {
     "w": "开",
@@ -671,7 +769,8 @@
     "m": "mở, lái",
     "cat": "verb",
     "example": "请开门。",
-    "example_vi": "Xin hãy mở cửa."
+    "example_vi": "Xin hãy mở cửa.",
+    "me": "open, drive"
   },
   {
     "w": "进",
@@ -679,7 +778,8 @@
     "m": "vào",
     "cat": "verb",
     "example": "请进。",
-    "example_vi": "Xin mời vào."
+    "example_vi": "Xin mời vào.",
+    "me": "enter, into"
   },
   {
     "w": "出",
@@ -687,13 +787,15 @@
     "m": "ra, xuất",
     "cat": "verb",
     "example": "他刚出门。",
-    "example_vi": "Anh ấy vừa mới ra khỏi nhà."
+    "example_vi": "Anh ấy vừa mới ra khỏi nhà.",
+    "me": "go out, exit"
   },
   {
     "w": "回",
     "p": "huí",
     "m": "về, quay lại",
-    "cat": "verb"
+    "cat": "verb",
+    "me": "return, come back"
   },
   {
     "w": "坐",
@@ -701,7 +803,8 @@
     "m": "ngồi",
     "cat": "verb",
     "example": "请坐。",
-    "example_vi": "Xin mời ngồi."
+    "example_vi": "Xin mời ngồi.",
+    "me": "sit"
   },
   {
     "w": "起",
@@ -709,7 +812,8 @@
     "m": "dậy, nổi",
     "cat": "verb",
     "example": "他六点起床。",
-    "example_vi": "Anh ấy dậy lúc sáu giờ."
+    "example_vi": "Anh ấy dậy lúc sáu giờ.",
+    "me": "rise, rebel"
   },
   {
     "w": "走",
@@ -717,7 +821,8 @@
     "m": "đi bộ",
     "cat": "verb",
     "example": "我们走路去学校。",
-    "example_vi": "Chúng tôi đi bộ đến trường."
+    "example_vi": "Chúng tôi đi bộ đến trường.",
+    "me": "walk"
   },
   {
     "w": "回来",
@@ -725,49 +830,57 @@
     "m": "trở về",
     "cat": "verb",
     "example": "爸爸五点回来。",
-    "example_vi": "Bố về nhà lúc năm giờ."
+    "example_vi": "Bố về nhà lúc năm giờ.",
+    "me": "return"
   },
   {
     "w": "好",
     "p": "hǎo",
     "m": "tốt",
-    "cat": "adjective"
+    "cat": "adjective",
+    "me": "good"
   },
   {
     "w": "大",
     "p": "dà",
     "m": "to, lớn",
-    "cat": "adjective"
+    "cat": "adjective",
+    "me": "big"
   },
   {
     "w": "小",
     "p": "xiǎo",
     "m": "nhỏ",
-    "cat": "adjective"
+    "cat": "adjective",
+    "me": "small"
   },
   {
     "w": "多",
     "p": "duō",
     "m": "nhiều",
-    "cat": "adjective"
+    "cat": "adjective",
+    "me": "many"
   },
   {
     "w": "少",
     "p": "shǎo",
     "m": "ít",
-    "cat": "adjective"
+    "cat": "adjective",
+    "me": "few, little"
   },
   {
     "w": "冷",
     "p": "lěng",
     "m": "lạnh",
-    "cat": "adjective"
+    "cat": "adjective",
+    "me": "cold"
   },
   {
     "w": "热",
     "p": "rè",
     "m": "nóng",
-    "cat": "adjective"
+    "cat": "adjective",
+    "me": "hot"
   },
   {
     "w": "高兴",
@@ -775,25 +888,29 @@
     "m": "vui vẻ",
     "cat": "emotion",
     "example": "认识你我很高兴。",
-    "example_vi": "Rất vui được quen biết bạn."
+    "example_vi": "Rất vui được quen biết bạn.",
+    "me": "cheerful"
   },
   {
     "w": "漂亮",
     "p": "piào liang",
     "m": "xinh đẹp",
-    "cat": "adjective"
+    "cat": "adjective",
+    "me": "beautiful"
   },
   {
     "w": "好吃",
     "p": "hǎo chī",
     "m": "ngon",
-    "cat": "adjective"
+    "cat": "adjective",
+    "me": "delicious"
   },
   {
     "w": "贵",
     "p": "guì",
     "m": "đắt",
-    "cat": "adjective"
+    "cat": "adjective",
+    "me": "expensive"
   },
   {
     "w": "新",
@@ -801,7 +918,8 @@
     "m": "mới",
     "cat": "adjective",
     "example": "这是我的新手机。",
-    "example_vi": "Đây là điện thoại mới của tôi."
+    "example_vi": "Đây là điện thoại mới của tôi.",
+    "me": "new"
   },
   {
     "w": "对",
@@ -809,7 +927,8 @@
     "m": "đúng, phải, đối với, cặp (lượng từ)",
     "cat": "adjective",
     "example": "你说得对。",
-    "example_vi": "Bạn nói đúng rồi."
+    "example_vi": "Bạn nói đúng rồi.",
+    "me": "correct, right; toward; pair (measure word)"
   },
   {
     "w": "快",
@@ -817,7 +936,8 @@
     "m": "nhanh",
     "cat": "adjective",
     "example": "请快一点。",
-    "example_vi": "Xin hãy nhanh lên một chút."
+    "example_vi": "Xin hãy nhanh lên một chút.",
+    "me": "fast"
   },
   {
     "w": "慢",
@@ -825,37 +945,43 @@
     "m": "chậm",
     "cat": "adjective",
     "example": "他走得很慢。",
-    "example_vi": "Anh ấy đi rất chậm."
+    "example_vi": "Anh ấy đi rất chậm.",
+    "me": "slow"
   },
   {
     "w": "飞机",
     "p": "fēi jī",
     "m": "máy bay",
-    "cat": "transport"
+    "cat": "transport",
+    "me": "plane"
   },
   {
     "w": "火车",
     "p": "huǒ chē",
     "m": "tàu hỏa",
-    "cat": "transport"
+    "cat": "transport",
+    "me": "train"
   },
   {
     "w": "出租车",
     "p": "chū zū chē",
     "m": "taxi",
-    "cat": "transport"
+    "cat": "transport",
+    "me": "taxi"
   },
   {
     "w": "公共汽车",
     "p": "gōng gòng qì chē",
     "m": "xe buýt",
-    "cat": "transport"
+    "cat": "transport",
+    "me": "bus"
   },
   {
     "w": "地铁",
     "p": "dì tiě",
     "m": "tàu điện ngầm",
-    "cat": "transport"
+    "cat": "transport",
+    "me": "subway"
   },
   {
     "w": "的",
@@ -863,7 +989,8 @@
     "m": "của (liên kết)",
     "cat": "particle",
     "example": "这是他的手机。",
-    "example_vi": "Đây là điện thoại của anh ấy."
+    "example_vi": "Đây là điện thoại của anh ấy.",
+    "me": "of (connective particle)"
   },
   {
     "w": "了",
@@ -871,7 +998,8 @@
     "m": "rồi (hoàn thành)",
     "cat": "particle",
     "example": "我吃饭了。",
-    "example_vi": "Tôi đã ăn cơm rồi."
+    "example_vi": "Tôi đã ăn cơm rồi.",
+    "me": "already (completed action)"
   },
   {
     "w": "吗",
@@ -879,7 +1007,8 @@
     "m": "à? (câu hỏi)",
     "cat": "particle",
     "example": "你是学生吗？",
-    "example_vi": "Bạn là học sinh à?"
+    "example_vi": "Bạn là học sinh à?",
+    "me": "huh? (question particle)"
   },
   {
     "w": "呢",
@@ -887,7 +1016,8 @@
     "m": "còn ... thì?",
     "cat": "particle",
     "example": "我很好，你呢？",
-    "example_vi": "Tôi khỏe, còn bạn thì sao?"
+    "example_vi": "Tôi khỏe, còn bạn thì sao?",
+    "me": "and what about...?"
   },
   {
     "w": "吧",
@@ -895,7 +1025,8 @@
     "m": "nhỉ, nhé",
     "cat": "particle",
     "example": "我们走吧。",
-    "example_vi": "Chúng ta đi thôi nhé."
+    "example_vi": "Chúng ta đi thôi nhé.",
+    "me": "right? (tag question particle)"
   },
   {
     "w": "也",
@@ -903,7 +1034,8 @@
     "m": "cũng",
     "cat": "particle",
     "example": "我也喜欢音乐。",
-    "example_vi": "Tôi cũng thích âm nhạc."
+    "example_vi": "Tôi cũng thích âm nhạc.",
+    "me": "also"
   },
   {
     "w": "都",
@@ -911,7 +1043,8 @@
     "m": "đều, tất cả",
     "cat": "particle",
     "example": "我们都是学生。",
-    "example_vi": "Chúng tôi đều là học sinh."
+    "example_vi": "Chúng tôi đều là học sinh.",
+    "me": "all, every"
   },
   {
     "w": "不",
@@ -919,7 +1052,8 @@
     "m": "không",
     "cat": "particle",
     "example": "我不喜欢咖啡。",
-    "example_vi": "Tôi không thích cà phê."
+    "example_vi": "Tôi không thích cà phê.",
+    "me": "no"
   },
   {
     "w": "没",
@@ -927,7 +1061,8 @@
     "m": "không có",
     "cat": "particle",
     "example": "我没有钱。",
-    "example_vi": "Tôi không có tiền."
+    "example_vi": "Tôi không có tiền.",
+    "me": "not have, none"
   },
   {
     "w": "很",
@@ -935,7 +1070,8 @@
     "m": "rất",
     "cat": "particle",
     "example": "今天很热。",
-    "example_vi": "Hôm nay trời rất nóng."
+    "example_vi": "Hôm nay trời rất nóng.",
+    "me": "very"
   },
   {
     "w": "太",
@@ -943,7 +1079,8 @@
     "m": "quá",
     "cat": "particle",
     "example": "这个太贵了。",
-    "example_vi": "Cái này quá đắt rồi."
+    "example_vi": "Cái này quá đắt rồi.",
+    "me": "too, excessively"
   },
   {
     "w": "非常",
@@ -951,13 +1088,15 @@
     "m": "rất, vô cùng",
     "cat": "particle",
     "example": "这个电影非常好看。",
-    "example_vi": "Bộ phim này rất hay."
+    "example_vi": "Bộ phim này rất hay.",
+    "me": "very, extremely"
   },
   {
     "w": "一些",
     "p": "yī xiē",
     "m": "một vài",
-    "cat": "particle"
+    "cat": "particle",
+    "me": "a few"
   },
   {
     "w": "什么",
@@ -965,7 +1104,8 @@
     "m": "cái gì",
     "cat": "pronoun",
     "example": "你想吃什么？",
-    "example_vi": "Bạn muốn ăn gì?"
+    "example_vi": "Bạn muốn ăn gì?",
+    "me": "what"
   },
   {
     "w": "怎么",
@@ -973,7 +1113,8 @@
     "m": "như thế nào",
     "cat": "pronoun",
     "example": "这个字怎么读？",
-    "example_vi": "Chữ này đọc như thế nào?"
+    "example_vi": "Chữ này đọc như thế nào?",
+    "me": "how"
   },
   {
     "w": "怎么样",
@@ -981,13 +1122,15 @@
     "m": "ra sao",
     "cat": "pronoun",
     "example": "今天天气怎么样？",
-    "example_vi": "Hôm nay thời tiết ra sao?"
+    "example_vi": "Hôm nay thời tiết ra sao?",
+    "me": "how, what"
   },
   {
     "w": "哪里",
     "p": "nǎ lǐ",
     "m": "ở đâu",
-    "cat": "pronoun"
+    "cat": "pronoun",
+    "me": "where"
   },
   {
     "w": "谁",
@@ -995,7 +1138,8 @@
     "m": "ai",
     "cat": "pronoun",
     "example": "他是谁？",
-    "example_vi": "Anh ấy là ai?"
+    "example_vi": "Anh ấy là ai?",
+    "me": "who"
   },
   {
     "w": "为什么",
@@ -1003,13 +1147,15 @@
     "m": "tại sao",
     "cat": "pronoun",
     "example": "你为什么不吃饭？",
-    "example_vi": "Tại sao bạn không ăn cơm?"
+    "example_vi": "Tại sao bạn không ăn cơm?",
+    "me": "why"
   },
   {
     "w": "最",
     "p": "zuì",
     "m": "nhất",
-    "cat": "particle"
+    "cat": "particle",
+    "me": "first, foremost"
   },
   {
     "w": "再",
@@ -1017,7 +1163,8 @@
     "m": "lại, thêm",
     "cat": "particle",
     "example": "请再说一遍。",
-    "example_vi": "Xin nói lại một lần nữa."
+    "example_vi": "Xin nói lại một lần nữa.",
+    "me": "again, additionally"
   },
   {
     "w": "就",
@@ -1025,7 +1172,8 @@
     "m": "thì, liền",
     "cat": "particle",
     "example": "我马上就来。",
-    "example_vi": "Tôi sẽ đến ngay."
+    "example_vi": "Tôi sẽ đến ngay.",
+    "me": "then, immediately"
   },
   {
     "w": "还",
@@ -1033,7 +1181,8 @@
     "m": "vẫn còn, nữa, ngoài ra, trả lại, hoàn lại",
     "cat": "particle",
     "example": "他还没来。",
-    "example_vi": "Anh ấy vẫn chưa đến."
+    "example_vi": "Anh ấy vẫn chưa đến.",
+    "me": "still, more, in addition, to return, refund"
   },
   {
     "w": "只",
@@ -1041,7 +1190,8 @@
     "m": "chỉ, chỉ có, con (lượng từ cho động vật, tay, chân)",
     "cat": "particle",
     "example": "我只有一个妹妹。",
-    "example_vi": "Tôi chỉ có một em gái."
+    "example_vi": "Tôi chỉ có một em gái.",
+    "me": "only; unit (measure word for animals, hands, legs)"
   },
   {
     "w": "先生",
@@ -1049,7 +1199,8 @@
     "m": "ông, thầy",
     "cat": "culture",
     "example": "王先生是我的老师。",
-    "example_vi": "Ông Vương là thầy giáo của tôi."
+    "example_vi": "Ông Vương là thầy giáo của tôi.",
+    "me": "sir, master"
   },
   {
     "w": "小姐",
@@ -1057,31 +1208,36 @@
     "m": "cô",
     "cat": "culture",
     "example": "李小姐在哪儿工作？",
-    "example_vi": "Cô Lý làm việc ở đâu?"
+    "example_vi": "Cô Lý làm việc ở đâu?",
+    "me": "aunt, miss"
   },
   {
     "w": "医生",
     "p": "yī shēng",
     "m": "bác sĩ",
-    "cat": "health"
+    "cat": "health",
+    "me": "doctor"
   },
   {
     "w": "老师",
     "p": "lǎo shī",
     "m": "giáo viên",
-    "cat": "school"
+    "cat": "school",
+    "me": "teacher"
   },
   {
     "w": "学生",
     "p": "xué shēng",
     "m": "học sinh",
-    "cat": "school"
+    "cat": "school",
+    "me": "student"
   },
   {
     "w": "钱",
     "p": "qián",
     "m": "tiền",
-    "cat": "money"
+    "cat": "money",
+    "me": "money"
   },
   {
     "w": "块",
@@ -1089,13 +1245,15 @@
     "m": "đồng (tiền tệ), cục, miếng",
     "cat": "money",
     "example": "这个苹果三块钱。",
-    "example_vi": "Quả táo này ba đồng."
+    "example_vi": "Quả táo này ba đồng.",
+    "me": "coin (currency); a lump, a piece"
   },
   {
     "w": "本",
     "p": "běn",
     "m": "quyển (sách)",
-    "cat": "school"
+    "cat": "school",
+    "me": "volume (book)"
   },
   {
     "w": "个",
@@ -1103,7 +1261,8 @@
     "m": "cái (lượng từ)",
     "cat": "particle",
     "example": "我要一个苹果。",
-    "example_vi": "Tôi muốn một quả táo."
+    "example_vi": "Tôi muốn một quả táo.",
+    "me": "(a general classifier)"
   },
   {
     "w": "杯",
@@ -1111,7 +1270,8 @@
     "m": "cốc, ly",
     "cat": "home",
     "example": "请给我一杯水。",
-    "example_vi": "Xin cho tôi một cốc nước."
+    "example_vi": "Xin cho tôi một cốc nước.",
+    "me": "cup, glass"
   },
   {
     "w": "岁",
@@ -1119,7 +1279,8 @@
     "m": "tuổi",
     "cat": "number",
     "example": "我今年二十岁。",
-    "example_vi": "Năm nay tôi hai mươi tuổi."
+    "example_vi": "Năm nay tôi hai mươi tuổi.",
+    "me": "age"
   },
   {
     "w": "次",
@@ -1127,7 +1288,8 @@
     "m": "lần",
     "cat": "number",
     "example": "我去过中国两次。",
-    "example_vi": "Tôi đã đến Trung Quốc hai lần."
+    "example_vi": "Tôi đã đến Trung Quốc hai lần.",
+    "me": "time (occurrence)"
   },
   {
     "w": "下",
@@ -1135,7 +1297,8 @@
     "m": "dưới",
     "cat": "particle",
     "example": "书在桌子下面。",
-    "example_vi": "Sách ở dưới bàn."
+    "example_vi": "Sách ở dưới bàn.",
+    "me": "under"
   },
   {
     "w": "上",
@@ -1143,7 +1306,8 @@
     "m": "trên",
     "cat": "particle",
     "example": "书在桌子上面。",
-    "example_vi": "Sách ở trên bàn."
+    "example_vi": "Sách ở trên bàn.",
+    "me": "on"
   },
   {
     "w": "里",
@@ -1151,7 +1315,8 @@
     "m": "trong",
     "cat": "particle",
     "example": "钱在包里。",
-    "example_vi": "Tiền ở trong túi."
+    "example_vi": "Tiền ở trong túi.",
+    "me": "inside, clear"
   },
   {
     "w": "外",
@@ -1159,7 +1324,8 @@
     "m": "ngoài",
     "cat": "particle",
     "example": "孩子们在外面玩。",
-    "example_vi": "Bọn trẻ đang chơi ở ngoài."
+    "example_vi": "Bọn trẻ đang chơi ở ngoài.",
+    "me": "outside"
   },
   {
     "w": "前",
@@ -1167,7 +1333,8 @@
     "m": "trước",
     "cat": "particle",
     "example": "医院在学校前面。",
-    "example_vi": "Bệnh viện ở phía trước trường học."
+    "example_vi": "Bệnh viện ở phía trước trường học.",
+    "me": "before"
   },
   {
     "w": "后",
@@ -1175,19 +1342,22 @@
     "m": "sau",
     "cat": "particle",
     "example": "公园在图书馆后面。",
-    "example_vi": "Công viên ở phía sau thư viện."
+    "example_vi": "Công viên ở phía sau thư viện.",
+    "me": "after"
   },
   {
     "w": "左",
     "p": "zuǒ",
     "m": "trái",
-    "cat": "particle"
+    "cat": "particle",
+    "me": "left; fruit"
   },
   {
     "w": "右",
     "p": "yòu",
     "m": "phải",
-    "cat": "particle"
+    "cat": "particle",
+    "me": "correct, right"
   },
   {
     "w": "中",
@@ -1195,7 +1365,8 @@
     "m": "giữa",
     "cat": "particle",
     "example": "他站在中间。",
-    "example_vi": "Anh ấy đứng ở giữa."
+    "example_vi": "Anh ấy đứng ở giữa.",
+    "me": "between"
   },
   {
     "w": "东",
@@ -1203,7 +1374,8 @@
     "m": "đông",
     "cat": "particle",
     "example": "太阳从东边升起。",
-    "example_vi": "Mặt trời mọc từ phía đông."
+    "example_vi": "Mặt trời mọc từ phía đông.",
+    "me": "winter"
   },
   {
     "w": "西",
@@ -1211,7 +1383,8 @@
     "m": "tây",
     "cat": "particle",
     "example": "太阳从西边落下。",
-    "example_vi": "Mặt trời lặn ở phía tây."
+    "example_vi": "Mặt trời lặn ở phía tây.",
+    "me": "west"
   },
   {
     "w": "南",
@@ -1219,7 +1392,8 @@
     "m": "nam",
     "cat": "particle",
     "example": "越南在中国的南边。",
-    "example_vi": "Việt Nam ở phía nam Trung Quốc."
+    "example_vi": "Việt Nam ở phía nam Trung Quốc.",
+    "me": "male"
   },
   {
     "w": "北",
@@ -1227,6 +1401,7 @@
     "m": "bắc",
     "cat": "particle",
     "example": "北京在中国的北边。",
-    "example_vi": "Bắc Kinh ở phía bắc Trung Quốc."
+    "example_vi": "Bắc Kinh ở phía bắc Trung Quốc.",
+    "me": "north"
   }
 ]

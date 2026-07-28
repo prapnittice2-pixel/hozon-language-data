@@ -5,7 +5,8 @@
     "m": "và hơn nữa, đồng thời",
     "cat": "language",
     "example": "他很聪明，并且很努力。",
-    "example_vi": "Anh ấy rất thông minh, và hơn nữa rất chăm chỉ."
+    "example_vi": "Anh ấy rất thông minh, và hơn nữa rất chăm chỉ.",
+    "me": "and furthermore, at the same time"
   },
   {
     "w": "与其",
@@ -13,7 +14,8 @@
     "m": "thay vì, chi bằng",
     "cat": "language",
     "example": "与其抱怨，不如努力改变。",
-    "example_vi": "Thay vì than phiền, chi bằng cố gắng thay đổi."
+    "example_vi": "Thay vì than phiền, chi bằng cố gắng thay đổi.",
+    "me": "instead of, rather"
   },
   {
     "w": "准时",
@@ -21,7 +23,8 @@
     "m": "đúng giờ, đúng hẹn",
     "cat": "time",
     "example": "请准时到达。",
-    "example_vi": "Xin hãy đến đúng giờ."
+    "example_vi": "Xin hãy đến đúng giờ.",
+    "me": "punctual, on time"
   },
   {
     "w": "具有",
@@ -29,7 +32,8 @@
     "m": "có, sở hữu, mang đặc điểm",
     "cat": "verb",
     "example": "这个方案具有很大的可行性。",
-    "example_vi": "Phương án này có tính khả thi rất lớn."
+    "example_vi": "Phương án này có tính khả thi rất lớn.",
+    "me": "to have, possess, bear (a trait)"
   },
   {
     "w": "留下",
@@ -37,13 +41,15 @@
     "m": "ở lại; để lại",
     "cat": "verb",
     "example": "他留下了一封信。",
-    "example_vi": "Anh ấy đã để lại một bức thư."
+    "example_vi": "Anh ấy đã để lại một bức thư.",
+    "me": "stay; leave behind"
   },
   {
     "w": "行为",
     "p": "xíngwéi",
     "m": "hành vi, cách cư xử",
-    "cat": "society"
+    "cat": "society",
+    "me": "behavior"
   },
   {
     "w": "建设",
@@ -51,7 +57,8 @@
     "m": "xây dựng, kiến thiết",
     "cat": "verb",
     "example": "政府正在建设新的道路。",
-    "example_vi": "Chính phủ đang xây dựng con đường mới."
+    "example_vi": "Chính phủ đang xây dựng con đường mới.",
+    "me": "to build, construct"
   },
   {
     "w": "分享",
@@ -59,7 +66,8 @@
     "m": "chia sẻ",
     "cat": "verb",
     "example": "他喜欢和朋友分享快乐。",
-    "example_vi": "Anh ấy thích chia sẻ niềm vui với bạn bè."
+    "example_vi": "Anh ấy thích chia sẻ niềm vui với bạn bè.",
+    "me": "share"
   },
   {
     "w": "追求",
@@ -67,7 +75,8 @@
     "m": "theo đuổi, truy cầu",
     "cat": "verb",
     "example": "他一直在追求自己的梦想。",
-    "example_vi": "Anh ấy luôn theo đuổi ước mơ của mình."
+    "example_vi": "Anh ấy luôn theo đuổi ước mơ của mình.",
+    "me": "pursue, seek"
   },
   {
     "w": "举例",
@@ -75,7 +84,8 @@
     "m": "lấy ví dụ, đưa ra ví dụ",
     "cat": "language",
     "example": "请举例说明。",
-    "example_vi": "Xin hãy lấy ví dụ để giải thích."
+    "example_vi": "Xin hãy lấy ví dụ để giải thích.",
+    "me": "give an example"
   },
   {
     "w": "越来越",

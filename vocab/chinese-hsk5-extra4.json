@@ -5,7 +5,8 @@
     "m": "yêu quý và bảo vệ",
     "cat": "emotion",
     "example": "我们要爱护公共设施。",
-    "example_vi": "Chúng ta phải yêu quý và bảo vệ các thiết bị công cộng."
+    "example_vi": "Chúng ta phải yêu quý và bảo vệ các thiết bị công cộng.",
+    "me": "cherish and protect"
   },
   {
     "w": "爱惜",
@@ -13,7 +14,8 @@
     "m": "quý trọng, biết tiếc",
     "cat": "emotion",
     "example": "要爱惜粮食。",
-    "example_vi": "Phải biết quý trọng lương thực."
+    "example_vi": "Phải biết quý trọng lương thực.",
+    "me": "value, know how to cherish"
   },
   {
     "w": "安慰",
@@ -27,7 +29,8 @@
     "m": "lắp đặt",
     "cat": "tech",
     "example": "他给电脑安装了新软件。",
-    "example_vi": "Anh ấy đã cài đặt phần mềm mới cho máy tính."
+    "example_vi": "Anh ấy đã cài đặt phần mềm mới cho máy tính.",
+    "me": "install"
   },
   {
     "w": "把握",
@@ -35,7 +38,8 @@
     "m": "nắm bắt, nắm chắc, sự chắc chắn",
     "cat": "work",
     "example": "他很有把握完成任务。",
-    "example_vi": "Anh ấy rất chắc chắn sẽ hoàn thành nhiệm vụ."
+    "example_vi": "Anh ấy rất chắc chắn sẽ hoàn thành nhiệm vụ.",
+    "me": "grasp firmly, certainty"
   },
   {
     "w": "办理",
@@ -43,7 +47,8 @@
     "m": "làm thủ tục, giải quyết",
     "cat": "work",
     "example": "她去银行办理业务。",
-    "example_vi": "Cô ấy đến ngân hàng làm thủ tục."
+    "example_vi": "Cô ấy đến ngân hàng làm thủ tục.",
+    "me": "process, handle"
   },
   {
     "w": "傍晚",
@@ -51,7 +56,8 @@
     "m": "chập tối, chiều muộn",
     "cat": "time",
     "example": "我们傍晚出发。",
-    "example_vi": "Chúng tôi xuất phát vào lúc chập tối."
+    "example_vi": "Chúng tôi xuất phát vào lúc chập tối.",
+    "me": "dusk, late afternoon"
   },
   {
     "w": "包裹",
@@ -59,13 +65,15 @@
     "m": "bưu kiện, gói hàng",
     "cat": "society",
     "example": "这个包裹是给你的。",
-    "example_vi": "Bưu kiện này là dành cho bạn."
+    "example_vi": "Bưu kiện này là dành cho bạn.",
+    "me": "parcel, package"
   },
   {
     "w": "包含",
     "p": "bāo hán",
     "m": "bao hàm, chứa đựng",
-    "cat": "academic"
+    "cat": "academic",
+    "me": "encompass, contain"
   },
   {
     "w": "宝贵",
@@ -73,7 +81,8 @@
     "m": "quý báu",
     "cat": "society",
     "example": "时间是宝贵的。",
-    "example_vi": "Thời gian là quý báu."
+    "example_vi": "Thời gian là quý báu.",
+    "me": "precious"
   },
   {
     "w": "保持",
@@ -93,13 +102,15 @@
     "m": "giữ lại, bảo lưu",
     "cat": "work",
     "example": "他对这个方案持保留意见。",
-    "example_vi": "Anh ấy giữ ý kiến bảo lưu về phương án này."
+    "example_vi": "Anh ấy giữ ý kiến bảo lưu về phương án này.",
+    "me": "retain, reserve"
   },
   {
     "w": "保险",
     "p": "bǎo xiǎn",
     "m": "bảo hiểm",
-    "cat": "money"
+    "cat": "money",
+    "me": "insurance"
   },
   {
     "w": "报道",
@@ -111,7 +122,8 @@
     "w": "报告",
     "p": "bào gào",
     "m": "báo cáo",
-    "cat": "work"
+    "cat": "work",
+    "me": "report"
   },
   {
     "w": "抱怨",
@@ -119,13 +131,15 @@
     "m": "oán trách, phàn nàn",
     "cat": "emotion",
     "example": "她总是抱怨工作太累。",
-    "example_vi": "Cô ấy luôn phàn nàn công việc quá mệt."
+    "example_vi": "Cô ấy luôn phàn nàn công việc quá mệt.",
+    "me": "resent, complain"
   },
   {
     "w": "悲观",
     "p": "bēi guān",
     "m": "bi quan",
-    "cat": "psychology"
+    "cat": "psychology",
+    "me": "pessimistic"
   },
   {
     "w": "背景",
@@ -139,19 +153,22 @@
     "w": "本科",
     "p": "běn kē",
     "m": "hệ đại học chính quy",
-    "cat": "education"
+    "cat": "education",
+    "me": "full-time university program"
   },
   {
     "w": "本领",
     "p": "běn lǐng",
     "m": "bản lĩnh, tài năng",
-    "cat": "work"
+    "cat": "work",
+    "me": "capability, talent"
   },
   {
     "w": "本质",
     "p": "běn zhì",
     "m": "bản chất",
-    "cat": "academic"
+    "cat": "academic",
+    "me": "essence, nature"
   },
   {
     "w": "比例",
@@ -173,13 +190,15 @@
     "m": "tất yếu, tất nhiên",
     "cat": "academic",
     "example": "失败是成功的必然过程。",
-    "example_vi": "Thất bại là quá trình tất yếu của thành công."
+    "example_vi": "Thất bại là quá trình tất yếu của thành công.",
+    "me": "inevitable, necessary"
   },
   {
     "w": "必要",
     "p": "bì yào",
     "m": "cần thiết",
-    "cat": "work"
+    "cat": "work",
+    "me": "necessary"
   },
   {
     "w": "毕竟",
@@ -187,7 +206,8 @@
     "m": "xét cho cùng, dù sao, rốt cuộc",
     "cat": "language",
     "example": "毕竟他还是个孩子。",
-    "example_vi": "Xét cho cùng thì nó vẫn còn là một đứa trẻ."
+    "example_vi": "Xét cho cùng thì nó vẫn còn là một đứa trẻ.",
+    "me": "after all, in the end"
   },
   {
     "w": "避免",
@@ -215,13 +235,15 @@
     "m": "dấu hiệu, biểu tượng",
     "cat": "society",
     "example": "这是公司的标志。",
-    "example_vi": "Đây là biểu tượng của công ty."
+    "example_vi": "Đây là biểu tượng của công ty.",
+    "me": "sign, symbol"
   },
   {
     "w": "表达",
     "p": "biǎo dá",
     "m": "biểu đạt, diễn đạt",
-    "cat": "language"
+    "cat": "language",
+    "me": "express, convey"
   },
   {
     "w": "表面",
@@ -229,7 +251,8 @@
     "m": "bề mặt, bề ngoài",
     "cat": "science",
     "example": "桌子的表面很光滑。",
-    "example_vi": "Bề mặt của cái bàn rất trơn nhẵn."
+    "example_vi": "Bề mặt của cái bàn rất trơn nhẵn.",
+    "me": "surface, exterior"
   },
   {
     "w": "表明",
@@ -243,7 +266,8 @@
     "m": "vẻ mặt, biểu cảm",
     "cat": "emotion",
     "example": "他的表情很严肃。",
-    "example_vi": "Vẻ mặt của anh ấy rất nghiêm túc."
+    "example_vi": "Vẻ mặt của anh ấy rất nghiêm túc.",
+    "me": "facial expression"
   },
   {
     "w": "表现",
@@ -257,7 +281,8 @@
     "m": "virus, vi-rút",
     "cat": "medicine",
     "example": "这种病毒传播很快。",
-    "example_vi": "Loại virus này lây lan rất nhanh."
+    "example_vi": "Loại virus này lây lan rất nhanh.",
+    "me": "virus"
   },
   {
     "w": "博物馆",
@@ -269,7 +294,8 @@
     "w": "不断",
     "p": "bú duàn",
     "m": "không ngừng",
-    "cat": "time"
+    "cat": "time",
+    "me": "unceasingly"
   },
   {
     "w": "不见得",
@@ -277,13 +303,15 @@
     "m": "chưa chắc, vị tất",
     "cat": "language",
     "example": "贵的东西不见得就好。",
-    "example_vi": "Đồ đắt tiền chưa chắc đã tốt."
+    "example_vi": "Đồ đắt tiền chưa chắc đã tốt.",
+    "me": "not necessarily"
   },
   {
     "w": "不耐烦",
     "p": "bú nài fán",
     "m": "sốt ruột, mất kiên nhẫn",
-    "cat": "emotion"
+    "cat": "emotion",
+    "me": "anxious, impatient"
   },
   {
     "w": "不足",
@@ -291,7 +319,8 @@
     "m": "bất cập, thiếu sót, không đủ",
     "cat": "academic",
     "example": "这个计划还有一些不足之处。",
-    "example_vi": "Kế hoạch này vẫn còn một số bất cập."
+    "example_vi": "Kế hoạch này vẫn còn một số bất cập.",
+    "me": "inadequate, lacking, insufficient"
   },
   {
     "w": "步骤",
@@ -303,7 +332,8 @@
     "w": "部门",
     "p": "bù mén",
     "m": "bộ phận, phòng ban",
-    "cat": "work"
+    "cat": "work",
+    "me": "department, division"
   },
   {
     "w": "财产",
@@ -311,7 +341,8 @@
     "m": "tài sản",
     "cat": "money",
     "example": "这是他个人的财产。",
-    "example_vi": "Đây là tài sản cá nhân của anh ấy."
+    "example_vi": "Đây là tài sản cá nhân của anh ấy.",
+    "me": "asset"
   },
   {
     "w": "采访",
@@ -319,7 +350,8 @@
     "m": "phỏng vấn (báo chí)",
     "cat": "society",
     "example": "记者采访了这位专家。",
-    "example_vi": "Nhà báo đã phỏng vấn vị chuyên gia này."
+    "example_vi": "Nhà báo đã phỏng vấn vị chuyên gia này.",
+    "me": "interview (press)"
   },
   {
     "w": "采取",
@@ -327,25 +359,29 @@
     "m": "áp dụng, thi hành",
     "cat": "work",
     "example": "公司采取了新措施。",
-    "example_vi": "Công ty đã áp dụng biện pháp mới."
+    "example_vi": "Công ty đã áp dụng biện pháp mới.",
+    "me": "apply, implement"
   },
   {
     "w": "参考",
     "p": "cān kǎo",
     "m": "tham khảo",
-    "cat": "academic"
+    "cat": "academic",
+    "me": "for reference"
   },
   {
     "w": "参与",
     "p": "cān yù",
     "m": "tham gia, tham dự",
-    "cat": "society"
+    "cat": "society",
+    "me": "participate, attend"
   },
   {
     "w": "惭愧",
     "p": "cán kuì",
     "m": "hổ thẹn, xấu hổ",
-    "cat": "emotion"
+    "cat": "emotion",
+    "me": "ashamed, embarrassed"
   },
   {
     "w": "操心",
@@ -353,7 +389,8 @@
     "m": "lo lắng, bận tâm",
     "cat": "emotion",
     "example": "父母总为孩子操心。",
-    "example_vi": "Cha mẹ luôn lo lắng cho con cái."
+    "example_vi": "Cha mẹ luôn lo lắng cho con cái.",
+    "me": "worry, be preoccupied"
   },
   {
     "w": "测验",
@@ -361,7 +398,8 @@
     "m": "kiểm tra, trắc nghiệm",
     "cat": "education",
     "example": "明天有一场数学测验。",
-    "example_vi": "Ngày mai có một bài kiểm tra toán."
+    "example_vi": "Ngày mai có một bài kiểm tra toán.",
+    "me": "test, quiz"
   },
   {
     "w": "曾经",
@@ -369,7 +407,8 @@
     "m": "đã từng",
     "cat": "time",
     "example": "他曾经去过北京。",
-    "example_vi": "Anh ấy đã từng đến Bắc Kinh."
+    "example_vi": "Anh ấy đã từng đến Bắc Kinh.",
+    "me": "have once"
   },
   {
     "w": "差距",
@@ -383,19 +422,22 @@
     "w": "产品",
     "p": "chǎn pǐn",
     "m": "sản phẩm",
-    "cat": "business"
+    "cat": "business",
+    "me": "product"
   },
   {
     "w": "产生",
     "p": "chǎn shēng",
     "m": "tạo ra, phát sinh, nảy sinh, sản sinh",
-    "cat": "academic"
+    "cat": "academic",
+    "me": "create, generate, arise, produce"
   },
   {
     "w": "常识",
     "p": "cháng shí",
     "m": "kiến thức phổ thông",
-    "cat": "education"
+    "cat": "education",
+    "me": "general knowledge"
   },
   {
     "w": "超级",
@@ -403,7 +445,8 @@
     "m": "siêu, siêu hạng",
     "cat": "language",
     "example": "这是一家超级市场。",
-    "example_vi": "Đây là một siêu thị."
+    "example_vi": "Đây là một siêu thị.",
+    "me": "super, top-tier"
   },
   {
     "w": "潮湿",
@@ -411,7 +454,8 @@
     "m": "ẩm ướt",
     "cat": "nature",
     "example": "南方的天气比较潮湿。",
-    "example_vi": "Thời tiết miền Nam khá ẩm ướt."
+    "example_vi": "Thời tiết miền Nam khá ẩm ướt.",
+    "me": "humid"
   },
   {
     "w": "吵架",
@@ -419,7 +463,8 @@
     "m": "cãi nhau",
     "cat": "family",
     "example": "他们因为小事吵架了。",
-    "example_vi": "Họ đã cãi nhau vì chuyện nhỏ."
+    "example_vi": "Họ đã cãi nhau vì chuyện nhỏ.",
+    "me": "quarrel"
   },
   {
     "w": "彻底",
@@ -427,7 +472,8 @@
     "m": "triệt để",
     "cat": "work",
     "example": "这个问题已经彻底解决了。",
-    "example_vi": "Vấn đề này đã được giải quyết triệt để."
+    "example_vi": "Vấn đề này đã được giải quyết triệt để.",
+    "me": "thorough, radical"
   },
   {
     "w": "沉默",
@@ -435,7 +481,8 @@
     "m": "im lặng, trầm mặc",
     "cat": "psychology",
     "example": "他沉默了很久。",
-    "example_vi": "Anh ấy đã im lặng rất lâu."
+    "example_vi": "Anh ấy đã im lặng rất lâu.",
+    "me": "silent, taciturn"
   },
   {
     "w": "称呼",
@@ -443,7 +490,8 @@
     "m": "xưng hô; cách gọi",
     "cat": "language",
     "example": "我该怎么称呼您？",
-    "example_vi": "Tôi nên xưng hô với ngài như thế nào?"
+    "example_vi": "Tôi nên xưng hô với ngài như thế nào?",
+    "me": "form of address"
   },
   {
     "w": "称赞",
@@ -451,7 +499,8 @@
     "m": "khen ngợi",
     "cat": "emotion",
     "example": "老师称赞了他的进步。",
-    "example_vi": "Thầy giáo đã khen ngợi sự tiến bộ của anh ấy."
+    "example_vi": "Thầy giáo đã khen ngợi sự tiến bộ của anh ấy.",
+    "me": "praise"
   },
   {
     "w": "成分",
@@ -459,7 +508,8 @@
     "m": "thành phần",
     "cat": "science",
     "example": "这个产品的成分很天然。",
-    "example_vi": "Thành phần của sản phẩm này rất tự nhiên."
+    "example_vi": "Thành phần của sản phẩm này rất tự nhiên.",
+    "me": "component"
   },
   {
     "w": "成果",
@@ -467,7 +517,8 @@
     "m": "thành quả",
     "cat": "work",
     "example": "这是他多年努力的成果。",
-    "example_vi": "Đây là thành quả nhiều năm nỗ lực của anh ấy."
+    "example_vi": "Đây là thành quả nhiều năm nỗ lực của anh ấy.",
+    "me": "achievement, result"
   },
   {
     "w": "成就",
@@ -475,7 +526,8 @@
     "m": "thành tựu",
     "cat": "work",
     "example": "他取得了很大的成就。",
-    "example_vi": "Anh ấy đã đạt được thành tựu to lớn."
+    "example_vi": "Anh ấy đã đạt được thành tựu to lớn.",
+    "me": "achievement"
   },
   {
     "w": "成立",
@@ -483,7 +535,8 @@
     "m": "thành lập",
     "cat": "business",
     "example": "这家公司成立于十年前。",
-    "example_vi": "Công ty này được thành lập cách đây mười năm."
+    "example_vi": "Công ty này được thành lập cách đây mười năm.",
+    "me": "establish"
   },
   {
     "w": "成熟",
@@ -497,13 +550,15 @@
     "m": "thành ngữ",
     "cat": "language",
     "example": "他会用很多成语。",
-    "example_vi": "Anh ấy biết dùng rất nhiều thành ngữ."
+    "example_vi": "Anh ấy biết dùng rất nhiều thành ngữ.",
+    "me": "idiom"
   },
   {
     "w": "成长",
     "p": "chéng zhǎng",
     "m": "trưởng thành, lớn lên",
-    "cat": "education"
+    "cat": "education",
+    "me": "grow up"
   },
   {
     "w": "诚恳",
@@ -511,7 +566,8 @@
     "m": "chân thành",
     "cat": "psychology",
     "example": "他态度很诚恳。",
-    "example_vi": "Thái độ của anh ấy rất chân thành."
+    "example_vi": "Thái độ của anh ấy rất chân thành.",
+    "me": "sincere"
   },
   {
     "w": "承担",
@@ -519,13 +575,15 @@
     "m": "gánh vác, đảm đương",
     "cat": "work",
     "example": "他愿意承担责任。",
-    "example_vi": "Anh ấy sẵn lòng gánh vác trách nhiệm."
+    "example_vi": "Anh ấy sẵn lòng gánh vác trách nhiệm.",
+    "me": "shoulder, take on"
   },
   {
     "w": "承认",
     "p": "chéng rèn",
     "m": "thừa nhận",
-    "cat": "society"
+    "cat": "society",
+    "me": "admit"
   },
   {
     "w": "承受",
@@ -533,7 +591,8 @@
     "m": "chịu đựng",
     "cat": "psychology",
     "example": "他承受着很大的压力。",
-    "example_vi": "Anh ấy đang chịu đựng áp lực rất lớn."
+    "example_vi": "Anh ấy đang chịu đựng áp lực rất lớn.",
+    "me": "put up with"
   },
   {
     "w": "程度",
@@ -547,7 +606,8 @@
     "w": "程序",
     "p": "chéng xù",
     "m": "chương trình, quy trình, thủ tục",
-    "cat": "tech"
+    "cat": "tech",
+    "me": "program, process, procedure"
   },
   {
     "w": "吃亏",
@@ -555,7 +615,8 @@
     "m": "chịu thiệt",
     "cat": "society",
     "example": "老实人有时会吃亏。",
-    "example_vi": "Người thật thà đôi khi sẽ chịu thiệt."
+    "example_vi": "Người thật thà đôi khi sẽ chịu thiệt.",
+    "me": "suffer a loss"
   },
   {
     "w": "迟早",
@@ -563,7 +624,8 @@
     "m": "sớm muộn",
     "cat": "time",
     "example": "这件事迟早会被发现。",
-    "example_vi": "Việc này sớm muộn cũng sẽ bị phát hiện."
+    "example_vi": "Việc này sớm muộn cũng sẽ bị phát hiện.",
+    "me": "sooner or later"
   },
   {
     "w": "持续",
@@ -585,7 +647,8 @@
     "m": "tràn đầy",
     "cat": "emotion",
     "example": "她的话语充满了希望。",
-    "example_vi": "Lời nói của cô ấy tràn đầy hy vọng."
+    "example_vi": "Lời nói của cô ấy tràn đầy hy vọng.",
+    "me": "overflowing, full"
   },
   {
     "w": "重复",
@@ -593,7 +656,8 @@
     "m": "lặp lại",
     "cat": "work",
     "example": "请不要重复同样的错误。",
-    "example_vi": "Xin đừng lặp lại cùng một lỗi sai."
+    "example_vi": "Xin đừng lặp lại cùng một lỗi sai.",
+    "me": "repeat"
   },
   {
     "w": "宠物",
@@ -601,7 +665,8 @@
     "m": "thú cưng",
     "cat": "home",
     "example": "她养了一只宠物狗。",
-    "example_vi": "Cô ấy nuôi một con chó cưng."
+    "example_vi": "Cô ấy nuôi một con chó cưng.",
+    "me": "pet"
   },
   {
     "w": "抽象",
@@ -609,7 +674,8 @@
     "m": "trừu tượng",
     "cat": "academic",
     "example": "这个概念比较抽象。",
-    "example_vi": "Khái niệm này tương đối trừu tượng."
+    "example_vi": "Khái niệm này tương đối trừu tượng.",
+    "me": "abstract"
   },
   {
     "w": "出版",
@@ -617,13 +683,15 @@
     "m": "xuất bản",
     "cat": "culture",
     "example": "这本书即将出版。",
-    "example_vi": "Cuốn sách này sắp được xuất bản."
+    "example_vi": "Cuốn sách này sắp được xuất bản.",
+    "me": "publish"
   },
   {
     "w": "出口",
     "p": "chū kǒu",
     "m": "xuất khẩu, lối ra",
-    "cat": "economics"
+    "cat": "economics",
+    "me": "export; exit"
   },
   {
     "w": "出色",
@@ -631,7 +699,8 @@
     "m": "xuất sắc",
     "cat": "work",
     "example": "他表现得非常出色。",
-    "example_vi": "Anh ấy thể hiện rất xuất sắc."
+    "example_vi": "Anh ấy thể hiện rất xuất sắc.",
+    "me": "outstanding"
   },
   {
     "w": "出席",
@@ -639,7 +708,8 @@
     "m": "tham dự, có mặt",
     "cat": "work",
     "example": "他出席了这次会议。",
-    "example_vi": "Anh ấy đã tham dự cuộc họp lần này."
+    "example_vi": "Anh ấy đã tham dự cuộc họp lần này.",
+    "me": "to attend, be present"
   },
   {
     "w": "除夕",
@@ -647,7 +717,8 @@
     "m": "đêm giao thừa",
     "cat": "culture",
     "example": "除夕夜全家团聚。",
-    "example_vi": "Đêm giao thừa cả nhà đoàn tụ."
+    "example_vi": "Đêm giao thừa cả nhà đoàn tụ.",
+    "me": "New Year's Eve"
   },
   {
     "w": "处理",
@@ -667,7 +738,8 @@
     "m": "lây nhiễm",
     "cat": "medicine",
     "example": "这种病会传染。",
-    "example_vi": "Loại bệnh này có thể lây nhiễm."
+    "example_vi": "Loại bệnh này có thể lây nhiễm.",
+    "me": "infect"
   },
   {
     "w": "传说",
@@ -675,19 +747,22 @@
     "m": "truyền thuyết",
     "cat": "culture",
     "example": "这个地方有很多传说。",
-    "example_vi": "Nơi này có rất nhiều truyền thuyết."
+    "example_vi": "Nơi này có rất nhiều truyền thuyết.",
+    "me": "legend"
   },
   {
     "w": "传统",
     "p": "chuán tǒng",
     "m": "truyền thống",
-    "cat": "culture"
+    "cat": "culture",
+    "me": "traditional"
   },
   {
     "w": "创业",
     "p": "chuàng yè",
     "m": "khởi nghiệp",
-    "cat": "business"
+    "cat": "business",
+    "me": "start a business"
   },
   {
     "w": "创造",
@@ -695,13 +770,15 @@
     "m": "sáng tạo",
     "cat": "work",
     "example": "他创造了一个新纪录。",
-    "example_vi": "Anh ấy đã tạo ra một kỷ lục mới."
+    "example_vi": "Anh ấy đã tạo ra một kỷ lục mới.",
+    "me": "creative"
   },
   {
     "w": "词汇",
     "p": "cí huì",
     "m": "từ vựng",
-    "cat": "language"
+    "cat": "language",
+    "me": "vocabulary"
   },
   {
     "w": "辞职",
@@ -709,13 +786,15 @@
     "m": "từ chức, nghỉ việc",
     "cat": "work",
     "example": "他决定辞职。",
-    "example_vi": "Anh ấy quyết định từ chức."
+    "example_vi": "Anh ấy quyết định từ chức.",
+    "me": "resign, quit"
   },
   {
     "w": "此外",
     "p": "cǐ wài",
     "m": "ngoài ra",
-    "cat": "language"
+    "cat": "language",
+    "me": "in addition"
   },
   {
     "w": "刺激",
@@ -729,7 +808,8 @@
     "w": "匆忙",
     "p": "cōng máng",
     "m": "vội vàng",
-    "cat": "time"
+    "cat": "time",
+    "me": "hasty"
   },
   {
     "w": "从此",
@@ -737,13 +817,15 @@
     "m": "từ đó trở đi",
     "cat": "time",
     "example": "从此以后，他更加努力了。",
-    "example_vi": "Từ đó trở đi, anh ấy càng nỗ lực hơn."
+    "example_vi": "Từ đó trở đi, anh ấy càng nỗ lực hơn.",
+    "me": "from then on"
   },
   {
     "w": "从而",
     "p": "cóng ér",
     "m": "từ đó, do đó, nhờ đó, bởi vậy",
-    "cat": "language"
+    "cat": "language",
+    "me": "from then, therefore, thereby"
   },
   {
     "w": "从事",
@@ -751,7 +833,8 @@
     "m": "làm nghề, theo đuổi",
     "cat": "work",
     "example": "他从事教育工作。",
-    "example_vi": "Anh ấy làm công việc giáo dục."
+    "example_vi": "Anh ấy làm công việc giáo dục.",
+    "me": "pursue as a profession"
   },
   {
     "w": "粗糙",
@@ -759,7 +842,8 @@
     "m": "thô ráp, sơ sài",
     "cat": "art",
     "example": "这个产品做工很粗糙。",
-    "example_vi": "Sản phẩm này gia công rất thô ráp."
+    "example_vi": "Sản phẩm này gia công rất thô ráp.",
+    "me": "rough, crude"
   },
   {
     "w": "促进",
@@ -773,19 +857,22 @@
     "m": "thôi thúc, khiến cho",
     "cat": "academic",
     "example": "这个消息促使他做出决定。",
-    "example_vi": "Tin tức này đã thôi thúc anh ấy đưa ra quyết định."
+    "example_vi": "Tin tức này đã thôi thúc anh ấy đưa ra quyết định.",
+    "me": "urge, cause"
   },
   {
     "w": "措施",
     "p": "cuò shī",
     "m": "biện pháp",
-    "cat": "society"
+    "cat": "society",
+    "me": "measure"
   },
   {
     "w": "存在",
     "p": "cún zài",
     "m": "tồn tại",
-    "cat": "academic"
+    "cat": "academic",
+    "me": "exist"
   },
   {
     "w": "达到",
@@ -799,7 +886,8 @@
     "m": "làm thuê, làm thêm",
     "cat": "work",
     "example": "他暑假去打工了。",
-    "example_vi": "Anh ấy đi làm thêm vào kỳ nghỉ hè."
+    "example_vi": "Anh ấy đi làm thêm vào kỳ nghỉ hè.",
+    "me": "work for hire, take a side job"
   },
   {
     "w": "打交道",
@@ -807,7 +895,8 @@
     "m": "giao thiệp, làm việc với",
     "cat": "society",
     "example": "他经常和外国人打交道。",
-    "example_vi": "Anh ấy thường xuyên giao thiệp với người nước ngoài."
+    "example_vi": "Anh ấy thường xuyên giao thiệp với người nước ngoài.",
+    "me": "interact with, deal with"
   },
   {
     "w": "打听",
@@ -815,7 +904,8 @@
     "m": "nghe ngóng, hỏi thăm",
     "cat": "society",
     "example": "她向邻居打听消息。",
-    "example_vi": "Cô ấy hỏi thăm tin tức từ hàng xóm."
+    "example_vi": "Cô ấy hỏi thăm tin tức từ hàng xóm.",
+    "me": "listen out for news, make inquiries"
   },
   {
     "w": "大方",
@@ -827,19 +917,22 @@
     "w": "大厦",
     "p": "dà shà",
     "m": "tòa nhà cao tầng",
-    "cat": "place"
+    "cat": "place",
+    "me": "high-rise building"
   },
   {
     "w": "大型",
     "p": "dà xíng",
     "m": "cỡ lớn, quy mô lớn",
-    "cat": "business"
+    "cat": "business",
+    "me": "large-scale"
   },
   {
     "w": "代表",
     "p": "dài biǎo",
     "m": "đại biểu, đại diện",
-    "cat": "politics"
+    "cat": "politics",
+    "me": "delegate, representative"
   },
   {
     "w": "代替",
@@ -847,13 +940,15 @@
     "m": "thay thế",
     "cat": "work",
     "example": "没有人能代替他的位置。",
-    "example_vi": "Không ai có thể thay thế vị trí của anh ấy."
+    "example_vi": "Không ai có thể thay thế vị trí của anh ấy.",
+    "me": "replace"
   },
   {
     "w": "贷款",
     "p": "dài kuǎn",
     "m": "cho vay, khoản vay, vay vốn, vay tiền",
-    "cat": "money"
+    "cat": "money",
+    "me": "lend, loan, borrow capital, borrow money"
   },
   {
     "w": "待遇",
@@ -861,7 +956,8 @@
     "m": "đãi ngộ",
     "cat": "work",
     "example": "这份工作待遇不错。",
-    "example_vi": "Công việc này có đãi ngộ khá tốt."
+    "example_vi": "Công việc này có đãi ngộ khá tốt.",
+    "me": "treatment, benefits"
   },
   {
     "w": "担任",
@@ -869,7 +965,8 @@
     "m": "đảm nhiệm",
     "cat": "work",
     "example": "他担任公司经理。",
-    "example_vi": "Anh ấy đảm nhiệm chức giám đốc công ty."
+    "example_vi": "Anh ấy đảm nhiệm chức giám đốc công ty.",
+    "me": "assume (a role/responsibility)"
   },
   {
     "w": "单纯",
@@ -877,7 +974,8 @@
     "m": "đơn thuần, ngây thơ",
     "cat": "psychology",
     "example": "她的想法很单纯。",
-    "example_vi": "Suy nghĩ của cô ấy rất đơn thuần."
+    "example_vi": "Suy nghĩ của cô ấy rất đơn thuần.",
+    "me": "simple, naive"
   },
   {
     "w": "单调",
@@ -885,13 +983,15 @@
     "m": "đơn điệu",
     "cat": "art",
     "example": "这种生活有点单调。",
-    "example_vi": "Cuộc sống như thế này hơi đơn điệu."
+    "example_vi": "Cuộc sống như thế này hơi đơn điệu.",
+    "me": "monotonous"
   },
   {
     "w": "单独",
     "p": "dān dú",
     "m": "một mình, riêng lẻ",
-    "cat": "society"
+    "cat": "society",
+    "me": "alone, individually"
   },
   {
     "w": "单位",
@@ -899,7 +999,8 @@
     "m": "đơn vị, cơ quan",
     "cat": "work",
     "example": "他在国家单位工作。",
-    "example_vi": "Anh ấy làm việc ở cơ quan nhà nước."
+    "example_vi": "Anh ấy làm việc ở cơ quan nhà nước.",
+    "me": "unit, organization"
   },
   {
     "w": "耽误",
@@ -907,7 +1008,8 @@
     "m": "làm lỡ, làm chậm trễ",
     "cat": "time",
     "example": "堵车耽误了他的时间。",
-    "example_vi": "Kẹt xe đã làm lỡ thời gian của anh ấy."
+    "example_vi": "Kẹt xe đã làm lỡ thời gian của anh ấy.",
+    "me": "cause to miss, delay"
   },
   {
     "w": "当地",
@@ -915,7 +1017,8 @@
     "m": "địa phương, bản địa",
     "cat": "place",
     "example": "我们尝了当地的特色美食。",
-    "example_vi": "Chúng tôi đã nếm thử món ăn đặc sản địa phương."
+    "example_vi": "Chúng tôi đã nếm thử món ăn đặc sản địa phương.",
+    "me": "local, indigenous"
   },
   {
     "w": "当心",
@@ -923,19 +1026,22 @@
     "m": "coi chừng, cẩn thận",
     "cat": "language",
     "example": "过马路时要当心。",
-    "example_vi": "Khi qua đường phải coi chừng."
+    "example_vi": "Khi qua đường phải coi chừng.",
+    "me": "look out"
   },
   {
     "w": "导演",
     "p": "dǎo yǎn",
     "m": "đạo diễn",
-    "cat": "art"
+    "cat": "art",
+    "me": "director"
   },
   {
     "w": "导致",
     "p": "dǎo zhì",
     "m": "dẫn đến, gây ra",
-    "cat": "academic"
+    "cat": "academic",
+    "me": "give rise to"
   },
   {
     "w": "岛屿",
@@ -947,19 +1053,22 @@
     "w": "倒霉",
     "p": "dǎo méi",
     "m": "xui xẻo, đen đủi",
-    "cat": "emotion"
+    "cat": "emotion",
+    "me": "unlucky"
   },
   {
     "w": "到达",
     "p": "dào dá",
     "m": "đến nơi",
-    "cat": "travel"
+    "cat": "travel",
+    "me": "arrive"
   },
   {
     "w": "道德",
     "p": "dào dé",
     "m": "đạo đức",
-    "cat": "society"
+    "cat": "society",
+    "me": "ethical"
   },
   {
     "w": "道理",
@@ -967,19 +1076,22 @@
     "m": "đạo lý, lẽ phải",
     "cat": "academic",
     "example": "他说的话很有道理。",
-    "example_vi": "Lời anh ấy nói rất có đạo lý."
+    "example_vi": "Lời anh ấy nói rất có đạo lý.",
+    "me": "moral principle, reason"
   },
   {
     "w": "登记",
     "p": "dēng jì",
     "m": "đăng ký",
-    "cat": "work"
+    "cat": "work",
+    "me": "register"
   },
   {
     "w": "等待",
     "p": "děng dài",
     "m": "chờ đợi",
-    "cat": "time"
+    "cat": "time",
+    "me": "wait"
   },
   {
     "w": "的确",
@@ -987,7 +1099,8 @@
     "m": "quả thật, đích thực",
     "cat": "language",
     "example": "这个方法的确有效。",
-    "example_vi": "Phương pháp này quả thật có hiệu quả."
+    "example_vi": "Phương pháp này quả thật có hiệu quả.",
+    "me": "indeed, truly"
   },
   {
     "w": "敌人",
@@ -995,13 +1108,15 @@
     "m": "kẻ thù, kẻ địch",
     "cat": "politics",
     "example": "他们打败了敌人。",
-    "example_vi": "Họ đã đánh bại kẻ thù."
+    "example_vi": "Họ đã đánh bại kẻ thù.",
+    "me": "enemy, foe"
   },
   {
     "w": "地道",
     "p": "dì dao",
     "m": "chính gốc, chuẩn",
-    "cat": "language"
+    "cat": "language",
+    "me": "authentic, genuine"
   },
   {
     "w": "地理",
@@ -1009,7 +1124,8 @@
     "m": "địa lý",
     "cat": "academic",
     "example": "她对地理很感兴趣。",
-    "example_vi": "Cô ấy rất hứng thú với môn địa lý."
+    "example_vi": "Cô ấy rất hứng thú với môn địa lý.",
+    "me": "geography"
   },
   {
     "w": "地区",
@@ -1017,7 +1133,8 @@
     "m": "khu vực",
     "cat": "place",
     "example": "这个地区经济发达。",
-    "example_vi": "Khu vực này kinh tế phát triển."
+    "example_vi": "Khu vực này kinh tế phát triển.",
+    "me": "region, area"
   },
   {
     "w": "地毯",
@@ -1025,7 +1142,8 @@
     "m": "thảm trải sàn",
     "cat": "home",
     "example": "客厅铺着一块地毯。",
-    "example_vi": "Phòng khách trải một tấm thảm."
+    "example_vi": "Phòng khách trải một tấm thảm.",
+    "me": "carpet"
   },
   {
     "w": "地位",
@@ -1033,13 +1151,15 @@
     "m": "địa vị",
     "cat": "society",
     "example": "他在公司地位很高。",
-    "example_vi": "Địa vị của anh ấy trong công ty rất cao."
+    "example_vi": "Địa vị của anh ấy trong công ty rất cao.",
+    "me": "status"
   },
   {
     "w": "地震",
     "p": "dì zhèn",
     "m": "động đất",
-    "cat": "nature"
+    "cat": "nature",
+    "me": "earthquake"
   },
   {
     "w": "电池",
@@ -1047,7 +1167,8 @@
     "m": "pin",
     "cat": "tech",
     "example": "手机没电池了。",
-    "example_vi": "Điện thoại hết pin rồi."
+    "example_vi": "Điện thoại hết pin rồi.",
+    "me": "battery"
   },
   {
     "w": "电台",
@@ -1055,7 +1176,8 @@
     "m": "đài phát thanh",
     "cat": "society",
     "example": "她在电台工作。",
-    "example_vi": "Cô ấy làm việc tại đài phát thanh."
+    "example_vi": "Cô ấy làm việc tại đài phát thanh.",
+    "me": "radio station"
   },
   {
     "w": "动画片",
@@ -1063,13 +1185,15 @@
     "m": "phim hoạt hình",
     "cat": "art",
     "example": "孩子们喜欢看动画片。",
-    "example_vi": "Trẻ em thích xem phim hoạt hình."
+    "example_vi": "Trẻ em thích xem phim hoạt hình.",
+    "me": "cartoon"
   },
   {
     "w": "独立",
     "p": "dú lì",
     "m": "độc lập",
-    "cat": "society"
+    "cat": "society",
+    "me": "independent"
   },
   {
     "w": "独特",
@@ -1085,7 +1209,8 @@
     "m": "trải qua (thời gian)",
     "cat": "time",
     "example": "他们一起度过了愉快的假期。",
-    "example_vi": "Họ đã cùng nhau trải qua kỳ nghỉ vui vẻ."
+    "example_vi": "Họ đã cùng nhau trải qua kỳ nghỉ vui vẻ.",
+    "me": "go through, experience (time passing)"
   },
   {
     "w": "对比",
@@ -1093,7 +1218,8 @@
     "m": "đối chiếu, so sánh",
     "cat": "academic",
     "example": "请对比一下这两个方案。",
-    "example_vi": "Xin hãy đối chiếu hai phương án này."
+    "example_vi": "Xin hãy đối chiếu hai phương án này.",
+    "me": "cross-check, compare"
   },
   {
     "w": "对待",
@@ -1101,7 +1227,8 @@
     "m": "đối đãi, đối xử",
     "cat": "society",
     "example": "他对待朋友很真诚。",
-    "example_vi": "Anh ấy đối đãi với bạn bè rất chân thành."
+    "example_vi": "Anh ấy đối đãi với bạn bè rất chân thành.",
+    "me": "treat, deal with"
   },
   {
     "w": "对方",
@@ -1109,7 +1236,8 @@
     "m": "đối phương, bên kia",
     "cat": "society",
     "example": "请尊重对方的意见。",
-    "example_vi": "Xin hãy tôn trọng ý kiến của đối phương."
+    "example_vi": "Xin hãy tôn trọng ý kiến của đối phương.",
+    "me": "the opponent, the other side"
   },
   {
     "w": "对手",
@@ -1117,7 +1245,8 @@
     "m": "đối thủ",
     "cat": "sport",
     "example": "他是一个强劲的对手。",
-    "example_vi": "Anh ấy là một đối thủ mạnh."
+    "example_vi": "Anh ấy là một đối thủ mạnh.",
+    "me": "opponent"
   },
   {
     "w": "对象",
@@ -1125,7 +1254,8 @@
     "m": "đối tượng; người yêu",
     "cat": "society",
     "example": "这次调查的对象是大学生。",
-    "example_vi": "Đối tượng khảo sát lần này là sinh viên đại học."
+    "example_vi": "Đối tượng khảo sát lần này là sinh viên đại học.",
+    "me": "target; sweetheart"
   },
   {
     "w": "兑换",
@@ -1133,7 +1263,8 @@
     "m": "quy đổi (tiền tệ)",
     "cat": "money",
     "example": "他去银行兑换外币。",
-    "example_vi": "Anh ấy đến ngân hàng để đổi ngoại tệ."
+    "example_vi": "Anh ấy đến ngân hàng để đổi ngoại tệ.",
+    "me": "convert (currency)"
   },
   {
     "w": "多余",
@@ -1141,7 +1272,8 @@
     "m": "dư thừa",
     "cat": "work",
     "example": "这些话都是多余的。",
-    "example_vi": "Những lời này đều là dư thừa."
+    "example_vi": "Những lời này đều là dư thừa.",
+    "me": "excess"
   },
   {
     "w": "躲藏",
@@ -1149,7 +1281,8 @@
     "m": "ẩn nấp, lẩn trốn",
     "cat": "society",
     "example": "孩子们在躲藏起来玩游戏。",
-    "example_vi": "Bọn trẻ đang trốn để chơi trò chơi."
+    "example_vi": "Bọn trẻ đang trốn để chơi trò chơi.",
+    "me": "hide, take cover"
   },
   {
     "w": "恶劣",
@@ -1157,7 +1290,8 @@
     "m": "tồi tệ, khắc nghiệt",
     "cat": "environment",
     "example": "今天天气恶劣。",
-    "example_vi": "Hôm nay thời tiết rất tồi tệ."
+    "example_vi": "Hôm nay thời tiết rất tồi tệ.",
+    "me": "terrible, harsh"
   },
   {
     "w": "发表",
@@ -1165,7 +1299,8 @@
     "m": "công bố, phát biểu",
     "cat": "academic",
     "example": "他发表了一篇论文。",
-    "example_vi": "Anh ấy đã công bố một bài luận văn."
+    "example_vi": "Anh ấy đã công bố một bài luận văn.",
+    "me": "announce, state"
   },
   {
     "w": "发愁",
@@ -1173,7 +1308,8 @@
     "m": "lo buồn, rầu rĩ",
     "cat": "emotion",
     "example": "她为孩子的教育发愁。",
-    "example_vi": "Cô ấy lo buồn về việc giáo dục con cái."
+    "example_vi": "Cô ấy lo buồn về việc giáo dục con cái.",
+    "me": "worried, gloomy"
   },
   {
     "w": "发达",
@@ -1181,7 +1317,8 @@
     "m": "phát triển, phát đạt",
     "cat": "economics",
     "example": "这个国家科技很发达。",
-    "example_vi": "Khoa học kỹ thuật của nước này rất phát triển."
+    "example_vi": "Khoa học kỹ thuật của nước này rất phát triển.",
+    "me": "develop, prosper"
   },
   {
     "w": "发抖",
@@ -1189,7 +1326,8 @@
     "m": "run rẩy",
     "cat": "health",
     "example": "他冷得发抖。",
-    "example_vi": "Anh ấy lạnh run rẩy."
+    "example_vi": "Anh ấy lạnh run rẩy.",
+    "me": "tremble"
   },
   {
     "w": "发挥",
@@ -1197,7 +1335,8 @@
     "m": "phát huy",
     "cat": "work",
     "example": "他在比赛中发挥出色。",
-    "example_vi": "Anh ấy đã phát huy xuất sắc trong trận đấu."
+    "example_vi": "Anh ấy đã phát huy xuất sắc trong trận đấu.",
+    "me": "promote, bring into full play"
   },
   {
     "w": "发明",
@@ -1205,7 +1344,8 @@
     "m": "phát minh",
     "cat": "science",
     "example": "他发明了一种新工具。",
-    "example_vi": "Anh ấy đã phát minh ra một công cụ mới."
+    "example_vi": "Anh ấy đã phát minh ra một công cụ mới.",
+    "me": "invention"
   },
   {
     "w": "发票",
@@ -1213,7 +1353,8 @@
     "m": "hóa đơn",
     "cat": "money",
     "example": "请给我开一张发票。",
-    "example_vi": "Xin hãy xuất cho tôi một hóa đơn."
+    "example_vi": "Xin hãy xuất cho tôi một hóa đơn.",
+    "me": "invoice"
   },
   {
     "w": "发言",
@@ -1221,7 +1362,8 @@
     "m": "phát biểu ý kiến",
     "cat": "work",
     "example": "他第一个发言。",
-    "example_vi": "Anh ấy là người đầu tiên phát biểu ý kiến."
+    "example_vi": "Anh ấy là người đầu tiên phát biểu ý kiến.",
+    "me": "voice an opinion"
   },
   {
     "w": "罚款",
@@ -1229,7 +1371,8 @@
     "m": "phạt tiền",
     "cat": "law",
     "example": "违章停车要罚款。",
-    "example_vi": "Đỗ xe sai quy định sẽ bị phạt tiền."
+    "example_vi": "Đỗ xe sai quy định sẽ bị phạt tiền.",
+    "me": "fine (monetary penalty)"
   },
   {
     "w": "法院",
@@ -1237,7 +1380,8 @@
     "m": "tòa án",
     "cat": "law",
     "example": "这个案子已经交给法院处理。",
-    "example_vi": "Vụ án này đã được giao cho tòa án xử lý."
+    "example_vi": "Vụ án này đã được giao cho tòa án xử lý.",
+    "me": "court"
   },
   {
     "w": "繁荣",
@@ -1245,13 +1389,15 @@
     "m": "phồn vinh, thịnh vượng",
     "cat": "economics",
     "example": "这座城市非常繁荣。",
-    "example_vi": "Thành phố này vô cùng phồn vinh."
+    "example_vi": "Thành phố này vô cùng phồn vinh.",
+    "me": "prosperous, flourishing"
   },
   {
     "w": "反而",
     "p": "fǎn ér",
     "m": "trái lại, ngược lại",
-    "cat": "language"
+    "cat": "language",
+    "me": "on the contrary"
   },
   {
     "w": "反复",
@@ -1259,7 +1405,8 @@
     "m": "lặp đi lặp lại",
     "cat": "time",
     "example": "他反复检查了文件。",
-    "example_vi": "Anh ấy đã kiểm tra tài liệu đi kiểm tra lại nhiều lần."
+    "example_vi": "Anh ấy đã kiểm tra tài liệu đi kiểm tra lại nhiều lần.",
+    "me": "repeatedly"
   },
   {
     "w": "反应",
@@ -1267,13 +1414,15 @@
     "m": "phản ứng",
     "cat": "science",
     "example": "她的反应很快。",
-    "example_vi": "Phản ứng của cô ấy rất nhanh."
+    "example_vi": "Phản ứng của cô ấy rất nhanh.",
+    "me": "reaction"
   },
   {
     "w": "反映",
     "p": "fǎn yìng",
     "m": "phản ánh",
-    "cat": "society"
+    "cat": "society",
+    "me": "reflect, report"
   },
   {
     "w": "范围",
@@ -1291,7 +1440,8 @@
     "w": "方式",
     "p": "fāng shì",
     "m": "phương thức, cách thức",
-    "cat": "work"
+    "cat": "work",
+    "me": "method, way"
   },
   {
     "w": "妨碍",
@@ -1299,7 +1449,8 @@
     "m": "cản trở",
     "cat": "society",
     "example": "噪音妨碍了他的休息。",
-    "example_vi": "Tiếng ồn đã cản trở việc nghỉ ngơi của anh ấy."
+    "example_vi": "Tiếng ồn đã cản trở việc nghỉ ngơi của anh ấy.",
+    "me": "hinder"
   },
   {
     "w": "仿佛",
@@ -1307,7 +1458,8 @@
     "m": "dường như, tựa hồ",
     "cat": "language",
     "example": "她仿佛看到了希望。",
-    "example_vi": "Cô ấy dường như đã nhìn thấy hy vọng."
+    "example_vi": "Cô ấy dường như đã nhìn thấy hy vọng.",
+    "me": "it seems, as if"
   },
   {
     "w": "非法",
@@ -1315,13 +1467,15 @@
     "m": "phi pháp, bất hợp pháp",
     "cat": "law",
     "example": "这是非法交易。",
-    "example_vi": "Đây là giao dịch phi pháp."
+    "example_vi": "Đây là giao dịch phi pháp.",
+    "me": "illegal, unlawful"
   },
   {
     "w": "肥皂",
     "p": "féi zào",
     "m": "xà phòng",
-    "cat": "home"
+    "cat": "home",
+    "me": "soap"
   },
   {
     "w": "废话",
@@ -1329,13 +1483,15 @@
     "m": "lời thừa, nói nhảm",
     "cat": "language",
     "example": "别说废话，赶紧行动。",
-    "example_vi": "Đừng nói lời thừa nữa, mau hành động đi."
+    "example_vi": "Đừng nói lời thừa nữa, mau hành động đi.",
+    "me": "superfluous words, nonsense talk"
   },
   {
     "w": "分别",
     "p": "fēn bié",
     "m": "lần lượt, riêng biệt, chia tay",
-    "cat": "language"
+    "cat": "language",
+    "me": "one by one, separately, part ways"
   },
   {
     "w": "分布",
@@ -1343,19 +1499,22 @@
     "m": "phân bố",
     "cat": "academic",
     "example": "人口分布不均。",
-    "example_vi": "Dân số phân bố không đều."
+    "example_vi": "Dân số phân bố không đều.",
+    "me": "distribution"
   },
   {
     "w": "分配",
     "p": "fēn pèi",
     "m": "phân phối, phân công",
-    "cat": "work"
+    "cat": "work",
+    "me": "distribute, assign"
   },
   {
     "w": "分析",
     "p": "fēn xī",
     "m": "phân tích",
-    "cat": "academic"
+    "cat": "academic",
+    "me": "analyze"
   },
   {
     "w": "纷纷",
@@ -1363,7 +1522,8 @@
     "m": "tới tấp, lũ lượt",
     "cat": "language",
     "example": "大家纷纷发表意见。",
-    "example_vi": "Mọi người tới tấp phát biểu ý kiến."
+    "example_vi": "Mọi người tới tấp phát biểu ý kiến.",
+    "me": "in a rush, in droves"
   },
   {
     "w": "奋斗",
@@ -1371,13 +1531,15 @@
     "m": "phấn đấu",
     "cat": "work",
     "example": "他为梦想努力奋斗。",
-    "example_vi": "Anh ấy nỗ lực phấn đấu vì ước mơ."
+    "example_vi": "Anh ấy nỗ lực phấn đấu vì ước mơ.",
+    "me": "to strive"
   },
   {
     "w": "风格",
     "p": "fēng gé",
     "m": "phong cách",
-    "cat": "art"
+    "cat": "art",
+    "me": "style"
   },
   {
     "w": "风俗",
@@ -1389,7 +1551,8 @@
     "w": "风险",
     "p": "fēng xiǎn",
     "m": "rủi ro",
-    "cat": "economics"
+    "cat": "economics",
+    "me": "risk"
   },
   {
     "w": "疯狂",
@@ -1397,7 +1560,8 @@
     "m": "điên cuồng",
     "cat": "psychology",
     "example": "粉丝们疯狂地欢呼。",
-    "example_vi": "Người hâm mộ hò reo điên cuồng."
+    "example_vi": "Người hâm mộ hò reo điên cuồng.",
+    "me": "frenzied, crazed"
   },
   {
     "w": "讽刺",
@@ -1405,7 +1569,8 @@
     "m": "châm biếm, mỉa mai",
     "cat": "language",
     "example": "这部作品充满了讽刺意味。",
-    "example_vi": "Tác phẩm này đầy tính châm biếm."
+    "example_vi": "Tác phẩm này đầy tính châm biếm.",
+    "me": "satirize, mock"
   },
   {
     "w": "否定",
@@ -1419,7 +1584,8 @@
     "w": "否认",
     "p": "fǒu rèn",
     "m": "phủ nhận",
-    "cat": "society"
+    "cat": "society",
+    "me": "deny"
   },
   {
     "w": "服装",
@@ -1427,13 +1593,15 @@
     "m": "trang phục",
     "cat": "culture",
     "example": "她喜欢这种风格的服装。",
-    "example_vi": "Cô ấy thích trang phục theo phong cách này."
+    "example_vi": "Cô ấy thích trang phục theo phong cách này.",
+    "me": "attire"
   },
   {
     "w": "福利",
     "p": "fú lì",
     "m": "phúc lợi",
-    "cat": "work"
+    "cat": "work",
+    "me": "welfare"
   },
   {
     "w": "辅导",
@@ -1441,7 +1609,8 @@
     "m": "phụ đạo, kèm cặp",
     "cat": "education",
     "example": "老师课后给他辅导。",
-    "example_vi": "Thầy giáo phụ đạo thêm cho cậu ấy sau giờ học."
+    "example_vi": "Thầy giáo phụ đạo thêm cho cậu ấy sau giờ học.",
+    "me": "tutor, coach"
   },
   {
     "w": "妇女",
@@ -1449,7 +1618,8 @@
     "m": "phụ nữ",
     "cat": "society",
     "example": "今天是国际妇女节。",
-    "example_vi": "Hôm nay là ngày Quốc tế Phụ nữ."
+    "example_vi": "Hôm nay là ngày Quốc tế Phụ nữ.",
+    "me": "woman"
   },
   {
     "w": "复制",
@@ -1457,13 +1627,15 @@
     "m": "sao chép",
     "cat": "tech",
     "example": "请复制这段文字。",
-    "example_vi": "Xin hãy sao chép đoạn văn này."
+    "example_vi": "Xin hãy sao chép đoạn văn này.",
+    "me": "copy"
   },
   {
     "w": "改革",
     "p": "gǎi gé",
     "m": "cải cách",
-    "cat": "politics"
+    "cat": "politics",
+    "me": "reform"
   },
   {
     "w": "改进",
@@ -1471,13 +1643,15 @@
     "m": "cải tiến",
     "cat": "work",
     "example": "我们需要改进这个流程。",
-    "example_vi": "Chúng ta cần cải tiến quy trình này."
+    "example_vi": "Chúng ta cần cải tiến quy trình này.",
+    "me": "improvement"
   },
   {
     "w": "改善",
     "p": "gǎi shàn",
     "m": "cải thiện",
-    "cat": "society"
+    "cat": "society",
+    "me": "improve"
   },
   {
     "w": "改正",
@@ -1485,7 +1659,8 @@
     "m": "sửa lỗi, sửa chữa",
     "cat": "education",
     "example": "他已经改正了错误。",
-    "example_vi": "Anh ấy đã sửa chữa lỗi sai."
+    "example_vi": "Anh ấy đã sửa chữa lỗi sai.",
+    "me": "correct, fix"
   },
   {
     "w": "概括",
@@ -1493,13 +1668,15 @@
     "m": "khái quát",
     "cat": "academic",
     "example": "请概括一下这篇文章的内容。",
-    "example_vi": "Xin hãy tóm tắt nội dung bài viết này."
+    "example_vi": "Xin hãy tóm tắt nội dung bài viết này.",
+    "me": "generalize"
   },
   {
     "w": "概念",
     "p": "gài niàn",
     "m": "khái niệm",
-    "cat": "academic"
+    "cat": "academic",
+    "me": "concept"
   },
   {
     "w": "干脆",
@@ -1507,7 +1684,8 @@
     "m": "dứt khoát, thẳng thừng",
     "cat": "psychology",
     "example": "他做事很干脆。",
-    "example_vi": "Anh ấy làm việc rất dứt khoát."
+    "example_vi": "Anh ấy làm việc rất dứt khoát.",
+    "me": "decisive, blunt"
   },
   {
     "w": "干燥",
@@ -1515,7 +1693,8 @@
     "m": "khô hanh, khô ráo",
     "cat": "nature",
     "example": "冬天的天气很干燥。",
-    "example_vi": "Thời tiết mùa đông rất khô hanh."
+    "example_vi": "Thời tiết mùa đông rất khô hanh.",
+    "me": "dry, arid"
   },
   {
     "w": "赶紧",
@@ -1523,19 +1702,22 @@
     "m": "mau chóng, gấp rút",
     "cat": "time",
     "example": "赶紧去买票吧。",
-    "example_vi": "Mau chóng đi mua vé đi."
+    "example_vi": "Mau chóng đi mua vé đi.",
+    "me": "quickly, urgently"
   },
   {
     "w": "感激",
     "p": "gǎn jī",
     "m": "biết ơn, cảm kích",
-    "cat": "emotion"
+    "cat": "emotion",
+    "me": "grateful, appreciative"
   },
   {
     "w": "感受",
     "p": "gǎn shòu",
     "m": "cảm nhận",
-    "cat": "emotion"
+    "cat": "emotion",
+    "me": "perception, feeling"
   },
   {
     "w": "感想",
@@ -1543,19 +1725,22 @@
     "m": "cảm nghĩ",
     "cat": "emotion",
     "example": "谈谈你的感想吧。",
-    "example_vi": "Hãy nói về cảm nghĩ của bạn đi."
+    "example_vi": "Hãy nói về cảm nghĩ của bạn đi.",
+    "me": "thoughts, impressions"
   },
   {
     "w": "高档",
     "p": "gāo dàng",
     "m": "cao cấp, hạng sang",
-    "cat": "business"
+    "cat": "business",
+    "me": "high-end, luxury"
   },
   {
     "w": "高级",
     "p": "gāo jí",
     "m": "cao cấp, cấp cao",
-    "cat": "work"
+    "cat": "work",
+    "me": "senior, high-level"
   },
   {
     "w": "告别",
@@ -1569,7 +1754,8 @@
     "m": "đặc biệt, hết sức",
     "cat": "language",
     "example": "今天他格外高兴。",
-    "example_vi": "Hôm nay anh ấy đặc biệt vui vẻ."
+    "example_vi": "Hôm nay anh ấy đặc biệt vui vẻ.",
+    "me": "especially, extremely"
   },
   {
     "w": "个别",
@@ -1577,19 +1763,22 @@
     "m": "cá biệt, riêng lẻ",
     "cat": "language",
     "example": "这只是个别现象。",
-    "example_vi": "Đây chỉ là hiện tượng cá biệt."
+    "example_vi": "Đây chỉ là hiện tượng cá biệt.",
+    "me": "individual, isolated"
   },
   {
     "w": "个性",
     "p": "gè xìng",
     "m": "cá tính",
-    "cat": "psychology"
+    "cat": "psychology",
+    "me": "personality, individuality"
   },
   {
     "w": "各自",
     "p": "gè zì",
     "m": "mỗi người, riêng mình, riêng từng người, mỗi bên, tự mình",
-    "cat": "language"
+    "cat": "language",
+    "me": "each one, individually, on one's own"
   },
   {
     "w": "根本",
@@ -1603,7 +1792,8 @@
     "m": "kỹ sư",
     "cat": "work",
     "example": "他是一名软件工程师。",
-    "example_vi": "Anh ấy là một kỹ sư phần mềm."
+    "example_vi": "Anh ấy là một kỹ sư phần mềm.",
+    "me": "engineer"
   },
   {
     "w": "工业",
@@ -1611,7 +1801,8 @@
     "m": "công nghiệp",
     "cat": "economics",
     "example": "这个城市工业发达。",
-    "example_vi": "Ngành công nghiệp của thành phố này phát triển."
+    "example_vi": "Ngành công nghiệp của thành phố này phát triển.",
+    "me": "industry"
   },
   {
     "w": "公布",
@@ -1619,42 +1810,49 @@
     "m": "công bố",
     "cat": "society",
     "example": "考试成绩已经公布了。",
-    "example_vi": "Kết quả thi đã được công bố."
+    "example_vi": "Kết quả thi đã được công bố.",
+    "me": "announce, publish"
   },
   {
     "w": "公开",
     "p": "gōng kāi",
     "m": "công khai",
-    "cat": "society"
+    "cat": "society",
+    "me": "public, transparent"
   },
   {
     "w": "公平",
     "p": "gōng píng",
     "m": "công bằng",
-    "cat": "society"
+    "cat": "society",
+    "me": "fair"
   },
   {
     "w": "公寓",
     "p": "gōng yù",
     "m": "căn hộ chung cư",
-    "cat": "home"
+    "cat": "home",
+    "me": "apartment unit"
   },
   {
     "w": "功能",
     "p": "gōng néng",
     "m": "chức năng",
-    "cat": "tech"
+    "cat": "tech",
+    "me": "function"
   },
   {
     "w": "贡献",
     "p": "gòng xiàn",
     "m": "đóng góp, cống hiến",
-    "cat": "society"
+    "cat": "society",
+    "me": "contribute, dedicate"
   },
   {
     "w": "沟通",
     "p": "gōu tōng",
     "m": "giao tiếp, trao đổi",
-    "cat": "society"
+    "cat": "society",
+    "me": "communication, exchange"
   }
 ]

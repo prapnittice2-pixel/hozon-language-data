@@ -9,31 +9,36 @@
     "w": "辩证",
     "p": "biàn zhèng",
     "m": "biện chứng",
-    "cat": "academic"
+    "cat": "academic",
+    "me": "dialectical"
   },
   {
     "w": "抽象",
     "p": "chōu xiàng",
     "m": "trừu tượng",
-    "cat": "academic"
+    "cat": "academic",
+    "me": "abstract"
   },
   {
     "w": "具体",
     "p": "jù tǐ",
     "m": "cụ thể",
-    "cat": "academic"
+    "cat": "academic",
+    "me": "specific"
   },
   {
     "w": "概括",
     "p": "gài kuò",
     "m": "khái quát",
-    "cat": "academic"
+    "cat": "academic",
+    "me": "generalize"
   },
   {
     "w": "归纳",
     "p": "guī nà",
     "m": "quy nạp",
-    "cat": "academic"
+    "cat": "academic",
+    "me": "induction (logic)"
   },
   {
     "w": "演绎",
@@ -57,19 +62,22 @@
     "w": "假设",
     "p": "jiǎ shè",
     "m": "giả thuyết",
-    "cat": "academic"
+    "cat": "academic",
+    "me": "hypothesis"
   },
   {
     "w": "前提",
     "p": "qián tí",
     "m": "tiền đề",
-    "cat": "academic"
+    "cat": "academic",
+    "me": "premise"
   },
   {
     "w": "结论",
     "p": "jié lùn",
     "m": "kết luận",
-    "cat": "academic"
+    "cat": "academic",
+    "me": "conclusion"
   },
   {
     "w": "依据",
@@ -87,13 +95,15 @@
     "w": "范畴",
     "p": "fàn chóu",
     "m": "phạm trù",
-    "cat": "academic"
+    "cat": "academic",
+    "me": "category"
   },
   {
     "w": "本质",
     "p": "běn zhì",
     "m": "bản chất",
-    "cat": "academic"
+    "cat": "academic",
+    "me": "essence, nature"
   },
   {
     "w": "内涵",
@@ -111,7 +121,8 @@
     "w": "实质",
     "p": "shí zhì",
     "m": "thực chất",
-    "cat": "academic"
+    "cat": "academic",
+    "me": "substance, essence"
   },
   {
     "w": "要素",
@@ -119,13 +130,15 @@
     "m": "yếu tố",
     "cat": "academic",
     "example": "资金是创业的关键要素。",
-    "example_vi": "Vốn là yếu tố then chốt của khởi nghiệp."
+    "example_vi": "Vốn là yếu tố then chốt của khởi nghiệp.",
+    "me": "factor"
   },
   {
     "w": "机制",
     "p": "jī zhì",
     "m": "cơ chế",
-    "cat": "academic"
+    "cat": "academic",
+    "me": "mechanism"
   },
   {
     "w": "体制",
@@ -137,25 +150,29 @@
     "w": "格局",
     "p": "gé jú",
     "m": "cục diện, bố cục, khuôn khổ, quy mô",
-    "cat": "academic"
+    "cat": "academic",
+    "me": "situation, layout, framework, scale"
   },
   {
     "w": "框架",
     "p": "kuàng jià",
     "m": "khung, cấu trúc, khuôn khổ, sườn",
-    "cat": "academic"
+    "cat": "academic",
+    "me": "frame, structure, framework"
   },
   {
     "w": "模式",
     "p": "mó shì",
     "m": "mô hình",
-    "cat": "academic"
+    "cat": "academic",
+    "me": "model"
   },
   {
     "w": "结构",
     "p": "jié gòu",
     "m": "cấu trúc",
-    "cat": "academic"
+    "cat": "academic",
+    "me": "structure"
   },
   {
     "w": "层次",
@@ -167,7 +184,8 @@
     "w": "维度",
     "p": "wéi dù",
     "m": "chiều, góc độ, khía cạnh",
-    "cat": "academic"
+    "cat": "academic",
+    "me": "dimension, angle, aspect"
   },
   {
     "w": "脉络",
@@ -179,7 +197,8 @@
     "w": "雏形",
     "p": "chú xíng",
     "m": "hình hài ban đầu",
-    "cat": "academic"
+    "cat": "academic",
+    "me": "original form"
   },
   {
     "w": "瓶颈",
@@ -193,13 +212,15 @@
     "m": "mấu chốt vấn đề",
     "cat": "academic",
     "example": "他找到了问题的症结。",
-    "example_vi": "Anh ấy đã tìm ra mấu chốt của vấn đề."
+    "example_vi": "Anh ấy đã tìm ra mấu chốt của vấn đề.",
+    "me": "the crux of the issue"
   },
   {
     "w": "误区",
     "p": "wù qū",
     "m": "vùng nhận thức sai lầm",
-    "cat": "academic"
+    "cat": "academic",
+    "me": "a zone of misperception"
   },
   {
     "w": "盲区",
@@ -207,25 +228,29 @@
     "m": "điểm mù",
     "cat": "academic",
     "example": "这是安全管理的盲区。",
-    "example_vi": "Đây là điểm mù trong quản lý an toàn."
+    "example_vi": "Đây là điểm mù trong quản lý an toàn.",
+    "me": "blind spot"
   },
   {
     "w": "潜力",
     "p": "qián lì",
     "m": "tiềm năng",
-    "cat": "academic"
+    "cat": "academic",
+    "me": "potential"
   },
   {
     "w": "潜能",
     "p": "qián néng",
     "m": "tiềm năng ẩn",
-    "cat": "academic"
+    "cat": "academic",
+    "me": "latent potential"
   },
   {
     "w": "渗透",
     "p": "shèn tòu",
     "m": "thấm vào, xâm nhập, thẩm thấu, thâm nhập",
-    "cat": "academic"
+    "cat": "academic",
+    "me": "permeate, infiltrate, seep into"
   },
   {
     "w": "贯彻",
@@ -233,7 +258,8 @@
     "m": "quán triệt thực hiện",
     "cat": "policy",
     "example": "我们要贯彻这项政策。",
-    "example_vi": "Chúng ta phải quán triệt thực hiện chính sách này."
+    "example_vi": "Chúng ta phải quán triệt thực hiện chính sách này.",
+    "me": "to thoroughly implement"
   },
   {
     "w": "落实",
@@ -241,7 +267,8 @@
     "m": "thực thi cụ thể",
     "cat": "policy",
     "example": "这项计划已经落实。",
-    "example_vi": "Kế hoạch này đã được thực thi cụ thể."
+    "example_vi": "Kế hoạch này đã được thực thi cụ thể.",
+    "me": "concrete implementation"
   },
   {
     "w": "拟定",
@@ -249,7 +276,8 @@
     "m": "dự thảo, soạn thảo",
     "cat": "policy",
     "example": "公司拟定了一份方案。",
-    "example_vi": "Công ty đã dự thảo một phương án."
+    "example_vi": "Công ty đã dự thảo một phương án.",
+    "me": "draft"
   },
   {
     "w": "斟酌",
@@ -257,7 +285,8 @@
     "m": "cân nhắc kỹ lưỡng",
     "cat": "academic",
     "example": "请斟酌措辞。",
-    "example_vi": "Xin hãy cân nhắc kỹ lưỡng cách dùng từ."
+    "example_vi": "Xin hãy cân nhắc kỹ lưỡng cách dùng từ.",
+    "me": "weigh carefully"
   },
   {
     "w": "权衡",
@@ -269,7 +298,8 @@
     "w": "遏制",
     "p": "è zhì",
     "m": "kiềm chế, ngăn chặn",
-    "cat": "policy"
+    "cat": "policy",
+    "me": "containment"
   },
   {
     "w": "杜绝",
@@ -277,7 +307,8 @@
     "m": "chấm dứt triệt để",
     "cat": "policy",
     "example": "我们要杜绝浪费现象。",
-    "example_vi": "Chúng ta phải chấm dứt triệt để hiện tượng lãng phí."
+    "example_vi": "Chúng ta phải chấm dứt triệt để hiện tượng lãng phí.",
+    "me": "end thoroughly"
   },
   {
     "w": "捍卫",
@@ -285,7 +316,8 @@
     "m": "bảo vệ, gìn giữ",
     "cat": "politics",
     "example": "他捍卫了自己的权利。",
-    "example_vi": "Anh ấy đã bảo vệ quyền lợi của mình."
+    "example_vi": "Anh ấy đã bảo vệ quyền lợi của mình.",
+    "me": "protect, preserve"
   },
   {
     "w": "维系",
@@ -293,7 +325,8 @@
     "m": "duy trì gắn kết",
     "cat": "society",
     "example": "友谊需要用心维系。",
-    "example_vi": "Tình bạn cần được duy trì gắn kết bằng cả tấm lòng."
+    "example_vi": "Tình bạn cần được duy trì gắn kết bằng cả tấm lòng.",
+    "me": "maintain cohesion"
   },
   {
     "w": "巩固",
@@ -301,13 +334,15 @@
     "m": "củng cố",
     "cat": "society",
     "example": "公司巩固了市场地位。",
-    "example_vi": "Công ty đã củng cố vị thế trên thị trường."
+    "example_vi": "Công ty đã củng cố vị thế trên thị trường.",
+    "me": "reinforce"
   },
   {
     "w": "强化",
     "p": "qiáng huà",
     "m": "tăng cường",
-    "cat": "society"
+    "cat": "society",
+    "me": "strengthen, enhance"
   },
   {
     "w": "弱化",
@@ -315,25 +350,29 @@
     "m": "làm suy yếu",
     "cat": "society",
     "example": "这项政策弱化了监管力度。",
-    "example_vi": "Chính sách này đã làm suy yếu mức độ giám sát."
+    "example_vi": "Chính sách này đã làm suy yếu mức độ giám sát.",
+    "me": "undermine"
   },
   {
     "w": "深化",
     "p": "shēn huà",
     "m": "đào sâu, làm sâu sắc thêm, nâng cao, đi sâu",
-    "cat": "society"
+    "cat": "society",
+    "me": "delve deeper, deepen, enhance"
   },
   {
     "w": "优化",
     "p": "yōu huà",
     "m": "tối ưu hóa",
-    "cat": "academic"
+    "cat": "academic",
+    "me": "optimize"
   },
   {
     "w": "简化",
     "p": "jiǎn huà",
     "m": "đơn giản hóa",
-    "cat": "academic"
+    "cat": "academic",
+    "me": "simplify"
   },
   {
     "w": "细化",
@@ -341,13 +380,15 @@
     "m": "chi tiết hóa",
     "cat": "academic",
     "example": "计划需要进一步细化。",
-    "example_vi": "Kế hoạch cần được chi tiết hóa hơn nữa."
+    "example_vi": "Kế hoạch cần được chi tiết hóa hơn nữa.",
+    "me": "elaborate, detail"
   },
   {
     "w": "量化",
     "p": "liàng huà",
     "m": "định lượng hóa",
-    "cat": "academic"
+    "cat": "academic",
+    "me": "quantify"
   },
   {
     "w": "规范",
@@ -361,13 +402,15 @@
     "m": "điều phối tổng thể",
     "cat": "policy",
     "example": "政府统筹安排了资源。",
-    "example_vi": "Chính phủ đã điều phối tổng thể sắp xếp nguồn lực."
+    "example_vi": "Chính phủ đã điều phối tổng thể sắp xếp nguồn lực.",
+    "me": "overall coordination"
   },
   {
     "w": "兼顾",
     "p": "jiān gù",
     "m": "chú trọng cả hai",
-    "cat": "policy"
+    "cat": "policy",
+    "me": "emphasize both"
   },
   {
     "w": "协同",
@@ -375,13 +418,15 @@
     "m": "phối hợp đồng bộ",
     "cat": "work",
     "example": "各部门要协同工作。",
-    "example_vi": "Các bộ phận phải phối hợp đồng bộ làm việc."
+    "example_vi": "Các bộ phận phải phối hợp đồng bộ làm việc.",
+    "me": "synchronized coordination"
   },
   {
     "w": "配套",
     "p": "pèi tào",
     "m": "đi kèm, phối bộ, đồng bộ, ăn khớp",
-    "cat": "work"
+    "cat": "work",
+    "me": "to go together, match, be in sync"
   },
   {
     "w": "对接",
@@ -389,7 +434,8 @@
     "m": "kết nối, khớp nối",
     "cat": "work",
     "example": "两个系统实现了对接。",
-    "example_vi": "Hai hệ thống đã thực hiện kết nối."
+    "example_vi": "Hai hệ thống đã thực hiện kết nối.",
+    "me": "connect, link"
   },
   {
     "w": "衔接",
@@ -397,7 +443,8 @@
     "m": "nối tiếp liền mạch",
     "cat": "work",
     "example": "两个阶段的衔接很顺畅。",
-    "example_vi": "Sự nối tiếp giữa hai giai đoạn rất suôn sẻ."
+    "example_vi": "Sự nối tiếp giữa hai giai đoạn rất suôn sẻ.",
+    "me": "seamlessly continuous"
   },
   {
     "w": "周密",
@@ -405,7 +452,8 @@
     "m": "chu đáo tỉ mỉ",
     "cat": "academic",
     "example": "这个计划考虑得很周密。",
-    "example_vi": "Kế hoạch này được xem xét rất chu đáo tỉ mỉ."
+    "example_vi": "Kế hoạch này được xem xét rất chu đáo tỉ mỉ.",
+    "me": "thoughtful and meticulous"
   },
   {
     "w": "缜密",
@@ -413,7 +461,8 @@
     "m": "chặt chẽ kín kẽ",
     "cat": "academic",
     "example": "他的论证十分缜密。",
-    "example_vi": "Lập luận của anh ấy vô cùng chặt chẽ kín kẽ."
+    "example_vi": "Lập luận của anh ấy vô cùng chặt chẽ kín kẽ.",
+    "me": "tight, airtight (logic/plan)"
   },
   {
     "w": "严谨",
@@ -427,7 +476,8 @@
     "m": "nghiêm trọng, gay gắt",
     "cat": "society",
     "example": "形势十分严峻。",
-    "example_vi": "Tình hình vô cùng nghiêm trọng."
+    "example_vi": "Tình hình vô cùng nghiêm trọng.",
+    "me": "serious, severe"
   },
   {
     "w": "棘手",
@@ -435,7 +485,8 @@
     "m": "nan giải, hóc búa",
     "cat": "society",
     "example": "这是一个棘手的问题。",
-    "example_vi": "Đây là một vấn đề nan giải."
+    "example_vi": "Đây là một vấn đề nan giải.",
+    "me": "thorny, tricky"
   },
   {
     "w": "艰巨",
@@ -443,7 +494,8 @@
     "m": "gian nan nặng nề",
     "cat": "society",
     "example": "这是一项艰巨的任务。",
-    "example_vi": "Đây là một nhiệm vụ gian nan nặng nề."
+    "example_vi": "Đây là một nhiệm vụ gian nan nặng nề.",
+    "me": "arduous and burdensome"
   },
   {
     "w": "繁琐",
@@ -451,7 +503,8 @@
     "m": "rườm rà phiền phức",
     "cat": "society",
     "example": "手续十分繁琐。",
-    "example_vi": "Thủ tục vô cùng rườm rà phiền phức."
+    "example_vi": "Thủ tục vô cùng rườm rà phiền phức.",
+    "me": "cumbersome, troublesome"
   },
   {
     "w": "卓越",
@@ -465,13 +518,15 @@
     "m": "kiệt xuất",
     "cat": "academic",
     "example": "他是一位杰出的科学家。",
-    "example_vi": "Anh ấy là một nhà khoa học kiệt xuất."
+    "example_vi": "Anh ấy là một nhà khoa học kiệt xuất.",
+    "me": "outstanding, exceptional"
   },
   {
     "w": "显著",
     "p": "xiǎn zhù",
     "m": "rõ rệt, đáng kể, đáng chú ý, rõ ràng, nổi bật",
-    "cat": "academic"
+    "cat": "academic",
+    "me": "marked, significant, notable, prominent"
   },
   {
     "w": "突出",
@@ -489,67 +544,78 @@
     "w": "典型",
     "p": "diǎn xíng",
     "m": "điển hình",
-    "cat": "academic"
+    "cat": "academic",
+    "me": "typical"
   },
   {
     "w": "普遍",
     "p": "pǔ biàn",
     "m": "phổ biến",
-    "cat": "academic"
+    "cat": "academic",
+    "me": "popular"
   },
   {
     "w": "局限",
     "p": "jú xiàn",
     "m": "hạn chế, giới hạn",
-    "cat": "academic"
+    "cat": "academic",
+    "me": "restrict"
   },
   {
     "w": "片面",
     "p": "piàn miàn",
     "m": "phiến diện",
-    "cat": "academic"
+    "cat": "academic",
+    "me": "one-sided, biased"
   },
   {
     "w": "全面",
     "p": "quán miàn",
     "m": "toàn diện",
-    "cat": "academic"
+    "cat": "academic",
+    "me": "comprehensive"
   },
   {
     "w": "系统",
     "p": "xì tǒng",
     "m": "hệ thống",
-    "cat": "academic"
+    "cat": "academic",
+    "me": "system"
   },
   {
     "w": "综合",
     "p": "zōng hé",
     "m": "tổng hợp",
-    "cat": "academic"
+    "cat": "academic",
+    "me": "synthesis"
   },
   {
     "w": "协调",
     "p": "xié tiáo",
     "m": "phối hợp, điều hòa, điều phối, hài hòa",
-    "cat": "society"
+    "cat": "society",
+    "me": "coordinate, harmonize"
   },
   {
     "w": "均衡",
     "p": "jūn héng",
     "m": "cân bằng",
-    "cat": "society"
+    "cat": "society",
+    "me": "balance"
   },
   {
     "w": "失衡",
     "p": "shī héng",
     "m": "mất cân bằng",
-    "cat": "society"
+    "cat": "society",
+    "me": "imbalanced"
   },
   {
     "w": "差异",
     "p": "chā yì",
     "m": "sự khác biệt",
-    "cat": "society"
+    "cat": "society",
+    "me": "difference"
   },
   {
     "w": "分歧",
@@ -557,25 +623,29 @@
     "m": "bất đồng",
     "cat": "society",
     "example": "双方存在分歧。",
-    "example_vi": "Hai bên tồn tại bất đồng."
+    "example_vi": "Hai bên tồn tại bất đồng.",
+    "me": "disagreement"
   },
   {
     "w": "共识",
     "p": "gòng shí",
     "m": "đồng thuận",
-    "cat": "society"
+    "cat": "society",
+    "me": "consensus"
   },
   {
     "w": "妥协",
     "p": "tuǒ xié",
     "m": "thỏa hiệp",
-    "cat": "society"
+    "cat": "society",
+    "me": "compromise"
   },
   {
     "w": "博弈",
     "p": "bó yì",
     "m": "đấu tranh, trò chơi chiến lược, đấu trí, cuộc chơi",
-    "cat": "society"
+    "cat": "society",
+    "me": "struggle, strategy game, battle of wits"
   },
   {
     "w": "较量",
@@ -583,7 +653,8 @@
     "m": "so kè, đọ sức",
     "cat": "society",
     "example": "两队展开了激烈的较量。",
-    "example_vi": "Hai đội đã triển khai cuộc so kè quyết liệt."
+    "example_vi": "Hai đội đã triển khai cuộc so kè quyết liệt.",
+    "me": "compete, match strength"
   },
   {
     "w": "抗衡",
@@ -591,7 +662,8 @@
     "m": "đối kháng cân sức",
     "cat": "society",
     "example": "这家公司足以与对手抗衡。",
-    "example_vi": "Công ty này đủ sức đối kháng cân sức với đối thủ."
+    "example_vi": "Công ty này đủ sức đối kháng cân sức với đối thủ.",
+    "me": "evenly matched confrontation"
   },
   {
     "w": "制约",
@@ -605,7 +677,8 @@
     "m": "kìm hãm, kiềm tỏa",
     "cat": "society",
     "example": "这个因素牵制了发展。",
-    "example_vi": "Nhân tố này đã kìm hãm sự phát triển."
+    "example_vi": "Nhân tố này đã kìm hãm sự phát triển.",
+    "me": "hold back, restrain"
   },
   {
     "w": "主导",
@@ -613,7 +686,8 @@
     "m": "chủ đạo, dẫn dắt",
     "cat": "society",
     "example": "技术创新主导了行业发展。",
-    "example_vi": "Đổi mới công nghệ đã dẫn dắt sự phát triển của ngành."
+    "example_vi": "Đổi mới công nghệ đã dẫn dắt sự phát triển của ngành.",
+    "me": "leading, guiding"
   },
   {
     "w": "主体",
@@ -621,7 +695,8 @@
     "m": "chủ thể",
     "cat": "society",
     "example": "企业是市场经济的主体。",
-    "example_vi": "Doanh nghiệp là chủ thể của nền kinh tế thị trường."
+    "example_vi": "Doanh nghiệp là chủ thể của nền kinh tế thị trường.",
+    "me": "subject"
   },
   {
     "w": "客体",
@@ -629,7 +704,8 @@
     "m": "khách thể",
     "cat": "academic",
     "example": "这是研究的客体。",
-    "example_vi": "Đây là khách thể của nghiên cứu."
+    "example_vi": "Đây là khách thể của nghiên cứu.",
+    "me": "object (as opposed to subject)"
   },
   {
     "w": "载体",
@@ -641,19 +717,22 @@
     "w": "媒介",
     "p": "méi jiè",
     "m": "trung gian, môi giới",
-    "cat": "academic"
+    "cat": "academic",
+    "me": "intermediary, broker"
   },
   {
     "w": "纽带",
     "p": "niǔ dài",
     "m": "sợi dây liên kết",
-    "cat": "society"
+    "cat": "society",
+    "me": "connecting thread"
   },
   {
     "w": "桥梁",
     "p": "qiáo liáng",
     "m": "cầu nối",
-    "cat": "society"
+    "cat": "society",
+    "me": "bridge, link"
   },
   {
     "w": "枢纽",
@@ -661,7 +740,8 @@
     "m": "đầu mối trung tâm",
     "cat": "society",
     "example": "这座城市是交通枢纽。",
-    "example_vi": "Thành phố này là đầu mối giao thông trung tâm."
+    "example_vi": "Thành phố này là đầu mối giao thông trung tâm.",
+    "me": "central hub"
   },
   {
     "w": "核心",
@@ -673,7 +753,8 @@
     "w": "焦点",
     "p": "jiāo diǎn",
     "m": "tiêu điểm",
-    "cat": "society"
+    "cat": "society",
+    "me": "focal point"
   },
   {
     "w": "热点",
@@ -681,7 +762,8 @@
     "m": "điểm nóng",
     "cat": "society",
     "example": "这是当前的社会热点。",
-    "example_vi": "Đây là điểm nóng xã hội hiện nay."
+    "example_vi": "Đây là điểm nóng xã hội hiện nay.",
+    "me": "hotspot"
   },
   {
     "w": "亮点",
@@ -689,7 +771,8 @@
     "m": "điểm sáng",
     "cat": "society",
     "example": "这是本次活动的亮点。",
-    "example_vi": "Đây là điểm sáng của hoạt động lần này."
+    "example_vi": "Đây là điểm sáng của hoạt động lần này.",
+    "me": "a bright spot, highlight"
   },
   {
     "w": "难点",
@@ -697,7 +780,8 @@
     "m": "điểm khó",
     "cat": "academic",
     "example": "这是研究的难点。",
-    "example_vi": "Đây là điểm khó của nghiên cứu."
+    "example_vi": "Đây là điểm khó của nghiên cứu.",
+    "me": "difficulty point"
   },
   {
     "w": "重心",
@@ -709,7 +793,8 @@
     "w": "侧重",
     "p": "cè zhòng",
     "m": "tập trung vào một phía, thiên về, chú trọng",
-    "cat": "academic"
+    "cat": "academic",
+    "me": "focus on one side, lean toward, emphasize"
   },
   {
     "w": "倾向",
@@ -717,13 +802,15 @@
     "m": "xu hướng, khuynh hướng",
     "cat": "academic",
     "example": "他有悲观的倾向。",
-    "example_vi": "Anh ấy có xu hướng bi quan."
+    "example_vi": "Anh ấy có xu hướng bi quan.",
+    "me": "trend, tendency"
   },
   {
     "w": "动态",
     "p": "dòng tài",
     "m": "động thái, tình hình, năng động, biến động",
-    "cat": "society"
+    "cat": "society",
+    "me": "dynamics, developments"
   },
   {
     "w": "态势",
@@ -737,7 +824,8 @@
     "m": "tình hình, cục thế",
     "cat": "politics",
     "example": "当前局势比较紧张。",
-    "example_vi": "Tình hình hiện nay khá căng thẳng."
+    "example_vi": "Tình hình hiện nay khá căng thẳng.",
+    "me": "situation, state of affairs"
   },
   {
     "w": "氛围",
@@ -751,7 +839,8 @@
     "m": "phong khí, nếp",
     "cat": "society",
     "example": "社会风气正在改善。",
-    "example_vi": "Phong khí xã hội đang được cải thiện."
+    "example_vi": "Phong khí xã hội đang được cải thiện.",
+    "me": "custom, prevailing atmosphere"
   },
   {
     "w": "潮流",
@@ -759,7 +848,8 @@
     "m": "trào lưu",
     "cat": "society",
     "example": "这是当下的潮流。",
-    "example_vi": "Đây là trào lưu hiện nay."
+    "example_vi": "Đây là trào lưu hiện nay.",
+    "me": "trend"
   },
   {
     "w": "风尚",
@@ -767,7 +857,8 @@
     "m": "phong trào thời thượng",
     "cat": "society",
     "example": "低碳生活成为一种风尚。",
-    "example_vi": "Cuộc sống ít carbon đã trở thành một phong trào thời thượng."
+    "example_vi": "Cuộc sống ít carbon đã trở thành một phong trào thời thượng.",
+    "me": "fashionable trend"
   },
   {
     "w": "惯例",
@@ -775,7 +866,8 @@
     "m": "thông lệ",
     "cat": "society",
     "example": "这是行业惯例。",
-    "example_vi": "Đây là thông lệ của ngành."
+    "example_vi": "Đây là thông lệ của ngành.",
+    "me": "common practice"
   },
   {
     "w": "常态",
@@ -783,7 +875,8 @@
     "m": "trạng thái bình thường",
     "cat": "society",
     "example": "远程办公已成为常态。",
-    "example_vi": "Làm việc từ xa đã trở thành trạng thái bình thường."
+    "example_vi": "Làm việc từ xa đã trở thành trạng thái bình thường.",
+    "me": "a normal state"
   },
   {
     "w": "例外",
@@ -791,19 +884,22 @@
     "m": "ngoại lệ",
     "cat": "academic",
     "example": "这条规则没有例外。",
-    "example_vi": "Quy tắc này không có ngoại lệ."
+    "example_vi": "Quy tắc này không có ngoại lệ.",
+    "me": "exception"
   },
   {
     "w": "特例",
     "p": "tè lì",
     "m": "trường hợp đặc biệt",
-    "cat": "academic"
+    "cat": "academic",
+    "me": "special case"
   },
   {
     "w": "先例",
     "p": "xiān lì",
     "m": "tiền lệ",
-    "cat": "law"
+    "cat": "law",
+    "me": "precedent"
   },
   {
     "w": "惯性",
@@ -811,7 +907,8 @@
     "m": "quán tính",
     "cat": "science",
     "example": "人们容易受惯性思维影响。",
-    "example_vi": "Con người dễ bị ảnh hưởng bởi tư duy quán tính."
+    "example_vi": "Con người dễ bị ảnh hưởng bởi tư duy quán tính.",
+    "me": "inertia"
   },
   {
     "w": "弹性",
@@ -819,7 +916,8 @@
     "m": "tính linh hoạt, đàn hồi",
     "cat": "science",
     "example": "这个计划有一定的弹性。",
-    "example_vi": "Kế hoạch này có tính linh hoạt nhất định."
+    "example_vi": "Kế hoạch này có tính linh hoạt nhất định.",
+    "me": "flexibility, elasticity"
   },
   {
     "w": "韧性",
@@ -827,7 +925,8 @@
     "m": "sức bền, độ dẻo dai",
     "cat": "science",
     "example": "这个经济体展现出很强的韧性。",
-    "example_vi": "Nền kinh tế này thể hiện sức bền rất mạnh."
+    "example_vi": "Nền kinh tế này thể hiện sức bền rất mạnh.",
+    "me": "stamina, resilience"
   },
   {
     "w": "刚性",
@@ -835,7 +934,8 @@
     "m": "tính cứng nhắc",
     "cat": "academic",
     "example": "这项制度具有刚性。",
-    "example_vi": "Chế độ này mang tính cứng nhắc."
+    "example_vi": "Chế độ này mang tính cứng nhắc.",
+    "me": "rigidity"
   },
   {
     "w": "局部",
@@ -853,13 +953,15 @@
     "w": "宏观",
     "p": "hóng guān",
     "m": "vĩ mô",
-    "cat": "economics"
+    "cat": "economics",
+    "me": "macro"
   },
   {
     "w": "微观",
     "p": "wēi guān",
     "m": "vi mô",
-    "cat": "economics"
+    "cat": "economics",
+    "me": "micro, microscopic"
   },
   {
     "w": "调控",
@@ -871,7 +973,8 @@
     "w": "杠杆",
     "p": "gàng gǎn",
     "m": "đòn bẩy",
-    "cat": "economics"
+    "cat": "economics",
+    "me": "lever, leverage"
   },
   {
     "w": "红利",
@@ -879,7 +982,8 @@
     "m": "lợi tức, cổ tức",
     "cat": "economics",
     "example": "公司享受到了政策红利。",
-    "example_vi": "Công ty đã được hưởng lợi tức từ chính sách."
+    "example_vi": "Công ty đã được hưởng lợi tức từ chính sách.",
+    "me": "dividend"
   },
   {
     "w": "瓶颈期",
@@ -887,13 +991,15 @@
     "m": "giai đoạn bế tắc",
     "cat": "economics",
     "example": "公司正处于发展的瓶颈期。",
-    "example_vi": "Công ty đang ở giai đoạn bế tắc trong phát triển."
+    "example_vi": "Công ty đang ở giai đoạn bế tắc trong phát triển.",
+    "me": "stalemate phase"
   },
   {
     "w": "产能",
     "p": "chǎn néng",
     "m": "năng lực sản xuất",
-    "cat": "economics"
+    "cat": "economics",
+    "me": "production capacity"
   },
   {
     "w": "过剩",
@@ -901,7 +1007,8 @@
     "m": "dư thừa",
     "cat": "economics",
     "example": "这个行业产能过剩。",
-    "example_vi": "Năng lực sản xuất của ngành này bị dư thừa."
+    "example_vi": "Năng lực sản xuất của ngành này bị dư thừa.",
+    "me": "excess"
   },
   {
     "w": "短缺",
@@ -909,7 +1016,8 @@
     "m": "thiếu hụt",
     "cat": "economics",
     "example": "市场出现了原材料短缺。",
-    "example_vi": "Thị trường đã xuất hiện tình trạng thiếu hụt nguyên liệu."
+    "example_vi": "Thị trường đã xuất hiện tình trạng thiếu hụt nguyên liệu.",
+    "me": "shortage, deficit"
   },
   {
     "w": "饱和",
@@ -917,7 +1025,8 @@
     "m": "bão hòa",
     "cat": "economics",
     "example": "这个市场已经饱和。",
-    "example_vi": "Thị trường này đã bão hòa."
+    "example_vi": "Thị trường này đã bão hòa.",
+    "me": "saturated"
   },
   {
     "w": "萎缩",
@@ -925,7 +1034,8 @@
     "m": "co rút, teo lại",
     "cat": "economics",
     "example": "这个行业需求萎缩。",
-    "example_vi": "Nhu cầu của ngành này đang co rút."
+    "example_vi": "Nhu cầu của ngành này đang co rút.",
+    "me": "shrink, atrophy"
   },
   {
     "w": "复苏",
@@ -933,7 +1043,8 @@
     "m": "phục hồi",
     "cat": "economics",
     "example": "经济正在逐步复苏。",
-    "example_vi": "Kinh tế đang dần dần phục hồi."
+    "example_vi": "Kinh tế đang dần dần phục hồi.",
+    "me": "rehabilitation"
   },
   {
     "w": "低迷",
@@ -941,7 +1052,8 @@
     "m": "ảm đạm, trì trệ",
     "cat": "economics",
     "example": "市场持续低迷。",
-    "example_vi": "Thị trường tiếp tục ảm đạm."
+    "example_vi": "Thị trường tiếp tục ảm đạm.",
+    "me": "gloomy, stagnant"
   },
   {
     "w": "繁荣",
@@ -955,7 +1067,8 @@
     "m": "tiêu điều, suy thoái",
     "cat": "economics",
     "example": "经济陷入萧条。",
-    "example_vi": "Kinh tế rơi vào suy thoái."
+    "example_vi": "Kinh tế rơi vào suy thoái.",
+    "me": "desolate, in decline"
   },
   {
     "w": "波及",
@@ -963,7 +1076,8 @@
     "m": "lan tới, ảnh hưởng đến",
     "cat": "society",
     "example": "这次危机波及了多个行业。",
-    "example_vi": "Cuộc khủng hoảng lần này đã lan tới nhiều ngành."
+    "example_vi": "Cuộc khủng hoảng lần này đã lan tới nhiều ngành.",
+    "me": "spread to, affect"
   },
   {
     "w": "辐射",
@@ -971,7 +1085,8 @@
     "m": "lan tỏa, bức xạ",
     "cat": "society",
     "example": "这项政策辐射到周边地区。",
-    "example_vi": "Chính sách này lan tỏa đến các khu vực xung quanh."
+    "example_vi": "Chính sách này lan tỏa đến các khu vực xung quanh.",
+    "me": "spread, radiate"
   },
   {
     "w": "连锁",
@@ -979,7 +1094,8 @@
     "m": "dây chuyền, liên hoàn",
     "cat": "society",
     "example": "这引发了连锁反应。",
-    "example_vi": "Điều này đã gây ra phản ứng dây chuyền."
+    "example_vi": "Điều này đã gây ra phản ứng dây chuyền.",
+    "me": "chain, interlinked"
   },
   {
     "w": "叠加",
@@ -987,7 +1103,8 @@
     "m": "chồng chất, cộng dồn",
     "cat": "society",
     "example": "多重因素叠加导致了这次危机。",
-    "example_vi": "Nhiều nhân tố chồng chất đã dẫn đến cuộc khủng hoảng này."
+    "example_vi": "Nhiều nhân tố chồng chất đã dẫn đến cuộc khủng hoảng này.",
+    "me": "pile up, accumulate"
   },
   {
     "w": "累积",
@@ -995,7 +1112,8 @@
     "m": "tích lũy",
     "cat": "academic",
     "example": "经验是慢慢累积的。",
-    "example_vi": "Kinh nghiệm được tích lũy dần dần."
+    "example_vi": "Kinh nghiệm được tích lũy dần dần.",
+    "me": "cumulative"
   },
   {
     "w": "沉淀",
@@ -1003,7 +1121,8 @@
     "m": "lắng đọng, tích tụ",
     "cat": "academic",
     "example": "时间会沉淀出真正的价值。",
-    "example_vi": "Thời gian sẽ lắng đọng ra giá trị thực sự."
+    "example_vi": "Thời gian sẽ lắng đọng ra giá trị thực sự.",
+    "me": "to settle, accumulate"
   },
   {
     "w": "积淀",
@@ -1011,7 +1130,8 @@
     "m": "sự bồi đắp tích lũy",
     "cat": "culture",
     "example": "这座城市有深厚的文化积淀。",
-    "example_vi": "Thành phố này có sự bồi đắp tích lũy văn hóa sâu dày."
+    "example_vi": "Thành phố này có sự bồi đắp tích lũy văn hóa sâu dày.",
+    "me": "gradual accumulation"
   },
   {
     "w": "底蕴",
@@ -1019,7 +1139,8 @@
     "m": "chiều sâu nội tại",
     "cat": "culture",
     "example": "这部作品有深厚的文化底蕴。",
-    "example_vi": "Tác phẩm này có chiều sâu văn hóa nội tại thâm sâu."
+    "example_vi": "Tác phẩm này có chiều sâu văn hóa nội tại thâm sâu.",
+    "me": "inner depth"
   },
   {
     "w": "内核",
@@ -1027,7 +1148,8 @@
     "m": "lõi bên trong",
     "cat": "academic",
     "example": "这是理论的内核。",
-    "example_vi": "Đây là lõi bên trong của lý thuyết."
+    "example_vi": "Đây là lõi bên trong của lý thuyết.",
+    "me": "inner core"
   },
   {
     "w": "精髓",
@@ -1041,7 +1163,8 @@
     "m": "tinh hoa",
     "cat": "culture",
     "example": "这本书汇集了他思想的精华。",
-    "example_vi": "Cuốn sách này đã tập hợp tinh hoa tư tưởng của ông."
+    "example_vi": "Cuốn sách này đã tập hợp tinh hoa tư tưởng của ông.",
+    "me": "essence, quintessence"
   },
   {
     "w": "糟粕",
@@ -1049,7 +1172,8 @@
     "m": "cặn bã, phần dở",
     "cat": "culture",
     "example": "我们要取其精华，去其糟粕。",
-    "example_vi": "Chúng ta phải lấy tinh hoa bỏ đi cặn bã."
+    "example_vi": "Chúng ta phải lấy tinh hoa bỏ đi cặn bã.",
+    "me": "dregs, the poor remnant"
   },
   {
     "w": "瑰宝",
@@ -1057,7 +1181,8 @@
     "m": "báu vật",
     "cat": "culture",
     "example": "这是中华文化的瑰宝。",
-    "example_vi": "Đây là báu vật của văn hóa Trung Hoa."
+    "example_vi": "Đây là báu vật của văn hóa Trung Hoa.",
+    "me": "treasure"
   },
   {
     "w": "结晶",
@@ -1065,7 +1190,8 @@
     "m": "kết tinh",
     "cat": "academic",
     "example": "这项发明是他多年努力的结晶。",
-    "example_vi": "Phát minh này là kết tinh của nhiều năm nỗ lực của anh ấy."
+    "example_vi": "Phát minh này là kết tinh của nhiều năm nỗ lực của anh ấy.",
+    "me": "crystallization"
   },
   {
     "w": "升华",
@@ -1085,7 +1211,8 @@
     "m": "sự diễn biến, biến thiên",
     "cat": "academic",
     "example": "社会经历了深刻的嬗变。",
-    "example_vi": "Xã hội đã trải qua sự diễn biến sâu sắc."
+    "example_vi": "Xã hội đã trải qua sự diễn biến sâu sắc.",
+    "me": "evolution, variation"
   },
   {
     "w": "演变",
@@ -1099,7 +1226,8 @@
     "m": "biến thiên, đổi dời",
     "cat": "society",
     "example": "这座城市经历了巨大变迁。",
-    "example_vi": "Thành phố này đã trải qua sự biến thiên to lớn."
+    "example_vi": "Thành phố này đã trải qua sự biến thiên to lớn.",
+    "me": "change, shift"
   },
   {
     "w": "转型",
@@ -1119,7 +1247,8 @@
     "m": "chuyển đổi",
     "cat": "academic",
     "example": "公司实现了角色转换。",
-    "example_vi": "Công ty đã thực hiện chuyển đổi vai trò."
+    "example_vi": "Công ty đã thực hiện chuyển đổi vai trò.",
+    "me": "convert"
   },
   {
     "w": "过渡",
@@ -1127,7 +1256,8 @@
     "m": "quá độ, chuyển tiếp",
     "cat": "society",
     "example": "这是一个过渡阶段。",
-    "example_vi": "Đây là một giai đoạn quá độ."
+    "example_vi": "Đây là một giai đoạn quá độ.",
+    "me": "transition"
   },
   {
     "w": "衍生",
@@ -1141,7 +1271,8 @@
     "m": "sinh ra từ, dẫn xuất",
     "cat": "academic",
     "example": "这个词派生出很多含义。",
-    "example_vi": "Từ này dẫn xuất ra rất nhiều nghĩa."
+    "example_vi": "Từ này dẫn xuất ra rất nhiều nghĩa.",
+    "me": "originate from, derive from"
   },
   {
     "w": "孕育",
@@ -1155,7 +1286,8 @@
     "m": "nảy mầm, manh nha",
     "cat": "academic",
     "example": "这项技术还处于萌芽阶段。",
-    "example_vi": "Công nghệ này vẫn đang ở giai đoạn manh nha."
+    "example_vi": "Công nghệ này vẫn đang ở giai đoạn manh nha.",
+    "me": "germinate, sprout"
   },
   {
     "w": "兴起",
@@ -1163,7 +1295,8 @@
     "m": "trỗi dậy, nổi lên",
     "cat": "society",
     "example": "这个行业正在兴起。",
-    "example_vi": "Ngành này đang trỗi dậy."
+    "example_vi": "Ngành này đang trỗi dậy.",
+    "me": "rise, emerge"
   },
   {
     "w": "崛起",
@@ -1171,7 +1304,8 @@
     "m": "vươn lên mạnh mẽ",
     "cat": "society",
     "example": "这个国家经济迅速崛起。",
-    "example_vi": "Kinh tế quốc gia này đã vươn lên nhanh chóng."
+    "example_vi": "Kinh tế quốc gia này đã vươn lên nhanh chóng.",
+    "me": "rise powerfully"
   },
   {
     "w": "衰落",
@@ -1179,7 +1313,8 @@
     "m": "suy tàn",
     "cat": "society",
     "example": "这个产业逐渐衰落。",
-    "example_vi": "Ngành này dần dần suy tàn."
+    "example_vi": "Ngành này dần dần suy tàn.",
+    "me": "decline"
   },
   {
     "w": "没落",
@@ -1187,7 +1322,8 @@
     "m": "lụi tàn, suy vong",
     "cat": "society",
     "example": "这个王朝走向没落。",
-    "example_vi": "Triều đại này đi đến chỗ lụi tàn."
+    "example_vi": "Triều đại này đi đến chỗ lụi tàn.",
+    "me": "decline, wither away"
   },
   {
     "w": "瓦解",
@@ -1195,7 +1331,8 @@
     "m": "tan rã",
     "cat": "society",
     "example": "这个联盟最终瓦解了。",
-    "example_vi": "Liên minh này cuối cùng đã tan rã."
+    "example_vi": "Liên minh này cuối cùng đã tan rã.",
+    "me": "disintegrate"
   },
   {
     "w": "崩溃",
@@ -1203,25 +1340,29 @@
     "m": "sụp đổ",
     "cat": "society",
     "example": "市场几乎崩溃。",
-    "example_vi": "Thị trường gần như sụp đổ."
+    "example_vi": "Thị trường gần như sụp đổ.",
+    "me": "collapse"
   },
   {
     "w": "重组",
     "p": "chóng zǔ",
     "m": "tái cơ cấu",
-    "cat": "economics"
+    "cat": "economics",
+    "me": "restructuring"
   },
   {
     "w": "整合",
     "p": "zhěng hé",
     "m": "tích hợp, hợp nhất",
-    "cat": "economics"
+    "cat": "economics",
+    "me": "integrate, merge"
   },
   {
     "w": "融合",
     "p": "róng hé",
     "m": "hòa nhập, hợp nhất, kết hợp, dung hợp, hội nhập",
-    "cat": "society"
+    "cat": "society",
+    "me": "integrate, merge, blend"
   },
   {
     "w": "交融",
@@ -1229,7 +1370,8 @@
     "m": "giao hòa",
     "cat": "culture",
     "example": "两种文化在这里交融。",
-    "example_vi": "Hai nền văn hóa giao hòa tại đây."
+    "example_vi": "Hai nền văn hóa giao hòa tại đây.",
+    "me": "harmonize, blend"
   },
   {
     "w": "渗入",
@@ -1261,7 +1403,8 @@
     "m": "phân hóa",
     "cat": "society",
     "example": "社会阶层逐渐分化。",
-    "example_vi": "Các tầng lớp xã hội dần dần phân hóa."
+    "example_vi": "Các tầng lớp xã hội dần dần phân hóa.",
+    "me": "differentiation, polarization"
   },
   {
     "w": "分裂",
@@ -1269,7 +1412,8 @@
     "m": "chia rẽ, phân liệt",
     "cat": "society",
     "example": "团队内部出现了分裂。",
-    "example_vi": "Trong nội bộ đội ngũ đã xuất hiện sự chia rẽ."
+    "example_vi": "Trong nội bộ đội ngũ đã xuất hiện sự chia rẽ.",
+    "me": "divide, split"
   },
   {
     "w": "割裂",
@@ -1277,25 +1421,29 @@
     "m": "cắt rời, chia cắt",
     "cat": "society",
     "example": "不能割裂历史与现实。",
-    "example_vi": "Không thể cắt rời lịch sử với hiện thực."
+    "example_vi": "Không thể cắt rời lịch sử với hiện thực.",
+    "me": "cut apart, divide"
   },
   {
     "w": "对立",
     "p": "duì lì",
     "m": "đối lập",
-    "cat": "academic"
+    "cat": "academic",
+    "me": "opposition, contrast"
   },
   {
     "w": "统一",
     "p": "tǒng yī",
     "m": "thống nhất",
-    "cat": "politics"
+    "cat": "politics",
+    "me": "unify"
   },
   {
     "w": "凝聚",
     "p": "níng jù",
     "m": "tụ lại, đoàn kết, cố kết, gắn kết",
-    "cat": "society"
+    "cat": "society",
+    "me": "gather, unite, cohere, bond"
   },
   {
     "w": "涣散",
@@ -1303,7 +1451,8 @@
     "m": "rời rạc, tản mát",
     "cat": "society",
     "example": "团队士气涣散。",
-    "example_vi": "Tinh thần đội ngũ trở nên rời rạc."
+    "example_vi": "Tinh thần đội ngũ trở nên rời rạc.",
+    "me": "scattered, dispersed"
   },
   {
     "w": "松懈",
@@ -1311,7 +1460,8 @@
     "m": "lơi lỏng, chểnh mảng",
     "cat": "society",
     "example": "工作不能松懈。",
-    "example_vi": "Công việc không được lơi lỏng."
+    "example_vi": "Công việc không được lơi lỏng.",
+    "me": "slack off, become negligent"
   },
   {
     "w": "严密",
@@ -1319,7 +1469,8 @@
     "m": "chặt chẽ kín kẽ",
     "cat": "society",
     "example": "这个计划非常严密。",
-    "example_vi": "Kế hoạch này vô cùng chặt chẽ kín kẽ."
+    "example_vi": "Kế hoạch này vô cùng chặt chẽ kín kẽ.",
+    "me": "tight, airtight (logic/plan)"
   },
   {
     "w": "疏忽",
@@ -1327,7 +1478,8 @@
     "m": "sơ suất",
     "cat": "society",
     "example": "这是一次严重的疏忽。",
-    "example_vi": "Đây là một sự sơ suất nghiêm trọng."
+    "example_vi": "Đây là một sự sơ suất nghiêm trọng.",
+    "me": "oversight, negligence"
   },
   {
     "w": "疏漏",
@@ -1335,7 +1487,8 @@
     "m": "sai sót bỏ lọt",
     "cat": "academic",
     "example": "报告中存在疏漏。",
-    "example_vi": "Trong báo cáo tồn tại sai sót bỏ lọt."
+    "example_vi": "Trong báo cáo tồn tại sai sót bỏ lọt.",
+    "me": "oversight, omission error"
   },
   {
     "w": "纰漏",
@@ -1343,7 +1496,8 @@
     "m": "sai sót, lỗ hổng",
     "cat": "academic",
     "example": "这份文件出现了纰漏。",
-    "example_vi": "Tài liệu này đã xuất hiện sai sót."
+    "example_vi": "Tài liệu này đã xuất hiện sai sót.",
+    "me": "flaw, loophole"
   },
   {
     "w": "漏洞",
@@ -1351,7 +1505,8 @@
     "m": "lỗ hổng, kẽ hở",
     "cat": "tech",
     "example": "系统存在安全漏洞。",
-    "example_vi": "Hệ thống tồn tại lỗ hổng bảo mật."
+    "example_vi": "Hệ thống tồn tại lỗ hổng bảo mật.",
+    "me": "loophole, gap"
   },
   {
     "w": "隐患",
@@ -1359,19 +1514,22 @@
     "m": "hiểm họa tiềm ẩn",
     "cat": "society",
     "example": "这里存在安全隐患。",
-    "example_vi": "Nơi đây tồn tại hiểm họa tiềm ẩn về an toàn."
+    "example_vi": "Nơi đây tồn tại hiểm họa tiềm ẩn về an toàn.",
+    "me": "latent danger"
   },
   {
     "w": "风险",
     "p": "fēng xiǎn",
     "m": "rủi ro",
-    "cat": "economics"
+    "cat": "economics",
+    "me": "risk"
   },
   {
     "w": "危机",
     "p": "wēi jī",
     "m": "khủng hoảng",
-    "cat": "society"
+    "cat": "society",
+    "me": "crisis"
   },
   {
     "w": "契机",
@@ -1385,7 +1543,8 @@
     "m": "bước ngoặt tốt lên",
     "cat": "society",
     "example": "事情出现了转机。",
-    "example_vi": "Sự việc đã xuất hiện bước ngoặt tốt lên."
+    "example_vi": "Sự việc đã xuất hiện bước ngoặt tốt lên.",
+    "me": "a turning point for the better"
   },
   {
     "w": "机遇",
@@ -1397,7 +1556,8 @@
     "w": "挑战",
     "p": "tiǎo zhàn",
     "m": "thách thức",
-    "cat": "society"
+    "cat": "society",
+    "me": "challenge"
   },
   {
     "w": "机制创新",
@@ -1405,7 +1565,8 @@
     "m": "đổi mới cơ chế",
     "cat": "policy",
     "example": "公司推动了机制创新。",
-    "example_vi": "Công ty đã thúc đẩy đổi mới cơ chế."
+    "example_vi": "Công ty đã thúc đẩy đổi mới cơ chế.",
+    "me": "mechanism reform"
   },
   {
     "w": "瞻仰",
@@ -1413,25 +1574,29 @@
     "m": "chiêm ngưỡng kính cẩn",
     "cat": "culture",
     "example": "人们前来瞻仰烈士纪念碑。",
-    "example_vi": "Mọi người đến chiêm ngưỡng kính cẩn tượng đài liệt sĩ."
+    "example_vi": "Mọi người đến chiêm ngưỡng kính cẩn tượng đài liệt sĩ.",
+    "me": "admire with reverence"
   },
   {
     "w": "踊跃",
     "p": "yǒng yuè",
     "m": "sôi nổi, hăng hái",
-    "cat": "emotion"
+    "cat": "emotion",
+    "me": "enthusiastic, spirited"
   },
   {
     "w": "积极",
     "p": "jī jí",
     "m": "tích cực",
-    "cat": "emotion"
+    "cat": "emotion",
+    "me": "positive"
   },
   {
     "w": "消极",
     "p": "xiāo jí",
     "m": "tiêu cực",
-    "cat": "emotion"
+    "cat": "emotion",
+    "me": "negative"
   },
   {
     "w": "热忱",
@@ -1439,13 +1604,15 @@
     "m": "nhiệt thành",
     "cat": "emotion",
     "example": "他对工作充满热忱。",
-    "example_vi": "Anh ấy tràn đầy nhiệt thành với công việc."
+    "example_vi": "Anh ấy tràn đầy nhiệt thành với công việc.",
+    "me": "enthusiastic, fervent"
   },
   {
     "w": "执着",
     "p": "zhí zhuó",
     "m": "kiên định, khắng khít, kiên trì bám đuổi",
-    "cat": "emotion"
+    "cat": "emotion",
+    "me": "steadfast, tightly bonded, persistently pursuing"
   },
   {
     "w": "坚韧",
@@ -1453,7 +1620,8 @@
     "m": "kiên cường dẻo dai",
     "cat": "emotion",
     "example": "她性格坚韧。",
-    "example_vi": "Tính cách của cô ấy kiên cường dẻo dai."
+    "example_vi": "Tính cách của cô ấy kiên cường dẻo dai.",
+    "me": "resilient and tenacious"
   },
   {
     "w": "顽强",
@@ -1461,13 +1629,15 @@
     "m": "ngoan cường",
     "cat": "emotion",
     "example": "他顽强地坚持了下来。",
-    "example_vi": "Anh ấy đã ngoan cường kiên trì đến cùng."
+    "example_vi": "Anh ấy đã ngoan cường kiên trì đến cùng.",
+    "me": "tenacious"
   },
   {
     "w": "沉稳",
     "p": "chén wěn",
     "m": "điềm đạm vững vàng",
-    "cat": "emotion"
+    "cat": "emotion",
+    "me": "composed and steady"
   },
   {
     "w": "浮躁",
@@ -1475,7 +1645,8 @@
     "m": "nông nổi bộp chộp",
     "cat": "emotion",
     "example": "年轻人不要浮躁。",
-    "example_vi": "Người trẻ không nên nông nổi bộp chộp."
+    "example_vi": "Người trẻ không nên nông nổi bộp chộp.",
+    "me": "impulsive, rash"
   },
   {
     "w": "急躁",
@@ -1483,7 +1654,8 @@
     "m": "nóng vội",
     "cat": "emotion",
     "example": "他性格有些急躁。",
-    "example_vi": "Tính cách của anh ấy hơi nóng vội."
+    "example_vi": "Tính cách của anh ấy hơi nóng vội.",
+    "me": "impatient, hasty"
   },
   {
     "w": "豁达",
@@ -1491,7 +1663,8 @@
     "m": "phóng khoáng cởi mở",
     "cat": "emotion",
     "example": "他为人豁达。",
-    "example_vi": "Anh ấy đối nhân xử thế rất phóng khoáng cởi mở."
+    "example_vi": "Anh ấy đối nhân xử thế rất phóng khoáng cởi mở.",
+    "me": "open-minded and unrestrained"
   },
   {
     "w": "狭隘",
@@ -1499,7 +1672,8 @@
     "m": "hẹp hòi",
     "cat": "emotion",
     "example": "他的想法有些狭隘。",
-    "example_vi": "Suy nghĩ của anh ấy hơi hẹp hòi."
+    "example_vi": "Suy nghĩ của anh ấy hơi hẹp hòi.",
+    "me": "narrow-minded"
   },
   {
     "w": "宽厚",
@@ -1507,7 +1681,8 @@
     "m": "độ lượng nhân hậu",
     "cat": "emotion",
     "example": "他为人宽厚。",
-    "example_vi": "Anh ấy đối nhân xử thế độ lượng nhân hậu."
+    "example_vi": "Anh ấy đối nhân xử thế độ lượng nhân hậu.",
+    "me": "magnanimous and kind"
   },
   {
     "w": "刻薄",
@@ -1515,7 +1690,8 @@
     "m": "cay nghiệt, khắc nghiệt",
     "cat": "emotion",
     "example": "他说话很刻薄。",
-    "example_vi": "Anh ấy nói chuyện rất cay nghiệt."
+    "example_vi": "Anh ấy nói chuyện rất cay nghiệt.",
+    "me": "harsh, severe"
   },
   {
     "w": "圆滑",
@@ -1523,7 +1699,8 @@
     "m": "khôn khéo lươn lẹo",
     "cat": "emotion",
     "example": "他做人很圆滑。",
-    "example_vi": "Anh ấy đối nhân xử thế rất khôn khéo lươn lẹo."
+    "example_vi": "Anh ấy đối nhân xử thế rất khôn khéo lươn lẹo.",
+    "me": "cunning and slippery"
   },
   {
     "w": "耿直",
@@ -1531,7 +1708,8 @@
     "m": "ngay thẳng bộc trực",
     "cat": "emotion",
     "example": "他性格耿直。",
-    "example_vi": "Tính cách của anh ấy ngay thẳng bộc trực."
+    "example_vi": "Tính cách của anh ấy ngay thẳng bộc trực.",
+    "me": "upright and outspoken"
   },
   {
     "w": "率真",
@@ -1539,7 +1717,8 @@
     "m": "chân thật thẳng thắn",
     "cat": "emotion",
     "example": "她性格率真。",
-    "example_vi": "Tính cách của cô ấy chân thật thẳng thắn."
+    "example_vi": "Tính cách của cô ấy chân thật thẳng thắn.",
+    "me": "honest and straightforward"
   },
   {
     "w": "内敛",
@@ -1547,7 +1726,8 @@
     "m": "trầm lặng nội tâm",
     "cat": "emotion",
     "example": "他性格内敛。",
-    "example_vi": "Tính cách của anh ấy trầm lặng nội tâm."
+    "example_vi": "Tính cách của anh ấy trầm lặng nội tâm.",
+    "me": "inner quietude"
   },
   {
     "w": "张扬",
@@ -1555,7 +1735,8 @@
     "m": "phô trương phóng khoáng",
     "cat": "emotion",
     "example": "他为人比较张扬。",
-    "example_vi": "Anh ấy đối nhân xử thế khá phô trương."
+    "example_vi": "Anh ấy đối nhân xử thế khá phô trương.",
+    "me": "ostentatious and unrestrained"
   },
   {
     "w": "含蓄",
@@ -1567,7 +1748,8 @@
     "w": "婉转",
     "p": "wǎn zhuǎn",
     "m": "uyển chuyển nhẹ nhàng",
-    "cat": "language"
+    "cat": "language",
+    "me": "graceful and light"
   },
   {
     "w": "直率",
@@ -1575,7 +1757,8 @@
     "m": "bộc trực thẳng thắn",
     "cat": "emotion",
     "example": "她说话很直率。",
-    "example_vi": "Cô ấy nói chuyện rất bộc trực thẳng thắn."
+    "example_vi": "Cô ấy nói chuyện rất bộc trực thẳng thắn.",
+    "me": "outspoken and frank"
   },
   {
     "w": "坦诚",
@@ -1583,13 +1766,15 @@
     "m": "chân thành cởi mở",
     "cat": "emotion",
     "example": "他坦诚地表达了想法。",
-    "example_vi": "Anh ấy đã chân thành cởi mở bày tỏ suy nghĩ của mình."
+    "example_vi": "Anh ấy đã chân thành cởi mở bày tỏ suy nghĩ của mình.",
+    "me": "sincere and open"
   },
   {
     "w": "虚伪",
     "p": "xū wěi",
     "m": "giả dối",
-    "cat": "emotion"
+    "cat": "emotion",
+    "me": "false, hypocritical"
   },
   {
     "w": "真挚",
@@ -1597,7 +1782,8 @@
     "m": "chân thành tha thiết",
     "cat": "emotion",
     "example": "他们之间感情真挚。",
-    "example_vi": "Tình cảm giữa họ chân thành tha thiết."
+    "example_vi": "Tình cảm giữa họ chân thành tha thiết.",
+    "me": "sincere and earnest"
   },
   {
     "w": "诚挚",
@@ -1605,7 +1791,8 @@
     "m": "thành khẩn",
     "cat": "emotion",
     "example": "他诚挚地感谢了大家。",
-    "example_vi": "Anh ấy đã thành khẩn cảm ơn mọi người."
+    "example_vi": "Anh ấy đã thành khẩn cảm ơn mọi người.",
+    "me": "sincere, earnest"
   },
   {
     "w": "恳切",
@@ -1613,7 +1800,8 @@
     "m": "khẩn thiết chân thành",
     "cat": "emotion",
     "example": "他恳切地请求帮助。",
-    "example_vi": "Anh ấy đã khẩn thiết chân thành xin được giúp đỡ."
+    "example_vi": "Anh ấy đã khẩn thiết chân thành xin được giúp đỡ.",
+    "me": "earnest and sincere"
   },
   {
     "w": "不可思议",
@@ -1627,7 +1815,8 @@
     "w": "千方百计",
     "p": "qiān fāng bǎi jì",
     "m": "trăm phương ngàn kế",
-    "cat": "idiom"
+    "cat": "idiom",
+    "me": "a hundred plans, a thousand schemes"
   },
   {
     "w": "层出不穷",
@@ -1635,7 +1824,8 @@
     "m": "liên tục xuất hiện không ngừng",
     "cat": "idiom",
     "example": "新的问题层出不穷。",
-    "example_vi": "Vấn đề mới liên tục xuất hiện không ngừng."
+    "example_vi": "Vấn đề mới liên tục xuất hiện không ngừng.",
+    "me": "appear continuously without stop"
   },
   {
     "w": "络绎不绝",
@@ -1643,7 +1833,8 @@
     "m": "nườm nượp không dứt",
     "cat": "idiom",
     "example": "游客络绎不绝。",
-    "example_vi": "Du khách đến nườm nượp không dứt."
+    "example_vi": "Du khách đến nườm nượp không dứt.",
+    "me": "an endless flow, bustling without stop"
   },
   {
     "w": "应运而生",
@@ -1651,7 +1842,8 @@
     "m": "ra đời đúng thời",
     "cat": "idiom",
     "example": "这项技术应运而生。",
-    "example_vi": "Công nghệ này ra đời đúng thời điểm."
+    "example_vi": "Công nghệ này ra đời đúng thời điểm.",
+    "me": "born at the right time"
   },
   {
     "w": "势在必行",
@@ -1667,7 +1859,8 @@
     "m": "cấp bách trước mắt",
     "cat": "idiom",
     "example": "这个问题迫在眉睫。",
-    "example_vi": "Vấn đề này cấp bách trước mắt."
+    "example_vi": "Vấn đề này cấp bách trước mắt.",
+    "me": "urgent, pressing"
   },
   {
     "w": "刻不容缓",
@@ -1675,7 +1868,8 @@
     "m": "không thể chậm trễ",
     "cat": "idiom",
     "example": "环境保护刻不容缓。",
-    "example_vi": "Bảo vệ môi trường không thể chậm trễ."
+    "example_vi": "Bảo vệ môi trường không thể chậm trễ.",
+    "me": "cannot be delayed"
   },
   {
     "w": "势不可挡",
@@ -1683,13 +1877,15 @@
     "m": "thế không gì cản nổi",
     "cat": "idiom",
     "example": "这股潮流势不可挡。",
-    "example_vi": "Trào lưu này có thế không gì cản nổi."
+    "example_vi": "Trào lưu này có thế không gì cản nổi.",
+    "me": "an unstoppable force"
   },
   {
     "w": "举足轻重",
     "p": "jǔ zú qīng zhòng",
     "m": "quan trọng, có ảnh hưởng lớn, có vai trò then chốt",
-    "cat": "idiom"
+    "cat": "idiom",
+    "me": "important, highly influential, pivotal"
   },
   {
     "w": "不言而喻",
@@ -1715,19 +1911,22 @@
     "w": "根深蒂固",
     "p": "gēn shēn dì gù",
     "m": "ăn sâu bám rễ",
-    "cat": "idiom"
+    "cat": "idiom",
+    "me": "deeply rooted"
   },
   {
     "w": "息息相关",
     "p": "xī xī xiāng guān",
     "m": "liên quan mật thiết",
-    "cat": "idiom"
+    "cat": "idiom",
+    "me": "closely related"
   },
   {
     "w": "相辅相成",
     "p": "xiāng fǔ xiāng chéng",
     "m": "tương hỗ bổ sung, bổ trợ lẫn nhau cùng hoàn thành",
-    "cat": "idiom"
+    "cat": "idiom",
+    "me": "mutually complementary, jointly completing"
   },
   {
     "w": "相得益彰",
@@ -1741,7 +1940,8 @@
     "m": "đánh đồng so sánh",
     "cat": "idiom",
     "example": "这两件事不能相提并论。",
-    "example_vi": "Hai việc này không thể đánh đồng so sánh."
+    "example_vi": "Hai việc này không thể đánh đồng so sánh.",
+    "me": "equate, unfairly compare"
   },
   {
     "w": "截然不同",
@@ -1749,13 +1949,15 @@
     "m": "khác hẳn nhau",
     "cat": "idiom",
     "example": "两种观点截然不同。",
-    "example_vi": "Hai quan điểm này khác hẳn nhau."
+    "example_vi": "Hai quan điểm này khác hẳn nhau.",
+    "me": "completely different from one another"
   },
   {
     "w": "大同小异",
     "p": "dà tóng xiǎo yì",
     "m": "giống nhiều khác ít",
-    "cat": "idiom"
+    "cat": "idiom",
+    "me": "more similar than different"
   },
   {
     "w": "千差万别",
@@ -1763,7 +1965,8 @@
     "m": "muôn vàn khác biệt",
     "cat": "idiom",
     "example": "每个人的情况千差万别。",
-    "example_vi": "Tình huống của mỗi người muôn vàn khác biệt."
+    "example_vi": "Tình huống của mỗi người muôn vàn khác biệt.",
+    "me": "countless differences"
   },
   {
     "w": "五花八门",
@@ -1771,7 +1974,8 @@
     "m": "đủ kiểu đủ loại",
     "cat": "idiom",
     "example": "市场上的商品五花八门。",
-    "example_vi": "Hàng hóa trên thị trường đủ kiểu đủ loại."
+    "example_vi": "Hàng hóa trên thị trường đủ kiểu đủ loại.",
+    "me": "all sorts and kinds"
   },
   {
     "w": "形形色色",
@@ -1779,19 +1983,22 @@
     "m": "đủ mọi hình dạng",
     "cat": "idiom",
     "example": "这里聚集了形形色色的人。",
-    "example_vi": "Nơi đây tụ họp đủ mọi loại người."
+    "example_vi": "Nơi đây tụ họp đủ mọi loại người.",
+    "me": "all shapes and forms"
   },
   {
     "w": "包罗万象",
     "p": "bāo luó wàn xiàng",
     "m": "bao gồm tất cả mọi mặt, bao quát muôn vẻ",
-    "cat": "idiom"
+    "cat": "idiom",
+    "me": "encompassing every aspect, all-embracing"
   },
   {
     "w": "无所不包",
     "p": "wú suǒ bù bāo",
     "m": "không gì không bao gồm",
-    "cat": "idiom"
+    "cat": "idiom",
+    "me": "leaving nothing out, all-encompassing"
   },
   {
     "w": "恰如其分",
@@ -1799,7 +2006,8 @@
     "m": "vừa đúng mức",
     "cat": "idiom",
     "example": "他的评价恰如其分。",
-    "example_vi": "Đánh giá của anh ấy vừa đúng mức."
+    "example_vi": "Đánh giá của anh ấy vừa đúng mức.",
+    "me": "just right, appropriately"
   },
   {
     "w": "恰到好处",
@@ -1807,7 +2015,8 @@
     "m": "vừa khéo đúng chỗ",
     "cat": "idiom",
     "example": "这个比喻用得恰到好处。",
-    "example_vi": "Cách ví von này được dùng vừa khéo đúng chỗ."
+    "example_vi": "Cách ví von này được dùng vừa khéo đúng chỗ.",
+    "me": "just right, fitting perfectly"
   },
   {
     "w": "独树一帜",
@@ -1831,7 +2040,8 @@
     "m": "mở ra cục diện mới mẻ",
     "cat": "idiom",
     "example": "这是一场别开生面的活动。",
-    "example_vi": "Đây là một hoạt động mở ra cục diện mới mẻ."
+    "example_vi": "Đây là một hoạt động mở ra cục diện mới mẻ.",
+    "me": "open up a new situation"
   },
   {
     "w": "焕然一新",
@@ -1839,7 +2049,8 @@
     "m": "đổi mới hoàn toàn",
     "cat": "idiom",
     "example": "这里焕然一新。",
-    "example_vi": "Nơi đây đã đổi mới hoàn toàn."
+    "example_vi": "Nơi đây đã đổi mới hoàn toàn.",
+    "me": "completely renewed"
   },
   {
     "w": "耳目一新",
@@ -1847,13 +2058,15 @@
     "m": "mới mẻ lạ mắt",
     "cat": "idiom",
     "example": "这个设计令人耳目一新。",
-    "example_vi": "Thiết kế này khiến người ta cảm thấy mới mẻ lạ mắt."
+    "example_vi": "Thiết kế này khiến người ta cảm thấy mới mẻ lạ mắt.",
+    "me": "novel and eye-catching"
   },
   {
     "w": "日益",
     "p": "rì yì",
     "m": "ngày càng",
-    "cat": "language"
+    "cat": "language",
+    "me": "increasingly"
   },
   {
     "w": "逐步",
@@ -1861,19 +2074,22 @@
     "m": "từng bước",
     "cat": "language",
     "example": "公司逐步扩大规模。",
-    "example_vi": "Công ty từng bước mở rộng quy mô."
+    "example_vi": "Công ty từng bước mở rộng quy mô.",
+    "me": "step by step"
   },
   {
     "w": "逐渐",
     "p": "zhú jiàn",
     "m": "dần dần",
-    "cat": "language"
+    "cat": "language",
+    "me": "gradually"
   },
   {
     "w": "日趋",
     "p": "rì qū",
     "m": "ngày càng hướng tới",
-    "cat": "language"
+    "cat": "language",
+    "me": "increasingly heading toward"
   },
   {
     "w": "愈发",
@@ -1881,7 +2097,8 @@
     "m": "càng thêm",
     "cat": "language",
     "example": "竞争愈发激烈。",
-    "example_vi": "Cạnh tranh càng thêm gay gắt."
+    "example_vi": "Cạnh tranh càng thêm gay gắt.",
+    "me": "even more"
   },
   {
     "w": "势必",
@@ -1889,7 +2106,8 @@
     "m": "tất sẽ, chắc chắn",
     "cat": "language",
     "example": "这项政策势必影响市场。",
-    "example_vi": "Chính sách này tất sẽ ảnh hưởng đến thị trường."
+    "example_vi": "Chính sách này tất sẽ ảnh hưởng đến thị trường.",
+    "me": "certainly, surely"
   },
   {
     "w": "必将",
@@ -1897,7 +2115,8 @@
     "m": "nhất định sẽ",
     "cat": "language",
     "example": "这项技术必将改变行业。",
-    "example_vi": "Công nghệ này nhất định sẽ thay đổi ngành."
+    "example_vi": "Công nghệ này nhất định sẽ thay đổi ngành.",
+    "me": "will certainly"
   },
   {
     "w": "无疑",
@@ -1905,31 +2124,36 @@
     "m": "không nghi ngờ gì",
     "cat": "language",
     "example": "这无疑是一次成功。",
-    "example_vi": "Đây không nghi ngờ gì là một thành công."
+    "example_vi": "Đây không nghi ngờ gì là một thành công.",
+    "me": "without doubt"
   },
   {
     "w": "诚然",
     "p": "chéng rán",
     "m": "đúng vậy, thật sự, đúng là, thực ra",
-    "cat": "language"
+    "cat": "language",
+    "me": "indeed, truly, actually"
   },
   {
     "w": "固然",
     "p": "gù rán",
     "m": "cố nhiên, dĩ nhiên là, tuy nhiên, dù cho, đành rằng, tuy là",
-    "cat": "language"
+    "cat": "language",
+    "me": "of course, naturally; however, even though"
   },
   {
     "w": "鉴于",
     "p": "jiàn yú",
     "m": "xét tới, căn cứ",
-    "cat": "language"
+    "cat": "language",
+    "me": "considering, based on"
   },
   {
     "w": "基于",
     "p": "jī yú",
     "m": "dựa trên",
-    "cat": "language"
+    "cat": "language",
+    "me": "base on"
   },
   {
     "w": "针对",
@@ -1941,7 +2165,8 @@
     "w": "围绕",
     "p": "wéi rào",
     "m": "xoay quanh",
-    "cat": "language"
+    "cat": "language",
+    "me": "revolve around"
   },
   {
     "w": "凭借",
@@ -1949,37 +2174,43 @@
     "m": "dựa vào, nhờ",
     "cat": "language",
     "example": "他凭借努力取得了成功。",
-    "example_vi": "Anh ấy dựa vào nỗ lực mà đạt được thành công."
+    "example_vi": "Anh ấy dựa vào nỗ lực mà đạt được thành công.",
+    "me": "rely on, thanks to"
   },
   {
     "w": "借助",
     "p": "jiè zhù",
     "m": "nhờ vào, dựa vào, nhờ sự trợ giúp",
-    "cat": "language"
+    "cat": "language",
+    "me": "rely on, thanks to help"
   },
   {
     "w": "通过",
     "p": "tōng guò",
     "m": "thông qua",
-    "cat": "language"
+    "cat": "language",
+    "me": "pass, approve"
   },
   {
     "w": "从而",
     "p": "cóng ér",
     "m": "từ đó, do đó, nhờ đó, bởi vậy",
-    "cat": "language"
+    "cat": "language",
+    "me": "from then, therefore, thereby"
   },
   {
     "w": "进而",
     "p": "jìn ér",
     "m": "tiếp đó, hơn nữa, tiếp theo, từ đó tiến lên, tiến thêm, rồi",
-    "cat": "language"
+    "cat": "language",
+    "me": "next, moreover, further, then"
   },
   {
     "w": "反之",
     "p": "fǎn zhī",
     "m": "ngược lại",
-    "cat": "language"
+    "cat": "language",
+    "me": "in contrast"
   },
   {
     "w": "乃至",
@@ -1993,7 +2224,8 @@
     "m": "đến nỗi",
     "cat": "language",
     "example": "他太专注了，以至没听到敲门声。",
-    "example_vi": "Anh ấy quá tập trung, đến nỗi không nghe thấy tiếng gõ cửa."
+    "example_vi": "Anh ấy quá tập trung, đến nỗi không nghe thấy tiếng gõ cửa.",
+    "me": "to the point that"
   },
   {
     "w": "致使",
@@ -2001,6 +2233,7 @@
     "m": "dẫn đến, khiến cho",
     "cat": "language",
     "example": "疏忽致使了这次事故。",
-    "example_vi": "Sự sơ suất đã dẫn đến vụ tai nạn này."
+    "example_vi": "Sự sơ suất đã dẫn đến vụ tai nạn này.",
+    "me": "lead to, cause"
   }
 ]
