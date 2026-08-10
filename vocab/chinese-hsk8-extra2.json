@@ -1,0 +1,786 @@
+[
+  {
+    "w": "濡染",
+    "p": "rú rǎn",
+    "m": "thấm nhuần, chịu ảnh hưởng",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "遴选",
+    "p": "lín xuǎn",
+    "m": "tuyển chọn kỹ lưỡng",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "蛰伏",
+    "p": "zhé fú",
+    "m": "ẩn náu, mai phục chờ thời",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "罅隙",
+    "p": "xià xì",
+    "m": "kẽ hở, lỗ hổng",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "弊端",
+    "p": "bì duān",
+    "m": "mặt tiêu cực, sơ hở, tệ nạn",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "梗概",
+    "p": "gěng gài",
+    "m": "đại ý, tóm tắt nội dung",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "憧憬",
+    "p": "chōng jǐng",
+    "m": "khao khát, mơ ước, hướng tới",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "蹉跎",
+    "p": "cuō tuó",
+    "m": "lãng phí thời gian, bỏ lỡ",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "僭越",
+    "p": "jiàn yuè",
+    "m": "vượt quyền hạn, lấn quyền",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "蔑视",
+    "p": "miè shì",
+    "m": "khinh thường, coi thường",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "缥缈",
+    "p": "piāo miǎo",
+    "m": "mơ hồ, hư ảo, xa vời",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Tính từ"
+  },
+  {
+    "w": "萦绕",
+    "p": "yíng rào",
+    "m": "quanh quẩn, vấn vít, ám ảnh",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "踌躇",
+    "p": "chóu chú",
+    "m": "do dự, lưỡng lự, chần chừ",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "诟病",
+    "p": "gòu bìng",
+    "m": "chỉ trích, phê phán gay gắt",
+    "cat": "law",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "拮据",
+    "p": "jié jū",
+    "m": "túng thiếu, khó khăn về tài chính",
+    "cat": "economics",
+    "me": "",
+    "pos": "Tính từ"
+  },
+  {
+    "w": "纷繁",
+    "p": "fēn fán",
+    "m": "phức tạp, rắc rối, hỗn tạp",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Tính từ"
+  },
+  {
+    "w": "冗余",
+    "p": "rǒng yú",
+    "m": "thừa thãi, dư thừa không cần thiết",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Tính từ"
+  },
+  {
+    "w": "揣摩",
+    "p": "chuǎi mó",
+    "m": "đoán định, suy đoán tâm tư",
+    "cat": "law",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "悠远",
+    "p": "yōu yuǎn",
+    "m": "xa xôi, lâu dài, thâm trầm",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Tính từ"
+  },
+  {
+    "w": "俯仰",
+    "p": "fǔ yǎng",
+    "m": "cúi ngẩng, mọi động tác",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "摒弃",
+    "p": "bìng qì",
+    "m": "loại bỏ, từ bỏ dứt khoát",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "翘楚",
+    "p": "qiào chǔ",
+    "m": "người xuất sắc, nhân tài đứng đầu",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "渺茫",
+    "p": "miǎo máng",
+    "m": "mờ mịt, không hy vọng",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Tính từ"
+  },
+  {
+    "w": "莅临",
+    "p": "lì lín",
+    "m": "quang lâm, đến dự (kính ngữ)",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "垂询",
+    "p": "chuí xún",
+    "m": "hỏi han (từ cấp trên)",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "鉴别",
+    "p": "jiàn bié",
+    "m": "giám định, phân biệt, nhận biết",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "磋商",
+    "p": "cuō shāng",
+    "m": "thương lượng, đàm phán",
+    "cat": "diplomacy",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "禀赋",
+    "p": "bǐng fù",
+    "m": "thiên phú, tài năng bẩm sinh",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "颓废",
+    "p": "tuí fèi",
+    "m": "tàn tạ, suy đồi, nản lòng",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Tính từ"
+  },
+  {
+    "w": "刚愎",
+    "p": "gāng bì",
+    "m": "bướng bỉnh, cứng đầu, ngoan cố",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Tính từ"
+  },
+  {
+    "w": "凋零",
+    "p": "diāo líng",
+    "m": "tàn úa, suy tàn",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "勃兴",
+    "p": "bó xīng",
+    "m": "phát triển mạnh mẽ, nổi lên",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "藩篱",
+    "p": "fān lí",
+    "m": "hàng rào, giới hạn, ràng buộc",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "勾勒",
+    "p": "gōu lè",
+    "m": "phác thảo, vẽ nét chính",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "承袭",
+    "p": "chéng xí",
+    "m": "kế thừa, tiếp thu truyền thống",
+    "cat": "culture",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "侵蚀",
+    "p": "qīn shí",
+    "m": "xâm thực, ăn mòn dần",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "鞭策",
+    "p": "biān cè",
+    "m": "thúc đẩy, khuyến khích, roi vọt",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "羁绊",
+    "p": "jī bàn",
+    "m": "ràng buộc, trói buộc",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "愆期",
+    "p": "qiān qī",
+    "m": "trễ hạn, quá kỳ hạn",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "嫡传",
+    "p": "dí chuán",
+    "m": "truyền thụ chính thống",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Tính từ"
+  },
+  {
+    "w": "跌宕",
+    "p": "diē dàng",
+    "m": "thăng trầm, gập ghềnh",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Tính từ"
+  },
+  {
+    "w": "瑰丽",
+    "p": "guī lì",
+    "m": "lộng lẫy, kỳ ảo, tuyệt đẹp",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Tính từ"
+  },
+  {
+    "w": "轮廓",
+    "p": "lún kuò",
+    "m": "đường nét, phác thảo, hình dạng tổng quát",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "粹然",
+    "p": "cuì rán",
+    "m": "thuần túy, tinh khiết tuyệt đối",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Tính từ"
+  },
+  {
+    "w": "韬光养晦",
+    "p": "tāo guāng yǎng huì",
+    "m": "che giấu tài năng chờ thời",
+    "cat": "thành ngữ",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "返璞归真",
+    "p": "fǎn pǔ guī zhēn",
+    "m": "trở về bản chất, sống giản dị",
+    "cat": "philosophy",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "拨云见日",
+    "p": "bō yún jiàn rì",
+    "m": "mây tan thấy trời, sự thật hiện ra",
+    "cat": "thành ngữ",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "擘画",
+    "p": "bò huà",
+    "m": "lập kế hoạch lớn, vạch ra chiến lược",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "稽查",
+    "p": "jī chá",
+    "m": "thanh tra, kiểm tra nghiêm ngặt",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "踪迹",
+    "p": "zōng jì",
+    "m": "dấu vết, tung tích",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "堪称",
+    "p": "kān chēng",
+    "m": "xứng đáng được gọi là",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "勘探",
+    "p": "kān tàn",
+    "m": "thăm dò, khảo sát địa chất",
+    "cat": "science",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "竣工",
+    "p": "jùn gōng",
+    "m": "hoàn công, khánh thành công trình",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "肇始",
+    "p": "zhào shǐ",
+    "m": "khởi đầu, bắt nguồn",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "鼎盛",
+    "p": "dǐng shèng",
+    "m": "cực thịnh, hưng thịnh nhất",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Tính từ"
+  },
+  {
+    "w": "赋权",
+    "p": "fù quán",
+    "m": "trao quyền, ủy quyền",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "蓄势",
+    "p": "xù shì",
+    "m": "tích lũy thế lực, chuẩn bị lực lượng",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "肃然",
+    "p": "sù rán",
+    "m": "nghiêm trang, kính cẩn",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Tính từ"
+  },
+  {
+    "w": "敦促",
+    "p": "dūn cù",
+    "m": "thúc giục, đôn đốc",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "纳入",
+    "p": "nà rù",
+    "m": "đưa vào, tích hợp",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "甄选",
+    "p": "zhēn xuǎn",
+    "m": "tuyển chọn tinh tế, sàng lọc",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "禀告",
+    "p": "bǐng gào",
+    "m": "tâu trình, báo cáo (với cấp trên)",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "遒劲",
+    "p": "qiú jìn",
+    "m": "hùng hồn, mạnh mẽ (bút pháp/văn phong)",
+    "cat": "literature",
+    "me": "",
+    "pos": "Tính từ"
+  },
+  {
+    "w": "峻拒",
+    "p": "jùn jù",
+    "m": "từ chối thẳng thắn, cự tuyệt",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "稔熟",
+    "p": "rěn shú",
+    "m": "quen thuộc, thành thạo",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Tính từ"
+  },
+  {
+    "w": "鲜明",
+    "p": "xiān míng",
+    "m": "rõ ràng, sắc nét, nổi bật",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Tính từ"
+  },
+  {
+    "w": "洞见",
+    "p": "dòng jiàn",
+    "m": "cái nhìn sâu sắc, hiểu thấu đáo",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "管窥",
+    "p": "guǎn kuī",
+    "m": "nhìn từ ống (hạn hẹp), ý kiến khiêm tốn",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "申辩",
+    "p": "shēn biàn",
+    "m": "thanh minh, biện hộ",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "苛责",
+    "p": "kē zé",
+    "m": "chỉ trích gay gắt, trách mắng nghiêm khắc",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "垂范",
+    "p": "chuí fàn",
+    "m": "nêu gương, làm mẫu",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "跌落",
+    "p": "diē luò",
+    "m": "rơi xuống, sụt giảm mạnh",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "湮没",
+    "p": "yān mò",
+    "m": "bị chìm vào quên lãng, bị che khuất",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "澄清",
+    "p": "chéng qīng",
+    "m": "làm sáng tỏ, đính chính",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "笃信",
+    "p": "dǔ xìn",
+    "m": "tin tưởng vững chắc, sùng tín",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "遴聘",
+    "p": "lín pìn",
+    "m": "lựa chọn và bổ nhiệm",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "笃行",
+    "p": "dǔ xíng",
+    "m": "thực hành một cách kiên định",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "申饬",
+    "p": "shēn chì",
+    "m": "cảnh cáo, phê bình chính thức",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "谳案",
+    "p": "yàn àn",
+    "m": "xét xử vụ án, tuyên án",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "缄默",
+    "p": "jiān mò",
+    "m": "im lặng, không nói",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Tính từ"
+  },
+  {
+    "w": "慷慨陈词",
+    "p": "kāng kǎi chén cí",
+    "m": "nói với giọng hùng hồn, bày tỏ ý kiến mạnh mẽ",
+    "cat": "thành ngữ",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "义正言辞",
+    "p": "yì zhèng yán cí",
+    "m": "lý lẽ chính đáng, lời lẽ đúng đắn",
+    "cat": "thành ngữ",
+    "me": "",
+    "pos": "Tính từ"
+  },
+  {
+    "w": "望文生义",
+    "p": "wàng wén shēng yì",
+    "m": "hiểu sai nghĩa theo mặt chữ",
+    "cat": "thành ngữ",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "力排众议",
+    "p": "lì pái zhòng yì",
+    "m": "kiên quyết bác bỏ ý kiến số đông",
+    "cat": "thành ngữ",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "臻于至善",
+    "p": "zhēn yú zhì shàn",
+    "m": "đạt đến mức hoàn hảo nhất",
+    "cat": "thành ngữ",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "隐约其辞",
+    "p": "yǐn yuē qí cí",
+    "m": "nói mơ hồ, không rõ ràng",
+    "cat": "thành ngữ",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "分权制衡",
+    "p": "fēn quán zhì héng",
+    "m": "phân quyền kiểm soát lẫn nhau",
+    "cat": "thành ngữ",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "尽职调查",
+    "p": "jìn zhí diào chá",
+    "m": "thẩm định due diligence",
+    "cat": "thành ngữ",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "隽永",
+    "p": "juàn yǒng",
+    "m": "ý vị sâu xa, lâu bền",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Tính từ"
+  },
+  {
+    "w": "忧虑",
+    "p": "yōu lǜ",
+    "m": "lo lắng, ưu tư",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "超然",
+    "p": "chāo rán",
+    "m": "siêu thoát, không vướng bận",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Tính từ"
+  },
+  {
+    "w": "淡泊",
+    "p": "dàn bó",
+    "m": "đạm bạc, không màng danh lợi",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Tính từ"
+  },
+  {
+    "w": "布衣",
+    "p": "bù yī",
+    "m": "thường dân, người áo vải",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "社稷",
+    "p": "shè jì",
+    "m": "xã tắc, quốc gia",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "庙堂",
+    "p": "miào táng",
+    "m": "triều đình, chính phủ cao nhất",
+    "cat": "politics",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "江湖",
+    "p": "jiāng hú",
+    "m": "giang hồ, thế giới người thường",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "追本溯源",
+    "p": "zhuī běn sù yuán",
+    "m": "tìm về gốc rễ nguồn gốc",
+    "cat": "thành ngữ",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "核威慑",
+    "p": "hé wēi shè",
+    "m": "răn đe hạt nhân",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  }
+]
