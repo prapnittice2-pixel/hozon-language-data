@@ -4,14 +4,16 @@
     "p": "liǎng gè",
     "m": "hai cái, hai (+ danh từ đếm được)",
     "cat": "number",
-    "me": "two (+ countable noun)"
+    "me": "two (+ countable noun)",
+    "pos": "Số từ"
   },
   {
     "w": "几个",
     "p": "jǐ gè",
     "m": "mấy cái, vài cái, bao nhiêu",
     "cat": "number",
-    "me": "a few, how many"
+    "me": "a few, how many",
+    "pos": "Đại từ"
   },
   {
     "w": "想要",
@@ -20,7 +22,8 @@
     "cat": "verb",
     "example": "我想要一杯咖啡。",
     "example_vi": "Tôi muốn một cốc cà phê.",
-    "me": "want (to have/do something)"
+    "me": "want (to have/do something)",
+    "pos": "Động từ"
   },
   {
     "w": "站起来",
@@ -29,28 +32,32 @@
     "cat": "verb",
     "example": "请大家站起来。",
     "example_vi": "Xin mời mọi người đứng lên.",
-    "me": "stand up"
+    "me": "stand up",
+    "pos": "Động từ"
   },
   {
     "w": "坐下",
     "p": "zuò xia",
     "m": "ngồi xuống",
     "cat": "verb",
-    "me": "sit down"
+    "me": "sit down",
+    "pos": "Động từ"
   },
   {
     "w": "好看",
     "p": "hǎo kàn",
     "m": "đẹp, trông hay, hấp dẫn",
     "cat": "adjective",
-    "me": "beautiful, appealing, attractive"
+    "me": "beautiful, appealing, attractive",
+    "pos": "Tính từ"
   },
   {
     "w": "什么时候",
     "p": "shénme shíhou",
     "m": "khi nào, bao giờ",
     "cat": "time",
-    "me": "when"
+    "me": "when",
+    "pos": "Đại từ"
   },
   {
     "w": "请问",
@@ -59,6 +66,7 @@
     "cat": "greeting",
     "example": "请问，图书馆怎么走？",
     "example_vi": "Xin hỏi, thư viện đi thế nào?",
-    "me": "may I ask, excuse me"
+    "me": "may I ask, excuse me",
+    "pos": "Động từ"
   }
 ]

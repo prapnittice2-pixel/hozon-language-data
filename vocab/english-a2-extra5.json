@@ -3,126 +3,147 @@
     "w": "have breakfast",
     "p": "hæv ˈbrɛkfəst",
     "m": "ăn sáng",
-    "cat": "daily"
+    "cat": "daily",
+    "pos": "Động từ"
   },
   {
     "w": "go to work",
     "p": "ɡoʊ tuː wɜːrk",
     "m": "đi làm",
-    "cat": "daily"
+    "cat": "daily",
+    "pos": "Động từ"
   },
   {
     "w": "come home",
     "p": "kʌm hoʊm",
     "m": "về nhà",
-    "cat": "daily"
+    "cat": "daily",
+    "pos": "Động từ"
   },
   {
     "w": "last week",
     "p": "læst wiːk",
     "m": "tuần trước",
-    "cat": "time"
+    "cat": "time",
+    "pos": "Danh từ"
   },
   {
     "w": "next month",
     "p": "nɛkst mʌnθ",
     "m": "tháng sau",
-    "cat": "time"
+    "cat": "time",
+    "pos": "Danh từ"
   },
   {
     "w": "in the morning",
     "p": "ɪn ðə ˈmɔːrnɪŋ",
     "m": "vào buổi sáng",
-    "cat": "time"
+    "cat": "time",
+    "pos": "Động từ"
   },
   {
     "w": "at the moment",
     "p": "æt ðə ˈmoʊmənt",
     "m": "hiện tại, lúc này",
-    "cat": "time"
+    "cat": "time",
+    "pos": "Danh từ"
   },
   {
     "w": "these days",
     "p": "ðiːz deɪz",
     "m": "dạo này, hiện nay",
-    "cat": "time"
+    "cat": "time",
+    "pos": "Danh từ"
   },
   {
     "w": "lately",
     "p": "ˈleɪtli",
     "m": "gần đây, dạo gần đây",
-    "cat": "time"
+    "cat": "time",
+    "pos": "Danh từ"
   },
   {
     "w": "since",
     "p": "sɪns",
     "m": "từ khi, kể từ, từ lúc",
-    "cat": "language"
+    "cat": "language",
+    "pos": "Động từ"
   },
   {
     "w": "for a while",
     "p": "fɔːr ə waɪl",
     "m": "một lúc, một khoảng thời gian",
-    "cat": "time"
+    "cat": "time",
+    "pos": "Danh từ"
   },
   {
     "w": "oval",
     "p": "ˈoʊvəl",
     "m": "hình bầu dục",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "pos": "Tính từ"
   },
   {
     "w": "diamond",
     "p": "ˈdaɪəmənd",
     "m": "hình thoi; kim cương",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "pos": "Tính từ"
   },
   {
     "w": "out of stock",
     "p": "aʊt əv stɒk",
     "m": "hết hàng, không còn trong kho",
-    "cat": "shopping"
+    "cat": "shopping",
+    "pos": "Danh từ"
   },
   {
     "w": "sold out",
     "p": "soʊld aʊt",
     "m": "đã bán hết",
-    "cat": "shopping"
+    "cat": "shopping",
+    "pos": "Danh từ"
   },
   {
     "w": "ticket machine",
     "p": "ˈtɪkɪt məˈʃiːn",
     "m": "máy bán vé tự động",
-    "cat": "transport"
+    "cat": "transport",
+    "pos": "Danh từ"
   },
   {
     "w": "speed limit",
     "p": "spiːd ˈlɪmɪt",
     "m": "giới hạn tốc độ",
-    "cat": "transport"
+    "cat": "transport",
+    "pos": "Danh từ"
   },
   {
     "w": "parking",
     "p": "ˈpɑːrkɪŋ",
     "m": "bãi đỗ xe; việc đậu xe",
-    "cat": "transport"
+    "cat": "transport",
+    "pos": "Danh từ"
   },
   {
     "w": "text",
     "p": "tɛkst",
     "m": "nhắn tin, gửi tin nhắn văn bản",
-    "cat": "công nghệ"
+    "cat": "công nghệ",
+    "pos": "Động từ"
   },
   {
     "w": "voicemail",
     "p": "ˈvɔɪsmeɪl",
     "m": "hộp thư thoại, tin nhắn thoại",
-    "cat": "công nghệ"
+    "cat": "công nghệ",
+    "pos": "Động từ"
   },
   {
     "w": "attic",
     "p": "ˈætɪk",
     "m": "gác xép, tầng áp mái",
-    "cat": "home"
+    "cat": "home",
+    "pos": "Danh từ"
   }
 ]

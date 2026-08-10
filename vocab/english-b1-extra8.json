@@ -3,1506 +3,1757 @@
     "w": "knitting",
     "m": "việc đan len",
     "cat": "giải trí",
-    "p": "nˈɪɾɪŋ"
+    "p": "nˈɪɾɪŋ",
+    "pos": "Danh từ"
   },
   {
     "w": "sewing",
     "m": "việc may vá",
     "cat": "giải trí",
-    "p": "sˈoʊɪŋ"
+    "p": "sˈoʊɪŋ",
+    "pos": "Danh từ"
   },
   {
     "w": "embroidery",
     "m": "thêu thùa",
     "cat": "giải trí",
-    "p": "ɛmbɹˈɔɪdɚɹi"
+    "p": "ɛmbɹˈɔɪdɚɹi",
+    "pos": "Danh từ"
   },
   {
     "w": "pottery",
     "m": "nghề làm gốm",
     "cat": "giải trí",
-    "p": "pˈɑːɾɚɹi"
+    "p": "pˈɑːɾɚɹi",
+    "pos": "Danh từ"
   },
   {
     "w": "sculpting",
     "m": "điêu khắc",
     "cat": "giải trí",
-    "p": "skˈʌlptɪŋ"
+    "p": "skˈʌlptɪŋ",
+    "pos": "Danh từ"
   },
   {
     "w": "painting",
     "m": "bức tranh, hội họa",
     "cat": "giải trí",
-    "p": "pˈeɪntɪŋ"
+    "p": "pˈeɪntɪŋ",
+    "pos": "Danh từ"
   },
   {
     "w": "sketching",
     "m": "phác họa",
     "cat": "giải trí",
-    "p": "skˈɛtʃɪŋ"
+    "p": "skˈɛtʃɪŋ",
+    "pos": "Danh từ"
   },
   {
     "w": "photography",
     "m": "nhiếp ảnh",
     "cat": "giải trí",
-    "p": "fətˈɑːɡɹəfi"
+    "p": "fətˈɑːɡɹəfi",
+    "pos": "Danh từ"
   },
   {
     "w": "gardening",
     "m": "làm vườn",
     "cat": "giải trí",
-    "p": "ɡˈɑːɹdənɪŋ"
+    "p": "ɡˈɑːɹdənɪŋ",
+    "pos": "Động từ"
   },
   {
     "w": "baking",
     "m": "làm bánh",
     "cat": "giải trí",
-    "p": "bˈeɪkɪŋ"
+    "p": "bˈeɪkɪŋ",
+    "pos": "Động từ"
   },
   {
     "w": "cooking",
     "m": "nấu ăn",
     "cat": "giải trí",
-    "p": "kˈʊkɪŋ"
+    "p": "kˈʊkɪŋ",
+    "pos": "Động từ"
   },
   {
     "w": "fishing",
     "m": "câu cá",
     "cat": "giải trí",
-    "p": "fˈɪʃɪŋ"
+    "p": "fˈɪʃɪŋ",
+    "pos": "Danh từ"
   },
   {
     "w": "hiking",
     "m": "đi bộ đường dài",
     "cat": "giải trí",
-    "p": "hˈaɪkɪŋ"
+    "p": "hˈaɪkɪŋ",
+    "pos": "Động từ"
   },
   {
     "w": "camping",
     "m": "cắm trại",
     "cat": "giải trí",
-    "p": "kˈæmpɪŋ"
+    "p": "kˈæmpɪŋ",
+    "pos": "Động từ"
   },
   {
     "w": "birdwatching",
     "m": "ngắm chim",
     "cat": "giải trí",
-    "p": "bˈɜːdwwɑːtʃɪŋ"
+    "p": "bˈɜːdwwɑːtʃɪŋ",
+    "pos": "Động từ"
   },
   {
     "w": "stargazing",
     "m": "ngắm sao",
     "cat": "giải trí",
-    "p": "stˈɑːɹɡeɪzɪŋ"
+    "p": "stˈɑːɹɡeɪzɪŋ",
+    "pos": "Động từ"
   },
   {
     "w": "collecting",
     "m": "sưu tầm",
     "cat": "giải trí",
-    "p": "kəlˈɛktɪŋ"
+    "p": "kəlˈɛktɪŋ",
+    "pos": "Danh từ"
   },
   {
     "w": "gaming",
     "m": "chơi game",
     "cat": "giải trí",
-    "p": "ɡˈeɪmɪŋ"
+    "p": "ɡˈeɪmɪŋ",
+    "pos": "Động từ"
   },
   {
     "w": "puzzle",
     "m": "trò chơi ghép hình",
     "cat": "giải trí",
-    "p": "pˈʌzəl"
+    "p": "pˈʌzəl",
+    "pos": "Danh từ"
   },
   {
     "w": "crossword",
     "m": "ô chữ",
     "cat": "giải trí",
-    "p": "kɹˈɔswɜːd"
+    "p": "kɹˈɔswɜːd",
+    "pos": "Danh từ"
   },
   {
     "w": "karaoke",
     "m": "hát karaoke",
     "cat": "giải trí",
-    "p": "kˌæɹɪˈoʊki"
+    "p": "kˌæɹɪˈoʊki",
+    "pos": "Danh từ"
   },
   {
     "w": "juggling",
     "m": "tung hứng",
     "cat": "giải trí",
-    "p": "dʒˈʌɡlɪŋ"
+    "p": "dʒˈʌɡlɪŋ",
+    "pos": "Danh từ"
   },
   {
     "w": "origami",
     "m": "gấp giấy",
     "cat": "giải trí",
-    "p": "ˌɔːɹɪɡˈɑːmi"
+    "p": "ˌɔːɹɪɡˈɑːmi",
+    "pos": "Danh từ"
   },
   {
     "w": "calligraphy",
     "m": "thư pháp",
     "cat": "giải trí",
-    "p": "kælˈɪɡɹəfi"
+    "p": "kælˈɪɡɹəfi",
+    "pos": "Danh từ"
   },
   {
     "w": "meditation",
     "m": "thiền",
     "cat": "giải trí",
-    "p": "mˌɛdɪtˈeɪʃən"
+    "p": "mˌɛdɪtˈeɪʃən",
+    "pos": "Động từ"
   },
   {
     "w": "scrapbooking",
     "m": "làm album cắt dán",
     "cat": "giải trí",
-    "p": "skɹˈæpbʊkɪŋ"
+    "p": "skɹˈæpbʊkɪŋ",
+    "pos": "Động từ"
   },
   {
     "w": "woodworking",
     "m": "làm đồ gỗ",
     "cat": "giải trí",
-    "p": "wˈʊdwɜːkɪŋ"
+    "p": "wˈʊdwɜːkɪŋ",
+    "pos": "Động từ"
   },
   {
     "w": "festival",
     "m": "lễ hội",
     "cat": "văn hóa",
-    "p": "fˈɛstɪvəl"
+    "p": "fˈɛstɪvəl",
+    "pos": "Danh từ"
   },
   {
     "w": "carnival",
     "m": "hội hóa trang",
     "cat": "văn hóa",
-    "p": "kˈɑːɹnɪvəl"
+    "p": "kˈɑːɹnɪvəl",
+    "pos": "Danh từ"
   },
   {
     "w": "parade",
     "m": "cuộc diễu hành",
     "cat": "văn hóa",
-    "p": "pɚɹˈeɪd"
+    "p": "pɚɹˈeɪd",
+    "pos": "Danh từ"
   },
   {
     "w": "ceremony",
     "m": "buổi lễ",
     "cat": "văn hóa",
-    "p": "sˈɛɹᵻməni"
+    "p": "sˈɛɹᵻməni",
+    "pos": "Danh từ"
   },
   {
     "w": "celebration",
     "m": "lễ kỷ niệm",
     "cat": "văn hóa",
-    "p": "sˌɛləbɹˈeɪʃən"
+    "p": "sˌɛləbɹˈeɪʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "anniversary",
     "m": "ngày kỷ niệm",
     "cat": "văn hóa",
-    "p": "ˌænɪvˈɜːsɚɹi"
+    "p": "ˌænɪvˈɜːsɚɹi",
+    "pos": "Danh từ"
   },
   {
     "w": "reunion",
     "m": "buổi đoàn tụ",
     "cat": "văn hóa",
-    "p": "ɹˌiːjˈuːniən"
+    "p": "ɹˌiːjˈuːniən",
+    "pos": "Danh từ"
   },
   {
     "w": "banquet",
     "m": "tiệc lớn",
     "cat": "văn hóa",
-    "p": "bˈæŋkwɪt"
+    "p": "bˈæŋkwɪt",
+    "pos": "Danh từ"
   },
   {
     "w": "feast",
     "m": "bữa tiệc thịnh soạn",
     "cat": "văn hóa",
-    "p": "fˈiːst"
+    "p": "fˈiːst",
+    "pos": "Danh từ"
   },
   {
     "w": "funeral",
     "m": "đám tang",
     "cat": "văn hóa",
-    "p": "fjˈuːnɚɹəl"
+    "p": "fjˈuːnɚɹəl",
+    "pos": "Danh từ"
   },
   {
     "w": "wedding",
     "m": "đám cưới",
     "cat": "văn hóa",
-    "p": "wˈɛdɪŋ"
+    "p": "wˈɛdɪŋ",
+    "pos": "Danh từ"
   },
   {
     "w": "engagement",
     "m": "đám hỏi, sự đính hôn, mức độ tương tác",
     "cat": "văn hóa",
-    "p": "ɛŋɡˈeɪdʒmənt"
+    "p": "ɛŋɡˈeɪdʒmənt",
+    "pos": "Danh từ"
   },
   {
     "w": "baptism",
     "m": "lễ rửa tội",
     "cat": "văn hóa",
-    "p": "bˈæptɪzəm"
+    "p": "bˈæptɪzəm",
+    "pos": "Danh từ"
   },
   {
     "w": "ritual",
     "m": "nghi thức",
     "cat": "văn hóa",
-    "p": "ɹˈɪtʃuːəl"
+    "p": "ɹˈɪtʃuːəl",
+    "pos": "Danh từ"
   },
   {
     "w": "custom",
     "m": "phong tục",
     "cat": "văn hóa",
-    "p": "kˈʌstəm"
+    "p": "kˈʌstəm",
+    "pos": "Danh từ"
   },
   {
     "w": "heritage",
     "m": "di sản",
     "cat": "văn hóa",
-    "p": "hˈɛɹɪɾɪdʒ"
+    "p": "hˈɛɹɪɾɪdʒ",
+    "pos": "Danh từ"
   },
   {
     "w": "folklore",
     "m": "văn hóa dân gian",
     "cat": "văn hóa",
-    "p": "fˈoʊklɔːɹ"
+    "p": "fˈoʊklɔːɹ",
+    "pos": "Danh từ"
   },
   {
     "w": "legend",
     "m": "truyền thuyết",
     "cat": "văn hóa",
-    "p": "lˈɛdʒənd"
+    "p": "lˈɛdʒənd",
+    "pos": "Danh từ"
   },
   {
     "w": "myth",
     "m": "thần thoại",
     "cat": "văn hóa",
-    "p": "mˈɪθ"
+    "p": "mˈɪθ",
+    "pos": "Danh từ"
   },
   {
     "w": "superstition",
     "m": "mê tín",
     "cat": "văn hóa",
-    "p": "sˈuːpɚstˈɪʃən"
+    "p": "sˈuːpɚstˈɪʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "costume",
     "m": "trang phục hóa trang",
     "cat": "văn hóa",
-    "p": "kˈɔstuːm"
+    "p": "kˈɔstuːm",
+    "pos": "Danh từ"
   },
   {
     "w": "mask",
     "m": "mặt nạ",
     "cat": "văn hóa",
-    "p": "mˈæsk"
+    "p": "mˈæsk",
+    "pos": "Danh từ"
   },
   {
     "w": "souvenir",
     "m": "quà lưu niệm",
     "cat": "văn hóa",
-    "p": "sˌuːvənˈɪɹ"
+    "p": "sˌuːvənˈɪɹ",
+    "pos": "Danh từ"
   },
   {
     "w": "pancake",
     "m": "bánh kếp",
     "cat": "ẩm thực",
-    "p": "pˈæŋkeɪk"
+    "p": "pˈæŋkeɪk",
+    "pos": "Danh từ"
   },
   {
     "w": "waffle",
     "m": "bánh quế",
     "cat": "ẩm thực",
-    "p": "wˈɑːfəl"
+    "p": "wˈɑːfəl",
+    "pos": "Danh từ"
   },
   {
     "w": "omelette",
     "m": "trứng tráng",
     "cat": "ẩm thực",
-    "p": "ˈɑːmlət"
+    "p": "ˈɑːmlət",
+    "pos": "Danh từ"
   },
   {
     "w": "porridge",
     "m": "cháo yến mạch",
     "cat": "ẩm thực",
-    "p": "pˈɔɹɪdʒ"
+    "p": "pˈɔɹɪdʒ",
+    "pos": "Danh từ"
   },
   {
     "w": "cereal",
     "m": "ngũ cốc ăn sáng",
     "cat": "ẩm thực",
-    "p": "sˈiəɹɪəl"
+    "p": "sˈiəɹɪəl",
+    "pos": "Danh từ"
   },
   {
     "w": "toast",
     "m": "nâng ly chúc mừng, bánh mì nướng",
     "cat": "ẩm thực",
-    "p": "tˈoʊst"
+    "p": "tˈoʊst",
+    "pos": "Danh từ"
   },
   {
     "w": "sandwich",
     "m": "bánh kẹp",
     "cat": "ẩm thực",
-    "p": "sˈændwɪtʃ"
+    "p": "sˈændwɪtʃ",
+    "pos": "Danh từ"
   },
   {
     "w": "burger",
     "m": "bánh hamburger",
     "cat": "ẩm thực",
-    "p": "bˈɜːɡɚ"
+    "p": "bˈɜːɡɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "dumpling",
     "m": "bánh bao, há cảo",
     "cat": "ẩm thực",
-    "p": "dˈʌmplɪŋ"
+    "p": "dˈʌmplɪŋ",
+    "pos": "Danh từ"
   },
   {
     "w": "noodle soup",
     "m": "súp mì",
     "cat": "ẩm thực",
-    "p": "nˈuːdəl sˈuːp"
+    "p": "nˈuːdəl sˈuːp",
+    "pos": "Danh từ"
   },
   {
     "w": "stew",
     "m": "món hầm",
     "cat": "ẩm thực",
-    "p": "stˈuː"
+    "p": "stˈuː",
+    "pos": "Danh từ"
   },
   {
     "w": "curry",
     "m": "cà ri",
     "cat": "ẩm thực",
-    "p": "kˈɜːɹi"
+    "p": "kˈɜːɹi",
+    "pos": "Danh từ"
   },
   {
     "w": "stir-fry",
     "m": "món xào",
     "cat": "ẩm thực",
-    "p": "stˈɜːfɹˈaɪ"
+    "p": "stˈɜːfɹˈaɪ",
+    "pos": "Danh từ"
   },
   {
     "w": "barbecue",
     "m": "đồ nướng",
     "cat": "ẩm thực",
-    "p": "bˈɑːɹbɪkjˌuː"
+    "p": "bˈɑːɹbɪkjˌuː",
+    "pos": "Danh từ"
   },
   {
     "w": "roast",
     "m": "món quay",
     "cat": "ẩm thực",
-    "p": "ɹˈoʊst"
+    "p": "ɹˈoʊst",
+    "pos": "Danh từ"
   },
   {
     "w": "salad",
     "m": "rau trộn",
     "cat": "ẩm thực",
-    "p": "sˈæləd"
+    "p": "sˈæləd",
+    "pos": "Danh từ"
   },
   {
     "w": "soup",
     "m": "súp",
     "cat": "ẩm thực",
-    "p": "sˈuːp"
+    "p": "sˈuːp",
+    "pos": "Danh từ"
   },
   {
     "w": "pudding",
     "m": "bánh pudding",
     "cat": "ẩm thực",
-    "p": "pˈʊdɪŋ"
+    "p": "pˈʊdɪŋ",
+    "pos": "Danh từ"
   },
   {
     "w": "pie",
     "m": "bánh nhân",
     "cat": "ẩm thực",
-    "p": "pˈaɪ"
+    "p": "pˈaɪ",
+    "pos": "Danh từ"
   },
   {
     "w": "tart",
     "m": "bánh tart",
     "cat": "ẩm thực",
-    "p": "tˈɑːɹt"
+    "p": "tˈɑːɹt",
+    "pos": "Danh từ"
   },
   {
     "w": "muffin",
     "m": "bánh nướng xốp",
     "cat": "ẩm thực",
-    "p": "mˈʌfɪn"
+    "p": "mˈʌfɪn",
+    "pos": "Danh từ"
   },
   {
     "w": "doughnut",
     "m": "bánh vòng",
     "cat": "ẩm thực",
-    "p": "dˈoʊnʌt"
+    "p": "dˈoʊnʌt",
+    "pos": "Danh từ"
   },
   {
     "w": "biscuit",
     "m": "bánh quy",
     "cat": "ẩm thực",
-    "p": "bˈɪskɪt"
+    "p": "bˈɪskɪt",
+    "pos": "Danh từ"
   },
   {
     "w": "cracker",
     "m": "bánh quy giòn",
     "cat": "ẩm thực",
-    "p": "kɹˈækɚ"
+    "p": "kɹˈækɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "jam",
     "m": "mứt",
     "cat": "ẩm thực",
-    "p": "dʒˈæm"
+    "p": "dʒˈæm",
+    "pos": "Danh từ"
   },
   {
     "w": "honey",
     "m": "mật ong",
     "cat": "ẩm thực",
-    "p": "hˈʌni"
+    "p": "hˈʌni",
+    "pos": "Danh từ"
   },
   {
     "w": "syrup",
     "m": "siro",
     "cat": "ẩm thực",
-    "p": "sˈɪɹʌp"
+    "p": "sˈɪɹʌp",
+    "pos": "Danh từ"
   },
   {
     "w": "sauce",
     "m": "nước sốt",
     "cat": "ẩm thực",
-    "p": "sˈɔːs"
+    "p": "sˈɔːs",
+    "pos": "Danh từ"
   },
   {
     "w": "gravy",
     "m": "nước thịt sệt",
     "cat": "ẩm thực",
-    "p": "ɡɹˈeɪvi"
+    "p": "ɡɹˈeɪvi",
+    "pos": "Danh từ"
   },
   {
     "w": "dressing",
     "m": "sốt trộn salad",
     "cat": "ẩm thực",
-    "p": "dɹˈɛsɪŋ"
+    "p": "dɹˈɛsɪŋ",
+    "pos": "Danh từ"
   },
   {
     "w": "seasoning",
     "m": "gia vị nêm",
     "cat": "ẩm thực",
-    "p": "sˈiːzənɪŋ"
+    "p": "sˈiːzənɪŋ",
+    "pos": "Danh từ"
   },
   {
     "w": "smoothie",
     "m": "sinh tố",
     "cat": "ẩm thực",
-    "p": "smˈuːði"
+    "p": "smˈuːði",
+    "pos": "Danh từ"
   },
   {
     "w": "milkshake",
     "m": "sữa lắc",
     "cat": "ẩm thực",
-    "p": "mˈɪlkʃeɪk"
+    "p": "mˈɪlkʃeɪk",
+    "pos": "Danh từ"
   },
   {
     "w": "lemonade",
     "m": "nước chanh",
     "cat": "ẩm thực",
-    "p": "lˌɛmənˈeɪd"
+    "p": "lˌɛmənˈeɪd",
+    "pos": "Danh từ"
   },
   {
     "w": "cocktail",
     "m": "cốc-tai",
     "cat": "ẩm thực",
-    "p": "kˈɑːkteɪl"
+    "p": "kˈɑːkteɪl",
+    "pos": "Danh từ"
   },
   {
     "w": "cider",
     "m": "rượu táo",
     "cat": "ẩm thực",
-    "p": "sˈaɪdɚ"
+    "p": "sˈaɪdɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "champagne",
     "m": "rượu sâm panh",
     "cat": "ẩm thực",
-    "p": "ʃæmpˈeɪn"
+    "p": "ʃæmpˈeɪn",
+    "pos": "Danh từ"
   },
   {
     "w": "whiskey",
     "m": "rượu whisky",
     "cat": "ẩm thực",
-    "p": "wˈɪski"
+    "p": "wˈɪski",
+    "pos": "Danh từ"
   },
   {
     "w": "brandy",
     "m": "rượu brandy",
     "cat": "ẩm thực",
-    "p": "bɹˈændi"
+    "p": "bɹˈændi",
+    "pos": "Danh từ"
   },
   {
     "w": "appetiser",
     "m": "món khai vị",
     "cat": "ẩm thực",
-    "p": "ˈæpɪtˌaɪzɚ"
+    "p": "ˈæpɪtˌaɪzɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "main course",
     "m": "món chính",
     "cat": "ẩm thực",
-    "p": "mˈeɪn kˈɔːɹs"
+    "p": "mˈeɪn kˈɔːɹs",
+    "pos": "Danh từ"
   },
   {
     "w": "side dish",
     "m": "món phụ",
     "cat": "ẩm thực",
-    "p": "sˈaɪd dˈɪʃ"
+    "p": "sˈaɪd dˈɪʃ",
+    "pos": "Danh từ"
   },
   {
     "w": "leftovers",
     "m": "đồ ăn thừa",
     "cat": "ẩm thực",
-    "p": "lˈɛftoʊvɚz"
+    "p": "lˈɛftoʊvɚz",
+    "pos": "Danh từ"
   },
   {
     "w": "recipe",
     "m": "công thức nấu ăn",
     "cat": "ẩm thực",
-    "p": "ɹˈɛsᵻpˌiː"
+    "p": "ɹˈɛsᵻpˌiː",
+    "pos": "Danh từ"
   },
   {
     "w": "ingredient",
     "m": "nguyên liệu",
     "cat": "ẩm thực",
-    "p": "ɪŋɡɹˈiːdiənt"
+    "p": "ɪŋɡɹˈiːdiənt",
+    "pos": "Danh từ"
   },
   {
     "w": "portion",
     "m": "khẩu phần",
     "cat": "ẩm thực",
-    "p": "pˈɔːɹʃən"
+    "p": "pˈɔːɹʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "helping",
     "m": "suất ăn thêm",
     "cat": "ẩm thực",
-    "p": "hˈɛlpɪŋ"
+    "p": "hˈɛlpɪŋ",
+    "pos": "Danh từ"
   },
   {
     "w": "breeze",
     "m": "làn gió nhẹ",
     "cat": "thiên nhiên",
-    "p": "bɹˈiːz"
+    "p": "bɹˈiːz",
+    "pos": "Danh từ"
   },
   {
     "w": "shower",
     "m": "vòi sen, cơn mưa rào",
     "cat": "thiên nhiên",
-    "p": "ʃˈaʊɚ"
+    "p": "ʃˈaʊɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "sunshine",
     "m": "ánh nắng",
     "cat": "thiên nhiên",
-    "p": "sˈʌnʃaɪn"
+    "p": "sˈʌnʃaɪn",
+    "pos": "Danh từ"
   },
   {
     "w": "rainbow",
     "m": "cầu vồng",
     "cat": "thiên nhiên",
-    "p": "ɹˈeɪnboʊ"
+    "p": "ɹˈeɪnboʊ",
+    "pos": "Danh từ"
   },
   {
     "w": "horizon",
     "m": "chân trời",
     "cat": "thiên nhiên",
-    "p": "hɚɹˈaɪzən"
+    "p": "hɚɹˈaɪzən",
+    "pos": "Danh từ"
   },
   {
     "w": "landscape",
     "m": "phong cảnh",
     "cat": "thiên nhiên",
-    "p": "lˈændskeɪp"
+    "p": "lˈændskeɪp",
+    "pos": "Danh từ"
   },
   {
     "w": "scenery",
     "m": "cảnh vật",
     "cat": "thiên nhiên",
-    "p": "sˈiːnɚɹi"
+    "p": "sˈiːnɚɹi",
+    "pos": "Danh từ"
   },
   {
     "w": "wilderness",
     "m": "vùng hoang dã",
     "cat": "thiên nhiên",
-    "p": "wˈɪldɚnəs"
+    "p": "wˈɪldɚnəs",
+    "pos": "Danh từ"
   },
   {
     "w": "jungle",
     "m": "rừng rậm",
     "cat": "thiên nhiên",
-    "p": "dʒˈʌŋɡəl"
+    "p": "dʒˈʌŋɡəl",
+    "pos": "Danh từ"
   },
   {
     "w": "oasis",
     "m": "ốc đảo",
     "cat": "thiên nhiên",
-    "p": "oʊˈeɪsɪs"
+    "p": "oʊˈeɪsɪs",
+    "pos": "Danh từ"
   },
   {
     "w": "valley",
     "m": "thung lũng",
     "cat": "thiên nhiên",
-    "p": "vˈæli"
+    "p": "vˈæli",
+    "pos": "Danh từ"
   },
   {
     "w": "canyon",
     "m": "hẻm núi sâu",
     "cat": "thiên nhiên",
-    "p": "kˈænɪən"
+    "p": "kˈænɪən",
+    "pos": "Danh từ"
   },
   {
     "w": "waterfall",
     "m": "thác nước",
     "cat": "thiên nhiên",
-    "p": "wˈɔːɾɚfˌɔːl"
+    "p": "wˈɔːɾɚfˌɔːl",
+    "pos": "Danh từ"
   },
   {
     "w": "stream",
     "m": "con suối nhỏ, phát trực tiếp, dòng suối",
     "cat": "thiên nhiên",
-    "p": "stɹˈiːm"
+    "p": "stɹˈiːm",
+    "pos": "Danh từ"
   },
   {
     "w": "pond",
     "m": "ao",
     "cat": "thiên nhiên",
-    "p": "pˈɑːnd"
+    "p": "pˈɑːnd",
+    "pos": "Danh từ"
   },
   {
     "w": "lagoon",
     "m": "đầm phá",
     "cat": "thiên nhiên",
-    "p": "lɐɡˈuːn"
+    "p": "lɐɡˈuːn",
+    "pos": "Danh từ"
   },
   {
     "w": "bay",
     "m": "vịnh",
     "cat": "thiên nhiên",
-    "p": "bˈeɪ"
+    "p": "bˈeɪ",
+    "pos": "Danh từ"
   },
   {
     "w": "shore",
     "m": "bờ biển",
     "cat": "thiên nhiên",
-    "p": "ʃˈɔːɹ"
+    "p": "ʃˈɔːɹ",
+    "pos": "Danh từ"
   },
   {
     "w": "coast",
     "m": "bờ biển, duyên hải",
     "cat": "thiên nhiên",
-    "p": "kˈoʊst"
+    "p": "kˈoʊst",
+    "pos": "Danh từ"
   },
   {
     "w": "reef",
     "m": "rạn san hô",
     "cat": "thiên nhiên",
-    "p": "ɹˈiːf"
+    "p": "ɹˈiːf",
+    "pos": "Danh từ"
   },
   {
     "w": "dune",
     "m": "đụn cát",
     "cat": "thiên nhiên",
-    "p": "dˈuːn"
+    "p": "dˈuːn",
+    "pos": "Danh từ"
   },
   {
     "w": "crater",
     "m": "miệng núi lửa",
     "cat": "thiên nhiên",
-    "p": "kɹˈeɪɾɚ"
+    "p": "kɹˈeɪɾɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "peak",
     "m": "đỉnh núi",
     "cat": "thiên nhiên",
-    "p": "pˈiːk"
+    "p": "pˈiːk",
+    "pos": "Danh từ"
   },
   {
     "w": "ridge",
     "m": "sống núi",
     "cat": "thiên nhiên",
-    "p": "ɹˈɪdʒ"
+    "p": "ɹˈɪdʒ",
+    "pos": "Danh từ"
   },
   {
     "w": "forecast",
     "m": "dự báo thời tiết",
     "cat": "thiên nhiên",
-    "p": "fˈɔːɹkæst"
+    "p": "fˈɔːɹkæst",
+    "pos": "Động từ"
   },
   {
     "w": "climate",
     "m": "khí hậu",
     "cat": "thiên nhiên",
-    "p": "klˈaɪmət"
+    "p": "klˈaɪmət",
+    "pos": "Danh từ"
   },
   {
     "w": "temperature",
     "m": "nhiệt độ",
     "cat": "thiên nhiên",
-    "p": "tˈɛmpɹɪtʃɚ"
+    "p": "tˈɛmpɹɪtʃɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "thermostat",
     "m": "bộ điều nhiệt",
     "cat": "đồ vật",
-    "p": "θˈɜːməstˌæt"
+    "p": "θˈɜːməstˌæt",
+    "pos": "Danh từ"
   },
   {
     "w": "timetable",
     "m": "thời gian biểu",
     "cat": "công việc",
-    "p": "tˈaɪmteɪbəl"
+    "p": "tˈaɪmteɪbəl",
+    "pos": "Danh từ"
   },
   {
     "w": "agenda",
     "m": "chương trình nghị sự",
     "cat": "công việc",
-    "p": "ɐdʒˈɛndə"
+    "p": "ɐdʒˈɛndə",
+    "pos": "Danh từ"
   },
   {
     "w": "memo",
     "m": "bản ghi nhớ",
     "cat": "công việc",
-    "p": "mˈɛmoʊ"
+    "p": "mˈɛmoʊ",
+    "pos": "Danh từ"
   },
   {
     "w": "minutes",
     "m": "biên bản họp",
     "cat": "công việc",
-    "p": "mˈɪnɪts"
+    "p": "mˈɪnɪts",
+    "pos": "Danh từ"
   },
   {
     "w": "report",
     "m": "báo cáo",
     "cat": "công việc",
-    "p": "ɹᵻpˈɔːɹt"
+    "p": "ɹᵻpˈɔːɹt",
+    "pos": "Động từ"
   },
   {
     "w": "presentation",
     "m": "bài thuyết trình",
     "cat": "công việc",
-    "p": "pɹˌɛzəntˈeɪʃən"
+    "p": "pɹˌɛzəntˈeɪʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "proposal",
     "m": "bản đề xuất",
     "cat": "công việc",
-    "p": "pɹəpˈoʊzəl"
+    "p": "pɹəpˈoʊzəl",
+    "pos": "Danh từ"
   },
   {
     "w": "contract",
     "m": "hợp đồng",
     "cat": "công việc",
-    "p": "kˈɑːntɹækt"
+    "p": "kˈɑːntɹækt",
+    "pos": "Danh từ"
   },
   {
     "w": "agreement",
     "m": "thỏa thuận",
     "cat": "công việc",
-    "p": "ɐɡɹˈiːmənt"
+    "p": "ɐɡɹˈiːmənt",
+    "pos": "Danh từ"
   },
   {
     "w": "deal",
     "m": "giao kèo",
     "cat": "công việc",
-    "p": "dˈiːl"
+    "p": "dˈiːl",
+    "pos": "Động từ"
   },
   {
     "w": "negotiation",
     "m": "sự đàm phán",
     "cat": "công việc",
-    "p": "nᵻɡˌoʊʃɪˈeɪʃən"
+    "p": "nᵻɡˌoʊʃɪˈeɪʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "conference",
     "m": "hội nghị",
     "cat": "công việc",
-    "p": "kˈɑːnfɹəns"
+    "p": "kˈɑːnfɹəns",
+    "pos": "Danh từ"
   },
   {
     "w": "workshop",
     "m": "hội thảo thực hành",
     "cat": "công việc",
-    "p": "wˈɜːkʃɑːp"
+    "p": "wˈɜːkʃɑːp",
+    "pos": "Danh từ"
   },
   {
     "w": "briefing",
     "m": "buổi phổ biến thông tin, buổi báo cáo tóm tắt",
     "cat": "công việc",
-    "p": "bɹˈiːfɪŋ"
+    "p": "bɹˈiːfɪŋ",
+    "pos": "Danh từ"
   },
   {
     "w": "feedback",
     "m": "phản hồi",
     "cat": "công việc",
-    "p": "fˈiːdbæk"
+    "p": "fˈiːdbæk",
+    "pos": "Động từ"
   },
   {
     "w": "appraisal",
     "m": "đánh giá năng lực",
     "cat": "công việc",
-    "p": "ɐpɹˈeɪzəl"
+    "p": "ɐpɹˈeɪzəl",
+    "pos": "Động từ"
   },
   {
     "w": "promotion",
     "m": "thăng chức, khuyến mãi",
     "cat": "công việc",
-    "p": "pɹəmˈoʊʃən"
+    "p": "pɹəmˈoʊʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "resignation",
     "m": "sự từ chức",
     "cat": "công việc",
-    "p": "ɹˌɛzɪɡnˈeɪʃən"
+    "p": "ɹˌɛzɪɡnˈeɪʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "recruitment",
     "m": "sự tuyển dụng",
     "cat": "công việc",
-    "p": "ɹᵻkɹˈuːtmənt"
+    "p": "ɹᵻkɹˈuːtmənt",
+    "pos": "Danh từ"
   },
   {
     "w": "vacancy",
     "m": "vị trí trống",
     "cat": "công việc",
-    "p": "vˈeɪkənsi"
+    "p": "vˈeɪkənsi",
+    "pos": "Danh từ"
   },
   {
     "w": "candidate",
     "m": "ứng viên",
     "cat": "công việc",
-    "p": "kˈændᵻdˌeɪt"
+    "p": "kˈændᵻdˌeɪt",
+    "pos": "Danh từ"
   },
   {
     "w": "applicant",
     "m": "người nộp đơn",
     "cat": "công việc",
-    "p": "ˈæplɪkənt"
+    "p": "ˈæplɪkənt",
+    "pos": "Danh từ"
   },
   {
     "w": "shortlist",
     "m": "danh sách rút gọn",
     "cat": "công việc",
-    "p": "ʃˈɔːɹtlɪst"
+    "p": "ʃˈɔːɹtlɪst",
+    "pos": "Danh từ"
   },
   {
     "w": "reference",
     "m": "người giới thiệu, tài liệu tham khảo, tham chiếu",
     "cat": "công việc",
-    "p": "ɹˈɛfɹəns"
+    "p": "ɹˈɛfɹəns",
+    "pos": "Danh từ"
   },
   {
     "w": "probation",
     "m": "thời gian thử việc, quản chế, thử thách, án treo",
     "cat": "công việc",
-    "p": "pɹoʊbˈeɪʃən"
+    "p": "pɹoʊbˈeɪʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "shift",
     "m": "ca làm việc, thay đổi, chuyển dịch",
     "cat": "công việc",
-    "p": "ʃˈɪft"
+    "p": "ʃˈɪft",
+    "pos": "Động từ"
   },
   {
     "w": "overtime",
     "m": "làm thêm giờ",
     "cat": "công việc",
-    "p": "ˈoʊvɚtˌaɪm"
+    "p": "ˈoʊvɚtˌaɪm",
+    "pos": "Động từ"
   },
   {
     "w": "workload",
     "m": "khối lượng công việc",
     "cat": "công việc",
-    "p": "wˈɜːkloʊd"
+    "p": "wˈɜːkloʊd",
+    "pos": "Danh từ"
   },
   {
     "w": "colleague",
     "m": "đồng nghiệp",
     "cat": "công việc",
-    "p": "kˈɑːliːɡ"
+    "p": "kˈɑːliːɡ",
+    "pos": "Danh từ"
   },
   {
     "w": "teamwork",
     "m": "làm việc nhóm",
     "cat": "công việc",
-    "p": "tˈiːmwɜːk"
+    "p": "tˈiːmwɜːk",
+    "pos": "Động từ"
   },
   {
     "w": "productivity",
     "m": "năng suất",
     "cat": "công việc",
-    "p": "pɹˌɑːdəktˈɪvᵻɾi"
+    "p": "pɹˌɑːdəktˈɪvᵻɾi",
+    "pos": "Danh từ"
   },
   {
     "w": "efficiency",
     "m": "hiệu suất",
     "cat": "công việc",
-    "p": "ɪfˈɪʃənsi"
+    "p": "ɪfˈɪʃənsi",
+    "pos": "Danh từ"
   },
   {
     "w": "motivation",
     "m": "động lực",
     "cat": "công việc",
-    "p": "mˌoʊɾɪvˈeɪʃən"
+    "p": "mˌoʊɾɪvˈeɪʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "morale",
     "m": "tinh thần làm việc",
     "cat": "công việc",
-    "p": "mɚɹˈæl"
+    "p": "mɚɹˈæl",
+    "pos": "Danh từ"
   },
   {
     "w": "burnout",
     "m": "sự kiệt sức",
     "cat": "công việc",
-    "p": "bˈɜːnaʊt"
+    "p": "bˈɜːnaʊt",
+    "pos": "Danh từ"
   },
   {
     "w": "commute",
     "m": "việc đi làm xa",
     "cat": "công việc",
-    "p": "kəmjˈuːt"
+    "p": "kəmjˈuːt",
+    "pos": "Danh từ"
   },
   {
     "w": "freelance",
     "m": "làm việc tự do",
     "cat": "công việc",
-    "p": "fɹˈiːlæns"
+    "p": "fɹˈiːlæns",
+    "pos": "Động từ"
   },
   {
     "w": "internship",
     "m": "kỳ thực tập",
     "cat": "công việc",
-    "p": "ɪntˈɜːnʃɪp"
+    "p": "ɪntˈɜːnʃɪp",
+    "pos": "Danh từ"
   },
   {
     "w": "apprenticeship",
     "m": "kỳ học việc",
     "cat": "công việc",
-    "p": "ɐpɹˈɛntɪsʃˌɪp"
+    "p": "ɐpɹˈɛntɪsʃˌɪp",
+    "pos": "Danh từ"
   },
   {
     "w": "qualification",
     "m": "bằng cấp, năng lực, trình độ, điều kiện, chứng chỉ",
     "cat": "công việc",
-    "p": "kwˌɔlɪfɪkˈeɪʃən"
+    "p": "kwˌɔlɪfɪkˈeɪʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "expertise",
     "m": "chuyên môn",
     "cat": "công việc",
-    "p": "ˌɛkspɚtˈiːz"
+    "p": "ˌɛkspɚtˈiːz",
+    "pos": "Danh từ"
   },
   {
     "w": "diligence",
     "m": "sự cần mẫn",
     "cat": "công việc",
-    "p": "dˈɪlɪdʒəns"
+    "p": "dˈɪlɪdʒəns",
+    "pos": "Danh từ"
   },
   {
     "w": "punctuality",
     "m": "sự đúng giờ",
     "cat": "công việc",
-    "p": "pˌʌŋktʃuːˈælᵻɾi"
+    "p": "pˌʌŋktʃuːˈælᵻɾi",
+    "pos": "Danh từ"
   },
   {
     "w": "discipline",
     "m": "tính kỷ luật",
     "cat": "công việc",
-    "p": "dˈɪsɪplˌɪn"
+    "p": "dˈɪsɪplˌɪn",
+    "pos": "Danh từ"
   },
   {
     "w": "initiative",
     "m": "sáng kiến, chủ động, bước đầu tiên",
     "cat": "công việc",
-    "p": "ɪnˈɪʃiətˌɪv"
+    "p": "ɪnˈɪʃiətˌɪv",
+    "pos": "Danh từ"
   },
   {
     "w": "flexibility",
     "m": "sự linh hoạt, sự dẻo dai",
     "cat": "công việc",
-    "p": "flˌɛksəbˈɪlᵻɾi"
+    "p": "flˌɛksəbˈɪlᵻɾi",
+    "pos": "Danh từ"
   },
   {
     "w": "adaptability",
     "m": "khả năng thích nghi",
     "cat": "công việc",
-    "p": "ɐdˌæptəbˈɪlᵻɾi"
+    "p": "ɐdˌæptəbˈɪlᵻɾi",
+    "pos": "Danh từ"
   },
   {
     "w": "leadership",
     "m": "khả năng lãnh đạo",
     "cat": "công việc",
-    "p": "lˈiːdɚʃˌɪp"
+    "p": "lˈiːdɚʃˌɪp",
+    "pos": "Danh từ"
   },
   {
     "w": "delegation",
     "m": "sự ủy thác, ủy quyền, phái đoàn",
     "cat": "công việc",
-    "p": "dˌɛlɪɡˈeɪʃən"
+    "p": "dˌɛlɪɡˈeɪʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "collaboration",
     "m": "sự hợp tác",
     "cat": "công việc",
-    "p": "kəlˌæbɚɹˈeɪʃən"
+    "p": "kəlˌæbɚɹˈeɪʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "coordination",
     "m": "sự phối hợp",
     "cat": "công việc",
-    "p": "koʊˈɔːɹdᵻnˈeɪʃən"
+    "p": "koʊˈɔːɹdᵻnˈeɪʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "supervision",
     "m": "sự giám sát",
     "cat": "công việc",
-    "p": "suːpɚvˈɪʒən"
+    "p": "suːpɚvˈɪʒən",
+    "pos": "Danh từ"
   },
   {
     "w": "mentorship",
     "m": "sự dìu dắt, sự hướng dẫn, kèm cặp, cố vấn",
     "cat": "công việc",
-    "p": "mˈɛntɔːɹʃˌɪp"
+    "p": "mˈɛntɔːɹʃˌɪp",
+    "pos": "Danh từ"
   },
   {
     "w": "networking",
     "m": "việc kết nối quan hệ, xây dựng mạng lưới quan hệ",
     "cat": "công việc",
-    "p": "nˈɛtwɜːkɪŋ"
+    "p": "nˈɛtwɜːkɪŋ",
+    "pos": "Danh từ"
   },
   {
     "w": "craftsmanship",
     "m": "tay nghề thủ công",
     "cat": "công việc",
-    "p": "kɹˈæftsmənʃˌɪp"
+    "p": "kɹˈæftsmənʃˌɪp",
+    "pos": "Danh từ"
   },
   {
     "w": "dexterity",
     "m": "sự khéo tay",
     "cat": "công việc",
-    "p": "dɛkstˈɛɹᵻɾi"
+    "p": "dɛkstˈɛɹᵻɾi",
+    "pos": "Danh từ"
   },
   {
     "w": "precision",
     "m": "sự chính xác",
     "cat": "công việc",
-    "p": "pɹɪsˈɪʒən"
+    "p": "pɹɪsˈɪʒən",
+    "pos": "Danh từ"
   },
   {
     "w": "accuracy",
     "m": "độ chính xác",
     "cat": "công việc",
-    "p": "ˈækjʊɹəsi"
+    "p": "ˈækjʊɹəsi",
+    "pos": "Danh từ"
   },
   {
     "w": "consistency",
     "m": "sự nhất quán",
     "cat": "công việc",
-    "p": "kənsˈɪstənsi"
+    "p": "kənsˈɪstənsi",
+    "pos": "Danh từ"
   },
   {
     "w": "reliability",
     "m": "độ tin cậy",
     "cat": "công việc",
-    "p": "ɹᵻlˌaɪəbˈɪlᵻɾi"
+    "p": "ɹᵻlˌaɪəbˈɪlᵻɾi",
+    "pos": "Danh từ"
   },
   {
     "w": "versatility",
     "m": "tính đa năng",
     "cat": "công việc",
-    "p": "vˌɜːsətˈɪlᵻɾi"
+    "p": "vˌɜːsətˈɪlᵻɾi",
+    "pos": "Danh từ"
   },
   {
     "w": "competence",
     "m": "năng lực",
     "cat": "công việc",
-    "p": "kˈɑːmpɪtəns"
+    "p": "kˈɑːmpɪtəns",
+    "pos": "Tính từ"
   },
   {
     "w": "proficiency",
     "m": "sự thành thạo",
     "cat": "công việc",
-    "p": "pɹəfˈɪʃənsi"
+    "p": "pɹəfˈɪʃənsi",
+    "pos": "Danh từ"
   },
   {
     "w": "aptitude",
     "m": "năng khiếu",
     "cat": "công việc",
-    "p": "ˈæptɪtˌuːd"
+    "p": "ˈæptɪtˌuːd",
+    "pos": "Danh từ"
   },
   {
     "w": "diagnosis",
     "m": "chẩn đoán",
     "cat": "sức khỏe",
-    "p": "dˌaɪəɡnˈoʊsɪs"
+    "p": "dˌaɪəɡnˈoʊsɪs",
+    "pos": "Động từ"
   },
   {
     "w": "treatment",
     "m": "sự điều trị",
     "cat": "sức khỏe",
-    "p": "tɹˈiːtmənt"
+    "p": "tɹˈiːtmənt",
+    "pos": "Danh từ"
   },
   {
     "w": "therapy",
     "m": "liệu pháp",
     "cat": "sức khỏe",
-    "p": "θˈɛɹəpi"
+    "p": "θˈɛɹəpi",
+    "pos": "Danh từ"
   },
   {
     "w": "recovery",
     "m": "sự hồi phục",
     "cat": "sức khỏe",
-    "p": "ɹᵻkˈʌvɚɹi"
+    "p": "ɹᵻkˈʌvɚɹi",
+    "pos": "Danh từ"
   },
   {
     "w": "checkup",
     "m": "khám sức khỏe",
     "cat": "sức khỏe",
-    "p": "tʃˈɛkʌp"
+    "p": "tʃˈɛkʌp",
+    "pos": "Danh từ"
   },
   {
     "w": "vaccination",
     "m": "tiêm phòng, tiêm chủng, vắc-xin",
     "cat": "sức khỏe",
-    "p": "vˌæksᵻnˈeɪʃən"
+    "p": "vˌæksᵻnˈeɪʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "immunisation",
     "m": "sự tạo miễn dịch",
     "cat": "sức khỏe",
-    "p": "ˌɪmjuːnəzˈeɪʃən"
+    "p": "ˌɪmjuːnəzˈeɪʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "hygiene",
     "m": "vệ sinh",
     "cat": "sức khỏe",
-    "p": "hˈaɪdʒiːn"
+    "p": "hˈaɪdʒiːn",
+    "pos": "Danh từ"
   },
   {
     "w": "nutrition",
     "m": "dinh dưỡng",
     "cat": "sức khỏe",
-    "p": "njuːtɹˈɪʃən"
+    "p": "njuːtɹˈɪʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "diet",
     "m": "chế độ ăn",
     "cat": "sức khỏe",
-    "p": "dˈaɪət"
+    "p": "dˈaɪət",
+    "pos": "Danh từ"
   },
   {
     "w": "exercise",
     "m": "tập thể dục",
     "cat": "sức khỏe",
-    "p": "ˈɛksɚsˌaɪz"
+    "p": "ˈɛksɚsˌaɪz",
+    "pos": "Động từ"
   },
   {
     "w": "fitness",
     "m": "thể lực, sức khỏe thể chất, sự cân đối, sự khỏe khoắn",
     "cat": "sức khỏe",
-    "p": "fˈɪtnəs"
+    "p": "fˈɪtnəs",
+    "pos": "Danh từ"
   },
   {
     "w": "wellbeing",
     "m": "sức khỏe tổng thể, sự khỏe mạnh hạnh phúc",
     "cat": "sức khỏe",
-    "p": "wˈɛlbiːɪŋ"
+    "p": "wˈɛlbiːɪŋ",
+    "pos": "Danh từ"
   },
   {
     "w": "posture",
     "m": "tư thế",
     "cat": "sức khỏe",
-    "p": "pˈɔstʃɚ"
+    "p": "pˈɔstʃɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "stamina",
     "m": "sức bền",
     "cat": "sức khỏe",
-    "p": "stˈæmɪnə"
+    "p": "stˈæmɪnə",
+    "pos": "Danh từ"
   },
   {
     "w": "flexibility",
     "m": "sự linh hoạt, sự dẻo dai",
     "cat": "sức khỏe",
-    "p": "flˌɛksəbˈɪlᵻɾi"
+    "p": "flˌɛksəbˈɪlᵻɾi",
+    "pos": "Danh từ"
   },
   {
     "w": "metabolism",
     "m": "trao đổi chất",
     "cat": "sức khỏe",
-    "p": "mətˈæbəlˌɪzəm"
+    "p": "mətˈæbəlˌɪzəm",
+    "pos": "Động từ"
   },
   {
     "w": "circulation",
     "m": "số lượng phát hành, tuần hoàn máu",
     "cat": "sức khỏe",
-    "p": "sˌɜːkjʊlˈeɪʃən"
+    "p": "sˌɜːkjʊlˈeɪʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "digestion",
     "m": "tiêu hóa",
     "cat": "sức khỏe",
-    "p": "daɪdʒˈɛstʃən"
+    "p": "daɪdʒˈɛstʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "dehydration",
     "m": "sự mất nước",
     "cat": "sức khỏe",
-    "p": "dˌiːhaɪdɹˈeɪʃən"
+    "p": "dˌiːhaɪdɹˈeɪʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "obesity",
     "m": "béo phì",
     "cat": "sức khỏe",
-    "p": "oʊbˈiːsəɾi"
+    "p": "oʊbˈiːsəɾi",
+    "pos": "Danh từ"
   },
   {
     "w": "addiction",
     "m": "sự nghiện",
     "cat": "sức khỏe",
-    "p": "ɐdˈɪkʃən"
+    "p": "ɐdˈɪkʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "withdrawal",
     "m": "hội chứng cai, sự rút tiền",
     "cat": "sức khỏe",
-    "p": "wɪθdɹˈɔːl"
+    "p": "wɪθdɹˈɔːl",
+    "pos": "Danh từ"
   },
   {
     "w": "relapse",
     "m": "sự tái phát",
     "cat": "sức khỏe",
-    "p": "ɹᵻlˈæps"
+    "p": "ɹᵻlˈæps",
+    "pos": "Danh từ"
   },
   {
     "w": "remedy",
     "m": "phương thuốc, cách chữa, biện pháp khắc phục",
     "cat": "sức khỏe",
-    "p": "ɹˈɛmədi"
+    "p": "ɹˈɛmədi",
+    "pos": "Danh từ"
   },
   {
     "w": "cure",
     "m": "cách chữa",
     "cat": "sức khỏe",
-    "p": "kjˈʊɹ"
+    "p": "kjˈʊɹ",
+    "pos": "Danh từ"
   },
   {
     "w": "relief",
     "m": "sự nhẹ nhõm, sự thuyên giảm",
     "cat": "sức khỏe",
-    "p": "ɹᵻlˈiːf"
+    "p": "ɹᵻlˈiːf",
+    "pos": "Danh từ"
   },
   {
     "w": "side effect",
     "m": "tác dụng phụ",
     "cat": "sức khỏe",
-    "p": "sˈaɪd ɪfˈɛkt"
+    "p": "sˈaɪd ɪfˈɛkt",
+    "pos": "Danh từ"
   },
   {
     "w": "overdose",
     "m": "quá liều",
     "cat": "sức khỏe",
-    "p": "ˈoʊvɚdˌoʊs"
+    "p": "ˈoʊvɚdˌoʊs",
+    "pos": "Danh từ"
   },
   {
     "w": "epidemic",
     "m": "dịch bệnh",
     "cat": "sức khỏe",
-    "p": "ˌɛpɪdˈɛmɪk"
+    "p": "ˌɛpɪdˈɛmɪk",
+    "pos": "Danh từ"
   },
   {
     "w": "quarantine",
     "m": "sự cách ly",
     "cat": "sức khỏe",
-    "p": "kwˈɔːɹəntˌiːn"
+    "p": "kwˈɔːɹəntˌiːn",
+    "pos": "Danh từ"
   },
   {
     "w": "sanitation",
     "m": "vệ sinh môi trường",
     "cat": "sức khỏe",
-    "p": "sˌænɪtˈeɪʃən"
+    "p": "sˌænɪtˈeɪʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "acquaintance",
     "m": "người quen",
     "cat": "người",
-    "p": "ɐkwˈeɪntəns"
+    "p": "ɐkwˈeɪntəns",
+    "pos": "Danh từ"
   },
   {
     "w": "companion",
     "m": "bạn đồng hành",
     "cat": "người",
-    "p": "kəmpˈæniən"
+    "p": "kəmpˈæniən",
+    "pos": "Danh từ"
   },
   {
     "w": "confidant",
     "m": "người tâm phúc",
     "cat": "người",
-    "p": "kˈɑːnfɪdˌɑːnt"
+    "p": "kˈɑːnfɪdˌɑːnt",
+    "pos": "Danh từ"
   },
   {
     "w": "ally",
     "m": "đồng minh",
     "cat": "người",
-    "p": "ˈælaɪ"
+    "p": "ˈælaɪ",
+    "pos": "Danh từ"
   },
   {
     "w": "rival",
     "m": "đối thủ",
     "cat": "người",
-    "p": "ɹˈaɪvəl"
+    "p": "ɹˈaɪvəl",
+    "pos": "Danh từ"
   },
   {
     "w": "opponent",
     "m": "đối phương",
     "cat": "người",
-    "p": "əpˈoʊnənt"
+    "p": "əpˈoʊnənt",
+    "pos": "Danh từ"
   },
   {
     "w": "adversary",
     "m": "kẻ thù",
     "cat": "người",
-    "p": "ˈædvɚsɚɹi"
+    "p": "ˈædvɚsɚɹi",
+    "pos": "Danh từ"
   },
   {
     "w": "accomplice",
     "m": "đồng phạm",
     "cat": "người",
-    "p": "ɐkˈɑːmplɪs"
+    "p": "ɐkˈɑːmplɪs",
+    "pos": "Danh từ"
   },
   {
     "w": "associate",
     "m": "cộng sự",
     "cat": "người",
-    "p": "ɐsˈoʊsɪˌeɪt"
+    "p": "ɐsˈoʊsɪˌeɪt",
+    "pos": "Danh từ"
   },
   {
     "w": "partner",
     "m": "đối tác, bạn đời",
     "cat": "người",
-    "p": "pˈɑːɹtnɚ"
+    "p": "pˈɑːɹtnɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "spouse",
     "m": "vợ hoặc chồng, vợ/chồng",
     "cat": "người",
-    "p": "spˈaʊs"
+    "p": "spˈaʊs",
+    "pos": "Danh từ"
   },
   {
     "w": "fiancé",
     "m": "chồng chưa cưới",
     "cat": "người",
-    "p": "fiˈɑːnsˈeɪ"
+    "p": "fiˈɑːnsˈeɪ",
+    "pos": "Danh từ"
   },
   {
     "w": "fiancée",
     "m": "vợ chưa cưới",
     "cat": "người",
-    "p": "fiˈɑːnsˈeɪ"
+    "p": "fiˈɑːnsˈeɪ",
+    "pos": "Danh từ"
   },
   {
     "w": "relative",
     "m": "họ hàng",
     "cat": "người",
-    "p": "ɹˈɛlətˌɪv"
+    "p": "ɹˈɛlətˌɪv",
+    "pos": "Danh từ"
   },
   {
     "w": "ancestor",
     "m": "tổ tiên",
     "cat": "người",
-    "p": "ˈænsɛstɚ"
+    "p": "ˈænsɛstɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "descendant",
     "m": "con cháu",
     "cat": "người",
-    "p": "dᵻsˈɛndənt"
+    "p": "dᵻsˈɛndənt",
+    "pos": "Danh từ"
   },
   {
     "w": "offspring",
     "m": "con cái",
     "cat": "người",
-    "p": "ˈɔfspɹɪŋ"
+    "p": "ˈɔfspɹɪŋ",
+    "pos": "Danh từ"
   },
   {
     "w": "sibling",
     "m": "anh chị em ruột",
     "cat": "người",
-    "p": "sˈɪblɪŋ"
+    "p": "sˈɪblɪŋ",
+    "pos": "Danh từ"
   },
   {
     "w": "twin",
     "m": "sinh đôi",
     "cat": "người",
-    "p": "twˈɪn"
+    "p": "twˈɪn",
+    "pos": "Danh từ"
   },
   {
     "w": "godparent",
     "m": "cha mẹ đỡ đầu",
     "cat": "người",
-    "p": "ɡˈɑːdpɛɹənt"
+    "p": "ɡˈɑːdpɛɹənt",
+    "pos": "Danh từ"
   },
   {
     "w": "guardian",
     "m": "người giám hộ",
     "cat": "người",
-    "p": "ɡˈɑːɹdiən"
+    "p": "ɡˈɑːɹdiən",
+    "pos": "Danh từ"
   },
   {
     "w": "househusband",
     "m": "người chồng nội trợ",
     "cat": "người",
-    "p": "hˈaʊshʌsbənd"
+    "p": "hˈaʊshʌsbənd",
+    "pos": "Danh từ"
   },
   {
     "w": "breadwinner",
     "m": "trụ cột gia đình",
     "cat": "người",
-    "p": "bɹˈɛdwɪnɚ"
+    "p": "bɹˈɛdwɪnɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "newcomer",
     "m": "người mới đến",
     "cat": "người",
-    "p": "nˈuːkʌmɚ"
+    "p": "nˈuːkʌmɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "outsider",
     "m": "người ngoài cuộc",
     "cat": "người",
-    "p": "aʊtsˈaɪdɚ"
+    "p": "aʊtsˈaɪdɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "celebrity",
     "m": "người nổi tiếng",
     "cat": "người",
-    "p": "səlˈɛbɹᵻɾi"
+    "p": "səlˈɛbɹᵻɾi",
+    "pos": "Danh từ"
   },
   {
     "w": "protagonist",
     "m": "nhân vật chính",
     "cat": "người",
-    "p": "pɹˈoʊɾɐɡənˌɪst"
+    "p": "pɹˈoʊɾɐɡənˌɪst",
+    "pos": "Danh từ"
   },
   {
     "w": "culprit",
     "m": "thủ phạm",
     "cat": "người",
-    "p": "kˈʌlpɹɪt"
+    "p": "kˈʌlpɹɪt",
+    "pos": "Danh từ"
   },
   {
     "w": "victim",
     "m": "nạn nhân",
     "cat": "người",
-    "p": "vˈɪktɪm"
+    "p": "vˈɪktɪm",
+    "pos": "Danh từ"
   },
   {
     "w": "survivor",
     "m": "người sống sót",
     "cat": "người",
-    "p": "sɚvˈaɪvɚ"
+    "p": "sɚvˈaɪvɚ",
+    "pos": "Danh từ"
   }
 ]

@@ -3,48 +3,56 @@
     "w": "can",
     "p": "kæn",
     "m": "có thể, biết (làm gì đó)",
-    "cat": "verb"
+    "cat": "verb",
+    "pos": "Động từ"
   },
   {
     "w": "sound",
     "p": "saʊnd",
     "m": "nghe có vẻ...; âm thanh",
-    "cat": "verb"
+    "cat": "verb",
+    "pos": "Động từ"
   },
   {
     "w": "have lunch",
     "p": "hæv lʌntʃ",
     "m": "ăn trưa",
-    "cat": "daily"
+    "cat": "daily",
+    "pos": "Động từ"
   },
   {
     "w": "have dinner",
     "p": "hæv ˈdɪnər",
     "m": "ăn tối, ăn bữa chiều",
-    "cat": "daily"
+    "cat": "daily",
+    "pos": "Động từ"
   },
   {
     "w": "what time",
     "p": "wʌt taɪm",
     "m": "mấy giờ, lúc mấy giờ",
-    "cat": "time"
+    "cat": "time",
+    "pos": "Danh từ"
   },
   {
     "w": "how often",
     "p": "haʊ ˈɒfən",
     "m": "bao lâu một lần, tần suất như thế nào",
-    "cat": "time"
+    "cat": "time",
+    "pos": "Danh từ"
   },
   {
     "w": "upstairs",
     "p": "ˌʌpˈstɛərz",
     "m": "ở tầng trên, lên cầu thang",
-    "cat": "place"
+    "cat": "place",
+    "pos": "Động từ"
   },
   {
     "w": "downstairs",
     "p": "ˌdaʊnˈstɛərz",
     "m": "ở tầng dưới, xuống cầu thang",
-    "cat": "place"
+    "cat": "place",
+    "pos": "Động từ"
   }
 ]

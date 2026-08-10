@@ -1,0 +1,546 @@
+[
+  {
+    "w": "存储",
+    "p": "cún chǔ",
+    "m": "lưu trữ",
+    "cat": "advanced_language",
+    "me": "to store, archive",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "内科",
+    "p": "nèi kē",
+    "m": "khoa nội",
+    "cat": "advanced_language",
+    "me": "internal medicine department",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "外科",
+    "p": "wài kē",
+    "m": "khoa ngoại",
+    "cat": "advanced_language",
+    "me": "surgery department",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "儿科",
+    "p": "ér kē",
+    "m": "khoa nhi",
+    "cat": "advanced_language",
+    "me": "pediatrics",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "妇科",
+    "p": "fù kē",
+    "m": "khoa phụ sản",
+    "cat": "advanced_language",
+    "me": "obstetrics and gynecology department",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "骨科",
+    "p": "gǔ kē",
+    "m": "khoa xương",
+    "cat": "advanced_language",
+    "me": "orthopedics (bone department)",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "皮肤科",
+    "p": "pí fū kē",
+    "m": "khoa da liễu",
+    "cat": "advanced_language",
+    "me": "dermatology department",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "眼科",
+    "p": "yǎn kē",
+    "m": "khoa mắt",
+    "cat": "ophthalmology",
+    "me": "ophthalmology department",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "口腔科",
+    "p": "kǒu qiāng kē",
+    "m": "khoa răng hàm mặt",
+    "cat": "advanced_language",
+    "me": "dentistry, dental and maxillofacial department",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "中医",
+    "p": "zhōng yī",
+    "m": "y học cổ truyền Trung Quốc",
+    "cat": "medicine",
+    "me": "traditional Chinese medicine",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "校园",
+    "p": "xiào yuán",
+    "m": "khuôn viên trường",
+    "cat": "advanced_language",
+    "me": "school campus",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "台风",
+    "p": "tái fēng",
+    "m": "bão nhiệt đới",
+    "cat": "advanced_language",
+    "me": "typhoon",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "香油",
+    "p": "xiāng yóu",
+    "m": "dầu mè",
+    "cat": "advanced_language",
+    "me": "sesame oil",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "生姜",
+    "p": "shēng jiāng",
+    "m": "gừng tươi",
+    "cat": "advanced_language",
+    "me": "fresh ginger",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "火锅",
+    "p": "huǒ guō",
+    "m": "lẩu",
+    "cat": "advanced_language",
+    "me": "hot pot",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "春卷",
+    "p": "chūn juǎn",
+    "m": "chả giò",
+    "cat": "advanced_language",
+    "me": "spring roll",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "馄饨",
+    "p": "hún tun",
+    "m": "hoành thánh",
+    "cat": "advanced_language",
+    "me": "wonton",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "汤圆",
+    "p": "tāng yuán",
+    "m": "chè trôi nước",
+    "cat": "advanced_language",
+    "me": "glutinous rice balls in syrup",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "月饼",
+    "p": "yuè bǐng",
+    "m": "bánh trung thu",
+    "cat": "advanced_language",
+    "me": "mooncake",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "年糕",
+    "p": "nián gāo",
+    "m": "bánh tổ",
+    "cat": "advanced_language",
+    "me": "nian gao (New Year rice cake)",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "候机室",
+    "p": "hòu jī shì",
+    "m": "phòng chờ sân bay",
+    "cat": "advanced_language",
+    "me": "airport lounge",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "直达",
+    "p": "zhí dá",
+    "m": "trực tiếp, thẳng",
+    "cat": "advanced_language",
+    "me": "direct, straightforward",
+    "pos": "Phó từ"
+  },
+  {
+    "w": "中转",
+    "p": "zhōng zhuǎn",
+    "m": "trung chuyển",
+    "cat": "advanced_language",
+    "me": "transit, transship",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "旅游景点",
+    "p": "lǚ yóu jǐng diǎn",
+    "m": "điểm du lịch",
+    "cat": "travel",
+    "me": "tourist attraction",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "游客中心",
+    "p": "yóu kè zhōng xīn",
+    "m": "trung tâm du khách",
+    "cat": "thành ngữ",
+    "me": "visitor center",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "骑行",
+    "p": "qí xíng",
+    "m": "đạp xe",
+    "cat": "advanced_language",
+    "me": "cycling",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "金牌",
+    "p": "jīn pái",
+    "m": "huy chương vàng",
+    "cat": "advanced_language",
+    "me": "gold medal",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "银牌",
+    "p": "yín pái",
+    "m": "huy chương bạc",
+    "cat": "advanced_language",
+    "me": "silver medal",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "铜牌",
+    "p": "tóng pái",
+    "m": "huy chương đồng",
+    "cat": "advanced_language",
+    "me": "bronze medal",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "游乐场",
+    "p": "yóu lè chǎng",
+    "m": "công viên giải trí",
+    "cat": "kids_entertainment",
+    "me": "amusement park",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "行星",
+    "p": "xíng xīng",
+    "m": "hành tinh",
+    "cat": "advanced_language",
+    "me": "planet",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "地理学",
+    "p": "dì lǐ xué",
+    "m": "địa lý học",
+    "cat": "advanced_language",
+    "me": "geography",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "监狱",
+    "p": "jiān yù",
+    "m": "nhà tù",
+    "cat": "advanced_language",
+    "me": "prison",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "语音",
+    "p": "yǔ yīn",
+    "m": "âm vị, ngữ âm",
+    "cat": "linguistics",
+    "me": "phoneme, phonetics",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "人山人海",
+    "p": "rén shān rén hǎi",
+    "m": "người đông như nước",
+    "cat": "thành ngữ",
+    "me": "crowds like a flood of people",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "维生素",
+    "p": "wéi shēng sù",
+    "m": "vitamin",
+    "cat": "advanced_language",
+    "me": "vitamin",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "无忧无虑",
+    "p": "wú yōu wú lǜ",
+    "m": "không lo không buồn",
+    "cat": "thành ngữ",
+    "me": "carefree, without worry",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "整数",
+    "p": "zhěng shù",
+    "m": "số nguyên",
+    "cat": "advanced_language",
+    "me": "integer",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "分数",
+    "p": "fēn shù",
+    "m": "phân số",
+    "cat": "advanced_language",
+    "me": "fraction",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "竹子",
+    "p": "zhú zi",
+    "m": "cây tre",
+    "cat": "advanced_language",
+    "me": "bamboo",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "松树",
+    "p": "sōng shù",
+    "m": "cây thông",
+    "cat": "advanced_language",
+    "me": "pine",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "柳树",
+    "p": "liǔ shù",
+    "m": "cây liễu",
+    "cat": "advanced_language",
+    "me": "willow",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "枫树",
+    "p": "fēng shù",
+    "m": "cây phong",
+    "cat": "advanced_language",
+    "me": "maple",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "粽子",
+    "p": "zòng zi",
+    "m": "bánh ú (lá)",
+    "cat": "advanced_language",
+    "me": "rice dumpling wrapped in leaves",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "登山",
+    "p": "dēng shān",
+    "m": "leo núi",
+    "cat": "outdoor",
+    "me": "climbing",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "纽约",
+    "p": "Niǔ yuē",
+    "m": "New York",
+    "cat": "advanced_language",
+    "me": "New York",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "伦敦",
+    "p": "Lún dūn",
+    "m": "London",
+    "cat": "advanced_language",
+    "me": "London",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "巴黎",
+    "p": "Bā lí",
+    "m": "Paris",
+    "cat": "advanced_language",
+    "me": "Paris",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "柏林",
+    "p": "Bó lín",
+    "m": "Berlin",
+    "cat": "advanced_language",
+    "me": "Berlin",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "东京",
+    "p": "Dōng jīng",
+    "m": "Tokyo",
+    "cat": "advanced_language",
+    "me": "Tokyo",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "首尔",
+    "p": "Shǒu ěr",
+    "m": "Seoul",
+    "cat": "advanced_language",
+    "me": "Seoul",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "悉尼",
+    "p": "Xī ní",
+    "m": "Sydney",
+    "cat": "advanced_language",
+    "me": "Sydney",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "新加坡",
+    "p": "Xīn jiā pō",
+    "m": "Singapore",
+    "cat": "advanced_language",
+    "me": "Singapore",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "香港",
+    "p": "Xiāng gǎng",
+    "m": "Hồng Kông",
+    "cat": "advanced_language",
+    "me": "Hong Kong",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "台湾",
+    "p": "Tái wān",
+    "m": "Đài Loan",
+    "cat": "advanced_language",
+    "me": "Taiwan",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "蝴蝶",
+    "p": "hú dié",
+    "m": "con bướm",
+    "cat": "advanced_language",
+    "me": "butterfly",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "蜻蜓",
+    "p": "qīng tíng",
+    "m": "chuồn chuồn",
+    "cat": "advanced_language",
+    "me": "dragonfly",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "蟑螂",
+    "p": "zhāng láng",
+    "m": "gián",
+    "cat": "advanced_language",
+    "me": "cockroach",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "蜘蛛",
+    "p": "zhī zhū",
+    "m": "nhện",
+    "cat": "advanced_language",
+    "me": "spider",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "蜗牛",
+    "p": "wō niú",
+    "m": "ốc sên",
+    "cat": "advanced_language",
+    "me": "snail",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "蛤蟆",
+    "p": "há ma",
+    "m": "cóc",
+    "cat": "advanced_language",
+    "me": "toad",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "骆驼",
+    "p": "luò tuo",
+    "m": "lạc đà",
+    "cat": "advanced_language",
+    "me": "camel",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "鲨鱼",
+    "p": "shā yú",
+    "m": "cá mập",
+    "cat": "advanced_language",
+    "me": "shark",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "螃蟹",
+    "p": "páng xiè",
+    "m": "cua",
+    "cat": "advanced_language",
+    "me": "crab",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "彩虹",
+    "p": "cǎi hóng",
+    "m": "cầu vồng",
+    "cat": "advanced_language",
+    "me": "rainbow",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "体温",
+    "p": "tǐ wēn",
+    "m": "nhiệt độ cơ thể",
+    "cat": "medicine",
+    "me": "temperature",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "理由",
+    "p": "lǐ yóu",
+    "m": "lý do",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "隐私",
+    "p": "yǐn sī",
+    "m": "quyền riêng tư",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  }
+]

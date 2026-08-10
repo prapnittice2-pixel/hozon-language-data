@@ -6,7 +6,8 @@
     "cat": "tech",
     "example": "她取消关注了那个账号。",
     "example_vi": "Cô ấy đã hủy theo dõi tài khoản đó.",
-    "me": "unfollow"
+    "me": "unfollow",
+    "pos": "Động từ"
   },
   {
     "w": "UP主",
@@ -15,7 +16,8 @@
     "cat": "tech",
     "example": "这位UP主发布了新视频。",
     "example_vi": "Người tạo nội dung này đã đăng video mới.",
-    "me": "content creator (Bilibili/YouTube)"
+    "me": "content creator (Bilibili/YouTube)",
+    "pos": "Danh từ"
   },
   {
     "w": "电子支付",
@@ -24,7 +26,8 @@
     "cat": "tech",
     "example": "现在电子支付很普遍。",
     "example_vi": "Hiện nay thanh toán điện tử rất phổ biến.",
-    "me": "electronic payment"
+    "me": "electronic payment",
+    "pos": "Động từ"
   },
   {
     "w": "微信支付",
@@ -33,7 +36,8 @@
     "cat": "tech",
     "example": "他用微信支付买单。",
     "example_vi": "Anh ấy dùng WeChat Pay để thanh toán.",
-    "me": "pay via WeChat Pay"
+    "me": "pay via WeChat Pay",
+    "pos": "Động từ"
   },
   {
     "w": "刷脸",
@@ -42,21 +46,24 @@
     "cat": "tech",
     "example": "这个门禁可以刷脸进入。",
     "example_vi": "Cửa an ninh này có thể quét khuôn mặt để vào.",
-    "me": "facial scan payment"
+    "me": "facial scan payment",
+    "pos": "Động từ"
   },
   {
     "w": "居家办公",
     "p": "jūjiā bàngōng",
     "m": "làm việc tại nhà, work from home",
     "cat": "work",
-    "me": "work from home"
+    "me": "work from home",
+    "pos": "Động từ"
   },
   {
     "w": "混合办公",
     "p": "hùnhé bàngōng",
     "m": "làm việc theo mô hình lai (văn phòng + tại nhà)",
     "cat": "work",
-    "me": "hybrid working (office and remote)"
+    "me": "hybrid working (office and remote)",
+    "pos": "Động từ"
   },
   {
     "w": "弹性工作",
@@ -65,14 +72,16 @@
     "cat": "work",
     "example": "公司实行弹性工作制度。",
     "example_vi": "Công ty thực hiện chế độ làm việc giờ linh hoạt.",
-    "me": "work flexible hours"
+    "me": "work flexible hours",
+    "pos": "Động từ"
   },
   {
     "w": "副业",
     "p": "fùyè",
     "m": "nghề tay trái, công việc phụ ngoài công việc chính",
     "cat": "work",
-    "me": "side hustle"
+    "me": "side hustle",
+    "pos": "Danh từ"
   },
   {
     "w": "斜杠青年",
@@ -81,6 +90,7 @@
     "cat": "society",
     "example": "他是一名典型的斜杠青年。",
     "example_vi": "Anh ấy là một người trẻ đa nghề điển hình.",
-    "me": "the 'slash' generation — people with multiple jobs and roles at once"
+    "me": "the 'slash' generation — people with multiple jobs and roles at once",
+    "pos": "Danh từ"
   }
 ]

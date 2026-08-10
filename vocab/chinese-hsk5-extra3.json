@@ -4,21 +4,24 @@
     "p": "kuàng qiě",
     "m": "hơn nữa, vả lại",
     "cat": "trạng từ",
-    "me": "moreover, besides"
+    "me": "moreover, besides",
+    "pos": "Phó từ"
   },
   {
     "w": "固然",
     "p": "gù rán",
     "m": "cố nhiên, dĩ nhiên là, tuy nhiên, dù cho, đành rằng, tuy là",
     "cat": "trạng từ",
-    "me": "of course, naturally; however, even though"
+    "me": "of course, naturally; however, even though",
+    "pos": "Phó từ"
   },
   {
     "w": "诚然",
     "p": "chéng rán",
     "m": "đúng vậy, thật sự, đúng là, thực ra",
     "cat": "trạng từ",
-    "me": "indeed, truly, actually"
+    "me": "indeed, truly, actually",
+    "pos": "Phó từ"
   },
   {
     "w": "毕竟",
@@ -27,14 +30,16 @@
     "cat": "trạng từ",
     "example": "毕竟他还是个孩子。",
     "example_vi": "Xét cho cùng thì nó vẫn còn là một đứa trẻ.",
-    "me": "after all, in the end"
+    "me": "after all, in the end",
+    "pos": "Phó từ"
   },
   {
     "w": "姑且",
     "p": "gū qiě",
     "m": "tạm thời, cứ tạm",
     "cat": "trạng từ",
-    "me": "temporarily, for now"
+    "me": "temporarily, for now",
+    "pos": "Phó từ"
   },
   {
     "w": "未免",
@@ -43,34 +48,39 @@
     "cat": "trạng từ",
     "example": "这样做未免太冒险了。",
     "example_vi": "Làm như vậy thì không khỏi quá mạo hiểm.",
-    "me": "cannot help but, inevitably"
+    "me": "cannot help but, inevitably",
+    "pos": "Phó từ"
   },
   {
     "w": "尚且",
     "p": "shàng qiě",
     "m": "còn... huống chi",
     "cat": "trạng từ",
-    "me": "even..., let alone"
+    "me": "even..., let alone",
+    "pos": "Phó từ"
   },
   {
     "w": "何况",
     "p": "hé kuàng",
     "m": "huống chi, huống hồ, hơn nữa, huống gì",
     "cat": "trạng từ",
-    "me": "let alone, moreover"
+    "me": "let alone, moreover",
+    "pos": "Phó từ"
   },
   {
     "w": "反而",
     "p": "fǎn ér",
     "m": "ngược lại, trái lại",
     "cat": "trạng từ",
-    "me": "by contrast"
+    "me": "by contrast",
+    "pos": "Phó từ"
   },
   {
     "w": "宁可",
     "p": "nìng kě",
     "m": "thà... còn hơn",
-    "cat": "trạng từ"
+    "cat": "trạng từ",
+    "pos": "Phó từ"
   },
   {
     "w": "纵然",
@@ -79,20 +89,23 @@
     "cat": "trạng từ",
     "example": "纵然困难重重，他也没有放弃。",
     "example_vi": "Dù cho khó khăn chồng chất, anh ấy cũng không từ bỏ.",
-    "me": "even though"
+    "me": "even though",
+    "pos": "Phó từ"
   },
   {
     "w": "既然",
     "p": "jì rán",
     "m": "đã..., vì đã",
-    "cat": "trạng từ"
+    "cat": "trạng từ",
+    "pos": "Phó từ"
   },
   {
     "w": "一旦",
     "p": "yī dàn",
     "m": "một khi, một mai",
     "cat": "trạng từ",
-    "me": "once, someday"
+    "me": "once, someday",
+    "pos": "Phó từ"
   },
   {
     "w": "倘若",
@@ -101,7 +114,8 @@
     "cat": "trạng từ",
     "example": "倘若下雨，比赛就取消。",
     "example_vi": "Nếu như trời mưa, trận đấu sẽ bị hủy.",
-    "me": "if, supposing"
+    "me": "if, supposing",
+    "pos": "Phó từ"
   },
   {
     "w": "假若",
@@ -110,7 +124,8 @@
     "cat": "trạng từ",
     "example": "假若他早点来，就不会错过了。",
     "example_vi": "Giả sử anh ấy đến sớm hơn, thì đã không bỏ lỡ.",
-    "me": "supposing, if"
+    "me": "supposing, if",
+    "pos": "Phó từ"
   },
   {
     "w": "诸如",
@@ -119,7 +134,8 @@
     "cat": "học thuật",
     "example": "他喜欢很多运动，诸如篮球、足球。",
     "example_vi": "Anh ấy thích nhiều môn thể thao, chẳng hạn như bóng rổ, bóng đá.",
-    "me": "such as, for example"
+    "me": "such as, for example",
+    "pos": "Danh từ"
   },
   {
     "w": "以至于",
@@ -128,7 +144,8 @@
     "cat": "trạng từ",
     "example": "他太专注了，以至于没听到电话响。",
     "example_vi": "Anh ấy tập trung quá, đến mức không nghe thấy điện thoại reo.",
-    "me": "to the point of, so much that"
+    "me": "to the point of, so much that",
+    "pos": "Phó từ"
   },
   {
     "w": "乃至",
@@ -136,7 +153,8 @@
     "m": "thậm chí, đến tận",
     "cat": "trạng từ",
     "example": "全国乃至全世界都关注这个事件。",
-    "example_vi": "Cả nước thậm chí toàn thế giới đều quan tâm sự kiện này."
+    "example_vi": "Cả nước thậm chí toàn thế giới đều quan tâm sự kiện này.",
+    "pos": "Phó từ"
   },
   {
     "w": "凡是",
@@ -145,7 +163,8 @@
     "cat": "trạng từ",
     "example": "凡是符合条件的都可以申请。",
     "example_vi": "Hễ là đủ điều kiện thì đều có thể nộp đơn.",
-    "me": "whenever it is, whatever is"
+    "me": "whenever it is, whatever is",
+    "pos": "Phó từ"
   },
   {
     "w": "唯有",
@@ -154,14 +173,16 @@
     "cat": "trạng từ",
     "example": "唯有努力才能成功。",
     "example_vi": "Chỉ có nỗ lực mới có thể thành công.",
-    "me": "only, solely"
+    "me": "only, solely",
+    "pos": "Phó từ"
   },
   {
     "w": "固执",
     "p": "gù zhí",
     "m": "cứng đầu, bướng bỉnh, cố chấp",
     "cat": "tính từ",
-    "me": "stubborn, obstinate, headstrong"
+    "me": "stubborn, obstinate, headstrong",
+    "pos": "Tính từ"
   },
   {
     "w": "谦逊",
@@ -170,7 +191,8 @@
     "cat": "tính từ",
     "example": "他为人谦逊。",
     "example_vi": "Anh ấy đối nhân xử thế rất khiêm tốn.",
-    "me": "modest, humble"
+    "me": "modest, humble",
+    "pos": "Tính từ"
   },
   {
     "w": "迫切",
@@ -179,7 +201,8 @@
     "cat": "tính từ",
     "example": "我们迫切需要解决这个问题。",
     "example_vi": "Chúng ta cấp bách cần giải quyết vấn đề này.",
-    "me": "urgent, pressing"
+    "me": "urgent, pressing",
+    "pos": "Tính từ"
   },
   {
     "w": "坦率",
@@ -188,7 +211,8 @@
     "cat": "tính từ",
     "example": "他说话很坦率。",
     "example_vi": "Anh ấy nói chuyện rất thẳng thắn.",
-    "me": "candid"
+    "me": "candid",
+    "pos": "Tính từ"
   },
   {
     "w": "审慎",
@@ -197,7 +221,8 @@
     "cat": "tính từ",
     "example": "做决定要审慎。",
     "example_vi": "Ra quyết định phải thận trọng.",
-    "me": "cautious"
+    "me": "cautious",
+    "pos": "Tính từ"
   },
   {
     "w": "精湛",
@@ -206,7 +231,8 @@
     "cat": "tính từ",
     "example": "他的技艺十分精湛。",
     "example_vi": "Tay nghề của anh ấy vô cùng tinh thông.",
-    "me": "proficient, masterful"
+    "me": "proficient, masterful",
+    "pos": "Tính từ"
   },
   {
     "w": "卓越",
@@ -215,7 +241,8 @@
     "cat": "tính từ",
     "example": "他取得了卓越的成就。",
     "example_vi": "Anh ấy đã đạt được thành tựu xuất sắc.",
-    "me": "outstanding, exceptional"
+    "me": "outstanding, exceptional",
+    "pos": "Tính từ"
   },
   {
     "w": "稳健",
@@ -224,7 +251,8 @@
     "cat": "tính từ",
     "example": "公司采取稳健的经营策略。",
     "example_vi": "Công ty áp dụng chiến lược kinh doanh vững chắc.",
-    "me": "solid, enduring"
+    "me": "solid, enduring",
+    "pos": "Tính từ"
   },
   {
     "w": "深邃",
@@ -233,7 +261,8 @@
     "cat": "tính từ",
     "example": "他的目光深邃。",
     "example_vi": "Ánh mắt của anh ấy thâm sâu.",
-    "me": "profound, deep"
+    "me": "profound, deep",
+    "pos": "Tính từ"
   },
   {
     "w": "隐约",
@@ -242,40 +271,46 @@
     "cat": "tính từ",
     "example": "远处隐约传来歌声。",
     "example_vi": "Từ xa văng vẳng tiếng hát lờ mờ.",
-    "me": "dim, vague"
+    "me": "dim, vague",
+    "pos": "Tính từ"
   },
   {
     "w": "阐述",
     "p": "chǎn shù",
     "m": "giải thích chi tiết, trình bày, giải thích rõ ràng, diễn giải",
     "cat": "hành động",
-    "me": "explain in detail, present, clarify, interpret"
+    "me": "explain in detail, present, clarify, interpret",
+    "pos": "Động từ"
   },
   {
     "w": "归纳",
     "p": "guī nà",
     "m": "quy nạp, tổng kết",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "pos": "Danh từ"
   },
   {
     "w": "演绎",
     "p": "yǎn yì",
     "m": "diễn dịch, suy diễn",
     "cat": "học thuật",
-    "me": "deduce, infer"
+    "me": "deduce, infer",
+    "pos": "Danh từ"
   },
   {
     "w": "推断",
     "p": "tuī duàn",
     "m": "suy luận, kết luận, suy đoán, phán đoán",
     "cat": "hành động",
-    "me": "to infer, conclude, speculate, judge"
+    "me": "to infer, conclude, speculate, judge",
+    "pos": "Động từ"
   },
   {
     "w": "论证",
     "p": "lùn zhèng",
     "m": "luận chứng, chứng minh",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "pos": "Động từ"
   },
   {
     "w": "阐明",
@@ -284,7 +319,8 @@
     "cat": "hành động",
     "example": "他阐明了自己的观点。",
     "example_vi": "Anh ấy đã làm rõ quan điểm của mình.",
-    "me": "clarify, explain clearly"
+    "me": "clarify, explain clearly",
+    "pos": "Động từ"
   },
   {
     "w": "剖析",
@@ -293,7 +329,8 @@
     "cat": "hành động",
     "example": "他深入剖析了这个问题。",
     "example_vi": "Anh ấy đã phân tích sâu vấn đề này.",
-    "me": "analyze, dissect"
+    "me": "analyze, dissect",
+    "pos": "Động từ"
   },
   {
     "w": "探讨",
@@ -302,13 +339,15 @@
     "cat": "học thuật",
     "example": "我们需要深入探讨这个问题。",
     "example_vi": "Chúng ta cần thảo luận sâu vấn đề này.",
-    "me": "discuss, explore"
+    "me": "discuss, explore",
+    "pos": "Động từ"
   },
   {
     "w": "验证",
     "p": "yàn zhèng",
     "m": "kiểm chứng, xác nhận",
-    "cat": "hành động"
+    "cat": "hành động",
+    "pos": "Động từ"
   },
   {
     "w": "梳理",
@@ -317,21 +356,24 @@
     "cat": "hành động",
     "example": "请梳理一下这些资料。",
     "example_vi": "Xin hãy sắp xếp lại những tài liệu này.",
-    "me": "arrange, organize"
+    "me": "arrange, organize",
+    "pos": "Động từ"
   },
   {
     "w": "渊博",
     "p": "yuān bó",
     "m": "uyên bác, học rộng biết nhiều",
     "cat": "tính từ",
-    "me": "erudite, extensively learned"
+    "me": "erudite, extensively learned",
+    "pos": "Tính từ"
   },
   {
     "w": "博学",
     "p": "bó xué",
     "m": "học rộng, uyên thâm",
     "cat": "tính từ",
-    "me": "broadly learned, erudite"
+    "me": "broadly learned, erudite",
+    "pos": "Tính từ"
   },
   {
     "w": "睿智",
@@ -340,7 +382,8 @@
     "cat": "tính từ",
     "example": "他是一个睿智的人。",
     "example_vi": "Anh ấy là một người thông thái.",
-    "me": "wise, insightful"
+    "me": "wise, insightful",
+    "pos": "Tính từ"
   },
   {
     "w": "机敏",
@@ -349,7 +392,8 @@
     "cat": "tính từ",
     "example": "她反应很机敏。",
     "example_vi": "Phản ứng của cô ấy rất nhanh nhạy.",
-    "me": "quick-witted, sharp"
+    "me": "quick-witted, sharp",
+    "pos": "Tính từ"
   },
   {
     "w": "犀利",
@@ -358,7 +402,8 @@
     "cat": "tính từ",
     "example": "他的评论很犀利。",
     "example_vi": "Lời bình luận của anh ấy rất sắc bén.",
-    "me": "sharp, keen"
+    "me": "sharp, keen",
+    "pos": "Tính từ"
   },
   {
     "w": "洗练",
@@ -367,7 +412,8 @@
     "cat": "tính từ",
     "example": "她的文笔十分洗练。",
     "example_vi": "Văn phong của cô ấy vô cùng súc tích tinh luyện.",
-    "me": "concise, refined"
+    "me": "concise, refined",
+    "pos": "Tính từ"
   },
   {
     "w": "蓬勃",
@@ -376,14 +422,16 @@
     "cat": "tính từ",
     "example": "这个行业发展蓬勃。",
     "example_vi": "Ngành này phát triển hừng hực sôi nổi.",
-    "me": "blazing, fervent"
+    "me": "blazing, fervent",
+    "pos": "Tính từ"
   },
   {
     "w": "磅礴",
     "p": "páng bó",
     "m": "hùng vĩ, bao la",
     "cat": "tính từ",
-    "me": "majestic, vast"
+    "me": "majestic, vast",
+    "pos": "Tính từ"
   },
   {
     "w": "辉煌",
@@ -392,7 +440,8 @@
     "cat": "tính từ",
     "example": "他创造了辉煌的成绩。",
     "example_vi": "Anh ấy đã tạo nên thành tích huy hoàng.",
-    "me": "glorious, brilliant"
+    "me": "glorious, brilliant",
+    "pos": "Tính từ"
   },
   {
     "w": "璀璨",
@@ -401,7 +450,8 @@
     "cat": "tính từ",
     "example": "夜空中星星璀璨。",
     "example_vi": "Trên bầu trời đêm những ngôi sao lấp lánh.",
-    "me": "sparkling, brilliant"
+    "me": "sparkling, brilliant",
+    "pos": "Tính từ"
   },
   {
     "w": "彰显",
@@ -410,7 +460,8 @@
     "cat": "hành động",
     "example": "这件事彰显了他的责任心。",
     "example_vi": "Việc này thể hiện rõ tinh thần trách nhiệm của anh ấy.",
-    "me": "clearly display, highlight"
+    "me": "clearly display, highlight",
+    "pos": "Động từ"
   },
   {
     "w": "凸显",
@@ -418,7 +469,8 @@
     "m": "làm nổi bật, nổi lên",
     "cat": "hành động",
     "example": "这次事件凸显了制度的漏洞。",
-    "example_vi": "Sự kiện lần này làm nổi bật lỗ hổng của thể chế."
+    "example_vi": "Sự kiện lần này làm nổi bật lỗ hổng của thể chế.",
+    "pos": "Động từ"
   },
   {
     "w": "折射",
@@ -427,7 +479,8 @@
     "cat": "hành động",
     "example": "这个现象折射出社会问题。",
     "example_vi": "Hiện tượng này phản ánh vấn đề xã hội.",
-    "me": "to reflect"
+    "me": "to reflect",
+    "pos": "Động từ"
   },
   {
     "w": "渗透",
@@ -436,7 +489,8 @@
     "cat": "hành động",
     "example": "这种文化渗透到了日常生活中。",
     "example_vi": "Nền văn hóa này đã thấm vào cuộc sống thường ngày.",
-    "me": "permeate, infiltrate, seep into"
+    "me": "permeate, infiltrate, seep into",
+    "pos": "Động từ"
   },
   {
     "w": "贯穿",
@@ -444,26 +498,30 @@
     "m": "xuyên suốt, chạy xuyên",
     "cat": "hành động",
     "example": "这个主题贯穿了整部小说。",
-    "example_vi": "Chủ đề này xuyên suốt toàn bộ cuốn tiểu thuyết."
+    "example_vi": "Chủ đề này xuyên suốt toàn bộ cuốn tiểu thuyết.",
+    "pos": "Động từ"
   },
   {
     "w": "涵盖",
     "p": "hán gài",
     "m": "bao gồm, bao hàm",
-    "cat": "hành động"
+    "cat": "hành động",
+    "pos": "Động từ"
   },
   {
     "w": "囊括",
     "p": "náng kuò",
     "m": "bao quát, gồm tất cả",
-    "cat": "hành động"
+    "cat": "hành động",
+    "pos": "Động từ"
   },
   {
     "w": "涉及",
     "p": "shè jí",
     "m": "liên quan đến, đề cập đến",
     "cat": "hành động",
-    "me": "relate to, refer to"
+    "me": "relate to, refer to",
+    "pos": "Động từ"
   },
   {
     "w": "蕴含",
@@ -472,7 +530,8 @@
     "cat": "hành động",
     "example": "这句话蕴含深刻的道理。",
     "example_vi": "Câu nói này chứa đựng đạo lý sâu sắc.",
-    "me": "contain, imply"
+    "me": "contain, imply",
+    "pos": "Động từ"
   },
   {
     "w": "承载",
@@ -481,14 +540,16 @@
     "cat": "hành động",
     "example": "这座桥承载着重要的历史意义。",
     "example_vi": "Cây cầu này gánh chịu ý nghĩa lịch sử quan trọng.",
-    "me": "to bear, contain"
+    "me": "to bear, contain",
+    "pos": "Động từ"
   },
   {
     "w": "架构",
     "p": "jià gòu",
     "m": "kiến trúc, cấu trúc",
     "cat": "học thuật",
-    "me": "architecture, structure"
+    "me": "architecture, structure",
+    "pos": "Danh từ"
   },
   {
     "w": "格局",
@@ -497,7 +558,8 @@
     "cat": "học thuật",
     "example": "国际格局正在发生变化。",
     "example_vi": "Cục diện quốc tế đang có sự thay đổi.",
-    "me": "situation, layout, framework, scale"
+    "me": "situation, layout, framework, scale",
+    "pos": "Danh từ"
   },
   {
     "w": "脉络",
@@ -505,7 +567,8 @@
     "m": "mạch lạc, hệ thống",
     "cat": "học thuật",
     "example": "这篇文章的脉络很清晰。",
-    "example_vi": "Mạch lạc của bài viết này rất rõ ràng."
+    "example_vi": "Mạch lạc của bài viết này rất rõ ràng.",
+    "pos": "Danh từ"
   },
   {
     "w": "层面",
@@ -513,7 +576,8 @@
     "m": "tầng, phương diện",
     "cat": "học thuật",
     "example": "这个问题涉及多个层面。",
-    "example_vi": "Vấn đề này liên quan đến nhiều tầng lớp."
+    "example_vi": "Vấn đề này liên quan đến nhiều tầng lớp.",
+    "pos": "Danh từ"
   },
   {
     "w": "维度",
@@ -522,14 +586,16 @@
     "cat": "học thuật",
     "example": "我们要从多个维度分析问题。",
     "example_vi": "Chúng ta phải phân tích vấn đề từ nhiều khía cạnh.",
-    "me": "dimension, angle, aspect"
+    "me": "dimension, angle, aspect",
+    "pos": "Danh từ"
   },
   {
     "w": "范畴",
     "p": "fàn chóu",
     "m": "phạm trù, lĩnh vực",
     "cat": "học thuật",
-    "me": "category, field"
+    "me": "category, field",
+    "pos": "Danh từ"
   },
   {
     "w": "命题",
@@ -538,7 +604,8 @@
     "cat": "học thuật",
     "example": "这是一个值得研究的命题。",
     "example_vi": "Đây là một mệnh đề đáng để nghiên cứu.",
-    "me": "proposition, topic"
+    "me": "proposition, topic",
+    "pos": "Danh từ"
   },
   {
     "w": "悖论",
@@ -547,27 +614,31 @@
     "cat": "học thuật",
     "example": "这是一个有趣的悖论。",
     "example_vi": "Đây là một nghịch lý thú vị.",
-    "me": "paradoxical"
+    "me": "paradoxical",
+    "pos": "Tính từ"
   },
   {
     "w": "辩证",
     "p": "biàn zhèng",
     "m": "biện chứng",
     "cat": "học thuật",
-    "me": "dialectical"
+    "me": "dialectical",
+    "pos": "Danh từ"
   },
   {
     "w": "诠释",
     "p": "quán shì",
     "m": "giải thích, diễn giải",
     "cat": "học thuật",
-    "me": "interpret"
+    "me": "interpret",
+    "pos": "Động từ"
   },
   {
     "w": "立场",
     "p": "lì chǎng",
     "m": "lập trường, quan điểm",
-    "cat": "chính trị"
+    "cat": "chính trị",
+    "pos": "Danh từ"
   },
   {
     "w": "诉求",
@@ -576,7 +647,8 @@
     "cat": "xã hội",
     "example": "民众提出了自己的诉求。",
     "example_vi": "Người dân đã đưa ra yêu cầu của mình.",
-    "me": "request, wish"
+    "me": "request, wish",
+    "pos": "Động từ"
   },
   {
     "w": "博弈",
@@ -585,7 +657,8 @@
     "cat": "kinh doanh",
     "example": "这是一场复杂的博弈。",
     "example_vi": "Đây là một cuộc đấu trí phức tạp.",
-    "me": "struggle, strategy game, battle of wits"
+    "me": "struggle, strategy game, battle of wits",
+    "pos": "Động từ"
   },
   {
     "w": "抉择",
@@ -594,7 +667,8 @@
     "cat": "hành động",
     "example": "他面临一个艰难的抉择。",
     "example_vi": "Anh ấy đối mặt với một sự lựa chọn khó khăn.",
-    "me": "an important choice"
+    "me": "an important choice",
+    "pos": "Động từ"
   },
   {
     "w": "权衡",
@@ -602,7 +676,8 @@
     "m": "cân nhắc, cân bằng",
     "cat": "hành động",
     "example": "他在权衡利弊。",
-    "example_vi": "Anh ấy đang cân nhắc lợi hại."
+    "example_vi": "Anh ấy đang cân nhắc lợi hại.",
+    "pos": "Động từ"
   },
   {
     "w": "斡旋",
@@ -610,7 +685,8 @@
     "m": "điều giải, làm trung gian",
     "cat": "chính trị",
     "example": "第三国进行了斡旋。",
-    "example_vi": "Nước thứ ba đã tiến hành hòa giải."
+    "example_vi": "Nước thứ ba đã tiến hành hòa giải.",
+    "pos": "Động từ"
   },
   {
     "w": "折衷",
@@ -619,7 +695,8 @@
     "cat": "hành động",
     "example": "双方最终达成折衷方案。",
     "example_vi": "Hai bên cuối cùng đã đạt được phương án dung hòa.",
-    "me": "reconcile, compromise"
+    "me": "reconcile, compromise",
+    "pos": "Động từ"
   },
   {
     "w": "妥协",
@@ -627,7 +704,8 @@
     "m": "thỏa hiệp, nhượng bộ",
     "cat": "hành động",
     "example": "双方最终达成了妥协。",
-    "example_vi": "Hai bên cuối cùng đã đạt được thỏa hiệp."
+    "example_vi": "Hai bên cuối cùng đã đạt được thỏa hiệp.",
+    "pos": "Động từ"
   },
   {
     "w": "僵局",
@@ -636,7 +714,8 @@
     "cat": "chính trị",
     "example": "谈判陷入了僵局。",
     "example_vi": "Cuộc đàm phán đã rơi vào thế bế tắc.",
-    "me": "deadlock, stalemate"
+    "me": "deadlock, stalemate",
+    "pos": "Động từ"
   },
   {
     "w": "契机",
@@ -645,14 +724,16 @@
     "cat": "kinh doanh",
     "example": "这是一个转型的契机。",
     "example_vi": "Đây là một cơ hội để chuyển đổi.",
-    "me": "opportunity"
+    "me": "opportunity",
+    "pos": "Danh từ"
   },
   {
     "w": "瓶颈",
     "p": "píng jǐng",
     "m": "nút thắt cổ chai, điểm nghẽn",
     "cat": "kinh doanh",
-    "me": "bottleneck"
+    "me": "bottleneck",
+    "pos": "Danh từ"
   },
   {
     "w": "突破口",
@@ -661,7 +742,8 @@
     "cat": "kinh doanh",
     "example": "他们终于找到了突破口。",
     "example_vi": "Cuối cùng họ cũng đã tìm ra điểm đột phá.",
-    "me": "breakthrough point, a way out"
+    "me": "breakthrough point, a way out",
+    "pos": "Danh từ"
   },
   {
     "w": "切入点",
@@ -670,7 +752,8 @@
     "cat": "học thuật",
     "example": "这是一个很好的切入点。",
     "example_vi": "Đây là một điểm tiếp cận rất tốt.",
-    "me": "point of access, angle of approach"
+    "me": "point of access, angle of approach",
+    "pos": "Danh từ"
   },
   {
     "w": "落脚点",
@@ -679,7 +762,8 @@
     "cat": "học thuật",
     "example": "这个政策的落脚点是民生。",
     "example_vi": "Điểm chốt của chính sách này là dân sinh.",
-    "me": "fulcrum, anchor point"
+    "me": "fulcrum, anchor point",
+    "pos": "Danh từ"
   },
   {
     "w": "着力点",
@@ -688,7 +772,8 @@
     "cat": "học thuật",
     "example": "改革的着力点在于教育。",
     "example_vi": "Trọng điểm của cải cách nằm ở giáo dục.",
-    "me": "focal point, emphasis"
+    "me": "focal point, emphasis",
+    "pos": "Danh từ"
   },
   {
     "w": "关键节点",
@@ -697,7 +782,8 @@
     "cat": "kinh doanh",
     "example": "这是项目的关键节点。",
     "example_vi": "Đây là điểm mấu chốt của dự án.",
-    "me": "the crucial key point"
+    "me": "the crucial key point",
+    "pos": "Danh từ"
   },
   {
     "w": "战略布局",
@@ -706,7 +792,8 @@
     "cat": "kinh doanh",
     "example": "公司调整了战略布局。",
     "example_vi": "Công ty đã điều chỉnh bố cục chiến lược.",
-    "me": "strategic layout"
+    "me": "strategic layout",
+    "pos": "Danh từ"
   },
   {
     "w": "宏观调控",
@@ -715,7 +802,8 @@
     "cat": "kinh doanh",
     "example": "政府加强了宏观调控。",
     "example_vi": "Chính phủ đã tăng cường điều tiết vĩ mô.",
-    "me": "macro-regulation"
+    "me": "macro-regulation",
+    "pos": "Danh từ"
   },
   {
     "w": "微观层面",
@@ -723,14 +811,16 @@
     "m": "cấp độ vi mô",
     "cat": "học thuật",
     "example": "微观层面需要具体分析。",
-    "example_vi": "Ở tầng vi mô cần phân tích cụ thể."
+    "example_vi": "Ở tầng vi mô cần phân tích cụ thể.",
+    "pos": "Danh từ"
   },
   {
     "w": "顶层设计",
     "p": "dǐng céng shè jì",
     "m": "thiết kế cấp cao nhất",
     "cat": "chính trị",
-    "me": "top-level design"
+    "me": "top-level design",
+    "pos": "Danh từ"
   },
   {
     "w": "系统工程",
@@ -739,7 +829,8 @@
     "cat": "học thuật",
     "example": "这是一项复杂的系统工程。",
     "example_vi": "Đây là một công trình hệ thống phức tạp.",
-    "me": "systems engineering"
+    "me": "systems engineering",
+    "pos": "Danh từ"
   },
   {
     "w": "综合效应",
@@ -748,7 +839,8 @@
     "cat": "học thuật",
     "example": "这项政策产生了综合效应。",
     "example_vi": "Chính sách này đã tạo ra hiệu ứng tổng hợp.",
-    "me": "synergy effect"
+    "me": "synergy effect",
+    "pos": "Danh từ"
   },
   {
     "w": "协同效应",
@@ -757,28 +849,32 @@
     "cat": "kinh doanh",
     "example": "两个部门产生了协同效应。",
     "example_vi": "Hai bộ phận đã tạo ra hiệu ứng hiệp lực.",
-    "me": "synergy effect"
+    "me": "synergy effect",
+    "pos": "Danh từ"
   },
   {
     "w": "核心竞争力",
     "p": "hé xīn jìng zhēng lì",
     "m": "năng lực cạnh tranh cốt lõi",
     "cat": "kinh doanh",
-    "me": "core competitiveness"
+    "me": "core competitiveness",
+    "pos": "Danh từ"
   },
   {
     "w": "可持续发展",
     "p": "kě chí xù fā zhǎn",
     "m": "phát triển bền vững",
     "cat": "xã hội",
-    "me": "sustainable development"
+    "me": "sustainable development",
+    "pos": "Động từ"
   },
   {
     "w": "生态文明",
     "p": "shēng tài wén míng",
     "m": "văn minh sinh thái",
     "cat": "xã hội",
-    "me": "ecological civilization"
+    "me": "ecological civilization",
+    "pos": "Danh từ"
   },
   {
     "w": "社会效益",
@@ -787,7 +883,8 @@
     "cat": "xã hội",
     "example": "这个项目带来了良好的社会效益。",
     "example_vi": "Dự án này đã mang lại lợi ích xã hội tốt đẹp.",
-    "me": "social benefit"
+    "me": "social benefit",
+    "pos": "Danh từ"
   },
   {
     "w": "民生问题",
@@ -796,20 +893,23 @@
     "cat": "xã hội",
     "example": "政府重视民生问题。",
     "example_vi": "Chính phủ coi trọng vấn đề dân sinh.",
-    "me": "livelihood issue"
+    "me": "livelihood issue",
+    "pos": "Danh từ"
   },
   {
     "w": "文化底蕴",
     "p": "wén huà dǐ yùn",
     "m": "chiều sâu văn hóa, nền văn hóa",
     "cat": "văn hóa",
-    "me": "cultural depth, cultural foundation"
+    "me": "cultural depth, cultural foundation",
+    "pos": "Danh từ"
   },
   {
     "w": "传承",
     "p": "chuán chéng",
     "m": "kế thừa, truyền thừa",
-    "cat": "văn hóa"
+    "cat": "văn hóa",
+    "pos": "Danh từ"
   },
   {
     "w": "弘扬",
@@ -818,7 +918,8 @@
     "cat": "văn hóa",
     "example": "我们要弘扬传统文化。",
     "example_vi": "Chúng ta phải phát huy văn hóa truyền thống.",
-    "me": "promote, honor"
+    "me": "promote, honor",
+    "pos": "Động từ"
   },
   {
     "w": "铸就",
@@ -827,7 +928,8 @@
     "cat": "hành động",
     "example": "努力铸就了他的成功。",
     "example_vi": "Nỗ lực đã đúc nên thành công của anh ấy.",
-    "me": "forge, create"
+    "me": "forge, create",
+    "pos": "Động từ"
   },
   {
     "w": "熔铸",
@@ -836,7 +938,8 @@
     "cat": "hành động",
     "example": "这部作品熔铸了他的心血。",
     "example_vi": "Tác phẩm này đã kết tinh tâm huyết của anh ấy.",
-    "me": "forge, crystallize"
+    "me": "forge, crystallize",
+    "pos": "Động từ"
   },
   {
     "w": "淬炼",
@@ -845,7 +948,8 @@
     "cat": "hành động",
     "example": "经历磨难，他得到了淬炼。",
     "example_vi": "Trải qua gian khổ, anh ấy đã được tôi luyện.",
-    "me": "forge, temper (oneself)"
+    "me": "forge, temper (oneself)",
+    "pos": "Động từ"
   },
   {
     "w": "砥砺",
@@ -854,7 +958,8 @@
     "cat": "hành động",
     "example": "多年的砥砺让他更加坚强。",
     "example_vi": "Nhiều năm rèn luyện đã khiến anh ấy kiên cường hơn.",
-    "me": "hone, temper"
+    "me": "hone, temper",
+    "pos": "Động từ"
   },
   {
     "w": "磨砺",
@@ -863,7 +968,8 @@
     "cat": "hành động",
     "example": "生活的磨砺让他更成熟。",
     "example_vi": "Sự mài giũa của cuộc sống đã khiến anh ấy trưởng thành hơn.",
-    "me": "sharpen, temper (skills)"
+    "me": "sharpen, temper (skills)",
+    "pos": "Động từ"
   },
   {
     "w": "历练",
@@ -872,7 +978,8 @@
     "cat": "hành động",
     "example": "他在工作中得到了历练。",
     "example_vi": "Anh ấy đã được rèn luyện qua thực tế trong công việc.",
-    "me": "hone through practical experience"
+    "me": "hone through practical experience",
+    "pos": "Động từ"
   },
   {
     "w": "蜕变",
@@ -881,14 +988,16 @@
     "cat": "hành động",
     "example": "他经历了一次巨大的蜕变。",
     "example_vi": "Anh ấy đã trải qua một sự lột xác to lớn.",
-    "me": "transform, metamorphose"
+    "me": "transform, metamorphose",
+    "pos": "Động từ"
   },
   {
     "w": "升华",
     "p": "shēng huá",
     "m": "thăng hoa, nâng cao",
     "cat": "hành động",
-    "me": "sublimate, elevate"
+    "me": "sublimate, elevate",
+    "pos": "Động từ"
   },
   {
     "w": "凝聚",
@@ -897,7 +1006,8 @@
     "cat": "hành động",
     "example": "这件事凝聚了大家的力量。",
     "example_vi": "Việc này đã tụ hợp sức mạnh của mọi người.",
-    "me": "gather, unite, cohere, bond"
+    "me": "gather, unite, cohere, bond",
+    "pos": "Động từ"
   },
   {
     "w": "汇聚",
@@ -906,7 +1016,8 @@
     "cat": "hành động",
     "example": "各地人才汇聚于此。",
     "example_vi": "Nhân tài khắp nơi hội tụ về đây.",
-    "me": "converge, gather"
+    "me": "converge, gather",
+    "pos": "Động từ"
   },
   {
     "w": "迸发",
@@ -915,7 +1026,8 @@
     "cat": "hành động",
     "example": "她的创意突然迸发出来。",
     "example_vi": "Ý tưởng sáng tạo của cô ấy đột nhiên bùng phát ra.",
-    "me": "erupt, burst out"
+    "me": "erupt, burst out",
+    "pos": "Động từ"
   },
   {
     "w": "激发",
@@ -923,7 +1035,8 @@
     "m": "kích thích, khơi dậy",
     "cat": "hành động",
     "example": "这本书激发了他的兴趣。",
-    "example_vi": "Cuốn sách này đã khơi dậy hứng thú của anh ấy."
+    "example_vi": "Cuốn sách này đã khơi dậy hứng thú của anh ấy.",
+    "pos": "Động từ"
   },
   {
     "w": "催生",
@@ -932,14 +1045,16 @@
     "cat": "hành động",
     "example": "科技进步催生了新产业。",
     "example_vi": "Sự tiến bộ khoa học kỹ thuật đã thúc đẩy ra đời ngành nghề mới.",
-    "me": "spur into being, stimulate"
+    "me": "spur into being, stimulate",
+    "pos": "Động từ"
   },
   {
     "w": "孕育",
     "p": "yùn yù",
     "m": "thai nghén, nuôi dưỡng",
     "cat": "hành động",
-    "me": "gestate, nurture"
+    "me": "gestate, nurture",
+    "pos": "Động từ"
   },
   {
     "w": "萌发",
@@ -948,7 +1063,8 @@
     "cat": "hành động",
     "example": "春天种子开始萌发。",
     "example_vi": "Mùa xuân hạt giống bắt đầu nảy mầm.",
-    "me": "arise, sprout"
+    "me": "arise, sprout",
+    "pos": "Động từ"
   },
   {
     "w": "滋生",
@@ -957,7 +1073,8 @@
     "cat": "hành động",
     "example": "潮湿环境容易滋生细菌。",
     "example_vi": "Môi trường ẩm ướt dễ sinh sôi vi khuẩn.",
-    "me": "proliferate, arise"
+    "me": "proliferate, arise",
+    "pos": "Động từ"
   },
   {
     "w": "滋长",
@@ -966,7 +1083,8 @@
     "cat": "hành động",
     "example": "这种情绪不能任其滋长。",
     "example_vi": "Loại cảm xúc này không thể để nó nảy nở.",
-    "me": "germinate, develop"
+    "me": "germinate, develop",
+    "pos": "Động từ"
   },
   {
     "w": "蔓延",
@@ -975,7 +1093,8 @@
     "cat": "hành động",
     "example": "火势迅速蔓延。",
     "example_vi": "Ngọn lửa lan rộng nhanh chóng.",
-    "me": "spread out, extend widely"
+    "me": "spread out, extend widely",
+    "pos": "Động từ"
   },
   {
     "w": "扩散",
@@ -984,7 +1103,8 @@
     "cat": "hành động",
     "example": "消息很快扩散开来。",
     "example_vi": "Tin tức nhanh chóng lan ra khắp nơi.",
-    "me": "diffuse, spread out"
+    "me": "diffuse, spread out",
+    "pos": "Động từ"
   },
   {
     "w": "渗入",
@@ -993,7 +1113,8 @@
     "cat": "hành động",
     "example": "雨水渗入了地下。",
     "example_vi": "Nước mưa đã thấm vào lòng đất.",
-    "me": "permeate, infiltrate"
+    "me": "permeate, infiltrate",
+    "pos": "Động từ"
   },
   {
     "w": "融入",
@@ -1002,7 +1123,8 @@
     "cat": "hành động",
     "example": "他很快融入了新环境。",
     "example_vi": "Anh ấy nhanh chóng hòa nhập vào môi trường mới.",
-    "me": "integrate, blend into"
+    "me": "integrate, blend into",
+    "pos": "Động từ"
   },
   {
     "w": "嵌入",
@@ -1011,7 +1133,8 @@
     "cat": "hành động",
     "example": "这个功能已经嵌入系统。",
     "example_vi": "Chức năng này đã được nhúng vào hệ thống.",
-    "me": "to embed, insert into"
+    "me": "to embed, insert into",
+    "pos": "Động từ"
   },
   {
     "w": "植入",
@@ -1020,7 +1143,8 @@
     "cat": "hành động",
     "example": "医生给他植入了心脏支架。",
     "example_vi": "Bác sĩ đã cấy stent tim vào người anh ấy.",
-    "me": "to implant, insert"
+    "me": "to implant, insert",
+    "pos": "Động từ"
   },
   {
     "w": "嵌套",
@@ -1029,7 +1153,8 @@
     "cat": "công nghệ",
     "example": "这段代码是嵌套结构。",
     "example_vi": "Đoạn mã này có cấu trúc lồng nhau.",
-    "me": "nested, embedded"
+    "me": "nested, embedded",
+    "pos": "Danh từ"
   },
   {
     "w": "迭代",
@@ -1038,7 +1163,8 @@
     "cat": "công nghệ",
     "example": "这款产品经过多次迭代。",
     "example_vi": "Sản phẩm này đã trải qua nhiều lần cải tiến dần.",
-    "me": "iterate, improve gradually"
+    "me": "iterate, improve gradually",
+    "pos": "Danh từ"
   },
   {
     "w": "演化",
@@ -1047,7 +1173,8 @@
     "cat": "học thuật",
     "example": "物种经过长期演化。",
     "example_vi": "Loài đã trải qua tiến hóa trong thời gian dài.",
-    "me": "evolve, develop"
+    "me": "evolve, develop",
+    "pos": "Danh từ"
   },
   {
     "w": "衍生",
@@ -1056,7 +1183,8 @@
     "cat": "học thuật",
     "example": "这个词衍生出很多新意思。",
     "example_vi": "Từ này phát sinh ra rất nhiều ý nghĩa mới.",
-    "me": "arise, derive"
+    "me": "arise, derive",
+    "pos": "Động từ"
   },
   {
     "w": "延伸",
@@ -1065,7 +1193,8 @@
     "cat": "hành động",
     "example": "这条路一直延伸到山脚下。",
     "example_vi": "Con đường này kéo dài đến tận chân núi.",
-    "me": "extend"
+    "me": "extend",
+    "pos": "Động từ"
   },
   {
     "w": "拓展",
@@ -1073,7 +1202,8 @@
     "m": "mở rộng, phát triển thêm",
     "cat": "hành động",
     "example": "公司在拓展新的市场。",
-    "example_vi": "Công ty đang mở rộng thị trường mới."
+    "example_vi": "Công ty đang mở rộng thị trường mới.",
+    "pos": "Động từ"
   },
   {
     "w": "外延",
@@ -1081,7 +1211,8 @@
     "m": "ngoại diên, mở rộng ra",
     "cat": "học thuật",
     "example": "这个概念的外延很广。",
-    "example_vi": "Ngoại diên của khái niệm này rất rộng."
+    "example_vi": "Ngoại diên của khái niệm này rất rộng.",
+    "pos": "Động từ"
   },
   {
     "w": "内涵",
@@ -1089,7 +1220,8 @@
     "m": "nội hàm, hàm ý",
     "cat": "học thuật",
     "example": "这个词的内涵很丰富。",
-    "example_vi": "Nội hàm của từ này rất phong phú."
+    "example_vi": "Nội hàm của từ này rất phong phú.",
+    "pos": "Danh từ"
   },
   {
     "w": "精髓",
@@ -1098,21 +1230,24 @@
     "cat": "học thuật",
     "example": "这本书体现了中国文化的精髓。",
     "example_vi": "Cuốn sách này thể hiện tinh túy của văn hóa Trung Quốc.",
-    "me": "essence, quintessence"
+    "me": "essence, quintessence",
+    "pos": "Danh từ"
   },
   {
     "w": "要旨",
     "p": "yào zhǐ",
     "m": "yếu chỉ, nội dung chính",
     "cat": "học thuật",
-    "me": "key point, main content"
+    "me": "key point, main content",
+    "pos": "Danh từ"
   },
   {
     "w": "主旨",
     "p": "zhǔ zhǐ",
     "m": "chủ đề, ý chính",
     "cat": "học thuật",
-    "me": "topic, main idea"
+    "me": "topic, main idea",
+    "pos": "Danh từ"
   },
   {
     "w": "立意",
@@ -1121,13 +1256,15 @@
     "cat": "nghệ thuật",
     "example": "这篇文章立意深刻。",
     "example_vi": "Chủ đề tư tưởng của bài văn này rất sâu sắc.",
-    "me": "theme, central idea"
+    "me": "theme, central idea",
+    "pos": "Danh từ"
   },
   {
     "w": "意境",
     "p": "yì jìng",
     "m": "ý cảnh, cảnh giới nghệ thuật",
-    "cat": "nghệ thuật"
+    "cat": "nghệ thuật",
+    "pos": "Danh từ"
   },
   {
     "w": "意蕴",
@@ -1136,7 +1273,8 @@
     "cat": "nghệ thuật",
     "example": "这幅画有着丰富的意蕴。",
     "example_vi": "Bức tranh này có hàm ý sâu xa phong phú.",
-    "me": "implication, deeper meaning"
+    "me": "implication, deeper meaning",
+    "pos": "Danh từ"
   },
   {
     "w": "韵味",
@@ -1145,7 +1283,8 @@
     "cat": "nghệ thuật",
     "example": "这首诗很有韵味。",
     "example_vi": "Bài thơ này rất có hương vị.",
-    "me": "flavor, rhyme"
+    "me": "flavor, rhyme",
+    "pos": "Danh từ"
   },
   {
     "w": "神韵",
@@ -1154,7 +1293,8 @@
     "cat": "nghệ thuật",
     "example": "这幅画很有神韵。",
     "example_vi": "Bức tranh này rất có thần vận.",
-    "me": "spiritual charm, bearing"
+    "me": "spiritual charm, bearing",
+    "pos": "Danh từ"
   },
   {
     "w": "风骨",
@@ -1163,14 +1303,16 @@
     "cat": "nghệ thuật",
     "example": "这位诗人很有风骨。",
     "example_vi": "Vị thi nhân này rất có phong cách khí tiết.",
-    "me": "style and integrity"
+    "me": "style and integrity",
+    "pos": "Danh từ"
   },
   {
     "w": "风格",
     "p": "fēng gé",
     "m": "phong cách",
     "cat": "nghệ thuật",
-    "me": "style"
+    "me": "style",
+    "pos": "Danh từ"
   },
   {
     "w": "格调",
@@ -1179,14 +1321,16 @@
     "cat": "nghệ thuật",
     "example": "这篇文章格调高雅。",
     "example_vi": "Phong cách của bài văn này thanh nhã.",
-    "me": "style, air"
+    "me": "style, air",
+    "pos": "Danh từ"
   },
   {
     "w": "笔墨",
     "p": "bǐ mò",
     "m": "bút mực, văn chương",
     "cat": "nghệ thuật",
-    "me": "pen and ink, literary writing"
+    "me": "pen and ink, literary writing",
+    "pos": "Danh từ"
   },
   {
     "w": "渲染",
@@ -1195,7 +1339,8 @@
     "cat": "nghệ thuật",
     "example": "作者渲染了紧张的气氛。",
     "example_vi": "Tác giả đã tô đậm bầu không khí căng thẳng.",
-    "me": "embellish, exaggerate"
+    "me": "embellish, exaggerate",
+    "pos": "Động từ"
   },
   {
     "w": "烘托",
@@ -1204,7 +1349,8 @@
     "cat": "nghệ thuật",
     "example": "音乐烘托出电影的气氛。",
     "example_vi": "Âm nhạc làm nổi bật bầu không khí của bộ phim.",
-    "me": "highlight, accentuate"
+    "me": "highlight, accentuate",
+    "pos": "Động từ"
   },
   {
     "w": "铺垫",
@@ -1213,7 +1359,8 @@
     "cat": "hành động",
     "example": "这段情节为后面做了铺垫。",
     "example_vi": "Đoạn tình tiết này đã lót nền cho phần sau.",
-    "me": "lead, lay the groundwork"
+    "me": "lead, lay the groundwork",
+    "pos": "Động từ"
   },
   {
     "w": "伏笔",
@@ -1222,7 +1369,8 @@
     "cat": "nghệ thuật",
     "example": "作者在前文埋下了伏笔。",
     "example_vi": "Tác giả đã cài đặt sẵn dự báo ngầm ở phần trước.",
-    "me": "foreshadowing"
+    "me": "foreshadowing",
+    "pos": "Động từ"
   },
   {
     "w": "照应",
@@ -1231,21 +1379,24 @@
     "cat": "nghệ thuật",
     "example": "结尾和开头相互照应。",
     "example_vi": "Đoạn kết và đoạn mở đầu hô ứng lẫn nhau.",
-    "me": "correspond, mutually support, echo, connect"
+    "me": "correspond, mutually support, echo, connect",
+    "pos": "Danh từ"
   },
   {
     "w": "对仗",
     "p": "duì zhàng",
     "m": "đối ngẫu, cân xứng, đối nhau, sóng đôi",
     "cat": "nghệ thuật",
-    "me": "paired, symmetrical, matching"
+    "me": "paired, symmetrical, matching",
+    "pos": "Danh từ"
   },
   {
     "w": "排比",
     "p": "pái bǐ",
     "m": "phép liệt kê song song",
     "cat": "học thuật",
-    "me": "parallelism (rhetorical device)"
+    "me": "parallelism (rhetorical device)",
+    "pos": "Danh từ"
   },
   {
     "w": "比喻",
@@ -1253,7 +1404,8 @@
     "m": "ẩn dụ, so sánh",
     "cat": "học thuật",
     "example": "作者用了很多生动的比喻。",
-    "example_vi": "Tác giả đã sử dụng rất nhiều phép ví von sinh động."
+    "example_vi": "Tác giả đã sử dụng rất nhiều phép ví von sinh động.",
+    "pos": "Động từ"
   },
   {
     "w": "借喻",
@@ -1262,7 +1414,8 @@
     "cat": "học thuật",
     "example": "这句话用了借喻的手法。",
     "example_vi": "Câu này đã dùng thủ pháp hoán dụ.",
-    "me": "metonymy"
+    "me": "metonymy",
+    "pos": "Động từ"
   },
   {
     "w": "讽刺",
@@ -1270,20 +1423,23 @@
     "m": "châm biếm, trào phúng",
     "cat": "nghệ thuật",
     "example": "这部作品充满了讽刺意味。",
-    "example_vi": "Tác phẩm này đầy tính châm biếm."
+    "example_vi": "Tác phẩm này đầy tính châm biếm.",
+    "pos": "Danh từ"
   },
   {
     "w": "隐喻",
     "p": "yǐn yù",
     "m": "ẩn dụ, metaphor",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "pos": "Danh từ"
   },
   {
     "w": "象征",
     "p": "xiàng zhēng",
     "m": "tượng trưng, biểu tượng",
     "cat": "học thuật",
-    "me": "symbolic, symbol"
+    "me": "symbolic, symbol",
+    "pos": "Danh từ"
   },
   {
     "w": "抒情",
@@ -1292,27 +1448,31 @@
     "cat": "nghệ thuật",
     "example": "这是一首抒情诗。",
     "example_vi": "Đây là một bài thơ trữ tình.",
-    "me": "to express feelings, lyrical"
+    "me": "to express feelings, lyrical",
+    "pos": "Động từ"
   },
   {
     "w": "叙事",
     "p": "xù shì",
     "m": "kể chuyện, tự sự",
     "cat": "nghệ thuật",
-    "me": "storytelling, narration"
+    "me": "storytelling, narration",
+    "pos": "Động từ"
   },
   {
     "w": "议论",
     "p": "yì lùn",
     "m": "bàn luận, nghị luận",
     "cat": "học thuật",
-    "me": "to discuss, debate"
+    "me": "to discuss, debate",
+    "pos": "Danh từ"
   },
   {
     "w": "说明",
     "p": "shuō míng",
     "m": "thuyết minh, giải thích",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "pos": "Động từ"
   },
   {
     "w": "描写",
@@ -1321,7 +1481,8 @@
     "cat": "học thuật",
     "example": "作者详细描写了这个场景。",
     "example_vi": "Tác giả đã miêu tả chi tiết cảnh này.",
-    "me": "describe"
+    "me": "describe",
+    "pos": "Động từ"
   },
   {
     "w": "刻画",
@@ -1330,7 +1491,8 @@
     "cat": "nghệ thuật",
     "example": "作者刻画了人物的性格。",
     "example_vi": "Tác giả đã khắc họa tính cách của nhân vật.",
-    "me": "vividly depict, describe"
+    "me": "vividly depict, describe",
+    "pos": "Động từ"
   },
   {
     "w": "塑造",
@@ -1339,7 +1501,8 @@
     "cat": "nghệ thuật",
     "example": "这部电影塑造了一个经典形象。",
     "example_vi": "Bộ phim này đã xây dựng một hình tượng kinh điển.",
-    "me": "construct, shape"
+    "me": "construct, shape",
+    "pos": "Động từ"
   },
   {
     "w": "彰彻",
@@ -1348,7 +1511,8 @@
     "cat": "hành động",
     "example": "事实真相已经彰彻。",
     "example_vi": "Sự thật đã được làm rõ ràng triệt để.",
-    "me": "make clear, express thoroughly"
+    "me": "make clear, express thoroughly",
+    "pos": "Động từ"
   },
   {
     "w": "深化",
@@ -1357,14 +1521,16 @@
     "cat": "hành động",
     "example": "我们要深化对这个问题的理解。",
     "example_vi": "Chúng ta phải đào sâu sự hiểu biết về vấn đề này.",
-    "me": "delve deeper, deepen, enhance"
+    "me": "delve deeper, deepen, enhance",
+    "pos": "Động từ"
   },
   {
     "w": "强化",
     "p": "qiáng huà",
     "m": "tăng cường, củng cố",
     "cat": "hành động",
-    "me": "bolster"
+    "me": "bolster",
+    "pos": "Động từ"
   },
   {
     "w": "固化",
@@ -1373,7 +1539,8 @@
     "cat": "hành động",
     "example": "这种观念已经固化。",
     "example_vi": "Quan niệm này đã trở nên cố định.",
-    "me": "consolidate, harden"
+    "me": "consolidate, harden",
+    "pos": "Động từ"
   },
   {
     "w": "优化",
@@ -1382,7 +1549,8 @@
     "cat": "hành động",
     "example": "我们要优化工作流程。",
     "example_vi": "Chúng ta phải tối ưu hóa quy trình làm việc.",
-    "me": "optimize"
+    "me": "optimize",
+    "pos": "Động từ"
   },
   {
     "w": "简化",
@@ -1391,7 +1559,8 @@
     "cat": "hành động",
     "example": "这个流程已经简化了。",
     "example_vi": "Quy trình này đã được đơn giản hóa.",
-    "me": "simplify"
+    "me": "simplify",
+    "pos": "Động từ"
   },
   {
     "w": "转化",
@@ -1400,7 +1569,8 @@
     "cat": "hành động",
     "example": "知识要转化为能力。",
     "example_vi": "Kiến thức phải chuyển hóa thành năng lực.",
-    "me": "to transform, convert"
+    "me": "to transform, convert",
+    "pos": "Động từ"
   },
   {
     "w": "内化",
@@ -1408,7 +1578,8 @@
     "m": "nội hóa, thấm nhuần",
     "cat": "hành động",
     "example": "他把这些价值观内化了。",
-    "example_vi": "Anh ấy đã nội tâm hóa những giá trị này."
+    "example_vi": "Anh ấy đã nội tâm hóa những giá trị này.",
+    "pos": "Động từ"
   },
   {
     "w": "外化",
@@ -1416,7 +1587,8 @@
     "m": "ngoại hiện, biểu hiện ra ngoài",
     "cat": "hành động",
     "example": "他的情绪外化为行为。",
-    "example_vi": "Cảm xúc của anh ấy ngoại hiện hóa thành hành vi."
+    "example_vi": "Cảm xúc của anh ấy ngoại hiện hóa thành hành vi.",
+    "pos": "Động từ"
   },
   {
     "w": "具体化",
@@ -1425,7 +1597,8 @@
     "cat": "hành động",
     "example": "请把计划具体化。",
     "example_vi": "Xin hãy cụ thể hóa kế hoạch.",
-    "me": "concretize"
+    "me": "concretize",
+    "pos": "Động từ"
   },
   {
     "w": "系统化",
@@ -1434,7 +1607,8 @@
     "cat": "hành động",
     "example": "这些资料需要系统化整理。",
     "example_vi": "Những tài liệu này cần được hệ thống hóa.",
-    "me": "systematize"
+    "me": "systematize",
+    "pos": "Động từ"
   },
   {
     "w": "规范化",
@@ -1443,7 +1617,8 @@
     "cat": "hành động",
     "example": "这个行业正在规范化管理。",
     "example_vi": "Ngành này đang quản lý chuẩn hóa.",
-    "me": "standardize, normalize"
+    "me": "standardize, normalize",
+    "pos": "Động từ"
   },
   {
     "w": "制度化",
@@ -1452,7 +1627,8 @@
     "cat": "chính trị",
     "example": "公司实现了管理制度化。",
     "example_vi": "Công ty đã thực hiện thể chế hóa quản lý.",
-    "me": "institutionalization"
+    "me": "institutionalization",
+    "pos": "Danh từ"
   },
   {
     "w": "法制化",
@@ -1461,7 +1637,8 @@
     "cat": "chính trị",
     "example": "社会管理正走向法制化。",
     "example_vi": "Quản lý xã hội đang đi theo hướng pháp chế hóa.",
-    "me": "legalization"
+    "me": "legalization",
+    "pos": "Danh từ"
   },
   {
     "w": "精细化",
@@ -1470,20 +1647,23 @@
     "cat": "hành động",
     "example": "公司实行精细化管理。",
     "example_vi": "Công ty thực hiện quản lý tinh vi hóa.",
-    "me": "refine, elaborate in detail"
+    "me": "refine, elaborate in detail",
+    "pos": "Động từ"
   },
   {
     "w": "精准化",
     "p": "jīng zhǔn huà",
     "m": "chính xác hóa, tinh xác",
     "cat": "hành động",
-    "me": "make precise, refine"
+    "me": "make precise, refine",
+    "pos": "Động từ"
   },
   {
     "w": "数字化",
     "p": "shù zì huà",
     "m": "số hóa, kỹ thuật số hóa",
-    "cat": "công nghệ"
+    "cat": "công nghệ",
+    "pos": "Danh từ"
   },
   {
     "w": "智能化",
@@ -1492,7 +1672,8 @@
     "cat": "công nghệ",
     "example": "工厂正在实现智能化。",
     "example_vi": "Nhà máy đang thực hiện thông minh hóa.",
-    "me": "smartification"
+    "me": "smartification",
+    "pos": "Danh từ"
   },
   {
     "w": "网络化",
@@ -1501,7 +1682,8 @@
     "cat": "công nghệ",
     "example": "办公系统实现了网络化。",
     "example_vi": "Hệ thống văn phòng đã thực hiện mạng hóa.",
-    "me": "networking, network connectivity"
+    "me": "networking, network connectivity",
+    "pos": "Danh từ"
   },
   {
     "w": "平台化",
@@ -1510,7 +1692,8 @@
     "cat": "công nghệ",
     "example": "公司业务正在平台化发展。",
     "example_vi": "Nghiệp vụ công ty đang phát triển theo hướng nền tảng hóa.",
-    "me": "platformization"
+    "me": "platformization",
+    "pos": "Danh từ"
   },
   {
     "w": "模块化",
@@ -1519,7 +1702,8 @@
     "cat": "công nghệ",
     "example": "这套系统采用模块化设计。",
     "example_vi": "Hệ thống này áp dụng thiết kế mô-đun hóa.",
-    "me": "modularize"
+    "me": "modularize",
+    "pos": "Danh từ"
   },
   {
     "w": "标准化",
@@ -1528,7 +1712,8 @@
     "cat": "công nghệ",
     "example": "生产流程实现了标准化。",
     "example_vi": "Quy trình sản xuất đã thực hiện tiêu chuẩn hóa.",
-    "me": "standardization"
+    "me": "standardization",
+    "pos": "Danh từ"
   },
   {
     "w": "整合",
@@ -1537,7 +1722,8 @@
     "cat": "hành động",
     "example": "公司整合了各部门的资源。",
     "example_vi": "Công ty đã tích hợp nguồn lực từ các phòng ban.",
-    "me": "integrate, merge"
+    "me": "integrate, merge",
+    "pos": "Động từ"
   },
   {
     "w": "聚合",
@@ -1546,14 +1732,16 @@
     "cat": "hành động",
     "example": "这个平台聚合了各种信息。",
     "example_vi": "Nền tảng này tụ hợp các loại thông tin.",
-    "me": "gather, combine"
+    "me": "gather, combine",
+    "pos": "Động từ"
   },
   {
     "w": "融合",
     "p": "róng hé",
     "m": "hòa nhập, hợp nhất, kết hợp, dung hợp, hội nhập",
     "cat": "hành động",
-    "me": "integrate, merge, blend"
+    "me": "integrate, merge, blend",
+    "pos": "Động từ"
   },
   {
     "w": "耦合",
@@ -1562,6 +1750,7 @@
     "cat": "công nghệ",
     "example": "这两个模块之间耦合度较高。",
     "example_vi": "Hai mô-đun này có mức độ liên kết khá cao.",
-    "me": "link, bind tightly"
+    "me": "link, bind tightly",
+    "pos": "Danh từ"
   }
 ]

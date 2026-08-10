@@ -4,734 +4,839 @@
     "p": "sangoshou",
     "m": "rạn san hô",
     "cat": "nature",
-    "me": "coral reef"
+    "me": "coral reef",
+    "pos": "Danh từ"
   },
   {
     "w": "雷鳴",
     "p": "raimei",
     "m": "tiếng sấm",
     "cat": "nature",
-    "me": "thunder"
+    "me": "thunder",
+    "pos": "Danh từ"
   },
   {
     "w": "カモメ",
     "p": "kamome",
     "m": "chim hải âu",
     "cat": "nature",
-    "me": "seagull"
+    "me": "seagull",
+    "pos": "Danh từ"
   },
   {
     "w": "ハゲタカ",
     "p": "hagetaka",
     "m": "kền kền",
     "cat": "nature",
-    "me": "vulture"
+    "me": "vulture",
+    "pos": "Danh từ"
   },
   {
     "w": "ツル",
     "p": "tsuru",
     "m": "con sếu",
     "cat": "nature",
-    "me": "crane"
+    "me": "crane",
+    "pos": "Danh từ"
   },
   {
     "w": "コウノトリ",
     "p": "kounotori",
     "m": "con cò",
     "cat": "nature",
-    "me": "stork"
+    "me": "stork",
+    "pos": "Danh từ"
   },
   {
     "w": "ハリネズミ",
     "p": "harinezumi",
     "m": "con nhím",
     "cat": "nature",
-    "me": "hedgehog"
+    "me": "hedgehog",
+    "pos": "Danh từ"
   },
   {
     "w": "ビーバー",
     "p": "biibaa",
     "m": "con hải ly",
     "cat": "nature",
-    "me": "beaver"
+    "me": "beaver",
+    "pos": "Danh từ"
   },
   {
     "w": "フェレット",
     "p": "feretto",
     "m": "chồn sương",
     "cat": "nature",
-    "me": "ferret"
+    "me": "ferret",
+    "pos": "Danh từ"
   },
   {
     "w": "表面",
     "p": "hyoumen",
     "m": "bề mặt",
     "cat": "nature",
-    "me": "surface"
+    "me": "surface",
+    "pos": "Danh từ"
   },
   {
     "w": "枯れ葉",
     "p": "kareha",
     "m": "lá khô, lá héo",
     "cat": "nature",
-    "me": "dry leaf, withered leaf"
+    "me": "dry leaf, withered leaf",
+    "pos": "Danh từ"
   },
   {
     "w": "露",
     "p": "tsuyu",
     "m": "sương, giọt sương",
     "cat": "nature",
-    "me": "dew, dewdrop"
+    "me": "dew, dewdrop",
+    "pos": "Danh từ"
   },
   {
     "w": "氷河",
     "p": "hyouga",
     "m": "sông băng",
     "cat": "nature",
-    "me": "glacier"
+    "me": "glacier",
+    "pos": "Danh từ"
   },
   {
     "w": "写真立て",
     "p": "shashintate",
     "m": "khung ảnh",
     "cat": "objects",
-    "me": "photo frame"
+    "me": "photo frame",
+    "pos": "Danh từ"
   },
   {
     "w": "書類かばん",
     "p": "shorui kaban",
     "m": "cặp đựng tài liệu",
     "cat": "objects",
-    "me": "document case"
+    "me": "document case",
+    "pos": "Danh từ"
   },
   {
     "w": "絹",
     "p": "kinu",
     "m": "tơ lụa",
     "cat": "objects",
-    "me": "silk"
+    "me": "silk",
+    "pos": "Danh từ"
   },
   {
     "w": "マイク",
     "p": "maiku",
     "m": "micrô",
     "cat": "objects",
-    "me": "microphone"
+    "me": "microphone",
+    "pos": "Danh từ"
   },
   {
     "w": "絵筆",
     "p": "efude",
     "m": "cọ vẽ",
     "cat": "objects",
-    "me": "paintbrush"
+    "me": "paintbrush",
+    "pos": "Danh từ"
   },
   {
     "w": "画架",
     "p": "gaka",
     "m": "giá vẽ",
     "cat": "objects",
-    "me": "easel"
+    "me": "easel",
+    "pos": "Danh từ"
   },
   {
     "w": "網",
     "p": "ami",
     "m": "lưới",
     "cat": "objects",
-    "me": "net"
+    "me": "net",
+    "pos": "Danh từ"
   },
   {
     "w": "額縁",
     "p": "gakubuchi",
     "m": "khung tranh",
     "cat": "objects",
-    "me": "frame"
+    "me": "frame",
+    "pos": "Danh từ"
   },
   {
     "w": "トレーニング",
     "p": "toreeningu",
     "m": "tập luyện",
     "cat": "health",
-    "me": "train, practice"
+    "me": "train, practice",
+    "pos": "Danh từ"
   },
   {
     "w": "ライフスタイル",
     "p": "raifusutairu",
     "m": "lối sống",
     "cat": "health",
-    "me": "lifestyle"
+    "me": "lifestyle",
+    "pos": "Danh từ"
   },
   {
     "w": "心の健康",
     "p": "kokoro no kenkou",
     "m": "sức khỏe tâm thần",
     "cat": "health",
-    "me": "mental health"
+    "me": "mental health",
+    "pos": "Danh từ"
   },
   {
     "w": "不安症",
     "p": "fuanshou",
     "m": "chứng lo âu",
     "cat": "health",
-    "me": "anxiety"
+    "me": "anxiety",
+    "pos": "Danh từ"
   },
   {
     "w": "感染症",
     "p": "kansenshou",
     "m": "bệnh truyền nhiễm",
     "cat": "health",
-    "me": "contagious disease"
+    "me": "contagious disease",
+    "pos": "Danh từ"
   },
   {
     "w": "ビタミン",
     "p": "bitamin",
     "m": "vitamin",
     "cat": "health",
-    "me": "vitamin"
+    "me": "vitamin",
+    "pos": "Danh từ"
   },
   {
     "w": "たんぱく質",
     "p": "tanpakushitsu",
     "m": "protein, chất đạm",
     "cat": "health",
-    "me": "protein"
+    "me": "protein",
+    "pos": "Danh từ"
   },
   {
     "w": "カロリー",
     "p": "karorii",
     "m": "calo",
     "cat": "health",
-    "me": "calorie"
+    "me": "calorie",
+    "pos": "Danh từ"
   },
   {
     "w": "肥満",
     "p": "himan",
     "m": "béo phì",
     "cat": "health",
-    "me": "obesity"
+    "me": "obesity",
+    "pos": "Danh từ"
   },
   {
     "w": "糖尿病",
     "p": "tounyoubyou",
     "m": "bệnh tiểu đường",
     "cat": "health",
-    "me": "diabetes"
+    "me": "diabetes",
+    "pos": "Danh từ"
   },
   {
     "w": "心拍数",
     "p": "shinpakusuu",
     "m": "nhịp tim",
     "cat": "health",
-    "me": "heartbeat"
+    "me": "heartbeat",
+    "pos": "Danh từ"
   },
   {
     "w": "事前予約",
     "p": "jizen yoyaku",
     "m": "đặt chỗ trước",
     "cat": "travel",
-    "me": "reservation"
+    "me": "reservation",
+    "pos": "Động từ"
   },
   {
     "w": "税関",
     "p": "zeikan",
     "m": "hải quan",
     "cat": "travel",
-    "me": "customs"
+    "me": "customs",
+    "pos": "Danh từ"
   },
   {
     "w": "クルーズ",
     "p": "kuruuzu",
     "m": "du thuyền",
     "cat": "travel",
-    "me": "cruise"
+    "me": "cruise",
+    "pos": "Danh từ"
   },
   {
     "w": "海外旅行",
     "p": "kaigai ryokou",
     "m": "du lịch nước ngoài, hải ngoại",
     "cat": "travel",
-    "me": "overseas travel"
+    "me": "overseas travel",
+    "pos": "Danh từ"
   },
   {
     "w": "リゾート",
     "p": "rizooto",
     "m": "khu nghỉ dưỡng",
     "cat": "travel",
-    "me": "resort"
+    "me": "resort",
+    "pos": "Danh từ"
   },
   {
     "w": "時差ぼけ",
     "p": "jisaboke",
     "m": "trễ múi giờ, jet lag",
     "cat": "travel",
-    "me": "jet lag"
+    "me": "jet lag",
+    "pos": "Danh từ"
   },
   {
     "w": "乗り換え時間",
     "p": "norikae jikan",
     "m": "thời gian quá cảnh",
     "cat": "travel",
-    "me": "transit time / layover time"
+    "me": "transit time / layover time",
+    "pos": "Danh từ"
   },
   {
     "w": "退職願",
     "p": "taishokunegai",
     "m": "đơn xin nghỉ việc",
     "cat": "work",
-    "me": "resignation letter"
+    "me": "resignation letter",
+    "pos": "Danh từ"
   },
   {
     "w": "応募書類",
     "p": "oubo shorui",
     "m": "hồ sơ ứng tuyển",
     "cat": "work",
-    "me": "job application file"
+    "me": "job application file",
+    "pos": "Danh từ"
   },
   {
     "w": "時間管理",
     "p": "jikan kanri",
     "m": "quản lý thời gian",
     "cat": "work",
-    "me": "time management"
+    "me": "time management",
+    "pos": "Động từ"
   },
   {
     "w": "失業率",
     "p": "shitsugyouritsu",
     "m": "tỷ lệ thất nghiệp",
     "cat": "work",
-    "me": "unemployment rate"
+    "me": "unemployment rate",
+    "pos": "Danh từ"
   },
   {
     "w": "欠員",
     "p": "ketsuin",
     "m": "vị trí trống",
     "cat": "work",
-    "me": "vacancy"
+    "me": "vacancy",
+    "pos": "Danh từ"
   },
   {
     "w": "学年",
     "p": "gakunen",
     "m": "khối lớp",
     "cat": "study",
-    "me": "grade level (school)"
+    "me": "grade level (school)",
+    "pos": "Danh từ"
   },
   {
     "w": "校長",
     "p": "kouchou",
     "m": "hiệu trưởng",
     "cat": "study",
-    "me": "school principal"
+    "me": "school principal",
+    "pos": "Danh từ"
   },
   {
     "w": "幼稚園",
     "p": "youchien",
     "m": "trường mẫu giáo",
     "cat": "study",
-    "me": "kindergarten"
+    "me": "kindergarten",
+    "pos": "Danh từ"
   },
   {
     "w": "義務教育",
     "p": "gimu kyouiku",
     "m": "giáo dục bắt buộc",
     "cat": "study",
-    "me": "compulsory education"
+    "me": "compulsory education",
+    "pos": "Danh từ"
   },
   {
     "w": "寄宿学校",
     "p": "kishuku gakkou",
     "m": "trường nội trú",
     "cat": "study",
-    "me": "boarding school"
+    "me": "boarding school",
+    "pos": "Danh từ"
   },
   {
     "w": "合格率",
     "p": "goukakuritsu",
     "m": "tỷ lệ đậu",
     "cat": "study",
-    "me": "pass rate"
+    "me": "pass rate",
+    "pos": "Danh từ"
   },
   {
     "w": "意欲的",
     "p": "iyokuteki",
     "m": "hứng thú, đầy nhiệt huyết",
     "cat": "emotion",
-    "me": "enthusiastic, full of passion"
+    "me": "enthusiastic, full of passion",
+    "pos": "Danh từ"
   },
   {
     "w": "感嘆する",
     "p": "kantan suru",
     "m": "khâm phục, ngưỡng mộ",
     "cat": "emotion",
-    "me": "to admire, respect"
+    "me": "to admire, respect",
+    "pos": "Danh từ"
   },
   {
     "w": "興奮",
     "p": "koufun",
     "m": "sự phấn khích",
     "cat": "emotion",
-    "me": "excitement"
+    "me": "excitement",
+    "pos": "Danh từ"
   },
   {
     "w": "後悔",
     "p": "koukai",
     "m": "sự hối tiếc",
     "cat": "emotion",
-    "me": "regret"
+    "me": "regret",
+    "pos": "Danh từ"
   },
   {
     "w": "照れくささ",
     "p": "terekusasa",
     "m": "sự ngượng ngùng",
     "cat": "emotion",
-    "me": "embarrassment"
+    "me": "embarrassment",
+    "pos": "Danh từ"
   },
   {
     "w": "不思議な",
     "p": "fushigi na",
     "m": "kỳ diệu, kỳ lạ",
     "cat": "adjective",
-    "me": "wondrous, strange"
+    "me": "wondrous, strange",
+    "pos": "Tính từ"
   },
   {
     "w": "悲観的な",
     "p": "hikanteki na",
     "m": "bi quan",
     "cat": "adjective",
-    "me": "pessimistic"
+    "me": "pessimistic",
+    "pos": "Tính từ"
   },
   {
     "w": "意欲がある",
     "p": "iyoku ga aru",
     "m": "có động lực",
     "cat": "adjective",
-    "me": "motivated"
+    "me": "motivated",
+    "pos": "Tính từ"
   },
   {
     "w": "献身的な",
     "p": "kenshinteki na",
     "m": "tận tụy, hết lòng",
     "cat": "adjective",
-    "me": "devoted, wholehearted"
+    "me": "devoted, wholehearted",
+    "pos": "Tính từ"
   },
   {
     "w": "経験豊富な",
     "p": "keiken houfu na",
     "m": "giàu kinh nghiệm",
     "cat": "adjective",
-    "me": "experienced"
+    "me": "experienced",
+    "pos": "Tính từ"
   },
   {
     "w": "匿名の",
     "p": "tokumei no",
     "m": "ẩn danh",
     "cat": "adjective",
-    "me": "anonymous"
+    "me": "anonymous",
+    "pos": "Tính từ"
   },
   {
     "w": "アマチュアの",
     "p": "amachua no",
     "m": "nghiệp dư",
     "cat": "adjective",
-    "me": "amateur"
+    "me": "amateur",
+    "pos": "Tính từ"
   },
   {
     "w": "情熱的な",
     "p": "jounetsuteki na",
     "m": "đam mê, nhiệt huyết",
     "cat": "adjective",
-    "me": "passion, enthusiasm"
+    "me": "passion, enthusiasm",
+    "pos": "Tính từ"
   },
   {
     "w": "共感できる",
     "p": "kyoukan dekiru",
     "m": "có thể đồng cảm",
     "cat": "adjective",
-    "me": "able to empathize"
+    "me": "able to empathize",
+    "pos": "Tính từ"
   },
   {
     "w": "見積もる",
     "p": "mitsumoru",
     "m": "ước tính",
     "cat": "action",
-    "me": "estimate"
+    "me": "estimate",
+    "pos": "Động từ"
   },
   {
     "w": "心がける",
     "p": "kokorogakeru",
     "m": "ghi nhớ, để tâm",
     "cat": "action",
-    "me": "remember, keep in mind"
+    "me": "remember, keep in mind",
+    "pos": "Động từ"
   },
   {
     "w": "ホームレス",
     "p": "hoomuresu",
     "m": "người vô gia cư",
     "cat": "society",
-    "me": "homeless person"
+    "me": "homeless person",
+    "pos": "Danh từ"
   },
   {
     "w": "過密",
     "p": "kamitsu",
     "m": "sự đông đúc quá mức",
     "cat": "society",
-    "me": "overcrowding"
+    "me": "overcrowding",
+    "pos": "Danh từ"
   },
   {
     "w": "時事問題",
     "p": "jiji mondai",
     "m": "vấn đề thời sự",
     "cat": "society",
-    "me": "current affairs issue"
+    "me": "current affairs issue",
+    "pos": "Danh từ"
   },
   {
     "w": "アイデンティティー",
     "p": "aidentitii",
     "m": "bản sắc, danh tính",
     "cat": "society",
-    "me": "identity"
+    "me": "identity",
+    "pos": "Danh từ"
   },
   {
     "w": "ストライキ",
     "p": "sutoraiki",
     "m": "cuộc đình công",
     "cat": "society",
-    "me": "strike"
+    "me": "strike",
+    "pos": "Danh từ"
   },
   {
     "w": "鑑賞する",
     "p": "kanshou suru",
     "m": "thưởng thức, chiêm ngưỡng",
     "cat": "verb",
-    "me": "appreciate, admire"
+    "me": "appreciate, admire",
+    "pos": "Động từ"
   },
   {
     "w": "メールを送る",
     "p": "meeru o okuru",
     "m": "gửi tin nhắn, gửi email",
     "cat": "verb",
-    "me": "send a message, send an email"
+    "me": "send a message, send an email",
+    "pos": "Động từ"
   },
   {
     "w": "ごみを出す",
     "p": "gomi o dasu",
     "m": "đổ rác, mang rác ra ngoài",
     "cat": "verb",
-    "me": "to take out the trash"
+    "me": "to take out the trash",
+    "pos": "Động từ"
   },
   {
     "w": "塗装工",
     "p": "tosoukou",
     "m": "thợ sơn",
     "cat": "people",
-    "me": "painter (tradesperson)"
+    "me": "painter (tradesperson)",
+    "pos": "Danh từ"
   },
   {
     "w": "留意する",
     "p": "ryuui suru",
     "m": "lưu ý, để tâm",
     "cat": "action",
-    "me": "take note of, pay attention"
+    "me": "take note of, pay attention",
+    "pos": "Động từ"
   },
   {
     "w": "文句を言う",
     "p": "monku o iu",
     "m": "phàn nàn, kêu ca",
     "cat": "action",
-    "me": "to complain"
+    "me": "to complain",
+    "pos": "Danh từ"
   },
   {
     "w": "ふるまう",
     "p": "furumau",
     "m": "cư xử, hành xử",
     "cat": "action",
-    "me": "behave"
+    "me": "behave",
+    "pos": "Động từ"
   },
   {
     "w": "属する",
     "p": "zokusuru",
     "m": "thuộc về",
     "cat": "action",
-    "me": "belong"
+    "me": "belong",
+    "pos": "Động từ"
   },
   {
     "w": "責める",
     "p": "semeru",
     "m": "đổ lỗi, trách móc",
     "cat": "action",
-    "me": "blame"
+    "me": "blame",
+    "pos": "Động từ"
   },
   {
     "w": "破壊する",
     "p": "hakai suru",
     "m": "phá hủy",
     "cat": "action",
-    "me": "destroy"
+    "me": "destroy",
+    "pos": "Động từ"
   },
   {
     "w": "強制する",
     "p": "kyousei suru",
     "m": "ép buộc, bắt buộc",
     "cat": "action",
-    "me": "force"
+    "me": "force",
+    "pos": "Động từ"
   },
   {
     "w": "ふりをする",
     "p": "furi o suru",
     "m": "giả vờ",
     "cat": "action",
-    "me": "pretend"
+    "me": "pretend",
+    "pos": "Động từ"
   },
   {
     "w": "思い出させる",
     "p": "omoidasaseru",
     "m": "nhắc nhở, gợi nhớ",
     "cat": "action",
-    "me": "remind"
+    "me": "remind",
+    "pos": "Danh từ"
   },
   {
     "w": "曲げる",
     "p": "mageru",
     "m": "uốn cong, bẻ cong",
     "cat": "action",
-    "me": "bend, curve"
+    "me": "bend, curve",
+    "pos": "Danh từ"
   },
   {
     "w": "批判的思考",
     "p": "hihanteki shikou",
     "m": "tư duy phản biện",
     "cat": "study",
-    "me": "critical thinking"
+    "me": "critical thinking",
+    "pos": "Danh từ"
   },
   {
     "w": "流暢な",
     "p": "ryuuchou na",
     "m": "trôi chảy, lưu loát",
     "cat": "study",
-    "me": "fluent"
+    "me": "fluent",
+    "pos": "Danh từ"
   },
   {
     "w": "職人技",
     "p": "shokuninwaza",
     "m": "tay nghề thủ công",
     "cat": "work",
-    "me": "craftsmanship"
+    "me": "craftsmanship",
+    "pos": "Danh từ"
   },
   {
     "w": "器用さ",
     "p": "kiyousa",
     "m": "sự khéo tay",
     "cat": "work",
-    "me": "dexterity"
+    "me": "dexterity",
+    "pos": "Danh từ"
   },
   {
     "w": "一貫性",
     "p": "ikkansei",
     "m": "sự nhất quán",
     "cat": "work",
-    "me": "consistency"
+    "me": "consistency",
+    "pos": "Danh từ"
   },
   {
     "w": "熟達",
     "p": "jukutatsu",
     "m": "sự thành thạo",
     "cat": "work",
-    "me": "proficiency"
+    "me": "proficiency",
+    "pos": "Danh từ"
   },
   {
     "w": "サプリメント",
     "p": "sapurimento",
     "m": "thực phẩm bổ sung",
     "cat": "health",
-    "me": "supplement"
+    "me": "supplement",
+    "pos": "Danh từ"
   },
   {
     "w": "波止場",
     "p": "hatoba",
     "m": "bến tàu, cầu cảng",
     "cat": "travel",
-    "me": "pier"
+    "me": "pier",
+    "pos": "Danh từ"
   },
   {
     "w": "ブラウザ",
     "p": "burauza",
     "m": "trình duyệt web",
     "cat": "tech",
-    "me": "browser"
+    "me": "browser",
+    "pos": "Danh từ"
   },
   {
     "w": "番号札",
     "p": "bangoufuda",
     "m": "số thứ tự xếp hàng",
     "cat": "objects",
-    "me": "queue number"
+    "me": "queue number",
+    "pos": "Danh từ"
   },
   {
     "w": "村",
     "p": "mura",
     "m": "làng, thôn",
     "cat": "place",
-    "me": "village, hamlet"
+    "me": "village, hamlet",
+    "pos": "Danh từ"
   },
   {
     "w": "団結",
     "p": "danketsu",
     "m": "sự đoàn kết",
     "cat": "society",
-    "me": "unity"
+    "me": "unity",
+    "pos": "Danh từ"
   },
   {
     "w": "有害な",
     "p": "yuugai na",
     "m": "có hại",
     "cat": "adjective",
-    "me": "harmful"
+    "me": "harmful",
+    "pos": "Tính từ"
   },
   {
     "w": "オリジナルの",
     "p": "orijinaru no",
     "m": "nguyên bản, gốc",
     "cat": "adjective",
-    "me": "original"
+    "me": "original",
+    "pos": "Tính từ"
   },
   {
     "w": "密接な",
     "p": "missetsu na",
     "m": "liên quan chặt chẽ, gắn bó mật thiết",
     "cat": "adjective",
-    "me": "closely related, tightly bound"
+    "me": "closely related, tightly bound",
+    "pos": "Tính từ"
   },
   {
     "w": "ふわふわした",
     "p": "fuwafuwa shita",
     "m": "có lông tơ, mềm xốp",
     "cat": "adjective",
-    "me": "fluffy, downy"
+    "me": "fluffy, downy",
+    "pos": "Tính từ"
   },
   {
     "w": "情け深い",
     "p": "nasakebukai",
     "m": "nhân hậu, giàu lòng thương",
     "cat": "emotion",
-    "me": "kind-hearted, compassionate"
+    "me": "kind-hearted, compassionate",
+    "pos": "Danh từ"
   },
   {
     "w": "安らぎ",
     "p": "yasuragi",
     "m": "sự an tĩnh, bình yên",
     "cat": "emotion",
-    "me": "tranquility, peace"
+    "me": "tranquility, peace",
+    "pos": "Danh từ"
   },
   {
     "w": "通訳者",
     "p": "tsuuyakusha",
     "m": "người phiên dịch",
     "cat": "people",
-    "me": "interpreter"
+    "me": "interpreter",
+    "pos": "Danh từ"
   },
   {
     "w": "案内係",
     "p": "annaigakari",
     "m": "nhân viên hướng dẫn",
     "cat": "people",
-    "me": "guide, usher staff"
+    "me": "guide, usher staff",
+    "pos": "Danh từ"
   }
 ]

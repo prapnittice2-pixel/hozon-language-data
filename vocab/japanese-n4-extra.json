@@ -6,7 +6,8 @@
     "cat": "verb",
     "ex": "試験に合格するために頑張ります。",
     "exVi": "Tôi sẽ cố gắng để đậu kỳ thi.",
-    "me": "make an effort"
+    "me": "make an effort",
+    "pos": "Động từ"
   },
   {
     "w": "間違える",
@@ -15,7 +16,8 @@
     "cat": "verb",
     "ex": "漢字の読み方を間違えました。",
     "exVi": "Tôi đã đọc sai cách đọc chữ Hán.",
-    "me": "confuse, do wrong"
+    "me": "confuse, do wrong",
+    "pos": "Động từ"
   },
   {
     "w": "決まる",
@@ -24,7 +26,8 @@
     "cat": "verb",
     "ex": "旅行の日程がやっと決まりました。",
     "exVi": "Lịch trình du lịch cuối cùng đã được quyết định.",
-    "me": "be decided"
+    "me": "be decided",
+    "pos": "Động từ"
   },
   {
     "w": "止める",
@@ -33,7 +36,8 @@
     "cat": "verb",
     "ex": "車をここで止めてください。",
     "exVi": "Hãy dừng xe ở đây.",
-    "me": "to stop, prevent"
+    "me": "to stop, prevent",
+    "pos": "Động từ"
   },
   {
     "w": "見つかる",
@@ -42,7 +46,8 @@
     "cat": "verb",
     "ex": "なくした鍵がようやく見つかりました。",
     "exVi": "Chiếc chìa khóa bị mất cuối cùng cũng được tìm thấy.",
-    "me": "be found"
+    "me": "be found",
+    "pos": "Động từ"
   },
   {
     "w": "落とす",
@@ -51,7 +56,8 @@
     "cat": "verb",
     "ex": "財布を落としてしまいました。",
     "exVi": "Tôi đã đánh rơi mất ví tiền.",
-    "me": "drop"
+    "me": "drop",
+    "pos": "Động từ"
   },
   {
     "w": "拾う",
@@ -60,7 +66,8 @@
     "cat": "verb",
     "ex": "道に落ちていたお金を拾いました。",
     "exVi": "Tôi đã nhặt được tiền rơi trên đường.",
-    "me": "pick up"
+    "me": "pick up",
+    "pos": "Động từ"
   },
   {
     "w": "包む",
@@ -69,7 +76,8 @@
     "cat": "verb",
     "ex": "プレゼントをきれいな紙で包みました。",
     "exVi": "Tôi đã gói món quà bằng giấy đẹp.",
-    "me": "wrap, package"
+    "me": "wrap, package",
+    "pos": "Động từ"
   },
   {
     "w": "折る",
@@ -78,7 +86,8 @@
     "cat": "verb",
     "ex": "紙を半分に折ってください。",
     "exVi": "Hãy gấp tờ giấy làm đôi.",
-    "me": "break, fold"
+    "me": "break, fold",
+    "pos": "Động từ"
   },
   {
     "w": "割れる",
@@ -87,7 +96,8 @@
     "cat": "verb",
     "ex": "コップが床に落ちて割れました。",
     "exVi": "Cái cốc rơi xuống sàn và bị vỡ.",
-    "me": "be broken"
+    "me": "be broken",
+    "pos": "Động từ"
   },
   {
     "w": "冷える",
@@ -96,7 +106,8 @@
     "cat": "verb",
     "ex": "夜になると急に冷えますね。",
     "exVi": "Cứ đến tối là trời lạnh đột ngột nhỉ.",
-    "me": "become cold"
+    "me": "become cold",
+    "pos": "Động từ"
   },
   {
     "w": "温める",
@@ -105,7 +116,8 @@
     "cat": "verb",
     "ex": "スープを電子レンジで温めました。",
     "exVi": "Tôi đã hâm nóng súp bằng lò vi sóng.",
-    "me": "reheat, warm up"
+    "me": "reheat, warm up",
+    "pos": "Động từ"
   },
   {
     "w": "沸かす",
@@ -114,7 +126,8 @@
     "cat": "verb",
     "ex": "やかんでお湯を沸かします。",
     "exVi": "Tôi đun nước sôi bằng ấm.",
-    "me": "boil"
+    "me": "boil",
+    "pos": "Động từ"
   },
   {
     "w": "混ぜる",
@@ -123,7 +136,8 @@
     "cat": "verb",
     "ex": "卵と砂糖をよく混ぜてください。",
     "exVi": "Hãy trộn đều trứng và đường.",
-    "me": "mix, blend"
+    "me": "mix, blend",
+    "pos": "Động từ"
   },
   {
     "w": "加える",
@@ -132,7 +146,8 @@
     "cat": "verb",
     "ex": "スープに塩を少し加えました。",
     "exVi": "Tôi đã thêm một chút muối vào súp.",
-    "me": "add to"
+    "me": "add to",
+    "pos": "Động từ"
   },
   {
     "w": "通る",
@@ -141,7 +156,8 @@
     "cat": "verb",
     "ex": "この道はいつも人がたくさん通ります。",
     "exVi": "Con đường này lúc nào cũng có nhiều người đi qua.",
-    "me": "pass by, go through"
+    "me": "pass by, go through",
+    "pos": "Động từ"
   },
   {
     "w": "渡る",
@@ -150,7 +166,8 @@
     "cat": "verb",
     "ex": "信号が青になってから道を渡りましょう。",
     "exVi": "Hãy băng qua đường sau khi đèn tín hiệu chuyển xanh.",
-    "me": "cross over, pass through"
+    "me": "cross over, pass through",
+    "pos": "Động từ"
   },
   {
     "w": "亡くなる",
@@ -159,7 +176,8 @@
     "cat": "verb",
     "ex": "祖父は去年の冬に亡くなりました。",
     "exVi": "Ông tôi đã qua đời vào mùa đông năm ngoái.",
-    "me": "pass away"
+    "me": "pass away",
+    "pos": "Động từ"
   },
   {
     "w": "引く",
@@ -168,7 +186,8 @@
     "cat": "verb",
     "ex": "ドアを引いて開けてください。",
     "exVi": "Hãy kéo cửa để mở.",
-    "me": "pull, draw"
+    "me": "pull, draw",
+    "pos": "Động từ"
   },
   {
     "w": "支える",
@@ -177,7 +196,8 @@
     "cat": "verb",
     "ex": "家族がいつも私を支えてくれます。",
     "exVi": "Gia đình luôn luôn nâng đỡ tôi.",
-    "me": "support, prop up"
+    "me": "support, prop up",
+    "pos": "Động từ"
   },
   {
     "w": "倒す",
@@ -186,7 +206,8 @@
     "cat": "verb",
     "ex": "相手のチームを倒して優勝しました。",
     "exVi": "Chúng tôi đã đánh bại đội đối thủ và vô địch.",
-    "me": "overthrow, defeat"
+    "me": "overthrow, defeat",
+    "pos": "Động từ"
   },
   {
     "w": "壊す",
@@ -195,7 +216,8 @@
     "cat": "verb",
     "ex": "弟がおもちゃを壊してしまいました。",
     "exVi": "Em trai tôi đã làm hỏng mất đồ chơi.",
-    "me": "damage, break"
+    "me": "damage, break",
+    "pos": "Động từ"
   },
   {
     "w": "直る",
@@ -204,7 +226,8 @@
     "cat": "verb",
     "ex": "壊れた時計がやっと直りました。",
     "exVi": "Chiếc đồng hồ bị hỏng cuối cùng cũng được sửa xong.",
-    "me": "have been fixed"
+    "me": "have been fixed",
+    "pos": "Động từ"
   },
   {
     "w": "治る",
@@ -213,7 +236,8 @@
     "cat": "verb",
     "ex": "風邪はもうすっかり治りました。",
     "exVi": "Cảm cúm đã khỏi hẳn rồi.",
-    "me": "recover from illness"
+    "me": "recover from illness",
+    "pos": "Động từ"
   },
   {
     "w": "治す",
@@ -222,7 +246,8 @@
     "cat": "verb",
     "ex": "病院でしっかり病気を治しましょう。",
     "exVi": "Hãy chữa khỏi bệnh thật kỹ ở bệnh viện.",
-    "me": "cure a disease"
+    "me": "cure a disease",
+    "pos": "Động từ"
   },
   {
     "w": "眠る",
@@ -231,7 +256,8 @@
     "cat": "verb",
     "ex": "昨日はよく眠ることができませんでした。",
     "exVi": "Hôm qua tôi đã không thể ngủ ngon.",
-    "me": "sleep"
+    "me": "sleep",
+    "pos": "Động từ"
   },
   {
     "w": "起こす",
@@ -240,7 +266,8 @@
     "cat": "verb",
     "ex": "明日の朝六時に起こしてください。",
     "exVi": "Sáng mai hãy đánh thức tôi lúc sáu giờ.",
-    "me": "awaken, trigger"
+    "me": "awaken, trigger",
+    "pos": "Động từ"
   },
   {
     "w": "急ぐ",
@@ -249,7 +276,8 @@
     "cat": "verb",
     "ex": "遅れそうなので急ぎましょう。",
     "exVi": "Có vẻ sẽ muộn nên chúng ta hãy đi nhanh lên.",
-    "me": "hasty, hurried"
+    "me": "hasty, hurried",
+    "pos": "Động từ"
   },
   {
     "w": "慌てる",
@@ -258,7 +286,8 @@
     "cat": "verb",
     "ex": "急なニュースに慌ててしまいました。",
     "exVi": "Tôi đã hoảng hốt trước tin tức đột ngột.",
-    "me": "panicked, flustered"
+    "me": "panicked, flustered",
+    "pos": "Động từ"
   },
   {
     "w": "喜ぶ",
@@ -267,7 +296,8 @@
     "cat": "verb",
     "ex": "合格の知らせを聞いて家族が喜びました。",
     "exVi": "Gia đình đã vui mừng khi nghe tin đậu.",
-    "me": "delighted"
+    "me": "delighted",
+    "pos": "Động từ"
   },
   {
     "w": "悲しむ",
@@ -276,7 +306,8 @@
     "cat": "verb",
     "ex": "ペットが死んで娘はとても悲しんでいます。",
     "exVi": "Con gái tôi rất buồn vì thú cưng đã chết.",
-    "me": "sad, heartbroken"
+    "me": "sad, heartbroken",
+    "pos": "Động từ"
   },
   {
     "w": "好む",
@@ -285,7 +316,8 @@
     "cat": "verb",
     "ex": "彼は静かな場所を好みます。",
     "exVi": "Anh ấy ưa thích những nơi yên tĩnh.",
-    "me": "favor, be fond of"
+    "me": "favor, be fond of",
+    "pos": "Động từ"
   },
   {
     "w": "褒める",
@@ -294,7 +326,8 @@
     "cat": "verb",
     "ex": "先生が私の作文を褒めてくれました。",
     "exVi": "Thầy giáo đã khen bài văn của tôi.",
-    "me": "praise"
+    "me": "praise",
+    "pos": "Động từ"
   },
   {
     "w": "叱る",
@@ -303,7 +336,8 @@
     "cat": "verb",
     "ex": "遅刻して先生に叱られました。",
     "exVi": "Tôi bị thầy giáo mắng vì đi trễ.",
-    "me": "scold, reprimand"
+    "me": "scold, reprimand",
+    "pos": "Động từ"
   },
   {
     "w": "教わる",
@@ -312,7 +346,8 @@
     "cat": "verb",
     "ex": "日本語の先生に敬語を教わりました。",
     "exVi": "Tôi đã được thầy giáo tiếng Nhật dạy cho kính ngữ.",
-    "me": "be taught by, learn from (someone)"
+    "me": "be taught by, learn from (someone)",
+    "pos": "Động từ"
   },
   {
     "w": "気に入る",
@@ -321,7 +356,8 @@
     "cat": "verb",
     "ex": "このデザインがとても気に入りました。",
     "exVi": "Tôi rất ưng ý với thiết kế này.",
-    "me": "satisfactory, pleasing"
+    "me": "satisfactory, pleasing",
+    "pos": "Động từ"
   },
   {
     "w": "触れる",
@@ -330,7 +366,8 @@
     "cat": "verb",
     "ex": "展示品には手を触れないでください。",
     "exVi": "Xin đừng chạm tay vào hiện vật trưng bày.",
-    "me": "touch lightly, mention"
+    "me": "touch lightly, mention",
+    "pos": "Động từ"
   },
   {
     "w": "乾かす",
@@ -339,7 +376,8 @@
     "cat": "verb",
     "ex": "髪をドライヤーで乾かします。",
     "exVi": "Tôi sấy khô tóc bằng máy sấy.",
-    "me": "to dry, dehydrate"
+    "me": "to dry, dehydrate",
+    "pos": "Động từ"
   },
   {
     "w": "汚れる",
@@ -348,7 +386,8 @@
     "cat": "verb",
     "ex": "靴が泥で汚れてしまいました。",
     "exVi": "Đôi giày đã bị bẩn vì bùn đất.",
-    "me": "become dirty"
+    "me": "become dirty",
+    "pos": "Động từ"
   },
   {
     "w": "汚す",
@@ -357,7 +396,8 @@
     "cat": "verb",
     "ex": "子供が服を絵の具で汚しました。",
     "exVi": "Đứa trẻ đã làm bẩn quần áo bằng màu vẽ.",
-    "me": "dirty, soil"
+    "me": "dirty, soil",
+    "pos": "Động từ"
   },
   {
     "w": "光る",
@@ -366,7 +406,8 @@
     "cat": "verb",
     "ex": "夜空に星が光っています。",
     "exVi": "Những vì sao đang lấp lánh trên bầu trời đêm.",
-    "me": "shine, sparkle"
+    "me": "shine, sparkle",
+    "pos": "Động từ"
   },
   {
     "w": "沈む",
@@ -375,7 +416,8 @@
     "cat": "verb",
     "ex": "太陽が海に沈んでいきます。",
     "exVi": "Mặt trời đang lặn xuống biển.",
-    "me": "sink, dive down"
+    "me": "sink, dive down",
+    "pos": "Động từ"
   },
   {
     "w": "浮かぶ",
@@ -384,7 +426,8 @@
     "cat": "verb",
     "ex": "空に白い雲が浮かんでいます。",
     "exVi": "Những đám mây trắng đang nổi trên bầu trời.",
-    "me": "emerge, rise"
+    "me": "emerge, rise",
+    "pos": "Động từ"
   },
   {
     "w": "流れる",
@@ -393,7 +436,8 @@
     "cat": "verb",
     "ex": "この川はとてもゆっくり流れています。",
     "exVi": "Con sông này chảy rất chậm.",
-    "me": "flow, drift"
+    "me": "flow, drift",
+    "pos": "Động từ"
   },
   {
     "w": "流す",
@@ -402,7 +446,8 @@
     "cat": "verb",
     "ex": "トイレの水を流してください。",
     "exVi": "Hãy xả nước bồn cầu.",
-    "me": "melt, discharge"
+    "me": "melt, discharge",
+    "pos": "Động từ"
   },
   {
     "w": "燃える",
@@ -411,7 +456,8 @@
     "cat": "verb",
     "ex": "山で火事が起きて木が燃えました。",
     "exVi": "Đã xảy ra hỏa hoạn trên núi và cây cối bị cháy.",
-    "me": "burn, fire"
+    "me": "burn, fire",
+    "pos": "Động từ"
   },
   {
     "w": "消える",
@@ -420,7 +466,8 @@
     "cat": "verb",
     "ex": "急に電気が消えました。",
     "exVi": "Đèn điện đột nhiên tắt phụt.",
-    "me": "disappear, go out"
+    "me": "disappear, go out",
+    "pos": "Động từ"
   },
   {
     "w": "眺める",
@@ -429,7 +476,8 @@
     "cat": "verb",
     "ex": "窓から美しい景色を眺めました。",
     "exVi": "Tôi đã ngắm nhìn phong cảnh đẹp từ cửa sổ.",
-    "me": "gaze at, admire"
+    "me": "gaze at, admire",
+    "pos": "Động từ"
   },
   {
     "w": "見つめる",
@@ -438,7 +486,8 @@
     "cat": "verb",
     "ex": "彼女は私の目をじっと見つめました。",
     "exVi": "Cô ấy đã nhìn chăm chú vào mắt tôi.",
-    "me": "stare intently"
+    "me": "stare intently",
+    "pos": "Động từ"
   },
   {
     "w": "誘う",
@@ -447,7 +496,8 @@
     "cat": "verb",
     "ex": "友達を映画に誘いました。",
     "exVi": "Tôi đã rủ bạn đi xem phim.",
-    "me": "entice, invite"
+    "me": "entice, invite",
+    "pos": "Động từ"
   },
   {
     "w": "助ける",
@@ -456,7 +506,8 @@
     "cat": "verb",
     "ex": "困っている人を助けたいです。",
     "exVi": "Tôi muốn giúp đỡ những người đang gặp khó khăn.",
-    "me": "assist, rescue"
+    "me": "assist, rescue",
+    "pos": "Động từ"
   },
   {
     "w": "守る",
@@ -465,7 +516,8 @@
     "cat": "verb",
     "ex": "約束は必ず守ってください。",
     "exVi": "Xin hãy luôn giữ đúng lời hứa.",
-    "me": "protect, preserve"
+    "me": "protect, preserve",
+    "pos": "Động từ"
   },
   {
     "w": "貯める",
@@ -474,7 +526,8 @@
     "cat": "verb",
     "ex": "留学のためにお金を貯めています。",
     "exVi": "Tôi đang tiết kiệm tiền để đi du học.",
-    "me": "to save (money)"
+    "me": "to save (money)",
+    "pos": "Động từ"
   },
   {
     "w": "キャンセルする",
@@ -483,7 +536,8 @@
     "cat": "verb",
     "ex": "予約をキャンセルしたいのですが。",
     "exVi": "Tôi muốn hủy đặt chỗ.",
-    "me": "cancel"
+    "me": "cancel",
+    "pos": "Động từ"
   },
   {
     "w": "延期する",
@@ -492,7 +546,8 @@
     "cat": "verb",
     "ex": "台風のため試合が延期されました。",
     "exVi": "Trận đấu đã bị hoãn lại vì bão.",
-    "me": "postpone"
+    "me": "postpone",
+    "pos": "Động từ"
   },
   {
     "w": "申し込む",
@@ -501,7 +556,8 @@
     "cat": "verb",
     "ex": "日本語のコースに申し込みました。",
     "exVi": "Tôi đã đăng ký khóa học tiếng Nhật.",
-    "me": "register, apply"
+    "me": "register, apply",
+    "pos": "Động từ"
   },
   {
     "w": "記入する",
@@ -510,7 +566,8 @@
     "cat": "verb",
     "ex": "この用紙に名前と住所を記入してください。",
     "exVi": "Hãy điền tên và địa chỉ vào tờ giấy này.",
-    "me": "fill in"
+    "me": "fill in",
+    "pos": "Động từ"
   },
   {
     "w": "サインする",
@@ -519,7 +576,8 @@
     "cat": "verb",
     "ex": "ここにサインをお願いします。",
     "exVi": "Xin hãy ký tên vào đây.",
-    "me": "sign"
+    "me": "sign",
+    "pos": "Động từ"
   },
   {
     "w": "コピーする",
@@ -528,7 +586,8 @@
     "cat": "verb",
     "ex": "この書類を三枚コピーしてください。",
     "exVi": "Hãy photo tài liệu này thành ba bản.",
-    "me": "photocopy"
+    "me": "photocopy",
+    "pos": "Động từ"
   },
   {
     "w": "印刷する",
@@ -537,7 +596,8 @@
     "cat": "verb",
     "ex": "レポートを印刷してから提出します。",
     "exVi": "Tôi sẽ in bài báo cáo ra rồi nộp.",
-    "me": "printing"
+    "me": "printing",
+    "pos": "Động từ"
   },
   {
     "w": "保存する",
@@ -546,7 +606,8 @@
     "cat": "verb",
     "ex": "大切なデータはパソコンに保存します。",
     "exVi": "Tôi lưu trữ dữ liệu quan trọng vào máy tính.",
-    "me": "store, preserve"
+    "me": "store, preserve",
+    "pos": "Động từ"
   },
   {
     "w": "削除する",
@@ -555,7 +616,8 @@
     "cat": "verb",
     "ex": "間違えたファイルを削除しました。",
     "exVi": "Tôi đã xóa tập tin bị nhầm.",
-    "me": "abolish, eliminate"
+    "me": "abolish, eliminate",
+    "pos": "Động từ"
   },
   {
     "w": "更新する",
@@ -564,7 +626,8 @@
     "cat": "verb",
     "ex": "アプリを最新のバージョンに更新してください。",
     "exVi": "Hãy cập nhật ứng dụng lên phiên bản mới nhất.",
-    "me": "update"
+    "me": "update",
+    "pos": "Động từ"
   },
   {
     "w": "設定する",
@@ -573,7 +636,8 @@
     "cat": "verb",
     "ex": "パスワードを新しく設定しました。",
     "exVi": "Tôi đã cài đặt mật khẩu mới.",
-    "me": "install"
+    "me": "install",
+    "pos": "Động từ"
   },
   {
     "w": "故障する",
@@ -582,7 +646,8 @@
     "cat": "verb",
     "ex": "エアコンが故障して修理を頼みました。",
     "exVi": "Máy điều hòa bị hỏng nên tôi đã nhờ sửa chữa.",
-    "me": "broken (machinery)"
+    "me": "broken (machinery)",
+    "pos": "Động từ"
   },
   {
     "w": "動く",
@@ -591,7 +656,8 @@
     "cat": "verb",
     "ex": "この機械はもう動きません。",
     "exVi": "Cái máy này không còn hoạt động nữa.",
-    "me": "active, move around"
+    "me": "active, move around",
+    "pos": "Động từ"
   },
   {
     "w": "結ぶ",
@@ -600,7 +666,8 @@
     "cat": "verb",
     "ex": "靴のひもをしっかり結びました。",
     "exVi": "Tôi đã buộc chặt dây giày.",
-    "me": "tie, fasten"
+    "me": "tie, fasten",
+    "pos": "Động từ"
   },
   {
     "w": "配る",
@@ -609,7 +676,8 @@
     "cat": "verb",
     "ex": "先生がテストの用紙を配りました。",
     "exVi": "Thầy giáo đã phát tờ đề kiểm tra.",
-    "me": "distribute"
+    "me": "distribute",
+    "pos": "Động từ"
   },
   {
     "w": "配達する",
@@ -618,7 +686,8 @@
     "cat": "verb",
     "ex": "このピザは三十分で配達します。",
     "exVi": "Bánh pizza này sẽ được giao trong ba mươi phút.",
-    "me": "deliver"
+    "me": "deliver",
+    "pos": "Động từ"
   },
   {
     "w": "積む",
@@ -627,7 +696,8 @@
     "cat": "verb",
     "ex": "トラックに荷物を積みました。",
     "exVi": "Tôi đã chất hàng hóa lên xe tải.",
-    "me": "stack, pile up"
+    "me": "stack, pile up",
+    "pos": "Động từ"
   },
   {
     "w": "降ろす",
@@ -636,7 +706,8 @@
     "cat": "verb",
     "ex": "荷物を車から降ろしてください。",
     "exVi": "Hãy dỡ hàng hóa xuống từ xe.",
-    "me": "lower, unload"
+    "me": "lower, unload",
+    "pos": "Động từ"
   },
   {
     "w": "話しかける",
@@ -645,7 +716,8 @@
     "cat": "verb",
     "ex": "知らない人に話しかけられました。",
     "exVi": "Tôi đã bị một người lạ bắt chuyện.",
-    "me": "strike up a conversation"
+    "me": "strike up a conversation",
+    "pos": "Động từ"
   },
   {
     "w": "追いかける",
@@ -654,7 +726,8 @@
     "cat": "verb",
     "ex": "犬が猫を追いかけています。",
     "exVi": "Con chó đang đuổi theo con mèo.",
-    "me": "chase after"
+    "me": "chase after",
+    "pos": "Động từ"
   },
   {
     "w": "進む",
@@ -663,7 +736,8 @@
     "cat": "verb",
     "ex": "工事は予定通り進んでいます。",
     "exVi": "Công trình đang tiến triển đúng như dự định.",
-    "me": "advance, progress"
+    "me": "advance, progress",
+    "pos": "Động từ"
   },
   {
     "w": "戻す",
@@ -672,7 +746,8 @@
     "cat": "verb",
     "ex": "使った本は棚に戻してください。",
     "exVi": "Hãy đưa sách đã dùng về lại kệ.",
-    "me": "return, restore to its original place"
+    "me": "return, restore to its original place",
+    "pos": "Động từ"
   },
   {
     "w": "近づく",
@@ -681,7 +756,8 @@
     "cat": "verb",
     "ex": "台風が少しずつ近づいています。",
     "exVi": "Cơn bão đang tiến đến gần dần dần.",
-    "me": "approach, draw near"
+    "me": "approach, draw near",
+    "pos": "Động từ"
   },
   {
     "w": "離れる",
@@ -690,7 +766,8 @@
     "cat": "verb",
     "ex": "十八歳で親元を離れました。",
     "exVi": "Tôi đã rời xa cha mẹ khi mười tám tuổi.",
-    "me": "to move away, be distant from"
+    "me": "to move away, be distant from",
+    "pos": "Động từ"
   },
   {
     "w": "増やす",
@@ -699,7 +776,8 @@
     "cat": "verb",
     "ex": "もっと単語の数を増やしたいです。",
     "exVi": "Tôi muốn tăng thêm số lượng từ vựng.",
-    "me": "increase"
+    "me": "increase",
+    "pos": "Động từ"
   },
   {
     "w": "減らす",
@@ -708,7 +786,8 @@
     "cat": "verb",
     "ex": "塩の量を少し減らしましょう。",
     "exVi": "Hãy giảm bớt một chút lượng muối.",
-    "me": "reduce, alleviate"
+    "me": "reduce, alleviate",
+    "pos": "Động từ"
   },
   {
     "w": "登る",
@@ -717,7 +796,8 @@
     "cat": "verb",
     "ex": "週末に富士山に登る予定です。",
     "exVi": "Cuối tuần tôi có kế hoạch leo núi Phú Sĩ.",
-    "me": "climb up"
+    "me": "climb up",
+    "pos": "Động từ"
   },
   {
     "w": "届く",
@@ -726,7 +806,8 @@
     "cat": "verb",
     "ex": "注文した本がやっと届きました。",
     "exVi": "Cuốn sách đã đặt cuối cùng cũng được giao tới.",
-    "me": "arrived, delivered"
+    "me": "arrived, delivered",
+    "pos": "Động từ"
   },
   {
     "w": "伝わる",
@@ -735,7 +816,8 @@
     "cat": "verb",
     "ex": "私の気持ちが彼にちゃんと伝わりました。",
     "exVi": "Cảm xúc của tôi đã được truyền đạt đến anh ấy một cách trọn vẹn.",
-    "me": "to be conveyed, communicated"
+    "me": "to be conveyed, communicated",
+    "pos": "Động từ"
   },
   {
     "w": "集まる",
@@ -744,7 +826,8 @@
     "cat": "verb",
     "ex": "毎週土曜日にクラブのメンバーが集まります。",
     "exVi": "Thành viên câu lạc bộ tụ họp vào mỗi thứ Bảy hàng tuần.",
-    "me": "get together"
+    "me": "get together",
+    "pos": "Động từ"
   },
   {
     "w": "変わる",
@@ -753,7 +836,8 @@
     "cat": "verb",
     "ex": "彼は昔とずいぶん変わりましたね。",
     "exVi": "Anh ấy đã thay đổi khá nhiều so với trước kia nhỉ.",
-    "me": "change (automatic)"
+    "me": "change (automatic)",
+    "pos": "Động từ"
   },
   {
     "w": "太い",
@@ -762,7 +846,8 @@
     "cat": "adjective",
     "ex": "この木の幹はとても太いです。",
     "exVi": "Thân cây này rất to.",
-    "me": "thick (a stick, tube)"
+    "me": "thick (a stick, tube)",
+    "pos": "Tính từ"
   },
   {
     "w": "細い",
@@ -771,7 +856,8 @@
     "cat": "adjective",
     "ex": "彼女は腕がとても細いです。",
     "exVi": "Cánh tay của cô ấy rất mảnh.",
-    "me": "slender, small, thin"
+    "me": "slender, small, thin",
+    "pos": "Tính từ"
   },
   {
     "w": "丁寧",
@@ -780,7 +866,8 @@
     "cat": "adjective",
     "ex": "店員は丁寧に説明してくれました。",
     "exVi": "Nhân viên cửa hàng đã giải thích một cách tỉ mỉ.",
-    "me": "polite, meticulous"
+    "me": "polite, meticulous",
+    "pos": "Tính từ"
   },
   {
     "w": "熱心",
@@ -789,7 +876,8 @@
     "cat": "adjective",
     "ex": "彼は仕事にとても熱心です。",
     "exVi": "Anh ấy rất nhiệt tình với công việc.",
-    "me": "enthusiastic"
+    "me": "enthusiastic",
+    "pos": "Tính từ"
   },
   {
     "w": "素直",
@@ -798,7 +886,8 @@
     "cat": "adjective",
     "ex": "あの子はいつも素直に返事をします。",
     "exVi": "Đứa trẻ đó lúc nào cũng trả lời một cách thật thà.",
-    "me": "obedient, honest"
+    "me": "obedient, honest",
+    "pos": "Tính từ"
   },
   {
     "w": "素敵",
@@ -807,7 +896,8 @@
     "cat": "adjective",
     "ex": "素敵なプレゼントをありがとうございます。",
     "exVi": "Cảm ơn bạn vì món quà tuyệt vời.",
-    "me": "wonderful, beautiful"
+    "me": "wonderful, beautiful",
+    "pos": "Tính từ"
   },
   {
     "w": "立派",
@@ -816,7 +906,8 @@
     "cat": "adjective",
     "ex": "立派な建物ですね。",
     "exVi": "Tòa nhà thật tráng lệ nhỉ.",
-    "me": "magnificent, outstanding"
+    "me": "magnificent, outstanding",
+    "pos": "Tính từ"
   },
   {
     "w": "得意",
@@ -825,7 +916,8 @@
     "cat": "adjective",
     "ex": "私は数学が得意です。",
     "exVi": "Tôi giỏi về môn toán.",
-    "me": "forte, good at"
+    "me": "forte, good at",
+    "pos": "Tính từ"
   },
   {
     "w": "苦手",
@@ -834,7 +926,8 @@
     "cat": "adjective",
     "ex": "私は運転が苦手です。",
     "exVi": "Tôi không giỏi lái xe.",
-    "me": "not good at, afraid of (something)"
+    "me": "not good at, afraid of (something)",
+    "pos": "Tính từ"
   },
   {
     "w": "平気",
@@ -843,7 +936,8 @@
     "cat": "adjective",
     "ex": "一人で旅行しても平気です。",
     "exVi": "Dù đi du lịch một mình tôi cũng không sao.",
-    "me": "calm, unconcerned"
+    "me": "calm, unconcerned",
+    "pos": "Tính từ"
   },
   {
     "w": "不安",
@@ -852,7 +946,8 @@
     "cat": "adjective",
     "ex": "将来のことがちょっと不安です。",
     "exVi": "Tôi hơi lo lắng về tương lai.",
-    "me": "uneasy, worried"
+    "me": "uneasy, worried",
+    "pos": "Tính từ"
   },
   {
     "w": "邪魔",
@@ -861,7 +956,8 @@
     "cat": "adjective",
     "ex": "すみません、お邪魔します。",
     "exVi": "Xin lỗi, tôi xin phép làm phiền.",
-    "me": "hinder, disturb"
+    "me": "hinder, disturb",
+    "pos": "Tính từ"
   },
   {
     "w": "無理",
@@ -870,7 +966,8 @@
     "cat": "adjective",
     "ex": "今日中に終わらせるのは無理です。",
     "exVi": "Không thể nào hoàn thành trong hôm nay được.",
-    "me": "unreasonable, impossible, excessive"
+    "me": "unreasonable, impossible, excessive",
+    "pos": "Tính từ"
   },
   {
     "w": "適当",
@@ -879,7 +976,8 @@
     "cat": "adjective",
     "ex": "適当な場所で休みましょう。",
     "exVi": "Hãy nghỉ ngơi ở một nơi thích hợp.",
-    "me": "suitable, perfunctory"
+    "me": "suitable, perfunctory",
+    "pos": "Tính từ"
   },
   {
     "w": "意外",
@@ -888,7 +986,8 @@
     "cat": "adjective",
     "ex": "彼の答えは意外でした。",
     "exVi": "Câu trả lời của anh ấy thật bất ngờ.",
-    "me": "unexpected, beyond anticipation"
+    "me": "unexpected, beyond anticipation",
+    "pos": "Tính từ"
   },
   {
     "w": "経済的",
@@ -897,7 +996,8 @@
     "cat": "adjective",
     "ex": "バスは電車より経済的です。",
     "exVi": "Xe buýt tiết kiệm hơn tàu điện.",
-    "me": "economical, cost-efficient"
+    "me": "economical, cost-efficient",
+    "pos": "Tính từ"
   },
   {
     "w": "幸せ",
@@ -906,7 +1006,8 @@
     "cat": "adjective",
     "ex": "家族と一緒にいると幸せです。",
     "exVi": "Tôi cảm thấy hạnh phúc khi ở bên gia đình.",
-    "me": "happiness"
+    "me": "happiness",
+    "pos": "Tính từ"
   },
   {
     "w": "残念",
@@ -915,7 +1016,8 @@
     "cat": "adjective",
     "ex": "旅行に行けなくて残念です。",
     "exVi": "Thật đáng tiếc vì không thể đi du lịch.",
-    "me": "regrettable"
+    "me": "regrettable",
+    "pos": "Tính từ"
   },
   {
     "w": "面倒",
@@ -924,7 +1026,8 @@
     "cat": "adjective",
     "ex": "手続きが面倒で時間がかかりました。",
     "exVi": "Thủ tục phiền phức nên đã mất nhiều thời gian.",
-    "me": "trouble, hassle"
+    "me": "trouble, hassle",
+    "pos": "Tính từ"
   },
   {
     "w": "面倒くさい",
@@ -933,7 +1036,8 @@
     "cat": "adjective",
     "ex": "掃除するのが面倒くさいです。",
     "exVi": "Việc dọn dẹp thật ngại làm.",
-    "me": "troublesome, reluctant to do"
+    "me": "troublesome, reluctant to do",
+    "pos": "Tính từ"
   },
   {
     "w": "重要",
@@ -942,7 +1046,8 @@
     "cat": "adjective",
     "ex": "これはとても重要な会議です。",
     "exVi": "Đây là một cuộc họp rất quan trọng.",
-    "me": "important"
+    "me": "important",
+    "pos": "Tính từ"
   },
   {
     "w": "厳しい",
@@ -951,7 +1056,8 @@
     "cat": "adjective",
     "ex": "父はしつけにとても厳しいです。",
     "exVi": "Bố tôi rất nghiêm khắc trong việc dạy dỗ.",
-    "me": "strict"
+    "me": "strict",
+    "pos": "Tính từ"
   },
   {
     "w": "細かい",
@@ -960,7 +1066,8 @@
     "cat": "adjective",
     "ex": "細かいことまで説明してくれました。",
     "exVi": "Anh ấy đã giải thích cho tôi đến cả những điều nhỏ nhặt.",
-    "me": "minor detail, trivial"
+    "me": "minor detail, trivial",
+    "pos": "Tính từ"
   },
   {
     "w": "確か",
@@ -969,7 +1076,8 @@
     "cat": "adjective",
     "ex": "確かこの店は九時に開きます。",
     "exVi": "Hình như cửa hàng này mở cửa lúc chín giờ.",
-    "me": "certainly, seemingly"
+    "me": "certainly, seemingly",
+    "pos": "Tính từ"
   },
   {
     "w": "温かい",
@@ -978,7 +1086,8 @@
     "cat": "adjective",
     "ex": "家族の温かい言葉に励まされました。",
     "exVi": "Tôi được động viên bởi những lời nói ấm áp của gia đình.",
-    "me": "warm (emotionally, physically)"
+    "me": "warm (emotionally, physically)",
+    "pos": "Tính từ"
   },
   {
     "w": "冷たい",
@@ -987,7 +1096,8 @@
     "cat": "adjective",
     "ex": "夏は冷たい飲み物がおいしいです。",
     "exVi": "Mùa hè, đồ uống lạnh rất ngon.",
-    "me": "cold (object, attitude)"
+    "me": "cold (object, attitude)",
+    "pos": "Tính từ"
   },
   {
     "w": "怖い",
@@ -996,7 +1106,8 @@
     "cat": "adjective",
     "ex": "一人で暗い道を歩くのは怖いです。",
     "exVi": "Đi bộ một mình trên con đường tối thật đáng sợ.",
-    "me": "frightening, afraid"
+    "me": "frightening, afraid",
+    "pos": "Tính từ"
   },
   {
     "w": "すごい",
@@ -1005,7 +1116,8 @@
     "cat": "adjective",
     "ex": "このゲームはすごく面白いです。",
     "exVi": "Trò chơi này thú vị kinh khủng.",
-    "me": "amazing, incredible"
+    "me": "amazing, incredible",
+    "pos": "Tính từ"
   },
   {
     "w": "素晴らしい",
@@ -1014,7 +1126,8 @@
     "cat": "adjective",
     "ex": "素晴らしい演奏をありがとうございました。",
     "exVi": "Cảm ơn bạn vì màn biểu diễn tuyệt vời.",
-    "me": "brilliant"
+    "me": "brilliant",
+    "pos": "Tính từ"
   },
   {
     "w": "派手",
@@ -1023,7 +1136,8 @@
     "cat": "adjective",
     "ex": "そのドレスはちょっと派手ですね。",
     "exVi": "Chiếc váy đó hơi sặc sỡ nhỉ.",
-    "me": "gaudy, garish"
+    "me": "gaudy, garish",
+    "pos": "Tính từ"
   },
   {
     "w": "地味",
@@ -1032,7 +1146,8 @@
     "cat": "adjective",
     "ex": "彼はいつも地味な服を着ています。",
     "exVi": "Anh ấy lúc nào cũng mặc quần áo giản dị.",
-    "me": "simple, discreet"
+    "me": "simple, discreet",
+    "pos": "Tính từ"
   },
   {
     "w": "のんびり",
@@ -1041,7 +1156,8 @@
     "cat": "adjective",
     "ex": "休みの日はのんびり過ごしたいです。",
     "exVi": "Vào ngày nghỉ tôi muốn được sống thong thả.",
-    "me": "leisurely, unhurried"
+    "me": "leisurely, unhurried",
+    "pos": "Tính từ"
   },
   {
     "w": "もったいない",
@@ -1050,7 +1166,8 @@
     "cat": "adjective",
     "ex": "まだ使えるのに捨てるのはもったいないです。",
     "exVi": "Vẫn còn dùng được mà vứt đi thì thật lãng phí.",
-    "me": "wasteful, a pity (to let go to waste)"
+    "me": "wasteful, a pity (to let go to waste)",
+    "pos": "Tính từ"
   },
   {
     "w": "損する",
@@ -1059,7 +1176,8 @@
     "cat": "verb",
     "ex": "安物を買って結局損しました。",
     "exVi": "Tôi đã mua đồ rẻ tiền và cuối cùng bị lỗ.",
-    "me": "suffer a loss, be disadvantaged"
+    "me": "suffer a loss, be disadvantaged",
+    "pos": "Động từ"
   },
   {
     "w": "お得",
@@ -1068,7 +1186,8 @@
     "cat": "adjective",
     "ex": "このセットはお得な価格です。",
     "exVi": "Bộ sản phẩm này có giá rất hời.",
-    "me": "a bargain, advantageous"
+    "me": "a bargain, advantageous",
+    "pos": "Tính từ"
   },
   {
     "w": "間違い",
@@ -1077,7 +1196,8 @@
     "cat": "noun",
     "ex": "私の間違いを許してください。",
     "exVi": "Xin hãy tha thứ cho lỗi lầm của tôi.",
-    "me": "mistake, error"
+    "me": "mistake, error",
+    "pos": "Danh từ"
   },
   {
     "w": "教科書",
@@ -1086,7 +1206,8 @@
     "cat": "school",
     "ex": "教科書の三十ページを開いてください。",
     "exVi": "Hãy mở sách giáo khoa trang ba mươi.",
-    "me": "textbook"
+    "me": "textbook",
+    "pos": "Danh từ"
   },
   {
     "w": "文法",
@@ -1095,7 +1216,8 @@
     "cat": "school",
     "ex": "日本語の文法は難しいと思います。",
     "exVi": "Tôi nghĩ ngữ pháp tiếng Nhật khó.",
-    "me": "grammar"
+    "me": "grammar",
+    "pos": "Danh từ"
   },
   {
     "w": "発音",
@@ -1104,7 +1226,8 @@
     "cat": "school",
     "ex": "先生の発音はとてもきれいです。",
     "exVi": "Cách phát âm của thầy giáo rất chuẩn.",
-    "me": "pronunciation"
+    "me": "pronunciation",
+    "pos": "Danh từ"
   },
   {
     "w": "クラスメート",
@@ -1113,7 +1236,8 @@
     "cat": "school",
     "ex": "クラスメートと一緒に宿題をしました。",
     "exVi": "Tôi đã làm bài tập cùng với bạn cùng lớp.",
-    "me": "classmate"
+    "me": "classmate",
+    "pos": "Danh từ"
   },
   {
     "w": "先輩",
@@ -1122,7 +1246,8 @@
     "cat": "school",
     "ex": "大学の先輩にアドバイスをもらいました。",
     "exVi": "Tôi đã nhận được lời khuyên từ đàn anh ở đại học.",
-    "me": "senior, elder in the field"
+    "me": "senior, elder in the field",
+    "pos": "Danh từ"
   },
   {
     "w": "後輩",
@@ -1131,7 +1256,8 @@
     "cat": "school",
     "ex": "後輩にサッカーを教えています。",
     "exVi": "Tôi đang dạy bóng đá cho đàn em.",
-    "me": "junior, protégé"
+    "me": "junior, protégé",
+    "pos": "Danh từ"
   },
   {
     "w": "専攻する",
@@ -1140,7 +1266,8 @@
     "cat": "school",
     "ex": "大学で経済学を専攻しています。",
     "exVi": "Tôi đang học chuyên ngành kinh tế học ở đại học.",
-    "me": "major in (a field of study)"
+    "me": "major in (a field of study)",
+    "pos": "Động từ"
   },
   {
     "w": "レポート",
@@ -1149,7 +1276,8 @@
     "cat": "school",
     "ex": "来週までにレポートを出さなければなりません。",
     "exVi": "Tôi phải nộp bài báo cáo trước tuần sau.",
-    "me": "report, essay"
+    "me": "report, essay",
+    "pos": "Danh từ"
   },
   {
     "w": "黒板",
@@ -1158,7 +1286,8 @@
     "cat": "school",
     "ex": "先生が黒板に単語を書きました。",
     "exVi": "Thầy giáo đã viết từ vựng lên bảng đen.",
-    "me": "blackboard"
+    "me": "blackboard",
+    "pos": "Danh từ"
   },
   {
     "w": "部活",
@@ -1167,7 +1296,8 @@
     "cat": "school",
     "ex": "高校のとき、テニス部の部活に入っていました。",
     "exVi": "Hồi cấp ba, tôi đã tham gia hoạt động câu lạc bộ quần vợt.",
-    "me": "club activity (school)"
+    "me": "club activity (school)",
+    "pos": "Danh từ"
   },
   {
     "w": "塾",
@@ -1176,7 +1306,8 @@
     "cat": "school",
     "ex": "息子は毎週火曜日に塾へ通っています。",
     "exVi": "Con trai tôi đi học thêm vào mỗi thứ Ba hàng tuần.",
-    "me": "cram school, tutoring center"
+    "me": "cram school, tutoring center",
+    "pos": "Danh từ"
   },
   {
     "w": "予習する",
@@ -1185,7 +1316,8 @@
     "cat": "school",
     "ex": "授業の前に必ず予習します。",
     "exVi": "Trước giờ học tôi luôn học bài trước.",
-    "me": "preview a lesson beforehand"
+    "me": "preview a lesson beforehand",
+    "pos": "Động từ"
   },
   {
     "w": "復習する",
@@ -1194,7 +1326,8 @@
     "cat": "school",
     "ex": "試験の前に習ったことを復習しました。",
     "exVi": "Trước kỳ thi tôi đã ôn tập lại những gì đã học.",
-    "me": "review again"
+    "me": "review again",
+    "pos": "Danh từ"
   },
   {
     "w": "入試",
@@ -1203,7 +1336,8 @@
     "cat": "school",
     "ex": "来年、大学の入試を受けます。",
     "exVi": "Sang năm tôi sẽ tham dự kỳ thi tuyển sinh đại học.",
-    "me": "entrance examination"
+    "me": "entrance examination",
+    "pos": "Danh từ"
   },
   {
     "w": "制服",
@@ -1212,7 +1346,8 @@
     "cat": "school",
     "ex": "この学校の制服は白いシャツと黒いズボンです。",
     "exVi": "Đồng phục của trường này là áo sơ mi trắng và quần đen.",
-    "me": "uniform"
+    "me": "uniform",
+    "pos": "Danh từ"
   },
   {
     "w": "出張",
@@ -1221,7 +1356,8 @@
     "cat": "work",
     "ex": "来週から大阪へ出張します。",
     "exVi": "Tuần sau tôi sẽ đi công tác đến Osaka.",
-    "me": "go on a business trip"
+    "me": "go on a business trip",
+    "pos": "Động từ"
   },
   {
     "w": "残業する",
@@ -1230,7 +1366,8 @@
     "cat": "work",
     "ex": "昨日は夜十時まで残業しました。",
     "exVi": "Hôm qua tôi đã làm thêm giờ đến mười giờ tối.",
-    "me": "overtime"
+    "me": "overtime",
+    "pos": "Động từ"
   },
   {
     "w": "休暇",
@@ -1239,7 +1376,8 @@
     "cat": "work",
     "ex": "来月一週間の休暇を取る予定です。",
     "exVi": "Tháng sau tôi dự định xin nghỉ phép một tuần.",
-    "me": "vacation leave"
+    "me": "vacation leave",
+    "pos": "Danh từ"
   },
   {
     "w": "契約する",
@@ -1248,7 +1386,8 @@
     "cat": "work",
     "ex": "新しい会社と契約することになりました。",
     "exVi": "Tôi đã quyết định ký hợp đồng với công ty mới.",
-    "me": "sign a contract"
+    "me": "sign a contract",
+    "pos": "Động từ"
   },
   {
     "w": "ボーナス",
@@ -1257,7 +1396,8 @@
     "cat": "work",
     "ex": "今年の夏、ボーナスをもらいました。",
     "exVi": "Mùa hè năm nay tôi đã nhận được tiền thưởng.",
-    "me": "bonus"
+    "me": "bonus",
+    "pos": "Danh từ"
   },
   {
     "w": "昇進する",
@@ -1266,7 +1406,8 @@
     "cat": "work",
     "ex": "頑張ったので課長に昇進しました。",
     "exVi": "Vì đã cố gắng nên tôi đã được thăng chức lên trưởng ban.",
-    "me": "promotion"
+    "me": "promotion",
+    "pos": "Danh từ"
   },
   {
     "w": "転勤する",
@@ -1275,7 +1416,8 @@
     "cat": "work",
     "ex": "来月、東京の支社に転勤します。",
     "exVi": "Tháng sau tôi sẽ chuyển công tác đến chi nhánh Tokyo.",
-    "me": "job transfer"
+    "me": "job transfer",
+    "pos": "Động từ"
   },
   {
     "w": "部長",
@@ -1284,7 +1426,8 @@
     "cat": "work",
     "ex": "部長に企画書を見せました。",
     "exVi": "Tôi đã cho trưởng phòng xem bản kế hoạch.",
-    "me": "department head"
+    "me": "department head",
+    "pos": "Danh từ"
   },
   {
     "w": "社長",
@@ -1293,7 +1436,8 @@
     "cat": "work",
     "ex": "社長は毎朝七時に出社します。",
     "exVi": "Giám đốc đến công ty lúc bảy giờ sáng mỗi ngày.",
-    "me": "company director"
+    "me": "company director",
+    "pos": "Danh từ"
   },
   {
     "w": "アルバイト",
@@ -1302,7 +1446,8 @@
     "cat": "work",
     "ex": "大学生のとき、カフェでアルバイトをしていました。",
     "exVi": "Hồi là sinh viên đại học, tôi đã làm thêm ở quán cà phê.",
-    "me": "part-time job"
+    "me": "part-time job",
+    "pos": "Danh từ"
   },
   {
     "w": "正社員",
@@ -1311,7 +1456,8 @@
     "cat": "work",
     "ex": "来年から正社員として働きます。",
     "exVi": "Từ sang năm tôi sẽ làm việc với tư cách nhân viên chính thức.",
-    "me": "permanent staff, full-time employee"
+    "me": "permanent staff, full-time employee",
+    "pos": "Danh từ"
   },
   {
     "w": "体温",
@@ -1320,7 +1466,8 @@
     "cat": "health",
     "ex": "毎朝、体温を測っています。",
     "exVi": "Mỗi sáng tôi đều đo thân nhiệt.",
-    "me": "body temperature"
+    "me": "body temperature",
+    "pos": "Danh từ"
   },
   {
     "w": "体重",
@@ -1329,7 +1476,8 @@
     "cat": "health",
     "ex": "運動を始めてから体重が減りました。",
     "exVi": "Từ khi bắt đầu tập thể dục, cân nặng của tôi đã giảm.",
-    "me": "weight"
+    "me": "weight",
+    "pos": "Danh từ"
   },
   {
     "w": "身長",
@@ -1338,7 +1486,8 @@
     "cat": "health",
     "ex": "息子の身長は父親より高くなりました。",
     "exVi": "Chiều cao của con trai tôi đã cao hơn cha rồi.",
-    "me": "height"
+    "me": "height",
+    "pos": "Danh từ"
   },
   {
     "w": "検査する",
@@ -1347,7 +1496,8 @@
     "cat": "health",
     "ex": "病院で目を検査してもらいました。",
     "exVi": "Tôi đã được kiểm tra mắt ở bệnh viện.",
-    "me": "medical checkup"
+    "me": "medical checkup",
+    "pos": "Động từ"
   },
   {
     "w": "手術する",
@@ -1356,7 +1506,8 @@
     "cat": "health",
     "ex": "来週、足の手術をすることになりました。",
     "exVi": "Tuần sau tôi sẽ phải phẫu thuật chân.",
-    "me": "surgery"
+    "me": "surgery",
+    "pos": "Danh từ"
   },
   {
     "w": "入院する",
@@ -1365,7 +1516,8 @@
     "cat": "health",
     "ex": "祖母は先週から入院しています。",
     "exVi": "Bà tôi đã nhập viện từ tuần trước.",
-    "me": "be hospitalized"
+    "me": "be hospitalized",
+    "pos": "Danh từ"
   },
   {
     "w": "退院する",
@@ -1374,7 +1526,8 @@
     "cat": "health",
     "ex": "来週の月曜日に退院できるそうです。",
     "exVi": "Nghe nói tôi có thể xuất viện vào thứ Hai tuần sau.",
-    "me": "discharge from hospital"
+    "me": "discharge from hospital",
+    "pos": "Danh từ"
   },
   {
     "w": "症状",
@@ -1383,7 +1536,8 @@
     "cat": "health",
     "ex": "どんな症状がありますか。",
     "exVi": "Bạn có triệu chứng như thế nào?",
-    "me": "symptom"
+    "me": "symptom",
+    "pos": "Danh từ"
   },
   {
     "w": "予防する",
@@ -1392,7 +1546,8 @@
     "cat": "health",
     "ex": "手を洗って病気を予防しましょう。",
     "exVi": "Hãy rửa tay để phòng ngừa bệnh tật.",
-    "me": "prevention"
+    "me": "prevention",
+    "pos": "Danh từ"
   },
   {
     "w": "体調",
@@ -1401,7 +1556,8 @@
     "cat": "health",
     "ex": "今日は体調があまりよくありません。",
     "exVi": "Hôm nay tình trạng sức khỏe của tôi không được tốt lắm.",
-    "me": "health condition"
+    "me": "health condition",
+    "pos": "Danh từ"
   },
   {
     "w": "歯医者",
@@ -1410,7 +1566,8 @@
     "cat": "health",
     "ex": "歯が痛くて歯医者に行きました。",
     "exVi": "Tôi bị đau răng nên đã đi khám nha sĩ.",
-    "me": "dentist"
+    "me": "dentist",
+    "pos": "Danh từ"
   },
   {
     "w": "クローゼット",
@@ -1419,7 +1576,8 @@
     "cat": "household",
     "ex": "冬の服はクローゼットにしまいました。",
     "exVi": "Tôi đã cất quần áo mùa đông vào tủ quần áo.",
-    "me": "wardrobe"
+    "me": "wardrobe",
+    "pos": "Danh từ"
   },
   {
     "w": "ゴミ箱",
@@ -1428,7 +1586,8 @@
     "cat": "household",
     "ex": "紙くずをゴミ箱に捨ててください。",
     "exVi": "Hãy vứt giấy vụn vào thùng rác.",
-    "me": "trash can"
+    "me": "trash can",
+    "pos": "Danh từ"
   },
   {
     "w": "スイッチ",
@@ -1437,7 +1596,8 @@
     "cat": "household",
     "ex": "電気のスイッチはどこにありますか。",
     "exVi": "Công tắc đèn ở đâu vậy?",
-    "me": "switch"
+    "me": "switch",
+    "pos": "Danh từ"
   },
   {
     "w": "コンセント",
@@ -1446,7 +1606,8 @@
     "cat": "household",
     "ex": "このコンセントは使えません。",
     "exVi": "Ổ cắm điện này không dùng được.",
-    "me": "power outlet"
+    "me": "power outlet",
+    "pos": "Danh từ"
   },
   {
     "w": "玄関",
@@ -1455,7 +1616,8 @@
     "cat": "home",
     "ex": "玄関で靴を脱いでください。",
     "exVi": "Hãy cởi giày ở lối vào nhà.",
-    "me": "genkan — entryway (shoe area)"
+    "me": "genkan — entryway (shoe area)",
+    "pos": "Danh từ"
   },
   {
     "w": "廊下",
@@ -1464,7 +1626,8 @@
     "cat": "home",
     "ex": "廊下を走らないでください。",
     "exVi": "Xin đừng chạy trong hành lang.",
-    "me": "hallway"
+    "me": "hallway",
+    "pos": "Danh từ"
   },
   {
     "w": "味噌汁",
@@ -1473,7 +1636,8 @@
     "cat": "food",
     "ex": "朝ごはんに味噌汁を飲みます。",
     "exVi": "Tôi uống súp miso vào bữa sáng.",
-    "me": "miso soup"
+    "me": "miso soup",
+    "pos": "Danh từ"
   },
   {
     "w": "醤油",
@@ -1482,7 +1646,8 @@
     "cat": "food",
     "ex": "お寿司には醤油をつけて食べます。",
     "exVi": "Sushi được ăn kèm với nước tương.",
-    "me": "soy sauce"
+    "me": "soy sauce",
+    "pos": "Danh từ"
   },
   {
     "w": "油",
@@ -1491,7 +1656,8 @@
     "cat": "food",
     "ex": "フライパンに油を入れて野菜を炒めます。",
     "exVi": "Tôi cho dầu vào chảo rồi xào rau.",
-    "me": "oil"
+    "me": "oil",
+    "pos": "Danh từ"
   },
   {
     "w": "うどん",
@@ -1500,7 +1666,8 @@
     "cat": "food",
     "ex": "寒い日はあたたかいうどんが食べたいです。",
     "exVi": "Ngày lạnh tôi muốn ăn mì udon nóng.",
-    "me": "udon noodles"
+    "me": "udon noodles",
+    "pos": "Danh từ"
   },
   {
     "w": "そば",
@@ -1509,7 +1676,8 @@
     "cat": "food",
     "ex": "お昼にそばを食べに行きましょう。",
     "exVi": "Hãy đi ăn mì soba vào buổi trưa.",
-    "me": "soba noodles"
+    "me": "soba noodles",
+    "pos": "Danh từ"
   },
   {
     "w": "おにぎり",
@@ -1518,7 +1686,8 @@
     "cat": "food",
     "ex": "コンビニでおにぎりを買いました。",
     "exVi": "Tôi đã mua cơm nắm ở cửa hàng tiện lợi.",
-    "me": "rice ball (onigiri)"
+    "me": "rice ball (onigiri)",
+    "pos": "Danh từ"
   },
   {
     "w": "おかわり",
@@ -1527,7 +1696,8 @@
     "cat": "food",
     "ex": "ご飯のおかわりをお願いします。",
     "exVi": "Cho tôi xin thêm cơm.",
-    "me": "have an extra serving"
+    "me": "have an extra serving",
+    "pos": "Danh từ"
   },
   {
     "w": "味見する",
@@ -1536,7 +1706,8 @@
     "cat": "cooking",
     "ex": "味が薄いかどうか味見してください。",
     "exVi": "Hãy nếm thử xem vị có nhạt không.",
-    "me": "taste, try"
+    "me": "taste, try",
+    "pos": "Danh từ"
   },
   {
     "w": "冷ます",
@@ -1545,7 +1716,8 @@
     "cat": "cooking",
     "ex": "熱いスープを少し冷ましてから飲みます。",
     "exVi": "Tôi để súp nóng nguội bớt rồi mới uống.",
-    "me": "cool down"
+    "me": "cool down",
+    "pos": "Động từ"
   },
   {
     "w": "むく",
@@ -1554,7 +1726,8 @@
     "cat": "cooking",
     "ex": "りんごの皮をむいてください。",
     "exVi": "Hãy gọt vỏ táo.",
-    "me": "peel"
+    "me": "peel",
+    "pos": "Danh từ"
   },
   {
     "w": "刻む",
@@ -1563,7 +1736,8 @@
     "cat": "cooking",
     "ex": "にんにくを細かく刻みます。",
     "exVi": "Tôi băm nhỏ tỏi.",
-    "me": "mince, chop finely"
+    "me": "mince, chop finely",
+    "pos": "Động từ"
   },
   {
     "w": "炒める",
@@ -1572,7 +1746,8 @@
     "cat": "cooking",
     "ex": "肉と野菜を一緒に炒めます。",
     "exVi": "Tôi xào thịt cùng với rau.",
-    "me": "stir-fry"
+    "me": "stir-fry",
+    "pos": "Danh từ"
   },
   {
     "w": "島",
@@ -1581,7 +1756,8 @@
     "cat": "nature",
     "ex": "沖縄にはきれいな島がたくさんあります。",
     "exVi": "Ở Okinawa có rất nhiều hòn đảo đẹp.",
-    "me": "island"
+    "me": "island",
+    "pos": "Danh từ"
   },
   {
     "w": "波",
@@ -1590,7 +1766,8 @@
     "cat": "nature",
     "ex": "今日は波が高いので泳がないでください。",
     "exVi": "Hôm nay sóng cao nên xin đừng bơi.",
-    "me": "sea waves"
+    "me": "sea waves",
+    "pos": "Danh từ"
   },
   {
     "w": "氷",
@@ -1599,7 +1776,8 @@
     "cat": "nature",
     "ex": "飲み物に氷を入れましょうか。",
     "exVi": "Tôi cho đá vào đồ uống nhé?",
-    "me": "ice"
+    "me": "ice",
+    "pos": "Danh từ"
   },
   {
     "w": "蒸し暑い",
@@ -1608,7 +1786,8 @@
     "cat": "weather",
     "ex": "夏の日本はとても蒸し暑いです。",
     "exVi": "Mùa hè ở Nhật rất oi bức.",
-    "me": "sultry, muggy"
+    "me": "sultry, muggy",
+    "pos": "Danh từ"
   },
   {
     "w": "梅雨",
@@ -1617,7 +1796,8 @@
     "cat": "weather",
     "ex": "六月は梅雨で雨がよく降ります。",
     "exVi": "Tháng Sáu là mùa mưa nên trời hay mưa.",
-    "me": "rainy season (Japan)"
+    "me": "rainy season (Japan)",
+    "pos": "Danh từ"
   },
   {
     "w": "大雨",
@@ -1626,7 +1806,8 @@
     "cat": "weather",
     "ex": "大雨のため電車が止まりました。",
     "exVi": "Tàu điện đã dừng chạy vì mưa lớn.",
-    "me": "heavy rain"
+    "me": "heavy rain",
+    "pos": "Danh từ"
   },
   {
     "w": "大雪",
@@ -1635,7 +1816,8 @@
     "cat": "weather",
     "ex": "昨夜の大雪で道が真っ白になりました。",
     "exVi": "Con đường đã trở nên trắng xóa vì trận tuyết lớn đêm qua.",
-    "me": "heavy snow"
+    "me": "heavy snow",
+    "pos": "Danh từ"
   },
   {
     "w": "植える",
@@ -1644,7 +1826,8 @@
     "cat": "nature",
     "ex": "庭に花の種を植えました。",
     "exVi": "Tôi đã trồng hạt giống hoa trong vườn.",
-    "me": "plant (a tree)"
+    "me": "plant (a tree)",
+    "pos": "Danh từ"
   },
   {
     "w": "咲く",
@@ -1653,7 +1836,8 @@
     "cat": "nature",
     "ex": "春になると桜が咲きます。",
     "exVi": "Khi vào xuân hoa anh đào sẽ nở.",
-    "me": "bloom"
+    "me": "bloom",
+    "pos": "Động từ"
   },
   {
     "w": "枯れる",
@@ -1662,7 +1846,8 @@
     "cat": "nature",
     "ex": "水をやらなかったので花が枯れました。",
     "exVi": "Vì không tưới nước nên hoa đã héo.",
-    "me": "wither, dry up"
+    "me": "wither, dry up",
+    "pos": "Danh từ"
   },
   {
     "w": "犬",
@@ -1671,7 +1856,8 @@
     "cat": "animal",
     "ex": "毎朝、犬と一緒に散歩します。",
     "exVi": "Mỗi sáng tôi đi dạo cùng với con chó.",
-    "me": "dog"
+    "me": "dog",
+    "pos": "Danh từ"
   },
   {
     "w": "猫",
@@ -1680,7 +1866,8 @@
     "cat": "animal",
     "ex": "猫が窓の前で寝ています。",
     "exVi": "Con mèo đang ngủ trước cửa sổ.",
-    "me": "cat"
+    "me": "cat",
+    "pos": "Danh từ"
   },
   {
     "w": "鳥",
@@ -1689,7 +1876,8 @@
     "cat": "animal",
     "ex": "公園の木に鳥がたくさんいます。",
     "exVi": "Có rất nhiều chim trên cây trong công viên.",
-    "me": "bird"
+    "me": "bird",
+    "pos": "Danh từ"
   },
   {
     "w": "象",
@@ -1698,7 +1886,8 @@
     "cat": "animal",
     "ex": "動物園で象を見ました。",
     "exVi": "Tôi đã xem voi ở sở thú.",
-    "me": "elephant"
+    "me": "elephant",
+    "pos": "Danh từ"
   },
   {
     "w": "虫",
@@ -1707,7 +1896,8 @@
     "cat": "animal",
     "ex": "夏になると虫が増えます。",
     "exVi": "Đến mùa hè thì côn trùng tăng lên nhiều.",
-    "me": "insect"
+    "me": "insect",
+    "pos": "Danh từ"
   },
   {
     "w": "片道",
@@ -1716,7 +1906,8 @@
     "cat": "travel",
     "ex": "東京までの片道切符を買いました。",
     "exVi": "Tôi đã mua vé một chiều đến Tokyo.",
-    "me": "one-way (ticket)"
+    "me": "one-way (ticket)",
+    "pos": "Danh từ"
   },
   {
     "w": "往復",
@@ -1725,7 +1916,8 @@
     "cat": "travel",
     "ex": "大阪までの往復チケットをお願いします。",
     "exVi": "Cho tôi vé khứ hồi đến Osaka.",
-    "me": "round trip"
+    "me": "round trip",
+    "pos": "Danh từ"
   },
   {
     "w": "通勤する",
@@ -1734,7 +1926,8 @@
     "cat": "transportation",
     "ex": "電車で会社まで通勤しています。",
     "exVi": "Tôi đi làm đến công ty bằng tàu điện.",
-    "me": "commute to work"
+    "me": "commute to work",
+    "pos": "Động từ"
   },
   {
     "w": "渋滞",
@@ -1743,7 +1936,8 @@
     "cat": "transportation",
     "ex": "今朝は道路がひどい渋滞でした。",
     "exVi": "Sáng nay đường xá bị tắc nghẽn nghiêm trọng.",
-    "me": "traffic jam"
+    "me": "traffic jam",
+    "pos": "Danh từ"
   },
   {
     "w": "高速道路",
@@ -1752,7 +1946,8 @@
     "cat": "transportation",
     "ex": "高速道路を使えば二時間で着きます。",
     "exVi": "Nếu đi đường cao tốc thì hai tiếng sẽ đến nơi.",
-    "me": "motorway"
+    "me": "motorway",
+    "pos": "Danh từ"
   },
   {
     "w": "免許",
@@ -1761,7 +1956,8 @@
     "cat": "transportation",
     "ex": "先月、車の免許を取りました。",
     "exVi": "Tháng trước tôi đã lấy được bằng lái xe ô tô.",
-    "me": "license, permit"
+    "me": "license, permit",
+    "pos": "Danh từ"
   },
   {
     "w": "満員",
@@ -1770,7 +1966,8 @@
     "cat": "transportation",
     "ex": "朝の電車はいつも満員です。",
     "exVi": "Tàu điện buổi sáng lúc nào cũng chật kín người.",
-    "me": "packed full of people, crammed"
+    "me": "packed full of people, crammed",
+    "pos": "Danh từ"
   },
   {
     "w": "忘れ物",
@@ -1779,7 +1976,8 @@
     "cat": "travel",
     "ex": "電車に忘れ物をしてしまいました。",
     "exVi": "Tôi đã để quên đồ trên tàu điện mất rồi.",
-    "me": "a forgotten item"
+    "me": "a forgotten item",
+    "pos": "Danh từ"
   },
   {
     "w": "観光地",
@@ -1788,7 +1986,8 @@
     "cat": "travel",
     "ex": "京都は人気の観光地です。",
     "exVi": "Kyoto là địa điểm du lịch nổi tiếng.",
-    "me": "tourist site"
+    "me": "tourist site",
+    "pos": "Danh từ"
   },
   {
     "w": "データ",
@@ -1797,7 +1996,8 @@
     "cat": "technology",
     "ex": "このデータをもう一度確認してください。",
     "exVi": "Hãy kiểm tra lại dữ liệu này một lần nữa.",
-    "me": "data"
+    "me": "data",
+    "pos": "Danh từ"
   },
   {
     "w": "ファイル",
@@ -1806,7 +2006,8 @@
     "cat": "technology",
     "ex": "添付ファイルを開けませんでした。",
     "exVi": "Tôi đã không thể mở được tập tin đính kèm.",
-    "me": "file"
+    "me": "file",
+    "pos": "Danh từ"
   },
   {
     "w": "クリックする",
@@ -1815,7 +2016,8 @@
     "cat": "technology",
     "ex": "このボタンをクリックしてください。",
     "exVi": "Hãy nhấp chuột vào nút này.",
-    "me": "click"
+    "me": "click",
+    "pos": "Động từ"
   },
   {
     "w": "お釣り",
@@ -1824,7 +2026,8 @@
     "cat": "money",
     "ex": "お釣りを忘れずに受け取ってください。",
     "exVi": "Hãy nhớ nhận lại tiền thối.",
-    "me": "change (money returned)"
+    "me": "change (money returned)",
+    "pos": "Danh từ"
   },
   {
     "w": "有料",
@@ -1833,7 +2036,8 @@
     "cat": "money",
     "ex": "この駐車場は有料です。",
     "exVi": "Bãi đỗ xe này có tính phí.",
-    "me": "chargeable, costs a fee"
+    "me": "chargeable, costs a fee",
+    "pos": "Danh từ"
   },
   {
     "w": "振り込む",
@@ -1842,7 +2046,8 @@
     "cat": "money",
     "ex": "家賃を銀行に振り込みました。",
     "exVi": "Tôi đã chuyển khoản tiền thuê nhà vào ngân hàng.",
-    "me": "bank transfer"
+    "me": "bank transfer",
+    "pos": "Động từ"
   },
   {
     "w": "夫婦",
@@ -1851,7 +2056,8 @@
     "cat": "family",
     "ex": "あの夫婦はいつも仲がいいです。",
     "exVi": "Cặp vợ chồng đó lúc nào cũng hòa thuận.",
-    "me": "husband and wife"
+    "me": "husband and wife",
+    "pos": "Danh từ"
   },
   {
     "w": "独身",
@@ -1860,7 +2066,8 @@
     "cat": "family",
     "ex": "兄は三十五歳ですが独身です。",
     "exVi": "Anh trai tôi ba mươi lăm tuổi nhưng vẫn độc thân.",
-    "me": "single, unmarried"
+    "me": "single, unmarried",
+    "pos": "Danh từ"
   },
   {
     "w": "肩",
@@ -1869,7 +2076,8 @@
     "cat": "body",
     "ex": "長時間座っていたので肩が痛いです。",
     "exVi": "Vì ngồi lâu nên vai tôi bị đau.",
-    "me": "shoulder"
+    "me": "shoulder",
+    "pos": "Danh từ"
   },
   {
     "w": "腰",
@@ -1878,7 +2086,8 @@
     "cat": "body",
     "ex": "重い荷物を持って腰が痛くなりました。",
     "exVi": "Tôi bị đau lưng vì mang vác đồ nặng.",
-    "me": "waist, hip"
+    "me": "waist, hip",
+    "pos": "Danh từ"
   },
   {
     "w": "お盆",
@@ -1887,7 +2096,8 @@
     "cat": "festival",
     "ex": "お盆に田舎の家族に会いに行きます。",
     "exVi": "Vào lễ Obon tôi về quê thăm gia đình.",
-    "me": "Obon festival (Japan)"
+    "me": "Obon festival (Japan)",
+    "pos": "Danh từ"
   },
   {
     "w": "内容",
@@ -1896,7 +2106,8 @@
     "cat": "communication",
     "ex": "この本の内容はとても面白いです。",
     "exVi": "Nội dung cuốn sách này rất thú vị.",
-    "me": "content"
+    "me": "content",
+    "pos": "Danh từ"
   },
   {
     "w": "例",
@@ -1905,7 +2116,8 @@
     "cat": "communication",
     "ex": "例を一つ挙げてください。",
     "exVi": "Hãy đưa ra một ví dụ.",
-    "me": "example"
+    "me": "example",
+    "pos": "Danh từ"
   },
   {
     "w": "種類",
@@ -1914,7 +2126,8 @@
     "cat": "abstract",
     "ex": "このお店にはいろいろな種類のパンがあります。",
     "exVi": "Cửa hàng này có nhiều loại bánh mì khác nhau.",
-    "me": "category, type"
+    "me": "category, type",
+    "pos": "Danh từ"
   },
   {
     "w": "部分",
@@ -1923,7 +2136,8 @@
     "cat": "abstract",
     "ex": "この部分がよくわかりません。",
     "exVi": "Tôi không hiểu rõ phần này.",
-    "me": "part, component"
+    "me": "part, component",
+    "pos": "Số từ"
   },
   {
     "w": "全体",
@@ -1932,7 +2146,8 @@
     "cat": "abstract",
     "ex": "全体としてはいい結果でした。",
     "exVi": "Nhìn chung thì kết quả khá tốt.",
-    "me": "entire"
+    "me": "entire",
+    "pos": "Danh từ"
   },
   {
     "w": "場合",
@@ -1941,7 +2156,8 @@
     "cat": "abstract",
     "ex": "雨の場合はイベントを中止します。",
     "exVi": "Trong trường hợp trời mưa thì sự kiện sẽ bị hủy.",
-    "me": "case"
+    "me": "case",
+    "pos": "Danh từ"
   },
   {
     "w": "状態",
@@ -1950,7 +2166,8 @@
     "cat": "abstract",
     "ex": "この車はまだいい状態です。",
     "exVi": "Chiếc xe này vẫn còn trong trạng thái tốt.",
-    "me": "state, condition"
+    "me": "state, condition",
+    "pos": "Danh từ"
   },
   {
     "w": "原因",
@@ -1959,7 +2176,8 @@
     "cat": "abstract",
     "ex": "事故の原因はまだわかりません。",
     "exVi": "Nguyên nhân của vụ tai nạn vẫn chưa được biết rõ.",
-    "me": "cause"
+    "me": "cause",
+    "pos": "Danh từ"
   },
   {
     "w": "印象",
@@ -1968,7 +2186,8 @@
     "cat": "communication",
     "ex": "彼女は初対面からいい印象でした。",
     "exVi": "Cô ấy đã để lại ấn tượng tốt ngay từ lần gặp đầu tiên.",
-    "me": "impressive"
+    "me": "impressive",
+    "pos": "Tính từ"
   },
   {
     "w": "態度",
@@ -1977,7 +2196,8 @@
     "cat": "communication",
     "ex": "彼の態度が急に変わりました。",
     "exVi": "Thái độ của anh ấy đột nhiên thay đổi.",
-    "me": "attitude"
+    "me": "attitude",
+    "pos": "Danh từ"
   },
   {
     "w": "個性",
@@ -1986,7 +2206,8 @@
     "cat": "personality",
     "ex": "彼女はとても個性が強いです。",
     "exVi": "Cô ấy có cá tính rất mạnh mẽ.",
-    "me": "personality, individuality"
+    "me": "personality, individuality",
+    "pos": "Danh từ"
   },
   {
     "w": "常識",
@@ -1995,7 +2216,8 @@
     "cat": "abstract",
     "ex": "遅刻しないのは常識です。",
     "exVi": "Không đi trễ là lẽ thường tình.",
-    "me": "common sense, general knowledge"
+    "me": "common sense, general knowledge",
+    "pos": "Danh từ"
   },
   {
     "w": "ルール",
@@ -2004,7 +2226,8 @@
     "cat": "abstract",
     "ex": "このゲームのルールを教えてください。",
     "exVi": "Hãy chỉ cho tôi quy tắc của trò chơi này.",
-    "me": "rule, regulation"
+    "me": "rule, regulation",
+    "pos": "Danh từ"
   },
   {
     "w": "チャンス",
@@ -2013,7 +2236,8 @@
     "cat": "abstract",
     "ex": "これはいいチャンスだと思います。",
     "exVi": "Tôi nghĩ đây là một cơ hội tốt.",
-    "me": "chance"
+    "me": "chance",
+    "pos": "Danh từ"
   },
   {
     "w": "秘密",
@@ -2022,7 +2246,8 @@
     "cat": "abstract",
     "ex": "これは二人だけの秘密です。",
     "exVi": "Đây là bí mật chỉ giữa hai người.",
-    "me": "secret"
+    "me": "secret",
+    "pos": "Tính từ"
   },
   {
     "w": "うわさ",
@@ -2031,7 +2256,8 @@
     "cat": "communication",
     "ex": "変なうわさを聞きました。",
     "exVi": "Tôi đã nghe được tin đồn kỳ lạ.",
-    "me": "rumor"
+    "me": "rumor",
+    "pos": "Động từ"
   },
   {
     "w": "冗談",
@@ -2040,7 +2266,8 @@
     "cat": "communication",
     "ex": "それはただの冗談ですよ。",
     "exVi": "Đó chỉ là lời nói đùa thôi mà.",
-    "me": "a joke"
+    "me": "a joke",
+    "pos": "Danh từ"
   },
   {
     "w": "試合",
@@ -2049,7 +2276,8 @@
     "cat": "sports",
     "ex": "明日、サッカーの試合があります。",
     "exVi": "Ngày mai có trận đấu bóng đá.",
-    "me": "match"
+    "me": "match",
+    "pos": "Danh từ"
   },
   {
     "w": "応援する",
@@ -2058,7 +2286,8 @@
     "cat": "sports",
     "ex": "みんなで日本のチームを応援しました。",
     "exVi": "Mọi người đã cùng nhau cổ vũ cho đội Nhật Bản.",
-    "me": "cheer, encourage"
+    "me": "cheer, encourage",
+    "pos": "Danh từ"
   },
   {
     "w": "優勝する",
@@ -2067,7 +2296,8 @@
     "cat": "sports",
     "ex": "私たちのチームが大会で優勝しました。",
     "exVi": "Đội chúng tôi đã vô địch trong giải đấu.",
-    "me": "champion, undefeated"
+    "me": "champion, undefeated",
+    "pos": "Danh từ"
   },
   {
     "w": "負ける",
@@ -2076,7 +2306,8 @@
     "cat": "sports",
     "ex": "昨日の試合は一対三で負けました。",
     "exVi": "Trận đấu hôm qua chúng tôi đã thua với tỉ số một trên ba.",
-    "me": "lose"
+    "me": "lose",
+    "pos": "Động từ"
   },
   {
     "w": "ダンス",
@@ -2085,7 +2316,8 @@
     "cat": "hobby",
     "ex": "週に一度ダンスを習っています。",
     "exVi": "Mỗi tuần một lần tôi học khiêu vũ.",
-    "me": "dance"
+    "me": "dance",
+    "pos": "Động từ"
   },
   {
     "w": "楽器",
@@ -2094,7 +2326,8 @@
     "cat": "hobby",
     "ex": "何か楽器を演奏できますか。",
     "exVi": "Bạn có thể chơi nhạc cụ gì không?",
-    "me": "instrument"
+    "me": "instrument",
+    "pos": "Danh từ"
   },
   {
     "w": "さらに",
@@ -2103,7 +2336,8 @@
     "cat": "grammar",
     "ex": "値段はさらに安くなりました。",
     "exVi": "Giá cả đã trở nên rẻ hơn nữa.",
-    "me": "moreover"
+    "me": "moreover",
+    "pos": "Phó từ"
   },
   {
     "w": "しかも",
@@ -2112,7 +2346,8 @@
     "cat": "grammar",
     "ex": "このレストランは安くて、しかもおいしいです。",
     "exVi": "Nhà hàng này vừa rẻ, hơn nữa lại còn ngon.",
-    "me": "moreover, besides"
+    "me": "moreover, besides",
+    "pos": "Phó từ"
   },
   {
     "w": "ただ",
@@ -2121,7 +2356,8 @@
     "cat": "adverb",
     "ex": "ただ黙って聞いていました。",
     "exVi": "Tôi chỉ im lặng lắng nghe thôi.",
-    "me": "merely, free of charge"
+    "me": "merely, free of charge",
+    "pos": "Phó từ"
   },
   {
     "w": "なるべく",
@@ -2130,7 +2366,8 @@
     "cat": "adverb",
     "ex": "なるべく早く返事をください。",
     "exVi": "Xin hãy trả lời càng sớm càng tốt nếu có thể.",
-    "me": "the more the better, if possible"
+    "me": "the more the better, if possible",
+    "pos": "Phó từ"
   },
   {
     "w": "わざと",
@@ -2139,7 +2376,8 @@
     "cat": "adverb",
     "ex": "彼はわざと知らないふりをしました。",
     "exVi": "Anh ấy đã cố ý giả vờ như không biết.",
-    "me": "on purpose"
+    "me": "on purpose",
+    "pos": "Phó từ"
   },
   {
     "w": "わざわざ",
@@ -2148,7 +2386,8 @@
     "cat": "adverb",
     "ex": "わざわざ空港まで迎えに来てくれました。",
     "exVi": "Bạn ấy đã cất công đến tận sân bay để đón tôi.",
-    "me": "specially, going out of one's way (to do something)"
+    "me": "specially, going out of one's way (to do something)",
+    "pos": "Phó từ"
   },
   {
     "w": "せっかく",
@@ -2157,7 +2396,8 @@
     "cat": "adverb",
     "ex": "せっかく作った料理を残さないでください。",
     "exVi": "Xin đừng để thừa món ăn mà tôi đã cất công làm.",
-    "me": "went to great trouble, only with great difficulty"
+    "me": "went to great trouble, only with great difficulty",
+    "pos": "Phó từ"
   },
   {
     "w": "いきなり",
@@ -2166,7 +2406,8 @@
     "cat": "adverb",
     "ex": "いきなり雨が降り出しました。",
     "exVi": "Trời đột ngột đổ mưa.",
-    "me": "sudden, abrupt"
+    "me": "sudden, abrupt",
+    "pos": "Phó từ"
   },
   {
     "w": "案外",
@@ -2175,7 +2416,8 @@
     "cat": "adverb",
     "ex": "このテストは案外簡単でした。",
     "exVi": "Bài kiểm tra này bất ngờ lại dễ.",
-    "me": "unexpected, beyond prediction"
+    "me": "unexpected, beyond prediction",
+    "pos": "Phó từ"
   },
   {
     "w": "なんとなく",
@@ -2184,7 +2426,8 @@
     "cat": "adverb",
     "ex": "今日はなんとなく元気が出ません。",
     "exVi": "Hôm nay không hiểu sao tôi không có sức sống.",
-    "me": "unclear why, vague"
+    "me": "unclear why, vague",
+    "pos": "Phó từ"
   },
   {
     "w": "なんとか",
@@ -2193,7 +2436,8 @@
     "cat": "adverb",
     "ex": "締め切りになんとか間に合いました。",
     "exVi": "Tôi đã kịp xoay sở để đúng hạn chót.",
-    "me": "somehow, manage to"
+    "me": "somehow, manage to",
+    "pos": "Phó từ"
   },
   {
     "w": "お互いに",
@@ -2202,7 +2446,8 @@
     "cat": "adverb",
     "ex": "お互いに助け合いましょう。",
     "exVi": "Chúng ta hãy giúp đỡ lẫn nhau nhé.",
-    "me": "mutual, each other"
+    "me": "mutual, each other",
+    "pos": "Phó từ"
   },
   {
     "w": "一応",
@@ -2211,7 +2456,8 @@
     "cat": "adverb",
     "ex": "一応、資料は準備しておきました。",
     "exVi": "Tôi đã tạm chuẩn bị sẵn tài liệu rồi.",
-    "me": "temporarily, for now"
+    "me": "temporarily, for now",
+    "pos": "Phó từ"
   },
   {
     "w": "実際に",
@@ -2220,7 +2466,8 @@
     "cat": "adverb",
     "ex": "実際に自分の目で見てください。",
     "exVi": "Xin hãy tự mắt mình nhìn thấy trên thực tế.",
-    "me": "in fact, in practice"
+    "me": "in fact, in practice",
+    "pos": "Phó từ"
   },
   {
     "w": "確かに",
@@ -2229,7 +2476,8 @@
     "cat": "adverb",
     "ex": "確かにあなたの言う通りです。",
     "exVi": "Đúng là như những gì bạn nói.",
-    "me": "indeed, certainly"
+    "me": "indeed, certainly",
+    "pos": "Phó từ"
   },
   {
     "w": "どうしても",
@@ -2238,6 +2486,7 @@
     "cat": "adverb",
     "ex": "どうしても行きたい場所があります。",
     "exVi": "Có một nơi mà dù thế nào tôi cũng muốn đi.",
-    "me": "no matter what, must"
+    "me": "no matter what, must",
+    "pos": "Phó từ"
   }
 ]

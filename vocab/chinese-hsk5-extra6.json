@@ -6,21 +6,24 @@
     "cat": "verb",
     "example": "我们要平衡工作和生活。",
     "example_vi": "Chúng ta phải cân bằng công việc và cuộc sống.",
-    "me": "balance"
+    "me": "balance",
+    "pos": "Động từ"
   },
   {
     "w": "增长",
     "p": "zēngzhǎng",
     "m": "tăng trưởng, tăng lên",
     "cat": "economics",
-    "me": "grow, increase"
+    "me": "grow, increase",
+    "pos": "Động từ"
   },
   {
     "w": "下降",
     "p": "xiàjiàng",
     "m": "giảm xuống, sụt giảm",
     "cat": "verb",
-    "me": "to decrease, decline"
+    "me": "to decrease, decline",
+    "pos": "Động từ"
   },
   {
     "w": "波动",
@@ -29,21 +32,24 @@
     "cat": "economics",
     "example": "股价出现了波动。",
     "example_vi": "Giá cổ phiếu đã xuất hiện dao động.",
-    "me": "fluctuate"
+    "me": "fluctuate",
+    "pos": "Động từ"
   },
   {
     "w": "争论",
     "p": "zhēnglùn",
     "m": "tranh luận, tranh cãi",
     "cat": "verb",
-    "me": "debate, dispute"
+    "me": "debate, dispute",
+    "pos": "Động từ"
   },
   {
     "w": "权益",
     "p": "quányì",
     "m": "quyền lợi, quyền và lợi ích",
     "cat": "law",
-    "me": "rights and interests"
+    "me": "rights and interests",
+    "pos": "Danh từ"
   },
   {
     "w": "损失",
@@ -52,7 +58,8 @@
     "cat": "economics",
     "example": "这场火灾造成了巨大损失。",
     "example_vi": "Vụ hỏa hoạn này đã gây ra tổn thất to lớn.",
-    "me": "loss, damage"
+    "me": "loss, damage",
+    "pos": "Danh từ"
   },
   {
     "w": "代价",
@@ -61,7 +68,8 @@
     "cat": "language",
     "example": "他为成功付出了很大代价。",
     "example_vi": "Anh ấy đã trả một cái giá rất lớn cho thành công.",
-    "me": "the price to pay, trade-off cost"
+    "me": "the price to pay, trade-off cost",
+    "pos": "Danh từ"
   },
   {
     "w": "被动",
@@ -70,7 +78,8 @@
     "cat": "adjective",
     "example": "他在这件事上很被动。",
     "example_vi": "Anh ấy rất bị động trong việc này.",
-    "me": "passive"
+    "me": "passive",
+    "pos": "Tính từ"
   },
   {
     "w": "忽视",
@@ -79,7 +88,8 @@
     "cat": "verb",
     "example": "我们不能忽视这个问题。",
     "example_vi": "Chúng ta không thể bỏ qua vấn đề này.",
-    "me": "overlook, disregard, neglect"
+    "me": "overlook, disregard, neglect",
+    "pos": "Động từ"
   },
   {
     "w": "关注",
@@ -88,7 +98,8 @@
     "cat": "verb",
     "example": "大家都很关注这件事。",
     "example_vi": "Mọi người đều rất quan tâm đến việc này.",
-    "me": "pay attention to, be concerned about"
+    "me": "pay attention to, be concerned about",
+    "pos": "Động từ"
   },
   {
     "w": "担忧",
@@ -97,7 +108,8 @@
     "cat": "emotion",
     "example": "父母为孩子的健康担忧。",
     "example_vi": "Cha mẹ lo lắng cho sức khỏe của con cái.",
-    "me": "worried, concerned"
+    "me": "worried, concerned",
+    "pos": "Tính từ"
   },
   {
     "w": "一致",
@@ -106,7 +118,8 @@
     "cat": "adjective",
     "example": "大家意见一致。",
     "example_vi": "Mọi người có ý kiến nhất trí.",
-    "me": "unanimous, consensus"
+    "me": "unanimous, consensus",
+    "pos": "Tính từ"
   },
   {
     "w": "集中",
@@ -115,7 +128,8 @@
     "cat": "verb",
     "example": "请集中精力学习。",
     "example_vi": "Xin hãy tập trung tinh thần vào việc học.",
-    "me": "concentrate"
+    "me": "concentrate",
+    "pos": "Danh từ"
   },
   {
     "w": "分散",
@@ -124,21 +138,24 @@
     "cat": "verb",
     "example": "人口分散在各个地区。",
     "example_vi": "Dân số phân tán ở các khu vực.",
-    "me": "scattered, dispersed"
+    "me": "scattered, dispersed",
+    "pos": "Động từ"
   },
   {
     "w": "加快",
     "p": "jiākuài",
     "m": "đẩy nhanh, tăng tốc",
     "cat": "verb",
-    "me": "speed up, accelerate"
+    "me": "speed up, accelerate",
+    "pos": "Động từ"
   },
   {
     "w": "加大",
     "p": "jiādà",
     "m": "tăng cường, gia tăng mức độ",
     "cat": "verb",
-    "me": "strengthen, intensify"
+    "me": "strengthen, intensify",
+    "pos": "Động từ"
   },
   {
     "w": "不利",
@@ -147,6 +164,7 @@
     "cat": "adjective",
     "example": "天气对比赛不利。",
     "example_vi": "Thời tiết bất lợi cho trận đấu.",
-    "me": "disadvantageous, unfavorable"
+    "me": "disadvantageous, unfavorable",
+    "pos": "Tính từ"
   }
 ]

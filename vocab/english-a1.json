@@ -3,2994 +3,3493 @@
     "w": "hello",
     "m": "xin chào",
     "cat": "greeting",
-    "p": "həlˈoʊ"
+    "p": "həlˈoʊ",
+    "pos": "Danh từ"
   },
   {
     "w": "hi",
     "m": "chào (thân mật)",
     "cat": "greeting",
-    "p": "hˈaɪ"
+    "p": "hˈaɪ",
+    "pos": "Danh từ"
   },
   {
     "w": "goodbye",
     "m": "tạm biệt",
     "cat": "greeting",
-    "p": "ɡʊdbˈaɪ"
+    "p": "ɡʊdbˈaɪ",
+    "pos": "Danh từ"
   },
   {
     "w": "bye",
     "m": "tạm biệt (thân mật)",
     "cat": "greeting",
-    "p": "bˈaɪ"
+    "p": "bˈaɪ",
+    "pos": "Danh từ"
   },
   {
     "w": "thank you",
     "m": "cảm ơn",
     "cat": "greeting",
-    "p": "θˈæŋk juː"
+    "p": "θˈæŋk juː",
+    "pos": "Danh từ"
   },
   {
     "w": "thanks",
     "m": "cảm ơn (thân mật)",
     "cat": "greeting",
-    "p": "θˈæŋks"
+    "p": "θˈæŋks",
+    "pos": "Danh từ"
   },
   {
     "w": "sorry",
     "m": "xin lỗi",
     "cat": "greeting",
-    "p": "sˈɑːɹi"
+    "p": "sˈɑːɹi",
+    "pos": "Động từ"
   },
   {
     "w": "excuse me",
     "m": "xin lỗi / cho hỏi",
     "cat": "greeting",
-    "p": "ɛkskjˈuːs mˌiː"
+    "p": "ɛkskjˈuːs mˌiː",
+    "pos": "Danh từ"
   },
   {
     "w": "please",
     "m": "làm ơn",
     "cat": "greeting",
-    "p": "plˈiːz"
+    "p": "plˈiːz",
+    "pos": "Phó từ"
   },
   {
     "w": "yes",
     "m": "có, vâng",
     "cat": "greeting",
-    "p": "jˈɛs"
+    "p": "jˈɛs",
+    "pos": "Danh từ"
   },
   {
     "w": "no",
     "m": "không",
     "cat": "greeting",
-    "p": "nˈoʊ"
+    "p": "nˈoʊ",
+    "pos": "Phó từ"
   },
   {
     "w": "okay",
     "m": "được, ổn",
     "cat": "greeting",
-    "p": "oʊkˈeɪ"
+    "p": "oʊkˈeɪ",
+    "pos": "Danh từ"
   },
   {
     "w": "good morning",
     "m": "chào buổi sáng",
     "cat": "greeting",
-    "p": "ɡˈʊd mˈɔːɹnɪŋ"
+    "p": "ɡˈʊd mˈɔːɹnɪŋ",
+    "pos": "Danh từ"
   },
   {
     "w": "good afternoon",
     "m": "chào buổi chiều",
     "cat": "greeting",
-    "p": "ɡˈʊd ˌæftɚnˈuːn"
+    "p": "ɡˈʊd ˌæftɚnˈuːn",
+    "pos": "Danh từ"
   },
   {
     "w": "good evening",
     "m": "chào buổi tối",
     "cat": "greeting",
-    "p": "ɡˈʊd ˈiːvnɪŋ"
+    "p": "ɡˈʊd ˈiːvnɪŋ",
+    "pos": "Danh từ"
   },
   {
     "w": "good night",
     "m": "chúc ngủ ngon",
     "cat": "greeting",
-    "p": "ɡˈʊd nˈaɪt"
+    "p": "ɡˈʊd nˈaɪt",
+    "pos": "Danh từ"
   },
   {
     "w": "how are you",
     "m": "bạn có khỏe không",
     "cat": "greeting",
-    "p": "hˈaʊ ɑːɹ juː"
+    "p": "hˈaʊ ɑːɹ juː",
+    "pos": "Danh từ"
   },
   {
     "w": "nice to meet you",
     "m": "rất vui được gặp bạn",
     "cat": "greeting",
-    "p": "nˈaɪs tə mˈiːt juː"
+    "p": "nˈaɪs tə mˈiːt juː",
+    "pos": "Danh từ"
   },
   {
     "w": "welcome",
     "m": "chào mừng",
     "cat": "greeting",
-    "p": "wˈɛlkʌm"
+    "p": "wˈɛlkʌm",
+    "pos": "Danh từ"
   },
   {
     "w": "I",
     "m": "tôi",
     "cat": "pronoun",
-    "p": "ˈaɪ"
+    "p": "ˈaɪ",
+    "pos": "Đại từ"
   },
   {
     "w": "you",
     "m": "bạn, anh, chị",
     "cat": "pronoun",
-    "p": "juː"
+    "p": "juː",
+    "pos": "Đại từ"
   },
   {
     "w": "he",
     "m": "anh ấy, ông ấy",
     "cat": "pronoun",
-    "p": "hiː"
+    "p": "hiː",
+    "pos": "Đại từ"
   },
   {
     "w": "she",
     "m": "cô ấy, bà ấy",
     "cat": "pronoun",
-    "p": "ʃiː"
+    "p": "ʃiː",
+    "pos": "Đại từ"
   },
   {
     "w": "it",
     "m": "nó (đồ vật, con vật)",
     "cat": "pronoun",
-    "p": "ɪt"
+    "p": "ɪt",
+    "pos": "Đại từ"
   },
   {
     "w": "we",
     "m": "chúng tôi, chúng ta",
     "cat": "pronoun",
-    "p": "wiː"
+    "p": "wiː",
+    "pos": "Đại từ"
   },
   {
     "w": "they",
     "m": "họ, chúng",
     "cat": "pronoun",
-    "p": "ðeɪ"
+    "p": "ðeɪ",
+    "pos": "Đại từ"
   },
   {
     "w": "me",
     "m": "tôi (tân ngữ)",
     "cat": "pronoun",
-    "p": "mˈiː"
+    "p": "mˈiː",
+    "pos": "Đại từ"
   },
   {
     "w": "him",
     "m": "anh ấy (tân ngữ)",
     "cat": "pronoun",
-    "p": "hˌɪm"
+    "p": "hˌɪm",
+    "pos": "Đại từ"
   },
   {
     "w": "her",
     "m": "cô ấy (tân ngữ)",
     "cat": "pronoun",
-    "p": "hɜː"
+    "p": "hɜː",
+    "pos": "Đại từ"
   },
   {
     "w": "us",
     "m": "chúng tôi (tân ngữ)",
     "cat": "pronoun",
-    "p": "ˌʌs"
+    "p": "ˌʌs",
+    "pos": "Đại từ"
   },
   {
     "w": "them",
     "m": "họ (tân ngữ)",
     "cat": "pronoun",
-    "p": "ðˌɛm"
+    "p": "ðˌɛm",
+    "pos": "Đại từ"
   },
   {
     "w": "my",
     "m": "của tôi",
     "cat": "pronoun",
-    "p": "mˈaɪ"
+    "p": "mˈaɪ",
+    "pos": "Đại từ"
   },
   {
     "w": "your",
     "m": "của bạn",
     "cat": "pronoun",
-    "p": "jʊɹ"
+    "p": "jʊɹ",
+    "pos": "Đại từ"
   },
   {
     "w": "his",
     "m": "của anh ấy",
     "cat": "pronoun",
-    "p": "hˈɪz"
+    "p": "hˈɪz",
+    "pos": "Đại từ"
   },
   {
     "w": "her",
     "m": "của cô ấy",
     "cat": "pronoun",
-    "p": "hɜː"
+    "p": "hɜː",
+    "pos": "Đại từ"
   },
   {
     "w": "our",
     "m": "của chúng tôi",
     "cat": "pronoun",
-    "p": "ˌaʊɚ"
+    "p": "ˌaʊɚ",
+    "pos": "Đại từ"
   },
   {
     "w": "their",
     "m": "của họ",
     "cat": "pronoun",
-    "p": "ðɛɹ"
+    "p": "ðɛɹ",
+    "pos": "Đại từ"
   },
   {
     "w": "this",
     "m": "cái này",
     "cat": "pronoun",
-    "p": "ðˈɪs"
+    "p": "ðˈɪs",
+    "pos": "Đại từ"
   },
   {
     "w": "that",
     "m": "cái đó",
     "cat": "pronoun",
-    "p": "ðˈæt"
+    "p": "ðˈæt",
+    "pos": "Đại từ"
   },
   {
     "w": "one",
     "m": "một",
     "cat": "number",
-    "p": "wˌʌn"
+    "p": "wˌʌn",
+    "pos": "Số từ"
   },
   {
     "w": "two",
     "m": "hai",
     "cat": "number",
-    "p": "tˈuː"
+    "p": "tˈuː",
+    "pos": "Số từ"
   },
   {
     "w": "three",
     "m": "ba",
     "cat": "number",
-    "p": "θɹˈiː"
+    "p": "θɹˈiː",
+    "pos": "Số từ"
   },
   {
     "w": "four",
     "m": "bốn",
     "cat": "number",
-    "p": "fˈɔːɹ"
+    "p": "fˈɔːɹ",
+    "pos": "Số từ"
   },
   {
     "w": "five",
     "m": "năm",
     "cat": "number",
-    "p": "fˈaɪv"
+    "p": "fˈaɪv",
+    "pos": "Số từ"
   },
   {
     "w": "six",
     "m": "sáu",
     "cat": "number",
-    "p": "sˈɪks"
+    "p": "sˈɪks",
+    "pos": "Số từ"
   },
   {
     "w": "seven",
     "m": "bảy",
     "cat": "number",
-    "p": "sˈɛvən"
+    "p": "sˈɛvən",
+    "pos": "Số từ"
   },
   {
     "w": "eight",
     "m": "tám",
     "cat": "number",
-    "p": "ˈeɪt"
+    "p": "ˈeɪt",
+    "pos": "Số từ"
   },
   {
     "w": "nine",
     "m": "chín",
     "cat": "number",
-    "p": "nˈaɪn"
+    "p": "nˈaɪn",
+    "pos": "Số từ"
   },
   {
     "w": "ten",
     "m": "mười",
     "cat": "number",
-    "p": "tˈɛn"
+    "p": "tˈɛn",
+    "pos": "Số từ"
   },
   {
     "w": "eleven",
     "m": "mười một",
     "cat": "number",
-    "p": "ᵻlˈɛvən"
+    "p": "ᵻlˈɛvən",
+    "pos": "Số từ"
   },
   {
     "w": "twelve",
     "m": "mười hai",
     "cat": "number",
-    "p": "twˈɛlv"
+    "p": "twˈɛlv",
+    "pos": "Số từ"
   },
   {
     "w": "thirteen",
     "m": "mười ba",
     "cat": "number",
-    "p": "θˈɜːtiːn"
+    "p": "θˈɜːtiːn",
+    "pos": "Số từ"
   },
   {
     "w": "fourteen",
     "m": "mười bốn",
     "cat": "number",
-    "p": "fˈɔːɹtiːn"
+    "p": "fˈɔːɹtiːn",
+    "pos": "Số từ"
   },
   {
     "w": "fifteen",
     "m": "mười lăm",
     "cat": "number",
-    "p": "fˈɪftiːn"
+    "p": "fˈɪftiːn",
+    "pos": "Số từ"
   },
   {
     "w": "sixteen",
     "m": "mười sáu",
     "cat": "number",
-    "p": "sˈɪkstiːn"
+    "p": "sˈɪkstiːn",
+    "pos": "Số từ"
   },
   {
     "w": "seventeen",
     "m": "mười bảy",
     "cat": "number",
-    "p": "sˈɛvəntˌiːn"
+    "p": "sˈɛvəntˌiːn",
+    "pos": "Số từ"
   },
   {
     "w": "eighteen",
     "m": "mười tám",
     "cat": "number",
-    "p": "ˈeɪtiːn"
+    "p": "ˈeɪtiːn",
+    "pos": "Số từ"
   },
   {
     "w": "nineteen",
     "m": "mười chín",
     "cat": "number",
-    "p": "nˈaɪntiːn"
+    "p": "nˈaɪntiːn",
+    "pos": "Số từ"
   },
   {
     "w": "twenty",
     "m": "hai mươi",
     "cat": "number",
-    "p": "twˈɛnti"
+    "p": "twˈɛnti",
+    "pos": "Số từ"
   },
   {
     "w": "hundred",
     "m": "trăm",
     "cat": "number",
-    "p": "hˈʌndɹɪd"
+    "p": "hˈʌndɹɪd",
+    "pos": "Số từ"
   },
   {
     "w": "thousand",
     "m": "nghìn",
     "cat": "number",
-    "p": "θˈaʊzənd"
+    "p": "θˈaʊzənd",
+    "pos": "Số từ"
   },
   {
     "w": "zero",
     "m": "không",
     "cat": "number",
-    "p": "zˈiəɹoʊ"
+    "p": "zˈiəɹoʊ",
+    "pos": "Phó từ"
   },
   {
     "w": "first",
     "m": "thứ nhất, đầu tiên",
     "cat": "number",
-    "p": "fˈɜːst"
+    "p": "fˈɜːst",
+    "pos": "Số từ"
   },
   {
     "w": "second",
     "m": "thứ hai, giây",
     "cat": "number",
-    "p": "sˈɛkənd"
+    "p": "sˈɛkənd",
+    "pos": "Số từ"
   },
   {
     "w": "third",
     "m": "thứ ba",
     "cat": "number",
-    "p": "θˈɜːd"
+    "p": "θˈɜːd",
+    "pos": "Số từ"
   },
   {
     "w": "mother",
     "m": "mẹ",
     "cat": "family",
-    "p": "mˈʌðɚ"
+    "p": "mˈʌðɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "father",
     "m": "bố, cha",
     "cat": "family",
-    "p": "fˈɑːðɚ"
+    "p": "fˈɑːðɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "brother",
     "m": "anh trai, em trai",
     "cat": "family",
-    "p": "bɹˈʌðɚ"
+    "p": "bɹˈʌðɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "sister",
     "m": "chị gái, em gái",
     "cat": "family",
-    "p": "sˈɪstɚ"
+    "p": "sˈɪstɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "son",
     "m": "con trai",
     "cat": "family",
-    "p": "sˈʌn"
+    "p": "sˈʌn",
+    "pos": "Danh từ"
   },
   {
     "w": "daughter",
     "m": "con gái",
     "cat": "family",
-    "p": "dˈɔːɾɚ"
+    "p": "dˈɔːɾɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "grandmother",
     "m": "bà nội, bà ngoại",
     "cat": "family",
-    "p": "ɡɹˈændmʌðɚ"
+    "p": "ɡɹˈændmʌðɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "grandfather",
     "m": "ông nội, ông ngoại",
     "cat": "family",
-    "p": "ɡɹˈændfɑːðɚ"
+    "p": "ɡɹˈændfɑːðɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "aunt",
     "m": "cô, dì, bác gái",
     "cat": "family",
-    "p": "ˈænt"
+    "p": "ˈænt",
+    "pos": "Đại từ"
   },
   {
     "w": "uncle",
     "m": "chú, dượng, bác trai",
     "cat": "family",
-    "p": "ˈʌŋkəl"
+    "p": "ˈʌŋkəl",
+    "pos": "Đại từ"
   },
   {
     "w": "baby",
     "m": "em bé",
     "cat": "family",
-    "p": "bˈeɪbi"
+    "p": "bˈeɪbi",
+    "pos": "Danh từ"
   },
   {
     "w": "child",
     "m": "đứa trẻ",
     "cat": "family",
-    "p": "tʃˈaɪld"
+    "p": "tʃˈaɪld",
+    "pos": "Danh từ"
   },
   {
     "w": "parents",
     "m": "bố mẹ",
     "cat": "family",
-    "p": "pˈɛɹənts"
+    "p": "pˈɛɹənts",
+    "pos": "Danh từ"
   },
   {
     "w": "family",
     "m": "gia đình",
     "cat": "family",
-    "p": "fˈæmɪli"
+    "p": "fˈæmɪli",
+    "pos": "Danh từ"
   },
   {
     "w": "husband",
     "m": "chồng",
     "cat": "family",
-    "p": "hˈʌsbənd"
+    "p": "hˈʌsbənd",
+    "pos": "Danh từ"
   },
   {
     "w": "wife",
     "m": "vợ",
     "cat": "family",
-    "p": "wˈaɪf"
+    "p": "wˈaɪf",
+    "pos": "Danh từ"
   },
   {
     "w": "friend",
     "m": "bạn bè",
     "cat": "family",
-    "p": "fɹˈɛnd"
+    "p": "fɹˈɛnd",
+    "pos": "Danh từ"
   },
   {
     "w": "Monday",
     "m": "thứ Hai",
     "cat": "time",
-    "p": "mˈʌndeɪ"
+    "p": "mˈʌndeɪ",
+    "pos": "Số từ"
   },
   {
     "w": "Tuesday",
     "m": "thứ Ba",
     "cat": "time",
-    "p": "tˈuːzdeɪ"
+    "p": "tˈuːzdeɪ",
+    "pos": "Số từ"
   },
   {
     "w": "Wednesday",
     "m": "thứ Tư",
     "cat": "time",
-    "p": "wˈɛnzdeɪ"
+    "p": "wˈɛnzdeɪ",
+    "pos": "Số từ"
   },
   {
     "w": "Thursday",
     "m": "thứ Năm",
     "cat": "time",
-    "p": "θˈɜːzdeɪ"
+    "p": "θˈɜːzdeɪ",
+    "pos": "Số từ"
   },
   {
     "w": "Friday",
     "m": "thứ Sáu",
     "cat": "time",
-    "p": "fɹˈaɪdeɪ"
+    "p": "fɹˈaɪdeɪ",
+    "pos": "Số từ"
   },
   {
     "w": "Saturday",
     "m": "thứ Bảy",
     "cat": "time",
-    "p": "sˈæɾɚdˌeɪ"
+    "p": "sˈæɾɚdˌeɪ",
+    "pos": "Số từ"
   },
   {
     "w": "Sunday",
     "m": "Chủ nhật",
     "cat": "time",
-    "p": "sˈʌndeɪ"
+    "p": "sˈʌndeɪ",
+    "pos": "Danh từ"
   },
   {
     "w": "January",
     "m": "tháng Một",
     "cat": "time",
-    "p": "dʒˈænjuːˌɛɹi"
+    "p": "dʒˈænjuːˌɛɹi",
+    "pos": "Danh từ"
   },
   {
     "w": "February",
     "m": "tháng Hai",
     "cat": "time",
-    "p": "fˈɛbɹuːˌɛɹi"
+    "p": "fˈɛbɹuːˌɛɹi",
+    "pos": "Danh từ"
   },
   {
     "w": "March",
     "m": "tháng Ba",
     "cat": "time",
-    "p": "mˈɑːɹtʃ"
+    "p": "mˈɑːɹtʃ",
+    "pos": "Danh từ"
   },
   {
     "w": "April",
     "m": "tháng Tư",
     "cat": "time",
-    "p": "ˈeɪpɹəl"
+    "p": "ˈeɪpɹəl",
+    "pos": "Danh từ"
   },
   {
     "w": "May",
     "m": "tháng Năm",
     "cat": "time",
-    "p": "mˈeɪ"
+    "p": "mˈeɪ",
+    "pos": "Danh từ"
   },
   {
     "w": "June",
     "m": "tháng Sáu",
     "cat": "time",
-    "p": "dʒˈuːn"
+    "p": "dʒˈuːn",
+    "pos": "Danh từ"
   },
   {
     "w": "July",
     "m": "tháng Bảy",
     "cat": "time",
-    "p": "dʒuːlˈaɪ"
+    "p": "dʒuːlˈaɪ",
+    "pos": "Danh từ"
   },
   {
     "w": "August",
     "m": "tháng Tám",
     "cat": "time",
-    "p": "ˈɔːɡəst"
+    "p": "ˈɔːɡəst",
+    "pos": "Danh từ"
   },
   {
     "w": "September",
     "m": "tháng Chín",
     "cat": "time",
-    "p": "sɛptˈɛmbɚ"
+    "p": "sɛptˈɛmbɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "October",
     "m": "tháng Mười",
     "cat": "time",
-    "p": "ɑːktˈoʊbɚ"
+    "p": "ɑːktˈoʊbɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "November",
     "m": "tháng Mười Một",
     "cat": "time",
-    "p": "noʊvˈɛmbɚ"
+    "p": "noʊvˈɛmbɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "December",
     "m": "tháng Mười Hai",
     "cat": "time",
-    "p": "dᵻsˈɛmbɚ"
+    "p": "dᵻsˈɛmbɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "today",
     "m": "hôm nay",
     "cat": "time",
-    "p": "tədˈeɪ"
+    "p": "tədˈeɪ",
+    "pos": "Danh từ"
   },
   {
     "w": "tomorrow",
     "m": "ngày mai",
     "cat": "time",
-    "p": "təmˈɑːɹoʊ"
+    "p": "təmˈɑːɹoʊ",
+    "pos": "Danh từ"
   },
   {
     "w": "yesterday",
     "m": "hôm qua",
     "cat": "time",
-    "p": "jˈɛstɚdˌeɪ"
+    "p": "jˈɛstɚdˌeɪ",
+    "pos": "Danh từ"
   },
   {
     "w": "morning",
     "m": "buổi sáng",
     "cat": "time",
-    "p": "mˈɔːɹnɪŋ"
+    "p": "mˈɔːɹnɪŋ",
+    "pos": "Danh từ"
   },
   {
     "w": "afternoon",
     "m": "buổi chiều",
     "cat": "time",
-    "p": "ˌæftɚnˈuːn"
+    "p": "ˌæftɚnˈuːn",
+    "pos": "Danh từ"
   },
   {
     "w": "evening",
     "m": "buổi tối",
     "cat": "time",
-    "p": "ˈiːvnɪŋ"
+    "p": "ˈiːvnɪŋ",
+    "pos": "Danh từ"
   },
   {
     "w": "night",
     "m": "ban đêm",
     "cat": "time",
-    "p": "nˈaɪt"
+    "p": "nˈaɪt",
+    "pos": "Danh từ"
   },
   {
     "w": "week",
     "m": "tuần",
     "cat": "time",
-    "p": "wˈiːk"
+    "p": "wˈiːk",
+    "pos": "Danh từ"
   },
   {
     "w": "month",
     "m": "tháng",
     "cat": "time",
-    "p": "mˈʌnθ"
+    "p": "mˈʌnθ",
+    "pos": "Danh từ"
   },
   {
     "w": "year",
     "m": "năm",
     "cat": "time",
-    "p": "jˈɪɹ"
+    "p": "jˈɪɹ",
+    "pos": "Số từ"
   },
   {
     "w": "hour",
     "m": "giờ",
     "cat": "time",
-    "p": "ˈaʊɚ"
+    "p": "ˈaʊɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "minute",
     "m": "phút",
     "cat": "time",
-    "p": "mˈɪnɪt"
+    "p": "mˈɪnɪt",
+    "pos": "Danh từ"
   },
   {
     "w": "now",
     "m": "bây giờ",
     "cat": "time",
-    "p": "nˈaʊ"
+    "p": "nˈaʊ",
+    "pos": "Danh từ"
   },
   {
     "w": "later",
     "m": "sau này",
     "cat": "time",
-    "p": "lˈeɪɾɚ"
+    "p": "lˈeɪɾɚ",
+    "pos": "Phó từ"
   },
   {
     "w": "red",
     "m": "màu đỏ",
     "cat": "color",
-    "p": "ɹˈɛd"
+    "p": "ɹˈɛd",
+    "pos": "Danh từ"
   },
   {
     "w": "blue",
     "m": "màu xanh dương",
     "cat": "color",
-    "p": "blˈuː"
+    "p": "blˈuː",
+    "pos": "Danh từ"
   },
   {
     "w": "green",
     "m": "màu xanh lá",
     "cat": "color",
-    "p": "ɡɹˈiːn"
+    "p": "ɡɹˈiːn",
+    "pos": "Danh từ"
   },
   {
     "w": "yellow",
     "m": "màu vàng",
     "cat": "color",
-    "p": "jˈɛloʊ"
+    "p": "jˈɛloʊ",
+    "pos": "Danh từ"
   },
   {
     "w": "white",
     "m": "màu trắng",
     "cat": "color",
-    "p": "wˈaɪt"
+    "p": "wˈaɪt",
+    "pos": "Danh từ"
   },
   {
     "w": "black",
     "m": "màu đen",
     "cat": "color",
-    "p": "blˈæk"
+    "p": "blˈæk",
+    "pos": "Danh từ"
   },
   {
     "w": "orange",
     "m": "màu cam",
     "cat": "color",
-    "p": "ˈɔɹɪndʒ"
+    "p": "ˈɔɹɪndʒ",
+    "pos": "Danh từ"
   },
   {
     "w": "pink",
     "m": "màu hồng",
     "cat": "color",
-    "p": "pˈɪŋk"
+    "p": "pˈɪŋk",
+    "pos": "Danh từ"
   },
   {
     "w": "purple",
     "m": "màu tím",
     "cat": "color",
-    "p": "pˈɜːpəl"
+    "p": "pˈɜːpəl",
+    "pos": "Danh từ"
   },
   {
     "w": "brown",
     "m": "màu nâu",
     "cat": "color",
-    "p": "bɹˈaʊn"
+    "p": "bɹˈaʊn",
+    "pos": "Danh từ"
   },
   {
     "w": "head",
     "m": "đầu",
     "cat": "body",
-    "p": "hˈɛd"
+    "p": "hˈɛd",
+    "pos": "Danh từ"
   },
   {
     "w": "hand",
     "m": "bàn tay",
     "cat": "body",
-    "p": "hˈænd"
+    "p": "hˈænd",
+    "pos": "Danh từ"
   },
   {
     "w": "eye",
     "m": "mắt",
     "cat": "body",
-    "p": "ˈaɪ"
+    "p": "ˈaɪ",
+    "pos": "Danh từ"
   },
   {
     "w": "ear",
     "m": "tai",
     "cat": "body",
-    "p": "ˈɪɹ"
+    "p": "ˈɪɹ",
+    "pos": "Danh từ"
   },
   {
     "w": "nose",
     "m": "mũi",
     "cat": "body",
-    "p": "nˈoʊz"
+    "p": "nˈoʊz",
+    "pos": "Danh từ"
   },
   {
     "w": "mouth",
     "m": "miệng",
     "cat": "body",
-    "p": "mˈaʊθ"
+    "p": "mˈaʊθ",
+    "pos": "Danh từ"
   },
   {
     "w": "hair",
     "m": "tóc",
     "cat": "body",
-    "p": "hˈɛɹ"
+    "p": "hˈɛɹ",
+    "pos": "Danh từ"
   },
   {
     "w": "face",
     "m": "khuôn mặt",
     "cat": "body",
-    "p": "fˈeɪs"
+    "p": "fˈeɪs",
+    "pos": "Danh từ"
   },
   {
     "w": "arm",
     "m": "cánh tay",
     "cat": "body",
-    "p": "ˈɑːɹm"
+    "p": "ˈɑːɹm",
+    "pos": "Danh từ"
   },
   {
     "w": "leg",
     "m": "chân",
     "cat": "body",
-    "p": "lˈɛɡ"
+    "p": "lˈɛɡ",
+    "pos": "Danh từ"
   },
   {
     "w": "foot",
     "m": "bàn chân",
     "cat": "body",
-    "p": "fˈʊt"
+    "p": "fˈʊt",
+    "pos": "Danh từ"
   },
   {
     "w": "back",
     "m": "lưng, phía sau",
     "cat": "body",
-    "p": "bˈæk"
+    "p": "bˈæk",
+    "pos": "Tính từ"
   },
   {
     "w": "stomach",
     "m": "bụng",
     "cat": "body",
-    "p": "stˈʌmək"
+    "p": "stˈʌmək",
+    "pos": "Danh từ"
   },
   {
     "w": "tooth",
     "m": "răng",
     "cat": "body",
-    "p": "tˈuːθ"
+    "p": "tˈuːθ",
+    "pos": "Danh từ"
   },
   {
     "w": "finger",
     "m": "ngón tay",
     "cat": "body",
-    "p": "fˈɪŋɡɚ"
+    "p": "fˈɪŋɡɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "school",
     "m": "trường học",
     "cat": "place",
-    "p": "skˈuːl"
+    "p": "skˈuːl",
+    "pos": "Danh từ"
   },
   {
     "w": "home",
     "m": "nhà",
     "cat": "place",
-    "p": "hˈoʊm"
+    "p": "hˈoʊm",
+    "pos": "Danh từ"
   },
   {
     "w": "hospital",
     "m": "bệnh viện",
     "cat": "place",
-    "p": "hˈɑːspɪɾəl"
+    "p": "hˈɑːspɪɾəl",
+    "pos": "Danh từ"
   },
   {
     "w": "shop",
     "m": "cửa hàng",
     "cat": "place",
-    "p": "ʃˈɑːp"
+    "p": "ʃˈɑːp",
+    "pos": "Danh từ"
   },
   {
     "w": "park",
     "m": "công viên",
     "cat": "place",
-    "p": "pˈɑːɹk"
+    "p": "pˈɑːɹk",
+    "pos": "Danh từ"
   },
   {
     "w": "restaurant",
     "m": "nhà hàng",
     "cat": "place",
-    "p": "ɹˈɛstɹɑːnt"
+    "p": "ɹˈɛstɹɑːnt",
+    "pos": "Danh từ"
   },
   {
     "w": "bank",
     "m": "ngân hàng",
     "cat": "place",
-    "p": "bˈæŋk"
+    "p": "bˈæŋk",
+    "pos": "Danh từ"
   },
   {
     "w": "office",
     "m": "văn phòng",
     "cat": "place",
-    "p": "ˈɑːfɪs"
+    "p": "ˈɑːfɪs",
+    "pos": "Danh từ"
   },
   {
     "w": "church",
     "m": "nhà thờ",
     "cat": "place",
-    "p": "tʃˈɜːtʃ"
+    "p": "tʃˈɜːtʃ",
+    "pos": "Danh từ"
   },
   {
     "w": "library",
     "m": "thư viện",
     "cat": "place",
-    "p": "lˈaɪbɹɛɹi"
+    "p": "lˈaɪbɹɛɹi",
+    "pos": "Danh từ"
   },
   {
     "w": "station",
     "m": "nhà ga, trạm, bến xe",
     "cat": "place",
-    "p": "stˈeɪʃən"
+    "p": "stˈeɪʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "city",
     "m": "thành phố",
     "cat": "place",
-    "p": "sˈɪɾi"
+    "p": "sˈɪɾi",
+    "pos": "Danh từ"
   },
   {
     "w": "country",
     "m": "đất nước",
     "cat": "place",
-    "p": "kˈʌntɹi"
+    "p": "kˈʌntɹi",
+    "pos": "Danh từ"
   },
   {
     "w": "street",
     "m": "đường phố",
     "cat": "place",
-    "p": "stɹˈiːt"
+    "p": "stɹˈiːt",
+    "pos": "Danh từ"
   },
   {
     "w": "eat",
     "m": "ăn",
     "cat": "food",
-    "p": "ˈiːt"
+    "p": "ˈiːt",
+    "pos": "Động từ"
   },
   {
     "w": "drink",
     "m": "uống",
     "cat": "food",
-    "p": "dɹˈɪŋk"
+    "p": "dɹˈɪŋk",
+    "pos": "Động từ"
   },
   {
     "w": "water",
     "m": "nước",
     "cat": "food",
-    "p": "wˈɔːɾɚ"
+    "p": "wˈɔːɾɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "rice",
     "m": "cơm, gạo",
     "cat": "food",
-    "p": "ɹˈaɪs"
+    "p": "ɹˈaɪs",
+    "pos": "Danh từ"
   },
   {
     "w": "bread",
     "m": "bánh mì",
     "cat": "food",
-    "p": "bɹˈɛd"
+    "p": "bɹˈɛd",
+    "pos": "Danh từ"
   },
   {
     "w": "apple",
     "m": "táo",
     "cat": "food",
-    "p": "ˈæpəl"
+    "p": "ˈæpəl",
+    "pos": "Danh từ"
   },
   {
     "w": "milk",
     "m": "sữa",
     "cat": "food",
-    "p": "mˈɪlk"
+    "p": "mˈɪlk",
+    "pos": "Danh từ"
   },
   {
     "w": "egg",
     "m": "trứng",
     "cat": "food",
-    "p": "ˈɛɡ"
+    "p": "ˈɛɡ",
+    "pos": "Danh từ"
   },
   {
     "w": "meat",
     "m": "thịt",
     "cat": "food",
-    "p": "mˈiːt"
+    "p": "mˈiːt",
+    "pos": "Danh từ"
   },
   {
     "w": "fish",
     "m": "cá",
     "cat": "food",
-    "p": "fˈɪʃ"
+    "p": "fˈɪʃ",
+    "pos": "Danh từ"
   },
   {
     "w": "vegetable",
     "m": "rau",
     "cat": "food",
-    "p": "vˈɛdʒɪɾəbəl"
+    "p": "vˈɛdʒɪɾəbəl",
+    "pos": "Danh từ"
   },
   {
     "w": "fruit",
     "m": "trái cây",
     "cat": "food",
-    "p": "fɹˈuːt"
+    "p": "fɹˈuːt",
+    "pos": "Danh từ"
   },
   {
     "w": "coffee",
     "m": "cà phê",
     "cat": "food",
-    "p": "kˈɔfi"
+    "p": "kˈɔfi",
+    "pos": "Danh từ"
   },
   {
     "w": "tea",
     "m": "trà",
     "cat": "food",
-    "p": "tˈiː"
+    "p": "tˈiː",
+    "pos": "Danh từ"
   },
   {
     "w": "sugar",
     "m": "đường",
     "cat": "food",
-    "p": "ʃˈʊɡɚ"
+    "p": "ʃˈʊɡɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "salt",
     "m": "muối",
     "cat": "food",
-    "p": "sˈɔlt"
+    "p": "sˈɔlt",
+    "pos": "Danh từ"
   },
   {
     "w": "orange",
     "m": "cam (trái cây)",
     "cat": "food",
-    "p": "ˈɔɹɪndʒ"
+    "p": "ˈɔɹɪndʒ",
+    "pos": "Danh từ"
   },
   {
     "w": "banana",
     "m": "chuối",
     "cat": "food",
-    "p": "bɐnˈænə"
+    "p": "bɐnˈænə",
+    "pos": "Danh từ"
   },
   {
     "w": "chicken",
     "m": "gà",
     "cat": "food",
-    "p": "tʃˈɪkɪn"
+    "p": "tʃˈɪkɪn",
+    "pos": "Danh từ"
   },
   {
     "w": "soup",
     "m": "súp, canh",
     "cat": "food",
-    "p": "sˈuːp"
+    "p": "sˈuːp",
+    "pos": "Danh từ"
   },
   {
     "w": "be",
     "m": "là, thì, ở",
     "cat": "verb",
-    "p": "bˈiː"
+    "p": "bˈiː",
+    "pos": "Động từ"
   },
   {
     "w": "have",
     "m": "có",
     "cat": "verb",
-    "p": "hˈæv"
+    "p": "hˈæv",
+    "pos": "Động từ"
   },
   {
     "w": "go",
     "m": "đi",
     "cat": "verb",
-    "p": "ɡˈoʊ"
+    "p": "ɡˈoʊ",
+    "pos": "Động từ"
   },
   {
     "w": "come",
     "m": "đến, lại",
     "cat": "verb",
-    "p": "kˈʌm"
+    "p": "kˈʌm",
+    "pos": "Động từ"
   },
   {
     "w": "see",
     "m": "nhìn, thấy",
     "cat": "verb",
-    "p": "sˈiː"
+    "p": "sˈiː",
+    "pos": "Động từ"
   },
   {
     "w": "buy",
     "m": "mua",
     "cat": "verb",
-    "p": "bˈaɪ"
+    "p": "bˈaɪ",
+    "pos": "Động từ"
   },
   {
     "w": "make",
     "m": "làm, tạo ra",
     "cat": "verb",
-    "p": "mˈeɪk"
+    "p": "mˈeɪk",
+    "pos": "Động từ"
   },
   {
     "w": "do",
     "m": "làm",
     "cat": "verb",
-    "p": "dˈuː"
+    "p": "dˈuː",
+    "pos": "Động từ"
   },
   {
     "w": "like",
     "m": "thích, như, nhấn like",
     "cat": "verb",
-    "p": "lˈaɪk"
+    "p": "lˈaɪk",
+    "pos": "Động từ"
   },
   {
     "w": "want",
     "m": "muốn",
     "cat": "verb",
-    "p": "wˈɔnt"
+    "p": "wˈɔnt",
+    "pos": "Động từ"
   },
   {
     "w": "need",
     "m": "cần",
     "cat": "verb",
-    "p": "nˈiːd"
+    "p": "nˈiːd",
+    "pos": "Động từ"
   },
   {
     "w": "say",
     "m": "nói",
     "cat": "verb",
-    "p": "sˈeɪ"
+    "p": "sˈeɪ",
+    "pos": "Động từ"
   },
   {
     "w": "get",
     "m": "lấy, nhận được",
     "cat": "verb",
-    "p": "ɡˈɛt"
+    "p": "ɡˈɛt",
+    "pos": "Động từ"
   },
   {
     "w": "take",
     "m": "lấy, mang",
     "cat": "verb",
-    "p": "tˈeɪk"
+    "p": "tˈeɪk",
+    "pos": "Động từ"
   },
   {
     "w": "work",
     "m": "làm việc",
     "cat": "verb",
-    "p": "wˈɜːk"
+    "p": "wˈɜːk",
+    "pos": "Động từ"
   },
   {
     "w": "play",
     "m": "chơi",
     "cat": "verb",
-    "p": "plˈeɪ"
+    "p": "plˈeɪ",
+    "pos": "Động từ"
   },
   {
     "w": "walk",
     "m": "đi bộ",
     "cat": "verb",
-    "p": "wˈɔːk"
+    "p": "wˈɔːk",
+    "pos": "Động từ"
   },
   {
     "w": "run",
     "m": "chạy",
     "cat": "verb",
-    "p": "ɹˈʌn"
+    "p": "ɹˈʌn",
+    "pos": "Động từ"
   },
   {
     "w": "sit",
     "m": "ngồi",
     "cat": "verb",
-    "p": "sˈɪt"
+    "p": "sˈɪt",
+    "pos": "Động từ"
   },
   {
     "w": "stand",
     "m": "đứng",
     "cat": "verb",
-    "p": "stˈænd"
+    "p": "stˈænd",
+    "pos": "Động từ"
   },
   {
     "w": "open",
     "m": "mở",
     "cat": "verb",
-    "p": "ˈoʊpən"
+    "p": "ˈoʊpən",
+    "pos": "Động từ"
   },
   {
     "w": "close",
     "m": "đóng",
     "cat": "verb",
-    "p": "klˈoʊs"
+    "p": "klˈoʊs",
+    "pos": "Động từ"
   },
   {
     "w": "read",
     "m": "đọc",
     "cat": "verb",
-    "p": "ɹˈiːd"
+    "p": "ɹˈiːd",
+    "pos": "Động từ"
   },
   {
     "w": "write",
     "m": "viết",
     "cat": "verb",
-    "p": "ɹˈaɪt"
+    "p": "ɹˈaɪt",
+    "pos": "Động từ"
   },
   {
     "w": "listen",
     "m": "nghe",
     "cat": "verb",
-    "p": "lˈɪsən"
+    "p": "lˈɪsən",
+    "pos": "Động từ"
   },
   {
     "w": "speak",
     "m": "nói chuyện",
     "cat": "verb",
-    "p": "spˈiːk"
+    "p": "spˈiːk",
+    "pos": "Động từ"
   },
   {
     "w": "sleep",
     "m": "ngủ",
     "cat": "verb",
-    "p": "slˈiːp"
+    "p": "slˈiːp",
+    "pos": "Động từ"
   },
   {
     "w": "wake",
     "m": "thức dậy",
     "cat": "verb",
-    "p": "wˈeɪk"
+    "p": "wˈeɪk",
+    "pos": "Động từ"
   },
   {
     "w": "help",
     "m": "giúp đỡ",
     "cat": "verb",
-    "p": "hˈɛlp"
+    "p": "hˈɛlp",
+    "pos": "Động từ"
   },
   {
     "w": "give",
     "m": "cho, tặng",
     "cat": "verb",
-    "p": "ɡˈɪv"
+    "p": "ɡˈɪv",
+    "pos": "Động từ"
   },
   {
     "w": "ask",
     "m": "hỏi",
     "cat": "verb",
-    "p": "ˈæsk"
+    "p": "ˈæsk",
+    "pos": "Động từ"
   },
   {
     "w": "know",
     "m": "biết",
     "cat": "verb",
-    "p": "nˈoʊ"
+    "p": "nˈoʊ",
+    "pos": "Động từ"
   },
   {
     "w": "think",
     "m": "nghĩ",
     "cat": "verb",
-    "p": "θˈɪŋk"
+    "p": "θˈɪŋk",
+    "pos": "Động từ"
   },
   {
     "w": "feel",
     "m": "cảm thấy",
     "cat": "verb",
-    "p": "fˈiːl"
+    "p": "fˈiːl",
+    "pos": "Động từ"
   },
   {
     "w": "use",
     "m": "dùng, sử dụng",
     "cat": "verb",
-    "p": "jˈuːs"
+    "p": "jˈuːs",
+    "pos": "Động từ"
   },
   {
     "w": "call",
     "m": "gọi, gọi điện",
     "cat": "verb",
-    "p": "kˈɔːl"
+    "p": "kˈɔːl",
+    "pos": "Động từ"
   },
   {
     "w": "look",
     "m": "nhìn",
     "cat": "verb",
-    "p": "lˈʊk"
+    "p": "lˈʊk",
+    "pos": "Động từ"
   },
   {
     "w": "find",
     "m": "tìm thấy",
     "cat": "verb",
-    "p": "fˈaɪnd"
+    "p": "fˈaɪnd",
+    "pos": "Động từ"
   },
   {
     "w": "eat",
     "m": "ăn",
     "cat": "verb",
-    "p": "ˈiːt"
+    "p": "ˈiːt",
+    "pos": "Động từ"
   },
   {
     "w": "drink",
     "m": "uống",
     "cat": "verb",
-    "p": "dɹˈɪŋk"
+    "p": "dɹˈɪŋk",
+    "pos": "Động từ"
   },
   {
     "w": "love",
     "m": "yêu thương",
     "cat": "verb",
-    "p": "lˈʌv"
+    "p": "lˈʌv",
+    "pos": "Động từ"
   },
   {
     "w": "live",
     "m": "sống, ở",
     "cat": "verb",
-    "p": "lˈaɪv"
+    "p": "lˈaɪv",
+    "pos": "Động từ"
   },
   {
     "w": "study",
     "m": "học",
     "cat": "verb",
-    "p": "stˈʌdi"
+    "p": "stˈʌdi",
+    "pos": "Động từ"
   },
   {
     "w": "good",
     "m": "tốt",
     "cat": "adjective",
-    "p": "ɡˈʊd"
+    "p": "ɡˈʊd",
+    "pos": "Tính từ"
   },
   {
     "w": "bad",
     "m": "xấu, tệ",
     "cat": "adjective",
-    "p": "bˈæd"
+    "p": "bˈæd",
+    "pos": "Tính từ"
   },
   {
     "w": "big",
     "m": "to, lớn",
     "cat": "adjective",
-    "p": "bˈɪɡ"
+    "p": "bˈɪɡ",
+    "pos": "Tính từ"
   },
   {
     "w": "small",
     "m": "nhỏ",
     "cat": "adjective",
-    "p": "smˈɔːl"
+    "p": "smˈɔːl",
+    "pos": "Tính từ"
   },
   {
     "w": "new",
     "m": "mới",
     "cat": "adjective",
-    "p": "nˈuː"
+    "p": "nˈuː",
+    "pos": "Tính từ"
   },
   {
     "w": "old",
     "m": "cũ, già",
     "cat": "adjective",
-    "p": "ˈoʊld"
+    "p": "ˈoʊld",
+    "pos": "Tính từ"
   },
   {
     "w": "hot",
     "m": "nóng",
     "cat": "adjective",
-    "p": "hˈɑːt"
+    "p": "hˈɑːt",
+    "pos": "Tính từ"
   },
   {
     "w": "cold",
     "m": "lạnh, cảm lạnh",
     "cat": "adjective",
-    "p": "kˈoʊld"
+    "p": "kˈoʊld",
+    "pos": "Tính từ"
   },
   {
     "w": "happy",
     "m": "vui, hạnh phúc",
     "cat": "adjective",
-    "p": "hˈæpi"
+    "p": "hˈæpi",
+    "pos": "Tính từ"
   },
   {
     "w": "sad",
     "m": "buồn",
     "cat": "adjective",
-    "p": "sˈæd"
+    "p": "sˈæd",
+    "pos": "Tính từ"
   },
   {
     "w": "fast",
     "m": "nhanh",
     "cat": "adjective",
-    "p": "fˈæst"
+    "p": "fˈæst",
+    "pos": "Tính từ"
   },
   {
     "w": "slow",
     "m": "chậm",
     "cat": "adjective",
-    "p": "slˈoʊ"
+    "p": "slˈoʊ",
+    "pos": "Tính từ"
   },
   {
     "w": "beautiful",
     "m": "đẹp",
     "cat": "adjective",
-    "p": "bjˈuːɾifəl"
+    "p": "bjˈuːɾifəl",
+    "pos": "Tính từ"
   },
   {
     "w": "nice",
     "m": "tốt, dễ chịu",
     "cat": "adjective",
-    "p": "nˈaɪs"
+    "p": "nˈaɪs",
+    "pos": "Tính từ"
   },
   {
     "w": "clean",
     "m": "sạch, dọn dẹp",
     "cat": "adjective",
-    "p": "klˈiːn"
+    "p": "klˈiːn",
+    "pos": "Tính từ"
   },
   {
     "w": "dirty",
     "m": "bẩn",
     "cat": "adjective",
-    "p": "dˈɜːɾi"
+    "p": "dˈɜːɾi",
+    "pos": "Tính từ"
   },
   {
     "w": "right",
     "m": "đúng, phải, quyền lợi",
     "cat": "adjective",
-    "p": "ɹˈaɪt"
+    "p": "ɹˈaɪt",
+    "pos": "Tính từ"
   },
   {
     "w": "wrong",
     "m": "sai",
     "cat": "adjective",
-    "p": "ɹˈɔŋ"
+    "p": "ɹˈɔŋ",
+    "pos": "Tính từ"
   },
   {
     "w": "easy",
     "m": "dễ",
     "cat": "adjective",
-    "p": "ˈiːzi"
+    "p": "ˈiːzi",
+    "pos": "Tính từ"
   },
   {
     "w": "hard",
     "m": "khó, cứng",
     "cat": "adjective",
-    "p": "hˈɑːɹd"
+    "p": "hˈɑːɹd",
+    "pos": "Tính từ"
   },
   {
     "w": "free",
     "m": "miễn phí, tự do",
     "cat": "adjective",
-    "p": "fɹˈiː"
+    "p": "fɹˈiː",
+    "pos": "Tính từ"
   },
   {
     "w": "important",
     "m": "quan trọng",
     "cat": "adjective",
-    "p": "ɪmpˈɔːɹtənt"
+    "p": "ɪmpˈɔːɹtənt",
+    "pos": "Tính từ"
   },
   {
     "w": "long",
     "m": "dài",
     "cat": "adjective",
-    "p": "lˈɔŋ"
+    "p": "lˈɔŋ",
+    "pos": "Tính từ"
   },
   {
     "w": "short",
     "m": "ngắn, thấp",
     "cat": "adjective",
-    "p": "ʃˈɔːɹt"
+    "p": "ʃˈɔːɹt",
+    "pos": "Tính từ"
   },
   {
     "w": "high",
     "m": "cao",
     "cat": "adjective",
-    "p": "hˈaɪ"
+    "p": "hˈaɪ",
+    "pos": "Tính từ"
   },
   {
     "w": "low",
     "m": "thấp",
     "cat": "adjective",
-    "p": "lˈoʊ"
+    "p": "lˈoʊ",
+    "pos": "Tính từ"
   },
   {
     "w": "young",
     "m": "trẻ",
     "cat": "adjective",
-    "p": "jˈʌŋ"
+    "p": "jˈʌŋ",
+    "pos": "Tính từ"
   },
   {
     "w": "tall",
     "m": "cao (người)",
     "cat": "adjective",
-    "p": "tˈɔːl"
+    "p": "tˈɔːl",
+    "pos": "Tính từ"
   },
   {
     "w": "full",
     "m": "đầy, no",
     "cat": "adjective",
-    "p": "fˈʊl"
+    "p": "fˈʊl",
+    "pos": "Tính từ"
   },
   {
     "w": "empty",
     "m": "rỗng, trống",
     "cat": "adjective",
-    "p": "ˈɛmpti"
+    "p": "ˈɛmpti",
+    "pos": "Tính từ"
   },
   {
     "w": "tired",
     "m": "mệt",
     "cat": "adjective",
-    "p": "tˈaɪɚd"
+    "p": "tˈaɪɚd",
+    "pos": "Tính từ"
   },
   {
     "w": "hungry",
     "m": "đói",
     "cat": "adjective",
-    "p": "hˈʌŋɡɹi"
+    "p": "hˈʌŋɡɹi",
+    "pos": "Tính từ"
   },
   {
     "w": "thirsty",
     "m": "khát",
     "cat": "adjective",
-    "p": "θˈɜːsti"
+    "p": "θˈɜːsti",
+    "pos": "Tính từ"
   },
   {
     "w": "sick",
     "m": "ốm, bệnh",
     "cat": "adjective",
-    "p": "sˈɪk"
+    "p": "sˈɪk",
+    "pos": "Tính từ"
   },
   {
     "w": "what",
     "m": "cái gì, gì",
     "cat": "question",
-    "p": "wˌʌt"
+    "p": "wˌʌt",
+    "pos": "Đại từ"
   },
   {
     "w": "who",
     "m": "ai",
     "cat": "question",
-    "p": "hˈuː"
+    "p": "hˈuː",
+    "pos": "Đại từ"
   },
   {
     "w": "where",
     "m": "ở đâu",
     "cat": "question",
-    "p": "wˈɛɹ"
+    "p": "wˈɛɹ",
+    "pos": "Đại từ"
   },
   {
     "w": "when",
     "m": "khi nào",
     "cat": "question",
-    "p": "wˌɛn"
+    "p": "wˌɛn",
+    "pos": "Đại từ"
   },
   {
     "w": "why",
     "m": "tại sao",
     "cat": "question",
-    "p": "wˈaɪ"
+    "p": "wˈaɪ",
+    "pos": "Đại từ"
   },
   {
     "w": "how",
     "m": "như thế nào",
     "cat": "question",
-    "p": "hˈaʊ"
+    "p": "hˈaʊ",
+    "pos": "Đại từ"
   },
   {
     "w": "which",
     "m": "cái nào",
     "cat": "question",
-    "p": "wˈɪtʃ"
+    "p": "wˈɪtʃ",
+    "pos": "Đại từ"
   },
   {
     "w": "how much",
     "m": "bao nhiêu tiền",
     "cat": "question",
-    "p": "hˌaʊ mˈʌtʃ"
+    "p": "hˌaʊ mˈʌtʃ",
+    "pos": "Danh từ"
   },
   {
     "w": "how many",
     "m": "bao nhiêu (đếm được)",
     "cat": "question",
-    "p": "hˌaʊ mˈɛni"
+    "p": "hˌaʊ mˈɛni",
+    "pos": "Đại từ"
   },
   {
     "w": "how old",
     "m": "bao nhiêu tuổi",
     "cat": "question",
-    "p": "hˌaʊ ˈoʊld"
+    "p": "hˌaʊ ˈoʊld",
+    "pos": "Danh từ"
   },
   {
     "w": "cat",
     "m": "con mèo",
     "cat": "animal",
-    "p": "kˈæt"
+    "p": "kˈæt",
+    "pos": "Danh từ"
   },
   {
     "w": "dog",
     "m": "con chó",
     "cat": "animal",
-    "p": "dˈɑːɡ"
+    "p": "dˈɑːɡ",
+    "pos": "Danh từ"
   },
   {
     "w": "bird",
     "m": "con chim",
     "cat": "animal",
-    "p": "bˈɜːd"
+    "p": "bˈɜːd",
+    "pos": "Danh từ"
   },
   {
     "w": "horse",
     "m": "con ngựa",
     "cat": "animal",
-    "p": "hˈɔːɹs"
+    "p": "hˈɔːɹs",
+    "pos": "Danh từ"
   },
   {
     "w": "cow",
     "m": "con bò",
     "cat": "animal",
-    "p": "kˈaʊ"
+    "p": "kˈaʊ",
+    "pos": "Danh từ"
   },
   {
     "w": "pig",
     "m": "con lợn",
     "cat": "animal",
-    "p": "pˈɪɡ"
+    "p": "pˈɪɡ",
+    "pos": "Danh từ"
   },
   {
     "w": "book",
     "m": "cuốn sách, đặt trước (phòng/vé)",
     "cat": "object",
-    "p": "bˈʊk"
+    "p": "bˈʊk",
+    "pos": "Động từ"
   },
   {
     "w": "pen",
     "m": "bút",
     "cat": "object",
-    "p": "pˈɛn"
+    "p": "pˈɛn",
+    "pos": "Danh từ"
   },
   {
     "w": "bag",
     "m": "túi xách",
     "cat": "object",
-    "p": "bˈæɡ"
+    "p": "bˈæɡ",
+    "pos": "Danh từ"
   },
   {
     "w": "key",
     "m": "chìa khóa",
     "cat": "object",
-    "p": "kˈiː"
+    "p": "kˈiː",
+    "pos": "Danh từ"
   },
   {
     "w": "phone",
     "m": "điện thoại",
     "cat": "object",
-    "p": "fˈoʊn"
+    "p": "fˈoʊn",
+    "pos": "Danh từ"
   },
   {
     "w": "car",
     "m": "ô tô",
     "cat": "object",
-    "p": "kˈɑːɹ"
+    "p": "kˈɑːɹ",
+    "pos": "Danh từ"
   },
   {
     "w": "money",
     "m": "tiền",
     "cat": "object",
-    "p": "mˈʌni"
+    "p": "mˈʌni",
+    "pos": "Danh từ"
   },
   {
     "w": "door",
     "m": "cái cửa",
     "cat": "object",
-    "p": "dˈɔːɹ"
+    "p": "dˈɔːɹ",
+    "pos": "Danh từ"
   },
   {
     "w": "table",
     "m": "cái bàn",
     "cat": "object",
-    "p": "tˈeɪbəl"
+    "p": "tˈeɪbəl",
+    "pos": "Danh từ"
   },
   {
     "w": "chair",
     "m": "cái ghế",
     "cat": "object",
-    "p": "tʃˈɛɹ"
+    "p": "tʃˈɛɹ",
+    "pos": "Danh từ"
   },
   {
     "w": "bed",
     "m": "cái giường",
     "cat": "object",
-    "p": "bˈɛd"
+    "p": "bˈɛd",
+    "pos": "Danh từ"
   },
   {
     "w": "window",
     "m": "cửa sổ",
     "cat": "object",
-    "p": "wˈɪndoʊ"
+    "p": "wˈɪndoʊ",
+    "pos": "Danh từ"
   },
   {
     "w": "and",
     "m": "và",
     "cat": "function",
-    "p": "ænd"
+    "p": "ænd",
+    "pos": "Danh từ"
   },
   {
     "w": "or",
     "m": "hoặc",
     "cat": "function",
-    "p": "ɔːɹ"
+    "p": "ɔːɹ",
+    "pos": "Danh từ"
   },
   {
     "w": "but",
     "m": "nhưng",
     "cat": "function",
-    "p": "bˌʌt"
+    "p": "bˌʌt",
+    "pos": "Danh từ"
   },
   {
     "w": "in",
     "m": "trong, ở",
     "cat": "function",
-    "p": "ˈɪn"
+    "p": "ˈɪn",
+    "pos": "Danh từ"
   },
   {
     "w": "on",
     "m": "trên",
     "cat": "function",
-    "p": "ˈɔn"
+    "p": "ˈɔn",
+    "pos": "Danh từ"
   },
   {
     "w": "at",
     "m": "tại, lúc",
     "cat": "function",
-    "p": "æt"
+    "p": "æt",
+    "pos": "Danh từ"
   },
   {
     "w": "to",
     "m": "đến, tới",
     "cat": "function",
-    "p": "tuː"
+    "p": "tuː",
+    "pos": "Động từ"
   },
   {
     "w": "for",
     "m": "cho, vì",
     "cat": "function",
-    "p": "fɔːɹ"
+    "p": "fɔːɹ",
+    "pos": "Động từ"
   },
   {
     "w": "with",
     "m": "với",
     "cat": "function",
-    "p": "wɪð"
+    "p": "wɪð",
+    "pos": "Danh từ"
   },
   {
     "w": "from",
     "m": "từ",
     "cat": "function",
-    "p": "fɹʌm"
+    "p": "fɹʌm",
+    "pos": "Danh từ"
   },
   {
     "w": "of",
     "m": "của",
     "cat": "function",
-    "p": "ʌv"
+    "p": "ʌv",
+    "pos": "Danh từ"
   },
   {
     "w": "not",
     "m": "không",
     "cat": "function",
-    "p": "nˈɑːt"
+    "p": "nˈɑːt",
+    "pos": "Phó từ"
   },
   {
     "w": "very",
     "m": "rất",
     "cat": "function",
-    "p": "vˈɛɹi"
+    "p": "vˈɛɹi",
+    "pos": "Phó từ"
   },
   {
     "w": "a",
     "m": "một (mạo từ)",
     "cat": "function",
-    "p": "ˈeɪ"
+    "p": "ˈeɪ",
+    "pos": "Số từ"
   },
   {
     "w": "the",
     "m": "cái, chiếc (mạo từ xác định)",
     "cat": "function",
-    "p": "ðə"
+    "p": "ðə",
+    "pos": "Danh từ"
   },
   {
     "w": "some",
     "m": "một số, một chút",
     "cat": "function",
-    "p": "sˌʌm"
+    "p": "sˌʌm",
+    "pos": "Danh từ"
   },
   {
     "w": "many",
     "m": "nhiều",
     "cat": "function",
-    "p": "mˈɛni"
+    "p": "mˈɛni",
+    "pos": "Tính từ"
   },
   {
     "w": "here",
     "m": "ở đây",
     "cat": "function",
-    "p": "hˈɪɹ"
+    "p": "hˈɪɹ",
+    "pos": "Phó từ"
   },
   {
     "w": "there",
     "m": "ở đó",
     "cat": "function",
-    "p": "ðˈɛɹ"
+    "p": "ðˈɛɹ",
+    "pos": "Phó từ"
   },
   {
     "w": "name",
     "m": "tên",
     "cat": "basic",
-    "p": "nˈeɪm"
+    "p": "nˈeɪm",
+    "pos": "Danh từ"
   },
   {
     "w": "man",
     "m": "đàn ông",
     "cat": "basic",
-    "p": "mˈæn"
+    "p": "mˈæn",
+    "pos": "Danh từ"
   },
   {
     "w": "woman",
     "m": "phụ nữ",
     "cat": "basic",
-    "p": "wˈʊmən"
+    "p": "wˈʊmən",
+    "pos": "Danh từ"
   },
   {
     "w": "people",
     "m": "người, mọi người",
     "cat": "basic",
-    "p": "pˈiːpəl"
+    "p": "pˈiːpəl",
+    "pos": "Danh từ"
   },
   {
     "w": "house",
     "m": "căn nhà",
     "cat": "basic",
-    "p": "hˈaʊs"
+    "p": "hˈaʊs",
+    "pos": "Danh từ"
   },
   {
     "w": "room",
     "m": "phòng",
     "cat": "basic",
-    "p": "ɹˈuːm"
+    "p": "ɹˈuːm",
+    "pos": "Danh từ"
   },
   {
     "w": "food",
     "m": "thức ăn",
     "cat": "basic",
-    "p": "fˈuːd"
+    "p": "fˈuːd",
+    "pos": "Động từ"
   },
   {
     "w": "water",
     "m": "nước",
     "cat": "basic",
-    "p": "wˈɔːɾɚ"
+    "p": "wˈɔːɾɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "day",
     "m": "ngày",
     "cat": "basic",
-    "p": "dˈeɪ"
+    "p": "dˈeɪ",
+    "pos": "Danh từ"
   },
   {
     "w": "time",
     "m": "thời gian",
     "cat": "basic",
-    "p": "tˈaɪm"
+    "p": "tˈaɪm",
+    "pos": "Danh từ"
   },
   {
     "w": "number",
     "m": "số",
     "cat": "basic",
-    "p": "nˈʌmbɚ"
+    "p": "nˈʌmbɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "word",
     "m": "từ ngữ",
     "cat": "basic",
-    "p": "wˈɜːd"
+    "p": "wˈɜːd",
+    "pos": "Danh từ"
   },
   {
     "w": "color",
     "m": "màu sắc",
     "cat": "basic",
-    "p": "kˈʌlɚ"
+    "p": "kˈʌlɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "size",
     "m": "kích thước",
     "cat": "basic",
-    "p": "sˈaɪz"
+    "p": "sˈaɪz",
+    "pos": "Danh từ"
   },
   {
     "w": "price",
     "m": "giá cả",
     "cat": "basic",
-    "p": "pɹˈaɪs"
+    "p": "pɹˈaɪs",
+    "pos": "Danh từ"
   },
   {
     "w": "sun",
     "m": "mặt trời",
     "cat": "nature",
-    "p": "sˈʌn"
+    "p": "sˈʌn",
+    "pos": "Danh từ"
   },
   {
     "w": "moon",
     "m": "mặt trăng",
     "cat": "nature",
-    "p": "mˈuːn"
+    "p": "mˈuːn",
+    "pos": "Danh từ"
   },
   {
     "w": "rain",
     "m": "mưa",
     "cat": "nature",
-    "p": "ɹˈeɪn"
+    "p": "ɹˈeɪn",
+    "pos": "Danh từ"
   },
   {
     "w": "snow",
     "m": "tuyết",
     "cat": "nature",
-    "p": "snˈoʊ"
+    "p": "snˈoʊ",
+    "pos": "Danh từ"
   },
   {
     "w": "water",
     "m": "nước",
     "cat": "nature",
-    "p": "wˈɔːɾɚ"
+    "p": "wˈɔːɾɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "sky",
     "m": "bầu trời",
     "cat": "nature",
-    "p": "skˈaɪ"
+    "p": "skˈaɪ",
+    "pos": "Danh từ"
   },
   {
     "w": "tree",
     "m": "cây",
     "cat": "nature",
-    "p": "tɹˈiː"
+    "p": "tɹˈiː",
+    "pos": "Danh từ"
   },
   {
     "w": "flower",
     "m": "bông hoa",
     "cat": "nature",
-    "p": "flˈaʊɚ"
+    "p": "flˈaʊɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "grass",
     "m": "cỏ",
     "cat": "nature",
-    "p": "ɡɹˈæs"
+    "p": "ɡɹˈæs",
+    "pos": "Danh từ"
   },
   {
     "w": "river",
     "m": "con sông",
     "cat": "nature",
-    "p": "ɹˈɪvɚ"
+    "p": "ɹˈɪvɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "sea",
     "m": "biển",
     "cat": "nature",
-    "p": "sˈiː"
+    "p": "sˈiː",
+    "pos": "Danh từ"
   },
   {
     "w": "mountain",
     "m": "núi",
     "cat": "nature",
-    "p": "mˈaʊntɪn"
+    "p": "mˈaʊntɪn",
+    "pos": "Danh từ"
   },
   {
     "w": "road",
     "m": "con đường",
     "cat": "nature",
-    "p": "ɹˈoʊd"
+    "p": "ɹˈoʊd",
+    "pos": "Danh từ"
   },
   {
     "w": "wind",
     "m": "gió",
     "cat": "nature",
-    "p": "wˈɪnd"
+    "p": "wˈɪnd",
+    "pos": "Danh từ"
   },
   {
     "w": "fire",
     "m": "lửa, sa thải",
     "cat": "nature",
-    "p": "fˈaɪɚ"
+    "p": "fˈaɪɚ",
+    "pos": "Động từ"
   },
   {
     "w": "stone",
     "m": "đá",
     "cat": "nature",
-    "p": "stˈoʊn"
+    "p": "stˈoʊn",
+    "pos": "Danh từ"
   },
   {
     "w": "ground",
     "m": "mặt đất, cơ sở, căn cứ",
     "cat": "nature",
-    "p": "ɡɹˈaʊnd"
+    "p": "ɡɹˈaʊnd",
+    "pos": "Danh từ"
   },
   {
     "w": "light",
     "m": "ánh sáng, nhẹ",
     "cat": "nature",
-    "p": "lˈaɪt"
+    "p": "lˈaɪt",
+    "pos": "Tính từ"
   },
   {
     "w": "dark",
     "m": "tối",
     "cat": "nature",
-    "p": "dˈɑːɹk"
+    "p": "dˈɑːɹk",
+    "pos": "Tính từ"
   },
   {
     "w": "hot",
     "m": "nóng",
     "cat": "nature",
-    "p": "hˈɑːt"
+    "p": "hˈɑːt",
+    "pos": "Tính từ"
   },
   {
     "w": "cold",
     "m": "lạnh, cảm lạnh",
     "cat": "nature",
-    "p": "kˈoʊld"
+    "p": "kˈoʊld",
+    "pos": "Tính từ"
   },
   {
     "w": "animal",
     "m": "động vật",
     "cat": "animal",
-    "p": "ˈænɪməl"
+    "p": "ˈænɪməl",
+    "pos": "Danh từ"
   },
   {
     "w": "rabbit",
     "m": "con thỏ",
     "cat": "animal",
-    "p": "ɹˈæbɪt"
+    "p": "ɹˈæbɪt",
+    "pos": "Danh từ"
   },
   {
     "w": "chicken",
     "m": "con gà",
     "cat": "animal",
-    "p": "tʃˈɪkɪn"
+    "p": "tʃˈɪkɪn",
+    "pos": "Danh từ"
   },
   {
     "w": "duck",
     "m": "con vịt",
     "cat": "animal",
-    "p": "dˈʌk"
+    "p": "dˈʌk",
+    "pos": "Danh từ"
   },
   {
     "w": "fish",
     "m": "con cá",
     "cat": "animal",
-    "p": "fˈɪʃ"
+    "p": "fˈɪʃ",
+    "pos": "Danh từ"
   },
   {
     "w": "mouse",
     "m": "con chuột",
     "cat": "animal",
-    "p": "mˈaʊs"
+    "p": "mˈaʊs",
+    "pos": "Danh từ"
   },
   {
     "w": "lion",
     "m": "con sư tử",
     "cat": "animal",
-    "p": "lˈaɪən"
+    "p": "lˈaɪən",
+    "pos": "Danh từ"
   },
   {
     "w": "tiger",
     "m": "con hổ",
     "cat": "animal",
-    "p": "tˈaɪɡɚ"
+    "p": "tˈaɪɡɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "elephant",
     "m": "con voi",
     "cat": "animal",
-    "p": "ˈɛlɪfənt"
+    "p": "ˈɛlɪfənt",
+    "pos": "Danh từ"
   },
   {
     "w": "monkey",
     "m": "con khỉ",
     "cat": "animal",
-    "p": "mˈʌŋki"
+    "p": "mˈʌŋki",
+    "pos": "Danh từ"
   },
   {
     "w": "bear",
     "m": "con gấu",
     "cat": "animal",
-    "p": "bˈɛɹ"
+    "p": "bˈɛɹ",
+    "pos": "Danh từ"
   },
   {
     "w": "shirt",
     "m": "áo sơ mi",
     "cat": "clothing",
-    "p": "ʃˈɜːt"
+    "p": "ʃˈɜːt",
+    "pos": "Danh từ"
   },
   {
     "w": "pants",
     "m": "quần",
     "cat": "clothing",
-    "p": "pˈænts"
+    "p": "pˈænts",
+    "pos": "Danh từ"
   },
   {
     "w": "dress",
     "m": "váy đầm",
     "cat": "clothing",
-    "p": "dɹˈɛs"
+    "p": "dɹˈɛs",
+    "pos": "Danh từ"
   },
   {
     "w": "shoes",
     "m": "giày",
     "cat": "clothing",
-    "p": "ʃˈuːz"
+    "p": "ʃˈuːz",
+    "pos": "Danh từ"
   },
   {
     "w": "hat",
     "m": "mũ",
     "cat": "clothing",
-    "p": "hˈæt"
+    "p": "hˈæt",
+    "pos": "Danh từ"
   },
   {
     "w": "coat",
     "m": "áo khoác",
     "cat": "clothing",
-    "p": "kˈoʊt"
+    "p": "kˈoʊt",
+    "pos": "Danh từ"
   },
   {
     "w": "socks",
     "m": "tất, vớ",
     "cat": "clothing",
-    "p": "sˈɑːks"
+    "p": "sˈɑːks",
+    "pos": "Danh từ"
   },
   {
     "w": "glasses",
     "m": "kính mắt",
     "cat": "clothing",
-    "p": "ɡlˈæsᵻz"
+    "p": "ɡlˈæsᵻz",
+    "pos": "Danh từ"
   },
   {
     "w": "ring",
     "m": "nhẫn",
     "cat": "clothing",
-    "p": "ɹˈɪŋ"
+    "p": "ɹˈɪŋ",
+    "pos": "Danh từ"
   },
   {
     "w": "watch",
     "m": "đồng hồ đeo tay, xem, theo dõi",
     "cat": "clothing",
-    "p": "wˈɑːtʃ"
+    "p": "wˈɑːtʃ",
+    "pos": "Động từ"
   },
   {
     "w": "hospital",
     "m": "bệnh viện",
     "cat": "place",
-    "p": "hˈɑːspɪɾəl"
+    "p": "hˈɑːspɪɾəl",
+    "pos": "Danh từ"
   },
   {
     "w": "airport",
     "m": "sân bay",
     "cat": "place",
-    "p": "ˈɛɹpɔːɹt"
+    "p": "ˈɛɹpɔːɹt",
+    "pos": "Danh từ"
   },
   {
     "w": "hotel",
     "m": "khách sạn",
     "cat": "place",
-    "p": "hoʊtˈɛl"
+    "p": "hoʊtˈɛl",
+    "pos": "Danh từ"
   },
   {
     "w": "post office",
     "m": "bưu điện",
     "cat": "place",
-    "p": "pˈoʊst ˈɑːfɪs"
+    "p": "pˈoʊst ˈɑːfɪs",
+    "pos": "Danh từ"
   },
   {
     "w": "supermarket",
     "m": "siêu thị",
     "cat": "place",
-    "p": "sˈuːpɚmˌɑːɹkɪt"
+    "p": "sˈuːpɚmˌɑːɹkɪt",
+    "pos": "Danh từ"
   },
   {
     "w": "factory",
     "m": "nhà máy",
     "cat": "place",
-    "p": "fˈæktɚɹi"
+    "p": "fˈæktɚɹi",
+    "pos": "Danh từ"
   },
   {
     "w": "farm",
     "m": "nông trại",
     "cat": "place",
-    "p": "fˈɑːɹm"
+    "p": "fˈɑːɹm",
+    "pos": "Danh từ"
   },
   {
     "w": "beach",
     "m": "bãi biển",
     "cat": "place",
-    "p": "bˈiːtʃ"
+    "p": "bˈiːtʃ",
+    "pos": "Danh từ"
   },
   {
     "w": "forest",
     "m": "rừng",
     "cat": "place",
-    "p": "fˈɔːɹɪst"
+    "p": "fˈɔːɹɪst",
+    "pos": "Danh từ"
   },
   {
     "w": "lake",
     "m": "cái hồ",
     "cat": "place",
-    "p": "lˈeɪk"
+    "p": "lˈeɪk",
+    "pos": "Danh từ"
   },
   {
     "w": "bridge",
     "m": "cái cầu, kết nối, thu hẹp khoảng cách",
     "cat": "place",
-    "p": "bɹˈɪdʒ"
+    "p": "bɹˈɪdʒ",
+    "pos": "Danh từ"
   },
   {
     "w": "send",
     "m": "gửi",
     "cat": "verb",
-    "p": "sˈɛnd"
+    "p": "sˈɛnd",
+    "pos": "Động từ"
   },
   {
     "w": "bring",
     "m": "mang đến",
     "cat": "verb",
-    "p": "bɹˈɪŋ"
+    "p": "bɹˈɪŋ",
+    "pos": "Động từ"
   },
   {
     "w": "carry",
     "m": "mang, vác",
     "cat": "verb",
-    "p": "kˈæɹi"
+    "p": "kˈæɹi",
+    "pos": "Động từ"
   },
   {
     "w": "pull",
     "m": "kéo",
     "cat": "verb",
-    "p": "pˈʊl"
+    "p": "pˈʊl",
+    "pos": "Động từ"
   },
   {
     "w": "push",
     "m": "đẩy",
     "cat": "verb",
-    "p": "pˈʊʃ"
+    "p": "pˈʊʃ",
+    "pos": "Động từ"
   },
   {
     "w": "cut",
     "m": "cắt",
     "cat": "verb",
-    "p": "kˈʌt"
+    "p": "kˈʌt",
+    "pos": "Động từ"
   },
   {
     "w": "clean",
     "m": "sạch, dọn dẹp",
     "cat": "verb",
-    "p": "klˈiːn"
+    "p": "klˈiːn",
+    "pos": "Tính từ"
   },
   {
     "w": "wash",
     "m": "rửa",
     "cat": "verb",
-    "p": "wˈɑːʃ"
+    "p": "wˈɑːʃ",
+    "pos": "Động từ"
   },
   {
     "w": "cook",
     "m": "nấu ăn, đầu bếp",
     "cat": "verb",
-    "p": "kˈʊk"
+    "p": "kˈʊk",
+    "pos": "Động từ"
   },
   {
     "w": "pay",
     "m": "trả tiền",
     "cat": "verb",
-    "p": "pˈeɪ"
+    "p": "pˈeɪ",
+    "pos": "Động từ"
   },
   {
     "w": "wait",
     "m": "chờ đợi",
     "cat": "verb",
-    "p": "wˈeɪt"
+    "p": "wˈeɪt",
+    "pos": "Động từ"
   },
   {
     "w": "meet",
     "m": "gặp gỡ",
     "cat": "verb",
-    "p": "mˈiːt"
+    "p": "mˈiːt",
+    "pos": "Động từ"
   },
   {
     "w": "talk",
     "m": "nói chuyện",
     "cat": "verb",
-    "p": "tˈɔːk"
+    "p": "tˈɔːk",
+    "pos": "Động từ"
   },
   {
     "w": "answer",
     "m": "trả lời",
     "cat": "verb",
-    "p": "ˈænsɚ"
+    "p": "ˈænsɚ",
+    "pos": "Động từ"
   },
   {
     "w": "learn",
     "m": "học hỏi",
     "cat": "verb",
-    "p": "lˈɜːn"
+    "p": "lˈɜːn",
+    "pos": "Động từ"
   },
   {
     "w": "teach",
     "m": "dạy",
     "cat": "verb",
-    "p": "tˈiːtʃ"
+    "p": "tˈiːtʃ",
+    "pos": "Động từ"
   },
   {
     "w": "show",
     "m": "chỉ cho xem, chứng tỏ, buổi biểu diễn",
     "cat": "verb",
-    "p": "ʃˈoʊ"
+    "p": "ʃˈoʊ",
+    "pos": "Động từ"
   },
   {
     "w": "remember",
     "m": "nhớ",
     "cat": "verb",
-    "p": "ɹᵻmˈɛmbɚ"
+    "p": "ɹᵻmˈɛmbɚ",
+    "pos": "Động từ"
   },
   {
     "w": "forget",
     "m": "quên",
     "cat": "verb",
-    "p": "fɚɡˈɛt"
+    "p": "fɚɡˈɛt",
+    "pos": "Động từ"
   },
   {
     "w": "try",
     "m": "thử",
     "cat": "verb",
-    "p": "tɹˈaɪ"
+    "p": "tɹˈaɪ",
+    "pos": "Động từ"
   },
   {
     "w": "stop",
     "m": "dừng lại, trạm dừng",
     "cat": "verb",
-    "p": "stˈɑːp"
+    "p": "stˈɑːp",
+    "pos": "Động từ"
   },
   {
     "w": "start",
     "m": "bắt đầu",
     "cat": "verb",
-    "p": "stˈɑːɹt"
+    "p": "stˈɑːɹt",
+    "pos": "Động từ"
   },
   {
     "w": "finish",
     "m": "kết thúc, hoàn thành",
     "cat": "verb",
-    "p": "fˈɪnɪʃ"
+    "p": "fˈɪnɪʃ",
+    "pos": "Động từ"
   },
   {
     "w": "follow",
     "m": "đi theo",
     "cat": "verb",
-    "p": "fˈɑːloʊ"
+    "p": "fˈɑːloʊ",
+    "pos": "Động từ"
   },
   {
     "w": "turn",
     "m": "quay, rẽ",
     "cat": "verb",
-    "p": "tˈɜːn"
+    "p": "tˈɜːn",
+    "pos": "Động từ"
   },
   {
     "w": "lose",
     "m": "mất, thua",
     "cat": "verb",
-    "p": "lˈuːz"
+    "p": "lˈuːz",
+    "pos": "Động từ"
   },
   {
     "w": "win",
     "m": "thắng",
     "cat": "verb",
-    "p": "wˈɪn"
+    "p": "wˈɪn",
+    "pos": "Động từ"
   },
   {
     "w": "laugh",
     "m": "cười",
     "cat": "verb",
-    "p": "lˈæf"
+    "p": "lˈæf",
+    "pos": "Động từ"
   },
   {
     "w": "cry",
     "m": "khóc",
     "cat": "verb",
-    "p": "kɹˈaɪ"
+    "p": "kɹˈaɪ",
+    "pos": "Động từ"
   },
   {
     "w": "smile",
     "m": "mỉm cười",
     "cat": "verb",
-    "p": "smˈaɪl"
+    "p": "smˈaɪl",
+    "pos": "Động từ"
   },
   {
     "w": "swim",
     "m": "bơi",
     "cat": "verb",
-    "p": "swˈɪm"
+    "p": "swˈɪm",
+    "pos": "Động từ"
   },
   {
     "w": "jump",
     "m": "nhảy",
     "cat": "verb",
-    "p": "dʒˈʌmp"
+    "p": "dʒˈʌmp",
+    "pos": "Động từ"
   },
   {
     "w": "fly",
     "m": "bay",
     "cat": "verb",
-    "p": "flˈaɪ"
+    "p": "flˈaɪ",
+    "pos": "Động từ"
   },
   {
     "w": "drive",
     "m": "lái xe, thôi thúc, động lực, thúc đẩy",
     "cat": "verb",
-    "p": "dɹˈaɪv"
+    "p": "dɹˈaɪv",
+    "pos": "Động từ"
   },
   {
     "w": "sing",
     "m": "hát",
     "cat": "verb",
-    "p": "sˈɪŋ"
+    "p": "sˈɪŋ",
+    "pos": "Động từ"
   },
   {
     "w": "dance",
     "m": "nhảy múa",
     "cat": "verb",
-    "p": "dˈæns"
+    "p": "dˈæns",
+    "pos": "Động từ"
   },
   {
     "w": "draw",
     "m": "vẽ",
     "cat": "verb",
-    "p": "dɹˈɔː"
+    "p": "dɹˈɔː",
+    "pos": "Động từ"
   },
   {
     "w": "build",
     "m": "xây dựng",
     "cat": "verb",
-    "p": "bˈɪld"
+    "p": "bˈɪld",
+    "pos": "Động từ"
   },
   {
     "w": "break",
     "m": "vỡ, bẻ gãy, nghỉ giải lao",
     "cat": "verb",
-    "p": "bɹˈeɪk"
+    "p": "bɹˈeɪk",
+    "pos": "Động từ"
   },
   {
     "w": "fix",
     "m": "sửa chữa",
     "cat": "verb",
-    "p": "fˈɪks"
+    "p": "fˈɪks",
+    "pos": "Động từ"
   },
   {
     "w": "warm",
     "m": "ấm áp",
     "cat": "adjective",
-    "p": "wˈɔːɹm"
+    "p": "wˈɔːɹm",
+    "pos": "Tính từ"
   },
   {
     "w": "cool",
     "m": "mát mẻ",
     "cat": "adjective",
-    "p": "kˈuːl"
+    "p": "kˈuːl",
+    "pos": "Tính từ"
   },
   {
     "w": "bright",
     "m": "sáng, rực rỡ",
     "cat": "adjective",
-    "p": "bɹˈaɪt"
+    "p": "bɹˈaɪt",
+    "pos": "Tính từ"
   },
   {
     "w": "dark",
     "m": "tối",
     "cat": "adjective",
-    "p": "dˈɑːɹk"
+    "p": "dˈɑːɹk",
+    "pos": "Tính từ"
   },
   {
     "w": "heavy",
     "m": "nặng",
     "cat": "adjective",
-    "p": "hˈɛvi"
+    "p": "hˈɛvi",
+    "pos": "Tính từ"
   },
   {
     "w": "light",
     "m": "ánh sáng, nhẹ",
     "cat": "adjective",
-    "p": "lˈaɪt"
+    "p": "lˈaɪt",
+    "pos": "Tính từ"
   },
   {
     "w": "wide",
     "m": "rộng",
     "cat": "adjective",
-    "p": "wˈaɪd"
+    "p": "wˈaɪd",
+    "pos": "Tính từ"
   },
   {
     "w": "narrow",
     "m": "hẹp",
     "cat": "adjective",
-    "p": "nˈæɹoʊ"
+    "p": "nˈæɹoʊ",
+    "pos": "Tính từ"
   },
   {
     "w": "round",
     "m": "tròn",
     "cat": "adjective",
-    "p": "ɹˈaʊnd"
+    "p": "ɹˈaʊnd",
+    "pos": "Tính từ"
   },
   {
     "w": "square",
     "m": "vuông, quảng trường",
     "cat": "adjective",
-    "p": "skwˈɛɹ"
+    "p": "skwˈɛɹ",
+    "pos": "Tính từ"
   },
   {
     "w": "flat",
     "m": "phẳng",
     "cat": "adjective",
-    "p": "flˈæt"
+    "p": "flˈæt",
+    "pos": "Tính từ"
   },
   {
     "w": "deep",
     "m": "sâu",
     "cat": "adjective",
-    "p": "dˈiːp"
+    "p": "dˈiːp",
+    "pos": "Tính từ"
   },
   {
     "w": "soft",
     "m": "mềm",
     "cat": "adjective",
-    "p": "sˈɔft"
+    "p": "sˈɔft",
+    "pos": "Tính từ"
   },
   {
     "w": "loud",
     "m": "to (âm thanh), ồn ào",
     "cat": "adjective",
-    "p": "lˈaʊd"
+    "p": "lˈaʊd",
+    "pos": "Tính từ"
   },
   {
     "w": "quiet",
     "m": "yên tĩnh",
     "cat": "adjective",
-    "p": "kwˈaɪət"
+    "p": "kwˈaɪət",
+    "pos": "Tính từ"
   },
   {
     "w": "late",
     "m": "muộn, trễ",
     "cat": "adjective",
-    "p": "lˈeɪt"
+    "p": "lˈeɪt",
+    "pos": "Tính từ"
   },
   {
     "w": "early",
     "m": "sớm",
     "cat": "adjective",
-    "p": "ˈɜːli"
+    "p": "ˈɜːli",
+    "pos": "Tính từ"
   },
   {
     "w": "alone",
     "m": "một mình",
     "cat": "adjective",
-    "p": "ɐlˈoʊn"
+    "p": "ɐlˈoʊn",
+    "pos": "Tính từ"
   },
   {
     "w": "together",
     "m": "cùng nhau",
     "cat": "adjective",
-    "p": "təɡˈɛðɚ"
+    "p": "təɡˈɛðɚ",
+    "pos": "Phó từ"
   },
   {
     "w": "safe",
     "m": "an toàn",
     "cat": "adjective",
-    "p": "sˈeɪf"
+    "p": "sˈeɪf",
+    "pos": "Tính từ"
   },
   {
     "w": "dangerous",
     "m": "nguy hiểm",
     "cat": "adjective",
-    "p": "dˈeɪndʒɚɹəs"
+    "p": "dˈeɪndʒɚɹəs",
+    "pos": "Tính từ"
   },
   {
     "w": "phone number",
     "m": "số điện thoại",
     "cat": "basic",
-    "p": "fˈoʊn nˈʌmbɚ"
+    "p": "fˈoʊn nˈʌmbɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "address",
     "m": "địa chỉ, giải quyết, bài phát biểu, xử lý",
     "cat": "basic",
-    "p": "ɐdɹˈɛs"
+    "p": "ɐdɹˈɛs",
+    "pos": "Danh từ"
   },
   {
     "w": "age",
     "m": "tuổi",
     "cat": "basic",
-    "p": "ˈeɪdʒ"
+    "p": "ˈeɪdʒ",
+    "pos": "Danh từ"
   },
   {
     "w": "job",
     "m": "công việc",
     "cat": "basic",
-    "p": "dʒˈɑːb"
+    "p": "dʒˈɑːb",
+    "pos": "Danh từ"
   },
   {
     "w": "language",
     "m": "ngôn ngữ",
     "cat": "basic",
-    "p": "lˈæŋɡwɪdʒ"
+    "p": "lˈæŋɡwɪdʒ",
+    "pos": "Danh từ"
   },
   {
     "w": "question",
     "m": "câu hỏi",
     "cat": "basic",
-    "p": "kwˈɛstʃən"
+    "p": "kwˈɛstʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "answer",
     "m": "câu trả lời",
     "cat": "basic",
-    "p": "ˈænsɚ"
+    "p": "ˈænsɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "message",
     "m": "tin nhắn",
     "cat": "basic",
-    "p": "mˈɛsɪdʒ"
+    "p": "mˈɛsɪdʒ",
+    "pos": "Động từ"
   },
   {
     "w": "problem",
     "m": "vấn đề",
     "cat": "basic",
-    "p": "pɹˈɑːbləm"
+    "p": "pɹˈɑːbləm",
+    "pos": "Danh từ"
   },
   {
     "w": "idea",
     "m": "ý kiến, ý tưởng",
     "cat": "basic",
-    "p": "aɪdˈiə"
+    "p": "aɪdˈiə",
+    "pos": "Danh từ"
   },
   {
     "w": "place",
     "m": "nơi chốn",
     "cat": "basic",
-    "p": "plˈeɪs"
+    "p": "plˈeɪs",
+    "pos": "Danh từ"
   },
   {
     "w": "thing",
     "m": "đồ vật, thứ",
     "cat": "basic",
-    "p": "θˈɪŋ"
+    "p": "θˈɪŋ",
+    "pos": "Số từ"
   },
   {
     "w": "way",
     "m": "cách, con đường",
     "cat": "basic",
-    "p": "wˈeɪ"
+    "p": "wˈeɪ",
+    "pos": "Danh từ"
   },
   {
     "w": "part",
     "m": "phần",
     "cat": "basic",
-    "p": "pˈɑːɹt"
+    "p": "pˈɑːɹt",
+    "pos": "Số từ"
   },
   {
     "w": "world",
     "m": "thế giới",
     "cat": "basic",
-    "p": "wˈɜːld"
+    "p": "wˈɜːld",
+    "pos": "Danh từ"
   },
   {
     "w": "life",
     "m": "cuộc sống",
     "cat": "basic",
-    "p": "lˈaɪf"
+    "p": "lˈaɪf",
+    "pos": "Danh từ"
   },
   {
     "w": "school bag",
     "m": "cặp sách",
     "cat": "object",
-    "p": "skˈuːl bˈæɡ"
+    "p": "skˈuːl bˈæɡ",
+    "pos": "Danh từ"
   },
   {
     "w": "notebook",
     "m": "vở, sổ tay",
     "cat": "object",
-    "p": "nˈoʊtbʊk"
+    "p": "nˈoʊtbʊk",
+    "pos": "Danh từ"
   },
   {
     "w": "ruler",
     "m": "thước kẻ",
     "cat": "object",
-    "p": "ɹˈuːlɚ"
+    "p": "ɹˈuːlɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "pencil",
     "m": "bút chì",
     "cat": "object",
-    "p": "pˈɛnsəl"
+    "p": "pˈɛnsəl",
+    "pos": "Danh từ"
   },
   {
     "w": "eraser",
     "m": "cục tẩy",
     "cat": "object",
-    "p": "ᵻɹˈeɪsɚ"
+    "p": "ᵻɹˈeɪsɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "scissors",
     "m": "cái kéo",
     "cat": "object",
-    "p": "sˈɪsɚz"
+    "p": "sˈɪsɚz",
+    "pos": "Danh từ"
   },
   {
     "w": "clock",
     "m": "đồng hồ treo tường",
     "cat": "object",
-    "p": "klˈɑːk"
+    "p": "klˈɑːk",
+    "pos": "Danh từ"
   },
   {
     "w": "lamp",
     "m": "đèn",
     "cat": "object",
-    "p": "lˈæmp"
+    "p": "lˈæmp",
+    "pos": "Danh từ"
   },
   {
     "w": "mirror",
     "m": "gương",
     "cat": "object",
-    "p": "mˈɪɹɚ"
+    "p": "mˈɪɹɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "umbrella",
     "m": "ô, dù",
     "cat": "object",
-    "p": "ʌmbɹˈɛlə"
+    "p": "ʌmbɹˈɛlə",
+    "pos": "Danh từ"
   },
   {
     "w": "ticket",
     "m": "vé",
     "cat": "object",
-    "p": "tˈɪkɪt"
+    "p": "tˈɪkɪt",
+    "pos": "Danh từ"
   },
   {
     "w": "map",
     "m": "bản đồ",
     "cat": "object",
-    "p": "mˈæp"
+    "p": "mˈæp",
+    "pos": "Danh từ"
   },
   {
     "w": "picture",
     "m": "bức tranh, ảnh",
     "cat": "object",
-    "p": "pˈɪktʃɚ"
+    "p": "pˈɪktʃɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "gift",
     "m": "quà tặng",
     "cat": "object",
-    "p": "ɡˈɪft"
+    "p": "ɡˈɪft",
+    "pos": "Danh từ"
   },
   {
     "w": "toy",
     "m": "đồ chơi",
     "cat": "object",
-    "p": "tˈɔɪ"
+    "p": "tˈɔɪ",
+    "pos": "Danh từ"
   },
   {
     "w": "ball",
     "m": "quả bóng",
     "cat": "object",
-    "p": "bˈɔːl"
+    "p": "bˈɔːl",
+    "pos": "Danh từ"
   },
   {
     "w": "also",
     "m": "cũng",
     "cat": "function",
-    "p": "ˈɔːlsoʊ"
+    "p": "ˈɔːlsoʊ",
+    "pos": "Phó từ"
   },
   {
     "w": "too",
     "m": "cũng, quá",
     "cat": "function",
-    "p": "tˈuː"
+    "p": "tˈuː",
+    "pos": "Phó từ"
   },
   {
     "w": "again",
     "m": "lại",
     "cat": "function",
-    "p": "ɐɡˈɛn"
+    "p": "ɐɡˈɛn",
+    "pos": "Phó từ"
   },
   {
     "w": "never",
     "m": "không bao giờ",
     "cat": "function",
-    "p": "nˈɛvɚ"
+    "p": "nˈɛvɚ",
+    "pos": "Phó từ"
   },
   {
     "w": "always",
     "m": "luôn luôn",
     "cat": "function",
-    "p": "ˈɔːlweɪz"
+    "p": "ˈɔːlweɪz",
+    "pos": "Phó từ"
   },
   {
     "w": "sometimes",
     "m": "đôi khi",
     "cat": "function",
-    "p": "sˈʌmtaɪmz"
+    "p": "sˈʌmtaɪmz",
+    "pos": "Phó từ"
   },
   {
     "w": "often",
     "m": "thường xuyên",
     "cat": "function",
-    "p": "ˈɔfən"
+    "p": "ˈɔfən",
+    "pos": "Phó từ"
   },
   {
     "w": "every",
     "m": "mỗi",
     "cat": "function",
-    "p": "ˈɛvɹi"
+    "p": "ˈɛvɹi",
+    "pos": "Danh từ"
   },
   {
     "w": "all",
     "m": "tất cả",
     "cat": "function",
-    "p": "ˈɔːl"
+    "p": "ˈɔːl",
+    "pos": "Danh từ"
   },
   {
     "w": "both",
     "m": "cả hai",
     "cat": "function",
-    "p": "bˈoʊθ"
+    "p": "bˈoʊθ",
+    "pos": "Danh từ"
   },
   {
     "w": "about",
     "m": "về, khoảng",
     "cat": "function",
-    "p": "ɐbˈaʊt"
+    "p": "ɐbˈaʊt",
+    "pos": "Động từ"
   },
   {
     "w": "after",
     "m": "sau",
     "cat": "function",
-    "p": "ˈæftɚ"
+    "p": "ˈæftɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "before",
     "m": "trước",
     "cat": "function",
-    "p": "bᵻfˈɔːɹ"
+    "p": "bᵻfˈɔːɹ",
+    "pos": "Phó từ"
   },
   {
     "w": "between",
     "m": "giữa",
     "cat": "function",
-    "p": "bᵻtwˈiːn"
+    "p": "bᵻtwˈiːn",
+    "pos": "Danh từ"
   },
   {
     "w": "behind",
     "m": "phía sau",
     "cat": "function",
-    "p": "bᵻhˈaɪnd"
+    "p": "bᵻhˈaɪnd",
+    "pos": "Danh từ"
   },
   {
     "w": "near",
     "m": "gần",
     "cat": "function",
-    "p": "nˈɪɹ"
+    "p": "nˈɪɹ",
+    "pos": "Tính từ"
   },
   {
     "w": "far",
     "m": "xa",
     "cat": "function",
-    "p": "fˈɑːɹ"
+    "p": "fˈɑːɹ",
+    "pos": "Tính từ"
   },
   {
     "w": "under",
     "m": "dưới",
     "cat": "function",
-    "p": "ˈʌndɚ"
+    "p": "ˈʌndɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "above",
     "m": "phía trên",
     "cat": "function",
-    "p": "əbˈʌv"
+    "p": "əbˈʌv",
+    "pos": "Danh từ"
   },
   {
     "w": "next to",
     "m": "bên cạnh",
     "cat": "function",
-    "p": "nˈɛkst tuː"
+    "p": "nˈɛkst tuː",
+    "pos": "Danh từ"
   },
   {
     "w": "because",
     "m": "vì, bởi vì",
     "cat": "function",
-    "p": "bɪkˈʌz"
+    "p": "bɪkˈʌz",
+    "pos": "Liên từ"
   },
   {
     "w": "so",
     "m": "vì vậy",
     "cat": "function",
-    "p": "sˈoʊ"
+    "p": "sˈoʊ",
+    "pos": "Danh từ"
   },
   {
     "w": "if",
     "m": "nếu",
     "cat": "function",
-    "p": "ɪf"
+    "p": "ɪf",
+    "pos": "Danh từ"
   },
   {
     "w": "but",
     "m": "nhưng",
     "cat": "function",
-    "p": "bˌʌt"
+    "p": "bˌʌt",
+    "pos": "Danh từ"
   },
   {
     "w": "when",
     "m": "khi",
     "cat": "function",
-    "p": "wˌɛn"
+    "p": "wˌɛn",
+    "pos": "Danh từ"
   },
   {
     "w": "than",
     "m": "hơn",
     "cat": "function",
-    "p": "ðɐn"
+    "p": "ðɐn",
+    "pos": "Danh từ"
   },
   {
     "w": "like",
     "m": "thích, như, nhấn like",
     "cat": "function",
-    "p": "lˈaɪk"
+    "p": "lˈaɪk",
+    "pos": "Động từ"
   },
   {
     "w": "same",
     "m": "giống nhau",
     "cat": "adjective",
-    "p": "sˈeɪm"
+    "p": "sˈeɪm",
+    "pos": "Tính từ"
   },
   {
     "w": "different",
     "m": "khác nhau",
     "cat": "adjective",
-    "p": "dˈɪfɹənt"
+    "p": "dˈɪfɹənt",
+    "pos": "Tính từ"
   },
   {
     "w": "favorite",
     "m": "yêu thích nhất",
     "cat": "adjective",
-    "p": "fˈeɪvɚɹᵻt"
+    "p": "fˈeɪvɚɹᵻt",
+    "pos": "Tính từ"
   },
   {
     "w": "right",
     "m": "đúng, phải, quyền lợi",
     "cat": "adjective",
-    "p": "ɹˈaɪt"
+    "p": "ɹˈaɪt",
+    "pos": "Tính từ"
   },
   {
     "w": "left",
     "m": "bên trái",
     "cat": "adjective",
-    "p": "lˈɛft"
+    "p": "lˈɛft",
+    "pos": "Danh từ"
   },
   {
     "w": "front",
     "m": "phía trước",
     "cat": "adjective",
-    "p": "fɹˈʌnt"
+    "p": "fɹˈʌnt",
+    "pos": "Danh từ"
   },
   {
     "w": "back",
     "m": "lưng, phía sau",
     "cat": "adjective",
-    "p": "bˈæk"
+    "p": "bˈæk",
+    "pos": "Tính từ"
   },
   {
     "w": "middle",
     "m": "ở giữa",
     "cat": "adjective",
-    "p": "mˈɪdəl"
+    "p": "mˈɪdəl",
+    "pos": "Danh từ"
   },
   {
     "w": "outside",
     "m": "bên ngoài",
     "cat": "adjective",
-    "p": "aʊtsˈaɪd"
+    "p": "aʊtsˈaɪd",
+    "pos": "Danh từ"
   },
   {
     "w": "inside",
     "m": "bên trong",
     "cat": "adjective",
-    "p": "ɪnsˈaɪd"
+    "p": "ɪnsˈaɪd",
+    "pos": "Danh từ"
   },
   {
     "w": "hundred",
     "m": "trăm",
     "cat": "number",
-    "p": "hˈʌndɹɪd"
+    "p": "hˈʌndɹɪd",
+    "pos": "Số từ"
   },
   {
     "w": "first",
     "m": "thứ nhất, đầu tiên",
     "cat": "number",
-    "p": "fˈɜːst"
+    "p": "fˈɜːst",
+    "pos": "Số từ"
   },
   {
     "w": "last",
     "m": "cuối cùng, vừa rồi",
     "cat": "adjective",
-    "p": "lˈæst"
+    "p": "lˈæst",
+    "pos": "Tính từ"
   }
 ]

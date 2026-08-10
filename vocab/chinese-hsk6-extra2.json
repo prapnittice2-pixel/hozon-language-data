@@ -6,7 +6,8 @@
     "cat": "politics",
     "example": "我们要从全局考虑问题。",
     "example_vi": "Chúng ta phải xem xét vấn đề từ toàn cục.",
-    "me": "the overall situation, the big picture"
+    "me": "the overall situation, the big picture",
+    "pos": "Tính từ"
   },
   {
     "w": "践行",
@@ -15,7 +16,8 @@
     "cat": "verb",
     "example": "我们要践行绿色生活理念。",
     "example_vi": "Chúng ta phải thực hành lý niệm sống xanh.",
-    "me": "practice, implement in reality"
+    "me": "practice, implement in reality",
+    "pos": "Động từ"
   },
   {
     "w": "构筑",
@@ -24,7 +26,8 @@
     "cat": "verb",
     "example": "公司构筑了完整的产业链。",
     "example_vi": "Công ty đã xây dựng chuỗi ngành hoàn chỉnh.",
-    "me": "build, construct (a foundation)"
+    "me": "build, construct (a foundation)",
+    "pos": "Động từ"
   },
   {
     "w": "夯实",
@@ -33,20 +36,23 @@
     "cat": "verb",
     "example": "我们要夯实基础知识。",
     "example_vi": "Chúng ta phải củng cố vững chắc kiến thức cơ bản.",
-    "me": "solidify, lay the foundation"
+    "me": "solidify, lay the foundation",
+    "pos": "Động từ"
   },
   {
     "w": "彰显",
     "p": "zhāngxiǎn",
     "m": "thể hiện rõ ràng, làm nổi bật",
-    "cat": "verb"
+    "cat": "verb",
+    "pos": "Động từ"
   },
   {
     "w": "赋予",
     "p": "fùyǔ",
     "m": "ban cho, trao cho, giao cho",
     "cat": "verb",
-    "me": "grant, bestow, assign"
+    "me": "grant, bestow, assign",
+    "pos": "Động từ"
   },
   {
     "w": "引领",
@@ -55,7 +61,8 @@
     "cat": "verb",
     "example": "这家公司引领行业潮流。",
     "example_vi": "Công ty này dẫn dắt trào lưu của ngành.",
-    "me": "guide, direct, lead"
+    "me": "guide, direct, lead",
+    "pos": "Động từ"
   },
   {
     "w": "合力",
@@ -64,14 +71,16 @@
     "cat": "verb",
     "example": "大家合力完成了任务。",
     "example_vi": "Mọi người đã hợp sức hoàn thành nhiệm vụ.",
-    "me": "join forces, converge strength"
+    "me": "join forces, converge strength",
+    "pos": "Động từ"
   },
   {
     "w": "攻坚",
     "p": "gōngjiān",
     "m": "công phá khó khăn, giải quyết vấn đề cứng",
     "cat": "verb",
-    "me": "tackle difficulties, solve tough problems"
+    "me": "tackle difficulties, solve tough problems",
+    "pos": "Động từ"
   },
   {
     "w": "跨越",
@@ -80,14 +89,16 @@
     "cat": "verb",
     "example": "公司实现了跨越式发展。",
     "example_vi": "Công ty đã thực hiện sự phát triển vượt bậc.",
-    "me": "surpass, break through, exceed the threshold"
+    "me": "surpass, break through, exceed the threshold",
+    "pos": "Động từ"
   },
   {
     "w": "腾飞",
     "p": "téngfēi",
     "m": "cất cánh, vươn lên mạnh mẽ, bay vọt",
     "cat": "verb",
-    "me": "take off, soar powerfully"
+    "me": "take off, soar powerfully",
+    "pos": "Động từ"
   },
   {
     "w": "振兴",
@@ -96,7 +107,8 @@
     "cat": "verb",
     "example": "政府推动乡村振兴。",
     "example_vi": "Chính phủ thúc đẩy chấn hưng nông thôn.",
-    "me": "revive, rejuvenate, restore"
+    "me": "revive, rejuvenate, restore",
+    "pos": "Động từ"
   },
   {
     "w": "坚定",
@@ -105,7 +117,8 @@
     "cat": "adjective",
     "example": "他坚定地支持这个决定。",
     "example_vi": "Anh ấy kiên định ủng hộ quyết định này.",
-    "me": "steadfast, solid, determined"
+    "me": "steadfast, solid, determined",
+    "pos": "Tính từ"
   },
   {
     "w": "瞻前顾后",
@@ -114,7 +127,8 @@
     "cat": "idiom",
     "example": "做事不要瞻前顾后。",
     "example_vi": "Làm việc đừng nên do dự lưỡng lự.",
-    "me": "hesitate, deliberate carefully back and forth"
+    "me": "hesitate, deliberate carefully back and forth",
+    "pos": "Danh từ"
   },
   {
     "w": "齐心协力",
@@ -123,7 +137,8 @@
     "cat": "idiom",
     "example": "大家齐心协力完成了项目。",
     "example_vi": "Mọi người đã đồng tâm hiệp lực hoàn thành dự án.",
-    "me": "unite in heart and effort, strive together"
+    "me": "unite in heart and effort, strive together",
+    "pos": "Danh từ"
   },
   {
     "w": "稳步推进",
@@ -132,14 +147,16 @@
     "cat": "politics",
     "example": "项目正在稳步推进。",
     "example_vi": "Dự án đang được thúc đẩy từng bước ổn định.",
-    "me": "advance steadily step by step"
+    "me": "advance steadily step by step",
+    "pos": "Động từ"
   },
   {
     "w": "高质量发展",
     "p": "gāo zhìliàng fāzhǎn",
     "m": "phát triển chất lượng cao",
     "cat": "politics",
-    "me": "high-quality development"
+    "me": "high-quality development",
+    "pos": "Động từ"
   },
   {
     "w": "创新驱动",
@@ -148,13 +165,15 @@
     "cat": "politics",
     "example": "公司实施创新驱动战略。",
     "example_vi": "Công ty thực hiện chiến lược thúc đẩy bằng đổi mới sáng tạo.",
-    "me": "promote innovation"
+    "me": "promote innovation",
+    "pos": "Danh từ"
   },
   {
     "w": "科技引领",
     "p": "kējì yǐnlǐng",
     "m": "dẫn dắt bằng khoa học công nghệ",
     "cat": "tech",
-    "me": "to be driven by science and technology"
+    "me": "to be driven by science and technology",
+    "pos": "Động từ"
   }
 ]

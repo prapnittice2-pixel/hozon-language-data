@@ -3,1866 +3,2177 @@
     "w": "sparrow",
     "m": "chim sẻ",
     "cat": "thiên nhiên",
-    "p": "spˈæɹoʊ"
+    "p": "spˈæɹoʊ",
+    "pos": "Danh từ"
   },
   {
     "w": "pigeon",
     "m": "bồ câu",
     "cat": "thiên nhiên",
-    "p": "pˈɪdʒən"
+    "p": "pˈɪdʒən",
+    "pos": "Danh từ"
   },
   {
     "w": "crow",
     "m": "quạ",
     "cat": "thiên nhiên",
-    "p": "kɹˈoʊ"
+    "p": "kɹˈoʊ",
+    "pos": "Danh từ"
   },
   {
     "w": "magpie",
     "m": "chim ác là",
     "cat": "thiên nhiên",
-    "p": "mˈæɡpaɪ"
+    "p": "mˈæɡpaɪ",
+    "pos": "Danh từ"
   },
   {
     "w": "robin",
     "m": "chim cổ đỏ",
     "cat": "thiên nhiên",
-    "p": "ɹˈɑːbɪn"
+    "p": "ɹˈɑːbɪn",
+    "pos": "Danh từ"
   },
   {
     "w": "swallow",
     "m": "chim én, nuốt",
     "cat": "thiên nhiên",
-    "p": "swˈɔloʊ"
+    "p": "swˈɔloʊ",
+    "pos": "Động từ"
   },
   {
     "w": "woodpecker",
     "m": "chim gõ kiến",
     "cat": "thiên nhiên",
-    "p": "wˈʊdpɛkɚ"
+    "p": "wˈʊdpɛkɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "hummingbird",
     "m": "chim ruồi",
     "cat": "thiên nhiên",
-    "p": "hˈʌmɪŋbˌɜːd"
+    "p": "hˈʌmɪŋbˌɜːd",
+    "pos": "Danh từ"
   },
   {
     "w": "flamingo",
     "m": "hồng hạc",
     "cat": "thiên nhiên",
-    "p": "flɐmˈɪŋɡoʊ"
+    "p": "flɐmˈɪŋɡoʊ",
+    "pos": "Danh từ"
   },
   {
     "w": "pelican",
     "m": "bồ nông",
     "cat": "thiên nhiên",
-    "p": "pˈɛlɪkən"
+    "p": "pˈɛlɪkən",
+    "pos": "Danh từ"
   },
   {
     "w": "seagull",
     "m": "hải âu",
     "cat": "thiên nhiên",
-    "p": "sˈiːɡʌl"
+    "p": "sˈiːɡʌl",
+    "pos": "Danh từ"
   },
   {
     "w": "falcon",
     "m": "chim cắt",
     "cat": "thiên nhiên",
-    "p": "fˈælkən"
+    "p": "fˈælkən",
+    "pos": "Danh từ"
   },
   {
     "w": "vulture",
     "m": "kền kền",
     "cat": "thiên nhiên",
-    "p": "vˈʌltʃɚ"
+    "p": "vˈʌltʃɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "crane",
     "m": "con sếu",
     "cat": "thiên nhiên",
-    "p": "kɹˈeɪn"
+    "p": "kɹˈeɪn",
+    "pos": "Danh từ"
   },
   {
     "w": "stork",
     "m": "con cò",
     "cat": "thiên nhiên",
-    "p": "stˈɔːɹk"
+    "p": "stˈɔːɹk",
+    "pos": "Danh từ"
   },
   {
     "w": "ostrich",
     "m": "đà điểu",
     "cat": "thiên nhiên",
-    "p": "ˈɑːstɹɪtʃ"
+    "p": "ˈɑːstɹɪtʃ",
+    "pos": "Danh từ"
   },
   {
     "w": "peacock",
     "m": "con công",
     "cat": "thiên nhiên",
-    "p": "pˈiːkɑːk"
+    "p": "pˈiːkɑːk",
+    "pos": "Danh từ"
   },
   {
     "w": "parrot",
     "m": "con vẹt",
     "cat": "thiên nhiên",
-    "p": "pˈæɹət"
+    "p": "pˈæɹət",
+    "pos": "Danh từ"
   },
   {
     "w": "canary",
     "m": "chim hoàng yến",
     "cat": "thiên nhiên",
-    "p": "kənˈɛɹi"
+    "p": "kənˈɛɹi",
+    "pos": "Danh từ"
   },
   {
     "w": "nightingale",
     "m": "chim họa mi",
     "cat": "thiên nhiên",
-    "p": "nˈaɪɾɪŋɡˌeɪl"
+    "p": "nˈaɪɾɪŋɡˌeɪl",
+    "pos": "Danh từ"
   },
   {
     "w": "hedgehog",
     "m": "con nhím",
     "cat": "thiên nhiên",
-    "p": "hˈɛdʒhɑːɡ"
+    "p": "hˈɛdʒhɑːɡ",
+    "pos": "Danh từ"
   },
   {
     "w": "squirrel",
     "m": "con sóc",
     "cat": "thiên nhiên",
-    "p": "skwˈɜːl"
+    "p": "skwˈɜːl",
+    "pos": "Danh từ"
   },
   {
     "w": "otter",
     "m": "con rái cá",
     "cat": "thiên nhiên",
-    "p": "ˈɑːɾɚ"
+    "p": "ˈɑːɾɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "beaver",
     "m": "hải ly",
     "cat": "thiên nhiên",
-    "p": "bˈiːvɚ"
+    "p": "bˈiːvɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "raccoon",
     "m": "gấu mèo",
     "cat": "thiên nhiên",
-    "p": "ɹækˈuːn"
+    "p": "ɹækˈuːn",
+    "pos": "Danh từ"
   },
   {
     "w": "badger",
     "m": "con lửng",
     "cat": "thiên nhiên",
-    "p": "bˈædʒɚ"
+    "p": "bˈædʒɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "mole",
     "m": "con chuột chũi",
     "cat": "thiên nhiên",
-    "p": "mˈoʊl"
+    "p": "mˈoʊl",
+    "pos": "Danh từ"
   },
   {
     "w": "hare",
     "m": "thỏ rừng",
     "cat": "thiên nhiên",
-    "p": "hˈɛɹ"
+    "p": "hˈɛɹ",
+    "pos": "Danh từ"
   },
   {
     "w": "weasel",
     "m": "con chồn",
     "cat": "thiên nhiên",
-    "p": "wˈiːzəl"
+    "p": "wˈiːzəl",
+    "pos": "Danh từ"
   },
   {
     "w": "ferret",
     "m": "chồn sương",
     "cat": "thiên nhiên",
-    "p": "fˈɛɹɪt"
+    "p": "fˈɛɹɪt",
+    "pos": "Danh từ"
   },
   {
     "w": "antelope",
     "m": "linh dương",
     "cat": "thiên nhiên",
-    "p": "ˈæntɪlˌoʊp"
+    "p": "ˈæntɪlˌoʊp",
+    "pos": "Danh từ"
   },
   {
     "w": "buffalo",
     "m": "trâu rừng",
     "cat": "thiên nhiên",
-    "p": "bˈʌfəlˌoʊ"
+    "p": "bˈʌfəlˌoʊ",
+    "pos": "Danh từ"
   },
   {
     "w": "bison",
     "m": "bò rừng bizon",
     "cat": "thiên nhiên",
-    "p": "bˈaɪsən"
+    "p": "bˈaɪsən",
+    "pos": "Động từ"
   },
   {
     "w": "moose",
     "m": "nai sừng tấm",
     "cat": "thiên nhiên",
-    "p": "mˈuːs"
+    "p": "mˈuːs",
+    "pos": "Danh từ"
   },
   {
     "w": "reindeer",
     "m": "tuần lộc",
     "cat": "thiên nhiên",
-    "p": "ɹˈeɪndɪɹ"
+    "p": "ɹˈeɪndɪɹ",
+    "pos": "Danh từ"
   },
   {
     "w": "leopard",
     "m": "báo đốm",
     "cat": "thiên nhiên",
-    "p": "lˈɛpɚd"
+    "p": "lˈɛpɚd",
+    "pos": "Danh từ"
   },
   {
     "w": "cheetah",
     "m": "báo gêpa",
     "cat": "thiên nhiên",
-    "p": "tʃˈiːɾə"
+    "p": "tʃˈiːɾə",
+    "pos": "Danh từ"
   },
   {
     "w": "panther",
     "m": "báo đen",
     "cat": "thiên nhiên",
-    "p": "pˈænθɚ"
+    "p": "pˈænθɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "jaguar",
     "m": "báo đốm Mỹ",
     "cat": "thiên nhiên",
-    "p": "dʒˈæɡwɑːɹ"
+    "p": "dʒˈæɡwɑːɹ",
+    "pos": "Danh từ"
   },
   {
     "w": "hyena",
     "m": "linh cẩu",
     "cat": "thiên nhiên",
-    "p": "haɪˈiːnə"
+    "p": "haɪˈiːnə",
+    "pos": "Danh từ"
   },
   {
     "w": "chimpanzee",
     "m": "tinh tinh",
     "cat": "thiên nhiên",
-    "p": "tʃˌɪmpɐnzˈiː"
+    "p": "tʃˌɪmpɐnzˈiː",
+    "pos": "Danh từ"
   },
   {
     "w": "gorilla",
     "m": "khỉ đột",
     "cat": "thiên nhiên",
-    "p": "ɡɚɹˈɪlə"
+    "p": "ɡɚɹˈɪlə",
+    "pos": "Danh từ"
   },
   {
     "w": "orangutan",
     "m": "đười ươi",
     "cat": "thiên nhiên",
-    "p": "ɔɹˈæŋɡətˌæn"
+    "p": "ɔɹˈæŋɡətˌæn",
+    "pos": "Danh từ"
   },
   {
     "w": "baboon",
     "m": "khỉ đầu chó",
     "cat": "thiên nhiên",
-    "p": "bæbˈuːn"
+    "p": "bæbˈuːn",
+    "pos": "Danh từ"
   },
   {
     "w": "lemur",
     "m": "vượn cáo",
     "cat": "thiên nhiên",
-    "p": "lˈiːmɚ"
+    "p": "lˈiːmɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "sloth",
     "m": "con lười",
     "cat": "thiên nhiên",
-    "p": "slˈɑːθ"
+    "p": "slˈɑːθ",
+    "pos": "Danh từ"
   },
   {
     "w": "armadillo",
     "m": "con tatu",
     "cat": "thiên nhiên",
-    "p": "ˌɑːɹmɐdˈɪloʊ"
+    "p": "ˌɑːɹmɐdˈɪloʊ",
+    "pos": "Danh từ"
   },
   {
     "w": "porcupine",
     "m": "con nhím lông",
     "cat": "thiên nhiên",
-    "p": "pˈɔːɹkjuːpˌaɪn"
+    "p": "pˈɔːɹkjuːpˌaɪn",
+    "pos": "Danh từ"
   },
   {
     "w": "platypus",
     "m": "thú mỏ vịt",
     "cat": "thiên nhiên",
-    "p": "plˈæɾɪpəs"
+    "p": "plˈæɾɪpəs",
+    "pos": "Danh từ"
   },
   {
     "w": "crocodile",
     "m": "cá sấu",
     "cat": "thiên nhiên",
-    "p": "kɹˈɑːkədˌaɪl"
+    "p": "kɹˈɑːkədˌaɪl",
+    "pos": "Danh từ"
   },
   {
     "w": "alligator",
     "m": "cá sấu Mỹ",
     "cat": "thiên nhiên",
-    "p": "ˈælᵻɡˌeɪɾɚ"
+    "p": "ˈælᵻɡˌeɪɾɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "lizard",
     "m": "thằn lằn",
     "cat": "thiên nhiên",
-    "p": "lˈɪzɚd"
+    "p": "lˈɪzɚd",
+    "pos": "Danh từ"
   },
   {
     "w": "chameleon",
     "m": "tắc kè hoa",
     "cat": "thiên nhiên",
-    "p": "kəmˈiːliən"
+    "p": "kəmˈiːliən",
+    "pos": "Danh từ"
   },
   {
     "w": "iguana",
     "m": "kỳ nhông",
     "cat": "thiên nhiên",
-    "p": "ˌɪɡjuːˈɑːnə"
+    "p": "ˌɪɡjuːˈɑːnə",
+    "pos": "Danh từ"
   },
   {
     "w": "gecko",
     "m": "tắc kè",
     "cat": "thiên nhiên",
-    "p": "ɡˈɛkoʊ"
+    "p": "ɡˈɛkoʊ",
+    "pos": "Danh từ"
   },
   {
     "w": "cobra",
     "m": "rắn hổ mang",
     "cat": "thiên nhiên",
-    "p": "kˈoʊbɹə"
+    "p": "kˈoʊbɹə",
+    "pos": "Danh từ"
   },
   {
     "w": "python",
     "m": "trăn",
     "cat": "thiên nhiên",
-    "p": "pˈaɪθən"
+    "p": "pˈaɪθən",
+    "pos": "Danh từ"
   },
   {
     "w": "viper",
     "m": "rắn lục",
     "cat": "thiên nhiên",
-    "p": "vˈaɪpɚ"
+    "p": "vˈaɪpɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "toad",
     "m": "con cóc",
     "cat": "thiên nhiên",
-    "p": "tˈoʊd"
+    "p": "tˈoʊd",
+    "pos": "Danh từ"
   },
   {
     "w": "newt",
     "m": "sa giông",
     "cat": "thiên nhiên",
-    "p": "nˈuːt"
+    "p": "nˈuːt",
+    "pos": "Danh từ"
   },
   {
     "w": "salamander",
     "m": "kỳ giông",
     "cat": "thiên nhiên",
-    "p": "sˈælɐmˌændɚ"
+    "p": "sˈælɐmˌændɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "tadpole",
     "m": "nòng nọc",
     "cat": "thiên nhiên",
-    "p": "tˈædpoʊl"
+    "p": "tˈædpoʊl",
+    "pos": "Danh từ"
   },
   {
     "w": "jellyfish",
     "m": "con sứa",
     "cat": "thiên nhiên",
-    "p": "dʒˈɛlɪfɪʃ"
+    "p": "dʒˈɛlɪfɪʃ",
+    "pos": "Danh từ"
   },
   {
     "w": "starfish",
     "m": "sao biển",
     "cat": "thiên nhiên",
-    "p": "stˈɑːɹfɪʃ"
+    "p": "stˈɑːɹfɪʃ",
+    "pos": "Danh từ"
   },
   {
     "w": "seahorse",
     "m": "cá ngựa",
     "cat": "thiên nhiên",
-    "p": "sˈiːhɔːɹs"
+    "p": "sˈiːhɔːɹs",
+    "pos": "Danh từ"
   },
   {
     "w": "octopus",
     "m": "bạch tuộc",
     "cat": "thiên nhiên",
-    "p": "ˈɑːktəpəs"
+    "p": "ˈɑːktəpəs",
+    "pos": "Danh từ"
   },
   {
     "w": "jellyfish",
     "m": "con sứa biển",
     "cat": "thiên nhiên",
-    "p": "dʒˈɛlɪfɪʃ"
+    "p": "dʒˈɛlɪfɪʃ",
+    "pos": "Danh từ"
   },
   {
     "w": "snail",
     "m": "ốc sên",
     "cat": "thiên nhiên",
-    "p": "snˈeɪl"
+    "p": "snˈeɪl",
+    "pos": "Danh từ"
   },
   {
     "w": "slug",
     "m": "sên trần",
     "cat": "thiên nhiên",
-    "p": "slˈʌɡ"
+    "p": "slˈʌɡ",
+    "pos": "Danh từ"
   },
   {
     "w": "earthworm",
     "m": "giun đất",
     "cat": "thiên nhiên",
-    "p": "ˈɜːθwɜːm"
+    "p": "ˈɜːθwɜːm",
+    "pos": "Danh từ"
   },
   {
     "w": "caterpillar",
     "m": "sâu bướm",
     "cat": "thiên nhiên",
-    "p": "kˈæɾɚpˌɪlɚ"
+    "p": "kˈæɾɚpˌɪlɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "grasshopper",
     "m": "châu chấu",
     "cat": "thiên nhiên",
-    "p": "ɡɹˈæshɑːpɚ"
+    "p": "ɡɹˈæshɑːpɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "cricket",
     "m": "con dế, môn cricket",
     "cat": "thiên nhiên",
-    "p": "kɹˈɪkɪt"
+    "p": "kɹˈɪkɪt",
+    "pos": "Danh từ"
   },
   {
     "w": "beetle",
     "m": "bọ cánh cứng",
     "cat": "thiên nhiên",
-    "p": "bˈiːɾəl"
+    "p": "bˈiːɾəl",
+    "pos": "Danh từ"
   },
   {
     "w": "ladybird",
     "m": "bọ rùa",
     "cat": "thiên nhiên",
-    "p": "lˈeɪdɪbˌɜːd"
+    "p": "lˈeɪdɪbˌɜːd",
+    "pos": "Danh từ"
   },
   {
     "w": "dragonfly",
     "m": "chuồn chuồn",
     "cat": "thiên nhiên",
-    "p": "dɹˈæɡənflˌaɪ"
+    "p": "dɹˈæɡənflˌaɪ",
+    "pos": "Danh từ"
   },
   {
     "w": "butterfly",
     "m": "bươm bướm",
     "cat": "thiên nhiên",
-    "p": "bˈʌɾɚflˌaɪ"
+    "p": "bˈʌɾɚflˌaɪ",
+    "pos": "Danh từ"
   },
   {
     "w": "moth",
     "m": "con ngài",
     "cat": "thiên nhiên",
-    "p": "mˈɑːθ"
+    "p": "mˈɑːθ",
+    "pos": "Danh từ"
   },
   {
     "w": "wasp",
     "m": "ong bắp cày",
     "cat": "thiên nhiên",
-    "p": "wˈɑːsp"
+    "p": "wˈɑːsp",
+    "pos": "Danh từ"
   },
   {
     "w": "hornet",
     "m": "ong vò vẽ",
     "cat": "thiên nhiên",
-    "p": "hˈɔːɹnɪt"
+    "p": "hˈɔːɹnɪt",
+    "pos": "Danh từ"
   },
   {
     "w": "beetle",
     "m": "con bọ cánh cứng",
     "cat": "thiên nhiên",
-    "p": "bˈiːɾəl"
+    "p": "bˈiːɾəl",
+    "pos": "Danh từ"
   },
   {
     "w": "flea",
     "m": "con bọ chét",
     "cat": "thiên nhiên",
-    "p": "flˈiː"
+    "p": "flˈiː",
+    "pos": "Danh từ"
   },
   {
     "w": "tick",
     "m": "con ve",
     "cat": "thiên nhiên",
-    "p": "tˈɪk"
+    "p": "tˈɪk",
+    "pos": "Danh từ"
   },
   {
     "w": "louse",
     "m": "con chấy",
     "cat": "thiên nhiên",
-    "p": "lˈaʊs"
+    "p": "lˈaʊs",
+    "pos": "Danh từ"
   },
   {
     "w": "centipede",
     "m": "con rết",
     "cat": "thiên nhiên",
-    "p": "sˈɛntɪpˌiːd"
+    "p": "sˈɛntɪpˌiːd",
+    "pos": "Danh từ"
   },
   {
     "w": "scorpion",
     "m": "bọ cạp",
     "cat": "thiên nhiên",
-    "p": "skˈɔːɹpiən"
+    "p": "skˈɔːɹpiən",
+    "pos": "Danh từ"
   },
   {
     "w": "oak",
     "m": "cây sồi",
     "cat": "thiên nhiên",
-    "p": "ˈoʊk"
+    "p": "ˈoʊk",
+    "pos": "Danh từ"
   },
   {
     "w": "pine",
     "m": "cây thông",
     "cat": "thiên nhiên",
-    "p": "pˈaɪn"
+    "p": "pˈaɪn",
+    "pos": "Danh từ"
   },
   {
     "w": "maple",
     "m": "cây phong",
     "cat": "thiên nhiên",
-    "p": "mˈeɪpəl"
+    "p": "mˈeɪpəl",
+    "pos": "Danh từ"
   },
   {
     "w": "birch",
     "m": "cây bạch dương",
     "cat": "thiên nhiên",
-    "p": "bˈɜːtʃ"
+    "p": "bˈɜːtʃ",
+    "pos": "Danh từ"
   },
   {
     "w": "willow",
     "m": "cây liễu",
     "cat": "thiên nhiên",
-    "p": "wˈɪloʊ"
+    "p": "wˈɪloʊ",
+    "pos": "Danh từ"
   },
   {
     "w": "poplar",
     "m": "cây dương",
     "cat": "thiên nhiên",
-    "p": "pˈɑːplɚ"
+    "p": "pˈɑːplɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "cedar",
     "m": "cây tuyết tùng",
     "cat": "thiên nhiên",
-    "p": "sˈiːdɚ"
+    "p": "sˈiːdɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "cypress",
     "m": "cây bách",
     "cat": "thiên nhiên",
-    "p": "sˈaɪpɹəs"
+    "p": "sˈaɪpɹəs",
+    "pos": "Danh từ"
   },
   {
     "w": "sycamore",
     "m": "cây sung dâu",
     "cat": "thiên nhiên",
-    "p": "sˈɪkɐmˌɔːɹ"
+    "p": "sˈɪkɐmˌɔːɹ",
+    "pos": "Danh từ"
   },
   {
     "w": "chestnut tree",
     "m": "cây hạt dẻ",
     "cat": "thiên nhiên",
-    "p": "tʃˈɛstnʌt tɹˈiː"
+    "p": "tʃˈɛstnʌt tɹˈiː",
+    "pos": "Danh từ"
   },
   {
     "w": "palm tree",
     "m": "cây cọ",
     "cat": "thiên nhiên",
-    "p": "pˈɑːm tɹˈiː"
+    "p": "pˈɑːm tɹˈiː",
+    "pos": "Danh từ"
   },
   {
     "w": "fern",
     "m": "cây dương xỉ",
     "cat": "thiên nhiên",
-    "p": "fˈɜːn"
+    "p": "fˈɜːn",
+    "pos": "Danh từ"
   },
   {
     "w": "moss",
     "m": "rêu",
     "cat": "thiên nhiên",
-    "p": "mˈɔs"
+    "p": "mˈɔs",
+    "pos": "Danh từ"
   },
   {
     "w": "ivy",
     "m": "cây thường xuân",
     "cat": "thiên nhiên",
-    "p": "ˈaɪvi"
+    "p": "ˈaɪvi",
+    "pos": "Danh từ"
   },
   {
     "w": "vine",
     "m": "cây leo, dây nho",
     "cat": "thiên nhiên",
-    "p": "vˈaɪn"
+    "p": "vˈaɪn",
+    "pos": "Danh từ"
   },
   {
     "w": "shrub",
     "m": "cây bụi",
     "cat": "thiên nhiên",
-    "p": "ʃɹˈʌb"
+    "p": "ʃɹˈʌb",
+    "pos": "Danh từ"
   },
   {
     "w": "hedge",
     "m": "hàng rào cây, phòng ngừa rủi ro",
     "cat": "thiên nhiên",
-    "p": "hˈɛdʒ"
+    "p": "hˈɛdʒ",
+    "pos": "Danh từ"
   },
   {
     "w": "thorn",
     "m": "gai",
     "cat": "thiên nhiên",
-    "p": "θˈɔːɹn"
+    "p": "θˈɔːɹn",
+    "pos": "Danh từ"
   },
   {
     "w": "twig",
     "m": "cành con",
     "cat": "thiên nhiên",
-    "p": "twˈɪɡ"
+    "p": "twˈɪɡ",
+    "pos": "Danh từ"
   },
   {
     "w": "trunk",
     "m": "thân cây",
     "cat": "thiên nhiên",
-    "p": "tɹˈʌŋk"
+    "p": "tɹˈʌŋk",
+    "pos": "Danh từ"
   },
   {
     "w": "bark",
     "m": "vỏ cây",
     "cat": "thiên nhiên",
-    "p": "bˈɑːɹk"
+    "p": "bˈɑːɹk",
+    "pos": "Danh từ"
   },
   {
     "w": "blossom",
     "m": "hoa nở (cây ăn quả)",
     "cat": "thiên nhiên",
-    "p": "blˈɔsəm"
+    "p": "blˈɔsəm",
+    "pos": "Danh từ"
   },
   {
     "w": "petal",
     "m": "cánh hoa",
     "cat": "thiên nhiên",
-    "p": "pˈɛɾəl"
+    "p": "pˈɛɾəl",
+    "pos": "Danh từ"
   },
   {
     "w": "pollen",
     "m": "phấn hoa",
     "cat": "thiên nhiên",
-    "p": "pˈɑːlən"
+    "p": "pˈɑːlən",
+    "pos": "Danh từ"
   },
   {
     "w": "nectar",
     "m": "mật hoa",
     "cat": "thiên nhiên",
-    "p": "nˈɛktɚ"
+    "p": "nˈɛktɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "daisy",
     "m": "hoa cúc trắng",
     "cat": "thiên nhiên",
-    "p": "dˈeɪzi"
+    "p": "dˈeɪzi",
+    "pos": "Danh từ"
   },
   {
     "w": "tulip",
     "m": "hoa tulip",
     "cat": "thiên nhiên",
-    "p": "tjˈuːlɪp"
+    "p": "tjˈuːlɪp",
+    "pos": "Danh từ"
   },
   {
     "w": "daffodil",
     "m": "hoa thủy tiên vàng",
     "cat": "thiên nhiên",
-    "p": "dˈæfədˌɪl"
+    "p": "dˈæfədˌɪl",
+    "pos": "Danh từ"
   },
   {
     "w": "lily",
     "m": "hoa loa kèn",
     "cat": "thiên nhiên",
-    "p": "lˈɪli"
+    "p": "lˈɪli",
+    "pos": "Danh từ"
   },
   {
     "w": "orchid",
     "m": "hoa lan",
     "cat": "thiên nhiên",
-    "p": "ˈɔːɹkɪd"
+    "p": "ˈɔːɹkɪd",
+    "pos": "Danh từ"
   },
   {
     "w": "sunflower",
     "m": "hoa hướng dương",
     "cat": "thiên nhiên",
-    "p": "sˈʌnflaʊɚ"
+    "p": "sˈʌnflaʊɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "poppy",
     "m": "hoa anh túc",
     "cat": "thiên nhiên",
-    "p": "pˈɑːpi"
+    "p": "pˈɑːpi",
+    "pos": "Danh từ"
   },
   {
     "w": "violet",
     "m": "hoa violet",
     "cat": "thiên nhiên",
-    "p": "vˈaɪəlɪt"
+    "p": "vˈaɪəlɪt",
+    "pos": "Danh từ"
   },
   {
     "w": "jasmine",
     "m": "hoa nhài",
     "cat": "thiên nhiên",
-    "p": "dʒˈæzmɪn"
+    "p": "dʒˈæzmɪn",
+    "pos": "Danh từ"
   },
   {
     "w": "lavender",
     "m": "hoa oải hương",
     "cat": "thiên nhiên",
-    "p": "lˈævəndɚ"
+    "p": "lˈævəndɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "dandelion",
     "m": "hoa bồ công anh",
     "cat": "thiên nhiên",
-    "p": "dˈændᵻlˌaɪən"
+    "p": "dˈændᵻlˌaɪən",
+    "pos": "Danh từ"
   },
   {
     "w": "clover",
     "m": "cỏ ba lá",
     "cat": "thiên nhiên",
-    "p": "klˈoʊvɚ"
+    "p": "klˈoʊvɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "reed",
     "m": "cây sậy",
     "cat": "thiên nhiên",
-    "p": "ɹˈiːd"
+    "p": "ɹˈiːd",
+    "pos": "Danh từ"
   },
   {
     "w": "bamboo",
     "m": "cây tre",
     "cat": "thiên nhiên",
-    "p": "bæmbˈuː"
+    "p": "bæmbˈuː",
+    "pos": "Danh từ"
   },
   {
     "w": "cactus",
     "m": "cây xương rồng",
     "cat": "thiên nhiên",
-    "p": "kˈæktəs"
+    "p": "kˈæktəs",
+    "pos": "Danh từ"
   },
   {
     "w": "forehead",
     "m": "trán",
     "cat": "sức khỏe",
-    "p": "fˈɔːɹhɛd"
+    "p": "fˈɔːɹhɛd",
+    "pos": "Danh từ"
   },
   {
     "w": "eyebrow",
     "m": "lông mày",
     "cat": "sức khỏe",
-    "p": "ˈaɪbɹaʊ"
+    "p": "ˈaɪbɹaʊ",
+    "pos": "Danh từ"
   },
   {
     "w": "eyelash",
     "m": "lông mi",
     "cat": "sức khỏe",
-    "p": "ˈaɪlæʃ"
+    "p": "ˈaɪlæʃ",
+    "pos": "Danh từ"
   },
   {
     "w": "eyelid",
     "m": "mí mắt",
     "cat": "sức khỏe",
-    "p": "ˈaɪlɪd"
+    "p": "ˈaɪlɪd",
+    "pos": "Danh từ"
   },
   {
     "w": "cheek",
     "m": "má",
     "cat": "sức khỏe",
-    "p": "tʃˈiːk"
+    "p": "tʃˈiːk",
+    "pos": "Danh từ"
   },
   {
     "w": "chin",
     "m": "cằm",
     "cat": "sức khỏe",
-    "p": "tʃˈɪn"
+    "p": "tʃˈɪn",
+    "pos": "Danh từ"
   },
   {
     "w": "jaw",
     "m": "hàm",
     "cat": "sức khỏe",
-    "p": "dʒˈɔː"
+    "p": "dʒˈɔː",
+    "pos": "Danh từ"
   },
   {
     "w": "nostril",
     "m": "lỗ mũi",
     "cat": "sức khỏe",
-    "p": "nˈɑːstɹəl"
+    "p": "nˈɑːstɹəl",
+    "pos": "Danh từ"
   },
   {
     "w": "gum",
     "m": "lợi, nướu",
     "cat": "sức khỏe",
-    "p": "ɡˈʌm"
+    "p": "ɡˈʌm",
+    "pos": "Danh từ"
   },
   {
     "w": "throat",
     "m": "cổ họng",
     "cat": "sức khỏe",
-    "p": "θɹˈoʊt"
+    "p": "θɹˈoʊt",
+    "pos": "Danh từ"
   },
   {
     "w": "collarbone",
     "m": "xương đòn",
     "cat": "sức khỏe",
-    "p": "kˈɑːlɚbˌoʊn"
+    "p": "kˈɑːlɚbˌoʊn",
+    "pos": "Danh từ"
   },
   {
     "w": "spine",
     "m": "cột sống",
     "cat": "sức khỏe",
-    "p": "spˈaɪn"
+    "p": "spˈaɪn",
+    "pos": "Động từ"
   },
   {
     "w": "rib",
     "m": "xương sườn",
     "cat": "sức khỏe",
-    "p": "ɹˈɪb"
+    "p": "ɹˈɪb",
+    "pos": "Danh từ"
   },
   {
     "w": "hip",
     "m": "hông",
     "cat": "sức khỏe",
-    "p": "hˈɪp"
+    "p": "hˈɪp",
+    "pos": "Danh từ"
   },
   {
     "w": "thigh",
     "m": "đùi",
     "cat": "sức khỏe",
-    "p": "θˈaɪ"
+    "p": "θˈaɪ",
+    "pos": "Danh từ"
   },
   {
     "w": "calf",
     "m": "bắp chân",
     "cat": "sức khỏe",
-    "p": "kˈæf"
+    "p": "kˈæf",
+    "pos": "Danh từ"
   },
   {
     "w": "ankle",
     "m": "mắt cá chân",
     "cat": "sức khỏe",
-    "p": "ˈæŋkəl"
+    "p": "ˈæŋkəl",
+    "pos": "Danh từ"
   },
   {
     "w": "heel",
     "m": "gót chân",
     "cat": "sức khỏe",
-    "p": "hˈiːl"
+    "p": "hˈiːl",
+    "pos": "Danh từ"
   },
   {
     "w": "toe",
     "m": "ngón chân",
     "cat": "sức khỏe",
-    "p": "tˈoʊ"
+    "p": "tˈoʊ",
+    "pos": "Danh từ"
   },
   {
     "w": "thumb",
     "m": "ngón cái",
     "cat": "sức khỏe",
-    "p": "θˈʌm"
+    "p": "θˈʌm",
+    "pos": "Danh từ"
   },
   {
     "w": "knuckle",
     "m": "khớp ngón tay",
     "cat": "sức khỏe",
-    "p": "nˈʌkəl"
+    "p": "nˈʌkəl",
+    "pos": "Danh từ"
   },
   {
     "w": "palm",
     "m": "lòng bàn tay",
     "cat": "sức khỏe",
-    "p": "pˈɑːm"
+    "p": "pˈɑːm",
+    "pos": "Danh từ"
   },
   {
     "w": "wrist",
     "m": "cổ tay",
     "cat": "sức khỏe",
-    "p": "ɹˈɪst"
+    "p": "ɹˈɪst",
+    "pos": "Danh từ"
   },
   {
     "w": "elbow",
     "m": "khuỷu tay",
     "cat": "sức khỏe",
-    "p": "ˈɛlboʊ"
+    "p": "ˈɛlboʊ",
+    "pos": "Danh từ"
   },
   {
     "w": "nerve",
     "m": "dây thần kinh",
     "cat": "sức khỏe",
-    "p": "nˈɜːv"
+    "p": "nˈɜːv",
+    "pos": "Danh từ"
   },
   {
     "w": "muscle",
     "m": "cơ bắp",
     "cat": "sức khỏe",
-    "p": "mˈʌsəl"
+    "p": "mˈʌsəl",
+    "pos": "Danh từ"
   },
   {
     "w": "vein",
     "m": "tĩnh mạch",
     "cat": "sức khỏe",
-    "p": "vˈeɪn"
+    "p": "vˈeɪn",
+    "pos": "Danh từ"
   },
   {
     "w": "artery",
     "m": "động mạch",
     "cat": "sức khỏe",
-    "p": "ˈɑːɹɾɚɹi"
+    "p": "ˈɑːɹɾɚɹi",
+    "pos": "Danh từ"
   },
   {
     "w": "lung",
     "m": "phổi",
     "cat": "sức khỏe",
-    "p": "lˈʌŋ"
+    "p": "lˈʌŋ",
+    "pos": "Danh từ"
   },
   {
     "w": "liver",
     "m": "gan",
     "cat": "sức khỏe",
-    "p": "lˈɪvɚ"
+    "p": "lˈɪvɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "kidney",
     "m": "thận",
     "cat": "sức khỏe",
-    "p": "kˈɪdni"
+    "p": "kˈɪdni",
+    "pos": "Danh từ"
   },
   {
     "w": "intestine",
     "m": "ruột",
     "cat": "sức khỏe",
-    "p": "ɪntˈɛstɪn"
+    "p": "ɪntˈɛstɪn",
+    "pos": "Danh từ"
   },
   {
     "w": "bladder",
     "m": "bàng quang",
     "cat": "sức khỏe",
-    "p": "blˈædɚ"
+    "p": "blˈædɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "skeleton",
     "m": "bộ xương",
     "cat": "sức khỏe",
-    "p": "skˈɛlᵻtən"
+    "p": "skˈɛlᵻtən",
+    "pos": "Danh từ"
   },
   {
     "w": "scarf",
     "m": "khăn quàng cổ",
     "cat": "đồ vật",
-    "p": "skˈɑːɹf"
+    "p": "skˈɑːɹf",
+    "pos": "Danh từ"
   },
   {
     "w": "glove",
     "m": "găng tay",
     "cat": "đồ vật",
-    "p": "ɡlˈʌv"
+    "p": "ɡlˈʌv",
+    "pos": "Danh từ"
   },
   {
     "w": "mitten",
     "m": "găng tay bao",
     "cat": "đồ vật",
-    "p": "mˈɪʔn̩"
+    "p": "mˈɪʔn̩",
+    "pos": "Danh từ"
   },
   {
     "w": "sock",
     "m": "tất",
     "cat": "đồ vật",
-    "p": "sˈɑːk"
+    "p": "sˈɑːk",
+    "pos": "Danh từ"
   },
   {
     "w": "stocking",
     "m": "tất dài",
     "cat": "đồ vật",
-    "p": "stˈɑːkɪŋ"
+    "p": "stˈɑːkɪŋ",
+    "pos": "Danh từ"
   },
   {
     "w": "sandal",
     "m": "dép quai",
     "cat": "đồ vật",
-    "p": "sˈændəl"
+    "p": "sˈændəl",
+    "pos": "Danh từ"
   },
   {
     "w": "slipper",
     "m": "dép lê",
     "cat": "đồ vật",
-    "p": "slˈɪpɚ"
+    "p": "slˈɪpɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "sneaker",
     "m": "giày thể thao",
     "cat": "đồ vật",
-    "p": "snˈiːkɚ"
+    "p": "snˈiːkɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "boot",
     "m": "ủng, bốt",
     "cat": "đồ vật",
-    "p": "bˈuːt"
+    "p": "bˈuːt",
+    "pos": "Danh từ"
   },
   {
     "w": "vest",
     "m": "áo gi-lê",
     "cat": "đồ vật",
-    "p": "vˈɛst"
+    "p": "vˈɛst",
+    "pos": "Danh từ"
   },
   {
     "w": "blouse",
     "m": "áo cánh nữ",
     "cat": "đồ vật",
-    "p": "blˈaʊz"
+    "p": "blˈaʊz",
+    "pos": "Danh từ"
   },
   {
     "w": "cardigan",
     "m": "áo len cài khuy",
     "cat": "đồ vật",
-    "p": "kˈɑːɹdɪɡən"
+    "p": "kˈɑːɹdɪɡən",
+    "pos": "Danh từ"
   },
   {
     "w": "hoodie",
     "m": "áo có mũ trùm",
     "cat": "đồ vật",
-    "p": "hˈʊdi"
+    "p": "hˈʊdi",
+    "pos": "Danh từ"
   },
   {
     "w": "raincoat",
     "m": "áo mưa",
     "cat": "đồ vật",
-    "p": "ɹˈeɪŋkoʊt"
+    "p": "ɹˈeɪŋkoʊt",
+    "pos": "Danh từ"
   },
   {
     "w": "apron",
     "m": "tạp dề",
     "cat": "đồ vật",
-    "p": "ˈeɪpɹən"
+    "p": "ˈeɪpɹən",
+    "pos": "Danh từ"
   },
   {
     "w": "collar",
     "m": "cổ áo",
     "cat": "đồ vật",
-    "p": "kˈɑːlɚ"
+    "p": "kˈɑːlɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "cuff",
     "m": "cổ tay áo",
     "cat": "đồ vật",
-    "p": "kˈʌf"
+    "p": "kˈʌf",
+    "pos": "Danh từ"
   },
   {
     "w": "zip",
     "m": "khóa kéo",
     "cat": "đồ vật",
-    "p": "zˈɪp"
+    "p": "zˈɪp",
+    "pos": "Động từ"
   },
   {
     "w": "button",
     "m": "nút áo",
     "cat": "đồ vật",
-    "p": "bˈʌʔn̩"
+    "p": "bˈʌʔn̩",
+    "pos": "Danh từ"
   },
   {
     "w": "pocket",
     "m": "túi áo",
     "cat": "đồ vật",
-    "p": "pˈɑːkɪt"
+    "p": "pˈɑːkɪt",
+    "pos": "Danh từ"
   },
   {
     "w": "sleeve",
     "m": "tay áo",
     "cat": "đồ vật",
-    "p": "slˈiːv"
+    "p": "slˈiːv",
+    "pos": "Danh từ"
   },
   {
     "w": "belt",
     "m": "thắt lưng",
     "cat": "đồ vật",
-    "p": "bˈɛlt"
+    "p": "bˈɛlt",
+    "pos": "Danh từ"
   },
   {
     "w": "tie",
     "m": "hòa (tỷ số), cà vạt",
     "cat": "đồ vật",
-    "p": "tˈaɪ"
+    "p": "tˈaɪ",
+    "pos": "Danh từ"
   },
   {
     "w": "bowtie",
     "m": "nơ đeo cổ",
     "cat": "đồ vật",
-    "p": "bˌoʊtˈaɪ"
+    "p": "bˌoʊtˈaɪ",
+    "pos": "Danh từ"
   },
   {
     "w": "brooch",
     "m": "trâm cài",
     "cat": "đồ vật",
-    "p": "bɹˈoʊtʃ"
+    "p": "bɹˈoʊtʃ",
+    "pos": "Danh từ"
   },
   {
     "w": "necklace",
     "m": "vòng cổ",
     "cat": "đồ vật",
-    "p": "nˈɛkləs"
+    "p": "nˈɛkləs",
+    "pos": "Danh từ"
   },
   {
     "w": "bracelet",
     "m": "vòng tay",
     "cat": "đồ vật",
-    "p": "bɹˈeɪslɪt"
+    "p": "bɹˈeɪslɪt",
+    "pos": "Danh từ"
   },
   {
     "w": "earring",
     "m": "khuyên tai",
     "cat": "đồ vật",
-    "p": "ˈɪɹɪŋ"
+    "p": "ˈɪɹɪŋ",
+    "pos": "Động từ"
   },
   {
     "w": "pendant",
     "m": "mặt dây chuyền",
     "cat": "đồ vật",
-    "p": "pˈɛndənt"
+    "p": "pˈɛndənt",
+    "pos": "Danh từ"
   },
   {
     "w": "crooked",
     "m": "cong queo, méo",
     "cat": "tính từ",
-    "p": "kɹˈʊkɪd"
+    "p": "kɹˈʊkɪd",
+    "pos": "Tính từ"
   },
   {
     "w": "straight",
     "m": "thẳng",
     "cat": "tính từ",
-    "p": "stɹˈeɪt"
+    "p": "stɹˈeɪt",
+    "pos": "Tính từ"
   },
   {
     "w": "curved",
     "m": "cong",
     "cat": "tính từ",
-    "p": "kˈɜːvd"
+    "p": "kˈɜːvd",
+    "pos": "Tính từ"
   },
   {
     "w": "hollow",
     "m": "rỗng",
     "cat": "tính từ",
-    "p": "hˈɑːloʊ"
+    "p": "hˈɑːloʊ",
+    "pos": "Tính từ"
   },
   {
     "w": "solid",
     "m": "đặc, rắn chắc",
     "cat": "tính từ",
-    "p": "sˈɑːlɪd"
+    "p": "sˈɑːlɪd",
+    "pos": "Tính từ"
   },
   {
     "w": "slippery",
     "m": "trơn trượt",
     "cat": "tính từ",
-    "p": "slˈɪpɚɹi"
+    "p": "slˈɪpɚɹi",
+    "pos": "Tính từ"
   },
   {
     "w": "sticky",
     "m": "dính",
     "cat": "tính từ",
-    "p": "stˈɪki"
+    "p": "stˈɪki",
+    "pos": "Tính từ"
   },
   {
     "w": "rough",
     "m": "thô ráp",
     "cat": "tính từ",
-    "p": "ɹˈʌf"
+    "p": "ɹˈʌf",
+    "pos": "Tính từ"
   },
   {
     "w": "smooth",
     "m": "nhẵn mịn",
     "cat": "tính từ",
-    "p": "smˈuːð"
+    "p": "smˈuːð",
+    "pos": "Tính từ"
   },
   {
     "w": "fluffy",
     "m": "bông xốp",
     "cat": "tính từ",
-    "p": "flˈʌfi"
+    "p": "flˈʌfi",
+    "pos": "Tính từ"
   },
   {
     "w": "furry",
     "m": "có lông tơ",
     "cat": "tính từ",
-    "p": "fˈɜːɹi"
+    "p": "fˈɜːɹi",
+    "pos": "Tính từ"
   },
   {
     "w": "shiny",
     "m": "bóng loáng",
     "cat": "tính từ",
-    "p": "ʃˈaɪni"
+    "p": "ʃˈaɪni",
+    "pos": "Tính từ"
   },
   {
     "w": "dull",
     "m": "xỉn, mờ",
     "cat": "tính từ",
-    "p": "dˈʌl"
+    "p": "dˈʌl",
+    "pos": "Tính từ"
   },
   {
     "w": "transparent",
     "m": "minh bạch, trong suốt, rõ ràng",
     "cat": "tính từ",
-    "p": "tɹænspˈæɹənt"
+    "p": "tɹænspˈæɹənt",
+    "pos": "Tính từ"
   },
   {
     "w": "opaque",
     "m": "mờ đục",
     "cat": "tính từ",
-    "p": "oʊpˈeɪk"
+    "p": "oʊpˈeɪk",
+    "pos": "Tính từ"
   },
   {
     "w": "fragile",
     "m": "dễ vỡ",
     "cat": "tính từ",
-    "p": "fɹˈædʒəl"
+    "p": "fɹˈædʒəl",
+    "pos": "Tính từ"
   },
   {
     "w": "sturdy",
     "m": "chắc chắn",
     "cat": "tính từ",
-    "p": "stˈɜːdi"
+    "p": "stˈɜːdi",
+    "pos": "Phó từ"
   },
   {
     "w": "flexible",
     "m": "dẻo, linh hoạt",
     "cat": "tính từ",
-    "p": "flˈɛksɪbəl"
+    "p": "flˈɛksɪbəl",
+    "pos": "Tính từ"
   },
   {
     "w": "stiff",
     "m": "cứng đờ",
     "cat": "tính từ",
-    "p": "stˈɪf"
+    "p": "stˈɪf",
+    "pos": "Tính từ"
   },
   {
     "w": "tight",
     "m": "chật, chặt",
     "cat": "tính từ",
-    "p": "tˈaɪt"
+    "p": "tˈaɪt",
+    "pos": "Tính từ"
   },
   {
     "w": "loose",
     "m": "lỏng, rộng",
     "cat": "tính từ",
-    "p": "lˈuːs"
+    "p": "lˈuːs",
+    "pos": "Tính từ"
   },
   {
     "w": "narrow",
     "m": "hẹp",
     "cat": "tính từ",
-    "p": "nˈæɹoʊ"
+    "p": "nˈæɹoʊ",
+    "pos": "Tính từ"
   },
   {
     "w": "shallow",
     "m": "nông",
     "cat": "tính từ",
-    "p": "ʃˈæloʊ"
+    "p": "ʃˈæloʊ",
+    "pos": "Tính từ"
   },
   {
     "w": "steep",
     "m": "dốc đứng",
     "cat": "tính từ",
-    "p": "stˈiːp"
+    "p": "stˈiːp",
+    "pos": "Tính từ"
   },
   {
     "w": "spacious",
     "m": "rộng rãi",
     "cat": "tính từ",
-    "p": "spˈeɪʃəs"
+    "p": "spˈeɪʃəs",
+    "pos": "Tính từ"
   },
   {
     "w": "cramped",
     "m": "chật chội",
     "cat": "tính từ",
-    "p": "kɹˈæmpt"
+    "p": "kɹˈæmpt",
+    "pos": "Tính từ"
   },
   {
     "w": "cosy",
     "m": "ấm cúng",
     "cat": "tính từ",
-    "p": "kˈoʊzi"
+    "p": "kˈoʊzi",
+    "pos": "Tính từ"
   },
   {
     "w": "gloomy",
     "m": "u ám, buồn rầu, ảm đạm, bi quan",
     "cat": "tính từ",
-    "p": "ɡlˈuːmi"
+    "p": "ɡlˈuːmi",
+    "pos": "Tính từ"
   },
   {
     "w": "bright",
     "m": "sáng sủa",
     "cat": "tính từ",
-    "p": "bɹˈaɪt"
+    "p": "bɹˈaɪt",
+    "pos": "Tính từ"
   },
   {
     "w": "dim",
     "m": "lờ mờ",
     "cat": "tính từ",
-    "p": "dˈɪm"
+    "p": "dˈɪm",
+    "pos": "Tính từ"
   },
   {
     "w": "chilly",
     "m": "se lạnh",
     "cat": "tính từ",
-    "p": "tʃˈɪli"
+    "p": "tʃˈɪli",
+    "pos": "Tính từ"
   },
   {
     "w": "humid",
     "m": "ẩm ướt",
     "cat": "tính từ",
-    "p": "hjˈuːmɪd"
+    "p": "hjˈuːmɪd",
+    "pos": "Tính từ"
   },
   {
     "w": "sour",
     "m": "chua",
     "cat": "tính từ",
-    "p": "sˈaʊɚ"
+    "p": "sˈaʊɚ",
+    "pos": "Tính từ"
   },
   {
     "w": "bitter",
     "m": "đắng",
     "cat": "tính từ",
-    "p": "bˈɪɾɚ"
+    "p": "bˈɪɾɚ",
+    "pos": "Tính từ"
   },
   {
     "w": "salty",
     "m": "mặn",
     "cat": "tính từ",
-    "p": "sˈɔlti"
+    "p": "sˈɔlti",
+    "pos": "Tính từ"
   },
   {
     "w": "spicy",
     "m": "cay",
     "cat": "tính từ",
-    "p": "spˈaɪsi"
+    "p": "spˈaɪsi",
+    "pos": "Tính từ"
   },
   {
     "w": "bland",
     "m": "nhạt nhẽo",
     "cat": "tính từ",
-    "p": "blˈænd"
+    "p": "blˈænd",
+    "pos": "Tính từ"
   },
   {
     "w": "crispy",
     "m": "giòn",
     "cat": "tính từ",
-    "p": "kɹˈɪspi"
+    "p": "kɹˈɪspi",
+    "pos": "Tính từ"
   },
   {
     "w": "chewy",
     "m": "dai",
     "cat": "tính từ",
-    "p": "tʃˈuːi"
+    "p": "tʃˈuːi",
+    "pos": "Tính từ"
   },
   {
     "w": "tender",
     "m": "mềm (thịt), hồ sơ đấu thầu; đấu thầu",
     "cat": "tính từ",
-    "p": "tˈɛndɚ"
+    "p": "tˈɛndɚ",
+    "pos": "Tính từ"
   },
   {
     "w": "juicy",
     "m": "mọng nước",
     "cat": "tính từ",
-    "p": "dʒˈuːsi"
+    "p": "dʒˈuːsi",
+    "pos": "Tính từ"
   },
   {
     "w": "ripe",
     "m": "chín",
     "cat": "tính từ",
-    "p": "ɹˈaɪp"
+    "p": "ɹˈaɪp",
+    "pos": "Số từ"
   },
   {
     "w": "rotten",
     "m": "thối, hỏng",
     "cat": "tính từ",
-    "p": "ɹˈɑːʔn̩"
+    "p": "ɹˈɑːʔn̩",
+    "pos": "Tính từ"
   },
   {
     "w": "stale",
     "m": "ôi, cũ (bánh)",
     "cat": "tính từ",
-    "p": "stˈeɪl"
+    "p": "stˈeɪl",
+    "pos": "Tính từ"
   },
   {
     "w": "fresh",
     "m": "tươi",
     "cat": "tính từ",
-    "p": "fɹˈɛʃ"
+    "p": "fɹˈɛʃ",
+    "pos": "Tính từ"
   },
   {
     "w": "frozen",
     "m": "đông lạnh",
     "cat": "tính từ",
-    "p": "fɹˈoʊzən"
+    "p": "fɹˈoʊzən",
+    "pos": "Tính từ"
   },
   {
     "w": "scarlet",
     "m": "đỏ tươi",
     "cat": "màu sắc",
-    "p": "skˈɑːɹlɪt"
+    "p": "skˈɑːɹlɪt",
+    "pos": "Danh từ"
   },
   {
     "w": "crimson",
     "m": "đỏ thẫm",
     "cat": "màu sắc",
-    "p": "kɹˈɪmsən"
+    "p": "kɹˈɪmsən",
+    "pos": "Danh từ"
   },
   {
     "w": "maroon",
     "m": "nâu đỏ",
     "cat": "màu sắc",
-    "p": "mɚɹˈuːn"
+    "p": "mɚɹˈuːn",
+    "pos": "Danh từ"
   },
   {
     "w": "turquoise",
     "m": "xanh ngọc lam",
     "cat": "màu sắc",
-    "p": "tˈɜːkwɔɪs"
+    "p": "tˈɜːkwɔɪs",
+    "pos": "Danh từ"
   },
   {
     "w": "navy",
     "m": "xanh nước biển đậm",
     "cat": "màu sắc",
-    "p": "nˈeɪvi"
+    "p": "nˈeɪvi",
+    "pos": "Danh từ"
   },
   {
     "w": "beige",
     "m": "màu be",
     "cat": "màu sắc",
-    "p": "bˈeɪʒ"
+    "p": "bˈeɪʒ",
+    "pos": "Danh từ"
   },
   {
     "w": "khaki",
     "m": "màu kaki",
     "cat": "màu sắc",
-    "p": "kˈæki"
+    "p": "kˈæki",
+    "pos": "Danh từ"
   },
   {
     "w": "lilac",
     "m": "tím nhạt",
     "cat": "màu sắc",
-    "p": "lˈaɪlək"
+    "p": "lˈaɪlək",
+    "pos": "Danh từ"
   },
   {
     "w": "magenta",
     "m": "đỏ tươi cánh sen",
     "cat": "màu sắc",
-    "p": "mədʒˈɛntə"
+    "p": "mədʒˈɛntə",
+    "pos": "Danh từ"
   },
   {
     "w": "amber",
     "m": "màu hổ phách",
     "cat": "màu sắc",
-    "p": "ˈæmbɚ"
+    "p": "ˈæmbɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "ivory",
     "m": "màu ngà",
     "cat": "màu sắc",
-    "p": "ˈaɪvɚɹi"
+    "p": "ˈaɪvɚɹi",
+    "pos": "Danh từ"
   },
   {
     "w": "charcoal",
     "m": "xám than",
     "cat": "màu sắc",
-    "p": "tʃˈɑːɹkoʊl"
+    "p": "tʃˈɑːɹkoʊl",
+    "pos": "Danh từ"
   },
   {
     "w": "emerald",
     "m": "xanh lục bảo",
     "cat": "màu sắc",
-    "p": "ˈɛmɚɹəld"
+    "p": "ˈɛmɚɹəld",
+    "pos": "Danh từ"
   },
   {
     "w": "golden",
     "m": "vàng óng",
     "cat": "màu sắc",
-    "p": "ɡˈoʊldən"
+    "p": "ɡˈoʊldən",
+    "pos": "Danh từ"
   },
   {
     "w": "silvery",
     "m": "ánh bạc",
     "cat": "màu sắc",
-    "p": "sˈɪlvɚɹi"
+    "p": "sˈɪlvɚɹi",
+    "pos": "Danh từ"
   },
   {
     "w": "pale",
     "m": "nhạt màu",
     "cat": "màu sắc",
-    "p": "pˈeɪl"
+    "p": "pˈeɪl",
+    "pos": "Danh từ"
   },
   {
     "w": "vivid",
     "m": "sắc nét, rực rỡ, sinh động",
     "cat": "màu sắc",
-    "p": "vˈɪvɪd"
+    "p": "vˈɪvɪd",
+    "pos": "Tính từ"
   },
   {
     "w": "glance",
     "m": "liếc nhìn",
     "cat": "hành động",
-    "p": "ɡlˈæns"
+    "p": "ɡlˈæns",
+    "pos": "Động từ"
   },
   {
     "w": "stare",
     "m": "nhìn chằm chằm",
     "cat": "hành động",
-    "p": "stˈɛɹ"
+    "p": "stˈɛɹ",
+    "pos": "Động từ"
   },
   {
     "w": "gaze",
     "m": "nhìn đăm đăm",
     "cat": "hành động",
-    "p": "ɡˈeɪz"
+    "p": "ɡˈeɪz",
+    "pos": "Động từ"
   },
   {
     "w": "peep",
     "m": "nhìn trộm",
     "cat": "hành động",
-    "p": "pˈiːp"
+    "p": "pˈiːp",
+    "pos": "Động từ"
   },
   {
     "w": "frown",
     "m": "cau mày",
     "cat": "hành động",
-    "p": "fɹˈaʊn"
+    "p": "fɹˈaʊn",
+    "pos": "Động từ"
   },
   {
     "w": "grin",
     "m": "cười toe toét",
     "cat": "hành động",
-    "p": "ɡɹˈɪn"
+    "p": "ɡɹˈɪn",
+    "pos": "Động từ"
   },
   {
     "w": "giggle",
     "m": "cười khúc khích",
     "cat": "hành động",
-    "p": "ɡˈɪɡəl"
+    "p": "ɡˈɪɡəl",
+    "pos": "Động từ"
   },
   {
     "w": "chuckle",
     "m": "cười khẽ",
     "cat": "hành động",
-    "p": "tʃˈʌkəl"
+    "p": "tʃˈʌkəl",
+    "pos": "Động từ"
   },
   {
     "w": "sigh",
     "m": "thở dài",
     "cat": "hành động",
-    "p": "sˈaɪ"
+    "p": "sˈaɪ",
+    "pos": "Động từ"
   },
   {
     "w": "yawn",
     "m": "ngáp",
     "cat": "hành động",
-    "p": "jˈɔːn"
+    "p": "jˈɔːn",
+    "pos": "Động từ"
   },
   {
     "w": "sneeze",
     "m": "hắt hơi",
     "cat": "hành động",
-    "p": "snˈiːz"
+    "p": "snˈiːz",
+    "pos": "Động từ"
   },
   {
     "w": "cough",
     "m": "ho",
     "cat": "hành động",
-    "p": "kˈɔf"
+    "p": "kˈɔf",
+    "pos": "Động từ"
   },
   {
     "w": "hiccup",
     "m": "nấc cụt",
     "cat": "hành động",
-    "p": "hˈɪkʌp"
+    "p": "hˈɪkʌp",
+    "pos": "Động từ"
   },
   {
     "w": "blink",
     "m": "chớp mắt",
     "cat": "hành động",
-    "p": "blˈɪŋk"
+    "p": "blˈɪŋk",
+    "pos": "Động từ"
   },
   {
     "w": "wink",
     "m": "nháy mắt",
     "cat": "hành động",
-    "p": "wˈɪŋk"
+    "p": "wˈɪŋk",
+    "pos": "Động từ"
   },
   {
     "w": "nod",
     "m": "gật đầu",
     "cat": "hành động",
-    "p": "nˈɑːd"
+    "p": "nˈɑːd",
+    "pos": "Động từ"
   },
   {
     "w": "shrug",
     "m": "nhún vai",
     "cat": "hành động",
-    "p": "ʃɹˈʌɡ"
+    "p": "ʃɹˈʌɡ",
+    "pos": "Động từ"
   },
   {
     "w": "wave",
     "m": "sóng biển, vẫy tay",
     "cat": "hành động",
-    "p": "wˈeɪv"
+    "p": "wˈeɪv",
+    "pos": "Động từ"
   },
   {
     "w": "clap",
     "m": "vỗ tay",
     "cat": "hành động",
-    "p": "klˈæp"
+    "p": "klˈæp",
+    "pos": "Động từ"
   },
   {
     "w": "hug",
     "m": "ôm",
     "cat": "hành động",
-    "p": "hˈʌɡ"
+    "p": "hˈʌɡ",
+    "pos": "Động từ"
   },
   {
     "w": "squeeze",
     "m": "siết, bóp",
     "cat": "hành động",
-    "p": "skwˈiːz"
+    "p": "skwˈiːz",
+    "pos": "Động từ"
   },
   {
     "w": "stretch",
     "m": "khởi động, duỗi người, giãn cơ, vươn vai, kéo giãn",
     "cat": "hành động",
-    "p": "stɹˈɛtʃ"
+    "p": "stɹˈɛtʃ",
+    "pos": "Động từ"
   },
   {
     "w": "bend",
     "m": "cúi, uốn cong",
     "cat": "hành động",
-    "p": "bˈɛnd"
+    "p": "bˈɛnd",
+    "pos": "Động từ"
   },
   {
     "w": "crawl",
     "m": "bò",
     "cat": "hành động",
-    "p": "kɹˈɔːl"
+    "p": "kɹˈɔːl",
+    "pos": "Động từ"
   },
   {
     "w": "creep",
     "m": "bò lén",
     "cat": "hành động",
-    "p": "kɹˈiːp"
+    "p": "kɹˈiːp",
+    "pos": "Động từ"
   },
   {
     "w": "stroll",
     "m": "đi dạo thong thả",
     "cat": "hành động",
-    "p": "stɹˈoʊl"
+    "p": "stɹˈoʊl",
+    "pos": "Động từ"
   },
   {
     "w": "wander",
     "m": "đi lang thang",
     "cat": "hành động",
-    "p": "wˈɔndɚ"
+    "p": "wˈɔndɚ",
+    "pos": "Động từ"
   },
   {
     "w": "march",
     "m": "diễu hành",
     "cat": "hành động",
-    "p": "mˈɑːɹtʃ"
+    "p": "mˈɑːɹtʃ",
+    "pos": "Động từ"
   },
   {
     "w": "limp",
     "m": "đi khập khiễng",
     "cat": "hành động",
-    "p": "lˈɪmp"
+    "p": "lˈɪmp",
+    "pos": "Động từ"
   },
   {
     "w": "stumble",
     "m": "vấp ngã",
     "cat": "hành động",
-    "p": "stˈʌmbəl"
+    "p": "stˈʌmbəl",
+    "pos": "Động từ"
   },
   {
     "w": "slip",
     "m": "trượt chân",
     "cat": "hành động",
-    "p": "slˈɪp"
+    "p": "slˈɪp",
+    "pos": "Động từ"
   },
   {
     "w": "leap",
     "m": "nhảy vọt",
     "cat": "hành động",
-    "p": "lˈiːp"
+    "p": "lˈiːp",
+    "pos": "Động từ"
   },
   {
     "w": "hop",
     "m": "nhảy lò cò",
     "cat": "hành động",
-    "p": "hˈɑːp"
+    "p": "hˈɑːp",
+    "pos": "Động từ"
   },
   {
     "w": "dive",
     "m": "lao xuống, lặn",
     "cat": "hành động",
-    "p": "dˈaɪv"
+    "p": "dˈaɪv",
+    "pos": "Động từ"
   },
   {
     "w": "float",
     "m": "nổi",
     "cat": "hành động",
-    "p": "flˈoʊt"
+    "p": "flˈoʊt",
+    "pos": "Động từ"
   },
   {
     "w": "sink",
     "m": "bồn rửa, chìm",
     "cat": "hành động",
-    "p": "sˈɪŋk"
+    "p": "sˈɪŋk",
+    "pos": "Động từ"
   },
   {
     "w": "splash",
     "m": "bắn tóe nước",
     "cat": "hành động",
-    "p": "splˈæʃ"
+    "p": "splˈæʃ",
+    "pos": "Động từ"
   },
   {
     "w": "drip",
     "m": "nhỏ giọt",
     "cat": "hành động",
-    "p": "dɹˈɪp"
+    "p": "dɹˈɪp",
+    "pos": "Động từ"
   },
   {
     "w": "pour",
     "m": "rót, đổ",
     "cat": "hành động",
-    "p": "pˈɔːɹ"
+    "p": "pˈɔːɹ",
+    "pos": "Động từ"
   },
   {
     "w": "spill",
     "m": "làm đổ",
     "cat": "hành động",
-    "p": "spˈɪl"
+    "p": "spˈɪl",
+    "pos": "Động từ"
   },
   {
     "w": "sip",
     "m": "nhấp (ngụm)",
     "cat": "hành động",
-    "p": "sˈɪp"
+    "p": "sˈɪp",
+    "pos": "Động từ"
   },
   {
     "w": "chew",
     "m": "nhai",
     "cat": "hành động",
-    "p": "tʃˈuː"
+    "p": "tʃˈuː",
+    "pos": "Động từ"
   },
   {
     "w": "swallow",
     "m": "chim én, nuốt",
     "cat": "hành động",
-    "p": "swˈɔloʊ"
+    "p": "swˈɔloʊ",
+    "pos": "Động từ"
   },
   {
     "w": "bite",
     "m": "cắn",
     "cat": "hành động",
-    "p": "bˈaɪt"
+    "p": "bˈaɪt",
+    "pos": "Động từ"
   },
   {
     "w": "lick",
     "m": "liếm",
     "cat": "hành động",
-    "p": "lˈɪk"
+    "p": "lˈɪk",
+    "pos": "Động từ"
   },
   {
     "w": "whisper",
     "m": "thì thầm",
     "cat": "hành động",
-    "p": "wˈɪspɚ"
+    "p": "wˈɪspɚ",
+    "pos": "Động từ"
   },
   {
     "w": "mutter",
     "m": "lẩm bẩm",
     "cat": "hành động",
-    "p": "mˈʌɾɚ"
+    "p": "mˈʌɾɚ",
+    "pos": "Động từ"
   },
   {
     "w": "mumble",
     "m": "nói lí nhí",
     "cat": "hành động",
-    "p": "mˈʌmbəl"
+    "p": "mˈʌmbəl",
+    "pos": "Động từ"
   },
   {
     "w": "shout",
     "m": "hét lớn",
     "cat": "hành động",
-    "p": "ʃˈaʊt"
+    "p": "ʃˈaʊt",
+    "pos": "Động từ"
   },
   {
     "w": "scream",
     "m": "thét lên",
     "cat": "hành động",
-    "p": "skɹˈiːm"
+    "p": "skɹˈiːm",
+    "pos": "Động từ"
   },
   {
     "w": "yell",
     "m": "la hét",
     "cat": "hành động",
-    "p": "jˈɛl"
+    "p": "jˈɛl",
+    "pos": "Động từ"
   },
   {
     "w": "groan",
     "m": "rên rỉ",
     "cat": "hành động",
-    "p": "ɡɹˈoʊn"
+    "p": "ɡɹˈoʊn",
+    "pos": "Động từ"
   },
   {
     "w": "moan",
     "m": "than van",
     "cat": "hành động",
-    "p": "mˈoʊn"
+    "p": "mˈoʊn",
+    "pos": "Động từ"
   },
   {
     "w": "weep",
     "m": "khóc thút thít",
     "cat": "hành động",
-    "p": "wˈiːp"
+    "p": "wˈiːp",
+    "pos": "Động từ"
   },
   {
     "w": "sob",
     "m": "khóc nức nở",
     "cat": "hành động",
-    "p": "sˈɑːb"
+    "p": "sˈɑːb",
+    "pos": "Động từ"
   },
   {
     "w": "tremble",
     "m": "run rẩy",
     "cat": "hành động",
-    "p": "tɹˈɛmbəl"
+    "p": "tɹˈɛmbəl",
+    "pos": "Động từ"
   },
   {
     "w": "shiver",
     "m": "rùng mình",
     "cat": "hành động",
-    "p": "ʃˈɪvɚ"
+    "p": "ʃˈɪvɚ",
+    "pos": "Động từ"
   },
   {
     "w": "sweat",
     "m": "đổ mồ hôi",
     "cat": "hành động",
-    "p": "swˈɛt"
+    "p": "swˈɛt",
+    "pos": "Động từ"
   },
   {
     "w": "blush",
     "m": "đỏ mặt",
     "cat": "hành động",
-    "p": "blˈʌʃ"
+    "p": "blˈʌʃ",
+    "pos": "Động từ"
   }
 ]

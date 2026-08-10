@@ -4,5550 +4,6343 @@
     "p": "annyeonghaseyo",
     "m": "xin chào",
     "cat": "greeting",
-    "me": "hello"
+    "me": "hello",
+    "pos": "Danh từ"
   },
   {
     "w": "감사합니다",
     "p": "gamsahamnida",
     "m": "cảm ơn",
     "cat": "greeting",
-    "me": "thank you"
+    "me": "thank you",
+    "pos": "Danh từ"
   },
   {
     "w": "안녕히 가세요",
     "p": "annyeonghi gaseyo",
     "m": "tạm biệt",
     "cat": "greeting",
-    "me": "goodbye"
+    "me": "goodbye",
+    "pos": "Danh từ"
   },
   {
     "w": "죄송합니다",
     "p": "joesonghamnida",
     "m": "xin lỗi",
     "cat": "greeting",
-    "me": "sorry"
+    "me": "sorry",
+    "pos": "Động từ"
   },
   {
     "w": "아버지",
     "p": "abeoji",
     "m": "bố",
     "cat": "family",
-    "me": "father"
+    "me": "father",
+    "pos": "Danh từ"
   },
   {
     "w": "어머니",
     "p": "eomeoni",
     "m": "mẹ",
     "cat": "family",
-    "me": "mother"
+    "me": "mother",
+    "pos": "Danh từ"
   },
   {
     "w": "하나",
     "p": "hana",
     "m": "một",
     "cat": "number",
-    "me": "one"
+    "me": "one",
+    "pos": "Số từ"
   },
   {
     "w": "둘",
     "p": "dul",
     "m": "hai",
     "cat": "number",
-    "me": "two"
+    "me": "two",
+    "pos": "Số từ"
   },
   {
     "w": "셋",
     "p": "set",
     "m": "ba",
     "cat": "number",
-    "me": "three"
+    "me": "three",
+    "pos": "Số từ"
   },
   {
     "w": "예쁘다",
     "p": "yeppeuda",
     "m": "đẹp",
     "cat": "adjective",
-    "me": "beautiful"
+    "me": "beautiful",
+    "pos": "Tính từ"
   },
   {
     "w": "맛있다",
     "p": "masitda",
     "m": "ngon",
     "cat": "adjective",
-    "me": "delicious"
+    "me": "delicious",
+    "pos": "Tính từ"
   },
   {
     "w": "학교",
     "p": "hakgyo",
     "m": "trường học",
     "cat": "place",
-    "me": "school"
+    "me": "school",
+    "pos": "Danh từ"
   },
   {
     "w": "병원",
     "p": "byeongwon",
     "m": "bệnh viện",
     "cat": "place",
-    "me": "hospital"
+    "me": "hospital",
+    "pos": "Danh từ"
   },
   {
     "w": "마트",
     "p": "mateu",
     "m": "siêu thị",
     "cat": "place",
-    "me": "supermarket"
+    "me": "supermarket",
+    "pos": "Danh từ"
   },
   {
     "w": "식당",
     "p": "sikdang",
     "m": "nhà hàng",
     "cat": "place",
-    "me": "restaurant"
+    "me": "restaurant",
+    "pos": "Danh từ"
   },
   {
     "w": "밥",
     "p": "bap",
     "m": "cơm",
     "cat": "food",
-    "me": "rice, a meal"
+    "me": "rice, a meal",
+    "pos": "Danh từ"
   },
   {
     "w": "책상",
     "p": "chaeksang",
     "m": "bàn",
     "cat": "home",
-    "me": "table"
+    "me": "table",
+    "pos": "Danh từ"
   },
   {
     "w": "일",
     "p": "il",
     "m": "một",
     "cat": "number",
-    "me": "one"
+    "me": "one",
+    "pos": "Số từ"
   },
   {
     "w": "이",
     "p": "i",
     "m": "hai",
     "cat": "number",
-    "me": "two"
+    "me": "two",
+    "pos": "Số từ"
   },
   {
     "w": "삼",
     "p": "sam",
     "m": "ba",
     "cat": "number",
-    "me": "three"
+    "me": "three",
+    "pos": "Số từ"
   },
   {
     "w": "사",
     "p": "sa",
     "m": "bốn",
     "cat": "number",
-    "me": "four"
+    "me": "four",
+    "pos": "Số từ"
   },
   {
     "w": "오",
     "p": "o",
     "m": "năm",
     "cat": "number",
-    "me": "year"
+    "me": "five",
+    "pos": "Số từ"
   },
   {
     "w": "형",
     "p": "hyeong",
     "m": "anh trai",
     "cat": "family",
-    "me": "older brother"
+    "me": "older brother",
+    "pos": "Danh từ"
   },
   {
     "w": "누나",
     "p": "nuna",
     "m": "chị gái",
     "cat": "family",
-    "me": "older sister"
+    "me": "older sister",
+    "pos": "Danh từ"
   },
   {
     "w": "동생",
     "p": "dongsaeng",
     "m": "em trai, em gái",
     "cat": "family",
-    "me": "younger sibling"
+    "me": "younger sibling",
+    "pos": "Danh từ"
   },
   {
     "w": "월요일",
     "p": "woryoil",
     "m": "thứ hai",
     "cat": "time",
-    "me": "Monday"
+    "me": "Monday",
+    "pos": "Số từ"
   },
   {
     "w": "화요일",
     "p": "hwayoil",
     "m": "thứ ba",
     "cat": "time",
-    "me": "third"
+    "me": "third",
+    "pos": "Số từ"
   },
   {
     "w": "수요일",
     "p": "suyoil",
     "m": "thứ tư",
     "cat": "time",
-    "me": "Wednesday; fourth"
+    "me": "Wednesday; fourth",
+    "pos": "Số từ"
   },
   {
     "w": "목요일",
     "p": "mogyoil",
     "m": "thứ năm",
     "cat": "time",
-    "me": "Thursday"
+    "me": "Thursday",
+    "pos": "Số từ"
   },
   {
     "w": "금요일",
     "p": "geumyoil",
     "m": "thứ sáu",
     "cat": "time",
-    "me": "Friday"
+    "me": "Friday",
+    "pos": "Số từ"
   },
   {
     "w": "토요일",
     "p": "toyoil",
     "m": "thứ bảy",
     "cat": "time",
-    "me": "Saturday"
+    "me": "Saturday",
+    "pos": "Số từ"
   },
   {
     "w": "일요일",
     "p": "iryoil",
     "m": "chủ nhật",
     "cat": "time",
-    "me": "Sunday"
+    "me": "Sunday",
+    "pos": "Danh từ"
   },
   {
     "w": "오늘",
     "p": "oneul",
     "m": "hôm nay",
     "cat": "time",
-    "me": "today"
+    "me": "today",
+    "pos": "Danh từ"
   },
   {
     "w": "내일",
     "p": "naeil",
     "m": "ngày mai",
     "cat": "time",
-    "me": "tomorrow"
+    "me": "tomorrow",
+    "pos": "Danh từ"
   },
   {
     "w": "어제",
     "p": "eoje",
     "m": "hôm qua",
     "cat": "time",
-    "me": "yesterday"
+    "me": "yesterday",
+    "pos": "Danh từ"
   },
   {
     "w": "지금",
     "p": "jigeum",
     "m": "bây giờ",
     "cat": "time",
-    "me": "now"
+    "me": "now",
+    "pos": "Danh từ"
   },
   {
     "w": "시간",
     "p": "sigan",
     "m": "thời gian",
     "cat": "time",
-    "me": "time"
+    "me": "time",
+    "pos": "Danh từ"
   },
   {
     "w": "빨간색",
     "p": "ppalgansaek",
     "m": "màu đỏ",
     "cat": "color",
-    "me": "red"
+    "me": "red",
+    "pos": "Danh từ"
   },
   {
     "w": "파란색",
     "p": "paransaek",
     "m": "màu xanh dương",
     "cat": "color",
-    "me": "blue"
+    "me": "blue",
+    "pos": "Danh từ"
   },
   {
     "w": "노란색",
     "p": "noransaek",
     "m": "màu vàng",
     "cat": "color",
-    "me": "yellow"
+    "me": "yellow",
+    "pos": "Danh từ"
   },
   {
     "w": "검은색",
     "p": "geomeunsaek",
     "m": "màu đen",
     "cat": "color",
-    "me": "black"
+    "me": "black",
+    "pos": "Danh từ"
   },
   {
     "w": "흰색",
     "p": "huinsaek",
     "m": "màu trắng",
     "cat": "color",
-    "me": "white"
+    "me": "white",
+    "pos": "Danh từ"
   },
   {
     "w": "머리",
     "p": "meori",
     "m": "đầu",
     "cat": "body",
-    "me": "head"
+    "me": "head",
+    "pos": "Danh từ"
   },
   {
     "w": "손",
     "p": "son",
     "m": "tay",
     "cat": "body",
-    "me": "hand"
+    "me": "hand",
+    "pos": "Danh từ"
   },
   {
     "w": "발",
     "p": "bal",
     "m": "chân",
     "cat": "body",
-    "me": "leg"
+    "me": "leg",
+    "pos": "Danh từ"
   },
   {
     "w": "눈",
     "p": "nun",
     "m": "mắt",
     "cat": "body",
-    "me": "eye"
+    "me": "eye",
+    "pos": "Danh từ"
   },
   {
     "w": "코",
     "p": "ko",
     "m": "mũi",
     "cat": "body",
-    "me": "nose"
+    "me": "nose",
+    "pos": "Danh từ"
   },
   {
     "w": "입",
     "p": "ip",
     "m": "miệng",
     "cat": "body",
-    "me": "mouth"
+    "me": "mouth",
+    "pos": "Danh từ"
   },
   {
     "w": "날씨",
     "p": "nalssi",
     "m": "thời tiết",
     "cat": "nature",
-    "me": "weather"
+    "me": "weather",
+    "pos": "Danh từ"
   },
   {
     "w": "비",
     "p": "bi",
     "m": "mưa",
     "cat": "nature",
-    "me": "rain"
+    "me": "rain",
+    "pos": "Danh từ"
   },
   {
     "w": "덥다",
     "p": "deopda",
     "m": "nóng",
     "cat": "adjective",
-    "me": "hot"
+    "me": "hot",
+    "pos": "Tính từ"
   },
   {
     "w": "춥다",
     "p": "chupda",
     "m": "lạnh",
     "cat": "adjective",
-    "me": "cold"
+    "me": "cold",
+    "pos": "Tính từ"
   },
   {
     "w": "가다",
     "p": "gada",
     "m": "đi",
     "cat": "verb",
-    "me": "go"
+    "me": "go",
+    "pos": "Động từ"
   },
   {
     "w": "오다",
     "p": "oda",
     "m": "đến",
     "cat": "verb",
-    "me": "come"
+    "me": "come",
+    "pos": "Động từ"
   },
   {
     "w": "먹다",
     "p": "meokda",
     "m": "ăn",
     "cat": "verb",
-    "me": "eat"
+    "me": "eat",
+    "pos": "Động từ"
   },
   {
     "w": "마시다",
     "p": "masida",
     "m": "uống",
     "cat": "verb",
-    "me": "drink"
+    "me": "drink",
+    "pos": "Động từ"
   },
   {
     "w": "자다",
     "p": "jada",
     "m": "ngủ",
     "cat": "verb",
-    "me": "sleep"
+    "me": "sleep",
+    "pos": "Động từ"
   },
   {
     "w": "보다",
     "p": "boda",
     "m": "xem, nhìn",
     "cat": "verb",
-    "me": "watch, look"
+    "me": "watch, look",
+    "pos": "Động từ"
   },
   {
     "w": "듣다",
     "p": "deutda",
     "m": "nghe",
     "cat": "verb",
-    "me": "listen"
+    "me": "listen",
+    "pos": "Động từ"
   },
   {
     "w": "읽다",
     "p": "ikda",
     "m": "đọc",
     "cat": "verb",
-    "me": "read"
+    "me": "read",
+    "pos": "Động từ"
   },
   {
     "w": "쓰다",
     "p": "sseuda",
     "m": "viết",
     "cat": "verb",
-    "me": "write"
+    "me": "write",
+    "pos": "Động từ"
   },
   {
     "w": "사다",
     "p": "sada",
     "m": "mua",
     "cat": "verb",
-    "me": "buy"
+    "me": "buy",
+    "pos": "Động từ"
   },
   {
     "w": "만나다",
     "p": "mannada",
     "m": "gặp",
     "cat": "verb",
-    "me": "meet"
+    "me": "meet",
+    "pos": "Động từ"
   },
   {
     "w": "공부하다",
     "p": "gongbuhada",
     "m": "học",
     "cat": "verb",
-    "me": "study"
+    "me": "study",
+    "pos": "Động từ"
   },
   {
     "w": "일하다",
     "p": "ilhada",
     "m": "làm việc",
     "cat": "verb",
-    "me": "work"
+    "me": "work",
+    "pos": "Động từ"
   },
   {
     "w": "버스",
     "p": "beoseu",
     "m": "xe buýt",
     "cat": "transport",
-    "me": "bus"
+    "me": "bus",
+    "pos": "Danh từ"
   },
   {
     "w": "지하철",
     "p": "jihacheol",
     "m": "tàu điện ngầm",
     "cat": "transport",
-    "me": "subway"
+    "me": "subway",
+    "pos": "Danh từ"
   },
   {
     "w": "택시",
     "p": "taeksi",
     "m": "taxi",
     "cat": "transport",
-    "me": "taxi"
+    "me": "taxi",
+    "pos": "Danh từ"
   },
   {
     "w": "자동차",
     "p": "jadongcha",
     "m": "ô tô",
     "cat": "transport",
-    "me": "car"
+    "me": "car",
+    "pos": "Danh từ"
   },
   {
     "w": "비행기",
     "p": "bihaenggi",
     "m": "máy bay",
     "cat": "transport",
-    "me": "plane"
+    "me": "plane",
+    "pos": "Danh từ"
   },
   {
     "w": "집",
     "p": "jip",
     "m": "nhà",
     "cat": "home",
-    "me": "home"
+    "me": "home",
+    "pos": "Danh từ"
   },
   {
     "w": "회사",
     "p": "hoesa",
     "m": "công ty",
     "cat": "work",
-    "me": "company"
+    "me": "company",
+    "pos": "Danh từ"
   },
   {
     "w": "은행",
     "p": "eunhaeng",
     "m": "ngân hàng",
     "cat": "place",
-    "me": "bank"
+    "me": "bank",
+    "pos": "Danh từ"
   },
   {
     "w": "우체국",
     "p": "ucheguk",
     "m": "bưu điện",
     "cat": "place",
-    "me": "post office"
+    "me": "post office",
+    "pos": "Danh từ"
   },
   {
     "w": "공원",
     "p": "gongwon",
     "m": "công viên",
     "cat": "place",
-    "me": "park"
+    "me": "park",
+    "pos": "Danh từ"
   },
   {
     "w": "물",
     "p": "mul",
     "m": "nước",
     "cat": "drink",
-    "me": "water"
+    "me": "water",
+    "pos": "Danh từ"
   },
   {
     "w": "커피",
     "p": "keopi",
     "m": "cà phê",
     "cat": "drink",
-    "me": "coffee"
+    "me": "coffee",
+    "pos": "Danh từ"
   },
   {
     "w": "빵",
     "p": "ppang",
     "m": "bánh mì",
     "cat": "food",
-    "me": "bread"
+    "me": "bread",
+    "pos": "Danh từ"
   },
   {
     "w": "고기",
     "p": "gogi",
     "m": "thịt",
     "cat": "food",
-    "me": "meat"
+    "me": "meat",
+    "pos": "Danh từ"
   },
   {
     "w": "과일",
     "p": "gwail",
     "m": "trái cây",
     "cat": "food",
-    "me": "fruit"
+    "me": "fruit",
+    "pos": "Danh từ"
   },
   {
     "w": "크다",
     "p": "keuda",
     "m": "to, lớn",
     "cat": "adjective",
-    "me": "big"
+    "me": "big",
+    "pos": "Tính từ"
   },
   {
     "w": "작다",
     "p": "jakda",
     "m": "nhỏ",
     "cat": "adjective",
-    "me": "small"
+    "me": "small",
+    "pos": "Tính từ"
   },
   {
     "w": "좋다",
     "p": "jota",
     "m": "tốt",
     "cat": "adjective",
-    "me": "good"
+    "me": "good",
+    "pos": "Tính từ"
   },
   {
     "w": "비싸다",
     "p": "bissada",
     "m": "đắt",
     "cat": "adjective",
-    "me": "expensive"
+    "me": "expensive",
+    "pos": "Tính từ"
   },
   {
     "w": "싸다",
     "p": "ssada",
     "m": "rẻ",
     "cat": "adjective",
-    "me": "cheap"
+    "me": "cheap",
+    "pos": "Tính từ"
   },
   {
     "w": "넷",
     "p": "net",
     "m": "bốn",
     "cat": "number",
-    "me": "four"
+    "me": "four",
+    "pos": "Số từ"
   },
   {
     "w": "다섯",
     "p": "daseot",
     "m": "năm",
     "cat": "number",
-    "me": "year"
+    "me": "five",
+    "pos": "Số từ"
   },
   {
     "w": "여섯",
     "p": "yeoseot",
     "m": "sáu",
     "cat": "number",
-    "me": "six"
+    "me": "six",
+    "pos": "Số từ"
   },
   {
     "w": "일곱",
     "p": "ilgop",
     "m": "bảy",
     "cat": "number",
-    "me": "seven"
+    "me": "seven",
+    "pos": "Số từ"
   },
   {
     "w": "여덟",
     "p": "yeodeol",
     "m": "tám",
     "cat": "number",
-    "me": "eight"
+    "me": "eight",
+    "pos": "Số từ"
   },
   {
     "w": "아홉",
     "p": "ahop",
     "m": "chín",
     "cat": "number",
-    "me": "nine"
+    "me": "nine",
+    "pos": "Số từ"
   },
   {
     "w": "열",
     "p": "yeol",
     "m": "mười",
     "cat": "number",
-    "me": "ten"
+    "me": "ten",
+    "pos": "Số từ"
   },
   {
     "w": "육",
     "p": "yuk",
     "m": "sáu",
     "cat": "number",
-    "me": "six"
+    "me": "six",
+    "pos": "Số từ"
   },
   {
     "w": "칠",
     "p": "chil",
     "m": "bảy",
     "cat": "number",
-    "me": "seven"
+    "me": "seven",
+    "pos": "Số từ"
   },
   {
     "w": "팔",
     "p": "pal",
     "m": "tám",
     "cat": "number",
-    "me": "eight"
+    "me": "eight",
+    "pos": "Số từ"
   },
   {
     "w": "구",
     "p": "gu",
     "m": "chín",
     "cat": "number",
-    "me": "nine"
+    "me": "nine",
+    "pos": "Số từ"
   },
   {
     "w": "십",
     "p": "sip",
     "m": "mười",
     "cat": "number",
-    "me": "ten"
+    "me": "ten",
+    "pos": "Số từ"
   },
   {
     "w": "뭐",
     "p": "mwo",
     "m": "gì",
     "cat": "pronoun",
-    "me": "what"
+    "me": "what",
+    "pos": "Đại từ"
   },
   {
     "w": "누구",
     "p": "nugu",
     "m": "ai",
     "cat": "pronoun",
-    "me": "who"
+    "me": "who",
+    "pos": "Đại từ"
   },
   {
     "w": "어디",
     "p": "eodi",
     "m": "đâu",
     "cat": "pronoun",
-    "me": "where"
+    "me": "where",
+    "pos": "Đại từ"
   },
   {
     "w": "언제",
     "p": "eonje",
     "m": "khi nào",
     "cat": "pronoun",
-    "me": "when"
+    "me": "when",
+    "pos": "Đại từ"
   },
   {
     "w": "왜",
     "p": "wae",
     "m": "tại sao",
     "cat": "pronoun",
-    "me": "why"
+    "me": "why",
+    "pos": "Đại từ"
   },
   {
     "w": "어떻게",
     "p": "eotteoke",
     "m": "như thế nào",
     "cat": "pronoun",
-    "me": "how"
+    "me": "how",
+    "pos": "Đại từ"
   },
   {
     "w": "얼마",
     "p": "eolma",
     "m": "bao nhiêu",
     "cat": "pronoun",
-    "me": "how much"
+    "me": "how much",
+    "pos": "Đại từ"
   },
   {
     "w": "아침",
     "p": "achim",
     "m": "buổi sáng",
     "cat": "time",
-    "me": "morning"
+    "me": "morning",
+    "pos": "Danh từ"
   },
   {
     "w": "점심",
     "p": "jeomsim",
     "m": "buổi trưa",
     "cat": "time",
-    "me": "noon, midday"
+    "me": "noon, midday",
+    "pos": "Danh từ"
   },
   {
     "w": "저녁",
     "p": "jeonyeok",
     "m": "buổi tối",
     "cat": "time",
-    "me": "evening"
+    "me": "evening",
+    "pos": "Danh từ"
   },
   {
     "w": "밤",
     "p": "bam",
     "m": "đêm",
     "cat": "time",
-    "me": "night"
+    "me": "night",
+    "pos": "Danh từ"
   },
   {
     "w": "돈",
     "p": "don",
     "m": "tiền",
     "cat": "money",
-    "me": "money"
+    "me": "money",
+    "pos": "Danh từ"
   },
   {
     "w": "가격",
     "p": "gagyeok",
     "m": "giá cả",
     "cat": "money",
-    "me": "price"
+    "me": "price",
+    "pos": "Danh từ"
   },
   {
     "w": "시장",
     "p": "sijang",
     "m": "chợ",
     "cat": "shopping",
-    "me": "market"
+    "me": "market",
+    "pos": "Danh từ"
   },
   {
     "w": "백화점",
     "p": "baekhwajeom",
     "m": "trung tâm thương mại",
     "cat": "shopping",
-    "me": "mall"
+    "me": "mall",
+    "pos": "Danh từ"
   },
   {
     "w": "편의점",
     "p": "pyeonuijeom",
     "m": "cửa hàng tiện lợi",
     "cat": "shopping",
-    "me": "convenience store"
+    "me": "convenience store",
+    "pos": "Danh từ"
   },
   {
     "w": "카드",
     "p": "kadeu",
     "m": "thẻ",
     "cat": "money",
-    "me": "card"
+    "me": "card",
+    "pos": "Danh từ"
   },
   {
     "w": "영수증",
     "p": "yeongsujeung",
     "m": "hóa đơn",
     "cat": "money",
-    "me": "invoice"
+    "me": "invoice",
+    "pos": "Danh từ"
   },
   {
     "w": "아프다",
     "p": "apeuda",
     "m": "đau, ốm",
     "cat": "health",
-    "me": "hurt, sick"
+    "me": "hurt, sick",
+    "pos": "Tính từ"
   },
   {
     "w": "감기",
     "p": "gamgi",
     "m": "cảm cúm",
     "cat": "health",
-    "me": "flu, cold"
+    "me": "flu, cold",
+    "pos": "Danh từ"
   },
   {
     "w": "약",
     "p": "yak",
     "m": "thuốc",
     "cat": "health",
-    "me": "medicine"
+    "me": "medicine",
+    "pos": "Danh từ"
   },
   {
     "w": "의사",
     "p": "uisa",
     "m": "bác sĩ",
     "cat": "work",
-    "me": "doctor"
+    "me": "doctor",
+    "pos": "Danh từ"
   },
   {
     "w": "간호사",
     "p": "ganhosa",
     "m": "y tá",
     "cat": "work",
-    "me": "nurse"
+    "me": "nurse",
+    "pos": "Danh từ"
   },
   {
     "w": "기쁘다",
     "p": "gippeuda",
     "m": "vui",
     "cat": "emotion",
-    "me": "happy"
+    "me": "happy",
+    "pos": "Tính từ"
   },
   {
     "w": "슬프다",
     "p": "seulpeuda",
     "m": "buồn",
     "cat": "emotion",
-    "me": "sad"
+    "me": "sad",
+    "pos": "Tính từ"
   },
   {
     "w": "화나다",
     "p": "hwanada",
     "m": "tức giận",
     "cat": "emotion",
-    "me": "angry"
+    "me": "angry",
+    "pos": "Tính từ"
   },
   {
     "w": "무섭다",
     "p": "museopda",
     "m": "sợ hãi",
     "cat": "emotion",
-    "me": "scared"
+    "me": "scared",
+    "pos": "Tính từ"
   },
   {
     "w": "피곤하다",
     "p": "pigonhada",
     "m": "mệt mỏi",
     "cat": "emotion",
-    "me": "tired"
+    "me": "tired",
+    "pos": "Tính từ"
   },
   {
     "w": "선생님",
     "p": "seonsaengnim",
     "m": "giáo viên",
     "cat": "school",
-    "me": "teacher"
+    "me": "teacher",
+    "pos": "Danh từ"
   },
   {
     "w": "학생",
     "p": "haksaeng",
     "m": "học sinh",
     "cat": "school",
-    "me": "student"
+    "me": "student",
+    "pos": "Động từ"
   },
   {
     "w": "교실",
     "p": "gyosil",
     "m": "lớp học",
     "cat": "school",
-    "me": "class"
+    "me": "class",
+    "pos": "Danh từ"
   },
   {
     "w": "시험",
     "p": "siheom",
     "m": "kỳ thi",
     "cat": "school",
-    "me": "exam"
+    "me": "exam",
+    "pos": "Danh từ"
   },
   {
     "w": "숙제",
     "p": "sukje",
     "m": "bài tập về nhà",
     "cat": "school",
-    "me": "homework"
+    "me": "homework",
+    "pos": "Danh từ"
   },
   {
     "w": "사무실",
     "p": "samusil",
     "m": "văn phòng",
     "cat": "work",
-    "me": "office"
+    "me": "office",
+    "pos": "Danh từ"
   },
   {
     "w": "회의",
     "p": "hoeui",
     "m": "cuộc họp",
     "cat": "work",
-    "me": "meeting"
+    "me": "meeting",
+    "pos": "Danh từ"
   },
   {
     "w": "운동",
     "p": "undong",
     "m": "thể thao",
     "cat": "sport",
-    "me": "sports"
+    "me": "sports",
+    "pos": "Danh từ"
   },
   {
     "w": "축구",
     "p": "chukgu",
     "m": "bóng đá",
     "cat": "sport",
-    "me": "football"
+    "me": "football",
+    "pos": "Danh từ"
   },
   {
     "w": "수영",
     "p": "suyeong",
     "m": "bơi lội",
     "cat": "sport",
-    "me": "swim"
+    "me": "swim",
+    "pos": "Động từ"
   },
   {
     "w": "노래",
     "p": "norae",
     "m": "bài hát",
     "cat": "culture",
-    "me": "song"
+    "me": "song",
+    "pos": "Danh từ"
   },
   {
     "w": "영화",
     "p": "yeonghwa",
     "m": "phim",
     "cat": "culture",
-    "me": "film, movie"
+    "me": "film, movie",
+    "pos": "Danh từ"
   },
   {
     "w": "음악",
     "p": "eumak",
     "m": "âm nhạc",
     "cat": "culture",
-    "me": "music"
+    "me": "music",
+    "pos": "Danh từ"
   },
   {
     "w": "옷",
     "p": "ot",
     "m": "quần áo",
     "cat": "clothing",
-    "me": "clothes"
+    "me": "clothes",
+    "pos": "Danh từ"
   },
   {
     "w": "신발",
     "p": "sinbal",
     "m": "giày",
     "cat": "clothing",
-    "me": "shoes"
+    "me": "shoes",
+    "pos": "Danh từ"
   },
   {
     "w": "모자",
     "p": "moja",
     "m": "mũ",
     "cat": "clothing",
-    "me": "hat"
+    "me": "hat",
+    "pos": "Danh từ"
   },
   {
     "w": "안경",
     "p": "angyeong",
     "m": "kính mắt",
     "cat": "clothing",
-    "me": "glasses"
+    "me": "glasses",
+    "pos": "Danh từ"
   },
   {
     "w": "앉다",
     "p": "anda",
     "m": "ngồi",
     "cat": "verb",
-    "me": "sit"
+    "me": "sit",
+    "pos": "Động từ"
   },
   {
     "w": "서다",
     "p": "seoda",
     "m": "đứng",
     "cat": "verb",
-    "me": "stand"
+    "me": "stand",
+    "pos": "Động từ"
   },
   {
     "w": "걷다",
     "p": "geotda",
     "m": "đi bộ",
     "cat": "verb",
-    "me": "walk"
+    "me": "walk",
+    "pos": "Động từ"
   },
   {
     "w": "뛰다",
     "p": "ttwida",
     "m": "chạy",
     "cat": "verb",
-    "me": "run"
+    "me": "run",
+    "pos": "Động từ"
   },
   {
     "w": "웃다",
     "p": "utda",
     "m": "cười",
     "cat": "verb",
-    "me": "laugh"
+    "me": "laugh",
+    "pos": "Động từ"
   },
   {
     "w": "울다",
     "p": "ulda",
     "m": "khóc",
     "cat": "verb",
-    "me": "cry"
+    "me": "cry",
+    "pos": "Động từ"
   },
   {
     "w": "말하다",
     "p": "malhada",
     "m": "nói",
     "cat": "verb",
-    "me": "speak"
+    "me": "speak",
+    "pos": "Động từ"
   },
   {
     "w": "전화하다",
     "p": "jeonhwahada",
     "m": "gọi điện",
     "cat": "verb",
-    "me": "make a phone call"
+    "me": "make a phone call",
+    "pos": "Động từ"
   },
   {
     "w": "시작하다",
     "p": "sijakhada",
     "m": "bắt đầu",
     "cat": "verb",
-    "me": "start"
+    "me": "start",
+    "pos": "Động từ"
   },
   {
     "w": "끝나다",
     "p": "kkeunnada",
     "m": "kết thúc",
     "cat": "verb",
-    "me": "end, conclude"
+    "me": "end, conclude",
+    "pos": "Động từ"
   },
   {
     "w": "열다",
     "p": "yeolda",
     "m": "mở",
     "cat": "verb",
-    "me": "open"
+    "me": "open",
+    "pos": "Động từ"
   },
   {
     "w": "닫다",
     "p": "datda",
     "m": "đóng",
     "cat": "verb",
-    "me": "close"
+    "me": "close",
+    "pos": "Động từ"
   },
   {
     "w": "주다",
     "p": "juda",
     "m": "cho, đưa",
     "cat": "verb",
-    "me": "give"
+    "me": "give",
+    "pos": "Động từ"
   },
   {
     "w": "받다",
     "p": "batda",
     "m": "nhận",
     "cat": "verb",
-    "me": "receive"
+    "me": "receive",
+    "pos": "Động từ"
   },
   {
     "w": "많다",
     "p": "manta",
     "m": "nhiều",
     "cat": "adjective",
-    "me": "many"
+    "me": "many",
+    "pos": "Tính từ"
   },
   {
     "w": "적다",
     "p": "jeokda",
     "m": "ít",
     "cat": "adjective",
-    "me": "few, little"
+    "me": "few, little",
+    "pos": "Tính từ"
   },
   {
     "w": "길다",
     "p": "gilda",
     "m": "dài",
     "cat": "adjective",
-    "me": "long"
+    "me": "long",
+    "pos": "Tính từ"
   },
   {
     "w": "짧다",
     "p": "jjalda",
     "m": "ngắn",
     "cat": "adjective",
-    "me": "short"
+    "me": "short",
+    "pos": "Tính từ"
   },
   {
     "w": "높다",
     "p": "nopda",
     "m": "cao",
     "cat": "adjective",
-    "me": "tall"
+    "me": "tall",
+    "pos": "Tính từ"
   },
   {
     "w": "낮다",
     "p": "natda",
     "m": "thấp",
     "cat": "adjective",
-    "me": "low"
+    "me": "low",
+    "pos": "Tính từ"
   },
   {
     "w": "빠르다",
     "p": "ppareuda",
     "m": "nhanh",
     "cat": "adjective",
-    "me": "fast"
+    "me": "fast",
+    "pos": "Tính từ"
   },
   {
     "w": "느리다",
     "p": "neurida",
     "m": "chậm",
     "cat": "adjective",
-    "me": "slow"
+    "me": "slow",
+    "pos": "Tính từ"
   },
   {
     "w": "쉽다",
     "p": "swipda",
     "m": "dễ",
     "cat": "adjective",
-    "me": "easy"
+    "me": "easy",
+    "pos": "Tính từ"
   },
   {
     "w": "어렵다",
     "p": "eoryeopda",
     "m": "khó",
     "cat": "adjective",
-    "me": "difficult"
+    "me": "difficult",
+    "pos": "Tính từ"
   },
   {
     "w": "산",
     "p": "san",
     "m": "núi",
     "cat": "nature",
-    "me": "mountain"
+    "me": "mountain",
+    "pos": "Danh từ"
   },
   {
     "w": "바다",
     "p": "bada",
     "m": "biển",
     "cat": "nature",
-    "me": "sea"
+    "me": "sea",
+    "pos": "Danh từ"
   },
   {
     "w": "강",
     "p": "gang",
     "m": "sông",
     "cat": "nature",
-    "me": "river"
+    "me": "river",
+    "pos": "Danh từ"
   },
   {
     "w": "나무",
     "p": "namu",
     "m": "cây",
     "cat": "nature",
-    "me": "tree"
+    "me": "tree",
+    "pos": "Danh từ"
   },
   {
     "w": "꽃",
     "p": "kkot",
     "m": "hoa",
     "cat": "nature",
-    "me": "flower"
+    "me": "flower",
+    "pos": "Danh từ"
   },
   {
     "w": "전화",
     "p": "jeonhwa",
     "m": "điện thoại",
     "cat": "tech",
-    "me": "phone"
+    "me": "phone",
+    "pos": "Danh từ"
   },
   {
     "w": "컴퓨터",
     "p": "keompyuteo",
     "m": "máy tính",
     "cat": "tech",
-    "me": "computer"
+    "me": "computer",
+    "pos": "Danh từ"
   },
   {
     "w": "텔레비전",
     "p": "tellebijeon",
     "m": "tivi",
     "cat": "tech",
-    "me": "television"
+    "me": "television",
+    "pos": "Danh từ"
   },
   {
     "w": "우산",
     "p": "usan",
     "m": "ô, dù",
     "cat": "home",
-    "me": "umbrella"
+    "me": "umbrella",
+    "pos": "Danh từ"
   },
   {
     "w": "개",
     "p": "gae",
     "m": "chó",
     "cat": "animal",
-    "me": "dog"
+    "me": "dog",
+    "pos": "Danh từ"
   },
   {
     "w": "고양이",
     "p": "goyangi",
     "m": "mèo",
     "cat": "animal",
-    "me": "cat"
+    "me": "cat",
+    "pos": "Danh từ"
   },
   {
     "w": "새",
     "p": "sae",
     "m": "chim",
     "cat": "animal",
-    "me": "bird"
+    "me": "bird",
+    "pos": "Danh từ"
   },
   {
     "w": "물고기",
     "p": "mulgogi",
     "m": "cá",
     "cat": "animal",
-    "me": "fish"
+    "me": "fish",
+    "pos": "Danh từ"
   },
   {
     "w": "말",
     "p": "mal",
     "m": "ngựa",
     "cat": "animal",
-    "me": "horse"
+    "me": "horse",
+    "pos": "Danh từ"
   },
   {
     "w": "소",
     "p": "so",
     "m": "bò",
     "cat": "animal",
-    "me": "cow"
+    "me": "cow",
+    "pos": "Động từ"
   },
   {
     "w": "돼지",
     "p": "dwaeji",
     "m": "lợn",
     "cat": "animal",
-    "me": "pig"
+    "me": "pig",
+    "pos": "Danh từ"
   },
   {
     "w": "토끼",
     "p": "tokki",
     "m": "thỏ",
     "cat": "animal",
-    "me": "rabbit"
+    "me": "rabbit",
+    "pos": "Danh từ"
   },
   {
     "w": "사자",
     "p": "saja",
     "m": "sư tử",
     "cat": "animal",
-    "me": "lion"
+    "me": "lion",
+    "pos": "Danh từ"
   },
   {
     "w": "호랑이",
     "p": "horangi",
     "m": "hổ",
     "cat": "animal",
-    "me": "tiger"
+    "me": "tiger",
+    "pos": "Danh từ"
   },
   {
     "w": "봄",
     "p": "bom",
     "m": "mùa xuân",
     "cat": "nature",
-    "me": "spring"
+    "me": "spring",
+    "pos": "Danh từ"
   },
   {
     "w": "여름",
     "p": "yeoreum",
     "m": "mùa hè",
     "cat": "nature",
-    "me": "summer"
+    "me": "summer",
+    "pos": "Danh từ"
   },
   {
     "w": "가을",
     "p": "gaeul",
     "m": "mùa thu",
     "cat": "nature",
-    "me": "autumn"
+    "me": "autumn",
+    "pos": "Danh từ"
   },
   {
     "w": "겨울",
     "p": "gyeoul",
     "m": "mùa đông",
     "cat": "nature",
-    "me": "winter"
+    "me": "winter",
+    "pos": "Danh từ"
   },
   {
     "w": "할아버지",
     "p": "harabeoji",
     "m": "ông",
     "cat": "family",
-    "me": "grandfather, sir"
+    "me": "grandfather, sir",
+    "pos": "Đại từ"
   },
   {
     "w": "할머니",
     "p": "halmeoni",
     "m": "bà",
     "cat": "family",
-    "me": "grandmother"
+    "me": "grandmother",
+    "pos": "Đại từ"
   },
   {
     "w": "삼촌",
     "p": "samchon",
     "m": "chú, cậu",
     "cat": "family",
-    "me": "uncle"
+    "me": "uncle",
+    "pos": "Đại từ"
   },
   {
     "w": "이모",
     "p": "imo",
     "m": "dì (chị/em gái của mẹ)",
     "cat": "family",
-    "me": "aunt (mother's sister)"
+    "me": "aunt (mother's sister)",
+    "pos": "Đại từ"
   },
   {
     "w": "남편",
     "p": "nampyeon",
     "m": "chồng",
     "cat": "family",
-    "me": "husband"
+    "me": "husband",
+    "pos": "Danh từ"
   },
   {
     "w": "아내",
     "p": "anae",
     "m": "vợ",
     "cat": "family",
-    "me": "wife"
+    "me": "wife",
+    "pos": "Danh từ"
   },
   {
     "w": "아들",
     "p": "adeul",
     "m": "con trai",
     "cat": "family",
-    "me": "son"
+    "me": "son",
+    "pos": "Danh từ"
   },
   {
     "w": "딸",
     "p": "ttal",
     "m": "con gái",
     "cat": "family",
-    "me": "daughter"
+    "me": "daughter",
+    "pos": "Danh từ"
   },
   {
     "w": "위",
     "p": "wi",
     "m": "trên",
     "cat": "place",
-    "me": "on"
+    "me": "on",
+    "pos": "Danh từ"
   },
   {
     "w": "아래",
     "p": "arae",
     "m": "dưới",
     "cat": "place",
-    "me": "under"
+    "me": "under",
+    "pos": "Danh từ"
   },
   {
     "w": "앞",
     "p": "ap",
     "m": "trước",
     "cat": "place",
-    "me": "before"
+    "me": "before",
+    "pos": "Phó từ"
   },
   {
     "w": "뒤",
     "p": "dwi",
     "m": "sau",
     "cat": "place",
-    "me": "after"
+    "me": "after",
+    "pos": "Danh từ"
   },
   {
     "w": "왼쪽",
     "p": "oenjjok",
     "m": "bên trái",
     "cat": "place",
-    "me": "left"
+    "me": "left",
+    "pos": "Danh từ"
   },
   {
     "w": "오른쪽",
     "p": "oreunjjok",
     "m": "bên phải",
     "cat": "place",
-    "me": "right side"
+    "me": "right side",
+    "pos": "Danh từ"
   },
   {
     "w": "안",
     "p": "an",
     "m": "trong",
     "cat": "place",
-    "me": "inside, clear"
+    "me": "inside, clear",
+    "pos": "Danh từ"
   },
   {
     "w": "밖",
     "p": "bak",
     "m": "ngoài",
     "cat": "place",
-    "me": "outside"
+    "me": "outside",
+    "pos": "Danh từ"
   },
   {
     "w": "초록색",
     "p": "choroksaek",
     "m": "màu xanh lá",
     "cat": "color",
-    "me": "green"
+    "me": "green",
+    "pos": "Danh từ"
   },
   {
     "w": "보라색",
     "p": "borasaek",
     "m": "màu tím",
     "cat": "color",
-    "me": "purple"
+    "me": "purple",
+    "pos": "Danh từ"
   },
   {
     "w": "회색",
     "p": "hoesaek",
     "m": "màu xám",
     "cat": "color",
-    "me": "gray"
+    "me": "gray",
+    "pos": "Danh từ"
   },
   {
     "w": "갈색",
     "p": "galsaek",
     "m": "màu nâu",
     "cat": "color",
-    "me": "brown"
+    "me": "brown",
+    "pos": "Danh từ"
   },
   {
     "w": "계란",
     "p": "gyeran",
     "m": "trứng",
     "cat": "food",
-    "me": "egg"
+    "me": "egg",
+    "pos": "Danh từ"
   },
   {
     "w": "채소",
     "p": "chaeso",
     "m": "rau",
     "cat": "food",
-    "me": "vegetable"
+    "me": "vegetable",
+    "pos": "Danh từ"
   },
   {
     "w": "우유",
     "p": "uyu",
     "m": "sữa",
     "cat": "drink",
-    "me": "milk"
+    "me": "milk",
+    "pos": "Danh từ"
   },
   {
     "w": "설탕",
     "p": "seoltang",
     "m": "đường",
     "cat": "food",
-    "me": "sugar"
+    "me": "sugar",
+    "pos": "Danh từ"
   },
   {
     "w": "소금",
     "p": "sogeum",
     "m": "muối",
     "cat": "food",
-    "me": "salt"
+    "me": "salt",
+    "pos": "Danh từ"
   },
   {
     "w": "가방",
     "p": "gabang",
     "m": "túi xách",
     "cat": "home",
-    "me": "bag"
+    "me": "bag",
+    "pos": "Danh từ"
   },
   {
     "w": "지갑",
     "p": "jigap",
     "m": "ví",
     "cat": "home",
-    "me": "wallet"
+    "me": "wallet",
+    "pos": "Danh từ"
   },
   {
     "w": "열쇠",
     "p": "yeolsoe",
     "m": "chìa khóa",
     "cat": "home",
-    "me": "key"
+    "me": "key",
+    "pos": "Danh từ"
   },
   {
     "w": "휴대폰",
     "p": "hyudaepon",
     "m": "điện thoại di động",
     "cat": "tech",
-    "me": "mobile"
+    "me": "mobile",
+    "pos": "Danh từ"
   },
   {
     "w": "시계",
     "p": "sigye",
     "m": "đồng hồ",
     "cat": "home",
-    "me": "clock, watch"
+    "me": "clock, watch",
+    "pos": "Danh từ"
   },
   {
     "w": "의자",
     "p": "uija",
     "m": "ghế",
     "cat": "home",
-    "me": "chair"
+    "me": "chair",
+    "pos": "Danh từ"
   },
   {
     "w": "침대",
     "p": "chimdae",
     "m": "giường",
     "cat": "home",
-    "me": "bed"
+    "me": "bed",
+    "pos": "Danh từ"
   },
   {
     "w": "창문",
     "p": "changmun",
     "m": "cửa sổ",
     "cat": "home",
-    "me": "window"
+    "me": "window",
+    "pos": "Danh từ"
   },
   {
     "w": "문",
     "p": "mun",
     "m": "cửa",
     "cat": "home",
-    "me": "door"
+    "me": "door",
+    "pos": "Danh từ"
   },
   {
     "w": "알다",
     "p": "alda",
     "m": "biết",
     "cat": "verb",
-    "me": "know"
+    "me": "know",
+    "pos": "Động từ"
   },
   {
     "w": "모르다",
     "p": "moreuda",
     "m": "không biết",
     "cat": "verb",
-    "me": "not know"
+    "me": "not know",
+    "pos": "Động từ"
   },
   {
     "w": "좋아하다",
     "p": "joahada",
     "m": "thích",
     "cat": "verb",
-    "me": "like"
+    "me": "like",
+    "pos": "Động từ"
   },
   {
     "w": "싫어하다",
     "p": "sireohada",
     "m": "ghét",
     "cat": "verb",
-    "me": "hate"
+    "me": "hate",
+    "pos": "Động từ"
   },
   {
     "w": "살다",
     "p": "salda",
     "m": "sống",
     "cat": "verb",
-    "me": "live, alive"
+    "me": "live, alive",
+    "pos": "Động từ"
   },
   {
     "w": "죽다",
     "p": "jukda",
     "m": "chết",
     "cat": "verb",
-    "me": "die"
+    "me": "die",
+    "pos": "Động từ"
   },
   {
     "w": "놀다",
     "p": "nolda",
     "m": "chơi",
     "cat": "verb",
-    "me": "play"
+    "me": "play",
+    "pos": "Động từ"
   },
   {
     "w": "쉬다",
     "p": "swida",
     "m": "nghỉ ngơi",
     "cat": "verb",
-    "me": "rest"
+    "me": "rest",
+    "pos": "Động từ"
   },
   {
     "w": "씻다",
     "p": "ssitda",
     "m": "rửa, tắm",
     "cat": "verb",
-    "me": "wash, bathe"
+    "me": "wash, bathe",
+    "pos": "Động từ"
   },
   {
     "w": "입다",
     "p": "ipda",
     "m": "mặc",
     "cat": "verb",
-    "me": "wear"
+    "me": "wear",
+    "pos": "Động từ"
   },
   {
     "w": "벗다",
     "p": "beotda",
     "m": "cởi",
     "cat": "verb",
-    "me": "take off, undo"
+    "me": "take off, undo",
+    "pos": "Động từ"
   },
   {
     "w": "타다",
     "p": "tada",
     "m": "đi (phương tiện), lên xe",
     "cat": "verb",
-    "me": "take (a vehicle), board"
+    "me": "take (a vehicle), board",
+    "pos": "Động từ"
   },
   {
     "w": "내리다",
     "p": "naerida",
     "m": "xuống (xe)",
     "cat": "verb",
-    "me": "get off (a vehicle)"
+    "me": "get off (a vehicle)",
+    "pos": "Động từ"
   },
   {
     "w": "도착하다",
     "p": "dochakhada",
     "m": "đến nơi",
     "cat": "verb",
-    "me": "arrive"
+    "me": "arrive",
+    "pos": "Động từ"
   },
   {
     "w": "출발하다",
     "p": "chulbalhada",
     "m": "xuất phát",
     "cat": "verb",
-    "me": "depart, set out"
+    "me": "depart, set out",
+    "pos": "Động từ"
   },
   {
     "w": "재미있다",
     "p": "jaemiitda",
     "m": "thú vị",
     "cat": "adjective",
-    "me": "interesting"
+    "me": "interesting",
+    "pos": "Tính từ"
   },
   {
     "w": "재미없다",
     "p": "jaemieopda",
     "m": "chán",
     "cat": "adjective",
-    "me": "bored"
+    "me": "bored",
+    "pos": "Tính từ"
   },
   {
     "w": "조용하다",
     "p": "joyonghada",
     "m": "yên tĩnh",
     "cat": "adjective",
-    "me": "quiet"
+    "me": "quiet",
+    "pos": "Tính từ"
   },
   {
     "w": "시끄럽다",
     "p": "sikkeureopda",
     "m": "ồn ào",
     "cat": "adjective",
-    "me": "noisy"
+    "me": "noisy",
+    "pos": "Tính từ"
   },
   {
     "w": "깨끗하다",
     "p": "kkaekkeutada",
     "m": "sạch sẽ",
     "cat": "adjective",
-    "me": "clean"
+    "me": "clean",
+    "pos": "Tính từ"
   },
   {
     "w": "더럽다",
     "p": "deoreopda",
     "m": "bẩn",
     "cat": "adjective",
-    "me": "dirty"
+    "me": "dirty",
+    "pos": "Tính từ"
   },
   {
     "w": "새롭다",
     "p": "saeropda",
     "m": "mới",
     "cat": "adjective",
-    "me": "new"
+    "me": "new",
+    "pos": "Tính từ"
   },
   {
     "w": "젊다",
     "p": "jeomda",
     "m": "trẻ",
     "cat": "adjective",
-    "me": "young"
+    "me": "young",
+    "pos": "Tính từ"
   },
   {
     "w": "늙다",
     "p": "neukda",
     "m": "già",
     "cat": "adjective",
-    "me": "old"
+    "me": "old",
+    "pos": "Tính từ"
   },
   {
     "w": "처음 뵙겠습니다",
     "p": "cheoeum boepgetseumnida",
     "m": "rất hân hạnh được gặp (lần đầu)",
     "cat": "greeting",
-    "me": "very pleased to meet you (for the first time)"
+    "me": "very pleased to meet you (for the first time)",
+    "pos": "Danh từ"
   },
   {
     "w": "반갑습니다",
     "p": "bangapseumnida",
     "m": "rất vui được gặp",
     "cat": "greeting",
-    "me": "very pleased to meet you"
+    "me": "very pleased to meet you",
+    "pos": "Danh từ"
   },
   {
     "w": "잘 지내요",
     "p": "jal jinaeyo",
     "m": "tôi khỏe, vẫn ổn",
     "cat": "greeting",
-    "me": "I'm fine, still doing well"
+    "me": "I'm fine, still doing well",
+    "pos": "Danh từ"
   },
   {
     "w": "실례합니다",
     "p": "sillyehamnida",
     "m": "xin lỗi (làm phiền)",
     "cat": "greeting",
-    "me": "sorry (for the trouble)"
+    "me": "sorry (for the trouble)",
+    "pos": "Danh từ"
   },
   {
     "w": "저",
     "p": "jeo",
     "m": "tôi (khiêm nhường)",
     "cat": "pronoun",
-    "me": "I (humble form)"
+    "me": "I (humble form)",
+    "pos": "Đại từ"
   },
   {
     "w": "나",
     "p": "na",
     "m": "tôi, tao",
     "cat": "pronoun",
-    "me": "I, me (informal)"
+    "me": "I, me (informal)",
+    "pos": "Đại từ"
   },
   {
     "w": "너",
     "p": "neo",
     "m": "bạn, mày",
     "cat": "pronoun",
-    "me": "you (informal/casual)"
+    "me": "you (informal/casual)",
+    "pos": "Đại từ"
   },
   {
     "w": "그",
     "p": "geu",
     "m": "anh ấy, ông ấy",
     "cat": "pronoun",
-    "me": "he, him"
+    "me": "he, him",
+    "pos": "Đại từ"
   },
   {
     "w": "그녀",
     "p": "geunyeo",
     "m": "cô ấy",
     "cat": "pronoun",
-    "me": "she, her"
+    "me": "she, her",
+    "pos": "Đại từ"
   },
   {
     "w": "우리",
     "p": "uri",
     "m": "chúng tôi, chúng ta",
     "cat": "pronoun",
-    "me": "we"
+    "me": "we",
+    "pos": "Đại từ"
   },
   {
     "w": "여러분",
     "p": "yeoreobun",
     "m": "các bạn, quý vị",
     "cat": "pronoun",
-    "me": "everyone, ladies and gentlemen"
+    "me": "everyone, ladies and gentlemen",
+    "pos": "Đại từ"
   },
   {
     "w": "그들",
     "p": "geudeul",
     "m": "họ",
     "cat": "pronoun",
-    "me": "surname; they"
+    "me": "surname; they",
+    "pos": "Đại từ"
   },
   {
     "w": "이것",
     "p": "igeot",
     "m": "cái này",
     "cat": "pronoun",
-    "me": "this"
+    "me": "this",
+    "pos": "Đại từ"
   },
   {
     "w": "그것",
     "p": "geugeot",
     "m": "cái đó",
     "cat": "pronoun",
-    "me": "that"
+    "me": "that",
+    "pos": "Đại từ"
   },
   {
     "w": "저것",
     "p": "jeogeot",
     "m": "cái kia",
     "cat": "pronoun",
-    "me": "that one"
+    "me": "that one",
+    "pos": "Đại từ"
   },
   {
     "w": "무엇",
     "p": "mueot",
     "m": "cái gì (trang trọng)",
     "cat": "pronoun",
-    "me": "what (formal)"
+    "me": "what (formal)",
+    "pos": "Đại từ"
   },
   {
     "w": "자기",
     "p": "jagi",
     "m": "bản thân, tự mình",
     "cat": "pronoun",
-    "me": "oneself, by oneself"
+    "me": "oneself, by oneself",
+    "pos": "Đại từ"
   },
   {
     "w": "다른 사람",
     "p": "dareun saram",
     "m": "người khác",
     "cat": "pronoun",
-    "me": "someone else, other people"
+    "me": "someone else, other people",
+    "pos": "Đại từ"
   },
   {
     "w": "백",
     "p": "baek",
     "m": "trăm",
     "cat": "number",
-    "me": "hundred"
+    "me": "hundred",
+    "pos": "Số từ"
   },
   {
     "w": "천",
     "p": "cheon",
     "m": "nghìn",
     "cat": "number",
-    "me": "thousand"
+    "me": "thousand",
+    "pos": "Số từ"
   },
   {
     "w": "만",
     "p": "man",
     "m": "mười nghìn (vạn)",
     "cat": "number",
-    "me": "ten thousand"
+    "me": "ten thousand",
+    "pos": "Số từ"
   },
   {
     "w": "영",
     "p": "yeong",
     "m": "số không",
     "cat": "number",
-    "me": "zero"
+    "me": "zero",
+    "pos": "Danh từ"
   },
   {
     "w": "몇",
     "p": "myeot",
     "m": "mấy",
     "cat": "number",
-    "me": "how many"
+    "me": "how many",
+    "pos": "Đại từ"
   },
   {
     "w": "살",
     "p": "sal",
     "m": "tuổi",
     "cat": "number",
-    "me": "age"
+    "me": "age",
+    "pos": "Danh từ"
   },
   {
     "w": "번",
     "p": "beon",
     "m": "lần",
     "cat": "number",
-    "me": "time (occurrence)"
+    "me": "time (occurrence)",
+    "pos": "Danh từ"
   },
   {
     "w": "반",
     "p": "ban",
     "m": "nửa, rưỡi",
     "cat": "number",
-    "me": "half"
+    "me": "half",
+    "pos": "Số từ"
   },
   {
     "w": "십일",
     "p": "sibil",
     "m": "mười một",
     "cat": "number",
-    "me": "eleven"
+    "me": "eleven",
+    "pos": "Số từ"
   },
   {
     "w": "이십",
     "p": "isip",
     "m": "hai mươi",
     "cat": "number",
-    "me": "twenty"
+    "me": "twenty",
+    "pos": "Số từ"
   },
   {
     "w": "삼십",
     "p": "samsip",
     "m": "ba mươi",
     "cat": "number",
-    "me": "thirty"
+    "me": "thirty",
+    "pos": "Số từ"
   },
   {
     "w": "사십",
     "p": "sasip",
     "m": "bốn mươi",
     "cat": "number",
-    "me": "forty"
+    "me": "forty",
+    "pos": "Số từ"
   },
   {
     "w": "오십",
     "p": "osip",
     "m": "năm mươi",
     "cat": "number",
-    "me": "fifty"
+    "me": "fifty",
+    "pos": "Số từ"
   },
   {
     "w": "육십",
     "p": "yuksip",
     "m": "sáu mươi",
     "cat": "number",
-    "me": "sixty"
+    "me": "sixty",
+    "pos": "Số từ"
   },
   {
     "w": "칠십",
     "p": "chilsip",
     "m": "bảy mươi",
     "cat": "number",
-    "me": "seventy"
+    "me": "seventy",
+    "pos": "Số từ"
   },
   {
     "w": "친구",
     "p": "chingu",
     "m": "bạn bè",
     "cat": "family",
-    "me": "friend"
+    "me": "friend",
+    "pos": "Danh từ"
   },
   {
     "w": "아이",
     "p": "ai",
     "m": "đứa trẻ, con cái",
     "cat": "family",
-    "me": "child, children"
+    "me": "child, children",
+    "pos": "Danh từ"
   },
   {
     "w": "오후",
     "p": "ohu",
     "m": "buổi chiều",
     "cat": "time",
-    "me": "afternoon"
+    "me": "afternoon",
+    "pos": "Danh từ"
   },
   {
     "w": "새벽",
     "p": "saebyeok",
     "m": "rạng sáng, tờ mờ sáng",
     "cat": "time",
-    "me": "dawn, early morning twilight"
+    "me": "dawn, early morning twilight",
+    "pos": "Danh từ"
   },
   {
     "w": "전에",
     "p": "jeone",
     "m": "trước đây, trước kia",
     "cat": "time",
-    "me": "previously, formerly"
+    "me": "previously, formerly",
+    "pos": "Danh từ"
   },
   {
     "w": "후에",
     "p": "hue",
     "m": "sau này, về sau",
     "cat": "time",
-    "me": "later, afterward"
+    "me": "later, afterward",
+    "pos": "Phó từ"
   },
   {
     "w": "매일",
     "p": "maeil",
     "m": "mỗi ngày, hàng ngày",
     "cat": "time",
-    "me": "every day, daily"
+    "me": "every day, daily",
+    "pos": "Danh từ"
   },
   {
     "w": "시",
     "p": "si",
     "m": "giờ (chỉ thời gian)",
     "cat": "time",
-    "me": "hour (time)"
+    "me": "hour (time)",
+    "pos": "Danh từ"
   },
   {
     "w": "분",
     "p": "bun",
     "m": "phút",
     "cat": "time",
-    "me": "minute"
+    "me": "minute",
+    "pos": "Danh từ"
   },
   {
     "w": "주",
     "p": "ju",
     "m": "tuần lễ",
     "cat": "time",
-    "me": "week"
+    "me": "week",
+    "pos": "Danh từ"
   },
   {
     "w": "날",
     "p": "nal",
     "m": "ngày (đơn vị thời gian)",
     "cat": "time",
-    "me": "day (unit of time)"
+    "me": "day (unit of time)",
+    "pos": "Danh từ"
   },
   {
     "w": "달",
     "p": "dal",
     "m": "tháng",
     "cat": "time",
-    "me": "month"
+    "me": "month",
+    "pos": "Danh từ"
   },
   {
     "w": "한국",
     "p": "hanguk",
     "m": "Hàn Quốc",
     "cat": "place",
-    "me": "Korea"
+    "me": "Korea",
+    "pos": "Danh từ"
   },
   {
     "w": "서울",
     "p": "seoul",
     "m": "Seoul",
     "cat": "place",
-    "me": "Seoul"
+    "me": "Seoul",
+    "pos": "Danh từ"
   },
   {
     "w": "미국",
     "p": "miguk",
     "m": "Mỹ",
     "cat": "place",
-    "me": "United States"
+    "me": "United States",
+    "pos": "Danh từ"
   },
   {
     "w": "일본",
     "p": "ilbon",
     "m": "Nhật Bản",
     "cat": "place",
-    "me": "Japan"
+    "me": "Japan",
+    "pos": "Danh từ"
   },
   {
     "w": "도서관",
     "p": "doseogwan",
     "m": "thư viện",
     "cat": "place",
-    "me": "library"
+    "me": "library",
+    "pos": "Danh từ"
   },
   {
     "w": "가게",
     "p": "gage",
     "m": "cửa hàng",
     "cat": "place",
-    "me": "shop"
+    "me": "shop",
+    "pos": "Danh từ"
   },
   {
     "w": "거리",
     "p": "geori",
     "m": "đường, con đường",
     "cat": "place",
-    "me": "road"
+    "me": "road",
+    "pos": "Danh từ"
   },
   {
     "w": "정류장",
     "p": "jeongnyujang",
     "m": "trạm xe buýt",
     "cat": "place",
-    "me": "bus stop"
+    "me": "bus stop",
+    "pos": "Danh từ"
   },
   {
     "w": "역",
     "p": "yeok",
     "m": "ga, trạm",
     "cat": "place",
-    "me": "station"
+    "me": "station",
+    "pos": "Danh từ"
   },
   {
     "w": "도시",
     "p": "dosi",
     "m": "thành phố",
     "cat": "place",
-    "me": "city"
+    "me": "city",
+    "pos": "Danh từ"
   },
   {
     "w": "시골",
     "p": "sigol",
     "m": "nông thôn, vùng quê",
     "cat": "place",
-    "me": "countryside, rural area"
+    "me": "countryside, rural area",
+    "pos": "Danh từ"
   },
   {
     "w": "운동장",
     "p": "undongjang",
     "m": "sân vận động, sân trường",
     "cat": "place",
-    "me": "stadium, school yard"
+    "me": "stadium, school yard",
+    "pos": "Danh từ"
   },
   {
     "w": "바나나",
     "p": "banana",
     "m": "chuối",
     "cat": "food",
-    "me": "banana"
+    "me": "banana",
+    "pos": "Danh từ"
   },
   {
     "w": "수박",
     "p": "subak",
     "m": "dưa hấu",
     "cat": "food",
-    "me": "watermelon"
+    "me": "watermelon",
+    "pos": "Danh từ"
   },
   {
     "w": "포도",
     "p": "podo",
     "m": "nho",
     "cat": "food",
-    "me": "grape"
+    "me": "grape",
+    "pos": "Danh từ"
   },
   {
     "w": "오렌지",
     "p": "orenji",
     "m": "cam",
     "cat": "food",
-    "me": "orange (fruit)"
+    "me": "orange (fruit)",
+    "pos": "Danh từ"
   },
   {
     "w": "닭고기",
     "p": "dakgogi",
     "m": "thịt gà",
     "cat": "food",
-    "me": "chicken"
+    "me": "chicken",
+    "pos": "Danh từ"
   },
   {
     "w": "돼지고기",
     "p": "dwaejigogi",
     "m": "thịt lợn, thịt heo",
     "cat": "food",
-    "me": "pork"
+    "me": "pork",
+    "pos": "Danh từ"
   },
   {
     "w": "생선",
     "p": "saengseon",
     "m": "cá (thực phẩm)",
     "cat": "food",
-    "me": "fish (food)"
+    "me": "fish (food)",
+    "pos": "Danh từ"
   },
   {
     "w": "국수",
     "p": "guksu",
     "m": "mì, bún",
     "cat": "food",
-    "me": "noodles"
+    "me": "noodles",
+    "pos": "Danh từ"
   },
   {
     "w": "만두",
     "p": "mandu",
     "m": "bánh bao, sủi cảo",
     "cat": "food",
-    "me": "dumpling"
+    "me": "dumpling",
+    "pos": "Danh từ"
   },
   {
     "w": "국",
     "p": "guk",
     "m": "canh, súp",
     "cat": "food",
-    "me": "soup"
+    "me": "soup",
+    "pos": "Danh từ"
   },
   {
     "w": "사탕",
     "p": "satang",
     "m": "kẹo",
     "cat": "food",
-    "me": "candy"
+    "me": "candy",
+    "pos": "Danh từ"
   },
   {
     "w": "맥주",
     "p": "maekju",
     "m": "bia",
     "cat": "drink",
-    "me": "beer"
+    "me": "beer",
+    "pos": "Danh từ"
   },
   {
     "w": "주스",
     "p": "juseu",
     "m": "nước ép",
     "cat": "drink",
-    "me": "juice"
+    "me": "juice",
+    "pos": "Danh từ"
   },
   {
     "w": "바지",
     "p": "baji",
     "m": "quần dài",
     "cat": "clothing",
-    "me": "pants"
+    "me": "pants",
+    "pos": "Danh từ"
   },
   {
     "w": "치마",
     "p": "chima",
     "m": "váy",
     "cat": "clothing",
-    "me": "skirt"
+    "me": "skirt",
+    "pos": "Danh từ"
   },
   {
     "w": "양말",
     "p": "yangmal",
     "m": "tất, vớ",
     "cat": "clothing",
-    "me": "socks"
+    "me": "socks",
+    "pos": "Danh từ"
   },
   {
     "w": "외투",
     "p": "oetu",
     "m": "áo khoác",
     "cat": "clothing",
-    "me": "coat"
+    "me": "coat",
+    "pos": "Danh từ"
   },
   {
     "w": "농구",
     "p": "nonggu",
     "m": "bóng rổ",
     "cat": "sport",
-    "me": "basketball"
+    "me": "basketball",
+    "pos": "Danh từ"
   },
   {
     "w": "여행",
     "p": "yeohaeng",
     "m": "du lịch",
     "cat": "travel",
-    "me": "travel"
+    "me": "travel",
+    "pos": "Động từ"
   },
   {
     "w": "호텔",
     "p": "hotel",
     "m": "khách sạn",
     "cat": "travel",
-    "me": "hotel"
+    "me": "hotel",
+    "pos": "Danh từ"
   },
   {
     "w": "여권",
     "p": "yeogwon",
     "m": "hộ chiếu",
     "cat": "travel",
-    "me": "passport"
+    "me": "passport",
+    "pos": "Danh từ"
   },
   {
     "w": "지도",
     "p": "jido",
     "m": "bản đồ",
     "cat": "travel",
-    "me": "map"
+    "me": "map",
+    "pos": "Danh từ"
   },
   {
     "w": "짐",
     "p": "jim",
     "m": "hành lý",
     "cat": "travel",
-    "me": "luggage"
+    "me": "luggage",
+    "pos": "Danh từ"
   },
   {
     "w": "공항",
     "p": "gonghang",
     "m": "sân bay",
     "cat": "travel",
-    "me": "airport"
+    "me": "airport",
+    "pos": "Danh từ"
   },
   {
     "w": "책",
     "p": "chaek",
     "m": "sách",
     "cat": "school",
-    "me": "book"
+    "me": "book",
+    "pos": "Danh từ"
   },
   {
     "w": "볼펜",
     "p": "bolpen",
     "m": "bút bi",
     "cat": "school",
-    "me": "ballpoint pen"
+    "me": "ballpoint pen",
+    "pos": "Danh từ"
   },
   {
     "w": "종이",
     "p": "jongi",
     "m": "giấy",
     "cat": "school",
-    "me": "paper"
+    "me": "paper",
+    "pos": "Danh từ"
   },
   {
     "w": "한국어",
     "p": "hangugeo",
     "m": "tiếng Hàn",
     "cat": "school",
-    "me": "Korean language"
+    "me": "Korean language",
+    "pos": "Danh từ"
   },
   {
     "w": "영어",
     "p": "yeongeo",
     "m": "tiếng Anh",
     "cat": "school",
-    "me": "English"
+    "me": "English",
+    "pos": "Danh từ"
   },
   {
     "w": "사진",
     "p": "sajin",
     "m": "ảnh, hình ảnh",
     "cat": "home",
-    "me": "photo"
+    "me": "photo",
+    "pos": "Danh từ"
   },
   {
     "w": "자전거",
     "p": "jajeongeo",
     "m": "xe đạp",
     "cat": "home",
-    "me": "bike"
+    "me": "bike",
+    "pos": "Danh từ"
   },
   {
     "w": "거울",
     "p": "geoul",
     "m": "gương",
     "cat": "home",
-    "me": "mirror"
+    "me": "mirror",
+    "pos": "Danh từ"
   },
   {
     "w": "냉장고",
     "p": "naengjanggo",
     "m": "tủ lạnh",
     "cat": "home",
-    "me": "fridge"
+    "me": "fridge",
+    "pos": "Danh từ"
   },
   {
     "w": "부엌",
     "p": "bueok",
     "m": "nhà bếp",
     "cat": "home",
-    "me": "kitchen"
+    "me": "kitchen",
+    "pos": "Danh từ"
   },
   {
     "w": "침실",
     "p": "chimsil",
     "m": "phòng ngủ",
     "cat": "home",
-    "me": "bedroom"
+    "me": "bedroom",
+    "pos": "Danh từ"
   },
   {
     "w": "화장실",
     "p": "hwajangsil",
     "m": "phòng vệ sinh, nhà tắm",
     "cat": "home",
-    "me": "bathroom, restroom"
+    "me": "bathroom, restroom",
+    "pos": "Danh từ"
   },
   {
     "w": "거실",
     "p": "geosil",
     "m": "phòng khách",
     "cat": "home",
-    "me": "living room"
+    "me": "living room",
+    "pos": "Danh từ"
   },
   {
     "w": "전등",
     "p": "jeondeung",
     "m": "đèn",
     "cat": "home",
-    "me": "lamp"
+    "me": "lamp",
+    "pos": "Danh từ"
   },
   {
     "w": "층",
     "p": "cheung",
     "m": "tầng",
     "cat": "home",
-    "me": "floor, layer"
+    "me": "floor, layer",
+    "pos": "Danh từ"
   },
   {
     "w": "기분",
     "p": "gibun",
     "m": "tâm trạng",
     "cat": "emotion",
-    "me": "mood"
+    "me": "mood",
+    "pos": "Danh từ"
   },
   {
     "w": "귀엽다",
     "p": "gwiyeopda",
     "m": "đáng yêu, dễ thương",
     "cat": "adjective",
-    "me": "lovely, cute"
+    "me": "lovely, cute",
+    "pos": "Tính từ"
   },
   {
     "w": "유명하다",
     "p": "yumyeonghada",
     "m": "nổi tiếng",
     "cat": "adjective",
-    "me": "famous"
+    "me": "famous",
+    "pos": "Tính từ"
   },
   {
     "w": "안전하다",
     "p": "anjeonhada",
     "m": "an toàn",
     "cat": "adjective",
-    "me": "safe"
+    "me": "safe",
+    "pos": "Tính từ"
   },
   {
     "w": "같다",
     "p": "gatda",
     "m": "giống nhau, như nhau",
     "cat": "adjective",
-    "me": "same, alike"
+    "me": "same, alike",
+    "pos": "Tính từ"
   },
   {
     "w": "다르다",
     "p": "dareuda",
     "m": "khác nhau, không giống",
     "cat": "adjective",
-    "me": "different, dissimilar"
+    "me": "different, dissimilar",
+    "pos": "Tính từ"
   },
   {
     "w": "틀리다",
     "p": "teullida",
     "m": "sai, nhầm",
     "cat": "adjective",
-    "me": "wrong, mistaken"
+    "me": "wrong, mistaken",
+    "pos": "Tính từ"
   },
   {
     "w": "바쁘다",
     "p": "bappeuda",
     "m": "bận rộn",
     "cat": "adjective",
-    "me": "busy"
+    "me": "busy",
+    "pos": "Tính từ"
   },
   {
     "w": "배고프다",
     "p": "baegopeuda",
     "m": "đói",
     "cat": "adjective",
-    "me": "hungry"
+    "me": "hungry",
+    "pos": "Tính từ"
   },
   {
     "w": "목마르다",
     "p": "mongmareuda",
     "m": "khát nước",
     "cat": "adjective",
-    "me": "thirsty"
+    "me": "thirsty",
+    "pos": "Tính từ"
   },
   {
     "w": "뚱뚱하다",
     "p": "ttungttunghada",
     "m": "béo, mập",
     "cat": "adjective",
-    "me": "fat, chubby"
+    "me": "fat, chubby",
+    "pos": "Tính từ"
   },
   {
     "w": "마르다",
     "p": "mareuda",
     "m": "gầy, ốm",
     "cat": "adjective",
-    "me": "thin, skinny"
+    "me": "thin, skinny",
+    "pos": "Tính từ"
   },
   {
     "w": "잘생기다",
     "p": "jalsaenggida",
     "m": "đẹp trai",
     "cat": "adjective",
-    "me": "handsome"
+    "me": "handsome",
+    "pos": "Tính từ"
   },
   {
     "w": "못생기다",
     "p": "motsaenggida",
     "m": "xấu (ngoại hình)",
     "cat": "adjective",
-    "me": "ugly (appearance)"
+    "me": "ugly (appearance)",
+    "pos": "Tính từ"
   },
   {
     "w": "짜다",
     "p": "jjada",
     "m": "mặn",
     "cat": "adjective",
-    "me": "salty"
+    "me": "salty",
+    "pos": "Tính từ"
   },
   {
     "w": "맵다",
     "p": "maepda",
     "m": "cay",
     "cat": "adjective",
-    "me": "spicy"
+    "me": "spicy",
+    "pos": "Tính từ"
   },
   {
     "w": "달다",
     "p": "dalda",
     "m": "ngọt",
     "cat": "adjective",
-    "me": "sweet"
+    "me": "sweet",
+    "pos": "Tính từ"
   },
   {
     "w": "중요하다",
     "p": "jungyohada",
     "m": "quan trọng",
     "cat": "adjective",
-    "me": "important"
+    "me": "important",
+    "pos": "Tính từ"
   },
   {
     "w": "가지다",
     "p": "gajida",
     "m": "cầm, mang, có",
     "cat": "verb",
-    "me": "hold, carry, have"
+    "me": "hold, carry, have",
+    "pos": "Động từ"
   },
   {
     "w": "놓다",
     "p": "nota",
     "m": "đặt, để, bỏ",
     "cat": "verb",
-    "me": "put, place"
+    "me": "put, place",
+    "pos": "Động từ"
   },
   {
     "w": "찾다",
     "p": "chatda",
     "m": "tìm kiếm",
     "cat": "verb",
-    "me": "search"
+    "me": "search",
+    "pos": "Động từ"
   },
   {
     "w": "기다리다",
     "p": "gidarida",
     "m": "đợi, chờ",
     "cat": "verb",
-    "me": "wait"
+    "me": "wait",
+    "pos": "Động từ"
   },
   {
     "w": "돕다",
     "p": "dopda",
     "m": "giúp đỡ",
     "cat": "verb",
-    "me": "help"
+    "me": "help",
+    "pos": "Động từ"
   },
   {
     "w": "가르치다",
     "p": "gareuchida",
     "m": "dạy",
     "cat": "verb",
-    "me": "teach"
+    "me": "teach",
+    "pos": "Động từ"
   },
   {
     "w": "배우다",
     "p": "baeuda",
     "m": "học tập, học hỏi",
     "cat": "verb",
-    "me": "study, learn"
+    "me": "study, learn",
+    "pos": "Động từ"
   },
   {
     "w": "일어나다",
     "p": "ireonada",
     "m": "thức dậy, dậy",
     "cat": "verb",
-    "me": "to wake up, get up"
+    "me": "to wake up, get up",
+    "pos": "Động từ"
   },
   {
     "w": "묻다",
     "p": "mutda",
     "m": "hỏi",
     "cat": "verb",
-    "me": "ask"
+    "me": "ask",
+    "pos": "Động từ"
   },
   {
     "w": "대답하다",
     "p": "daedaphada",
     "m": "trả lời",
     "cat": "verb",
-    "me": "answer"
+    "me": "answer",
+    "pos": "Động từ"
   },
   {
     "w": "사용하다",
     "p": "sayonghada",
     "m": "dùng, sử dụng",
     "cat": "verb",
-    "me": "use"
+    "me": "use",
+    "pos": "Động từ"
   },
   {
     "w": "팔다",
     "p": "palda",
     "m": "bán",
     "cat": "verb",
-    "me": "sell"
+    "me": "sell",
+    "pos": "Động từ"
   },
   {
     "w": "노래하다",
     "p": "noraehada",
     "m": "hát",
     "cat": "verb",
-    "me": "sing"
+    "me": "sing",
+    "pos": "Động từ"
   },
   {
     "w": "춤추다",
     "p": "chumchuda",
     "m": "nhảy múa",
     "cat": "verb",
-    "me": "dance"
+    "me": "dance",
+    "pos": "Động từ"
   },
   {
     "w": "준비하다",
     "p": "junbihada",
     "m": "chuẩn bị",
     "cat": "verb",
-    "me": "prepare"
+    "me": "prepare",
+    "pos": "Động từ"
   },
   {
     "w": "기억하다",
     "p": "gieokhada",
     "m": "nhớ, ghi nhớ",
     "cat": "verb",
-    "me": "remember, memorize"
+    "me": "remember, memorize",
+    "pos": "Động từ"
   },
   {
     "w": "잊다",
     "p": "itda",
     "m": "quên",
     "cat": "verb",
-    "me": "forget"
+    "me": "forget",
+    "pos": "Động từ"
   },
   {
     "w": "보내다",
     "p": "bonaeda",
     "m": "gửi, tiễn, đưa đi",
     "cat": "verb",
-    "me": "send, see off"
+    "me": "send, see off",
+    "pos": "Động từ"
   },
   {
     "w": "이해하다",
     "p": "ihaehada",
     "m": "hiểu, hiểu rõ",
     "cat": "verb",
-    "me": "understand, comprehend clearly"
+    "me": "understand, comprehend clearly",
+    "pos": "Động từ"
   },
   {
     "w": "느끼다",
     "p": "neukkida",
     "m": "cảm thấy",
     "cat": "verb",
-    "me": "feel"
+    "me": "feel",
+    "pos": "Động từ"
   },
   {
     "w": "바라다",
     "p": "barada",
     "m": "hy vọng, mong muốn",
     "cat": "verb",
-    "me": "hope, wish"
+    "me": "hope, wish",
+    "pos": "Động từ"
   },
   {
     "w": "바꾸다",
     "p": "bakkuda",
     "m": "thay đổi",
     "cat": "verb",
-    "me": "change"
+    "me": "change",
+    "pos": "Động từ"
   },
   {
     "w": "마치다",
     "p": "machida",
     "m": "hoàn thành, kết thúc",
     "cat": "verb",
-    "me": "to complete, finish"
+    "me": "to complete, finish",
+    "pos": "Động từ"
   },
   {
     "w": "만들다",
     "p": "mandeulda",
     "m": "làm, chế tạo",
     "cat": "verb",
-    "me": "make, manufacture"
+    "me": "make, manufacture",
+    "pos": "Động từ"
   },
   {
     "w": "필요하다",
     "p": "piryohada",
     "m": "cần, cần thiết",
     "cat": "verb",
-    "me": "necessary, needed"
+    "me": "necessary, needed",
+    "pos": "Động từ"
   },
   {
     "w": "사랑하다",
     "p": "saranghada",
     "m": "yêu, yêu thích",
     "cat": "verb",
-    "me": "love"
+    "me": "love",
+    "pos": "Động từ"
   },
   {
     "w": "천만에요",
     "p": "cheonmaneyo",
     "m": "không có gì",
     "cat": "greeting",
-    "me": "nothing, it's nothing"
+    "me": "nothing, it's nothing",
+    "pos": "Danh từ"
   },
   {
     "w": "어서 오세요",
     "p": "eoseo oseyo",
     "m": "xin mời (vào)",
     "cat": "greeting",
-    "me": "please come in"
+    "me": "please come in",
+    "pos": "Danh từ"
   },
   {
     "w": "여보세요",
     "p": "yeoboseyo",
     "m": "a-lô",
     "cat": "greeting",
-    "me": "hello (phone)"
+    "me": "hello (phone)",
+    "pos": "Danh từ"
   },
   {
     "w": "안녕히 계세요",
     "p": "annyeonghi gyeseyo",
     "m": "tạm biệt (người ở lại nói)",
     "cat": "greeting",
-    "me": "farewell (said by the one staying)"
+    "me": "farewell (said by the one staying)",
+    "pos": "Danh từ"
   },
   {
     "w": "안녕히 주무세요",
     "p": "annyeonghi jumuseyo",
     "m": "chúc ngủ ngon",
     "cat": "greeting",
-    "me": "good night"
+    "me": "good night",
+    "pos": "Danh từ"
   },
   {
     "w": "괜찮아요",
     "p": "gwaenchanayo",
     "m": "không sao, ổn rồi",
     "cat": "greeting",
-    "me": "it's okay, all fine"
+    "me": "it's okay, all fine",
+    "pos": "Danh từ"
   },
   {
     "w": "알겠습니다",
     "p": "algesseumnida",
     "m": "được rồi, tôi hiểu rồi",
     "cat": "greeting",
-    "me": "okay, I understand"
+    "me": "okay, I understand",
+    "pos": "Danh từ"
   },
   {
     "w": "사람",
     "p": "saram",
     "m": "người",
     "cat": "default",
-    "me": "person"
+    "me": "person",
+    "pos": "Danh từ"
   },
   {
     "w": "이름",
     "p": "ireum",
     "m": "tên, tên gọi",
     "cat": "default",
-    "me": "name"
+    "me": "name",
+    "pos": "Danh từ"
   },
   {
     "w": "남자",
     "p": "namja",
     "m": "nam, đàn ông",
     "cat": "default",
-    "me": "male, man"
+    "me": "male, man",
+    "pos": "Danh từ"
   },
   {
     "w": "여자",
     "p": "yeoja",
     "m": "nữ, phụ nữ",
     "cat": "default",
-    "me": "female, woman"
+    "me": "female, woman",
+    "pos": "Danh từ"
   },
   {
     "w": "문제",
     "p": "munje",
     "m": "vấn đề, câu hỏi",
     "cat": "default",
-    "me": "problem, question"
+    "me": "problem, question",
+    "pos": "Danh từ"
   },
   {
     "w": "이야기",
     "p": "iyagi",
     "m": "câu chuyện",
     "cat": "default",
-    "me": "story"
+    "me": "story",
+    "pos": "Danh từ"
   },
   {
     "w": "방법",
     "p": "bangbeop",
     "m": "phương pháp, cách",
     "cat": "default",
-    "me": "method, way"
+    "me": "method, way",
+    "pos": "Danh từ"
   },
   {
     "w": "정말",
     "p": "jeongmal",
     "m": "thật sự, thật ra",
     "cat": "default",
-    "me": "really, actually"
+    "me": "really, actually",
+    "pos": "Phó từ"
   },
   {
     "w": "선물",
     "p": "seonmul",
     "m": "quà tặng",
     "cat": "culture",
-    "me": "gift"
+    "me": "gift",
+    "pos": "Danh từ"
   },
   {
     "w": "생일",
     "p": "saengil",
     "m": "sinh nhật",
     "cat": "culture",
-    "me": "birthday"
+    "me": "birthday",
+    "pos": "Danh từ"
   },
   {
     "w": "명절",
     "p": "myeongjeol",
     "m": "ngày lễ, lễ hội",
     "cat": "culture",
-    "me": "holiday, festival"
+    "me": "holiday, festival",
+    "pos": "Danh từ"
   },
   {
     "w": "설날",
     "p": "seollal",
     "m": "Tết Nguyên Đán",
     "cat": "culture",
-    "me": "Lunar New Year"
+    "me": "Lunar New Year",
+    "pos": "Danh từ"
   },
   {
     "w": "새해",
     "p": "saehae",
     "m": "năm mới",
     "cat": "culture",
-    "me": "new year"
+    "me": "new year",
+    "pos": "Danh từ"
   },
   {
     "w": "그림",
     "p": "geurim",
     "m": "tranh vẽ, hình vẽ",
     "cat": "art",
-    "me": "painting, drawing"
+    "me": "painting, drawing",
+    "pos": "Danh từ"
   },
   {
     "w": "색깔",
     "p": "saekkal",
     "m": "màu sắc",
     "cat": "color",
-    "me": "color"
+    "me": "color",
+    "pos": "Danh từ"
   },
   {
     "w": "너희",
     "p": "neohui",
     "m": "các bạn (thân mật, cùng lứa)",
     "cat": "pronoun",
-    "me": "you all, guys (informal, peers)"
+    "me": "you all, guys (informal, peers)",
+    "pos": "Đại từ"
   },
   {
     "w": "어느",
     "p": "eoneu",
     "m": "nào",
     "cat": "pronoun",
-    "me": "which; come on"
+    "me": "which; come on",
+    "pos": "Đại từ"
   },
   {
     "w": "아무도",
     "p": "amudo",
     "m": "không ai",
     "cat": "pronoun",
-    "me": "no one"
+    "me": "no one",
+    "pos": "Đại từ"
   },
   {
     "w": "남동생",
     "p": "namdongsaeng",
     "m": "em trai",
     "cat": "family",
-    "me": "younger brother"
+    "me": "younger brother",
+    "pos": "Danh từ"
   },
   {
     "w": "여동생",
     "p": "yeodongsaeng",
     "m": "em gái",
     "cat": "family",
-    "me": "younger sister"
+    "me": "younger sister",
+    "pos": "Danh từ"
   },
   {
     "w": "때",
     "p": "ttae",
     "m": "lúc, khi",
     "cat": "time",
-    "me": "when, at the time of"
+    "me": "when, at the time of",
+    "pos": "Danh từ"
   },
   {
     "w": "팔십",
     "p": "palsip",
     "m": "tám mươi",
     "cat": "number",
-    "me": "eighty"
+    "me": "eighty",
+    "pos": "Số từ"
   },
   {
     "w": "구십",
     "p": "gusip",
     "m": "chín mươi",
     "cat": "number",
-    "me": "ninety"
+    "me": "ninety",
+    "pos": "Số từ"
   },
   {
     "w": "사과",
     "p": "sagwa",
     "m": "táo",
     "cat": "food",
-    "me": "apple"
+    "me": "apple",
+    "pos": "Danh từ"
   },
   {
     "w": "반찬",
     "p": "banchan",
     "m": "món ăn kèm",
     "cat": "food",
-    "me": "side dish"
+    "me": "side dish",
+    "pos": "Danh từ"
   },
   {
     "w": "차",
     "p": "cha",
     "m": "trà",
     "cat": "drink",
-    "me": "tea"
+    "me": "tea",
+    "pos": "Danh từ"
   },
   {
     "w": "소고기",
     "p": "sogogi",
     "m": "thịt bò",
     "cat": "food",
-    "me": "beef"
+    "me": "beef",
+    "pos": "Danh từ"
   },
   {
     "w": "약국",
     "p": "yakguk",
     "m": "hiệu thuốc",
     "cat": "place",
-    "me": "pharmacy"
+    "me": "pharmacy",
+    "pos": "Danh từ"
   },
   {
     "w": "미용실",
     "p": "miyongsil",
     "m": "tiệm làm tóc",
     "cat": "place",
-    "me": "hair salon"
+    "me": "hair salon",
+    "pos": "Danh từ"
   },
   {
     "w": "방학",
     "p": "banghak",
     "m": "kỳ nghỉ (học sinh)",
     "cat": "school",
-    "me": "school vacation"
+    "me": "school vacation",
+    "pos": "Danh từ"
   },
   {
     "w": "얼굴",
     "p": "eolgul",
     "m": "mặt",
     "cat": "body",
-    "me": "face"
+    "me": "face",
+    "pos": "Danh từ"
   },
   {
     "w": "다리",
     "p": "dari",
     "m": "chân, đùi",
     "cat": "body",
-    "me": "leg, thigh"
+    "me": "leg, thigh",
+    "pos": "Danh từ"
   },
   {
     "w": "배",
     "p": "bae",
     "m": "bụng",
     "cat": "body",
-    "me": "stomach"
+    "me": "stomach",
+    "pos": "Danh từ"
   },
   {
     "w": "목",
     "p": "mok",
     "m": "cổ",
     "cat": "body",
-    "me": "neck; ancient"
+    "me": "neck; ancient",
+    "pos": "Tính từ"
   },
   {
     "w": "어깨",
     "p": "eokkae",
     "m": "vai",
     "cat": "body",
-    "me": "shoulder"
+    "me": "shoulder",
+    "pos": "Danh từ"
   },
   {
     "w": "흐리다",
     "p": "heurida",
     "m": "nhiều mây, âm u",
     "cat": "adjective",
-    "me": "cloudy, overcast"
+    "me": "cloudy, overcast",
+    "pos": "Tính từ"
   },
   {
     "w": "안개",
     "p": "angae",
     "m": "sương mù",
     "cat": "nature",
-    "me": "fog"
+    "me": "fog",
+    "pos": "Danh từ"
   },
   {
     "w": "계산하다",
     "p": "gyesanhada",
     "m": "tính tiền, thanh toán",
     "cat": "verb",
-    "me": "charge, pay"
+    "me": "charge, pay",
+    "pos": "Động từ"
   },
   {
     "w": "놀라다",
     "p": "nollada",
     "m": "ngạc nhiên",
     "cat": "verb",
-    "me": "surprised"
+    "me": "surprised",
+    "pos": "Động từ"
   },
   {
     "w": "걱정하다",
     "p": "geokjeonghada",
     "m": "lo lắng",
     "cat": "verb",
-    "me": "worried"
+    "me": "worried",
+    "pos": "Động từ"
   },
   {
     "w": "결혼하다",
     "p": "gyeolhonhada",
     "m": "kết hôn",
     "cat": "verb",
-    "me": "marry"
+    "me": "marry",
+    "pos": "Động từ"
   },
   {
     "w": "결혼식",
     "p": "gyeolhonsik",
     "m": "đám cưới",
     "cat": "culture",
-    "me": "wedding"
+    "me": "wedding",
+    "pos": "Danh từ"
   },
   {
     "w": "인터넷",
     "p": "inteonet",
     "m": "internet",
     "cat": "tech",
-    "me": "the internet"
+    "me": "the internet",
+    "pos": "Danh từ"
   },
   {
     "w": "문자",
     "p": "munja",
     "m": "tin nhắn",
     "cat": "tech",
-    "me": "message"
+    "me": "message",
+    "pos": "Động từ"
   },
   {
     "w": "무겁다",
     "p": "mugeopda",
     "m": "nặng",
     "cat": "adjective",
-    "me": "heavy"
+    "me": "heavy",
+    "pos": "Tính từ"
   },
   {
     "w": "가볍다",
     "p": "gabyeopda",
     "m": "nhẹ",
     "cat": "adjective",
-    "me": "light (weight)"
+    "me": "light (weight)",
+    "pos": "Tính từ"
   },
   {
     "w": "두껍다",
     "p": "dukkeopda",
     "m": "dày",
     "cat": "adjective",
-    "me": "thick"
+    "me": "thick",
+    "pos": "Tính từ"
   },
   {
     "w": "얇다",
     "p": "yapda",
     "m": "mỏng",
     "cat": "adjective",
-    "me": "thin"
+    "me": "thin",
+    "pos": "Tính từ"
   },
   {
     "w": "넓다",
     "p": "neopda",
     "m": "rộng",
     "cat": "adjective",
-    "me": "wide"
+    "me": "wide",
+    "pos": "Tính từ"
   },
   {
     "w": "좁다",
     "p": "jopda",
     "m": "hẹp",
     "cat": "adjective",
-    "me": "narrow"
+    "me": "narrow",
+    "pos": "Tính từ"
   },
   {
     "w": "편하다",
     "p": "pyeonhada",
     "m": "thoải mái",
     "cat": "adjective",
-    "me": "comfortable"
+    "me": "comfortable",
+    "pos": "Tính từ"
   },
   {
     "w": "불편하다",
     "p": "bulpyeonhada",
     "m": "không thoải mái",
     "cat": "adjective",
-    "me": "uncomfortable"
+    "me": "uncomfortable",
+    "pos": "Tính từ"
   },
   {
     "w": "힘들다",
     "p": "himdeulda",
     "m": "vất vả, mệt",
     "cat": "adjective",
-    "me": "tiring, exhausted"
+    "me": "tiring, exhausted",
+    "pos": "Tính từ"
   },
   {
     "w": "심심하다",
     "p": "simsimhada",
     "m": "buồn chán",
     "cat": "adjective",
-    "me": "bored, sad"
+    "me": "bored, sad",
+    "pos": "Tính từ"
   },
   {
     "w": "이상하다",
     "p": "isanghada",
     "m": "kỳ lạ",
     "cat": "adjective",
-    "me": "strange"
+    "me": "strange",
+    "pos": "Tính từ"
   },
   {
     "w": "부드럽다",
     "p": "budeureopda",
     "m": "mềm mại",
     "cat": "adjective",
-    "me": "soft, gentle"
+    "me": "soft, gentle",
+    "pos": "Tính từ"
   },
   {
     "w": "딱딱하다",
     "p": "ttakttakhada",
     "m": "cứng",
     "cat": "adjective",
-    "me": "hard, stiff"
+    "me": "hard, stiff",
+    "pos": "Tính từ"
   },
   {
     "w": "분홍색",
     "p": "bunhongsaek",
     "m": "màu hồng",
     "cat": "color",
-    "me": "pink"
+    "me": "pink",
+    "pos": "Danh từ"
   },
   {
     "w": "요리하다",
     "p": "yorihada",
     "m": "nấu ăn",
     "cat": "verb",
-    "me": "cooking"
+    "me": "cooking",
+    "pos": "Động từ"
   },
   {
     "w": "청소하다",
     "p": "cheongsohada",
     "m": "dọn dẹp",
     "cat": "verb",
-    "me": "clean up, tidy"
+    "me": "clean up, tidy",
+    "pos": "Động từ"
   },
   {
     "w": "운전하다",
     "p": "unjeonhada",
     "m": "lái xe",
     "cat": "verb",
-    "me": "to drive"
+    "me": "to drive",
+    "pos": "Động từ"
   },
   {
     "w": "산책하다",
     "p": "sanchaekhada",
     "m": "đi dạo",
     "cat": "verb",
-    "me": "take a walk"
+    "me": "take a walk",
+    "pos": "Động từ"
   },
   {
     "w": "켜다",
     "p": "kyeoda",
     "m": "bật",
     "cat": "verb",
-    "me": "turn on"
+    "me": "turn on",
+    "pos": "Động từ"
   },
   {
     "w": "끄다",
     "p": "kkeuda",
     "m": "tắt",
     "cat": "verb",
-    "me": "to turn off"
+    "me": "to turn off",
+    "pos": "Động từ"
   },
   {
     "w": "고르다",
     "p": "goreuda",
     "m": "chọn",
     "cat": "verb",
-    "me": "choose"
+    "me": "choose",
+    "pos": "Động từ"
   },
   {
     "w": "잡다",
     "p": "japda",
     "m": "bắt, nắm",
     "cat": "verb",
-    "me": "catch, grasp"
+    "me": "catch, grasp",
+    "pos": "Động từ"
   },
   {
     "w": "밀다",
     "p": "milda",
     "m": "đẩy",
     "cat": "verb",
-    "me": "push"
+    "me": "push",
+    "pos": "Động từ"
   },
   {
     "w": "당기다",
     "p": "danggida",
     "m": "kéo",
     "cat": "verb",
-    "me": "pull"
+    "me": "pull",
+    "pos": "Động từ"
   },
   {
     "w": "잃어버리다",
     "p": "ireobeorida",
     "m": "làm mất",
     "cat": "verb",
-    "me": "lose (something)"
+    "me": "lose (something)",
+    "pos": "Động từ"
   },
   {
     "w": "던지다",
     "p": "deonjida",
     "m": "ném",
     "cat": "verb",
-    "me": "throw"
+    "me": "throw",
+    "pos": "Động từ"
   },
   {
     "w": "걸다",
     "p": "geolda",
     "m": "treo, gọi (điện)",
     "cat": "verb",
-    "me": "hang up, make a (phone) call"
+    "me": "hang up, make a (phone) call",
+    "pos": "Động từ"
   },
   {
     "w": "자라다",
     "p": "jarada",
     "m": "lớn lên",
     "cat": "verb",
-    "me": "grow up"
+    "me": "grow up",
+    "pos": "Động từ"
   },
   {
     "w": "늘다",
     "p": "neulda",
     "m": "tăng lên",
     "cat": "verb",
-    "me": "increase"
+    "me": "increase",
+    "pos": "Động từ"
   },
   {
     "w": "줄다",
     "p": "julda",
     "m": "giảm đi",
     "cat": "verb",
-    "me": "decrease"
+    "me": "decrease",
+    "pos": "Động từ"
   },
   {
     "w": "웃기다",
     "p": "utgida",
     "m": "gây cười, buồn cười",
     "cat": "verb",
-    "me": "funny, amusing"
+    "me": "funny, amusing",
+    "pos": "Động từ"
   },
   {
     "w": "나가다",
     "p": "nagada",
     "m": "đi ra",
     "cat": "verb",
-    "me": "go out"
+    "me": "go out",
+    "pos": "Động từ"
   },
   {
     "w": "들어가다",
     "p": "deureogada",
     "m": "đi vào",
     "cat": "verb",
-    "me": "enter"
+    "me": "enter",
+    "pos": "Động từ"
   },
   {
     "w": "올라가다",
     "p": "ollagada",
     "m": "đi lên",
     "cat": "verb",
-    "me": "go up, ascend"
+    "me": "go up, ascend",
+    "pos": "Động từ"
   },
   {
     "w": "내려가다",
     "p": "naeryeogada",
     "m": "đi xuống",
     "cat": "verb",
-    "me": "go down, decline"
+    "me": "go down, decline",
+    "pos": "Động từ"
   },
   {
     "w": "지나가다",
     "p": "jinagada",
     "m": "đi qua",
     "cat": "verb",
-    "me": "pass through"
+    "me": "pass through",
+    "pos": "Động từ"
   },
   {
     "w": "돌아오다",
     "p": "doraoda",
     "m": "quay về",
     "cat": "verb",
-    "me": "return"
+    "me": "return",
+    "pos": "Động từ"
   },
   {
     "w": "갈아타다",
     "p": "garatada",
     "m": "đổi chuyến",
     "cat": "verb",
-    "me": "transfer (flight/train)"
+    "me": "transfer (flight/train)",
+    "pos": "Động từ"
   },
   {
     "w": "사실",
     "p": "sasil",
     "m": "sự thật, thực ra",
     "cat": "default",
-    "me": "the truth, actually"
+    "me": "the truth, actually",
+    "pos": "Phó từ"
   },
   {
     "w": "경우",
     "p": "gyeongu",
     "m": "trường hợp",
     "cat": "default",
-    "me": "case"
+    "me": "case",
+    "pos": "Danh từ"
   },
   {
     "w": "조심하세요",
     "p": "josimhaseyo",
     "m": "cẩn thận nhé",
     "cat": "greeting",
-    "me": "be careful"
+    "me": "be careful",
+    "pos": "Danh từ"
   },
   {
     "w": "화이팅",
     "p": "hwaiting",
     "m": "cố lên",
     "cat": "greeting",
-    "me": "keep going, cheer up"
+    "me": "keep going, cheer up",
+    "pos": "Danh từ"
   },
   {
     "w": "동물",
     "p": "dongmul",
     "m": "động vật",
     "cat": "animal",
-    "me": "animal"
+    "me": "animal",
+    "pos": "Danh từ"
   },
   {
     "w": "곰",
     "p": "gom",
     "m": "gấu",
     "cat": "animal",
-    "me": "bear"
+    "me": "bear",
+    "pos": "Danh từ"
   },
   {
     "w": "코끼리",
     "p": "kokkiri",
     "m": "voi",
     "cat": "animal",
-    "me": "elephant"
+    "me": "elephant",
+    "pos": "Danh từ"
   },
   {
     "w": "원숭이",
     "p": "wonsungi",
     "m": "khỉ",
     "cat": "animal",
-    "me": "monkey"
+    "me": "monkey",
+    "pos": "Danh từ"
   },
   {
     "w": "사슴",
     "p": "saseum",
     "m": "hươu",
     "cat": "animal",
-    "me": "deer"
+    "me": "deer",
+    "pos": "Danh từ"
   },
   {
     "w": "여우",
     "p": "yeou",
     "m": "cáo",
     "cat": "animal",
-    "me": "fox"
+    "me": "fox",
+    "pos": "Danh từ"
   },
   {
     "w": "늑대",
     "p": "neukdae",
     "m": "sói",
     "cat": "animal",
-    "me": "wolf"
+    "me": "wolf",
+    "pos": "Danh từ"
   },
   {
     "w": "뱀",
     "p": "baem",
     "m": "rắn",
     "cat": "animal",
-    "me": "snake"
+    "me": "snake",
+    "pos": "Danh từ"
   },
   {
     "w": "개구리",
     "p": "gaeguri",
     "m": "ếch",
     "cat": "animal",
-    "me": "frog"
+    "me": "frog",
+    "pos": "Danh từ"
   },
   {
     "w": "나비",
     "p": "nabi",
     "m": "bướm",
     "cat": "animal",
-    "me": "butterfly"
+    "me": "butterfly",
+    "pos": "Danh từ"
   },
   {
     "w": "벌",
     "p": "beol",
     "m": "ong",
     "cat": "animal",
-    "me": "bee"
+    "me": "bee",
+    "pos": "Danh từ"
   },
   {
     "w": "앵무새",
     "p": "aengmusae",
     "m": "vẹt",
     "cat": "animal",
-    "me": "parrot"
+    "me": "parrot",
+    "pos": "Danh từ"
   },
   {
     "w": "거북이",
     "p": "geobugi",
     "m": "rùa",
     "cat": "animal",
-    "me": "turtle"
+    "me": "turtle",
+    "pos": "Danh từ"
   },
   {
     "w": "양",
     "p": "yang",
     "m": "cừu",
     "cat": "animal",
-    "me": "sheep"
+    "me": "sheep",
+    "pos": "Danh từ"
   },
   {
     "w": "염소",
     "p": "yeomso",
     "m": "dê",
     "cat": "animal",
-    "me": "goat"
+    "me": "goat",
+    "pos": "Danh từ"
   },
   {
     "w": "닭",
     "p": "dak",
     "m": "gà",
     "cat": "animal",
-    "me": "chicken"
+    "me": "chicken",
+    "pos": "Danh từ"
   },
   {
     "w": "오리",
     "p": "ori",
     "m": "vịt",
     "cat": "animal",
-    "me": "duck"
+    "me": "duck",
+    "pos": "Danh từ"
   },
   {
     "w": "쥐",
     "p": "jwi",
     "m": "chuột",
     "cat": "animal",
-    "me": "mouse, rat"
+    "me": "mouse, rat",
+    "pos": "Danh từ"
   },
   {
     "w": "판다",
     "p": "panda",
     "m": "gấu trúc",
     "cat": "animal",
-    "me": "panda"
+    "me": "panda",
+    "pos": "Danh từ"
   },
   {
     "w": "무릎",
     "p": "mureup",
     "m": "đầu gối",
     "cat": "body",
-    "me": "knee"
+    "me": "knee",
+    "pos": "Danh từ"
   },
   {
     "w": "팔꿈치",
     "p": "palkkumchi",
     "m": "khuỷu tay",
     "cat": "body",
-    "me": "elbow"
+    "me": "elbow",
+    "pos": "Danh từ"
   },
   {
     "w": "가슴",
     "p": "gaseum",
     "m": "ngực",
     "cat": "body",
-    "me": "chest"
+    "me": "chest",
+    "pos": "Danh từ"
   },
   {
     "w": "엄지",
     "p": "eomji",
     "m": "ngón tay cái",
     "cat": "body",
-    "me": "thumb"
+    "me": "thumb",
+    "pos": "Danh từ"
   },
   {
     "w": "발가락",
     "p": "balgarak",
     "m": "ngón chân",
     "cat": "body",
-    "me": "toe"
+    "me": "toe",
+    "pos": "Danh từ"
   },
   {
     "w": "발목",
     "p": "balmok",
     "m": "mắt cá chân",
     "cat": "body",
-    "me": "ankle"
+    "me": "ankle",
+    "pos": "Danh từ"
   },
   {
     "w": "손목",
     "p": "sonmok",
     "m": "cổ tay",
     "cat": "body",
-    "me": "wrist"
+    "me": "wrist",
+    "pos": "Danh từ"
   },
   {
     "w": "턱",
     "p": "teok",
     "m": "cằm",
     "cat": "body",
-    "me": "chin"
+    "me": "chin",
+    "pos": "Danh từ"
   },
   {
     "w": "볼",
     "p": "bol",
     "m": "má",
     "cat": "body",
-    "me": "cheek"
+    "me": "cheek",
+    "pos": "Danh từ"
   },
   {
     "w": "이마",
     "p": "ima",
     "m": "trán",
     "cat": "body",
-    "me": "forehead"
+    "me": "forehead",
+    "pos": "Danh từ"
   },
   {
     "w": "눈썹",
     "p": "nunsseop",
     "m": "lông mày",
     "cat": "body",
-    "me": "eyebrow"
+    "me": "eyebrow",
+    "pos": "Danh từ"
   },
   {
     "w": "입술",
     "p": "ipsul",
     "m": "môi",
     "cat": "body",
-    "me": "lip"
+    "me": "lip",
+    "pos": "Danh từ"
   },
   {
     "w": "혀",
     "p": "hyeo",
     "m": "lưỡi",
     "cat": "body",
-    "me": "tongue"
+    "me": "tongue",
+    "pos": "Danh từ"
   },
   {
     "w": "엉덩이",
     "p": "eongdeongi",
     "m": "hông, mông",
     "cat": "body",
-    "me": "hip, buttocks"
+    "me": "hip, buttocks",
+    "pos": "Danh từ"
   },
   {
     "w": "손바닥",
     "p": "sonbadak",
     "m": "lòng bàn tay",
     "cat": "body",
-    "me": "palm"
+    "me": "palm",
+    "pos": "Danh từ"
   },
   {
     "w": "컵",
     "p": "keop",
     "m": "cốc, ly",
     "cat": "home",
-    "me": "cup, glass"
+    "me": "cup, glass",
+    "pos": "Danh từ"
   },
   {
     "w": "접시",
     "p": "jeopsi",
     "m": "đĩa",
     "cat": "home",
-    "me": "plate"
+    "me": "plate",
+    "pos": "Danh từ"
   },
   {
     "w": "그릇",
     "p": "geureut",
     "m": "bát",
     "cat": "home",
-    "me": "bowl"
+    "me": "bowl",
+    "pos": "Danh từ"
   },
   {
     "w": "숟가락",
     "p": "sutgarak",
     "m": "thìa",
     "cat": "home",
-    "me": "spoon"
+    "me": "spoon",
+    "pos": "Danh từ"
   },
   {
     "w": "젓가락",
     "p": "jeotgarak",
     "m": "đũa",
     "cat": "home",
-    "me": "chopsticks"
+    "me": "chopsticks",
+    "pos": "Danh từ"
   },
   {
     "w": "포크",
     "p": "pokeu",
     "m": "dĩa (nĩa)",
     "cat": "home",
-    "me": "fork"
+    "me": "fork",
+    "pos": "Danh từ"
   },
   {
     "w": "나이프",
     "p": "naipeu",
     "m": "dao (dùng khi ăn)",
     "cat": "home",
-    "me": "knife (for eating)"
+    "me": "knife (for eating)",
+    "pos": "Danh từ"
   },
   {
     "w": "냄비",
     "p": "naembi",
     "m": "nồi",
     "cat": "home",
-    "me": "pot"
+    "me": "pot",
+    "pos": "Danh từ"
   },
   {
     "w": "프라이팬",
     "p": "peuraipaen",
     "m": "chảo",
     "cat": "home",
-    "me": "pan"
+    "me": "pan",
+    "pos": "Danh từ"
   },
   {
     "w": "주전자",
     "p": "jujeonja",
     "m": "ấm đun nước",
     "cat": "home",
-    "me": "kettle"
+    "me": "kettle",
+    "pos": "Danh từ"
   },
   {
     "w": "오븐",
     "p": "obeun",
     "m": "lò nướng",
     "cat": "home",
-    "me": "oven"
+    "me": "oven",
+    "pos": "Danh từ"
   },
   {
     "w": "전자레인지",
     "p": "jeonjareinji",
     "m": "lò vi sóng",
     "cat": "home",
-    "me": "microwave"
+    "me": "microwave",
+    "pos": "Danh từ"
   },
   {
     "w": "병",
     "p": "byeong",
     "m": "chai",
     "cat": "home",
-    "me": "bottle"
+    "me": "bottle",
+    "pos": "Danh từ"
   },
   {
     "w": "상자",
     "p": "sangja",
     "m": "hộp",
     "cat": "home",
-    "me": "box"
+    "me": "box",
+    "pos": "Danh từ"
   },
   {
     "w": "수건",
     "p": "sugeon",
     "m": "khăn tắm",
     "cat": "home",
-    "me": "towel"
+    "me": "towel",
+    "pos": "Danh từ"
   },
   {
     "w": "비누",
     "p": "binu",
     "m": "xà phòng",
     "cat": "home",
-    "me": "soap"
+    "me": "soap",
+    "pos": "Danh từ"
   },
   {
     "w": "칫솔",
     "p": "chitsol",
     "m": "bàn chải đánh răng",
     "cat": "home",
-    "me": "toothbrush"
+    "me": "toothbrush",
+    "pos": "Danh từ"
   },
   {
     "w": "소파",
     "p": "sopa",
     "m": "sofa",
     "cat": "home",
-    "me": "sofa"
+    "me": "sofa",
+    "pos": "Danh từ"
   },
   {
     "w": "선반",
     "p": "seonban",
     "m": "kệ",
     "cat": "home",
-    "me": "shelf"
+    "me": "shelf",
+    "pos": "Danh từ"
   },
   {
     "w": "바닥",
     "p": "badak",
     "m": "sàn nhà",
     "cat": "home",
-    "me": "floor"
+    "me": "floor",
+    "pos": "Danh từ"
   },
   {
     "w": "벽",
     "p": "byeok",
     "m": "tường",
     "cat": "home",
-    "me": "wall"
+    "me": "wall",
+    "pos": "Danh từ"
   },
   {
     "w": "카펫",
     "p": "kapet",
     "m": "thảm",
     "cat": "home",
-    "me": "carpet"
+    "me": "carpet",
+    "pos": "Danh từ"
   },
   {
     "w": "커튼",
     "p": "keoteun",
     "m": "rèm",
     "cat": "home",
-    "me": "curtain"
+    "me": "curtain",
+    "pos": "Danh từ"
   },
   {
     "w": "옷장",
     "p": "otjang",
     "m": "tủ quần áo",
     "cat": "home",
-    "me": "wardrobe"
+    "me": "wardrobe",
+    "pos": "Danh từ"
   },
   {
     "w": "베개",
     "p": "begae",
     "m": "gối",
     "cat": "home",
-    "me": "pillow"
+    "me": "pillow",
+    "pos": "Danh từ"
   },
   {
     "w": "이불",
     "p": "ibul",
     "m": "chăn",
     "cat": "home",
-    "me": "blanket"
+    "me": "blanket",
+    "pos": "Danh từ"
   },
   {
     "w": "정원",
     "p": "jeongwon",
     "m": "vườn",
     "cat": "home",
-    "me": "garden"
+    "me": "garden",
+    "pos": "Danh từ"
   },
   {
     "w": "마당",
     "p": "madang",
     "m": "sân nhà",
     "cat": "home",
-    "me": "yard"
+    "me": "yard",
+    "pos": "Danh từ"
   },
   {
     "w": "천장",
     "p": "cheonjang",
     "m": "trần nhà",
     "cat": "home",
-    "me": "ceiling"
+    "me": "ceiling",
+    "pos": "Danh từ"
   },
   {
     "w": "계단",
     "p": "gyedan",
     "m": "cầu thang",
     "cat": "home",
-    "me": "stairs"
+    "me": "stairs",
+    "pos": "Danh từ"
   },
   {
     "w": "공책",
     "p": "gongchaek",
     "m": "vở, sổ tay",
     "cat": "school",
-    "me": "notebook"
+    "me": "notebook",
+    "pos": "Danh từ"
   },
   {
     "w": "자",
     "p": "ja",
     "m": "thước kẻ",
     "cat": "school",
-    "me": "ruler"
+    "me": "ruler",
+    "pos": "Danh từ"
   },
   {
     "w": "연필",
     "p": "yeonpil",
     "m": "bút chì",
     "cat": "school",
-    "me": "pencil"
+    "me": "pencil",
+    "pos": "Danh từ"
   },
   {
     "w": "지우개",
     "p": "jiugae",
     "m": "cục tẩy",
     "cat": "school",
-    "me": "eraser"
+    "me": "eraser",
+    "pos": "Danh từ"
   },
   {
     "w": "가위",
     "p": "gawi",
     "m": "cái kéo",
     "cat": "home",
-    "me": "scissors"
+    "me": "scissors",
+    "pos": "Danh từ"
   },
   {
     "w": "표",
     "p": "pyo",
     "m": "vé",
     "cat": "travel",
-    "me": "ticket"
+    "me": "ticket",
+    "pos": "Danh từ"
   },
   {
     "w": "장난감",
     "p": "jangnangam",
     "m": "đồ chơi",
     "cat": "home",
-    "me": "toy"
+    "me": "toy",
+    "pos": "Danh từ"
   },
   {
     "w": "공",
     "p": "gong",
     "m": "quả bóng",
     "cat": "sport",
-    "me": "ball"
+    "me": "ball",
+    "pos": "Danh từ"
   },
   {
     "w": "카메라",
     "p": "kamera",
     "m": "máy ảnh",
     "cat": "tech",
-    "me": "camera"
+    "me": "camera",
+    "pos": "Danh từ"
   },
   {
     "w": "토마토",
     "p": "tomato",
     "m": "cà chua",
     "cat": "food",
-    "me": "tomato"
+    "me": "tomato",
+    "pos": "Danh từ"
   },
   {
     "w": "기름",
     "p": "gireum",
     "m": "dầu ăn",
     "cat": "food",
-    "me": "oil"
+    "me": "oil",
+    "pos": "Danh từ"
   },
   {
     "w": "케이크",
     "p": "keikeu",
     "m": "bánh ngọt",
     "cat": "food",
-    "me": "cake"
+    "me": "cake",
+    "pos": "Danh từ"
   },
   {
     "w": "딸기",
     "p": "ttalgi",
     "m": "dâu tây",
     "cat": "food",
-    "me": "strawberry"
+    "me": "strawberry",
+    "pos": "Danh từ"
   },
   {
     "w": "당근",
     "p": "danggeun",
     "m": "cà rốt",
     "cat": "food",
-    "me": "carrot"
+    "me": "carrot",
+    "pos": "Danh từ"
   },
   {
     "w": "감자",
     "p": "gamja",
     "m": "khoai tây",
     "cat": "food",
-    "me": "potato"
+    "me": "potato",
+    "pos": "Danh từ"
   },
   {
     "w": "양파",
     "p": "yangpa",
     "m": "hành tây",
     "cat": "food",
-    "me": "onion"
+    "me": "onion",
+    "pos": "Danh từ"
   },
   {
     "w": "치즈",
     "p": "chijeu",
     "m": "phô mai",
     "cat": "food",
-    "me": "cheese"
+    "me": "cheese",
+    "pos": "Danh từ"
   },
   {
     "w": "버터",
     "p": "beoteo",
     "m": "bơ",
     "cat": "food",
-    "me": "butter"
+    "me": "butter",
+    "pos": "Danh từ"
   },
   {
     "w": "샐러드",
     "p": "saelleodeu",
     "m": "salad",
     "cat": "food",
-    "me": "salad"
+    "me": "salad",
+    "pos": "Danh từ"
   },
   {
     "w": "샌드위치",
     "p": "saendeuwichi",
     "m": "bánh mì kẹp",
     "cat": "food",
-    "me": "sandwich"
+    "me": "sandwich",
+    "pos": "Danh từ"
   },
   {
     "w": "피자",
     "p": "pija",
     "m": "pizza",
     "cat": "food",
-    "me": "pizza"
+    "me": "pizza",
+    "pos": "Danh từ"
   },
   {
     "w": "라면",
     "p": "ramyeon",
     "m": "mì ăn liền",
     "cat": "food",
-    "me": "instant noodle"
+    "me": "instant noodle",
+    "pos": "Danh từ"
   },
   {
     "w": "아이스크림",
     "p": "aiseukeurim",
     "m": "kem",
     "cat": "food",
-    "me": "ice cream"
+    "me": "ice cream",
+    "pos": "Danh từ"
   },
   {
     "w": "수업",
     "p": "sueop",
     "m": "bài học, tiết học",
     "cat": "school",
-    "me": "lesson, class period"
+    "me": "lesson, class period",
+    "pos": "Danh từ"
   },
   {
     "w": "필통",
     "p": "piltong",
     "m": "hộp bút",
     "cat": "school",
-    "me": "pencil case"
+    "me": "pencil case",
+    "pos": "Danh từ"
   },
   {
     "w": "칠판",
     "p": "chilpan",
     "m": "bảng đen/trắng",
     "cat": "school",
-    "me": "blackboard/whiteboard"
+    "me": "blackboard/whiteboard",
+    "pos": "Danh từ"
   },
   {
     "w": "분필",
     "p": "bunpil",
     "m": "phấn viết",
     "cat": "school",
-    "me": "chalk"
+    "me": "chalk",
+    "pos": "Danh từ"
   },
   {
     "w": "과학",
     "p": "gwahak",
     "m": "khoa học",
     "cat": "school",
-    "me": "scientific"
+    "me": "scientific",
+    "pos": "Danh từ"
   },
   {
     "w": "역사",
     "p": "yeoksa",
     "m": "lịch sử",
     "cat": "school",
-    "me": "historical"
+    "me": "historical",
+    "pos": "Danh từ"
   },
   {
     "w": "지리",
     "p": "jiri",
     "m": "địa lý",
     "cat": "school",
-    "me": "geography"
+    "me": "geography",
+    "pos": "Danh từ"
   },
   {
     "w": "미술",
     "p": "misul",
     "m": "mỹ thuật",
     "cat": "school",
-    "me": "fine arts"
+    "me": "fine arts",
+    "pos": "Danh từ"
   },
   {
     "w": "체육",
     "p": "cheyuk",
     "m": "thể dục",
     "cat": "school",
-    "me": "physical education"
+    "me": "physical education",
+    "pos": "Danh từ"
   },
   {
     "w": "성적",
     "p": "seongjeok",
     "m": "điểm số",
     "cat": "school",
-    "me": "point"
+    "me": "point",
+    "pos": "Danh từ"
   },
   {
     "w": "부츠",
     "p": "bucheu",
     "m": "bốt, ủng",
     "cat": "clothing",
-    "me": "boots"
+    "me": "boots",
+    "pos": "Danh từ"
   },
   {
     "w": "목도리",
     "p": "mokdori",
     "m": "khăn quàng cổ",
     "cat": "clothing",
-    "me": "scarf"
+    "me": "scarf",
+    "pos": "Danh từ"
   },
   {
     "w": "장갑",
     "p": "janggap",
     "m": "găng tay",
     "cat": "clothing",
-    "me": "gloves"
+    "me": "gloves",
+    "pos": "Danh từ"
   },
   {
     "w": "잠옷",
     "p": "jamot",
     "m": "đồ ngủ",
     "cat": "clothing",
-    "me": "pajamas"
+    "me": "pajamas",
+    "pos": "Danh từ"
   },
   {
     "w": "셔츠",
     "p": "syeocheu",
     "m": "áo sơ mi",
     "cat": "clothing",
-    "me": "shirt"
+    "me": "shirt",
+    "pos": "Danh từ"
   },
   {
     "w": "반지",
     "p": "banji",
     "m": "nhẫn",
     "cat": "clothing",
-    "me": "ring"
+    "me": "ring",
+    "pos": "Danh từ"
   },
   {
     "w": "사촌",
     "p": "sachon",
     "m": "anh/chị/em họ",
     "cat": "family",
-    "me": "cousin"
+    "me": "cousin",
+    "pos": "Danh từ"
   },
   {
     "w": "쌍둥이",
     "p": "ssangdungi",
     "m": "sinh đôi",
     "cat": "family",
-    "me": "twin"
+    "me": "twin",
+    "pos": "Danh từ"
   },
   {
     "w": "일월",
     "p": "irwol",
     "m": "tháng Một",
     "cat": "time",
-    "me": "January"
+    "me": "January",
+    "pos": "Danh từ"
   },
   {
     "w": "이월",
     "p": "iwol",
     "m": "tháng Hai",
     "cat": "time",
-    "me": "February"
+    "me": "February",
+    "pos": "Danh từ"
   },
   {
     "w": "삼월",
     "p": "samwol",
     "m": "tháng Ba",
     "cat": "time",
-    "me": "March"
+    "me": "March",
+    "pos": "Danh từ"
   },
   {
     "w": "사월",
     "p": "sawol",
     "m": "tháng Tư",
     "cat": "time",
-    "me": "April"
+    "me": "April",
+    "pos": "Danh từ"
   },
   {
     "w": "오월",
     "p": "owol",
     "m": "tháng Năm",
     "cat": "time",
-    "me": "May"
+    "me": "May",
+    "pos": "Danh từ"
   },
   {
     "w": "유월",
     "p": "yuwol",
     "m": "tháng Sáu",
     "cat": "time",
-    "me": "June"
+    "me": "June",
+    "pos": "Danh từ"
   },
   {
     "w": "칠월",
     "p": "chirwol",
     "m": "tháng Bảy",
     "cat": "time",
-    "me": "July"
+    "me": "July",
+    "pos": "Danh từ"
   },
   {
     "w": "팔월",
     "p": "parwol",
     "m": "tháng Tám",
     "cat": "time",
-    "me": "August"
+    "me": "August",
+    "pos": "Danh từ"
   },
   {
     "w": "구월",
     "p": "guwol",
     "m": "tháng Chín",
     "cat": "time",
-    "me": "September"
+    "me": "September",
+    "pos": "Danh từ"
   },
   {
     "w": "시월",
     "p": "siwol",
     "m": "tháng Mười",
     "cat": "time",
-    "me": "October"
+    "me": "October",
+    "pos": "Danh từ"
   },
   {
     "w": "십일월",
     "p": "sibirwol",
     "m": "tháng Mười Một",
     "cat": "time",
-    "me": "November"
+    "me": "November",
+    "pos": "Danh từ"
   },
   {
     "w": "십이월",
     "p": "sibiwol",
     "m": "tháng Mười Hai",
     "cat": "time",
-    "me": "December"
+    "me": "December",
+    "pos": "Danh từ"
   },
   {
     "w": "십이",
     "p": "sibi",
     "m": "mười hai",
     "cat": "number",
-    "me": "twelve"
+    "me": "twelve",
+    "pos": "Số từ"
   },
   {
     "w": "십삼",
     "p": "sipsam",
     "m": "mười ba",
     "cat": "number",
-    "me": "thirteen"
+    "me": "thirteen",
+    "pos": "Số từ"
   },
   {
     "w": "십사",
     "p": "sipsa",
     "m": "mười bốn",
     "cat": "number",
-    "me": "fourteen"
+    "me": "fourteen",
+    "pos": "Số từ"
   },
   {
     "w": "십오",
     "p": "sibo",
     "m": "mười lăm",
     "cat": "number",
-    "me": "fifteen"
+    "me": "fifteen",
+    "pos": "Số từ"
   },
   {
     "w": "십육",
     "p": "sibyuk",
     "m": "mười sáu",
     "cat": "number",
-    "me": "sixteen"
+    "me": "sixteen",
+    "pos": "Số từ"
   },
   {
     "w": "십칠",
     "p": "sipchil",
     "m": "mười bảy",
     "cat": "number",
-    "me": "seventeen"
+    "me": "seventeen",
+    "pos": "Số từ"
   },
   {
     "w": "십팔",
     "p": "sippal",
     "m": "mười tám",
     "cat": "number",
-    "me": "eighteen"
+    "me": "eighteen",
+    "pos": "Số từ"
   },
   {
     "w": "십구",
     "p": "sipgu",
     "m": "mười chín",
     "cat": "number",
-    "me": "nineteen"
+    "me": "nineteen",
+    "pos": "Số từ"
   },
   {
     "w": "아빠",
     "p": "appa",
     "m": "bố (thân mật)",
     "cat": "family",
-    "me": "dad (informal)"
+    "me": "dad (informal)",
+    "pos": "Danh từ"
   },
   {
     "w": "엄마",
     "p": "eomma",
     "m": "mẹ (thân mật)",
     "cat": "family",
-    "me": "mom (informal)"
+    "me": "mom (informal)",
+    "pos": "Danh từ"
   },
   {
     "w": "아기",
     "p": "agi",
     "m": "em bé",
     "cat": "family",
-    "me": "baby"
+    "me": "baby",
+    "pos": "Danh từ"
   },
   {
     "w": "머리카락",
     "p": "meorikarak",
     "m": "tóc",
     "cat": "body",
-    "me": "hair"
+    "me": "hair",
+    "pos": "Danh từ"
   },
   {
     "w": "등",
     "p": "deung",
     "m": "lưng",
     "cat": "body",
-    "me": "back (body part)"
+    "me": "back (body part)",
+    "pos": "Danh từ"
   },
   {
     "w": "치아",
     "p": "chia",
     "m": "răng",
     "cat": "body",
-    "me": "tooth"
+    "me": "tooth",
+    "pos": "Danh từ"
   },
   {
     "w": "손가락",
     "p": "songarak",
     "m": "ngón tay",
     "cat": "body",
-    "me": "finger"
+    "me": "finger",
+    "pos": "Danh từ"
   },
   {
     "w": "교회",
     "p": "gyohoe",
     "m": "nhà thờ",
     "cat": "place",
-    "me": "church"
+    "me": "church",
+    "pos": "Danh từ"
   },
   {
     "w": "나라",
     "p": "nara",
     "m": "đất nước",
     "cat": "place",
-    "me": "country"
+    "me": "country",
+    "pos": "Danh từ"
   },
   {
     "w": "공장",
     "p": "gongjang",
     "m": "nhà máy",
     "cat": "place",
-    "me": "factory"
+    "me": "factory",
+    "pos": "Danh từ"
   },
   {
     "w": "농장",
     "p": "nongjang",
     "m": "nông trại",
     "cat": "place",
-    "me": "farm"
+    "me": "farm",
+    "pos": "Danh từ"
   },
   {
     "w": "해변",
     "p": "haebyeon",
     "m": "bãi biển",
     "cat": "place",
-    "me": "beach"
+    "me": "beach",
+    "pos": "Danh từ"
   },
   {
     "w": "숲",
     "p": "sup",
     "m": "rừng",
     "cat": "place",
-    "me": "forest"
+    "me": "forest",
+    "pos": "Danh từ"
   },
   {
     "w": "호수",
     "p": "hosu",
     "m": "cái hồ",
     "cat": "place",
-    "me": "lake"
+    "me": "lake",
+    "pos": "Danh từ"
   },
   {
     "w": "기차역",
     "p": "gichayeok",
     "m": "ga tàu hỏa",
     "cat": "place",
-    "me": "train station"
+    "me": "train station",
+    "pos": "Danh từ"
   },
   {
     "w": "위층",
     "p": "wicheung",
     "m": "ở tầng trên",
     "cat": "place",
-    "me": "on the upper floor"
+    "me": "on the upper floor",
+    "pos": "Danh từ"
   },
   {
     "w": "아래층",
     "p": "araecheung",
     "m": "ở tầng dưới",
     "cat": "place",
-    "me": "on the floor below"
+    "me": "on the floor below",
+    "pos": "Danh từ"
   },
   {
     "w": "쌀",
     "p": "ssal",
     "m": "gạo",
     "cat": "food",
-    "me": "rice"
+    "me": "rice",
+    "pos": "Danh từ"
   },
   {
     "w": "기차",
     "p": "gicha",
     "m": "tàu hỏa",
     "cat": "transport",
-    "me": "train"
+    "me": "train",
+    "pos": "Danh từ"
   },
   {
     "w": "오토바이",
     "p": "otobai",
     "m": "xe máy",
     "cat": "transport",
-    "me": "motorcycle"
+    "me": "motorcycle",
+    "pos": "Danh từ"
   },
   {
     "w": "구급차",
     "p": "gugeupcha",
     "m": "xe cứu thương",
     "cat": "transport",
-    "me": "ambulance"
+    "me": "ambulance",
+    "pos": "Danh từ"
   },
   {
     "w": "원하다",
     "p": "wonhada",
     "m": "muốn",
     "cat": "verb",
-    "me": "want"
+    "me": "want",
+    "pos": "Động từ"
   },
   {
     "w": "얻다",
     "p": "eotda",
     "m": "lấy, nhận được",
     "cat": "verb",
-    "me": "get"
+    "me": "get",
+    "pos": "Động từ"
   },
   {
     "w": "깨다",
     "p": "kkaeda",
     "m": "tỉnh giấc",
     "cat": "verb",
-    "me": "wake up"
+    "me": "wake up",
+    "pos": "Động từ"
   },
   {
     "w": "부르다",
     "p": "bureuda",
     "m": "gọi, gọi tên",
     "cat": "verb",
-    "me": "call, name"
+    "me": "call, name",
+    "pos": "Động từ"
   },
   {
     "w": "발견하다",
     "p": "balgyeonhada",
     "m": "phát hiện",
     "cat": "verb",
-    "me": "find out"
+    "me": "find out",
+    "pos": "Động từ"
   },
   {
     "w": "노력하다",
     "p": "noryeokhada",
     "m": "cố gắng, nỗ lực",
     "cat": "verb",
-    "me": "make an effort"
+    "me": "make an effort",
+    "pos": "Động từ"
   },
   {
     "w": "계획하다",
     "p": "gyehoekhada",
     "m": "dự định, tính toán",
     "cat": "verb",
-    "me": "intend, plan"
+    "me": "intend, plan",
+    "pos": "Động từ"
   },
   {
     "w": "결정하다",
     "p": "gyeoljeonghada",
     "m": "quyết định",
     "cat": "verb",
-    "me": "decide"
+    "me": "decide",
+    "pos": "Động từ"
   },
   {
     "w": "선택하다",
     "p": "seontaekhada",
     "m": "lựa chọn",
     "cat": "verb",
-    "me": "option"
+    "me": "option",
+    "pos": "Động từ"
   },
   {
     "w": "동의하다",
     "p": "dongyihada",
     "m": "đồng ý",
     "cat": "verb",
-    "me": "agree"
+    "me": "agree",
+    "pos": "Động từ"
   },
   {
     "w": "성공하다",
     "p": "seonggonghada",
     "m": "thành công",
     "cat": "verb",
-    "me": "successful"
+    "me": "successful",
+    "pos": "Động từ"
   },
   {
     "w": "실패하다",
     "p": "silpaehada",
     "m": "thất bại",
     "cat": "verb",
-    "me": "failure"
+    "me": "failure",
+    "pos": "Động từ"
   },
   {
     "w": "일어서다",
     "p": "ireoseoda",
     "m": "đứng lên",
     "cat": "verb",
-    "me": "stand up"
+    "me": "stand up",
+    "pos": "Động từ"
   },
   {
     "w": "가져오다",
     "p": "gajyeooda",
     "m": "mang đến",
     "cat": "verb",
-    "me": "bring"
+    "me": "bring",
+    "pos": "Động từ"
   },
   {
     "w": "나르다",
     "p": "nareuda",
     "m": "mang, vác",
     "cat": "verb",
-    "me": "carry"
+    "me": "carry",
+    "pos": "Động từ"
   },
   {
     "w": "자르다",
     "p": "jareuda",
     "m": "cắt",
     "cat": "verb",
-    "me": "cut"
+    "me": "cut",
+    "pos": "Động từ"
   },
   {
     "w": "지불하다",
     "p": "jibulhada",
     "m": "trả tiền",
     "cat": "verb",
-    "me": "pay"
+    "me": "pay",
+    "pos": "Động từ"
   },
   {
     "w": "보여주다",
     "p": "boyeojuda",
     "m": "chỉ cho xem, chứng tỏ",
     "cat": "verb",
-    "me": "show, demonstrate"
+    "me": "show, demonstrate",
+    "pos": "Động từ"
   },
   {
     "w": "시도하다",
     "p": "sidohada",
     "m": "thử",
     "cat": "verb",
-    "me": "try"
+    "me": "try",
+    "pos": "Động từ"
   },
   {
     "w": "멈추다",
     "p": "meomchuda",
     "m": "dừng lại",
     "cat": "verb",
-    "me": "stop"
+    "me": "stop",
+    "pos": "Động từ"
   },
   {
     "w": "끝내다",
     "p": "kkeutnaeda",
     "m": "kết thúc, hoàn thành",
     "cat": "verb",
-    "me": "finish"
+    "me": "finish",
+    "pos": "Động từ"
   },
   {
     "w": "따라가다",
     "p": "ttaragada",
     "m": "đi theo",
     "cat": "verb",
-    "me": "follow"
+    "me": "follow",
+    "pos": "Động từ"
   },
   {
     "w": "돌다",
     "p": "dolda",
     "m": "quay, rẽ",
     "cat": "verb",
-    "me": "turn"
+    "me": "turn",
+    "pos": "Động từ"
   },
   {
     "w": "지다",
     "p": "jida",
     "m": "thua",
     "cat": "verb",
-    "me": "lose"
+    "me": "lose",
+    "pos": "Động từ"
   },
   {
     "w": "이기다",
     "p": "igida",
     "m": "thắng",
     "cat": "verb",
-    "me": "win"
+    "me": "win",
+    "pos": "Động từ"
   },
   {
     "w": "미소짓다",
     "p": "misojitda",
     "m": "mỉm cười",
     "cat": "verb",
-    "me": "smile"
+    "me": "smile",
+    "pos": "Động từ"
   },
   {
     "w": "수영하다",
     "p": "suyeonghada",
     "m": "bơi",
     "cat": "verb",
-    "me": "swim"
+    "me": "swim",
+    "pos": "Động từ"
   },
   {
     "w": "점프하다",
     "p": "jeompeuhada",
     "m": "nhảy",
     "cat": "verb",
-    "me": "jump"
+    "me": "jump",
+    "pos": "Động từ"
   },
   {
     "w": "날다",
     "p": "nalda",
     "m": "bay",
     "cat": "verb",
-    "me": "fly"
+    "me": "fly",
+    "pos": "Động từ"
   },
   {
     "w": "그리다",
     "p": "geurida",
     "m": "vẽ",
     "cat": "verb",
-    "me": "draw"
+    "me": "draw",
+    "pos": "Động từ"
   },
   {
     "w": "짓다",
     "p": "jitda",
     "m": "xây dựng",
     "cat": "verb",
-    "me": "build"
+    "me": "build",
+    "pos": "Động từ"
   },
   {
     "w": "깨지다",
     "p": "kkaejida",
     "m": "vỡ, bể",
     "cat": "verb",
-    "me": "break, shatter"
+    "me": "break, shatter",
+    "pos": "Động từ"
   },
   {
     "w": "고치다",
     "p": "gochida",
     "m": "sửa chữa",
     "cat": "verb",
-    "me": "fix"
+    "me": "fix",
+    "pos": "Động từ"
   },
   {
     "w": "생각하다",
     "p": "saenggakhada",
     "m": "nghĩ",
     "cat": "verb",
-    "me": "think"
+    "me": "think",
+    "pos": "Động từ"
   },
   {
     "w": "맞다",
     "p": "matda",
     "m": "đúng",
     "cat": "adjective",
-    "me": "correct"
+    "me": "correct",
+    "pos": "Tính từ"
   },
   {
     "w": "차갑다",
     "p": "chagapda",
     "m": "lạnh (vật, nước)",
     "cat": "adjective",
-    "me": "cold (object, water)"
+    "me": "cold (object, water)",
+    "pos": "Tính từ"
   },
   {
     "w": "행복하다",
     "p": "haengbokhada",
     "m": "hạnh phúc",
     "cat": "adjective",
-    "me": "happiness"
+    "me": "happiness",
+    "pos": "Tính từ"
   },
   {
     "w": "무료",
     "p": "muryo",
     "m": "miễn phí",
     "cat": "adjective",
-    "me": "free of charge"
+    "me": "free of charge",
+    "pos": "Tính từ"
   },
   {
     "w": "비다",
     "p": "bida",
     "m": "rỗng, trống",
     "cat": "adjective",
-    "me": "empty"
+    "me": "empty",
+    "pos": "Tính từ"
   },
   {
     "w": "따뜻하다",
     "p": "ttatteuthada",
     "m": "ấm áp",
     "cat": "adjective",
-    "me": "warm"
+    "me": "warm",
+    "pos": "Tính từ"
   },
   {
     "w": "시원하다",
     "p": "siwonhada",
     "m": "mát mẻ",
     "cat": "adjective",
-    "me": "cool"
+    "me": "cool",
+    "pos": "Tính từ"
   },
   {
     "w": "밝다",
     "p": "bakda",
     "m": "sáng, rực rỡ",
     "cat": "adjective",
-    "me": "bright"
+    "me": "bright",
+    "pos": "Tính từ"
   },
   {
     "w": "둥글다",
     "p": "dunggeulda",
     "m": "tròn",
     "cat": "adjective",
-    "me": "round"
+    "me": "round",
+    "pos": "Tính từ"
   },
   {
     "w": "네모나다",
     "p": "nemonada",
     "m": "vuông",
     "cat": "adjective",
-    "me": "square"
+    "me": "square",
+    "pos": "Tính từ"
   },
   {
     "w": "평평하다",
     "p": "pyeongpyeonghada",
     "m": "phẳng",
     "cat": "adjective",
-    "me": "flat"
+    "me": "flat",
+    "pos": "Tính từ"
   },
   {
     "w": "깊다",
     "p": "gipda",
     "m": "sâu",
     "cat": "adjective",
-    "me": "deep"
+    "me": "deep",
+    "pos": "Tính từ"
   },
   {
     "w": "늦다",
     "p": "neutda",
     "m": "muộn, trễ",
     "cat": "adjective",
-    "me": "late"
+    "me": "late",
+    "pos": "Tính từ"
   },
   {
     "w": "이르다",
     "p": "ireuda",
     "m": "sớm",
     "cat": "adjective",
-    "me": "early"
+    "me": "early",
+    "pos": "Tính từ"
   },
   {
     "w": "위험하다",
     "p": "wiheomhada",
     "m": "nguy hiểm",
     "cat": "adjective",
-    "me": "dangerous"
+    "me": "dangerous",
+    "pos": "Tính từ"
   },
   {
     "w": "혼자",
     "p": "honja",
     "m": "một mình",
     "cat": "adjective",
-    "me": "alone"
+    "me": "alone",
+    "pos": "Tính từ"
   },
   {
     "w": "어둡다",
     "p": "eodupda",
     "m": "tối",
     "cat": "adjective",
-    "me": "dark"
+    "me": "dark",
+    "pos": "Tính từ"
   },
   {
     "w": "가장",
     "p": "gajang",
     "m": "nhất",
     "cat": "default",
-    "me": "first, foremost"
+    "me": "first, foremost",
+    "pos": "Số từ"
   },
   {
     "w": "모두",
     "p": "modu",
     "m": "tất cả, đều",
     "cat": "default",
-    "me": "all, every"
+    "me": "all, every",
+    "pos": "Danh từ"
   },
   {
     "w": "함께",
     "p": "hamkke",
     "m": "cùng nhau",
     "cat": "default",
-    "me": "together"
+    "me": "together",
+    "pos": "Phó từ"
   },
   {
     "w": "먼저",
     "p": "meonjeo",
     "m": "trước tiên",
     "cat": "default",
-    "me": "first of all"
+    "me": "first of all",
+    "pos": "Phó từ"
   },
   {
     "w": "그다음",
     "p": "geudaeum",
     "m": "sau đó, tiếp theo",
     "cat": "default",
-    "me": "subsequently"
+    "me": "subsequently",
+    "pos": "Phó từ"
   },
   {
     "w": "서로",
     "p": "seoro",
     "m": "lẫn nhau",
     "cat": "default",
-    "me": "mutual, each other"
+    "me": "mutual, each other",
+    "pos": "Phó từ"
   },
   {
     "w": "사람들",
     "p": "saramdeul",
     "m": "mọi người",
     "cat": "default",
-    "me": "everyone"
+    "me": "everyone",
+    "pos": "Đại từ"
   },
   {
     "w": "방",
     "p": "bang",
     "m": "phòng",
     "cat": "default",
-    "me": "room"
+    "me": "room",
+    "pos": "Danh từ"
   },
   {
     "w": "음식",
     "p": "eumsik",
     "m": "thức ăn",
     "cat": "default",
-    "me": "food"
+    "me": "food",
+    "pos": "Động từ"
   },
   {
     "w": "숫자",
     "p": "sutja",
     "m": "số",
     "cat": "default",
-    "me": "number"
+    "me": "number",
+    "pos": "Danh từ"
   },
   {
     "w": "단어",
     "p": "daneo",
     "m": "từ ngữ",
     "cat": "default",
-    "me": "word"
+    "me": "word",
+    "pos": "Danh từ"
   },
   {
     "w": "크기",
     "p": "keugi",
     "m": "kích thước",
     "cat": "default",
-    "me": "size"
+    "me": "size",
+    "pos": "Danh từ"
   },
   {
     "w": "하늘",
     "p": "haneul",
     "m": "bầu trời",
     "cat": "nature",
-    "me": "sky"
+    "me": "sky",
+    "pos": "Danh từ"
   },
   {
     "w": "길",
     "p": "gil",
     "m": "con đường",
     "cat": "nature",
-    "me": "road"
+    "me": "road",
+    "pos": "Danh từ"
   },
   {
     "w": "불",
     "p": "bul",
     "m": "lửa",
     "cat": "nature",
-    "me": "fire"
+    "me": "fire",
+    "pos": "Danh từ"
   },
   {
     "w": "돌",
     "p": "dol",
     "m": "đá",
     "cat": "nature",
-    "me": "stone"
+    "me": "stone",
+    "pos": "Danh từ"
   },
   {
     "w": "땅",
     "p": "ttang",
     "m": "mặt đất",
     "cat": "nature",
-    "me": "ground"
+    "me": "ground",
+    "pos": "Danh từ"
   },
   {
     "w": "빛",
     "p": "bit",
     "m": "ánh sáng",
     "cat": "nature",
-    "me": "light"
+    "me": "light",
+    "pos": "Danh từ"
   },
   {
     "w": "주황색",
     "p": "juhwangsaek",
     "m": "màu cam",
     "cat": "color",
-    "me": "orange color"
+    "me": "orange color",
+    "pos": "Danh từ"
   },
   {
     "w": "원피스",
     "p": "wonpiseu",
     "m": "váy đầm",
     "cat": "clothing",
-    "me": "dress"
+    "me": "dress",
+    "pos": "Danh từ"
   },
   {
     "w": "정오",
     "p": "jeongo",
     "m": "buổi trưa, chính ngọ",
     "cat": "time",
-    "me": "noon, high noon"
+    "me": "noon, high noon",
+    "pos": "Danh từ"
   },
   {
     "w": "자정",
     "p": "jajeong",
     "m": "nửa đêm",
     "cat": "time",
-    "me": "midnight"
+    "me": "midnight",
+    "pos": "Danh từ"
   },
   {
     "w": "주말",
     "p": "jumal",
     "m": "cuối tuần",
     "cat": "time",
-    "me": "weekend"
+    "me": "weekend",
+    "pos": "Danh từ"
   },
   {
     "w": "휴일",
     "p": "hyuil",
     "m": "ngày nghỉ, ngày lễ",
     "cat": "time",
-    "me": "day off, holiday"
+    "me": "day off, holiday",
+    "pos": "Danh từ"
   },
   {
     "w": "기침",
     "p": "gichim",
     "m": "ho",
     "cat": "health",
-    "me": "cough"
+    "me": "cough",
+    "pos": "Động từ"
   },
   {
     "w": "동전",
     "p": "dongjeon",
     "m": "đồng xu",
     "cat": "money",
-    "me": "coin"
+    "me": "coin",
+    "pos": "Danh từ"
   },
   {
     "w": "이웃",
     "p": "iut",
     "m": "hàng xóm",
     "cat": "default",
-    "me": "neighbor"
+    "me": "neighbor",
+    "pos": "Danh từ"
   },
   {
     "w": "낯선 사람",
     "p": "natseon saram",
     "m": "người lạ",
     "cat": "default",
-    "me": "stranger"
+    "me": "stranger",
+    "pos": "Danh từ"
   },
   {
     "w": "남자아이",
     "p": "namjaai",
     "m": "bé trai",
     "cat": "family",
-    "me": "boy"
+    "me": "boy",
+    "pos": "Danh từ"
   },
   {
     "w": "여자아이",
     "p": "yeojaai",
     "m": "bé gái",
     "cat": "family",
-    "me": "girl"
+    "me": "girl",
+    "pos": "Danh từ"
   },
   {
     "w": "농부",
     "p": "nongbu",
     "m": "nông dân",
     "cat": "work",
-    "me": "farmer"
+    "me": "farmer",
+    "pos": "Danh từ"
   },
   {
     "w": "운전사",
     "p": "unjeonsa",
     "m": "tài xế",
     "cat": "work",
-    "me": "driver"
+    "me": "driver",
+    "pos": "Danh từ"
   },
   {
     "w": "경찰",
     "p": "gyeongchal",
     "m": "cảnh sát",
     "cat": "work",
-    "me": "police officer"
+    "me": "police officer",
+    "pos": "Danh từ"
   },
   {
     "w": "글자",
     "p": "geulja",
     "m": "chữ cái",
     "cat": "school",
-    "me": "letter (alphabet)"
+    "me": "letter (alphabet)",
+    "pos": "Danh từ"
   },
   {
     "w": "편지",
     "p": "pyeonji",
     "m": "bức thư",
     "cat": "school",
-    "me": "letter"
+    "me": "letter",
+    "pos": "Danh từ"
   },
   {
     "w": "알파벳",
     "p": "alpabet",
     "m": "bảng chữ cái",
     "cat": "school",
-    "me": "alphabet"
+    "me": "alphabet",
+    "pos": "Danh từ"
   },
   {
     "w": "구름",
     "p": "gureum",
     "m": "đám mây",
     "cat": "nature",
-    "me": "cloud"
+    "me": "cloud",
+    "pos": "Danh từ"
   },
   {
     "w": "맑다",
     "p": "makda",
     "m": "trong xanh, nắng đẹp",
     "cat": "adjective",
-    "me": "clear blue sky, sunny"
+    "me": "clear blue sky, sunny",
+    "pos": "Tính từ"
   },
   {
     "w": "가스레인지",
     "p": "gaseureinji",
     "m": "bếp ga",
     "cat": "home",
-    "me": "gas stove"
+    "me": "gas stove",
+    "pos": "Danh từ"
   },
   {
     "w": "붓다",
     "p": "butda",
     "m": "rót",
     "cat": "verb",
-    "me": "pour"
+    "me": "pour",
+    "pos": "Động từ"
   },
   {
     "w": "끓이다",
     "p": "kkeurida",
     "m": "đun sôi",
     "cat": "verb",
-    "me": "boil"
+    "me": "boil",
+    "pos": "Động từ"
   },
   {
     "w": "튀기다",
     "p": "twigida",
     "m": "chiên, rán",
     "cat": "verb",
-    "me": "fry"
+    "me": "fry",
+    "pos": "Động từ"
   },
   {
     "w": "신선하다",
     "p": "sinseonhada",
     "m": "tươi",
     "cat": "adjective",
-    "me": "fresh"
+    "me": "fresh",
+    "pos": "Tính từ"
   },
   {
     "w": "고장 나다",
     "p": "gojang nada",
     "m": "hỏng (máy móc)",
     "cat": "verb",
-    "me": "broken (machinery)"
+    "me": "broken (machinery)",
+    "pos": "Động từ"
   },
   {
     "w": "곧",
     "p": "got",
     "m": "sớm thôi",
     "cat": "time",
-    "me": "soon"
+    "me": "soon",
+    "pos": "Danh từ"
   },
   {
     "w": "신나다",
     "p": "sinnada",
     "m": "hứng thú, phấn khích",
     "cat": "emotion",
-    "me": "excited"
+    "me": "excited",
+    "pos": "Tính từ"
   },
   {
     "w": "거의",
     "p": "geoui",
     "m": "gần như, hầu như",
     "cat": "default",
-    "me": "almost"
+    "me": "almost",
+    "pos": "Phó từ"
   },
   {
     "w": "아마",
     "p": "ama",
     "m": "có lẽ, hình như",
     "cat": "default",
-    "me": "perhaps, it seems"
+    "me": "perhaps, it seems",
+    "pos": "Phó từ"
   },
   {
     "w": "계속",
     "p": "gyesok",
     "m": "liên tục, tiếp tục",
     "cat": "default",
-    "me": "continuous, continue"
+    "me": "continuous, continue",
+    "pos": "Phó từ"
   },
   {
     "w": "이미",
     "p": "imi",
     "m": "đã, rồi",
     "cat": "default",
-    "me": "already"
+    "me": "already",
+    "pos": "Phó từ"
   },
   {
     "w": "더",
     "p": "deo",
     "m": "hơn, thêm",
     "cat": "default",
-    "me": "more, additionally"
+    "me": "more, additionally",
+    "pos": "Động từ"
   },
   {
     "w": "세계",
     "p": "segye",
     "m": "thế giới",
     "cat": "default",
-    "me": "world"
+    "me": "world",
+    "pos": "Danh từ"
   },
   {
     "w": "인생",
     "p": "insaeng",
     "m": "cuộc sống, đời người",
     "cat": "default",
-    "me": "life, one's lifetime"
+    "me": "life, one's lifetime",
+    "pos": "Danh từ"
   },
   {
     "w": "부분",
     "p": "bubun",
     "m": "phần",
     "cat": "default",
-    "me": "part"
+    "me": "part",
+    "pos": "Số từ"
   },
   {
     "w": "생각",
     "p": "saenggak",
     "m": "ý kiến, suy nghĩ",
     "cat": "default",
-    "me": "opinion, thought"
+    "me": "opinion, thought",
+    "pos": "Động từ"
   },
   {
     "w": "있다",
     "p": "itda",
     "m": "có, tồn tại, ở",
     "cat": "verb",
-    "me": "exist, be present, be at"
+    "me": "exist, be present, be at",
+    "pos": "Động từ"
   },
   {
     "w": "없다",
     "p": "eopda",
     "m": "không có, không tồn tại",
     "cat": "verb",
-    "me": "not have, not exist"
+    "me": "not have, not exist",
+    "pos": "Động từ"
   },
   {
     "w": "중국",
     "p": "jungguk",
     "m": "Trung Quốc",
     "cat": "place",
-    "me": "China"
+    "me": "China",
+    "pos": "Danh từ"
   },
   {
     "w": "아니다",
     "p": "anida",
     "m": "không phải là",
     "cat": "verb",
-    "me": "is not"
+    "me": "is not",
+    "pos": "Động từ"
   },
   {
     "w": "가족",
     "p": "gajok",
     "m": "gia đình",
     "cat": "family",
-    "me": "family"
+    "me": "family",
+    "pos": "Danh từ"
   },
   {
     "w": "귀",
     "p": "gwi",
     "m": "tai",
     "cat": "body",
-    "me": "ear"
+    "me": "ear",
+    "pos": "Danh từ"
   },
   {
     "w": "잔디",
     "p": "jandi",
     "m": "cỏ, bãi cỏ",
     "cat": "nature",
-    "me": "grass, lawn"
+    "me": "grass, lawn",
+    "pos": "Danh từ"
   },
   {
     "w": "바람",
     "p": "baram",
     "m": "gió",
     "cat": "nature",
-    "me": "wind"
+    "me": "wind",
+    "pos": "Danh từ"
   },
   {
     "w": "언어",
     "p": "eoneo",
     "m": "ngôn ngữ",
     "cat": "school",
-    "me": "language"
+    "me": "language",
+    "pos": "Danh từ"
   },
   {
     "w": "환영하다",
     "p": "hwanyeonghada",
     "m": "chào mừng, hoan nghênh",
     "cat": "greeting",
-    "me": "welcome"
+    "me": "welcome",
+    "pos": "Động từ"
   },
   {
     "w": "오빠",
     "p": "oppa",
     "m": "anh trai (em gái gọi anh)",
     "cat": "family",
-    "me": "older brother (a younger sister's term)"
+    "me": "older brother (a younger sister's term)",
+    "pos": "Danh từ"
   },
   {
     "w": "언니",
     "p": "eonni",
     "m": "chị gái (em gái gọi chị)",
     "cat": "family",
-    "me": "older sister (as addressed by a younger sister)"
+    "me": "older sister (as addressed by a younger sister)",
+    "pos": "Danh từ"
   },
   {
     "w": "해",
     "p": "hae",
     "m": "mặt trời",
     "cat": "nature",
-    "me": "sun"
+    "me": "sun",
+    "pos": "Danh từ"
   },
   {
     "w": "명",
     "p": "myeong",
     "m": "người (lượng từ đếm người)",
     "cat": "default",
-    "me": "person (measure word for counting people)"
+    "me": "person (measure word for counting people)",
+    "pos": "Lượng từ"
   },
   {
     "w": "첫 번째",
     "p": "cheot beonjjae",
     "m": "đầu tiên, thứ nhất",
     "cat": "number",
-    "me": "first, firstly"
+    "me": "first, firstly",
+    "pos": "Số từ"
   },
   {
     "w": "냄새",
     "p": "naemsae",
     "m": "mùi, mùi hương",
     "cat": "default",
-    "me": "smell, scent"
+    "me": "smell, scent",
+    "pos": "Danh từ"
   },
   {
     "w": "소리",
     "p": "sori",
     "m": "âm thanh, tiếng động",
     "cat": "default",
-    "me": "sound, noise"
+    "me": "sound, noise",
+    "pos": "Danh từ"
   },
   {
     "w": "사랑",
     "p": "sarang",
     "m": "tình yêu",
     "cat": "emotion",
-    "me": "love"
+    "me": "love",
+    "pos": "Danh từ"
   },
   {
     "w": "여자친구",
     "p": "yeojachingu",
     "m": "bạn gái (người yêu)",
     "cat": "default",
-    "me": "girlfriend"
+    "me": "girlfriend",
+    "pos": "Danh từ"
   },
   {
     "w": "남자친구",
     "p": "namjachingu",
     "m": "bạn trai (người yêu)",
     "cat": "default",
-    "me": "boyfriend"
+    "me": "boyfriend",
+    "pos": "Danh từ"
   },
   {
     "w": "취미",
     "p": "chwimi",
     "m": "sở thích",
     "cat": "culture",
-    "me": "hobby"
+    "me": "hobby",
+    "pos": "Danh từ"
   },
   {
     "w": "아르바이트",
     "p": "areubaiteu",
     "m": "việc làm thêm",
     "cat": "work",
-    "me": "part-time job"
+    "me": "part-time job",
+    "pos": "Danh từ"
   },
   {
     "w": "선풍기",
     "p": "seonpunggi",
     "m": "quạt máy",
     "cat": "home",
-    "me": "electric fan"
+    "me": "electric fan",
+    "pos": "Danh từ"
   },
   {
     "w": "회사원",
     "p": "hoesawon",
     "m": "nhân viên công ty",
     "cat": "work",
-    "me": "company employee"
+    "me": "company employee",
+    "pos": "Danh từ"
   },
   {
     "w": "주부",
     "p": "jubu",
     "m": "nội trợ",
     "cat": "work",
-    "me": "housework, homemaker"
+    "me": "housework, homemaker",
+    "pos": "Danh từ"
   },
   {
     "w": "건강",
     "p": "geongang",
     "m": "sức khỏe",
     "cat": "health",
-    "me": "health"
+    "me": "health",
+    "pos": "Danh từ"
   },
   {
     "w": "버튼",
     "p": "beoteun",
     "m": "nút bấm, nút nhấn",
     "cat": "tech",
-    "me": "button"
+    "me": "button",
+    "pos": "Danh từ"
   },
   {
     "w": "파티",
     "p": "pati",
     "m": "tiệc, buổi tiệc",
     "cat": "culture",
-    "me": "party, feast"
+    "me": "party, feast",
+    "pos": "Danh từ"
   },
   {
     "w": "부탁하다",
     "p": "butakhada",
     "m": "nhờ vả, nhờ giúp",
     "cat": "verb",
-    "me": "ask for help, request assistance"
+    "me": "ask for help, request assistance",
+    "pos": "Động từ"
   },
   {
     "w": "술",
     "p": "sul",
     "m": "rượu",
     "cat": "drink",
-    "me": "alcohol, liquor"
+    "me": "alcohol, liquor",
+    "pos": "Danh từ"
   },
   {
     "w": "담배",
     "p": "dambae",
     "m": "thuốc lá",
     "cat": "default",
-    "me": "cigarette"
+    "me": "cigarette",
+    "pos": "Danh từ"
   },
   {
     "w": "휴가",
     "p": "hyuga",
     "m": "kỳ nghỉ phép",
     "cat": "work",
-    "me": "vacation leave"
+    "me": "vacation leave",
+    "pos": "Danh từ"
   },
   {
     "w": "스트레스",
     "p": "seuteureseu",
     "m": "căng thẳng, áp lực tinh thần",
     "cat": "emotion",
-    "me": "tension, mental pressure"
+    "me": "tension, mental pressure",
+    "pos": "Tính từ"
   },
   {
     "w": "고향",
     "p": "gohyang",
     "m": "quê hương",
     "cat": "place",
-    "me": "hometown"
+    "me": "hometown",
+    "pos": "Danh từ"
   },
   {
     "w": "주인",
     "p": "juin",
     "m": "chủ (nhà, quán)",
     "cat": "default",
-    "me": "owner (of a house, shop)"
+    "me": "owner (of a house, shop)",
+    "pos": "Danh từ"
   },
   {
     "w": "사장",
     "p": "sajang",
     "m": "giám đốc",
     "cat": "work",
-    "me": "director"
+    "me": "director",
+    "pos": "Danh từ"
   },
   {
     "w": "직장",
     "p": "jikjang",
     "m": "nơi làm việc",
     "cat": "work",
-    "me": "workplace"
+    "me": "workplace",
+    "pos": "Danh từ"
   },
   {
     "w": "군인",
     "p": "gunin",
     "m": "quân nhân, bộ đội",
     "cat": "work",
-    "me": "soldier, military personnel"
+    "me": "soldier, military personnel",
+    "pos": "Danh từ"
   },
   {
     "w": "부모님",
     "p": "bumonim",
     "m": "cha mẹ (kính ngữ)",
     "cat": "family",
-    "me": "parents (honorific)"
+    "me": "parents (honorific)",
+    "pos": "Danh từ"
   },
   {
     "w": "손자",
     "p": "sonja",
     "m": "cháu trai (nội, ngoại)",
     "cat": "family",
-    "me": "grandson"
+    "me": "grandson",
+    "pos": "Danh từ"
   },
   {
     "w": "김치",
     "p": "gimchi",
     "m": "kim chi",
     "cat": "food",
-    "me": "kimchi"
+    "me": "kimchi",
+    "pos": "Danh từ"
   },
   {
     "w": "불고기",
     "p": "bulgogi",
     "m": "thịt bò nướng kiểu Hàn",
     "cat": "food",
-    "me": "Korean-style grilled beef"
+    "me": "Korean-style grilled beef",
+    "pos": "Danh từ"
   },
   {
     "w": "라디오",
     "p": "radio",
     "m": "radio, đài phát thanh",
     "cat": "tech",
-    "me": "radio"
+    "me": "radio",
+    "pos": "Danh từ"
   },
   {
     "w": "착하다",
     "p": "chakhada",
     "m": "hiền lành, tốt bụng",
     "cat": "adjective",
-    "me": "gentle, kind"
+    "me": "gentle, kind",
+    "pos": "Tính từ"
   },
   {
     "w": "멋있다",
     "p": "meositda",
     "m": "đẹp, ngầu, phong cách",
     "cat": "adjective",
-    "me": "cool, stylish"
+    "me": "cool, stylish",
+    "pos": "Tính từ"
   },
   {
     "w": "키",
     "p": "ki",
     "m": "chiều cao",
     "cat": "body",
-    "me": "height"
+    "me": "height",
+    "pos": "Danh từ"
   },
   {
     "w": "몸무게",
     "p": "mommuge",
     "m": "cân nặng",
     "cat": "body",
-    "me": "weight"
+    "me": "weight",
+    "pos": "Danh từ"
   },
   {
     "w": "날씬하다",
     "p": "nalssinhada",
     "m": "thon thả, mảnh mai",
     "cat": "adjective",
-    "me": "slender, slim"
+    "me": "slender, slim",
+    "pos": "Tính từ"
   },
   {
     "w": "성격",
     "p": "seonggyeok",
     "m": "tính cách",
     "cat": "default",
-    "me": "personality"
+    "me": "personality",
+    "pos": "Tính từ"
   },
   {
     "w": "인기",
     "p": "ingi",
     "m": "được yêu thích, phổ biến",
     "cat": "default",
-    "me": "well-liked, popular"
+    "me": "well-liked, popular",
+    "pos": "Tính từ"
   },
   {
     "w": "사전",
     "p": "sajeon",
     "m": "từ điển",
     "cat": "school",
-    "me": "dictionary"
+    "me": "dictionary",
+    "pos": "Danh từ"
   },
   {
     "w": "아까",
     "p": "akka",
     "m": "lúc nãy, vừa rồi",
     "cat": "time",
-    "me": "just now, a moment ago"
+    "me": "just now, a moment ago",
+    "pos": "Danh từ"
   },
   {
     "w": "이따가",
     "p": "ittaga",
     "m": "lát nữa, chút nữa",
     "cat": "time",
-    "me": "in a moment, shortly"
+    "me": "in a moment, shortly",
+    "pos": "Danh từ"
   },
   {
     "w": "엔지니어",
     "p": "enjinieo",
     "m": "kỹ sư",
     "cat": "work",
-    "me": "engineer"
+    "me": "engineer",
+    "pos": "Danh từ"
   },
   {
     "w": "요일",
     "p": "yoil",
     "m": "thứ (ngày trong tuần)",
     "cat": "time",
-    "me": "day of the week"
+    "me": "day of the week",
+    "pos": "Số từ"
   },
   {
     "w": "메모",
     "p": "memo",
     "m": "ghi chú",
     "cat": "school",
-    "me": "note"
+    "me": "note",
+    "pos": "Động từ"
   },
   {
     "w": "환전하다",
     "p": "hwanjeonhada",
     "m": "đổi tiền (ngoại tệ)",
     "cat": "money",
-    "me": "exchange currency"
+    "me": "exchange currency",
+    "pos": "Động từ"
   },
   {
     "w": "트럭",
     "p": "teureok",
     "m": "xe tải",
     "cat": "transport",
-    "me": "truck"
+    "me": "truck",
+    "pos": "Danh từ"
   },
   {
     "w": "베트남",
     "p": "beteunam",
     "m": "Việt Nam",
     "cat": "place",
-    "me": "Vietnam"
+    "me": "Vietnam",
+    "pos": "Danh từ"
   },
   {
     "w": "넣다",
     "p": "neota",
     "m": "cho vào, bỏ vào",
     "cat": "verb",
-    "me": "put in, insert"
+    "me": "put in, insert",
+    "pos": "Động từ"
   },
   {
     "w": "세다",
     "p": "seda",
     "m": "đếm",
     "cat": "verb",
-    "me": "count"
+    "me": "count",
+    "pos": "Động từ"
   }
 ]

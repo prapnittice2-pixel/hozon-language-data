@@ -4,7 +4,9 @@
     "p": "yǒu tiáo bù wěn",
     "m": "có trật tự, ngăn nắp, không rối loạn",
     "example": "他做事总是有条不紊，从不慌乱。",
-    "example_vi": "Anh ấy làm việc luôn có trật tự ngăn nắp, không bao giờ luống cuống."
+    "example_vi": "Anh ấy làm việc luôn có trật tự ngăn nắp, không bao giờ luống cuống.",
+    "pos": "Tính từ",
+    "cat": "idiom"
   },
   {
     "w": "差强人意",
@@ -12,7 +14,9 @@
     "m": "tạm được, miễn cưỡng hài lòng, không xuất sắc nhưng chấp nhận được",
     "example": "这次考试成绩差强人意，还有提升空间。",
     "example_vi": "Kết quả thi lần này tạm được, vẫn còn chỗ để cải thiện.",
-    "me": "passable, reluctantly satisfactory"
+    "me": "passable, reluctantly satisfactory",
+    "pos": "Danh từ",
+    "cat": "idiom"
   },
   {
     "w": "临时抱佛脚",
@@ -20,7 +24,9 @@
     "m": "nước đến chân mới nhảy, học vội vàng vào phút chót",
     "example": "考试前才临时抱佛脚，效果并不理想。",
     "example_vi": "Đến sát kỳ thi mới học vội học vàng, hiệu quả không như ý.",
-    "me": "jumping only when the water reaches one's feet — cramming at the last minute"
+    "me": "jumping only when the water reaches one's feet — cramming at the last minute",
+    "pos": "Động từ",
+    "cat": "verb"
   },
   {
     "w": "投机取巧",
@@ -28,7 +34,9 @@
     "m": "đầu cơ trục lợi, ăn gian tắt để kiếm lợi",
     "example": "他总想投机取巧，不愿脚踏实地。",
     "example_vi": "Anh ta lúc nào cũng muốn đầu cơ trục lợi, không chịu làm việc thực tế.",
-    "me": "speculate for profit, cut corners dishonestly for gain"
+    "me": "speculate for profit, cut corners dishonestly for gain",
+    "pos": "Động từ",
+    "cat": "idiom"
   },
   {
     "w": "装模作样",
@@ -36,7 +44,9 @@
     "m": "giả bộ, làm bộ làm tịch",
     "example": "别再装模作样了，大家都看穿你了。",
     "example_vi": "Đừng giả bộ nữa, mọi người đều nhìn thấu anh rồi.",
-    "me": "pretend, put on airs"
+    "me": "pretend, put on airs",
+    "pos": "Động từ",
+    "cat": "character"
   },
   {
     "w": "自欺欺人",
@@ -44,7 +54,9 @@
     "m": "tự lừa dối mình và người khác",
     "example": "明知问题存在却假装没看见，这是自欺欺人。",
     "example_vi": "Biết rõ vấn đề tồn tại mà vẫn giả vờ không thấy, đó là tự lừa mình dối người.",
-    "me": "deceive both oneself and others"
+    "me": "deceive both oneself and others",
+    "pos": "Danh từ",
+    "cat": "psychology"
   },
   {
     "w": "自食其果",
@@ -52,7 +64,9 @@
     "m": "tự gánh hậu quả do mình gây ra, gậy ông đập lưng ông",
     "example": "他不听劝告一意孤行，最终自食其果。",
     "example_vi": "Anh ta không nghe khuyên can cứ khăng khăng làm theo ý mình, cuối cùng tự chuốc lấy hậu quả.",
-    "me": "reap what one sows, hoisted by one's own petard"
+    "me": "reap what one sows, hoisted by one's own petard",
+    "pos": "Danh từ",
+    "cat": "idiom"
   },
   {
     "w": "铺张浪费",
@@ -60,7 +74,9 @@
     "m": "phô trương lãng phí",
     "example": "婚礼应该量力而行，不要铺张浪费。",
     "example_vi": "Đám cưới nên làm vừa sức, đừng phô trương lãng phí.",
-    "me": "ostentatious waste"
+    "me": "ostentatious waste",
+    "pos": "Danh từ",
+    "cat": "idiom"
   },
   {
     "w": "患得患失",
@@ -68,7 +84,9 @@
     "m": "được mất đều lo, so đo tính toán thiệt hơn",
     "example": "做决定时不要患得患失，要果断一些。",
     "example_vi": "Khi ra quyết định đừng cứ so đo được mất, hãy dứt khoát hơn một chút.",
-    "me": "worry over both gain and loss, calculating advantage and disadvantage"
+    "me": "worry over both gain and loss, calculating advantage and disadvantage",
+    "pos": "Danh từ",
+    "cat": "idiom"
   },
   {
     "w": "初衷",
@@ -76,7 +94,9 @@
     "m": "ý định ban đầu, tâm nguyện ban đầu",
     "example": "无论遇到什么困难，他都没有忘记自己的初衷。",
     "example_vi": "Dù gặp khó khăn gì, anh ấy cũng không quên ý định ban đầu của mình.",
-    "me": "original intention, initial aspiration"
+    "me": "original intention, initial aspiration",
+    "pos": "Danh từ",
+    "cat": "philosophy"
   },
   {
     "w": "端倪",
@@ -84,7 +104,9 @@
     "m": "đầu mối, manh mối, dấu hiệu ban đầu",
     "example": "经过仔细调查，警方终于发现了一些端倪。",
     "example_vi": "Qua điều tra kỹ lưỡng, cảnh sát cuối cùng đã phát hiện ra một số manh mối.",
-    "me": "clue, initial sign"
+    "me": "clue, initial sign",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "由衷",
@@ -92,6 +114,8 @@
     "m": "từ đáy lòng, chân thành xuất phát từ nội tâm",
     "example": "我对帮助过我的人表示由衷的感谢。",
     "example_vi": "Tôi bày tỏ lòng biết ơn chân thành đối với những người đã giúp đỡ tôi.",
-    "me": "from the bottom of one's heart, sincerely"
+    "me": "from the bottom of one's heart, sincerely",
+    "pos": "Danh từ",
+    "cat": "noun"
   }
 ]

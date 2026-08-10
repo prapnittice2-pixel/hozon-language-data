@@ -4,21 +4,24 @@
     "p": "niánchū",
     "m": "đầu năm",
     "cat": "time",
-    "me": "beginning of the year"
+    "me": "beginning of the year",
+    "pos": "Danh từ"
   },
   {
     "w": "年底",
     "p": "niándǐ",
     "m": "cuối năm",
     "cat": "time",
-    "me": "year-end"
+    "me": "year-end",
+    "pos": "Danh từ"
   },
   {
     "w": "年末",
     "p": "niánmò",
     "m": "cuối năm, dịp tất niên",
     "cat": "time",
-    "me": "year-end, New Year's Eve occasion"
+    "me": "year-end, New Year's Eve occasion",
+    "pos": "Danh từ"
   },
   {
     "w": "平均",
@@ -27,7 +30,8 @@
     "cat": "noun",
     "example": "这个班的平均成绩很好。",
     "example_vi": "Thành tích trung bình của lớp này rất tốt.",
-    "me": "average"
+    "me": "average",
+    "pos": "Danh từ"
   },
   {
     "w": "结合",
@@ -36,7 +40,8 @@
     "cat": "verb",
     "example": "理论要和实践结合。",
     "example_vi": "Lý thuyết phải kết hợp với thực hành.",
-    "me": "combine, bond"
+    "me": "combine, bond",
+    "pos": "Động từ"
   },
   {
     "w": "老实说",
@@ -45,7 +50,8 @@
     "cat": "default",
     "example": "老实说，我不太喜欢这个电影。",
     "example_vi": "Nói thật ra, tôi không thích bộ phim này lắm.",
-    "me": "to tell the truth, honestly"
+    "me": "to tell the truth, honestly",
+    "pos": "Động từ"
   },
   {
     "w": "尝试",
@@ -54,6 +60,7 @@
     "cat": "verb",
     "example": "他尝试了很多次都失败了。",
     "example_vi": "Anh ấy đã thử nhiều lần đều thất bại.",
-    "me": "attempt, make a trial effort"
+    "me": "attempt, make a trial effort",
+    "pos": "Động từ"
   }
 ]

@@ -1,0 +1,3698 @@
+[
+  {
+    "w": "occur",
+    "p": "əkˈɜː",
+    "m": "xảy ra, xuất hiện",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "primary",
+    "p": "pɹˈaɪmɚɹi",
+    "m": "chủ yếu, chính",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Tính từ"
+  },
+  {
+    "w": "cancer",
+    "p": "kˈænsɚ",
+    "m": "ung thư",
+    "cat": "medicine",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "medication",
+    "p": "mˌɛdɪkˈeɪʃən",
+    "m": "thuốc, dùng thuốc",
+    "cat": "medicine",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "civil",
+    "p": "sˈɪvəl",
+    "m": "dân sự",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "harsh",
+    "p": "hˈɑːɹʃ",
+    "m": "khắc nghiệt, nghiêm khắc",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "scarce",
+    "p": "skˈɛɹs",
+    "m": "khan hiếm, ít ỏi",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "dialogue",
+    "p": "dˈaɪəlɑːɡ",
+    "m": "đối thoại",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "tragedy",
+    "p": "tɹˈædʒədi",
+    "m": "bi kịch",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "hold on to",
+    "p": "hˈoʊld ˈɔn tuː",
+    "m": "giữ chặt, bám vào",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "periodic table",
+    "p": "pˌiəɹɪˈɑːdɪk tˈeɪbəl",
+    "m": "bảng tuần hoàn",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "object-oriented programming",
+    "p": "ˈɑːbdʒɛktˈɔːɹiəntᵻd pɹˈoʊɡɹæmɪŋ",
+    "m": "lập trình hướng đối tượng",
+    "cat": "technology",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "refactoring",
+    "p": "ɹᵻfˈæktɚɹɪŋ",
+    "m": "tái cấu trúc code",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "REST API",
+    "p": "ɹˈɛst ˌeɪpˌiːˈaɪ",
+    "m": "API kiểu REST",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "unit testing",
+    "p": "jˈuːnɪt tˈɛstɪŋ",
+    "m": "kiểm thử đơn vị",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "virtual machine",
+    "p": "vˈɜːtʃuːəl məʃˈiːn",
+    "m": "máy ảo",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "absolute value",
+    "p": "ˈæbsəlˌuːt vˈæljuː",
+    "m": "giá trị tuyệt đối",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "arithmetic mean",
+    "p": "ɚɹˈɪθmətˌɪk mˈiːn",
+    "m": "trung bình cộng",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "base (math)",
+    "p": "bˈeɪs mˈæθ",
+    "m": "cơ số",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "inequality (math)",
+    "p": "ɪniːkwˈɔlᵻɾi mˈæθ",
+    "m": "bất đẳng thức",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "mode (statistics)",
+    "p": "mˈoʊd stɐtˈɪstɪks",
+    "m": "mốt (thống kê)",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Số từ"
+  },
+  {
+    "w": "ordinal number",
+    "p": "ˈɔːɹdɪnəl nˈʌmbɚ",
+    "m": "số thứ tự",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "prime number",
+    "p": "pɹˈaɪm nˈʌmbɚ",
+    "m": "số nguyên tố",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Venn diagram",
+    "p": "vˈɛn dˈaɪəɡɹˌæm",
+    "m": "biểu đồ Venn",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "arch bridge",
+    "p": "ˈɑːɹtʃ bɹˈɪdʒ",
+    "m": "cầu vòm",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "blueprint",
+    "p": "blˈuːpɹɪnt",
+    "m": "bản thiết kế chi tiết",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "partition wall",
+    "p": "pɑːɹtˈɪʃən wˈɔːl",
+    "m": "tường ngăn",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "roofing",
+    "p": "ɹˈuːfɪŋ",
+    "m": "lợp mái",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "suspension bridge",
+    "p": "səspˈɛnʃən bɹˈɪdʒ",
+    "m": "cầu treo",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "octave",
+    "p": "ˈɑːktɪv",
+    "m": "quãng tám",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "rest (music)",
+    "p": "ɹˈɛst mjˈuːzɪk",
+    "m": "dấu lặng",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "scale (music)",
+    "p": "skˈeɪl mjˈuːzɪk",
+    "m": "thang âm",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "capitalism",
+    "p": "kˈæpɪɾəlˌɪzəm",
+    "m": "chủ nghĩa tư bản",
+    "cat": "philosophy",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "feminism",
+    "p": "fˈɛmɪnˌɪzəm",
+    "m": "chủ nghĩa nữ quyền",
+    "cat": "philosophy",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "compound noun",
+    "p": "kˈɑːmpaʊnd nˈaʊn",
+    "m": "danh từ ghép",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "declarative",
+    "p": "dᵻklˈæɹətˌɪv",
+    "m": "câu khai báo",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "demonstrative",
+    "p": "dəmˈɑːnstɹətˌɪv",
+    "m": "từ chỉ định",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "determiner",
+    "p": "dɪtˈɜːmɪnɚ",
+    "m": "từ hạn định",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "exclamatory",
+    "p": "ɛksklˈæmətˌɔːɹi",
+    "m": "câu cảm thán",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "gender (grammar)",
+    "p": "dʒˈɛndɚ ɡɹˈæmɚ",
+    "m": "giống (ngữ pháp)",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "gerund",
+    "p": "dʒˈɛɹʌnd",
+    "m": "động danh từ",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "interjection",
+    "p": "ˌɪntɚdʒˈɛkʃən",
+    "m": "thán từ",
+    "cat": "law",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "loan word",
+    "p": "lˈoʊn wˈɜːd",
+    "m": "từ mượn",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "modal verb",
+    "p": "mˈoʊdəl vˈɜːb",
+    "m": "động từ tình thái",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "monolingual",
+    "p": "mˈɑːnoʊlˌɪŋɡwəl",
+    "m": "đơn ngữ",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "participle",
+    "p": "pɑːɹtˈɪsɪpəl",
+    "m": "phân từ",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "relative clause",
+    "p": "ɹˈɛlətˌɪv klˈɔːz",
+    "m": "mệnh đề quan hệ",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "stress (phonetics)",
+    "p": "stɹˈɛs fənˈɛɾɪks",
+    "m": "trọng âm",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "subject-verb agreement",
+    "p": "sˈʌbdʒɛktvˈɜːb ɐɡɹˈiːmənt",
+    "m": "hòa hợp chủ vị",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "subordinating conjunction",
+    "p": "sʌbˈɔːɹdᵻnˌeɪɾɪŋ kəndʒˈʌŋkʃən",
+    "m": "liên từ phụ thuộc",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "tag question",
+    "p": "tˈæɡ kwˈɛstʃən",
+    "m": "câu hỏi đuôi",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "verb phrase",
+    "p": "vˈɜːb fɹˈeɪz",
+    "m": "cụm động từ",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "voice (grammar)",
+    "p": "vˈɔɪs ɡɹˈæmɚ",
+    "m": "dạng câu (chủ/bị động)",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "word class",
+    "p": "wˈɜːd klˈæs",
+    "m": "từ loại",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "word formation",
+    "p": "wˈɜːd fɔːɹmˈeɪʃən",
+    "m": "cấu tạo từ",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "cave system",
+    "p": "kˈeɪv sˈɪstəm",
+    "m": "hệ thống hang động",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "cyclone",
+    "p": "sˈaɪkloʊn",
+    "m": "xoáy thuận, lốc xoáy",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "delta",
+    "p": "dˈɛltə",
+    "m": "châu thổ sông",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "geyser",
+    "p": "ɡˈaɪzɚ",
+    "m": "mạch nước nóng phun",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "ice age",
+    "p": "ˈaɪs ˈeɪdʒ",
+    "m": "kỷ băng hà",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "lava",
+    "p": "lˈɑːvə",
+    "m": "dung nham",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "stalactite",
+    "p": "stɐlˈæktaɪt",
+    "m": "nhũ đá rủ xuống",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "stalagmite",
+    "p": "stɐlˈæɡmaɪt",
+    "m": "măng đá mọc lên",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "graffiti",
+    "p": "ɡɹɐfˈiːɾi",
+    "m": "chữ viết/vẽ trên tường",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "perspective (art)",
+    "p": "pɚspˈɛktɪv ˈɑːɹt",
+    "m": "phối cảnh (nghệ thuật)",
+    "cat": "nghệ thuật",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "street art",
+    "p": "stɹˈiːt ˈɑːɹt",
+    "m": "nghệ thuật đường phố",
+    "cat": "nghệ thuật",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "cashmere",
+    "p": "kˈæʒmɪɹ",
+    "m": "len cashmere",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "crochet",
+    "p": "kɹoʊʃˈeɪ",
+    "m": "móc len",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "fast fashion",
+    "p": "fˈæst fˈæʃən",
+    "m": "thời trang nhanh",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "fitting",
+    "p": "fˈɪɾɪŋ",
+    "m": "thử đồ, chỉnh sửa",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "lace",
+    "p": "lˈeɪs",
+    "m": "ren, vải ren",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "linen",
+    "p": "lˈɪnɪn",
+    "m": "vải lanh",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "patchwork",
+    "p": "pˈætʃwɜːk",
+    "m": "vải ghép mảnh",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "plaid",
+    "p": "plˈæd",
+    "m": "vải kẻ ô",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "quilting",
+    "p": "kwˈɪltɪŋ",
+    "m": "chần bông",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "satin",
+    "p": "sˈætɪn",
+    "m": "vải satin",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "seam",
+    "p": "sˈiːm",
+    "m": "đường may",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "sketch (fashion)",
+    "p": "skˈɛtʃ fˈæʃən",
+    "m": "phác thảo thiết kế",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "textile",
+    "p": "tˈɛkstaɪl",
+    "m": "hàng dệt, vải vóc",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "velvet",
+    "p": "vˈɛlvɪt",
+    "m": "nhung, vải nhung",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "woven",
+    "p": "wˈoʊvən",
+    "m": "dệt",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "collagen",
+    "p": "kˈɑːlədʒən",
+    "m": "collagen",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "fermented food",
+    "p": "fɜːmˈɛntᵻd fˈuːd",
+    "m": "thực phẩm lên men",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "fiber (dietary)",
+    "p": "fˈaɪbɚ dˈaɪətɚɹi",
+    "m": "chất xơ",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "food safety",
+    "p": "fˈuːd sˈeɪfti",
+    "m": "an toàn thực phẩm",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "nutritional label",
+    "p": "njuːtɹˈɪʃənəl lˈeɪbəl",
+    "m": "nhãn dinh dưỡng",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "palm oil",
+    "p": "pˈɑːm ˈɔɪl",
+    "m": "dầu cọ",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "sourdough",
+    "p": "sˈaʊɚdˌoʊ",
+    "m": "bánh mì men tự nhiên",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "vegan",
+    "p": "vˈiːɡən",
+    "m": "thuần chay",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "zinc",
+    "p": "zˈɪŋk",
+    "m": "kẽm (khoáng chất)",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "calorie burn",
+    "p": "kˈælɚɹi bˈɜːn",
+    "m": "đốt calo",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "cool-down",
+    "p": "kˈuːldˈaʊn",
+    "m": "hồi phục sau tập",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "flexibility training",
+    "p": "flˌɛksəbˈɪlᵻɾi tɹˈeɪnɪŋ",
+    "m": "tập linh hoạt",
+    "cat": "yoga",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "syntax highlighting",
+    "p": "sˈɪntæks hˈaɪlaɪɾɪŋ",
+    "m": "tô màu cú pháp",
+    "cat": "linguistics",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "version control system",
+    "p": "vˈɜːʒən kəntɹˈoʊl sˈɪstəm",
+    "m": "hệ thống kiểm soát phiên bản",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "crust (earth)",
+    "p": "kɹˈʌst ˈɜːθ",
+    "m": "vỏ Trái Đất",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "delta (river)",
+    "p": "dˈɛltə ɹˈɪvɚ",
+    "m": "châu thổ (sông)",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "granite",
+    "p": "ɡɹˈænɪt",
+    "m": "đá granite",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "wetlands",
+    "p": "wˈɛtləndz",
+    "m": "đất ngập nước",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "climax (literary)",
+    "p": "klˈaɪmæks lˈɪɾɚɹˌɛɹi",
+    "m": "đỉnh điểm cốt truyện",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "setting (literary)",
+    "p": "sˈɛɾɪŋ lˈɪɾɚɹˌɛɹi",
+    "m": "bối cảnh (văn học)",
+    "cat": "literature",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "suspense",
+    "p": "səspˈɛns",
+    "m": "sự hồi hộp",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "theme (literary)",
+    "p": "θˈiːm lˈɪɾɚɹˌɛɹi",
+    "m": "chủ đề văn học",
+    "cat": "literature",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "tone (literary)",
+    "p": "tˈoʊn lˈɪɾɚɹˌɛɹi",
+    "m": "giọng điệu",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "villain",
+    "p": "vˈɪlən",
+    "m": "nhân vật phản diện",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "communism",
+    "p": "kˈɑːmjuːnˌɪzəm",
+    "m": "chủ nghĩa cộng sản",
+    "cat": "philosophy",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "socialism",
+    "p": "sˈoʊʃəlˌɪzəm",
+    "m": "chủ nghĩa xã hội",
+    "cat": "philosophy",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "central bank",
+    "p": "sˈɛntɹəl bˈæŋk",
+    "m": "ngân hàng trung ương",
+    "cat": "economics",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "corporate tax",
+    "p": "kˈɔːɹpɚɹət tˈæks",
+    "m": "thuế doanh nghiệp",
+    "cat": "economics",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "developing economy",
+    "p": "dɪvˈɛləpɪŋ ɪkˈɑːnəmi",
+    "m": "kinh tế đang phát triển",
+    "cat": "economics",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "economic growth",
+    "p": "ˌiːkənˈɑːmɪk ɡɹˈoʊθ",
+    "m": "tăng trưởng kinh tế",
+    "cat": "economics",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "employment rate",
+    "p": "ɛmplˈɔɪmənt ɹˈeɪt",
+    "m": "tỷ lệ có việc làm",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "free trade",
+    "p": "fɹˈiː tɹˈeɪd",
+    "m": "thương mại tự do",
+    "cat": "economics",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "inflation rate",
+    "p": "ɪnflˈeɪʃən ɹˈeɪt",
+    "m": "tỷ lệ lạm phát",
+    "cat": "economics",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "shortage (economics)",
+    "p": "ʃˈɔːɹɾɪdʒ ˌiːkənˈɑːmɪks",
+    "m": "khan hiếm",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "unemployment rate",
+    "p": "ʌnɛmplˈɔɪmənt ɹˈeɪt",
+    "m": "tỷ lệ thất nghiệp",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "sea turtle",
+    "p": "sˈiː tˈɜːɾəl",
+    "m": "rùa biển",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "eclipse (solar/lunar)",
+    "p": "ɪklˈɪps sˈoʊlɚ slˈæʃ lˈuːnɚ",
+    "m": "nhật/nguyệt thực",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "dopamine",
+    "p": "dˈɑːpɐmˌiːn",
+    "m": "dopamine",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "sleep cycle",
+    "p": "slˈiːp sˈaɪkəl",
+    "m": "chu kỳ giấc ngủ",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "high-rise building",
+    "p": "hˈaɪɹˈaɪz bˈɪldɪŋ",
+    "m": "tòa nhà cao tầng",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "open space",
+    "p": "ˈoʊpən spˈeɪs",
+    "m": "không gian mở (đô thị)",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "pedestrian zone",
+    "p": "pədˈɛstɹiən zˈoʊn",
+    "m": "khu vực đi bộ",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "smart city",
+    "p": "smˈɑːɹt sˈɪɾi",
+    "m": "thành phố thông minh",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Aphrodite",
+    "p": "ˌæfɹədˈaɪɾi",
+    "m": "Aphrodite (nữ thần tình yêu)",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Apollo",
+    "p": "ɐpˈɑːloʊ",
+    "m": "Apollo (thần ánh sáng)",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Ares",
+    "p": "ˈɛɹiːz",
+    "m": "Ares (thần chiến tranh)",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Artemis",
+    "p": "ˈɑːɹɾɪmˌɪs",
+    "m": "Artemis (nữ thần săn bắn)",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Athena",
+    "p": "æθˈiːnə",
+    "m": "Athena (nữ thần trí tuệ)",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Atlas",
+    "p": "ˈætləs",
+    "m": "Atlas (người đỡ trái đất)",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Hades",
+    "p": "hˈeɪdiːz",
+    "m": "Hades (thần cõi chết)",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Hera",
+    "p": "hˈiəɹə",
+    "m": "Hera (nữ thần hôn nhân)",
+    "cat": "family",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Heracles",
+    "p": "hˈɛɹəkəlz",
+    "m": "Heracles/Hercules",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Hermes",
+    "p": "hˈɜːmiːz",
+    "m": "Hermes (thần thông tin)",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Olympus",
+    "p": "əlˈɪmpəs",
+    "m": "Olympus (núi thần)",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Poseidon",
+    "p": "pəsˈaɪdən",
+    "m": "Poseidon (thần biển)",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Trojan War",
+    "p": "tɹˈoʊdʒən wˈɔːɹ",
+    "m": "Chiến tranh thành Troy",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Zeus",
+    "p": "zˈuːs",
+    "m": "Zeus (thần tối cao)",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "green card",
+    "p": "ɡɹˈiːn kˈɑːɹd",
+    "m": "thẻ xanh (Mỹ)",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "migrant worker",
+    "p": "mˈaɪɡɹənt wˈɜːkɚ",
+    "m": "công nhân di cư",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "attention-deficit disorder",
+    "p": "ɐtˈɛnʃəndˈɛfɪsˌɪt dɪsˈɔːɹdɚ",
+    "m": "rối loạn tăng động giảm chú ý ADHD",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "love languages",
+    "p": "lˈʌv lˈæŋɡwɪdʒᵻz",
+    "m": "ngôn ngữ tình yêu",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "race and ethnicity",
+    "p": "ɹˈeɪs ænd ɛθnˈɪsᵻɾi",
+    "m": "chủng tộc và sắc tộc",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "community health",
+    "p": "kəmjˈuːnᵻɾi hˈɛlθ",
+    "m": "sức khỏe cộng đồng",
+    "cat": "medicine",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "disease prevention",
+    "p": "dɪzˈiːz pɹɪvˈɛnʃən",
+    "m": "phòng bệnh",
+    "cat": "medicine",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "global health",
+    "p": "ɡlˈoʊbəl hˈɛlθ",
+    "m": "sức khỏe toàn cầu",
+    "cat": "medicine",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "health promotion",
+    "p": "hˈɛlθ pɹəmˈoʊʃən",
+    "m": "tăng cường sức khỏe",
+    "cat": "medicine",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "life expectancy",
+    "p": "lˈaɪf ɛkspˈɛktənsi",
+    "m": "tuổi thọ trung bình",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "primary care",
+    "p": "pɹˈaɪmɚɹi kˈɛɹ",
+    "m": "chăm sóc sức khỏe ban đầu",
+    "cat": "medicine",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "risk factor (health)",
+    "p": "ɹˈɪsk fˈæktɚ hˈɛlθ",
+    "m": "yếu tố nguy cơ",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "bar (music)",
+    "p": "bˈɑːɹ mjˈuːzɪk",
+    "m": "nhịp (âm nhạc)",
+    "cat": "nghệ thuật",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "blues",
+    "p": "blˈuːz",
+    "m": "nhạc blues",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "electronic music",
+    "p": "ᵻlɛktɹˈɑːnɪk mjˈuːzɪk",
+    "m": "âm nhạc điện tử",
+    "cat": "technology",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "ethnic music",
+    "p": "ˈɛθnɪk mjˈuːzɪk",
+    "m": "âm nhạc dân tộc",
+    "cat": "nghệ thuật",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "folk music",
+    "p": "fˈoʊk mjˈuːzɪk",
+    "m": "nhạc dân gian",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "genre (music)",
+    "p": "ʒˈɑːnɹə mjˈuːzɪk",
+    "m": "thể loại âm nhạc",
+    "cat": "nghệ thuật",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "gospel music",
+    "p": "ɡˈɑːspəl mjˈuːzɪk",
+    "m": "nhạc gospel",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "hip-hop",
+    "p": "hˈɪphˈɑːp",
+    "m": "hip-hop",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "indie music",
+    "p": "ˈɪndi mjˈuːzɪk",
+    "m": "nhạc indie",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "jazz",
+    "p": "dʒˈæz",
+    "m": "nhạc jazz",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "music notation",
+    "p": "mjˈuːzɪk noʊtˈeɪʃən",
+    "m": "ký hiệu âm nhạc",
+    "cat": "nghệ thuật",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "opera",
+    "p": "ˈɑːpɚɹə",
+    "m": "nhạc kịch opera",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "pitch (music)",
+    "p": "pˈɪtʃ mjˈuːzɪk",
+    "m": "cao độ âm thanh",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "punk rock",
+    "p": "pˈʌŋk ɹˈɑːk",
+    "m": "punk rock",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "reggae",
+    "p": "ɹˈɛɡiː",
+    "m": "reggae",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "rhythm and blues",
+    "p": "ɹˈɪðəm ænd blˈuːz",
+    "m": "nhạc R&B",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "soul music",
+    "p": "sˈoʊl mjˈuːzɪk",
+    "m": "nhạc soul",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "world music",
+    "p": "wˈɜːld mjˈuːzɪk",
+    "m": "nhạc thế giới",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "act (theater)",
+    "p": "ˈækt θˈiəɾɚ",
+    "m": "hồi (kịch)",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "adaptation (film)",
+    "p": "ˌædæptˈeɪʃən fˈɪlm",
+    "m": "chuyển thể (điện ảnh)",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "camera angle",
+    "p": "kˈæmɹə ˈæŋɡəl",
+    "m": "góc máy quay",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "casting",
+    "p": "kˈæstɪŋ",
+    "m": "tuyển diễn viên",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "dialogue (screenplay)",
+    "p": "dˈaɪəlɑːɡ skɹˈiːnpleɪ",
+    "m": "đối thoại kịch bản",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "genre (film)",
+    "p": "ʒˈɑːnɹə fˈɪlm",
+    "m": "thể loại phim",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "lighting design",
+    "p": "lˈaɪɾɪŋ dɪzˈaɪn",
+    "m": "thiết kế ánh sáng",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "prop",
+    "p": "pɹˈɑːp",
+    "m": "đạo cụ",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "protagonist (film)",
+    "p": "pɹˈoʊɾɐɡənˌɪst fˈɪlm",
+    "m": "nhân vật chính (phim)",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "scene (film)",
+    "p": "sˈiːn fˈɪlm",
+    "m": "cảnh (phim)",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "shot (film)",
+    "p": "ʃˈɑːt fˈɪlm",
+    "m": "cảnh quay",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "slow motion",
+    "p": "slˈoʊ mˈoʊʃən",
+    "m": "quay chậm",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "special effects",
+    "p": "spˈɛʃəl ɪfˈɛkts",
+    "m": "hiệu ứng đặc biệt",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "suspense (film)",
+    "p": "səspˈɛns fˈɪlm",
+    "m": "hồi hộp (điện ảnh)",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Tính từ"
+  },
+  {
+    "w": "take (film)",
+    "p": "tˈeɪk fˈɪlm",
+    "m": "cảnh quay thử",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "thriller",
+    "p": "θɹˈɪlɚ",
+    "m": "phim ly kỳ",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "twist ending",
+    "p": "twˈɪst ˈɛndɪŋ",
+    "m": "kết thúc bất ngờ",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "dice (food)",
+    "p": "dˈaɪs fˈuːd",
+    "m": "xắt hạt lựu",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "fritter",
+    "p": "fɹˈɪɾɚ",
+    "m": "chiên giòn",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "glaze (food)",
+    "p": "ɡlˈeɪz fˈuːd",
+    "m": "phết bóng (thực phẩm)",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "knead",
+    "p": "nˈiːd",
+    "m": "nhào bột",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "lard",
+    "p": "lˈɑːɹd",
+    "m": "mỡ lợn",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "marinate",
+    "p": "mˈæɹᵻnˌeɪt",
+    "m": "ướp gia vị",
+    "cat": "food",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "mince",
+    "p": "mˈɪns",
+    "m": "băm nhỏ",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "pan-fry",
+    "p": "pˈænfɹˈaɪ",
+    "m": "chiên áp chảo",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "purée",
+    "p": "pjʊɹɹˈeɪ",
+    "m": "xay nhuyễn (thực phẩm)",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "rest (meat)",
+    "p": "ɹˈɛst mˈiːt",
+    "m": "để thịt nghỉ sau nướng",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "simmer",
+    "p": "sˈɪmɚ",
+    "m": "đun sôi liu riu",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "skim",
+    "p": "skˈɪm",
+    "m": "vớt bọt (nấu)",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "smoke (food)",
+    "p": "smˈoʊk fˈuːd",
+    "m": "hun khói",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "stock (cooking)",
+    "p": "stˈɑːk kˈʊkɪŋ",
+    "m": "nước dùng (nấu)",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "stuff",
+    "p": "stˈʌf",
+    "m": "nhồi nhân",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "toast (food)",
+    "p": "tˈoʊst fˈuːd",
+    "m": "rang khô",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "composition (photo)",
+    "p": "kˌɑːmpəzˈɪʃən fˈoʊɾoʊ",
+    "m": "bố cục (nhiếp ảnh)",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "golden hour",
+    "p": "ɡˈoʊldən ˈaʊɚ",
+    "m": "giờ vàng (nhiếp ảnh)",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "ISO (photography)",
+    "p": "ˌaɪˌɛsˈoʊ fətˈɑːɡɹəfi",
+    "m": "ISO (độ nhạy cảm biến)",
+    "cat": "technology",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "zoom lens",
+    "p": "zˈuːm lˈɛnz",
+    "m": "ống kính zoom",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "craft beer",
+    "p": "kɹˈæft bˈɪɹ",
+    "m": "bia thủ công",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "grapes variety",
+    "p": "ɡɹˈeɪps vɚɹˈaɪəɾi",
+    "m": "giống nho",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "hops",
+    "p": "hˈɑːps",
+    "m": "hoa bia",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "lager",
+    "p": "lˈɑːɡɚ",
+    "m": "bia lager",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "rosé",
+    "p": "ɹəsˈeɪ",
+    "m": "rượu rosé (hồng)",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "sake",
+    "p": "sˈeɪk",
+    "m": "rượu sake (Nhật)",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "sparkling wine",
+    "p": "spˈɑːɹklɪŋ wˈaɪn",
+    "m": "rượu vang có bọt",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "wine tasting",
+    "p": "wˈaɪn tˈeɪstɪŋ",
+    "m": "nếm rượu",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "dark web",
+    "p": "dˈɑːɹk wˈɛb",
+    "m": "web tối",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "trojan horse",
+    "p": "tɹˈoʊdʒən hˈɔːɹs",
+    "m": "trojan (phần mềm ngụy trang)",
+    "cat": "technology",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "virtual private network",
+    "p": "vˈɜːtʃuːəl pɹˈaɪvət nˈɛtwɜːk",
+    "m": "mạng riêng ảo VPN",
+    "cat": "technology",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "learning objectives",
+    "p": "lˈɜːnɪŋ ɑːbdʒˈɛktɪvz",
+    "m": "mục tiêu học tập",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "stem education",
+    "p": "stˈɛm ˌɛdʒuːkˈeɪʃən",
+    "m": "giáo dục STEM",
+    "cat": "education",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "annual plant",
+    "p": "ˈænjuːəl plˈænt",
+    "m": "cây hàng năm",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "botanical garden",
+    "p": "bətˈænɪkəl ɡˈɑːɹdən",
+    "m": "vườn thực vật",
+    "cat": "floriculture",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "bulb planting",
+    "p": "bˈʌlb plˈæntɪŋ",
+    "m": "trồng củ",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "container gardening",
+    "p": "kəntˈeɪnɚ ɡˈɑːɹdənɪŋ",
+    "m": "trồng cây trong chậu",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "irrigation system",
+    "p": "ˌɪɹɪɡˈeɪʃən sˈɪstəm",
+    "m": "hệ thống tưới tiêu",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "landscaping",
+    "p": "lˈændskeɪpɪŋ",
+    "m": "cảnh quan hóa",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "pH (soil)",
+    "p": "pˈiː ˈeɪtʃ sˈɔɪl",
+    "m": "độ pH đất",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "raised bed",
+    "p": "ɹˈeɪzd bˈɛd",
+    "m": "luống đất cao",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "soil pH",
+    "p": "sˈɔɪl pˈiː ˈeɪtʃ",
+    "m": "độ pH đất",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "trellis",
+    "p": "tɹˈɛliz",
+    "m": "giàn leo",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "acne",
+    "p": "ˈækni",
+    "m": "mụn trứng cá",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "hives",
+    "p": "hˈaɪvz",
+    "m": "mề đay",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "mole (skin)",
+    "p": "mˈoʊl skˈɪn",
+    "m": "nốt ruồi",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "wart",
+    "p": "wˈɔːɹt",
+    "m": "mụn cóc",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "wound healing",
+    "p": "wˈuːnd hˈiːlɪŋ",
+    "m": "lành vết thương",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "color blindness",
+    "p": "kˈʌlɚ blˈaɪndnəs",
+    "m": "mù màu",
+    "cat": "ophthalmology",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "floaters",
+    "p": "flˈoʊɾɚz",
+    "m": "ruồi bay (mắt)",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "pupil (eye)",
+    "p": "pjˈuːpəl ˈaɪ",
+    "m": "đồng tử",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "canine tooth",
+    "p": "kˈeɪnaɪn tˈuːθ",
+    "m": "răng nanh",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "crown (dental)",
+    "p": "kɹˈaʊn dˈɛntəl",
+    "m": "mão răng",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "dentures",
+    "p": "dˈɛntʃɚz",
+    "m": "răng giả",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "extraction (dental)",
+    "p": "ɛkstɹˈækʃən dˈɛntəl",
+    "m": "nhổ răng",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "incisor",
+    "p": "ɪnsˈaɪzɚ",
+    "m": "răng cửa",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "molar tooth",
+    "p": "mˈoʊlɚ tˈuːθ",
+    "m": "răng hàm",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "oral hygiene",
+    "p": "ˈɔːɹəl hˈaɪdʒiːn",
+    "m": "vệ sinh răng miệng",
+    "cat": "dentistry",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "wisdom tooth",
+    "p": "wˈɪzdəm tˈuːθ",
+    "m": "răng khôn",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "diaper rash",
+    "p": "dˈaɪpɚ ɹˈæʃ",
+    "m": "hăm tã",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "infant formula",
+    "p": "ˈɪnfənt fˈɔːɹmjʊlə",
+    "m": "sữa công thức",
+    "cat": "baby_products",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "toilet training",
+    "p": "tˈɔɪlɪt tɹˈeɪnɪŋ",
+    "m": "luyện vệ sinh",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "vaccinations (child)",
+    "p": "vˌæksᵻnˈeɪʃənz tʃˈaɪld",
+    "m": "tiêm chủng trẻ em",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "generic drug",
+    "p": "dʒənˈɛɹɪk dɹˈʌɡ",
+    "m": "thuốc generic",
+    "cat": "medicine",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "ancient civilization",
+    "p": "ˈeɪntʃənt sˌɪvɪlᵻzˈeɪʃən",
+    "m": "nền văn minh cổ đại",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Berlin Wall",
+    "p": "bɜːlˈɪn wˈɔːl",
+    "m": "Bức tường Berlin",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "colonial era",
+    "p": "kəlˈoʊnɪəl ˈiəɹə",
+    "m": "thời kỳ thuộc địa",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "feudal system",
+    "p": "fjˈuːdəl sˈɪstəm",
+    "m": "chế độ phong kiến",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "French Revolution",
+    "p": "fɹˈɛntʃ ɹˌɛvəlˈuːʃən",
+    "m": "Cách mạng Pháp",
+    "cat": "technology",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "industrial revolution",
+    "p": "ɪndˈʌstɹɪəl ɹˌɛvəlˈuːʃən",
+    "m": "Cách mạng công nghiệp",
+    "cat": "technology",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Korean War",
+    "p": "kɚɹˈiːən wˈɔːɹ",
+    "m": "Chiến tranh Triều Tiên",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Silk Road",
+    "p": "sˈɪlk ɹˈoʊd",
+    "m": "Con đường Tơ lụa",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "United Nations founding",
+    "p": "juːnˈaɪɾᵻd nˈeɪʃənz fˈaʊndɪŋ",
+    "m": "thành lập Liên Hợp Quốc",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Vietnam War",
+    "p": "vˌiːətnˈɑːm wˈɔːɹ",
+    "m": "Chiến tranh Việt Nam",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "World War I",
+    "p": "wˈɜːld wˈɔːɹ ˈaɪ",
+    "m": "Thế chiến I",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "World War II",
+    "p": "wˈɜːld wˈɔːɹ ɹˌoʊmən tˈuː",
+    "m": "Thế chiến II",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "ballet",
+    "p": "bælˈeɪ",
+    "m": "ballet",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "ballroom dance",
+    "p": "bˈɔːlɹuːm dˈæns",
+    "m": "khiêu vũ phòng tiệc",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "breakdance",
+    "p": "bɹˈeɪkdəns",
+    "m": "nhảy break",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "cha-cha",
+    "p": "tʃˈɑːtʃˈɑː",
+    "m": "cha-cha (điệu nhảy)",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "folk dance",
+    "p": "fˈoʊk dˈæns",
+    "m": "múa dân gian",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "freestyle dance",
+    "p": "fɹˈiːstaɪl dˈæns",
+    "m": "nhảy tự do",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "hip-hop dance",
+    "p": "hˈɪphˈɑːp dˈæns",
+    "m": "nhảy hip-hop",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "jazz dance",
+    "p": "dʒˈæz dˈæns",
+    "m": "nhảy jazz",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "modern dance",
+    "p": "mˈɑːdɚn dˈæns",
+    "m": "múa hiện đại",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "salsa",
+    "p": "sˈælsə",
+    "m": "salsa (điệu nhảy)",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "samba",
+    "p": "sˈæmbə",
+    "m": "samba (Brazil)",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "street dance",
+    "p": "stɹˈiːt dˈæns",
+    "m": "nhảy đường phố",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "swing dance",
+    "p": "swˈɪŋ dˈæns",
+    "m": "nhảy swing",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "tango",
+    "p": "tˈæŋɡoʊ",
+    "m": "tango",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "tap dance",
+    "p": "tˈæp dˈæns",
+    "m": "nhảy giày gõ",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "traditional dance",
+    "p": "tɹɐdˈɪʃənəl dˈæns",
+    "m": "múa truyền thống",
+    "cat": "culture",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "waltz",
+    "p": "wˈɔlts",
+    "m": "waltz",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "achievements",
+    "p": "ɐtʃˈiːvmənts",
+    "m": "thành tích (game)",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "action RPG",
+    "p": "ˈækʃən ˌɑːɹpˌiːdʒˈiː",
+    "m": "nhập vai hành động",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "battle royale",
+    "p": "bˈæɾəl ɹɔɪˈæl",
+    "m": "trận chiến cuối (game)",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "DLC content",
+    "p": "dˌiːˌɛlsˈiː kˈɑːntɛnt",
+    "m": "nội dung tải thêm DLC",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "esports",
+    "p": "ɛspˈɔːɹts",
+    "m": "thể thao điện tử",
+    "cat": "technology",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "final boss",
+    "p": "fˈaɪnəl bˈɔs",
+    "m": "trùm cuối",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "first-person shooter",
+    "p": "fˈɜːstpˈɜːsən ʃˈuːɾɚ",
+    "m": "bắn góc nhìn thứ nhất FPS",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "free-to-play",
+    "p": "fɹˈiːɾəplˈeɪ",
+    "m": "miễn phí chơi",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "grind (gaming)",
+    "p": "ɡɹˈaɪnd ɡˈeɪmɪŋ",
+    "m": "cày (game)",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "loot box",
+    "p": "lˈuːt bˈɑːks",
+    "m": "hộp loot ngẫu nhiên",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "massively multiplayer",
+    "p": "mˈæsɪvli mˌʌltɪplˈeɪɚ",
+    "m": "nhiều người chơi lớn MMO",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "microtransaction",
+    "p": "mˌaɪkɹoʊtɹænsˈækʃən",
+    "m": "giao dịch vi mô (game)",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "mod (game)",
+    "p": "mˈɑːd ɡˈeɪm",
+    "m": "mod (chỉnh sửa game)",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "NPC",
+    "p": "ˌɛnpˌiːsˈiː",
+    "m": "nhân vật không phải người chơi",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "open world",
+    "p": "ˈoʊpən wˈɜːld",
+    "m": "thế giới mở",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "patch (game)",
+    "p": "pˈætʃ ɡˈeɪm",
+    "m": "bản vá game",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "player vs environment",
+    "p": "plˈeɪɚ vˌiːˈɛs ɛnvˈaɪɹənmənt",
+    "m": "người chơi vs môi trường PvE",
+    "cat": "environment",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "player vs player",
+    "p": "plˈeɪɚ vˌiːˈɛs plˈeɪɚ",
+    "m": "người chơi vs người chơi PvP",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "quest (game)",
+    "p": "kwˈɛst ɡˈeɪm",
+    "m": "nhiệm vụ (game)",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "real-time strategy",
+    "p": "ɹˈiːəltˈaɪm stɹˈæɾədʒi",
+    "m": "chiến lược thời gian thực RTS",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "respawn",
+    "p": "ɹᵻspˈɔːn",
+    "m": "hồi sinh (game)",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "sandbox game",
+    "p": "sˈændbɑːks ɡˈeɪm",
+    "m": "game cát",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "season pass",
+    "p": "sˈiːzən pˈæs",
+    "m": "thẻ mùa game",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "side quest",
+    "p": "sˈaɪd kwˈɛst",
+    "m": "nhiệm vụ phụ",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "simulation game",
+    "p": "sˌɪmjʊlˈeɪʃən ɡˈeɪm",
+    "m": "game mô phỏng",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "skill tree",
+    "p": "skˈɪl tɹˈiː",
+    "m": "cây kỹ năng (game)",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "spawn (game)",
+    "p": "spˈɔːn ɡˈeɪm",
+    "m": "xuất hiện (game)",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "strategy game",
+    "p": "stɹˈæɾədʒi ɡˈeɪm",
+    "m": "game chiến lược",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "streaming (games)",
+    "p": "stɹˈiːmɪŋ ɡˈeɪmz",
+    "m": "phát sóng game",
+    "cat": "media",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "walkthrough",
+    "p": "wˈɔːkθɹuː",
+    "m": "hướng dẫn chơi game",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "Ethereum",
+    "p": "ˌiːθɚɹˈiːəm",
+    "m": "Ethereum (blockchain)",
+    "cat": "technology",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Web3",
+    "p": "wˈɛb θɹˈiː",
+    "m": "Web3",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "broadcast journalism",
+    "p": "bɹˈɔːdkæst dʒˈɜːnəlˌɪzəm",
+    "m": "báo chí truyền hình",
+    "cat": "media",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "coverage (journalism)",
+    "p": "kˈʌvɚɹɪdʒ dʒˈɜːnəlˌɪzəm",
+    "m": "đưa tin",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "exclusive story",
+    "p": "ɛksklˈuːsɪv stˈɔːɹi",
+    "m": "tin độc quyền",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "fact-checking",
+    "p": "fˈækttʃˈɛkɪŋ",
+    "m": "kiểm chứng sự thật",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "hook (journalism)",
+    "p": "hˈʊk dʒˈɜːnəlˌɪzəm",
+    "m": "mở đầu thu hút",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "infographic",
+    "p": "ɪnfəɡɹˈæfɪk",
+    "m": "đồ họa thông tin",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "source (journalism)",
+    "p": "sˈɔːɹs dʒˈɜːnəlˌɪzəm",
+    "m": "nguồn tin",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "audio production",
+    "p": "ˈɔːdɪˌoʊ pɹədˈʌkʃən",
+    "m": "sản xuất âm thanh",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "delay effect",
+    "p": "dᵻlˈeɪ ɪfˈɛkt",
+    "m": "hiệu ứng delay",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "drum machine",
+    "p": "dɹˈʌm məʃˈiːn",
+    "m": "máy trống",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "feedback (audio)",
+    "p": "fˈiːdbæk ˈɔːdɪˌoʊ",
+    "m": "tiếng vọng ngược",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "mono audio",
+    "p": "mˈɑːnoʊ ˈɔːdɪˌoʊ",
+    "m": "âm thanh mono",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "producer (music)",
+    "p": "pɹədˈuːsɚ mjˈuːzɪk",
+    "m": "nhà sản xuất âm nhạc",
+    "cat": "nghệ thuật",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "reverb effect",
+    "p": "ɹᵻvˈɜːb ɪfˈɛkt",
+    "m": "hiệu ứng vang",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "stereo audio",
+    "p": "stˈɛɹɪˌoʊ ˈɔːdɪˌoʊ",
+    "m": "âm thanh stereo",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "tempo (music)",
+    "p": "tˈɛmpoʊ mjˈuːzɪk",
+    "m": "nhịp độ âm nhạc",
+    "cat": "nghệ thuật",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "drone photography",
+    "p": "dɹˈoʊn fətˈɑːɡɹəfi",
+    "m": "chụp ảnh flycam",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "HDR photography",
+    "p": "ˌeɪtʃdˌiːˈɑːɹ fətˈɑːɡɹəfi",
+    "m": "ảnh HDR",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "motion blur",
+    "p": "mˈoʊʃən blˈɜː",
+    "m": "mờ chuyển động",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "widescreen format",
+    "p": "wˈaɪdskɹiːn fˈɔːɹmæt",
+    "m": "định dạng màn rộng",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "3D modeling",
+    "p": "θɹˈiː dˈiː mˈɑːdəlɪŋ",
+    "m": "dựng mô hình 3D",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "3D rendering",
+    "p": "θɹˈiː dˈiː ɹˈɛndɚɹɪŋ",
+    "m": "dựng hình 3D",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "character design",
+    "p": "kˈæɹɪktɚ dɪzˈaɪn",
+    "m": "thiết kế nhân vật",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "concept art",
+    "p": "kˈɑːnsɛpt ˈɑːɹt",
+    "m": "nghệ thuật ý niệm",
+    "cat": "nghệ thuật",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "pixel art",
+    "p": "pˈɪksəl ˈɑːɹt",
+    "m": "nghệ thuật pixel",
+    "cat": "nghệ thuật",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "stop motion",
+    "p": "stˈɑːp mˈoʊʃən",
+    "m": "hoạt hình dừng chuyển động",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "drop shipping",
+    "p": "dɹˈɑːp ʃˈɪpɪŋ",
+    "m": "dropshipping",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "last-mile delivery",
+    "p": "lˈæstmˈaɪl dᵻlˈɪvɚɹi",
+    "m": "giao hàng chặng cuối",
+    "cat": "logistics",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "generative AI",
+    "p": "dʒˈɛnɚɹətˌɪv ˌeɪˈaɪ",
+    "m": "AI tạo sinh",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "hallucination (AI)",
+    "p": "hɐlˌuːsᵻnˈeɪʃən ˌeɪˈaɪ",
+    "m": "ảo giác AI",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "label (ML)",
+    "p": "lˈeɪbəl ˌɛmˈɛl",
+    "m": "nhãn (ML)",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "large language model",
+    "p": "lˈɑːɹdʒ lˈæŋɡwɪdʒ mˈɑːdəl",
+    "m": "mô hình ngôn ngữ lớn LLM",
+    "cat": "AI",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "machine translation",
+    "p": "məʃˈiːn tɹænslˈeɪʃən",
+    "m": "dịch máy",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "speech recognition",
+    "p": "spˈiːtʃ ɹˌɛkəɡnˈɪʃən",
+    "m": "nhận dạng giọng nói",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "token (NLP)",
+    "p": "tˈoʊkən ˌɛnˌɛlpˈiː",
+    "m": "token (NLP)",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "training data",
+    "p": "tɹˈeɪnɪŋ dˈeɪɾə",
+    "m": "dữ liệu huấn luyện",
+    "cat": "technology",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "accent (linguistics)",
+    "p": "ˈæksənt lɪŋɡwˈɪstɪks",
+    "m": "giọng địa phương",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "compound word",
+    "p": "kˈɑːmpaʊnd wˈɜːd",
+    "m": "từ ghép",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "context (linguistics)",
+    "p": "kˈɑːntɛkst lɪŋɡwˈɪstɪks",
+    "m": "ngữ cảnh",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "intransitive verb",
+    "p": "ɪntɹˈænsᵻtˌɪv vˈɜːb",
+    "m": "động từ nội động",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "multilingualism",
+    "p": "mˌʌltɪlˈɪŋɡjuːəlˌɪzəm",
+    "m": "đa ngữ",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "stress (linguistics)",
+    "p": "stɹˈɛs lɪŋɡwˈɪstɪks",
+    "m": "trọng âm",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "agile methodology",
+    "p": "ˈædʒəl mˌɛθədˈɑːlədʒi",
+    "m": "phương pháp agile",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "MVP (minimum viable)",
+    "p": "ˌɛmvˌiːpˈiː mˈɪnɪməm vˈaɪəbəl",
+    "m": "sản phẩm khả thi tối thiểu",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "job description",
+    "p": "dʒˈɑːb dᵻskɹˈɪpʃən",
+    "m": "mô tả công việc",
+    "cat": "work",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "acid rain",
+    "p": "ˈæsɪd ɹˈeɪn",
+    "m": "mưa axit",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "compostable material",
+    "p": "kˈɑːmpoʊstəbəl mətˈɪɹiəl",
+    "m": "vật liệu ủ phân được",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "e-waste",
+    "p": "ˈiːwˈeɪst",
+    "m": "rác thải điện tử",
+    "cat": "technology",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "noise pollution",
+    "p": "nˈɔɪz pəlˈuːʃən",
+    "m": "ô nhiễm tiếng ồn",
+    "cat": "environment",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "nuclear waste",
+    "p": "nˈuːklɪɹ wˈeɪst",
+    "m": "rác thải hạt nhân",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "pollution prevention",
+    "p": "pəlˈuːʃən pɹɪvˈɛnʃən",
+    "m": "phòng ngừa ô nhiễm",
+    "cat": "environment",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "sustainable agriculture",
+    "p": "səstˈeɪnəbəl ˈæɡɹɪkˌʌltʃɚ",
+    "m": "nông nghiệp bền vững",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "sustainable development",
+    "p": "səstˈeɪnəbəl dɪvˈɛləpmənt",
+    "m": "phát triển bền vững",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "sustainable fishing",
+    "p": "səstˈeɪnəbəl fˈɪʃɪŋ",
+    "m": "đánh cá bền vững",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "water conservation",
+    "p": "wˈɔːɾɚ kˌɑːnsɚvˈeɪʃən",
+    "m": "bảo tồn nước",
+    "cat": "environment",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "caloric deficit",
+    "p": "kælˈɔːɹɪk dˈɛfɪsˌɪt",
+    "m": "thiếu hụt calorie",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "set (exercise)",
+    "p": "sˈɛt ˈɛksɚsˌaɪz",
+    "m": "hiệp (bài tập)",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "cosmonaut",
+    "p": "kˈɑːzmənˌɔːt",
+    "m": "nhà du hành vũ trụ (Nga)",
+    "cat": "science",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Mars mission",
+    "p": "mˈɑːɹz mˈɪʃən",
+    "m": "nhiệm vụ Sao Hỏa",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "space telescope",
+    "p": "spˈeɪs tˈɛlᵻskˌoʊp",
+    "m": "kính thiên văn vũ trụ",
+    "cat": "science",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "spacewalk",
+    "p": "spˈeɪswɔːk",
+    "m": "đi bộ ngoài vũ trụ",
+    "cat": "science",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "companion animal",
+    "p": "kəmpˈæniən ˈænɪməl",
+    "m": "vật nuôi bầu bạn",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "deworming",
+    "p": "dˈuːɜːmɪŋ",
+    "m": "tẩy giun sán",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "neutering",
+    "p": "nˈuːɾɚɹɪŋ",
+    "m": "triệt sản",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "nutrition (animal)",
+    "p": "njuːtɹˈɪʃən ˈænɪməl",
+    "m": "dinh dưỡng động vật",
+    "cat": "animal",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "vaccination schedule",
+    "p": "vˌæksᵻnˈeɪʃən skˈɛdʒuːl",
+    "m": "lịch tiêm phòng",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "zoonotic disease",
+    "p": "zuːnˈɑːɾɪk dɪzˈiːz",
+    "m": "bệnh lây từ động vật",
+    "cat": "medicine",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "devein shrimp",
+    "p": "dɪvˈiːn ʃɹˈɪmp",
+    "m": "lột gân tôm",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "dice (cooking)",
+    "p": "dˈaɪs kˈʊkɪŋ",
+    "m": "thái hạt lựu",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "double boiler",
+    "p": "dˈʌbəl bˈɔɪlɚ",
+    "m": "nồi cách thủy",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "fillet (fish)",
+    "p": "fɪlˈeɪ fˈɪʃ",
+    "m": "phi lê cá",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "fine dining",
+    "p": "fˈaɪn dˈaɪnɪŋ",
+    "m": "ẩm thực cao cấp",
+    "cat": "food",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "julienne cut",
+    "p": "dʒˈuːliən kˈʌt",
+    "m": "cắt sợi mảnh",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "nori (seaweed)",
+    "p": "nˈɔːɹi sˈiːwiːd",
+    "m": "rong biển nori",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "pasteurization",
+    "p": "pˌæstjuːɹᵻzˈeɪʃən",
+    "m": "tiệt khuẩn pasteur",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "sear technique",
+    "p": "sˈɪɹ tɛknˈiːk",
+    "m": "áp chảo nhanh",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "umami flavor",
+    "p": "juːmˈɑːmi flˈeɪvɚ",
+    "m": "vị umami",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "vinaigrette",
+    "p": "vˌɪneɪɡɹˈɛt",
+    "m": "nước trộn salad vinaigrette",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "whisk technique",
+    "p": "wˈɪsk tɛknˈiːk",
+    "m": "kỹ thuật đánh trứng",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "zest (citrus)",
+    "p": "zˈɛst sˈɪtɹəs",
+    "m": "vỏ ngoài trái cây",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "knit fabric",
+    "p": "nˈɪt fˈæbɹɪk",
+    "m": "vải dệt kim",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "lining (garment)",
+    "p": "lˈaɪnɪŋ ɡˈɑːɹmənt",
+    "m": "lớp lót trang phục",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "ready-to-wear",
+    "p": "ɹˈɛdiɾəwˈɛɹ",
+    "m": "may sẵn",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "tailor chalk",
+    "p": "tˈeɪlɚ tʃˈɔːk",
+    "m": "phấn may",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "woven fabric",
+    "p": "wˈoʊvən fˈæbɹɪk",
+    "m": "vải dệt thoi",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "adult learner",
+    "p": "ɐdˈʌlt lˈɜːnɚ",
+    "m": "người học trưởng thành",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "classroom management",
+    "p": "klˈæsɹuːm mˈænɪdʒmənt",
+    "m": "quản lý lớp học",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "cooperative learning",
+    "p": "koʊˈɑːpɚɹətˌɪv lˈɜːnɪŋ",
+    "m": "học tập hợp tác",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "educational technology",
+    "p": "ˌɛdʒuːkˈeɪʃənəl tɛknˈɑːlədʒi",
+    "m": "công nghệ giáo dục EdTech",
+    "cat": "technology",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "learning objective",
+    "p": "lˈɜːnɪŋ ɑːbdʒˈɛktɪv",
+    "m": "mục tiêu học tập",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "lesson plan",
+    "p": "lˈɛsən plˈæn",
+    "m": "kế hoạch bài học",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "motivation (education)",
+    "p": "mˌoʊɾɪvˈeɪʃən ˌɛdʒuːkˈeɪʃən",
+    "m": "động lực học tập",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "spaced repetition",
+    "p": "spˈeɪst ɹˌɛpətˈɪʃən",
+    "m": "ôn tập giãn cách",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "standardized testing",
+    "p": "stˈændɚdˌaɪzd tˈɛstɪŋ",
+    "m": "kiểm tra chuẩn hóa",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "Abstraction",
+    "p": "/æbˈstrækʃn/",
+    "m": "tính trừu tượng / Khái niệm trừu tượng",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Ideology",
+    "p": "/ˌaɪdiˈɒlədʒi/",
+    "m": "hệ tư tưởng / Ý thức hệ",
+    "cat": "philosophy",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Paradox",
+    "p": "/ˈpærədɒks/",
+    "m": "nghịch lý",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Tính từ"
+  },
+  {
+    "w": "Integrity",
+    "p": "/ɪnˈteɡrəti/",
+    "m": "tính chính trực / Liêm chính",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Consciousness",
+    "p": "/ˈkɒnʃəsnəs/",
+    "m": "ý thức",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Empirical",
+    "p": "/ɪmˈpɪrɪkl/",
+    "m": "thực nghiệm / Dựa trên bằng chứng",
+    "cat": "law",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Subjectivity",
+    "p": "/ˌsʌbdʒekˈtɪvəti/",
+    "m": "tính chủ quan",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Phenomenon",
+    "p": "/fɪˈnɒmɪnən/",
+    "m": "hiện tượng",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Relativity",
+    "p": "/ˌreləˈtɪvəti/",
+    "m": "tính tương đối",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Thesis",
+    "p": "/ˈθiːsɪs/",
+    "m": "luận điểm chính / Luận văn",
+    "cat": "education",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Hypothesis",
+    "p": "/haɪˈpɒθəsɪs/",
+    "m": "giả thuyết",
+    "cat": "science",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Citation",
+    "p": "/saɪˈteɪʃn/",
+    "m": "trích dẫn (tài liệu)",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Coherent",
+    "p": "/koʊˈhɪərənt/",
+    "m": "mạch lạc / Nhất quán",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Critique",
+    "p": "/krɪˈtiːk/",
+    "m": "phê bình / Bình luận chuyên sâu",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Paraphrase",
+    "p": "/ˈpærəfreɪz/",
+    "m": "diễn giải / Viết lại bằng lời khác",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Methodology",
+    "p": "/ˌmeθəˈdɒlədʒi/",
+    "m": "phương pháp luận",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Inference",
+    "p": "/ˈɪnfərəns/",
+    "m": "suy luận / Kết luận rút ra",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Plagiarism",
+    "p": "/ˈpleɪdʒərɪzəm/",
+    "m": "đạo văn",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Custom",
+    "p": "/ˈkʌstəm/",
+    "m": "phong tục / Tập tục",
+    "cat": "culture",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Tradition",
+    "p": "/trəˈdɪʃn/",
+    "m": "truyền thống",
+    "cat": "culture",
+    "me": "",
+    "pos": "Tính từ"
+  },
+  {
+    "w": "Norm",
+    "p": "/nɔːrm/",
+    "m": "chuẩn mực xã hội",
+    "cat": "society",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Multiculturalism",
+    "p": "/ˌmʌltiˈkʌltʃərəlɪzəm/",
+    "m": "chủ nghĩa đa văn hóa",
+    "cat": "philosophy",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Stereotype",
+    "p": "/ˈsteriətaɪp/",
+    "m": "định kiến / Khuôn mẫu cứng nhắc",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Assimilation",
+    "p": "/əˌsɪməˈleɪʃn/",
+    "m": "sự đồng hóa (văn hóa)",
+    "cat": "culture",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Heritage",
+    "p": "/ˈherɪtɪdʒ/",
+    "m": "di sản (văn hóa)",
+    "cat": "culture",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Taboo",
+    "p": "/təˈbuː/",
+    "m": "điều cấm kỵ / Kiêng kỵ",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Cohesion",
+    "p": "/koʊˈhiːʒn/",
+    "m": "sự gắn kết (xã hội)",
+    "cat": "society",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Sustainability",
+    "p": "/səˌsteɪnəˈbɪləti/",
+    "m": "tính bền vững",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Carbon footprint",
+    "p": "/ˈkɑːrbən ˈfʊtprɪnt/",
+    "m": "dấu chân carbon / Lượng khí thải carbon",
+    "cat": "environment",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Biodiversity",
+    "p": "/ˌbaɪoʊdaɪˈvɜːrsəti/",
+    "m": "đa dạng sinh học",
+    "cat": "environment",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Renewable",
+    "p": "/rɪˈnjuːəbl/",
+    "m": "có thể tái tạo được (năng lượng)",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Greenhouse gas",
+    "p": "/ˈɡriːnhaʊs ɡæs/",
+    "m": "khí nhà kính",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Ecosystem",
+    "p": "/ˈiːkoʊsɪstəm/",
+    "m": "hệ sinh thái",
+    "cat": "environment",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Mitigation",
+    "p": "/ˌmɪtɪˈɡeɪʃn/",
+    "m": "sự giảm nhẹ (tác động)",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Contamination",
+    "p": "/kənˌtæmɪˈneɪʃn/",
+    "m": "sự ô nhiễm / Nhiễm độc",
+    "cat": "environment",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Deforestation",
+    "p": "/diːˌfɒrɪˈsteɪʃn/",
+    "m": "nạn phá rừng",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Investment",
+    "p": "/ɪnˈvestmənt/",
+    "m": "đầu tư",
+    "cat": "economics",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "Fiscal",
+    "p": "/ˈfɪskl/",
+    "m": "liên quan đến tài chính công / Thuế khóa",
+    "cat": "economics",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Inflation",
+    "p": "/ɪnˈfleɪʃn/",
+    "m": "lạm phát",
+    "cat": "economics",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Commodity",
+    "p": "/kəˈmɒdəti/",
+    "m": "hàng hóa cơ bản / Mặt hàng",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Monopoly",
+    "p": "/məˈnɒpəli/",
+    "m": "độc quyền",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Subsidy",
+    "p": "/ˈsʌbsɪdi/",
+    "m": "trợ cấp / Hỗ trợ tài chính từ nhà nước",
+    "cat": "economics",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Consortium",
+    "p": "/kənˈsɔːrtiəm/",
+    "m": "tập đoàn liên kết / Hiệp hội",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Recession",
+    "p": "/rɪˈseʃn/",
+    "m": "suy thoái kinh tế",
+    "cat": "economics",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Tariff",
+    "p": "/ˈtærɪf/",
+    "m": "thuế quan / Biểu thuế",
+    "cat": "economics",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Narrative",
+    "p": "/ˈnærətɪv/",
+    "m": "tự sự / Câu chuyện / Lối kể chuyện",
+    "cat": "literature",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Genre",
+    "p": "/ˈʒɒnrə/",
+    "m": "thể loại (văn học, phim, âm nhạc)",
+    "cat": "literature",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Protagonist",
+    "p": "/prəˈtæɡənɪst/",
+    "m": "nhân vật chính",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Metaphor",
+    "p": "/ˈmetəfɔːr/",
+    "m": "ẩn dụ",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Allusion",
+    "p": "/əˈluːʒn/",
+    "m": "ám chỉ / Điển tích (trong văn học)",
+    "cat": "literature",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Satire",
+    "p": "/ˈsætaɪər/",
+    "m": "châm biếm (văn học)",
+    "cat": "literature",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Foreshadowing",
+    "p": "/fɔːrˈʃædoʊɪŋ/",
+    "m": "báo hiệu trước / Dự báo (trong văn học)",
+    "cat": "literature",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Media literacy",
+    "p": "/ˈmiːdiə ˈlɪtərəsi/",
+    "m": "hiểu biết truyền thông / Năng lực đọc hiểu truyền thông",
+    "cat": "media",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Symbolism",
+    "p": "/ˈsɪmbəlɪzəm/",
+    "m": "chủ nghĩa biểu tượng / Tính biểu tượng",
+    "cat": "philosophy",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "analyse",
+    "p": "ˈænɐlˌaɪz",
+    "m": "phân tích",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "a grey area",
+    "p": "ɐ ɡɹˈeɪ ˈɛɹiə",
+    "m": "vùng xám, không rõ ràng",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "organised",
+    "p": "ˈɔːɹɡɐnˌaɪzd",
+    "m": "ngăn nắp có tổ chức",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Tính từ"
+  },
+  {
+    "w": "harbour",
+    "p": "hˈɑːɹbɚ",
+    "m": "bến cảng",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  }
+]

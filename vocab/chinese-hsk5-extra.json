@@ -4,63 +4,72 @@
     "p": "lǚ yóu",
     "m": "du lịch",
     "cat": "địa điểm",
-    "me": "travel"
+    "me": "travel",
+    "pos": "Động từ"
   },
   {
     "w": "景点",
     "p": "jǐng diǎn",
     "m": "điểm tham quan",
     "cat": "địa điểm",
-    "me": "sightseeing spot"
+    "me": "sightseeing spot",
+    "pos": "Danh từ"
   },
   {
     "w": "导游",
     "p": "dǎo yóu",
     "m": "hướng dẫn viên du lịch",
     "cat": "người",
-    "me": "tour guide"
+    "me": "tour guide",
+    "pos": "Động từ"
   },
   {
     "w": "行程",
     "p": "xíng chéng",
     "m": "lịch trình",
     "cat": "thời gian",
-    "me": "schedule"
+    "me": "schedule",
+    "pos": "Danh từ"
   },
   {
     "w": "签证",
     "p": "qiān zhèng",
     "m": "thị thực, visa",
     "cat": "học thuật",
-    "me": "visa"
+    "me": "visa",
+    "pos": "Danh từ"
   },
   {
     "w": "护照",
     "p": "hù zhào",
     "m": "hộ chiếu",
     "cat": "đồ vật",
-    "me": "passport"
+    "me": "passport",
+    "pos": "Danh từ"
   },
   {
     "w": "航班",
     "p": "háng bān",
     "m": "chuyến bay",
     "cat": "giao thông",
-    "me": "flight"
+    "me": "flight",
+    "pos": "Danh từ"
   },
   {
     "w": "候机",
     "p": "hòu jī",
     "m": "chờ máy bay",
     "cat": "hành động",
-    "me": "to wait for a flight"
+    "me": "to wait for a flight",
+    "pos": "Động từ"
   },
   {
     "w": "登机",
     "p": "dēng jī",
     "m": "lên máy bay",
     "cat": "hành động",
-    "me": "board a plane"
+    "me": "board a plane",
+    "pos": "Động từ"
   },
   {
     "w": "托运",
@@ -69,14 +78,16 @@
     "cat": "hành động",
     "example": "他把行李托运了。",
     "example_vi": "Anh ấy đã gửi hành lý.",
-    "me": "check in luggage"
+    "me": "check in luggage",
+    "pos": "Động từ"
   },
   {
     "w": "行李",
     "p": "xíng li",
     "m": "hành lý",
     "cat": "đồ vật",
-    "me": "luggage"
+    "me": "luggage",
+    "pos": "Danh từ"
   },
   {
     "w": "海关",
@@ -85,7 +96,8 @@
     "cat": "chính trị",
     "example": "请在海关出示护照。",
     "example_vi": "Xin xuất trình hộ chiếu ở hải quan.",
-    "me": "customs"
+    "me": "customs",
+    "pos": "Danh từ"
   },
   {
     "w": "入境",
@@ -94,7 +106,8 @@
     "cat": "hành động",
     "example": "他顺利入境了。",
     "example_vi": "Anh ấy đã nhập cảnh thuận lợi.",
-    "me": "enter a country"
+    "me": "enter a country",
+    "pos": "Động từ"
   },
   {
     "w": "出境",
@@ -103,34 +116,39 @@
     "cat": "hành động",
     "example": "他明天出境。",
     "example_vi": "Ngày mai anh ấy xuất cảnh.",
-    "me": "exit the country"
+    "me": "exit the country",
+    "pos": "Động từ"
   },
   {
     "w": "旅馆",
     "p": "lǚ guǎn",
     "m": "khách sạn nhỏ, nhà trọ",
-    "cat": "địa điểm"
+    "cat": "địa điểm",
+    "pos": "Danh từ"
   },
   {
     "w": "酒店",
     "p": "jiǔ diàn",
     "m": "khách sạn",
     "cat": "địa điểm",
-    "me": "hotel"
+    "me": "hotel",
+    "pos": "Danh từ"
   },
   {
     "w": "预订",
     "p": "yù dìng",
     "m": "đặt trước, đặt chỗ",
     "cat": "hành động",
-    "me": "to reserve, book in advance"
+    "me": "to reserve, book in advance",
+    "pos": "Động từ"
   },
   {
     "w": "退房",
     "p": "tuì fáng",
     "m": "trả phòng",
     "cat": "hành động",
-    "me": "check out"
+    "me": "check out",
+    "pos": "Động từ"
   },
   {
     "w": "景观",
@@ -139,21 +157,24 @@
     "cat": "thiên nhiên",
     "example": "这里的景观很美。",
     "example_vi": "Cảnh quan ở đây rất đẹp.",
-    "me": "landscape"
+    "me": "landscape",
+    "pos": "Danh từ"
   },
   {
     "w": "名胜",
     "p": "míng shèng",
     "m": "danh lam thắng cảnh",
     "cat": "địa điểm",
-    "me": "scenic spot, famous landmark"
+    "me": "scenic spot, famous landmark",
+    "pos": "Danh từ"
   },
   {
     "w": "古迹",
     "p": "gǔ jì",
     "m": "di tích lịch sử",
     "cat": "văn hóa",
-    "me": "historic site"
+    "me": "historic site",
+    "pos": "Danh từ"
   },
   {
     "w": "遗址",
@@ -162,14 +183,16 @@
     "cat": "văn hóa",
     "example": "这是一处古代遗址。",
     "example_vi": "Đây là một di chỉ cổ đại.",
-    "me": "ruins, archaeological site"
+    "me": "ruins, archaeological site",
+    "pos": "Danh từ"
   },
   {
     "w": "博物馆",
     "p": "bó wù guǎn",
     "m": "bảo tàng",
     "cat": "địa điểm",
-    "me": "museum"
+    "me": "museum",
+    "pos": "Danh từ"
   },
   {
     "w": "展览",
@@ -178,47 +201,54 @@
     "cat": "nghệ thuật",
     "example": "博物馆正在举办展览。",
     "example_vi": "Bảo tàng đang tổ chức triển lãm.",
-    "me": "exhibition"
+    "me": "exhibition",
+    "pos": "Danh từ"
   },
   {
     "w": "纪念品",
     "p": "jì niàn pǐn",
     "m": "đồ lưu niệm",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "pos": "Danh từ"
   },
   {
     "w": "文化遗产",
     "p": "wén huà yí chǎn",
     "m": "di sản văn hóa",
     "cat": "văn hóa",
-    "me": "cultural heritage"
+    "me": "cultural heritage",
+    "pos": "Danh từ"
   },
   {
     "w": "传统",
     "p": "chuán tǒng",
     "m": "truyền thống",
     "cat": "văn hóa",
-    "me": "traditional"
+    "me": "traditional",
+    "pos": "Tính từ"
   },
   {
     "w": "习俗",
     "p": "xí sú",
     "m": "phong tục tập quán",
     "cat": "văn hóa",
-    "me": "custom"
+    "me": "custom",
+    "pos": "Danh từ"
   },
   {
     "w": "节日",
     "p": "jié rì",
     "m": "ngày lễ, lễ hội",
     "cat": "văn hóa",
-    "me": "holiday, festival"
+    "me": "holiday, festival",
+    "pos": "Danh từ"
   },
   {
     "w": "庆典",
     "p": "qìng diǎn",
     "m": "lễ kỷ niệm, lễ hội",
-    "cat": "văn hóa"
+    "cat": "văn hóa",
+    "pos": "Danh từ"
   },
   {
     "w": "民俗",
@@ -227,54 +257,62 @@
     "cat": "văn hóa",
     "example": "这个地方有独特的民俗。",
     "example_vi": "Nơi này có phong tục dân gian độc đáo.",
-    "me": "folk custom"
+    "me": "folk custom",
+    "pos": "Danh từ"
   },
   {
     "w": "信仰",
     "p": "xìn yǎng",
     "m": "tín ngưỡng, đức tin",
-    "cat": "văn hóa"
+    "cat": "văn hóa",
+    "pos": "Danh từ"
   },
   {
     "w": "宗教",
     "p": "zōng jiào",
     "m": "tôn giáo",
     "cat": "văn hóa",
-    "me": "religion"
+    "me": "religion",
+    "pos": "Danh từ"
   },
   {
     "w": "寺庙",
     "p": "sì miào",
     "m": "chùa chiền, đền miếu",
-    "cat": "địa điểm"
+    "cat": "địa điểm",
+    "pos": "Danh từ"
   },
   {
     "w": "文明",
     "p": "wén míng",
     "m": "văn minh",
     "cat": "văn hóa",
-    "me": "civilization"
+    "me": "civilization",
+    "pos": "Danh từ"
   },
   {
     "w": "社会",
     "p": "shè huì",
     "m": "xã hội",
     "cat": "xã hội",
-    "me": "society"
+    "me": "society",
+    "pos": "Danh từ"
   },
   {
     "w": "社区",
     "p": "shè qū",
     "m": "cộng đồng, khu dân cư, khu phố",
     "cat": "xã hội",
-    "me": "community, neighborhood"
+    "me": "community, neighborhood",
+    "pos": "Danh từ"
   },
   {
     "w": "公民",
     "p": "gōng mín",
     "m": "công dân",
     "cat": "người",
-    "me": "citizen"
+    "me": "citizen",
+    "pos": "Danh từ"
   },
   {
     "w": "群体",
@@ -283,14 +321,16 @@
     "cat": "xã hội",
     "example": "这是一个特殊的群体。",
     "example_vi": "Đây là một nhóm người đặc biệt.",
-    "me": "group of people, collective"
+    "me": "group of people, collective",
+    "pos": "Danh từ"
   },
   {
     "w": "阶层",
     "p": "jiē céng",
     "m": "tầng lớp xã hội",
     "cat": "xã hội",
-    "me": "social stratification"
+    "me": "social stratification",
+    "pos": "Danh từ"
   },
   {
     "w": "贫富",
@@ -299,7 +339,8 @@
     "cat": "xã hội",
     "example": "贫富差距是一个社会问题。",
     "example_vi": "Chênh lệch giàu nghèo là một vấn đề xã hội.",
-    "me": "rich and poor"
+    "me": "rich and poor",
+    "pos": "Danh từ"
   },
   {
     "w": "差距",
@@ -308,41 +349,47 @@
     "cat": "xã hội",
     "example": "两者之间存在差距。",
     "example_vi": "Giữa hai bên tồn tại khoảng cách.",
-    "me": "gap, disparity"
+    "me": "gap, disparity",
+    "pos": "Danh từ"
   },
   {
     "w": "平等",
     "p": "píng děng",
     "m": "bình đẳng",
     "cat": "xã hội",
-    "me": "equality"
+    "me": "equality",
+    "pos": "Danh từ"
   },
   {
     "w": "公正",
     "p": "gōng zhèng",
     "m": "công bằng, chính đáng",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "pos": "Tính từ"
   },
   {
     "w": "歧视",
     "p": "qí shì",
     "m": "phân biệt đối xử",
     "cat": "xã hội",
-    "me": "discrimination"
+    "me": "discrimination",
+    "pos": "Động từ"
   },
   {
     "w": "偏见",
     "p": "piān jiàn",
     "m": "định kiến, thành kiến",
     "cat": "xã hội",
-    "me": "prejudice"
+    "me": "prejudice",
+    "pos": "Động từ"
   },
   {
     "w": "包容",
     "p": "bāo róng",
     "m": "bao dung, khoan dung",
     "cat": "tính từ",
-    "me": "tolerant, forgiving"
+    "me": "tolerant, forgiving",
+    "pos": "Tính từ"
   },
   {
     "w": "多元化",
@@ -351,27 +398,31 @@
     "cat": "xã hội",
     "example": "公司业务实现了多元化。",
     "example_vi": "Nghiệp vụ công ty đã thực hiện đa dạng hóa.",
-    "me": "diversification"
+    "me": "diversification",
+    "pos": "Động từ"
   },
   {
     "w": "移民",
     "p": "yí mín",
     "m": "người di cư, di dân",
-    "cat": "người"
+    "cat": "người",
+    "pos": "Danh từ"
   },
   {
     "w": "融合",
     "p": "róng hé",
     "m": "hòa nhập, hợp nhất, kết hợp, dung hợp, hội nhập",
     "cat": "hành động",
-    "me": "integrate, merge, blend"
+    "me": "integrate, merge, blend",
+    "pos": "Động từ"
   },
   {
     "w": "职业",
     "p": "zhí yè",
     "m": "nghề nghiệp",
     "cat": "công việc",
-    "me": "profession"
+    "me": "profession",
+    "pos": "Danh từ"
   },
   {
     "w": "岗位",
@@ -380,14 +431,16 @@
     "cat": "công việc",
     "example": "这个岗位需要经验。",
     "example_vi": "Vị trí làm việc này cần kinh nghiệm.",
-    "me": "workstation, job position"
+    "me": "workstation, job position",
+    "pos": "Danh từ"
   },
   {
     "w": "招聘",
     "p": "zhāo pìn",
     "m": "tuyển dụng",
     "cat": "công việc",
-    "me": "recruitment"
+    "me": "recruitment",
+    "pos": "Động từ"
   },
   {
     "w": "应聘",
@@ -396,21 +449,24 @@
     "cat": "công việc",
     "example": "他去应聘这份工作。",
     "example_vi": "Anh ấy đi ứng tuyển công việc này.",
-    "me": "apply for a job"
+    "me": "apply for a job",
+    "pos": "Danh từ"
   },
   {
     "w": "简历",
     "p": "jiǎn lì",
     "m": "sơ yếu lý lịch, CV",
     "cat": "công việc",
-    "me": "resume, CV"
+    "me": "resume, CV",
+    "pos": "Danh từ"
   },
   {
     "w": "面试",
     "p": "miàn shì",
     "m": "phỏng vấn",
     "cat": "công việc",
-    "me": "interview"
+    "me": "interview",
+    "pos": "Động từ"
   },
   {
     "w": "录用",
@@ -419,14 +475,16 @@
     "cat": "công việc",
     "example": "公司录用了他。",
     "example_vi": "Công ty đã tuyển dụng anh ấy.",
-    "me": "recruit, hire"
+    "me": "recruit, hire",
+    "pos": "Động từ"
   },
   {
     "w": "晋升",
     "p": "jìn shēng",
     "m": "thăng chức",
     "cat": "công việc",
-    "me": "promotion"
+    "me": "promotion",
+    "pos": "Danh từ"
   },
   {
     "w": "降职",
@@ -435,7 +493,8 @@
     "cat": "công việc",
     "example": "他因失误被降职了。",
     "example_vi": "Anh ấy bị giáng chức vì sai sót.",
-    "me": "demote"
+    "me": "demote",
+    "pos": "Danh từ"
   },
   {
     "w": "辞职",
@@ -444,7 +503,8 @@
     "cat": "công việc",
     "example": "他决定辞职。",
     "example_vi": "Anh ấy quyết định từ chức.",
-    "me": "resign, quit"
+    "me": "resign, quit",
+    "pos": "Danh từ"
   },
   {
     "w": "解雇",
@@ -453,7 +513,8 @@
     "cat": "công việc",
     "example": "公司解雇了他。",
     "example_vi": "Công ty đã sa thải anh ấy.",
-    "me": "lay off"
+    "me": "lay off",
+    "pos": "Động từ"
   },
   {
     "w": "薪资",
@@ -462,14 +523,16 @@
     "cat": "tiền bạc",
     "example": "这份工作薪资不错。",
     "example_vi": "Công việc này lương thù lao khá tốt.",
-    "me": "salary, remuneration"
+    "me": "salary, remuneration",
+    "pos": "Danh từ"
   },
   {
     "w": "奖金",
     "p": "jiǎng jīn",
     "m": "tiền thưởng",
     "cat": "tiền bạc",
-    "me": "bonus"
+    "me": "bonus",
+    "pos": "Danh từ"
   },
   {
     "w": "绩效",
@@ -478,7 +541,8 @@
     "cat": "công việc",
     "example": "公司考核员工的绩效。",
     "example_vi": "Công ty đánh giá hiệu suất công việc của nhân viên.",
-    "me": "efficiency, work performance"
+    "me": "efficiency, work performance",
+    "pos": "Danh từ"
   },
   {
     "w": "业绩",
@@ -487,14 +551,16 @@
     "cat": "kinh doanh",
     "example": "公司今年业绩不错。",
     "example_vi": "Thành tích kinh doanh của công ty năm nay khá tốt.",
-    "me": "business performance"
+    "me": "business performance",
+    "pos": "Danh từ"
   },
   {
     "w": "同事",
     "p": "tóng shì",
     "m": "đồng nghiệp",
     "cat": "người",
-    "me": "colleague"
+    "me": "colleague",
+    "pos": "Danh từ"
   },
   {
     "w": "上司",
@@ -503,7 +569,8 @@
     "cat": "người",
     "example": "他的上司很严格。",
     "example_vi": "Cấp trên của anh ấy rất nghiêm khắc.",
-    "me": "superior"
+    "me": "superior",
+    "pos": "Danh từ"
   },
   {
     "w": "下属",
@@ -512,7 +579,8 @@
     "cat": "người",
     "example": "他对下属很关心。",
     "example_vi": "Anh ấy rất quan tâm đến cấp dưới.",
-    "me": "subordinate"
+    "me": "subordinate",
+    "pos": "Danh từ"
   },
   {
     "w": "团队",
@@ -521,35 +589,40 @@
     "cat": "công việc",
     "example": "我们是一个团队。",
     "example_vi": "Chúng tôi là một đội ngũ.",
-    "me": "group, team"
+    "me": "group, team",
+    "pos": "Động từ"
   },
   {
     "w": "合作",
     "p": "hé zuò",
     "m": "hợp tác",
     "cat": "hành động",
-    "me": "cooperative"
+    "me": "cooperative",
+    "pos": "Động từ"
   },
   {
     "w": "竞争",
     "p": "jìng zhēng",
     "m": "cạnh tranh",
     "cat": "kinh doanh",
-    "me": "competition"
+    "me": "competition",
+    "pos": "Tính từ"
   },
   {
     "w": "压力",
     "p": "yā lì",
     "m": "áp lực",
     "cat": "cảm xúc",
-    "me": "pressure"
+    "me": "pressure",
+    "pos": "Danh từ"
   },
   {
     "w": "挑战",
     "p": "tiǎo zhàn",
     "m": "thách thức",
     "cat": "công việc",
-    "me": "challenge"
+    "me": "challenge",
+    "pos": "Danh từ"
   },
   {
     "w": "机遇",
@@ -558,69 +631,79 @@
     "cat": "công việc",
     "example": "这是一个难得的机遇。",
     "example_vi": "Đây là một cơ hội hiếm có.",
-    "me": "chance"
+    "me": "chance",
+    "pos": "Danh từ"
   },
   {
     "w": "职场",
     "p": "zhí chǎng",
     "m": "môi trường công sở",
     "cat": "công việc",
-    "me": "office environment"
+    "me": "office environment",
+    "pos": "Danh từ"
   },
   {
     "w": "会议",
     "p": "huì yì",
     "m": "cuộc họp, hội nghị",
     "cat": "công việc",
-    "me": "meeting, conference"
+    "me": "meeting, conference",
+    "pos": "Danh từ"
   },
   {
     "w": "出差",
     "p": "chū chāi",
     "m": "đi công tác",
     "cat": "công việc",
-    "me": "go on a business trip"
+    "me": "go on a business trip",
+    "pos": "Động từ"
   },
   {
     "w": "项目",
     "p": "xiàng mù",
     "m": "dự án",
     "cat": "công việc",
-    "me": "project"
+    "me": "project",
+    "pos": "Danh từ"
   },
   {
     "w": "方案",
     "p": "fāng àn",
     "m": "phương án, kế hoạch",
     "cat": "học thuật",
-    "me": "plan, scheme"
+    "me": "plan, scheme",
+    "pos": "Danh từ"
   },
   {
     "w": "报告",
     "p": "bào gào",
     "m": "báo cáo",
     "cat": "công việc",
-    "me": "report"
+    "me": "report",
+    "pos": "Động từ"
   },
   {
     "w": "策略",
     "p": "cè lüè",
     "m": "chiến lược",
     "cat": "kinh doanh",
-    "me": "strategy"
+    "me": "strategy",
+    "pos": "Danh từ"
   },
   {
     "w": "目标",
     "p": "mù biāo",
     "m": "mục tiêu",
     "cat": "học thuật",
-    "me": "goal"
+    "me": "goal",
+    "pos": "Danh từ"
   },
   {
     "w": "效率",
     "p": "xiào lǜ",
     "m": "hiệu quả, năng suất",
-    "cat": "công việc"
+    "cat": "công việc",
+    "pos": "Danh từ"
   },
   {
     "w": "喜悦",
@@ -629,7 +712,8 @@
     "cat": "cảm xúc",
     "example": "她脸上洋溢着喜悦。",
     "example_vi": "Trên mặt cô ấy tràn ngập niềm vui mừng.",
-    "me": "delighted"
+    "me": "delighted",
+    "pos": "Danh từ"
   },
   {
     "w": "悲伤",
@@ -638,27 +722,31 @@
     "cat": "cảm xúc",
     "example": "他感到很悲伤。",
     "example_vi": "Anh ấy cảm thấy rất đau buồn.",
-    "me": "grieved, sorrowful"
+    "me": "grieved, sorrowful",
+    "pos": "Danh từ"
   },
   {
     "w": "愤怒",
     "p": "fèn nù",
     "m": "tức giận, phẫn nộ",
     "cat": "cảm xúc",
-    "me": "angry, indignant"
+    "me": "angry, indignant",
+    "pos": "Tính từ"
   },
   {
     "w": "恐惧",
     "p": "kǒng jù",
     "m": "sợ hãi",
     "cat": "cảm xúc",
-    "me": "scared"
+    "me": "scared",
+    "pos": "Tính từ"
   },
   {
     "w": "焦虑",
     "p": "jiāo lǜ",
     "m": "lo lắng, lo âu",
-    "cat": "cảm xúc"
+    "cat": "cảm xúc",
+    "pos": "Tính từ"
   },
   {
     "w": "沮丧",
@@ -667,28 +755,32 @@
     "cat": "cảm xúc",
     "example": "考试失败让他很沮丧。",
     "example_vi": "Thi trượt khiến anh ấy rất chán nản.",
-    "me": "dejected"
+    "me": "dejected",
+    "pos": "Tính từ"
   },
   {
     "w": "激动",
     "p": "jī dòng",
     "m": "xúc động, phấn khích",
     "cat": "cảm xúc",
-    "me": "moved, excited"
+    "me": "moved, excited",
+    "pos": "Tính từ"
   },
   {
     "w": "感激",
     "p": "gǎn jī",
     "m": "biết ơn, cảm kích",
     "cat": "cảm xúc",
-    "me": "grateful, appreciative"
+    "me": "grateful, appreciative",
+    "pos": "Động từ"
   },
   {
     "w": "嫉妒",
     "p": "jí dù",
     "m": "ghen tị",
     "cat": "cảm xúc",
-    "me": "jealous"
+    "me": "jealous",
+    "pos": "Tính từ"
   },
   {
     "w": "委屈",
@@ -697,14 +789,16 @@
     "cat": "cảm xúc",
     "example": "她觉得很委屈。",
     "example_vi": "Cô ấy cảm thấy rất ấm ức.",
-    "me": "aggrieved, self-pitying"
+    "me": "aggrieved, self-pitying",
+    "pos": "Danh từ"
   },
   {
     "w": "孤独",
     "p": "gū dú",
     "m": "cô đơn",
     "cat": "cảm xúc",
-    "me": "lonely"
+    "me": "lonely",
+    "pos": "Danh từ"
   },
   {
     "w": "迷茫",
@@ -713,14 +807,16 @@
     "cat": "cảm xúc",
     "example": "他对未来感到迷茫。",
     "example_vi": "Anh ấy cảm thấy mơ hồ về tương lai.",
-    "me": "vague, lost"
+    "me": "vague, lost",
+    "pos": "Tính từ"
   },
   {
     "w": "满足",
     "p": "mǎn zú",
     "m": "thỏa mãn, hài lòng",
     "cat": "cảm xúc",
-    "me": "satisfied"
+    "me": "satisfied",
+    "pos": "Tính từ"
   },
   {
     "w": "自豪",
@@ -729,28 +825,32 @@
     "cat": "cảm xúc",
     "example": "我为你感到自豪。",
     "example_vi": "Tôi cảm thấy tự hào về bạn.",
-    "me": "proud"
+    "me": "proud",
+    "pos": "Phó từ"
   },
   {
     "w": "羞耻",
     "p": "xiū chǐ",
     "m": "xấu hổ",
     "cat": "cảm xúc",
-    "me": "ashamed"
+    "me": "ashamed",
+    "pos": "Tính từ"
   },
   {
     "w": "后悔",
     "p": "hòu huǐ",
     "m": "hối hận",
     "cat": "cảm xúc",
-    "me": "regret"
+    "me": "regret",
+    "pos": "Danh từ"
   },
   {
     "w": "感动",
     "p": "gǎn dòng",
     "m": "cảm động, xúc động",
     "cat": "cảm xúc",
-    "me": "moved, touched"
+    "me": "moved, touched",
+    "pos": "Danh từ"
   },
   {
     "w": "绝望",
@@ -759,14 +859,16 @@
     "cat": "cảm xúc",
     "example": "他一度感到绝望。",
     "example_vi": "Anh ấy từng cảm thấy tuyệt vọng.",
-    "me": "despair"
+    "me": "despair",
+    "pos": "Danh từ"
   },
   {
     "w": "希望",
     "p": "xī wàng",
     "m": "hy vọng",
     "cat": "cảm xúc",
-    "me": "hope"
+    "me": "hope",
+    "pos": "Động từ"
   },
   {
     "w": "恋爱",
@@ -775,7 +877,8 @@
     "cat": "gia đình",
     "example": "他们正在恋爱。",
     "example_vi": "Họ đang yêu đương.",
-    "me": "be in love, romance"
+    "me": "be in love, romance",
+    "pos": "Động từ"
   },
   {
     "w": "婚姻",
@@ -784,14 +887,16 @@
     "cat": "gia đình",
     "example": "他们的婚姻很幸福。",
     "example_vi": "Hôn nhân của họ rất hạnh phúc.",
-    "me": "marriage"
+    "me": "marriage",
+    "pos": "Danh từ"
   },
   {
     "w": "离婚",
     "p": "lí hūn",
     "m": "ly hôn",
     "cat": "gia đình",
-    "me": "divorce"
+    "me": "divorce",
+    "pos": "Danh từ"
   },
   {
     "w": "伴侣",
@@ -800,7 +905,8 @@
     "cat": "gia đình",
     "example": "他找到了理想的伴侣。",
     "example_vi": "Anh ấy đã tìm được người bạn đời lý tưởng.",
-    "me": "life partner, companion"
+    "me": "life partner, companion",
+    "pos": "Danh từ"
   },
   {
     "w": "恋人",
@@ -809,21 +915,24 @@
     "cat": "người",
     "example": "他们是一对恋人。",
     "example_vi": "Họ là một đôi người yêu.",
-    "me": "lover, sweetheart"
+    "me": "lover, sweetheart",
+    "pos": "Danh từ"
   },
   {
     "w": "感情",
     "p": "gǎn qíng",
     "m": "tình cảm, cảm xúc",
     "cat": "cảm xúc",
-    "me": "feeling, emotion"
+    "me": "feeling, emotion",
+    "pos": "Danh từ"
   },
   {
     "w": "矛盾",
     "p": "máo dùn",
     "m": "mâu thuẫn",
     "cat": "xã hội",
-    "me": "contradiction"
+    "me": "contradiction",
+    "pos": "Danh từ"
   },
   {
     "w": "争吵",
@@ -832,7 +941,8 @@
     "cat": "hành động",
     "example": "他们因为小事争吵了。",
     "example_vi": "Họ đã cãi vã vì chuyện nhỏ.",
-    "me": "argue, quarrel"
+    "me": "argue, quarrel",
+    "pos": "Động từ"
   },
   {
     "w": "和解",
@@ -841,14 +951,16 @@
     "cat": "hành động",
     "example": "双方最终达成了和解。",
     "example_vi": "Hai bên cuối cùng đã đạt được thỏa thuận hòa giải.",
-    "me": "reconcile"
+    "me": "reconcile",
+    "pos": "Động từ"
   },
   {
     "w": "信任",
     "p": "xìn rèn",
     "m": "tin tưởng",
     "cat": "cảm xúc",
-    "me": "trust"
+    "me": "trust",
+    "pos": "Động từ"
   },
   {
     "w": "忠诚",
@@ -857,7 +969,8 @@
     "cat": "tính từ",
     "example": "他对朋友很忠诚。",
     "example_vi": "Anh ấy rất trung thành với bạn bè.",
-    "me": "loyal"
+    "me": "loyal",
+    "pos": "Tính từ"
   },
   {
     "w": "背叛",
@@ -866,28 +979,32 @@
     "cat": "hành động",
     "example": "他背叛了朋友的信任。",
     "example_vi": "Anh ta đã phản bội lòng tin của bạn bè.",
-    "me": "defection"
+    "me": "defection",
+    "pos": "Động từ"
   },
   {
     "w": "理解",
     "p": "lǐ jiě",
     "m": "hiểu, thông cảm, lý giải",
     "cat": "hành động",
-    "me": "to understand, sympathize"
+    "me": "to understand, sympathize",
+    "pos": "Động từ"
   },
   {
     "w": "支持",
     "p": "zhī chí",
     "m": "ủng hộ, hỗ trợ",
     "cat": "hành động",
-    "me": "support"
+    "me": "support",
+    "pos": "Động từ"
   },
   {
     "w": "友谊",
     "p": "yǒu yì",
     "m": "tình bạn",
     "cat": "xã hội",
-    "me": "friendship"
+    "me": "friendship",
+    "pos": "Danh từ"
   },
   {
     "w": "人际",
@@ -896,102 +1013,117 @@
     "cat": "xã hội",
     "example": "他的人际关系很好。",
     "example_vi": "Quan hệ giữa người với người của anh ấy rất tốt.",
-    "me": "interpersonal relationships"
+    "me": "interpersonal relationships",
+    "pos": "Danh từ"
   },
   {
     "w": "沟通",
     "p": "gōu tōng",
     "m": "giao tiếp, trao đổi",
     "cat": "hành động",
-    "me": "communication, exchange"
+    "me": "communication, exchange",
+    "pos": "Động từ"
   },
   {
     "w": "交流",
     "p": "jiāo liú",
     "m": "giao lưu, trao đổi",
     "cat": "hành động",
-    "me": "exchange, interact"
+    "me": "exchange, interact",
+    "pos": "Động từ"
   },
   {
     "w": "艺术",
     "p": "yì shù",
     "m": "nghệ thuật",
     "cat": "nghệ thuật",
-    "me": "art"
+    "me": "art",
+    "pos": "Danh từ"
   },
   {
     "w": "绘画",
     "p": "huì huà",
     "m": "hội họa",
-    "cat": "nghệ thuật"
+    "cat": "nghệ thuật",
+    "pos": "Danh từ"
   },
   {
     "w": "雕塑",
     "p": "diāo sù",
     "m": "điêu khắc",
     "cat": "nghệ thuật",
-    "me": "sculpture"
+    "me": "sculpture",
+    "pos": "Danh từ"
   },
   {
     "w": "摄影",
     "p": "shè yǐng",
     "m": "nhiếp ảnh",
     "cat": "nghệ thuật",
-    "me": "photography"
+    "me": "photography",
+    "pos": "Danh từ"
   },
   {
     "w": "音乐",
     "p": "yīn yuè",
     "m": "âm nhạc",
     "cat": "nghệ thuật",
-    "me": "music"
+    "me": "music",
+    "pos": "Danh từ"
   },
   {
     "w": "舞蹈",
     "p": "wǔ dǎo",
     "m": "vũ điệu, múa, khiêu vũ, vũ đạo",
     "cat": "nghệ thuật",
-    "me": "dance, choreography"
+    "me": "dance, choreography",
+    "pos": "Danh từ"
   },
   {
     "w": "戏剧",
     "p": "xì jù",
     "m": "kịch, sân khấu",
-    "cat": "nghệ thuật"
+    "cat": "nghệ thuật",
+    "pos": "Danh từ"
   },
   {
     "w": "电影",
     "p": "diàn yǐng",
     "m": "phim, điện ảnh",
-    "cat": "nghệ thuật"
+    "cat": "nghệ thuật",
+    "pos": "Danh từ"
   },
   {
     "w": "文学",
     "p": "wén xué",
     "m": "văn học",
     "cat": "nghệ thuật",
-    "me": "literature"
+    "me": "literature",
+    "pos": "Danh từ"
   },
   {
     "w": "诗歌",
     "p": "shī gē",
     "m": "thơ ca",
     "cat": "nghệ thuật",
-    "me": "poetry"
+    "me": "poetry",
+    "pos": "Danh từ"
   },
   {
     "w": "小说",
     "p": "xiǎo shuō",
     "m": "tiểu thuyết",
     "cat": "nghệ thuật",
-    "me": "novel"
+    "me": "novel",
+    "pos": "Danh từ"
   },
   {
     "w": "创作",
     "p": "chuàng zuò",
     "m": "sáng tác",
     "cat": "nghệ thuật",
-    "me": "compose, create"
+    "me": "compose, create",
+    "pos": "Danh từ"
   },
   {
     "w": "作品",
@@ -1000,14 +1132,16 @@
     "cat": "nghệ thuật",
     "example": "这是他的最新作品。",
     "example_vi": "Đây là tác phẩm mới nhất của anh ấy.",
-    "me": "work (of art/literature)"
+    "me": "work (of art/literature)",
+    "pos": "Danh từ"
   },
   {
     "w": "风格",
     "p": "fēng gé",
     "m": "phong cách",
     "cat": "nghệ thuật",
-    "me": "style"
+    "me": "style",
+    "pos": "Danh từ"
   },
   {
     "w": "审美",
@@ -1016,19 +1150,22 @@
     "cat": "nghệ thuật",
     "example": "她的审美很独特。",
     "example_vi": "Thẩm mỹ của cô ấy rất độc đáo.",
-    "me": "aesthetics"
+    "me": "aesthetics",
+    "pos": "Danh từ"
   },
   {
     "w": "欣赏",
     "p": "xīn shǎng",
     "m": "thưởng thức, trân trọng",
-    "cat": "hành động"
+    "cat": "hành động",
+    "pos": "Động từ"
   },
   {
     "w": "批评",
     "p": "pī píng",
     "m": "phê bình, chỉ trích",
-    "cat": "hành động"
+    "cat": "hành động",
+    "pos": "Động từ"
   },
   {
     "w": "传媒",
@@ -1037,26 +1174,30 @@
     "cat": "media",
     "example": "他在传媒行业工作。",
     "example_vi": "Anh ấy làm việc trong ngành truyền thông.",
-    "me": "media"
+    "me": "media",
+    "pos": "Danh từ"
   },
   {
     "w": "媒体",
     "p": "méi tǐ",
     "m": "phương tiện truyền thông",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "pos": "Danh từ"
   },
   {
     "w": "新闻",
     "p": "xīn wén",
     "m": "tin tức",
     "cat": "học thuật",
-    "me": "news"
+    "me": "news",
+    "pos": "Danh từ"
   },
   {
     "w": "报道",
     "p": "bào dào",
     "m": "đưa tin, bài báo",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "pos": "Danh từ"
   },
   {
     "w": "采访",
@@ -1065,14 +1206,16 @@
     "cat": "hành động",
     "example": "记者采访了这位专家。",
     "example_vi": "Nhà báo đã phỏng vấn vị chuyên gia này.",
-    "me": "interview (press)"
+    "me": "interview (press)",
+    "pos": "Động từ"
   },
   {
     "w": "记者",
     "p": "jì zhě",
     "m": "phóng viên, nhà báo",
     "cat": "người",
-    "me": "reporter, journalist"
+    "me": "reporter, journalist",
+    "pos": "Động từ"
   },
   {
     "w": "编辑",
@@ -1081,7 +1224,8 @@
     "cat": "người",
     "example": "她是一名编辑。",
     "example_vi": "Cô ấy là một biên tập viên.",
-    "me": "editor"
+    "me": "editor",
+    "pos": "Danh từ"
   },
   {
     "w": "评论",
@@ -1089,21 +1233,24 @@
     "m": "bình luận, nhận xét",
     "cat": "hành động",
     "example": "很多人在这篇文章下面评论。",
-    "example_vi": "Rất nhiều người bình luận dưới bài viết này."
+    "example_vi": "Rất nhiều người bình luận dưới bài viết này.",
+    "pos": "Động từ"
   },
   {
     "w": "舆论",
     "p": "yú lùn",
     "m": "dư luận",
     "cat": "xã hội",
-    "me": "public opinion"
+    "me": "public opinion",
+    "pos": "Danh từ"
   },
   {
     "w": "网络",
     "p": "wǎng luò",
     "m": "mạng lưới, internet",
     "cat": "công nghệ",
-    "me": "network, internet"
+    "me": "network, internet",
+    "pos": "Danh từ"
   },
   {
     "w": "社交",
@@ -1112,14 +1259,16 @@
     "cat": "xã hội",
     "example": "他喜欢参加社交活动。",
     "example_vi": "Anh ấy thích tham gia hoạt động giao tiếp xã hội.",
-    "me": "social communication"
+    "me": "social communication",
+    "pos": "Động từ"
   },
   {
     "w": "平台",
     "p": "píng tái",
     "m": "nền tảng",
     "cat": "công nghệ",
-    "me": "foundation, platform"
+    "me": "foundation, platform",
+    "pos": "Danh từ"
   },
   {
     "w": "直播",
@@ -1128,7 +1277,8 @@
     "cat": "công nghệ",
     "example": "她正在直播做饭。",
     "example_vi": "Cô ấy đang phát sóng trực tiếp nấu ăn.",
-    "me": "live broadcast"
+    "me": "live broadcast",
+    "pos": "Danh từ"
   },
   {
     "w": "博主",
@@ -1137,7 +1287,8 @@
     "cat": "người",
     "example": "她是一位美食博主。",
     "example_vi": "Cô ấy là một blogger ẩm thực.",
-    "me": "blogger"
+    "me": "blogger",
+    "pos": "Danh từ"
   },
   {
     "w": "粉丝",
@@ -1146,27 +1297,31 @@
     "cat": "người",
     "example": "他有很多粉丝。",
     "example_vi": "Anh ấy có rất nhiều người hâm mộ.",
-    "me": "fan"
+    "me": "fan",
+    "pos": "Danh từ"
   },
   {
     "w": "内容",
     "p": "nèi róng",
     "m": "nội dung",
     "cat": "học thuật",
-    "me": "content"
+    "me": "content",
+    "pos": "Danh từ"
   },
   {
     "w": "影响力",
     "p": "yǐng xiǎng lì",
     "m": "tầm ảnh hưởng",
     "cat": "xã hội",
-    "me": "sphere of influence"
+    "me": "sphere of influence",
+    "pos": "Danh từ"
   },
   {
     "w": "流行",
     "p": "liú xíng",
     "m": "thịnh hành, phổ biến",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "pos": "Tính từ"
   },
   {
     "w": "趋势",
@@ -1175,28 +1330,32 @@
     "cat": "học thuật",
     "example": "这是未来发展的趋势。",
     "example_vi": "Đây là xu hướng phát triển trong tương lai.",
-    "me": "trend"
+    "me": "trend",
+    "pos": "Danh từ"
   },
   {
     "w": "环境",
     "p": "huán jìng",
     "m": "môi trường",
     "cat": "thiên nhiên",
-    "me": "environment"
+    "me": "environment",
+    "pos": "Danh từ"
   },
   {
     "w": "生态",
     "p": "shēng tài",
     "m": "sinh thái",
     "cat": "thiên nhiên",
-    "me": "ecology"
+    "me": "ecology",
+    "pos": "Danh từ"
   },
   {
     "w": "污染",
     "p": "wū rǎn",
     "m": "ô nhiễm",
     "cat": "thiên nhiên",
-    "me": "pollution"
+    "me": "pollution",
+    "pos": "Danh từ"
   },
   {
     "w": "排放",
@@ -1205,21 +1364,24 @@
     "cat": "thiên nhiên",
     "example": "工厂需要控制排放。",
     "example_vi": "Nhà máy cần kiểm soát phát thải.",
-    "me": "emission, discharge"
+    "me": "emission, discharge",
+    "pos": "Danh từ"
   },
   {
     "w": "温室效应",
     "p": "wēn shì xiào yìng",
     "m": "hiệu ứng nhà kính",
     "cat": "thiên nhiên",
-    "me": "greenhouse effect"
+    "me": "greenhouse effect",
+    "pos": "Danh từ"
   },
   {
     "w": "气候变化",
     "p": "qì hòu biàn huà",
     "m": "biến đổi khí hậu",
     "cat": "thiên nhiên",
-    "me": "climate change"
+    "me": "climate change",
+    "pos": "Động từ"
   },
   {
     "w": "全球暖化",
@@ -1228,34 +1390,39 @@
     "cat": "thiên nhiên",
     "example": "全球暖化影响了气候。",
     "example_vi": "Nóng lên toàn cầu đã ảnh hưởng đến khí hậu.",
-    "me": "global warming"
+    "me": "global warming",
+    "pos": "Danh từ"
   },
   {
     "w": "碳排放",
     "p": "tàn pái fàng",
     "m": "phát thải carbon",
     "cat": "thiên nhiên",
-    "me": "carbon emissions"
+    "me": "carbon emissions",
+    "pos": "Danh từ"
   },
   {
     "w": "可持续",
     "p": "kě chí xù",
     "m": "bền vững",
     "cat": "tính từ",
-    "me": "sustainable"
+    "me": "sustainable",
+    "pos": "Tính từ"
   },
   {
     "w": "绿色",
     "p": "lǜ sè",
     "m": "xanh lá, thân thiện môi trường",
-    "cat": "màu sắc"
+    "cat": "màu sắc",
+    "pos": "Danh từ"
   },
   {
     "w": "节能",
     "p": "jié néng",
     "m": "tiết kiệm năng lượng",
     "cat": "hành động",
-    "me": "energy saving"
+    "me": "energy saving",
+    "pos": "Động từ"
   },
   {
     "w": "减排",
@@ -1264,7 +1431,8 @@
     "cat": "hành động",
     "example": "各国承诺减排。",
     "example_vi": "Các nước cam kết giảm phát thải.",
-    "me": "reduce emissions"
+    "me": "reduce emissions",
+    "pos": "Động từ"
   },
   {
     "w": "回收",
@@ -1273,7 +1441,8 @@
     "cat": "hành động",
     "example": "请把瓶子回收利用。",
     "example_vi": "Xin hãy tái chế sử dụng chai lọ.",
-    "me": "recycle, reclaim"
+    "me": "recycle, reclaim",
+    "pos": "Động từ"
   },
   {
     "w": "废弃物",
@@ -1282,14 +1451,16 @@
     "cat": "thiên nhiên",
     "example": "工厂产生了大量废弃物。",
     "example_vi": "Nhà máy đã tạo ra một lượng lớn chất thải.",
-    "me": "waste"
+    "me": "waste",
+    "pos": "Danh từ"
   },
   {
     "w": "生物多样性",
     "p": "shēng wù duō yàng xìng",
     "m": "đa dạng sinh học",
     "cat": "thiên nhiên",
-    "me": "biodiversity"
+    "me": "biodiversity",
+    "pos": "Danh từ"
   },
   {
     "w": "濒危",
@@ -1298,14 +1469,16 @@
     "cat": "tính từ",
     "example": "这种动物已经濒危。",
     "example_vi": "Loài động vật này đã có nguy cơ tuyệt chủng.",
-    "me": "endangered"
+    "me": "endangered",
+    "pos": "Tính từ"
   },
   {
     "w": "保护",
     "p": "bǎo hù",
     "m": "bảo vệ",
     "cat": "hành động",
-    "me": "protect"
+    "me": "protect",
+    "pos": "Động từ"
   },
   {
     "w": "自然资源",
@@ -1314,7 +1487,8 @@
     "cat": "thiên nhiên",
     "example": "我们要合理开发自然资源。",
     "example_vi": "Chúng ta phải khai thác hợp lý tài nguyên thiên nhiên.",
-    "me": "natural resources"
+    "me": "natural resources",
+    "pos": "Danh từ"
   },
   {
     "w": "森林砍伐",
@@ -1322,7 +1496,8 @@
     "m": "nạn phá rừng",
     "cat": "thiên nhiên",
     "example": "森林砍伐是全球性问题。",
-    "example_vi": "Phá rừng là vấn đề mang tính toàn cầu."
+    "example_vi": "Phá rừng là vấn đề mang tính toàn cầu.",
+    "pos": "Danh từ"
   },
   {
     "w": "水资源",
@@ -1331,41 +1506,47 @@
     "cat": "thiên nhiên",
     "example": "我们要节约水资源。",
     "example_vi": "Chúng ta phải tiết kiệm tài nguyên nước.",
-    "me": "water resources"
+    "me": "water resources",
+    "pos": "Danh từ"
   },
   {
     "w": "能源",
     "p": "néng yuán",
     "m": "năng lượng",
     "cat": "học thuật",
-    "me": "energy"
+    "me": "energy",
+    "pos": "Danh từ"
   },
   {
     "w": "可再生",
     "p": "kě zài shēng",
     "m": "có thể tái tạo",
     "cat": "tính từ",
-    "me": "renewable"
+    "me": "renewable",
+    "pos": "Tính từ"
   },
   {
     "w": "太阳能",
     "p": "tài yáng néng",
     "m": "năng lượng mặt trời",
     "cat": "học thuật",
-    "me": "solar energy"
+    "me": "solar energy",
+    "pos": "Danh từ"
   },
   {
     "w": "风能",
     "p": "fēng néng",
     "m": "năng lượng gió",
     "cat": "học thuật",
-    "me": "wind energy"
+    "me": "wind energy",
+    "pos": "Danh từ"
   },
   {
     "w": "旅行",
     "p": "lǚ xíng",
     "m": "đi lại, du lịch",
-    "cat": "địa điểm"
+    "cat": "địa điểm",
+    "pos": "Động từ"
   },
   {
     "w": "观光",
@@ -1374,14 +1555,16 @@
     "cat": "hành động",
     "example": "游客们来这里观光。",
     "example_vi": "Du khách đến đây tham quan.",
-    "me": "sightseeing"
+    "me": "sightseeing",
+    "pos": "Động từ"
   },
   {
     "w": "探索",
     "p": "tàn suǒ",
     "m": "khám phá",
     "cat": "hành động",
-    "me": "discover"
+    "me": "discover",
+    "pos": "Động từ"
   },
   {
     "w": "冒险",
@@ -1390,14 +1573,16 @@
     "cat": "hành động",
     "example": "他喜欢冒险活动。",
     "example_vi": "Anh ấy thích hoạt động mạo hiểm.",
-    "me": "adventure, take risks"
+    "me": "adventure, take risks",
+    "pos": "Động từ"
   },
   {
     "w": "风景",
     "p": "fēng jǐng",
     "m": "phong cảnh",
     "cat": "thiên nhiên",
-    "me": "scenery"
+    "me": "scenery",
+    "pos": "Danh từ"
   },
   {
     "w": "海滩",
@@ -1406,7 +1591,8 @@
     "cat": "địa điểm",
     "example": "我们在海滩上散步。",
     "example_vi": "Chúng tôi đi dạo trên bãi biển.",
-    "me": "beach"
+    "me": "beach",
+    "pos": "Danh từ"
   },
   {
     "w": "山岳",
@@ -1415,7 +1601,8 @@
     "cat": "thiên nhiên",
     "example": "这里群山岳立。",
     "example_vi": "Nơi đây núi non trùng điệp.",
-    "me": "mountains"
+    "me": "mountains",
+    "pos": "Danh từ"
   },
   {
     "w": "峡谷",
@@ -1424,7 +1611,8 @@
     "cat": "thiên nhiên",
     "example": "这个峡谷风景壮观。",
     "example_vi": "Hẻm núi này có phong cảnh hùng vĩ.",
-    "me": "canyon, valley"
+    "me": "canyon, valley",
+    "pos": "Danh từ"
   },
   {
     "w": "瀑布",
@@ -1433,7 +1621,8 @@
     "cat": "thiên nhiên",
     "example": "这条瀑布很壮观。",
     "example_vi": "Thác nước này rất hùng vĩ.",
-    "me": "waterfall"
+    "me": "waterfall",
+    "pos": "Danh từ"
   },
   {
     "w": "湖泊",
@@ -1442,20 +1631,23 @@
     "cat": "thiên nhiên",
     "example": "这个地区有很多湖泊。",
     "example_vi": "Khu vực này có rất nhiều hồ.",
-    "me": "lake"
+    "me": "lake",
+    "pos": "Danh từ"
   },
   {
     "w": "草原",
     "p": "cǎo yuán",
     "m": "thảo nguyên",
-    "cat": "thiên nhiên"
+    "cat": "thiên nhiên",
+    "pos": "Danh từ"
   },
   {
     "w": "沙漠",
     "p": "shā mò",
     "m": "sa mạc",
     "cat": "thiên nhiên",
-    "me": "desert"
+    "me": "desert",
+    "pos": "Danh từ"
   },
   {
     "w": "热带",
@@ -1464,7 +1656,8 @@
     "cat": "thiên nhiên",
     "example": "这里属于热带气候。",
     "example_vi": "Nơi đây thuộc khí hậu nhiệt đới.",
-    "me": "tropical"
+    "me": "tropical",
+    "pos": "Danh từ"
   },
   {
     "w": "寒带",
@@ -1473,49 +1666,56 @@
     "cat": "thiên nhiên",
     "example": "寒带地区非常寒冷。",
     "example_vi": "Khu vực hàn đới rất lạnh giá.",
-    "me": "frigid zone"
+    "me": "frigid zone",
+    "pos": "Danh từ"
   },
   {
     "w": "民族",
     "p": "mín zú",
     "m": "dân tộc",
     "cat": "văn hóa",
-    "me": "ethnic group, nation"
+    "me": "ethnic group, nation",
+    "pos": "Danh từ"
   },
   {
     "w": "文化交流",
     "p": "wén huà jiāo liú",
     "m": "giao lưu văn hóa",
     "cat": "văn hóa",
-    "me": "cultural exchange"
+    "me": "cultural exchange",
+    "pos": "Động từ"
   },
   {
     "w": "跨文化",
     "p": "kuà wén huà",
     "m": "xuyên văn hóa",
     "cat": "văn hóa",
-    "me": "cross-cultural"
+    "me": "cross-cultural",
+    "pos": "Danh từ"
   },
   {
     "w": "价值观",
     "p": "jià zhí guān",
     "m": "quan niệm giá trị",
     "cat": "văn hóa",
-    "me": "value concept"
+    "me": "value concept",
+    "pos": "Danh từ"
   },
   {
     "w": "礼仪",
     "p": "lǐ yí",
     "m": "lễ nghi, phép tắc",
     "cat": "văn hóa",
-    "me": "etiquette, protocol"
+    "me": "etiquette, protocol",
+    "pos": "Danh từ"
   },
   {
     "w": "仪式",
     "p": "yí shì",
     "m": "nghi lễ",
     "cat": "văn hóa",
-    "me": "ritual, ceremony"
+    "me": "ritual, ceremony",
+    "pos": "Danh từ"
   },
   {
     "w": "祭祀",
@@ -1524,7 +1724,8 @@
     "cat": "văn hóa",
     "example": "古人常常祭祀祖先。",
     "example_vi": "Người xưa thường xuyên tế lễ tổ tiên.",
-    "me": "ritual sacrifice, worship"
+    "me": "ritual sacrifice, worship",
+    "pos": "Danh từ"
   },
   {
     "w": "传说",
@@ -1533,7 +1734,8 @@
     "cat": "văn hóa",
     "example": "这个地方有很多传说。",
     "example_vi": "Nơi này có rất nhiều truyền thuyết.",
-    "me": "legend"
+    "me": "legend",
+    "pos": "Danh từ"
   },
   {
     "w": "神话",
@@ -1542,21 +1744,24 @@
     "cat": "văn hóa",
     "example": "这是一个古老的神话故事。",
     "example_vi": "Đây là một câu chuyện thần thoại cổ xưa.",
-    "me": "myth"
+    "me": "myth",
+    "pos": "Danh từ"
   },
   {
     "w": "历史",
     "p": "lì shǐ",
     "m": "lịch sử",
     "cat": "học thuật",
-    "me": "historical"
+    "me": "historical",
+    "pos": "Danh từ"
   },
   {
     "w": "朝代",
     "p": "cháo dài",
     "m": "triều đại",
     "cat": "học thuật",
-    "me": "dynasty"
+    "me": "dynasty",
+    "pos": "Danh từ"
   },
   {
     "w": "皇帝",
@@ -1565,14 +1770,16 @@
     "cat": "người",
     "example": "这是古代皇帝的宫殿。",
     "example_vi": "Đây là cung điện của hoàng đế cổ đại.",
-    "me": "emperor"
+    "me": "emperor",
+    "pos": "Danh từ"
   },
   {
     "w": "宫殿",
     "p": "gōng diàn",
     "m": "cung điện",
     "cat": "địa điểm",
-    "me": "palace"
+    "me": "palace",
+    "pos": "Danh từ"
   },
   {
     "w": "城墙",
@@ -1581,7 +1788,8 @@
     "cat": "địa điểm",
     "example": "这座城墙有几百年历史。",
     "example_vi": "Bức thành lũy này có lịch sử vài trăm năm.",
-    "me": "fortress, rampart"
+    "me": "fortress, rampart",
+    "pos": "Danh từ"
   },
   {
     "w": "古典",
@@ -1590,83 +1798,95 @@
     "cat": "tính từ",
     "example": "她喜欢古典音乐。",
     "example_vi": "Cô ấy thích âm nhạc cổ điển.",
-    "me": "classical"
+    "me": "classical",
+    "pos": "Tính từ"
   },
   {
     "w": "现代",
     "p": "xiàn dài",
     "m": "hiện đại",
     "cat": "tính từ",
-    "me": "modern"
+    "me": "modern",
+    "pos": "Tính từ"
   },
   {
     "w": "当代",
     "p": "dāng dài",
     "m": "đương đại",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "pos": "Tính từ"
   },
   {
     "w": "发展",
     "p": "fā zhǎn",
     "m": "phát triển",
     "cat": "hành động",
-    "me": "develop"
+    "me": "develop",
+    "pos": "Động từ"
   },
   {
     "w": "进步",
     "p": "jìn bù",
     "m": "tiến bộ",
     "cat": "hành động",
-    "me": "progress"
+    "me": "progress",
+    "pos": "Động từ"
   },
   {
     "w": "改革",
     "p": "gǎi gé",
     "m": "cải cách",
     "cat": "chính trị",
-    "me": "reform"
+    "me": "reform",
+    "pos": "Danh từ"
   },
   {
     "w": "创新",
     "p": "chuàng xīn",
     "m": "đổi mới, sáng tạo",
     "cat": "học thuật",
-    "me": "innovate"
+    "me": "innovate",
+    "pos": "Động từ"
   },
   {
     "w": "技术",
     "p": "jì shù",
     "m": "kỹ thuật, công nghệ",
     "cat": "công nghệ",
-    "me": "technique, technology"
+    "me": "technique, technology",
+    "pos": "Danh từ"
   },
   {
     "w": "数字化",
     "p": "shù zì huà",
     "m": "số hóa",
     "cat": "công nghệ",
-    "me": "digitalize"
+    "me": "digitalize",
+    "pos": "Danh từ"
   },
   {
     "w": "人工智能",
     "p": "rén gōng zhì néng",
     "m": "trí tuệ nhân tạo",
     "cat": "công nghệ",
-    "me": "artificial intelligence"
+    "me": "artificial intelligence",
+    "pos": "Danh từ"
   },
   {
     "w": "大数据",
     "p": "dà shù jù",
     "m": "dữ liệu lớn",
     "cat": "công nghệ",
-    "me": "big data"
+    "me": "big data",
+    "pos": "Danh từ"
   },
   {
     "w": "互联网",
     "p": "hù lián wǎng",
     "m": "internet",
     "cat": "công nghệ",
-    "me": "the internet"
+    "me": "the internet",
+    "pos": "Danh từ"
   },
   {
     "w": "移动支付",
@@ -1675,7 +1895,8 @@
     "cat": "công nghệ",
     "example": "现在移动支付很普及。",
     "example_vi": "Hiện nay thanh toán di động rất phổ biến.",
-    "me": "mobile payment"
+    "me": "mobile payment",
+    "pos": "Động từ"
   },
   {
     "w": "电商",
@@ -1684,89 +1905,102 @@
     "cat": "kinh doanh",
     "example": "他从事电商行业。",
     "example_vi": "Anh ấy làm việc trong ngành thương mại điện tử.",
-    "me": "e-commerce"
+    "me": "e-commerce",
+    "pos": "Động từ"
   },
   {
     "w": "创业",
     "p": "chuàng yè",
     "m": "khởi nghiệp",
     "cat": "kinh doanh",
-    "me": "start a business"
+    "me": "start a business",
+    "pos": "Danh từ"
   },
   {
     "w": "投资",
     "p": "tóu zī",
     "m": "đầu tư",
     "cat": "kinh doanh",
-    "me": "investment"
+    "me": "investment",
+    "pos": "Động từ"
   },
   {
     "w": "融资",
     "p": "róng zī",
     "m": "huy động vốn",
     "cat": "kinh doanh",
-    "me": "raise capital"
+    "me": "raise capital",
+    "pos": "Danh từ"
   },
   {
     "w": "市场",
     "p": "shì chǎng",
     "m": "thị trường",
-    "cat": "kinh doanh"
+    "cat": "kinh doanh",
+    "pos": "Danh từ"
   },
   {
     "w": "品牌",
     "p": "pǐn pái",
     "m": "thương hiệu",
     "cat": "kinh doanh",
-    "me": "brand"
+    "me": "brand",
+    "pos": "Động từ"
   },
   {
     "w": "营销",
     "p": "yíng xiāo",
     "m": "tiếp thị",
     "cat": "kinh doanh",
-    "me": "marketing"
+    "me": "marketing",
+    "pos": "Danh từ"
   },
   {
     "w": "消费",
     "p": "xiāo fèi",
     "m": "tiêu dùng",
     "cat": "tiền bạc",
-    "me": "consumption"
+    "me": "consumption",
+    "pos": "Danh từ"
   },
   {
     "w": "经济",
     "p": "jīng jì",
     "m": "kinh tế",
     "cat": "kinh doanh",
-    "me": "economy"
+    "me": "economy",
+    "pos": "Danh từ"
   },
   {
     "w": "贸易",
     "p": "mào yì",
     "m": "mậu dịch, thương mại",
-    "cat": "kinh doanh"
+    "cat": "kinh doanh",
+    "pos": "Động từ"
   },
   {
     "w": "出口",
     "p": "chū kǒu",
     "m": "xuất khẩu, lối ra",
     "cat": "kinh doanh",
-    "me": "export; exit"
+    "me": "export; exit",
+    "pos": "Danh từ"
   },
   {
     "w": "进口",
     "p": "jìn kǒu",
     "m": "nhập khẩu",
     "cat": "kinh doanh",
-    "me": "import"
+    "me": "import",
+    "pos": "Danh từ"
   },
   {
     "w": "全球化",
     "p": "quán qiú huà",
     "m": "toàn cầu hóa",
     "cat": "xã hội",
-    "me": "globalization"
+    "me": "globalization",
+    "pos": "Danh từ"
   },
   {
     "w": "国际化",
@@ -1775,91 +2009,104 @@
     "cat": "xã hội",
     "example": "公司正在推进国际化。",
     "example_vi": "Công ty đang thúc đẩy quốc tế hóa.",
-    "me": "internationalize"
+    "me": "internationalize",
+    "pos": "Danh từ"
   },
   {
     "w": "外交",
     "p": "wài jiāo",
     "m": "ngoại giao",
     "cat": "chính trị",
-    "me": "diplomacy"
+    "me": "diplomacy",
+    "pos": "Danh từ"
   },
   {
     "w": "合同",
     "p": "hé tong",
     "m": "hợp đồng",
     "cat": "kinh doanh",
-    "me": "contract"
+    "me": "contract",
+    "pos": "Danh từ"
   },
   {
     "w": "谈判",
     "p": "tán pàn",
     "m": "đàm phán",
     "cat": "hành động",
-    "me": "negotiate"
+    "me": "negotiate",
+    "pos": "Động từ"
   },
   {
     "w": "协议",
     "p": "xié yì",
     "m": "thỏa thuận, hiệp định",
     "cat": "học thuật",
-    "me": "agreement"
+    "me": "agreement",
+    "pos": "Danh từ"
   },
   {
     "w": "政府",
     "p": "zhèng fǔ",
     "m": "chính phủ",
     "cat": "chính trị",
-    "me": "government"
+    "me": "government",
+    "pos": "Danh từ"
   },
   {
     "w": "政策",
     "p": "zhèng cè",
     "m": "chính sách",
     "cat": "chính trị",
-    "me": "policy"
+    "me": "policy",
+    "pos": "Danh từ"
   },
   {
     "w": "法律",
     "p": "fǎ lǜ",
     "m": "pháp luật",
     "cat": "học thuật",
-    "me": "law"
+    "me": "law",
+    "pos": "Danh từ"
   },
   {
     "w": "规定",
     "p": "guī dìng",
     "m": "quy định",
     "cat": "học thuật",
-    "me": "regulation"
+    "me": "regulation",
+    "pos": "Danh từ"
   },
   {
     "w": "权利",
     "p": "quán lì",
     "m": "quyền lợi",
     "cat": "xã hội",
-    "me": "rights, benefits"
+    "me": "rights, benefits",
+    "pos": "Danh từ"
   },
   {
     "w": "义务",
     "p": "yì wù",
     "m": "nghĩa vụ",
     "cat": "xã hội",
-    "me": "obligation"
+    "me": "obligation",
+    "pos": "Danh từ"
   },
   {
     "w": "民主",
     "p": "mín zhǔ",
     "m": "dân chủ",
     "cat": "chính trị",
-    "me": "democracy"
+    "me": "democracy",
+    "pos": "Danh từ"
   },
   {
     "w": "自由",
     "p": "zì yóu",
     "m": "tự do",
     "cat": "tính từ",
-    "me": "freedom"
+    "me": "freedom",
+    "pos": "Tính từ"
   },
   {
     "w": "人权",
@@ -1868,55 +2115,63 @@
     "cat": "xã hội",
     "example": "我们要尊重人权。",
     "example_vi": "Chúng ta phải tôn trọng nhân quyền.",
-    "me": "human rights"
+    "me": "human rights",
+    "pos": "Danh từ"
   },
   {
     "w": "教育",
     "p": "jiào yù",
     "m": "giáo dục",
     "cat": "học tập",
-    "me": "education"
+    "me": "education",
+    "pos": "Danh từ"
   },
   {
     "w": "培训",
     "p": "péi xùn",
     "m": "đào tạo, huấn luyện",
     "cat": "học tập",
-    "me": "training"
+    "me": "training",
+    "pos": "Danh từ"
   },
   {
     "w": "素质",
     "p": "sù zhì",
     "m": "phẩm chất, năng lực",
     "cat": "học tập",
-    "me": "quality, capability"
+    "me": "quality, capability",
+    "pos": "Danh từ"
   },
   {
     "w": "技能",
     "p": "jì néng",
     "m": "kỹ năng",
     "cat": "học tập",
-    "me": "skill"
+    "me": "skill",
+    "pos": "Danh từ"
   },
   {
     "w": "知识",
     "p": "zhī shi",
     "m": "kiến thức",
     "cat": "học tập",
-    "me": "knowledge"
+    "me": "knowledge",
+    "pos": "Danh từ"
   },
   {
     "w": "经验",
     "p": "jīng yàn",
     "m": "kinh nghiệm",
     "cat": "học tập",
-    "me": "experience"
+    "me": "experience",
+    "pos": "Danh từ"
   },
   {
     "w": "理论",
     "p": "lǐ lùn",
     "m": "lý luận, lý thuyết",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "pos": "Danh từ"
   },
   {
     "w": "实践",
@@ -1925,165 +2180,189 @@
     "cat": "hành động",
     "example": "理论要通过实践检验。",
     "example_vi": "Lý thuyết phải được kiểm nghiệm qua thực hành.",
-    "me": "practice"
+    "me": "practice",
+    "pos": "Động từ"
   },
   {
     "w": "研究",
     "p": "yán jiū",
     "m": "nghiên cứu",
     "cat": "học thuật",
-    "me": "research"
+    "me": "research",
+    "pos": "Động từ"
   },
   {
     "w": "学术",
     "p": "xué shù",
     "m": "học thuật",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "pos": "Động từ"
   },
   {
     "w": "论文",
     "p": "lùn wén",
     "m": "luận văn, bài báo khoa học",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "pos": "Danh từ"
   },
   {
     "w": "科学",
     "p": "kē xué",
     "m": "khoa học",
     "cat": "học thuật",
-    "me": "scientific"
+    "me": "scientific",
+    "pos": "Danh từ"
   },
   {
     "w": "实验",
     "p": "shí yàn",
     "m": "thí nghiệm",
     "cat": "học thuật",
-    "me": "experiment"
+    "me": "experiment",
+    "pos": "Danh từ"
   },
   {
     "w": "数据",
     "p": "shù jù",
     "m": "dữ liệu",
     "cat": "học thuật",
-    "me": "data"
+    "me": "data",
+    "pos": "Danh từ"
   },
   {
     "w": "分析",
     "p": "fēn xī",
     "m": "phân tích",
     "cat": "hành động",
-    "me": "analyze"
+    "me": "analyze",
+    "pos": "Động từ"
   },
   {
     "w": "结论",
     "p": "jié lùn",
     "m": "kết luận",
     "cat": "học thuật",
-    "me": "conclusion"
+    "me": "conclusion",
+    "pos": "Động từ"
   },
   {
     "w": "假设",
     "p": "jiǎ shè",
     "m": "giả thuyết",
     "cat": "học thuật",
-    "me": "hypothesis"
+    "me": "hypothesis",
+    "pos": "Danh từ"
   },
   {
     "w": "证明",
     "p": "zhèng míng",
     "m": "chứng minh",
     "cat": "hành động",
-    "me": "prove"
+    "me": "prove",
+    "pos": "Động từ"
   },
   {
     "w": "数学",
     "p": "shù xué",
     "m": "toán học",
     "cat": "học thuật",
-    "me": "mathematics"
+    "me": "mathematics",
+    "pos": "Danh từ"
   },
   {
     "w": "物理",
     "p": "wù lǐ",
     "m": "vật lý",
     "cat": "học thuật",
-    "me": "physical"
+    "me": "physical",
+    "pos": "Danh từ"
   },
   {
     "w": "化学",
     "p": "huà xué",
     "m": "hóa học",
     "cat": "học thuật",
-    "me": "chemistry"
+    "me": "chemistry",
+    "pos": "Danh từ"
   },
   {
     "w": "生物",
     "p": "shēng wù",
     "m": "sinh học",
     "cat": "học thuật",
-    "me": "biology"
+    "me": "biology",
+    "pos": "Danh từ"
   },
   {
     "w": "哲学",
     "p": "zhé xué",
     "m": "triết học",
     "cat": "học thuật",
-    "me": "philosophy"
+    "me": "philosophy",
+    "pos": "Danh từ"
   },
   {
     "w": "心理",
     "p": "xīn lǐ",
     "m": "tâm lý",
     "cat": "học thuật",
-    "me": "psychology"
+    "me": "psychology",
+    "pos": "Danh từ"
   },
   {
     "w": "态度",
     "p": "tài dù",
     "m": "thái độ",
     "cat": "tính từ",
-    "me": "attitude"
+    "me": "attitude",
+    "pos": "Danh từ"
   },
   {
     "w": "性格",
     "p": "xìng gé",
     "m": "tính cách",
     "cat": "tính từ",
-    "me": "personality"
+    "me": "personality",
+    "pos": "Tính từ"
   },
   {
     "w": "能力",
     "p": "néng lì",
     "m": "năng lực",
     "cat": "tính từ",
-    "me": "competence"
+    "me": "competence",
+    "pos": "Tính từ"
   },
   {
     "w": "潜力",
     "p": "qián lì",
     "m": "tiềm năng",
     "cat": "tính từ",
-    "me": "potential"
+    "me": "potential",
+    "pos": "Danh từ"
   },
   {
     "w": "努力",
     "p": "nǔ lì",
     "m": "cố gắng, nỗ lực",
     "cat": "hành động",
-    "me": "make an effort"
+    "me": "make an effort",
+    "pos": "Động từ"
   },
   {
     "w": "坚持",
     "p": "jiān chí",
     "m": "kiên trì",
-    "cat": "hành động"
+    "cat": "hành động",
+    "pos": "Động từ"
   },
   {
     "w": "放弃",
     "p": "fàng qì",
     "m": "từ bỏ",
     "cat": "hành động",
-    "me": "give up"
+    "me": "give up",
+    "pos": "Động từ"
   },
   {
     "w": "进取",
@@ -2092,56 +2371,64 @@
     "cat": "tính từ",
     "example": "他是一个积极进取的人。",
     "example_vi": "Anh ấy là một người tích cực cầu tiến.",
-    "me": "eager to improve, aspiring"
+    "me": "eager to improve, aspiring",
+    "pos": "Tính từ"
   },
   {
     "w": "积极",
     "p": "jī jí",
     "m": "tích cực",
     "cat": "tính từ",
-    "me": "positive"
+    "me": "positive",
+    "pos": "Tính từ"
   },
   {
     "w": "消极",
     "p": "xiāo jí",
     "m": "tiêu cực",
     "cat": "tính từ",
-    "me": "negative"
+    "me": "negative",
+    "pos": "Tính từ"
   },
   {
     "w": "乐观",
     "p": "lè guān",
     "m": "lạc quan",
     "cat": "tính từ",
-    "me": "optimistic"
+    "me": "optimistic",
+    "pos": "Tính từ"
   },
   {
     "w": "悲观",
     "p": "bēi guān",
     "m": "bi quan",
     "cat": "tính từ",
-    "me": "pessimistic"
+    "me": "pessimistic",
+    "pos": "Tính từ"
   },
   {
     "w": "理性",
     "p": "lǐ xìng",
     "m": "lý tính, lý trí",
     "cat": "tính từ",
-    "me": "reason, rationality"
+    "me": "reason, rationality",
+    "pos": "Tính từ"
   },
   {
     "w": "感性",
     "p": "gǎn xìng",
     "m": "cảm tính",
     "cat": "tính từ",
-    "me": "emotional, sentimental"
+    "me": "emotional, sentimental",
+    "pos": "Tính từ"
   },
   {
     "w": "成熟",
     "p": "chéng shú",
     "m": "trưởng thành, chín chắn",
     "cat": "tính từ",
-    "me": "mature"
+    "me": "mature",
+    "pos": "Tính từ"
   },
   {
     "w": "幼稚",
@@ -2150,14 +2437,16 @@
     "cat": "tính từ",
     "example": "他的想法有点幼稚。",
     "example_vi": "Suy nghĩ của anh ấy hơi ấu trĩ.",
-    "me": "childish, naive"
+    "me": "childish, naive",
+    "pos": "Tính từ"
   },
   {
     "w": "谦虚",
     "p": "qiān xū",
     "m": "khiêm tốn",
     "cat": "tính từ",
-    "me": "humble"
+    "me": "humble",
+    "pos": "Tính từ"
   },
   {
     "w": "傲慢",
@@ -2166,14 +2455,16 @@
     "cat": "tính từ",
     "example": "他的态度很傲慢。",
     "example_vi": "Thái độ của anh ấy rất kiêu ngạo.",
-    "me": "arrogant"
+    "me": "arrogant",
+    "pos": "Tính từ"
   },
   {
     "w": "诚实",
     "p": "chéng shí",
     "m": "trung thực, thành thật",
     "cat": "tính từ",
-    "me": "honest, truthful"
+    "me": "honest, truthful",
+    "pos": "Tính từ"
   },
   {
     "w": "虚伪",
@@ -2182,7 +2473,8 @@
     "cat": "tính từ",
     "example": "他这个人很虚伪。",
     "example_vi": "Người này rất giả dối.",
-    "me": "false, hypocritical"
+    "me": "false, hypocritical",
+    "pos": "Tính từ"
   },
   {
     "w": "慷慨",
@@ -2191,7 +2483,8 @@
     "cat": "tính từ",
     "example": "他为人很慷慨。",
     "example_vi": "Anh ấy đối xử với người khác rất hào phóng.",
-    "me": "generous"
+    "me": "generous",
+    "pos": "Tính từ"
   },
   {
     "w": "吝啬",
@@ -2200,40 +2493,46 @@
     "cat": "tính từ",
     "example": "他对钱很吝啬。",
     "example_vi": "Anh ấy rất ki bo về tiền bạc.",
-    "me": "stingy, miserly"
+    "me": "stingy, miserly",
+    "pos": "Tính từ"
   },
   {
     "w": "勤奋",
     "p": "qín fèn",
     "m": "chăm chỉ, siêng năng",
     "cat": "tính từ",
-    "me": "hardworking, diligent"
+    "me": "hardworking, diligent",
+    "pos": "Tính từ"
   },
   {
     "w": "懒惰",
     "p": "lǎn duò",
     "m": "lười biếng",
     "cat": "tính từ",
-    "me": "lazy"
+    "me": "lazy",
+    "pos": "Tính từ"
   },
   {
     "w": "细心",
     "p": "xì xīn",
     "m": "cẩn thận, tỉ mỉ",
     "cat": "tính từ",
-    "me": "careful, meticulous"
+    "me": "careful, meticulous",
+    "pos": "Tính từ"
   },
   {
     "w": "粗心",
     "p": "cū xīn",
     "m": "cẩu thả, bất cẩn",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "pos": "Tính từ"
   },
   {
     "w": "善良",
     "p": "shàn liáng",
     "m": "tốt bụng, lương thiện",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "pos": "Tính từ"
   },
   {
     "w": "残忍",
@@ -2242,14 +2541,16 @@
     "cat": "tính từ",
     "example": "这种行为很残忍。",
     "example_vi": "Hành vi này rất tàn nhẫn.",
-    "me": "cruel, merciless"
+    "me": "cruel, merciless",
+    "pos": "Tính từ"
   },
   {
     "w": "勇敢",
     "p": "yǒng gǎn",
     "m": "dũng cảm",
     "cat": "tính từ",
-    "me": "brave"
+    "me": "brave",
+    "pos": "Tính từ"
   },
   {
     "w": "懦弱",
@@ -2258,14 +2559,16 @@
     "cat": "tính từ",
     "example": "他性格懦弱。",
     "example_vi": "Tính cách của anh ấy hèn nhát.",
-    "me": "cowardly, weak-willed"
+    "me": "cowardly, weak-willed",
+    "pos": "Tính từ"
   },
   {
     "w": "智慧",
     "p": "zhì huì",
     "m": "trí tuệ, sự khôn ngoan",
     "cat": "tính từ",
-    "me": "wisdom"
+    "me": "wisdom",
+    "pos": "Tính từ"
   },
   {
     "w": "愚蠢",
@@ -2274,61 +2577,70 @@
     "cat": "tính từ",
     "example": "这是一个愚蠢的决定。",
     "example_vi": "Đây là một quyết định ngu ngốc.",
-    "me": "foolish, stupid"
+    "me": "foolish, stupid",
+    "pos": "Tính từ"
   },
   {
     "w": "幸福",
     "p": "xìng fú",
     "m": "hạnh phúc",
     "cat": "cảm xúc",
-    "me": "happiness"
+    "me": "happiness",
+    "pos": "Tính từ"
   },
   {
     "w": "痛苦",
     "p": "tòng kǔ",
     "m": "đau khổ",
     "cat": "cảm xúc",
-    "me": "suffering"
+    "me": "suffering",
+    "pos": "Tính từ"
   },
   {
     "w": "自信",
     "p": "zì xìn",
     "m": "tự tin",
     "cat": "cảm xúc",
-    "me": "confident"
+    "me": "confident",
+    "pos": "Tính từ"
   },
   {
     "w": "担心",
     "p": "dān xīn",
     "m": "lo lắng",
     "cat": "cảm xúc",
-    "me": "worried"
+    "me": "worried",
+    "pos": "Động từ"
   },
   {
     "w": "烦恼",
     "p": "fán nǎo",
     "m": "phiền muộn, lo lắng, phiền não, bực bội",
     "cat": "cảm xúc",
-    "me": "troubled, worried, distressed, irritated"
+    "me": "troubled, worried, distressed, irritated",
+    "pos": "Tính từ"
   },
   {
     "w": "平静",
     "p": "píng jìng",
     "m": "bình tĩnh, yên tĩnh",
     "cat": "cảm xúc",
-    "me": "calm"
+    "me": "calm",
+    "pos": "Tính từ"
   },
   {
     "w": "紧张",
     "p": "jǐn zhāng",
     "m": "căng thẳng, lo lắng",
-    "cat": "cảm xúc"
+    "cat": "cảm xúc",
+    "pos": "Tính từ"
   },
   {
     "w": "放松",
     "p": "fàng sōng",
     "m": "thư giãn",
-    "cat": "hành động"
+    "cat": "hành động",
+    "pos": "Động từ"
   },
   {
     "w": "宽慰",
@@ -2337,7 +2649,8 @@
     "cat": "cảm xúc",
     "example": "朋友的话让她感到宽慰。",
     "example_vi": "Lời nói của bạn khiến cô ấy cảm thấy nhẹ nhõm.",
-    "me": "comfort, relief"
+    "me": "comfort, relief",
+    "pos": "Danh từ"
   },
   {
     "w": "思念",
@@ -2346,7 +2659,8 @@
     "cat": "cảm xúc",
     "example": "他非常思念家乡。",
     "example_vi": "Anh ấy vô cùng nhớ nhung quê hương.",
-    "me": "miss, yearn for"
+    "me": "miss, yearn for",
+    "pos": "Động từ"
   },
   {
     "w": "怀念",
@@ -2355,7 +2669,8 @@
     "cat": "cảm xúc",
     "example": "我很怀念童年时光。",
     "example_vi": "Tôi rất hoài niệm thời thơ ấu.",
-    "me": "nostalgia"
+    "me": "nostalgia",
+    "pos": "Danh từ"
   },
   {
     "w": "欣慰",
@@ -2364,13 +2679,15 @@
     "cat": "cảm xúc",
     "example": "看到孩子成长，她感到欣慰。",
     "example_vi": "Thấy con cái trưởng thành, cô ấy cảm thấy vui lòng.",
-    "me": "pleased, content"
+    "me": "pleased, content",
+    "pos": "Danh từ"
   },
   {
     "w": "得意",
     "p": "dé yì",
     "m": "đắc ý, tự mãn",
-    "cat": "cảm xúc"
+    "cat": "cảm xúc",
+    "pos": "Danh từ"
   },
   {
     "w": "失落",
@@ -2379,7 +2696,8 @@
     "cat": "cảm xúc",
     "example": "没被选上让他很失落。",
     "example_vi": "Không được chọn khiến anh ấy rất thất vọng.",
-    "me": "disappointed, let down"
+    "me": "disappointed, let down",
+    "pos": "Tính từ"
   },
   {
     "w": "惊喜",
@@ -2388,7 +2706,8 @@
     "cat": "cảm xúc",
     "example": "这是一个大惊喜。",
     "example_vi": "Đây là một sự bất ngờ vui mừng lớn.",
-    "me": "a pleasant surprise"
+    "me": "a pleasant surprise",
+    "pos": "Danh từ"
   },
   {
     "w": "感慨",
@@ -2397,14 +2716,16 @@
     "cat": "cảm xúc",
     "example": "看到老照片，他很感慨。",
     "example_vi": "Nhìn thấy ảnh cũ, anh ấy rất xúc cảm.",
-    "me": "deep emotion, wistful feeling"
+    "me": "deep emotion, wistful feeling",
+    "pos": "Danh từ"
   },
   {
     "w": "惊讶",
     "p": "jīng yà",
     "m": "ngạc nhiên",
     "cat": "cảm xúc",
-    "me": "surprised"
+    "me": "surprised",
+    "pos": "Động từ"
   },
   {
     "w": "厌烦",
@@ -2413,49 +2734,56 @@
     "cat": "cảm xúc",
     "example": "他对这份工作感到厌烦。",
     "example_vi": "Anh ấy cảm thấy chán nản với công việc này.",
-    "me": "frustrated, annoyed"
+    "me": "frustrated, annoyed",
+    "pos": "Danh từ"
   },
   {
     "w": "好奇",
     "p": "hào qí",
     "m": "tò mò",
     "cat": "cảm xúc",
-    "me": "curious"
+    "me": "curious",
+    "pos": "Danh từ"
   },
   {
     "w": "羡慕",
     "p": "xiàn mù",
     "m": "ngưỡng mộ, thèm muốn",
     "cat": "cảm xúc",
-    "me": "admire, covet"
+    "me": "admire, covet",
+    "pos": "Danh từ"
   },
   {
     "w": "绝技",
     "p": "jué jì",
     "m": "tuyệt kỹ, kỹ năng đỉnh cao",
     "cat": "học thuật",
-    "me": "a supreme skill, peak technique"
+    "me": "a supreme skill, peak technique",
+    "pos": "Danh từ"
   },
   {
     "w": "才华",
     "p": "cái huá",
     "m": "tài năng",
     "cat": "tính từ",
-    "me": "talented"
+    "me": "talented",
+    "pos": "Tính từ"
   },
   {
     "w": "天赋",
     "p": "tiān fù",
     "m": "thiên phú, năng khiếu bẩm sinh",
     "cat": "tính từ",
-    "me": "innate talent, natural gift"
+    "me": "innate talent, natural gift",
+    "pos": "Tính từ"
   },
   {
     "w": "热情",
     "p": "rè qíng",
     "m": "nhiệt tình",
     "cat": "tính từ",
-    "me": "enthusiasm"
+    "me": "enthusiasm",
+    "pos": "Tính từ"
   },
   {
     "w": "冷漠",
@@ -2464,7 +2792,8 @@
     "cat": "tính từ",
     "example": "他对周围的事很冷漠。",
     "example_vi": "Anh ấy rất thờ ơ với những chuyện xung quanh.",
-    "me": "cold, indifferent"
+    "me": "cold, indifferent",
+    "pos": "Tính từ"
   },
   {
     "w": "体贴",
@@ -2473,7 +2802,8 @@
     "cat": "tính từ",
     "example": "他对家人很体贴。",
     "example_vi": "Anh ấy rất quan tâm chu đáo với gia đình.",
-    "me": "caring, considerate"
+    "me": "caring, considerate",
+    "pos": "Tính từ"
   },
   {
     "w": "温柔",
@@ -2482,7 +2812,8 @@
     "cat": "tính từ",
     "example": "她性格温柔。",
     "example_vi": "Tính cách của cô ấy dịu dàng.",
-    "me": "gentle"
+    "me": "gentle",
+    "pos": "Tính từ"
   },
   {
     "w": "严厉",
@@ -2491,13 +2822,15 @@
     "cat": "adjective",
     "example": "老师对他很严厉。",
     "example_vi": "Thầy giáo đối với anh ấy rất nghiêm khắc.",
-    "me": "strict"
+    "me": "strict",
+    "pos": "Tính từ"
   },
   {
     "w": "宽容",
     "p": "kuān róng",
     "m": "khoan dung, độ lượng",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "pos": "Tính từ"
   },
   {
     "w": "任性",
@@ -2506,13 +2839,15 @@
     "cat": "tính từ",
     "example": "这个孩子有点任性。",
     "example_vi": "Đứa trẻ này hơi bướng bỉnh.",
-    "me": "arbitrary, willful"
+    "me": "arbitrary, willful",
+    "pos": "Tính từ"
   },
   {
     "w": "体育",
     "p": "tǐ yù",
     "m": "thể dục, thể thao",
-    "cat": "thể thao"
+    "cat": "thể thao",
+    "pos": "Danh từ"
   },
   {
     "w": "竞赛",
@@ -2521,14 +2856,16 @@
     "cat": "thể thao",
     "example": "学校举办了一场知识竞赛。",
     "example_vi": "Trường đã tổ chức một cuộc thi kiến thức.",
-    "me": "competition, contest"
+    "me": "competition, contest",
+    "pos": "Danh từ"
   },
   {
     "w": "冠军",
     "p": "guàn jūn",
     "m": "vô địch, quán quân",
     "cat": "thể thao",
-    "me": "champion"
+    "me": "champion",
+    "pos": "Danh từ"
   },
   {
     "w": "运动员",
@@ -2537,7 +2874,8 @@
     "cat": "người",
     "example": "她是一名优秀的运动员。",
     "example_vi": "Cô ấy là một vận động viên xuất sắc.",
-    "me": "athlete"
+    "me": "athlete",
+    "pos": "Danh từ"
   },
   {
     "w": "训练",
@@ -2546,34 +2884,39 @@
     "cat": "thể thao",
     "example": "他每天坚持训练。",
     "example_vi": "Anh ấy kiên trì luyện tập mỗi ngày.",
-    "me": "practice, train"
+    "me": "practice, train",
+    "pos": "Danh từ"
   },
   {
     "w": "精神",
     "p": "jīng shén",
     "m": "tinh thần",
     "cat": "tính từ",
-    "me": "spirit"
+    "me": "spirit",
+    "pos": "Tính từ"
   },
   {
     "w": "意志",
     "p": "yì zhì",
     "m": "ý chí",
     "cat": "tính từ",
-    "me": "will, willpower"
+    "me": "will, willpower",
+    "pos": "Tính từ"
   },
   {
     "w": "毅力",
     "p": "yì lì",
     "m": "nghị lực",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "pos": "Tính từ"
   },
   {
     "w": "自律",
     "p": "zì lǜ",
     "m": "tự kỷ luật",
     "cat": "tính từ",
-    "me": "self-discipline"
+    "me": "self-discipline",
+    "pos": "Tính từ"
   },
   {
     "w": "奉献",
@@ -2582,14 +2925,16 @@
     "cat": "hành động",
     "example": "他为教育事业奉献了一生。",
     "example_vi": "Anh ấy đã cống hiến cả đời cho sự nghiệp giáo dục.",
-    "me": "dedicate, devote"
+    "me": "dedicate, devote",
+    "pos": "Động từ"
   },
   {
     "w": "责任",
     "p": "zé rèn",
     "m": "trách nhiệm",
     "cat": "xã hội",
-    "me": "responsibility"
+    "me": "responsibility",
+    "pos": "Danh từ"
   },
   {
     "w": "使命",
@@ -2598,28 +2943,32 @@
     "cat": "xã hội",
     "example": "教育是一项神圣的使命。",
     "example_vi": "Giáo dục là một sứ mệnh thiêng liêng.",
-    "me": "mission"
+    "me": "mission",
+    "pos": "Danh từ"
   },
   {
     "w": "价值",
     "p": "jià zhí",
     "m": "giá trị",
     "cat": "xã hội",
-    "me": "value"
+    "me": "value",
+    "pos": "Danh từ"
   },
   {
     "w": "意义",
     "p": "yì yì",
     "m": "ý nghĩa",
     "cat": "học thuật",
-    "me": "meaning"
+    "me": "meaning",
+    "pos": "Danh từ"
   },
   {
     "w": "目的",
     "p": "mù dì",
     "m": "mục đích",
     "cat": "học thuật",
-    "me": "purpose"
+    "me": "purpose",
+    "pos": "Danh từ"
   },
   {
     "w": "原则",
@@ -2628,20 +2977,23 @@
     "cat": "học thuật",
     "example": "他做事有自己的原则。",
     "example_vi": "Anh ấy làm việc có nguyên tắc riêng của mình.",
-    "me": "principle"
+    "me": "principle",
+    "pos": "Danh từ"
   },
   {
     "w": "道德",
     "p": "dào dé",
     "m": "đạo đức",
     "cat": "xã hội",
-    "me": "ethical"
+    "me": "ethical",
+    "pos": "Tính từ"
   },
   {
     "w": "诚信",
     "p": "chéng xìn",
     "m": "thành tín, trung thực",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "pos": "Tính từ"
   },
   {
     "w": "公德",
@@ -2650,7 +3002,8 @@
     "cat": "xã hội",
     "example": "我们要遵守社会公德。",
     "example_vi": "Chúng ta phải tuân thủ đạo đức công cộng của xã hội.",
-    "me": "public morality, civic virtue"
+    "me": "public morality, civic virtue",
+    "pos": "Danh từ"
   },
   {
     "w": "素养",
@@ -2659,7 +3012,8 @@
     "cat": "tính từ",
     "example": "他的文化素养很高。",
     "example_vi": "Tu dưỡng văn hóa của anh ấy rất cao.",
-    "me": "character, cultivation"
+    "me": "character, cultivation",
+    "pos": "Tính từ"
   },
   {
     "w": "气质",
@@ -2668,7 +3022,8 @@
     "cat": "tính từ",
     "example": "她的气质很优雅。",
     "example_vi": "Khí chất của cô ấy rất thanh lịch.",
-    "me": "temperament, demeanor"
+    "me": "temperament, demeanor",
+    "pos": "Tính từ"
   },
   {
     "w": "风度",
@@ -2677,7 +3032,8 @@
     "cat": "tính từ",
     "example": "他谈吐很有风度。",
     "example_vi": "Cách nói chuyện của anh ấy rất có phong độ.",
-    "me": "form, style"
+    "me": "form, style",
+    "pos": "Tính từ"
   },
   {
     "w": "形象",
@@ -2685,7 +3041,8 @@
     "m": "hình ảnh, diện mạo",
     "cat": "học thuật",
     "example": "他的描述非常形象。",
-    "example_vi": "Sự miêu tả của anh ấy rất hình ảnh sinh động."
+    "example_vi": "Sự miêu tả của anh ấy rất hình ảnh sinh động.",
+    "pos": "Danh từ"
   },
   {
     "w": "声誉",
@@ -2694,7 +3051,8 @@
     "cat": "xã hội",
     "example": "这家公司声誉很好。",
     "example_vi": "Công ty này có danh tiếng rất tốt.",
-    "me": "reputation, prestige"
+    "me": "reputation, prestige",
+    "pos": "Danh từ"
   },
   {
     "w": "威望",
@@ -2703,34 +3061,39 @@
     "cat": "xã hội",
     "example": "他在公司里很有威望。",
     "example_vi": "Anh ấy rất có uy tín trong công ty.",
-    "me": "prestige, reputation"
+    "me": "prestige, reputation",
+    "pos": "Danh từ"
   },
   {
     "w": "影响",
     "p": "yǐng xiǎng",
     "m": "ảnh hưởng",
     "cat": "hành động",
-    "me": "influence"
+    "me": "influence",
+    "pos": "Động từ"
   },
   {
     "w": "启发",
     "p": "qǐ fā",
     "m": "gợi mở, truyền cảm hứng, gợi ý, khai sáng",
     "cat": "hành động",
-    "me": "inspire, enlighten, suggest"
+    "me": "inspire, enlighten, suggest",
+    "pos": "Động từ"
   },
   {
     "w": "激励",
     "p": "jī lì",
     "m": "kích thích, thúc đẩy, khích lệ, khen thưởng, động viên",
     "cat": "hành động",
-    "me": "stimulate, encourage, reward, motivate"
+    "me": "stimulate, encourage, reward, motivate",
+    "pos": "Động từ"
   },
   {
     "w": "鼓励",
     "p": "gǔ lì",
     "m": "động viên, khuyến khích",
-    "cat": "hành động"
+    "cat": "hành động",
+    "pos": "Động từ"
   },
   {
     "w": "劝说",
@@ -2739,34 +3102,39 @@
     "cat": "hành động",
     "example": "她努力劝说他放弃这个计划。",
     "example_vi": "Cô ấy cố gắng thuyết phục anh ấy từ bỏ kế hoạch này.",
-    "me": "persuade"
+    "me": "persuade",
+    "pos": "Động từ"
   },
   {
     "w": "争议",
     "p": "zhēng yì",
     "m": "tranh luận, tranh cãi",
     "cat": "xã hội",
-    "me": "debate, dispute"
+    "me": "debate, dispute",
+    "pos": "Động từ"
   },
   {
     "w": "观点",
     "p": "guān diǎn",
     "m": "quan điểm",
     "cat": "học thuật",
-    "me": "viewpoint"
+    "me": "viewpoint",
+    "pos": "Danh từ"
   },
   {
     "w": "立场",
     "p": "lì chǎng",
     "m": "lập trường",
     "cat": "học thuật",
-    "me": "stance"
+    "me": "stance",
+    "pos": "Danh từ"
   },
   {
     "w": "看法",
     "p": "kàn fǎ",
     "m": "cách nhìn nhận",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "pos": "Danh từ"
   },
   {
     "w": "见解",
@@ -2775,54 +3143,62 @@
     "cat": "học thuật",
     "example": "他对这个问题有独到的见解。",
     "example_vi": "Anh ấy có kiến giải độc đáo về vấn đề này.",
-    "me": "viewpoint, opinion"
+    "me": "viewpoint, opinion",
+    "pos": "Danh từ"
   },
   {
     "w": "思想",
     "p": "sī xiǎng",
     "m": "tư tưởng",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "pos": "Danh từ"
   },
   {
     "w": "概念",
     "p": "gài niàn",
     "m": "khái niệm",
     "cat": "học thuật",
-    "me": "concept"
+    "me": "concept",
+    "pos": "Danh từ"
   },
   {
     "w": "原因",
     "p": "yuán yīn",
     "m": "nguyên nhân",
     "cat": "học thuật",
-    "me": "cause"
+    "me": "cause",
+    "pos": "Danh từ"
   },
   {
     "w": "结果",
     "p": "jié guǒ",
     "m": "kết quả",
     "cat": "học thuật",
-    "me": "result"
+    "me": "result",
+    "pos": "Danh từ"
   },
   {
     "w": "过程",
     "p": "guò chéng",
     "m": "quá trình",
     "cat": "học thuật",
-    "me": "process"
+    "me": "process",
+    "pos": "Danh từ"
   },
   {
     "w": "方法",
     "p": "fāng fǎ",
     "m": "phương pháp",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "pos": "Danh từ"
   },
   {
     "w": "途径",
     "p": "tú jìng",
     "m": "con đường, phương thức",
     "cat": "học thuật",
-    "me": "path, method"
+    "me": "path, method",
+    "pos": "Danh từ"
   },
   {
     "w": "手段",
@@ -2830,14 +3206,16 @@
     "m": "biện pháp, phương tiện",
     "cat": "học thuật",
     "example": "他用了不正当的手段。",
-    "example_vi": "Anh ta đã dùng biện pháp không chính đáng."
+    "example_vi": "Anh ta đã dùng biện pháp không chính đáng.",
+    "pos": "Danh từ"
   },
   {
     "w": "效果",
     "p": "xiào guǒ",
     "m": "hiệu quả",
     "cat": "học thuật",
-    "me": "effective"
+    "me": "effective",
+    "pos": "Danh từ"
   },
   {
     "w": "重要性",
@@ -2846,7 +3224,8 @@
     "cat": "học thuật",
     "example": "他强调了教育的重要性。",
     "example_vi": "Anh ấy đã nhấn mạnh tầm quan trọng của giáo dục.",
-    "me": "importance"
+    "me": "importance",
+    "pos": "Danh từ"
   },
   {
     "w": "必要性",
@@ -2855,7 +3234,8 @@
     "cat": "học thuật",
     "example": "我们要认识到改革的必要性。",
     "example_vi": "Chúng ta phải nhận thức được sự cần thiết của cải cách.",
-    "me": "necessity"
+    "me": "necessity",
+    "pos": "Danh từ"
   },
   {
     "w": "优先",
@@ -2864,68 +3244,78 @@
     "cat": "hành động",
     "example": "这个项目要优先处理。",
     "example_vi": "Dự án này phải được ưu tiên xử lý.",
-    "me": "priority"
+    "me": "priority",
+    "pos": "Động từ"
   },
   {
     "w": "解决",
     "p": "jiě jué",
     "m": "giải quyết",
     "cat": "hành động",
-    "me": "resolve"
+    "me": "resolve",
+    "pos": "Động từ"
   },
   {
     "w": "克服",
     "p": "kè fú",
     "m": "khắc phục, vượt qua",
-    "cat": "hành động"
+    "cat": "hành động",
+    "pos": "Động từ"
   },
   {
     "w": "适应",
     "p": "shì yìng",
     "m": "thích nghi",
     "cat": "hành động",
-    "me": "adapt"
+    "me": "adapt",
+    "pos": "Động từ"
   },
   {
     "w": "调整",
     "p": "tiáo zhěng",
     "m": "điều chỉnh",
     "cat": "hành động",
-    "me": "adjust"
+    "me": "adjust",
+    "pos": "Động từ"
   },
   {
     "w": "改善",
     "p": "gǎi shàn",
     "m": "cải thiện",
     "cat": "hành động",
-    "me": "improve"
+    "me": "improve",
+    "pos": "Động từ"
   },
   {
     "w": "提升",
     "p": "tí shēng",
     "m": "nâng cao, cải thiện",
     "cat": "hành động",
-    "me": "enhance"
+    "me": "enhance",
+    "pos": "Động từ"
   },
   {
     "w": "降低",
     "p": "jiàng dī",
     "m": "giảm xuống, hạ thấp",
-    "cat": "hành động"
+    "cat": "hành động",
+    "pos": "Động từ"
   },
   {
     "w": "增加",
     "p": "zēng jiā",
     "m": "tăng thêm",
     "cat": "hành động",
-    "me": "add, increase"
+    "me": "add, increase",
+    "pos": "Động từ"
   },
   {
     "w": "减少",
     "p": "jiǎn shǎo",
     "m": "giảm bớt",
     "cat": "hành động",
-    "me": "cut down on"
+    "me": "cut down on",
+    "pos": "Động từ"
   },
   {
     "w": "维护",
@@ -2934,33 +3324,38 @@
     "cat": "hành động",
     "example": "我们要维护公共设施。",
     "example_vi": "Chúng ta phải bảo trì các thiết bị công cộng.",
-    "me": "maintain"
+    "me": "maintain",
+    "pos": "Động từ"
   },
   {
     "w": "促进",
     "p": "cù jìn",
     "m": "thúc đẩy",
-    "cat": "hành động"
+    "cat": "hành động",
+    "pos": "Động từ"
   },
   {
     "w": "推动",
     "p": "tuī dòng",
     "m": "thúc đẩy, đẩy mạnh",
     "cat": "hành động",
-    "me": "promote, push forward"
+    "me": "promote, push forward",
+    "pos": "Động từ"
   },
   {
     "w": "阻碍",
     "p": "zǔ ài",
     "m": "cản trở",
     "cat": "hành động",
-    "me": "hinder"
+    "me": "hinder",
+    "pos": "Động từ"
   },
   {
     "w": "影响力",
     "p": "yǐng xiǎng lì",
     "m": "sức ảnh hưởng",
-    "cat": "xã hội"
+    "cat": "xã hội",
+    "pos": "Danh từ"
   },
   {
     "w": "号召力",
@@ -2969,7 +3364,8 @@
     "cat": "xã hội",
     "example": "这位领导很有号召力。",
     "example_vi": "Vị lãnh đạo này rất có sức kêu gọi.",
-    "me": "appeal, drawing power"
+    "me": "appeal, drawing power",
+    "pos": "Danh từ"
   },
   {
     "w": "凝聚力",
@@ -2978,7 +3374,8 @@
     "cat": "xã hội",
     "example": "这个团队很有凝聚力。",
     "example_vi": "Đội ngũ này rất có sức gắn kết.",
-    "me": "cohesion"
+    "me": "cohesion",
+    "pos": "Danh từ"
   },
   {
     "w": "创造力",
@@ -2987,7 +3384,8 @@
     "cat": "học thuật",
     "example": "这个孩子很有创造力。",
     "example_vi": "Đứa trẻ này rất có sức sáng tạo.",
-    "me": "creativity"
+    "me": "creativity",
+    "pos": "Danh từ"
   },
   {
     "w": "想象力",
@@ -2996,35 +3394,40 @@
     "cat": "học thuật",
     "example": "她的想象力很丰富。",
     "example_vi": "Trí tưởng tượng của cô ấy rất phong phú.",
-    "me": "imagination"
+    "me": "imagination",
+    "pos": "Danh từ"
   },
   {
     "w": "判断力",
     "p": "pàn duàn lì",
     "m": "khả năng phán đoán",
     "cat": "học thuật",
-    "me": "judgment ability"
+    "me": "judgment ability",
+    "pos": "Danh từ"
   },
   {
     "w": "执行力",
     "p": "zhí xíng lì",
     "m": "khả năng thực thi",
     "cat": "công việc",
-    "me": "executability, feasibility"
+    "me": "executability, feasibility",
+    "pos": "Danh từ"
   },
   {
     "w": "领导力",
     "p": "lǐng dǎo lì",
     "m": "khả năng lãnh đạo",
     "cat": "công việc",
-    "me": "leadership"
+    "me": "leadership",
+    "pos": "Danh từ"
   },
   {
     "w": "沟通能力",
     "p": "gōu tōng néng lì",
     "m": "kỹ năng giao tiếp",
     "cat": "công việc",
-    "me": "communication skills"
+    "me": "communication skills",
+    "pos": "Danh từ"
   },
   {
     "w": "说服力",
@@ -3033,40 +3436,46 @@
     "cat": "công việc",
     "example": "他的论点很有说服力。",
     "example_vi": "Luận điểm của anh ấy rất có sức thuyết phục.",
-    "me": "persuasive power"
+    "me": "persuasive power",
+    "pos": "Danh từ"
   },
   {
     "w": "表达",
     "p": "biǎo dá",
     "m": "biểu đạt, diễn đạt",
     "cat": "hành động",
-    "me": "express, convey"
+    "me": "express, convey",
+    "pos": "Động từ"
   },
   {
     "w": "描述",
     "p": "miáo shù",
     "m": "mô tả",
-    "cat": "hành động"
+    "cat": "hành động",
+    "pos": "Động từ"
   },
   {
     "w": "说明",
     "p": "shuō míng",
     "m": "giải thích, thuyết minh",
-    "cat": "hành động"
+    "cat": "hành động",
+    "pos": "Động từ"
   },
   {
     "w": "解释",
     "p": "jiě shì",
     "m": "giải thích",
     "cat": "hành động",
-    "me": "explain"
+    "me": "explain",
+    "pos": "Động từ"
   },
   {
     "w": "介绍",
     "p": "jiè shào",
     "m": "giới thiệu",
     "cat": "hành động",
-    "me": "introduce"
+    "me": "introduce",
+    "pos": "Động từ"
   },
   {
     "w": "推荐",
@@ -3075,13 +3484,15 @@
     "cat": "hành động",
     "example": "老师推荐我看这本书。",
     "example_vi": "Thầy giáo giới thiệu tôi đọc cuốn sách này.",
-    "me": "propose, introduce"
+    "me": "propose, introduce",
+    "pos": "Động từ"
   },
   {
     "w": "建议",
     "p": "jiàn yì",
     "m": "đề nghị, kiến nghị",
-    "cat": "hành động"
+    "cat": "hành động",
+    "pos": "Động từ"
   },
   {
     "w": "提出",
@@ -3090,7 +3501,8 @@
     "cat": "hành động",
     "example": "他提出了一个新方案。",
     "example_vi": "Anh ấy đã đề xuất một phương án mới.",
-    "me": "propose, put forward"
+    "me": "propose, put forward",
+    "pos": "Động từ"
   },
   {
     "w": "提议",
@@ -3099,14 +3511,16 @@
     "cat": "hành động",
     "example": "她提议明天开会。",
     "example_vi": "Cô ấy đề nghị ngày mai họp.",
-    "me": "suggest"
+    "me": "suggest",
+    "pos": "Động từ"
   },
   {
     "w": "讨论",
     "p": "tǎo lùn",
     "m": "thảo luận",
     "cat": "hành động",
-    "me": "discuss"
+    "me": "discuss",
+    "pos": "Động từ"
   },
   {
     "w": "协商",
@@ -3115,7 +3529,8 @@
     "cat": "hành động",
     "example": "双方正在协商解决方案。",
     "example_vi": "Hai bên đang thương lượng giải pháp.",
-    "me": "negotiate"
+    "me": "negotiate",
+    "pos": "Động từ"
   },
   {
     "w": "决策",
@@ -3124,27 +3539,31 @@
     "cat": "hành động",
     "example": "领导要做出正确的决策。",
     "example_vi": "Lãnh đạo phải đưa ra quyết định đúng đắn.",
-    "me": "decision-making"
+    "me": "decision-making",
+    "pos": "Động từ"
   },
   {
     "w": "执行",
     "p": "zhí xíng",
     "m": "thực thi, chấp hành",
-    "cat": "hành động"
+    "cat": "hành động",
+    "pos": "Động từ"
   },
   {
     "w": "监督",
     "p": "jiān dū",
     "m": "giám sát",
     "cat": "hành động",
-    "me": "monitor"
+    "me": "monitor",
+    "pos": "Động từ"
   },
   {
     "w": "评估",
     "p": "píng gū",
     "m": "đánh giá",
     "cat": "hành động",
-    "me": "evaluate"
+    "me": "evaluate",
+    "pos": "Động từ"
   },
   {
     "w": "反馈",
@@ -3153,14 +3572,16 @@
     "cat": "hành động",
     "example": "请给我们一些反馈。",
     "example_vi": "Xin hãy cho chúng tôi một chút phản hồi.",
-    "me": "feedback"
+    "me": "feedback",
+    "pos": "Động từ"
   },
   {
     "w": "总结",
     "p": "zǒng jié",
     "m": "tổng kết",
     "cat": "hành động",
-    "me": "summarize"
+    "me": "summarize",
+    "pos": "Động từ"
   },
   {
     "w": "规划",
@@ -3169,14 +3590,16 @@
     "cat": "hành động",
     "example": "公司制定了未来五年的规划。",
     "example_vi": "Công ty đã lập quy hoạch cho năm năm tới.",
-    "me": "plan"
+    "me": "plan",
+    "pos": "Động từ"
   },
   {
     "w": "安排",
     "p": "ān pái",
     "m": "sắp xếp, bố trí",
     "cat": "hành động",
-    "me": "arrange"
+    "me": "arrange",
+    "pos": "Động từ"
   },
   {
     "w": "协调",
@@ -3185,41 +3608,47 @@
     "cat": "hành động",
     "example": "各部门需要相互协调。",
     "example_vi": "Các phòng ban cần phối hợp lẫn nhau.",
-    "me": "coordinate, harmonize"
+    "me": "coordinate, harmonize",
+    "pos": "Động từ"
   },
   {
     "w": "组织",
     "p": "zǔ zhī",
     "m": "tổ chức",
     "cat": "hành động",
-    "me": "organization"
+    "me": "organization",
+    "pos": "Động từ"
   },
   {
     "w": "管理",
     "p": "guǎn lǐ",
     "m": "quản lý",
     "cat": "công việc",
-    "me": "manage"
+    "me": "manage",
+    "pos": "Động từ"
   },
   {
     "w": "领导",
     "p": "lǐng dǎo",
     "m": "lãnh đạo",
     "cat": "công việc",
-    "me": "leadership"
+    "me": "leadership",
+    "pos": "Động từ"
   },
   {
     "w": "指导",
     "p": "zhǐ dǎo",
     "m": "hướng dẫn, chỉ đạo",
     "cat": "hành động",
-    "me": "guide, direct"
+    "me": "guide, direct",
+    "pos": "Động từ"
   },
   {
     "w": "培养",
     "p": "péi yǎng",
     "m": "bồi dưỡng, đào tạo",
-    "cat": "hành động"
+    "cat": "hành động",
+    "pos": "Động từ"
   },
   {
     "w": "激发",
@@ -3228,7 +3657,8 @@
     "cat": "hành động",
     "example": "这本书激发了他的兴趣。",
     "example_vi": "Cuốn sách này đã khơi dậy hứng thú của anh ấy.",
-    "me": "arouse, stimulate"
+    "me": "arouse, stimulate",
+    "pos": "Động từ"
   },
   {
     "w": "调动",
@@ -3237,20 +3667,23 @@
     "cat": "hành động",
     "example": "公司调动了大量资源。",
     "example_vi": "Công ty đã huy động một lượng lớn nguồn lực.",
-    "me": "mobilize, deploy"
+    "me": "mobilize, deploy",
+    "pos": "Động từ"
   },
   {
     "w": "开发",
     "p": "kāi fā",
     "m": "phát triển, khai thác",
     "cat": "hành động",
-    "me": "develop, exploit"
+    "me": "develop, exploit",
+    "pos": "Động từ"
   },
   {
     "w": "利用",
     "p": "lì yòng",
     "m": "tận dụng",
-    "cat": "hành động"
+    "cat": "hành động",
+    "pos": "Động từ"
   },
   {
     "w": "整合",
@@ -3259,7 +3692,8 @@
     "cat": "hành động",
     "example": "公司整合了各部门的资源。",
     "example_vi": "Công ty đã tích hợp nguồn lực từ các phòng ban.",
-    "me": "integrate, merge"
+    "me": "integrate, merge",
+    "pos": "Động từ"
   },
   {
     "w": "优化",
@@ -3268,7 +3702,8 @@
     "cat": "hành động",
     "example": "我们要优化工作流程。",
     "example_vi": "Chúng ta phải tối ưu hóa quy trình làm việc.",
-    "me": "optimize"
+    "me": "optimize",
+    "pos": "Động từ"
   },
   {
     "w": "完善",
@@ -3277,7 +3712,8 @@
     "cat": "hành động",
     "example": "这个制度还需要完善。",
     "example_vi": "Chế độ này vẫn cần được hoàn thiện.",
-    "me": "perfect, complete"
+    "me": "perfect, complete",
+    "pos": "Động từ"
   },
   {
     "w": "补充",
@@ -3286,7 +3722,8 @@
     "cat": "hành động",
     "example": "请补充一些细节。",
     "example_vi": "Xin hãy bổ sung một số chi tiết.",
-    "me": "supplement, add"
+    "me": "supplement, add",
+    "pos": "Động từ"
   },
   {
     "w": "修改",
@@ -3295,7 +3732,8 @@
     "cat": "hành động",
     "example": "请修改一下这份文件。",
     "example_vi": "Xin hãy sửa đổi tài liệu này.",
-    "me": "modify"
+    "me": "modify",
+    "pos": "Động từ"
   },
   {
     "w": "更新",
@@ -3304,21 +3742,24 @@
     "cat": "hành động",
     "example": "系统需要更新。",
     "example_vi": "Hệ thống cần được cập nhật.",
-    "me": "update, renew"
+    "me": "update, renew",
+    "pos": "Động từ"
   },
   {
     "w": "完成",
     "p": "wán chéng",
     "m": "hoàn thành",
     "cat": "hành động",
-    "me": "complete"
+    "me": "complete",
+    "pos": "Động từ"
   },
   {
     "w": "实现",
     "p": "shí xiàn",
     "m": "thực hiện, đạt được",
     "cat": "hành động",
-    "me": "carry out, achieve"
+    "me": "carry out, achieve",
+    "pos": "Động từ"
   },
   {
     "w": "达成",
@@ -3327,27 +3768,31 @@
     "cat": "hành động",
     "example": "双方达成了协议。",
     "example_vi": "Hai bên đã đạt được thỏa thuận.",
-    "me": "achieve"
+    "me": "achieve",
+    "pos": "Động từ"
   },
   {
     "w": "实施",
     "p": "shí shī",
     "m": "thực thi, triển khai, thực hiện, tiến hành",
     "cat": "hành động",
-    "me": "enforce, deploy, carry out"
+    "me": "enforce, deploy, carry out",
+    "pos": "Động từ"
   },
   {
     "w": "推广",
     "p": "tuī guǎng",
     "m": "phổ biến, quảng bá",
     "cat": "hành động",
-    "me": "popularize, promote"
+    "me": "popularize, promote",
+    "pos": "Động từ"
   },
   {
     "w": "宣传",
     "p": "xuān chuán",
     "m": "tuyên truyền",
-    "cat": "hành động"
+    "cat": "hành động",
+    "pos": "Động từ"
   },
   {
     "w": "展示",
@@ -3356,7 +3801,8 @@
     "cat": "hành động",
     "example": "她向大家展示了她的作品。",
     "example_vi": "Cô ấy đã trình bày tác phẩm của mình cho mọi người.",
-    "me": "present, express"
+    "me": "present, express",
+    "pos": "Động từ"
   },
   {
     "w": "呈现",
@@ -3365,21 +3811,24 @@
     "cat": "verb",
     "example": "数据呈现出上升趋势。",
     "example_vi": "Dữ liệu thể hiện xu hướng tăng lên.",
-    "me": "display, show off"
+    "me": "display, show off",
+    "pos": "Động từ"
   },
   {
     "w": "体现",
     "p": "tǐ xiàn",
     "m": "thể hiện, phản ánh",
     "cat": "hành động",
-    "me": "express, reflect"
+    "me": "express, reflect",
+    "pos": "Động từ"
   },
   {
     "w": "反映",
     "p": "fǎn yìng",
     "m": "phản ánh",
     "cat": "hành động",
-    "me": "reflect, report"
+    "me": "reflect, report",
+    "pos": "Động từ"
   },
   {
     "w": "揭示",
@@ -3387,7 +3836,8 @@
     "m": "bộc lộ, tiết lộ",
     "cat": "hành động",
     "example": "这份报告揭示了一个严重的问题。",
-    "example_vi": "Báo cáo này phơi bày một vấn đề nghiêm trọng."
+    "example_vi": "Báo cáo này phơi bày một vấn đề nghiêm trọng.",
+    "pos": "Động từ"
   },
   {
     "w": "揭露",
@@ -3396,27 +3846,31 @@
     "cat": "hành động",
     "example": "记者揭露了这个真相。",
     "example_vi": "Nhà báo đã vạch trần sự thật này.",
-    "me": "expose"
+    "me": "expose",
+    "pos": "Động từ"
   },
   {
     "w": "突出",
     "p": "tū chū",
     "m": "nổi bật, nhấn mạnh",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "pos": "Tính từ"
   },
   {
     "w": "显著",
     "p": "xiǎn zhù",
     "m": "rõ rệt, đáng kể, đáng chú ý, rõ ràng, nổi bật",
     "cat": "tính từ",
-    "me": "marked, significant, notable, prominent"
+    "me": "marked, significant, notable, prominent",
+    "pos": "Tính từ"
   },
   {
     "w": "明显",
     "p": "míng xiǎn",
     "m": "rõ ràng, hiển nhiên",
     "cat": "tính từ",
-    "me": "obvious"
+    "me": "obvious",
+    "pos": "Tính từ"
   },
   {
     "w": "深刻",
@@ -3425,7 +3879,8 @@
     "cat": "tính từ",
     "example": "这部电影给我留下了深刻的印象。",
     "example_vi": "Bộ phim này đã để lại cho tôi ấn tượng sâu sắc.",
-    "me": "profound"
+    "me": "profound",
+    "pos": "Tính từ"
   },
   {
     "w": "广泛",
@@ -3434,20 +3889,23 @@
     "cat": "tính từ",
     "example": "这项技术应用广泛。",
     "example_vi": "Công nghệ này được ứng dụng rộng rãi.",
-    "me": "widely"
+    "me": "widely",
+    "pos": "Tính từ"
   },
   {
     "w": "普遍",
     "p": "pǔ biàn",
     "m": "phổ biến, phổ thông",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "pos": "Tính từ"
   },
   {
     "w": "特殊",
     "p": "tè shū",
     "m": "đặc biệt",
     "cat": "tính từ",
-    "me": "especially"
+    "me": "especially",
+    "pos": "Tính từ"
   },
   {
     "w": "独特",
@@ -3456,7 +3914,8 @@
     "cat": "tính từ",
     "example": "她的设计风格很独特。",
     "example_vi": "Phong cách thiết kế của cô ấy rất độc đáo.",
-    "me": "unique, distinctive"
+    "me": "unique, distinctive",
+    "pos": "Tính từ"
   },
   {
     "w": "罕见",
@@ -3465,7 +3924,8 @@
     "cat": "tính từ",
     "example": "这种病例十分罕见。",
     "example_vi": "Loại ca bệnh này rất hiếm gặp.",
-    "me": "rare, seldom seen"
+    "me": "rare, seldom seen",
+    "pos": "Tính từ"
   },
   {
     "w": "常见",
@@ -3474,7 +3934,8 @@
     "cat": "tính từ",
     "example": "感冒是一种常见病。",
     "example_vi": "Cảm lạnh là một bệnh thường gặp.",
-    "me": "commonly encountered"
+    "me": "commonly encountered",
+    "pos": "Tính từ"
   },
   {
     "w": "典型",
@@ -3483,7 +3944,8 @@
     "cat": "tính từ",
     "example": "这是一个典型的例子。",
     "example_vi": "Đây là một ví dụ điển hình.",
-    "me": "typical"
+    "me": "typical",
+    "pos": "Tính từ"
   },
   {
     "w": "具体",
@@ -3492,7 +3954,8 @@
     "cat": "tính từ",
     "example": "请给出一个具体的例子。",
     "example_vi": "Xin hãy đưa ra một ví dụ cụ thể.",
-    "me": "specific"
+    "me": "specific",
+    "pos": "Tính từ"
   },
   {
     "w": "抽象",
@@ -3501,21 +3964,24 @@
     "cat": "tính từ",
     "example": "这个概念比较抽象。",
     "example_vi": "Khái niệm này tương đối trừu tượng.",
-    "me": "abstract"
+    "me": "abstract",
+    "pos": "Tính từ"
   },
   {
     "w": "复杂",
     "p": "fù zá",
     "m": "phức tạp",
     "cat": "tính từ",
-    "me": "complex"
+    "me": "complex",
+    "pos": "Tính từ"
   },
   {
     "w": "简单",
     "p": "jiǎn dān",
     "m": "đơn giản",
     "cat": "tính từ",
-    "me": "simply"
+    "me": "simply",
+    "pos": "Tính từ"
   },
   {
     "w": "全面",
@@ -3524,7 +3990,8 @@
     "cat": "tính từ",
     "example": "我们要全面了解情况。",
     "example_vi": "Chúng ta phải hiểu tình hình một cách toàn diện.",
-    "me": "comprehensive"
+    "me": "comprehensive",
+    "pos": "Tính từ"
   },
   {
     "w": "片面",
@@ -3533,14 +4000,16 @@
     "cat": "tính từ",
     "example": "他的看法有点片面。",
     "example_vi": "Cách nhìn của anh ấy hơi phiến diện.",
-    "me": "one-sided, biased"
+    "me": "one-sided, biased",
+    "pos": "Tính từ"
   },
   {
     "w": "客观",
     "p": "kè guān",
     "m": "khách quan",
     "cat": "tính từ",
-    "me": "objective"
+    "me": "objective",
+    "pos": "Tính từ"
   },
   {
     "w": "主观",
@@ -3549,21 +4018,24 @@
     "cat": "tính từ",
     "example": "这只是他的主观看法。",
     "example_vi": "Đây chỉ là cách nhìn chủ quan của anh ấy.",
-    "me": "subjective"
+    "me": "subjective",
+    "pos": "Tính từ"
   },
   {
     "w": "实际",
     "p": "shí jì",
     "m": "thực tế",
     "cat": "tính từ",
-    "me": "practical"
+    "me": "practical",
+    "pos": "Tính từ"
   },
   {
     "w": "理想",
     "p": "lǐ xiǎng",
     "m": "lý tưởng",
     "cat": "tính từ",
-    "me": "ideal"
+    "me": "ideal",
+    "pos": "Tính từ"
   },
   {
     "w": "合理",
@@ -3572,7 +4044,8 @@
     "cat": "tính từ",
     "example": "这个价格很合理。",
     "example_vi": "Mức giá này rất hợp lý.",
-    "me": "logical"
+    "me": "logical",
+    "pos": "Tính từ"
   },
   {
     "w": "不合理",
@@ -3581,19 +4054,22 @@
     "cat": "tính từ",
     "example": "这个规定不合理。",
     "example_vi": "Quy định này không hợp lý.",
-    "me": "unreasonable"
+    "me": "unreasonable",
+    "pos": "Tính từ"
   },
   {
     "w": "正确",
     "p": "zhèng què",
     "m": "đúng đắn, chính xác",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "pos": "Tính từ"
   },
   {
     "w": "错误",
     "p": "cuò wù",
     "m": "sai lầm",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "pos": "Tính từ"
   },
   {
     "w": "有效",
@@ -3602,7 +4078,8 @@
     "cat": "tính từ",
     "example": "这种方法很有效。",
     "example_vi": "Phương pháp này rất có hiệu quả.",
-    "me": "effective"
+    "me": "effective",
+    "pos": "Tính từ"
   },
   {
     "w": "无效",
@@ -3611,33 +4088,38 @@
     "cat": "tính từ",
     "example": "这份合同已经无效。",
     "example_vi": "Hợp đồng này đã vô hiệu.",
-    "me": "invalid, ineffective"
+    "me": "invalid, ineffective",
+    "pos": "Tính từ"
   },
   {
     "w": "必须",
     "p": "bì xū",
     "m": "phải, bắt buộc",
     "cat": "trạng từ",
-    "me": "must, obligatory"
+    "me": "must, obligatory",
+    "pos": "Phó từ"
   },
   {
     "w": "应该",
     "p": "yīng gāi",
     "m": "nên, cần phải",
-    "cat": "trạng từ"
+    "cat": "trạng từ",
+    "pos": "Phó từ"
   },
   {
     "w": "可以",
     "p": "kě yǐ",
     "m": "có thể, được phép",
     "cat": "trạng từ",
-    "me": "may, be permitted to"
+    "me": "may, be permitted to",
+    "pos": "Động từ"
   },
   {
     "w": "不得不",
     "p": "bù dé bù",
     "m": "không thể không, buộc phải",
-    "cat": "trạng từ"
+    "cat": "trạng từ",
+    "pos": "Phó từ"
   },
   {
     "w": "尽量",
@@ -3646,21 +4128,24 @@
     "cat": "trạng từ",
     "example": "请尽量早点到。",
     "example_vi": "Xin hãy cố gắng hết sức đến sớm.",
-    "me": "try one's best"
+    "me": "try one's best",
+    "pos": "Phó từ"
   },
   {
     "w": "逐渐",
     "p": "zhú jiàn",
     "m": "dần dần",
     "cat": "trạng từ",
-    "me": "gradually"
+    "me": "gradually",
+    "pos": "Phó từ"
   },
   {
     "w": "突然",
     "p": "tū rán",
     "m": "đột nhiên",
     "cat": "trạng từ",
-    "me": "suddenly"
+    "me": "suddenly",
+    "pos": "Phó từ"
   },
   {
     "w": "立即",
@@ -3669,34 +4154,39 @@
     "cat": "trạng từ",
     "example": "请立即处理这件事。",
     "example_vi": "Xin hãy xử lý việc này ngay lập tức.",
-    "me": "immediately"
+    "me": "immediately",
+    "pos": "Phó từ"
   },
   {
     "w": "最终",
     "p": "zuì zhōng",
     "m": "cuối cùng",
     "cat": "trạng từ",
-    "me": "finally"
+    "me": "finally",
+    "pos": "Phó từ"
   },
   {
     "w": "始终",
     "p": "shǐ zhōng",
     "m": "luôn luôn, từ đầu đến cuối",
-    "cat": "trạng từ"
+    "cat": "trạng từ",
+    "pos": "Phó từ"
   },
   {
     "w": "往往",
     "p": "wǎng wǎng",
     "m": "thường thường",
     "cat": "trạng từ",
-    "me": "usually"
+    "me": "usually",
+    "pos": "Phó từ"
   },
   {
     "w": "偶尔",
     "p": "ǒu ěr",
     "m": "thỉnh thoảng",
     "cat": "trạng từ",
-    "me": "once in a while"
+    "me": "once in a while",
+    "pos": "Phó từ"
   },
   {
     "w": "频繁",
@@ -3705,7 +4195,8 @@
     "cat": "trạng từ",
     "example": "他们联系很频繁。",
     "example_vi": "Họ liên lạc rất thường xuyên.",
-    "me": "frequent, continuous"
+    "me": "frequent, continuous",
+    "pos": "Phó từ"
   },
   {
     "w": "彻底",
@@ -3714,7 +4205,8 @@
     "cat": "trạng từ",
     "example": "这个问题已经彻底解决了。",
     "example_vi": "Vấn đề này đã được giải quyết triệt để.",
-    "me": "thoroughly, completely"
+    "me": "thoroughly, completely",
+    "pos": "Phó từ"
   },
   {
     "w": "充分",
@@ -3723,49 +4215,56 @@
     "cat": "trạng từ",
     "example": "我们要做好充分的准备。",
     "example_vi": "Chúng ta phải chuẩn bị đầy đủ.",
-    "me": "sufficient, adequate"
+    "me": "sufficient, adequate",
+    "pos": "Phó từ"
   },
   {
     "w": "共同",
     "p": "gòng tóng",
     "m": "cùng nhau, chung",
     "cat": "trạng từ",
-    "me": "jointly"
+    "me": "jointly",
+    "pos": "Phó từ"
   },
   {
     "w": "相互",
     "p": "xiāng hù",
     "m": "lẫn nhau, qua lại",
     "cat": "trạng từ",
-    "me": "mutual, reciprocal"
+    "me": "mutual, reciprocal",
+    "pos": "Phó từ"
   },
   {
     "w": "彼此",
     "p": "bǐ cǐ",
     "m": "lẫn nhau",
     "cat": "trạng từ",
-    "me": "mutual, each other"
+    "me": "mutual, each other",
+    "pos": "Phó từ"
   },
   {
     "w": "各自",
     "p": "gè zì",
     "m": "mỗi người, riêng mình, riêng từng người, mỗi bên, tự mình",
     "cat": "trạng từ",
-    "me": "each one, individually, on one's own"
+    "me": "each one, individually, on one's own",
+    "pos": "Phó từ"
   },
   {
     "w": "分别",
     "p": "fēn bié",
     "m": "lần lượt, riêng biệt, chia tay",
     "cat": "trạng từ",
-    "me": "one by one, separately, part ways"
+    "me": "one by one, separately, part ways",
+    "pos": "Phó từ"
   },
   {
     "w": "相比",
     "p": "xiāng bǐ",
     "m": "so sánh với nhau",
     "cat": "trạng từ",
-    "me": "compare with each other"
+    "me": "compare with each other",
+    "pos": "Phó từ"
   },
   {
     "w": "相对",
@@ -3774,7 +4273,8 @@
     "cat": "trạng từ",
     "example": "这里的物价相对便宜。",
     "example_vi": "Vật giá ở đây tương đối rẻ.",
-    "me": "relatively"
+    "me": "relatively",
+    "pos": "Phó từ"
   },
   {
     "w": "绝对",
@@ -3783,7 +4283,8 @@
     "cat": "trạng từ",
     "example": "这是绝对不可能的。",
     "example_vi": "Đây là điều tuyệt đối không thể xảy ra.",
-    "me": "absolute"
+    "me": "absolute",
+    "pos": "Phó từ"
   },
   {
     "w": "总体",
@@ -3792,58 +4293,67 @@
     "cat": "trạng từ",
     "example": "总体来说，结果令人满意。",
     "example_vi": "Nhìn tổng thể, kết quả khiến người ta hài lòng.",
-    "me": "overall"
+    "me": "overall",
+    "pos": "Phó từ"
   },
   {
     "w": "整体",
     "p": "zhěng tǐ",
     "m": "toàn thể",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "pos": "Tính từ"
   },
   {
     "w": "局部",
     "p": "jú bù",
     "m": "cục bộ, từng phần",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "pos": "Tính từ"
   },
   {
     "w": "基本",
     "p": "jī běn",
     "m": "cơ bản",
     "cat": "tính từ",
-    "me": "basic"
+    "me": "basic",
+    "pos": "Tính từ"
   },
   {
     "w": "根本",
     "p": "gēn běn",
     "m": "căn bản, cơ bản nhất",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "pos": "Tính từ"
   },
   {
     "w": "核心",
     "p": "hé xīn",
     "m": "cốt lõi",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "pos": "Tính từ"
   },
   {
     "w": "关键",
     "p": "guān jiàn",
     "m": "then chốt, quan trọng",
     "cat": "tính từ",
-    "me": "crucial, key"
+    "me": "crucial, key",
+    "pos": "Tính từ"
   },
   {
     "w": "主要",
     "p": "zhǔ yào",
     "m": "chủ yếu",
     "cat": "tính từ",
-    "me": "mostly"
+    "me": "mostly",
+    "pos": "Tính từ"
   },
   {
     "w": "次要",
     "p": "cì yào",
     "m": "thứ yếu",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "pos": "Tính từ"
   },
   {
     "w": "辅助",
@@ -3852,7 +4362,8 @@
     "cat": "tính từ",
     "example": "这个软件可以辅助学习。",
     "example_vi": "Phần mềm này có thể hỗ trợ việc học tập.",
-    "me": "supplement, support"
+    "me": "supplement, support",
+    "pos": "Tính từ"
   },
   {
     "w": "补充",
@@ -3861,7 +4372,8 @@
     "cat": "tính từ",
     "example": "请补充一些细节。",
     "example_vi": "Xin hãy bổ sung một số chi tiết.",
-    "me": "supplement, add"
+    "me": "supplement, add",
+    "pos": "Động từ"
   },
   {
     "w": "配合",
@@ -3870,7 +4382,8 @@
     "cat": "hành động",
     "example": "请大家互相配合。",
     "example_vi": "Xin mọi người phối hợp với nhau.",
-    "me": "coordinate"
+    "me": "coordinate",
+    "pos": "Động từ"
   },
   {
     "w": "配套",
@@ -3879,21 +4392,24 @@
     "cat": "tính từ",
     "example": "小区配套设施齐全。",
     "example_vi": "Khu dân cư có đầy đủ cơ sở vật chất đi kèm.",
-    "me": "to go together, match, be in sync"
+    "me": "to go together, match, be in sync",
+    "pos": "Tính từ"
   },
   {
     "w": "综合",
     "p": "zōng hé",
     "m": "tổng hợp",
     "cat": "tính từ",
-    "me": "synthesis"
+    "me": "synthesis",
+    "pos": "Tính từ"
   },
   {
     "w": "系统",
     "p": "xì tǒng",
     "m": "hệ thống",
     "cat": "học thuật",
-    "me": "system"
+    "me": "system",
+    "pos": "Danh từ"
   },
   {
     "w": "结构",
@@ -3902,14 +4418,16 @@
     "cat": "học thuật",
     "example": "这篇文章的结构很清晰。",
     "example_vi": "Cấu trúc bài viết này rất rõ ràng.",
-    "me": "structure"
+    "me": "structure",
+    "pos": "Danh từ"
   },
   {
     "w": "框架",
     "p": "kuàng jià",
     "m": "khung, cấu trúc, khuôn khổ, sườn",
     "cat": "học thuật",
-    "me": "frame, structure, framework"
+    "me": "frame, structure, framework",
+    "pos": "Danh từ"
   },
   {
     "w": "体系",
@@ -3917,7 +4435,8 @@
     "m": "hệ thống, cơ cấu",
     "cat": "học thuật",
     "example": "这是一个完整的知识体系。",
-    "example_vi": "Đây là một hệ thống kiến thức hoàn chỉnh."
+    "example_vi": "Đây là một hệ thống kiến thức hoàn chỉnh.",
+    "pos": "Danh từ"
   },
   {
     "w": "机制",
@@ -3926,7 +4445,8 @@
     "cat": "học thuật",
     "example": "这是一种自我调节机制。",
     "example_vi": "Đây là một cơ chế tự điều chỉnh.",
-    "me": "mechanism"
+    "me": "mechanism",
+    "pos": "Danh từ"
   },
   {
     "w": "模式",
@@ -3935,7 +4455,8 @@
     "cat": "học thuật",
     "example": "这是一种新的经营模式。",
     "example_vi": "Đây là một mô hình kinh doanh mới.",
-    "me": "model"
+    "me": "model",
+    "pos": "Danh từ"
   },
   {
     "w": "格局",
@@ -3944,7 +4465,8 @@
     "cat": "học thuật",
     "example": "国际格局正在发生变化。",
     "example_vi": "Cục diện quốc tế đang có sự thay đổi.",
-    "me": "situation, layout, framework, scale"
+    "me": "situation, layout, framework, scale",
+    "pos": "Danh từ"
   },
   {
     "w": "形势",
@@ -3953,26 +4475,30 @@
     "cat": "học thuật",
     "example": "目前的形势比较复杂。",
     "example_vi": "Tình hình hiện nay khá phức tạp.",
-    "me": "situation, circumstances"
+    "me": "situation, circumstances",
+    "pos": "Danh từ"
   },
   {
     "w": "状况",
     "p": "zhuàng kuàng",
     "m": "tình trạng",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "pos": "Danh từ"
   },
   {
     "w": "现象",
     "p": "xiàn xiàng",
     "m": "hiện tượng",
     "cat": "học thuật",
-    "me": "phenomenon"
+    "me": "phenomenon",
+    "pos": "Danh từ"
   },
   {
     "w": "问题",
     "p": "wèn tí",
     "m": "vấn đề",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "pos": "Danh từ"
   },
   {
     "w": "难题",
@@ -3981,14 +4507,16 @@
     "cat": "học thuật",
     "example": "这道难题终于解决了。",
     "example_vi": "Vấn đề khó này cuối cùng đã được giải quyết.",
-    "me": "a difficult problem"
+    "me": "a difficult problem",
+    "pos": "Danh từ"
   },
   {
     "w": "困境",
     "p": "kùn jìng",
     "m": "tình cảnh khó khăn",
     "cat": "học thuật",
-    "me": "predicament"
+    "me": "predicament",
+    "pos": "Danh từ"
   },
   {
     "w": "危机",
@@ -3997,7 +4525,8 @@
     "cat": "xã hội",
     "example": "公司正面临一场危机。",
     "example_vi": "Công ty đang đối mặt với một cuộc khủng hoảng.",
-    "me": "crisis"
+    "me": "crisis",
+    "pos": "Danh từ"
   },
   {
     "w": "压迫",
@@ -4006,7 +4535,8 @@
     "cat": "xã hội",
     "example": "人民不愿再受压迫。",
     "example_vi": "Nhân dân không muốn tiếp tục chịu áp bức.",
-    "me": "oppress"
+    "me": "oppress",
+    "pos": "Động từ"
   },
   {
     "w": "剥削",
@@ -4015,7 +4545,8 @@
     "cat": "xã hội",
     "example": "工人们反对剥削。",
     "example_vi": "Công nhân phản đối sự bóc lột.",
-    "me": "exploit"
+    "me": "exploit",
+    "pos": "Danh từ"
   },
   {
     "w": "腐败",
@@ -4024,34 +4555,39 @@
     "cat": "chính trị",
     "example": "政府正在打击腐败。",
     "example_vi": "Chính phủ đang đấu tranh chống tham nhũng.",
-    "me": "corruption"
+    "me": "corruption",
+    "pos": "Danh từ"
   },
   {
     "w": "贫困",
     "p": "pín kùn",
     "m": "nghèo đói",
     "cat": "xã hội",
-    "me": "poverty"
+    "me": "poverty",
+    "pos": "Danh từ"
   },
   {
     "w": "失业",
     "p": "shī yè",
     "m": "thất nghiệp",
     "cat": "xã hội",
-    "me": "unemployment"
+    "me": "unemployment",
+    "pos": "Danh từ"
   },
   {
     "w": "老龄化",
     "p": "lǎo líng huà",
     "m": "già hóa (dân số)",
-    "cat": "xã hội"
+    "cat": "xã hội",
+    "pos": "Danh từ"
   },
   {
     "w": "人口",
     "p": "rén kǒu",
     "m": "dân số",
     "cat": "xã hội",
-    "me": "population"
+    "me": "population",
+    "pos": "Danh từ"
   },
   {
     "w": "城市化",
@@ -4060,14 +4596,16 @@
     "cat": "xã hội",
     "example": "这个国家城市化进程很快。",
     "example_vi": "Quá trình đô thị hóa của nước này diễn ra rất nhanh.",
-    "me": "urbanization"
+    "me": "urbanization",
+    "pos": "Danh từ"
   },
   {
     "w": "农村",
     "p": "nóng cūn",
     "m": "nông thôn",
     "cat": "địa điểm",
-    "me": "rural area, countryside"
+    "me": "rural area, countryside",
+    "pos": "Danh từ"
   },
   {
     "w": "乡村",
@@ -4076,14 +4614,16 @@
     "cat": "địa điểm",
     "example": "他喜欢乡村的生活。",
     "example_vi": "Anh ấy thích cuộc sống ở làng quê.",
-    "me": "village, countryside"
+    "me": "village, countryside",
+    "pos": "Danh từ"
   },
   {
     "w": "郊区",
     "p": "jiāo qū",
     "m": "ngoại ô",
     "cat": "địa điểm",
-    "me": "suburb"
+    "me": "suburb",
+    "pos": "Danh từ"
   },
   {
     "w": "市中心",
@@ -4092,7 +4632,8 @@
     "cat": "địa điểm",
     "example": "公司位于市中心。",
     "example_vi": "Công ty nằm ở trung tâm thành phố.",
-    "me": "downtown"
+    "me": "downtown",
+    "pos": "Danh từ"
   },
   {
     "w": "交通堵塞",
@@ -4101,7 +4642,8 @@
     "cat": "giao thông",
     "example": "上下班时间交通堵塞严重。",
     "example_vi": "Giờ tan tầm giao thông tắc đường nghiêm trọng.",
-    "me": "traffic jam"
+    "me": "traffic jam",
+    "pos": "Danh từ"
   },
   {
     "w": "公共交通",
@@ -4110,21 +4652,24 @@
     "cat": "giao thông",
     "example": "我平时坐公共交通上班。",
     "example_vi": "Tôi thường đi làm bằng giao thông công cộng.",
-    "me": "public transport"
+    "me": "public transport",
+    "pos": "Động từ"
   },
   {
     "w": "地铁",
     "p": "dì tiě",
     "m": "tàu điện ngầm",
     "cat": "giao thông",
-    "me": "subway"
+    "me": "subway",
+    "pos": "Danh từ"
   },
   {
     "w": "高铁",
     "p": "gāo tiě",
     "m": "tàu cao tốc",
     "cat": "giao thông",
-    "me": "high-speed train"
+    "me": "high-speed train",
+    "pos": "Danh từ"
   },
   {
     "w": "共享单车",
@@ -4133,14 +4678,16 @@
     "cat": "giao thông",
     "example": "共享单车方便了出行。",
     "example_vi": "Xe đạp chia sẻ đã làm việc đi lại thuận tiện hơn.",
-    "me": "bike-sharing"
+    "me": "bike-sharing",
+    "pos": "Danh từ"
   },
   {
     "w": "新能源车",
     "p": "xīn néng yuán chē",
     "m": "xe năng lượng mới",
     "cat": "giao thông",
-    "me": "new-energy vehicle"
+    "me": "new-energy vehicle",
+    "pos": "Danh từ"
   },
   {
     "w": "无人驾驶",
@@ -4149,42 +4696,48 @@
     "cat": "công nghệ",
     "example": "无人驾驶技术正在发展。",
     "example_vi": "Công nghệ lái xe tự động đang phát triển.",
-    "me": "autonomous driving"
+    "me": "autonomous driving",
+    "pos": "Danh từ"
   },
   {
     "w": "房价",
     "p": "fáng jià",
     "m": "giá nhà",
     "cat": "tiền bạc",
-    "me": "housing price"
+    "me": "housing price",
+    "pos": "Danh từ"
   },
   {
     "w": "租房",
     "p": "zū fáng",
     "m": "thuê nhà",
     "cat": "nhà ở",
-    "me": "to rent a house"
+    "me": "to rent a house",
+    "pos": "Động từ"
   },
   {
     "w": "买房",
     "p": "mǎi fáng",
     "m": "mua nhà",
     "cat": "nhà ở",
-    "me": "buy a house"
+    "me": "buy a house",
+    "pos": "Động từ"
   },
   {
     "w": "贷款",
     "p": "dài kuǎn",
     "m": "cho vay, khoản vay, vay vốn, vay tiền",
     "cat": "tiền bạc",
-    "me": "lend, loan, borrow capital, borrow money"
+    "me": "lend, loan, borrow capital, borrow money",
+    "pos": "Động từ"
   },
   {
     "w": "通货膨胀",
     "p": "tōng huò péng zhàng",
     "m": "lạm phát",
     "cat": "kinh doanh",
-    "me": "inflation"
+    "me": "inflation",
+    "pos": "Danh từ"
   },
   {
     "w": "医疗",
@@ -4193,14 +4746,16 @@
     "cat": "sức khỏe",
     "example": "这家医院的医疗水平很高。",
     "example_vi": "Trình độ y tế của bệnh viện này rất cao.",
-    "me": "medical treatment"
+    "me": "medical treatment",
+    "pos": "Danh từ"
   },
   {
     "w": "保险",
     "p": "bǎo xiǎn",
     "m": "bảo hiểm",
     "cat": "tiền bạc",
-    "me": "insurance"
+    "me": "insurance",
+    "pos": "Danh từ"
   },
   {
     "w": "社会保障",
@@ -4209,7 +4764,8 @@
     "cat": "xã hội",
     "example": "政府完善了社会保障制度。",
     "example_vi": "Chính phủ đã hoàn thiện chế độ an sinh xã hội.",
-    "me": "social security"
+    "me": "social security",
+    "pos": "Danh từ"
   },
   {
     "w": "养老金",
@@ -4218,14 +4774,16 @@
     "cat": "tiền bạc",
     "example": "他每个月领取养老金。",
     "example_vi": "Mỗi tháng anh ấy nhận lương hưu.",
-    "me": "pension"
+    "me": "pension",
+    "pos": "Danh từ"
   },
   {
     "w": "公益",
     "p": "gōng yì",
     "m": "phúc lợi công cộng",
     "cat": "xã hội",
-    "me": "public welfare"
+    "me": "public welfare",
+    "pos": "Danh từ"
   },
   {
     "w": "志愿",
@@ -4234,14 +4792,16 @@
     "cat": "xã hội",
     "example": "他报名参加了志愿活动。",
     "example_vi": "Anh ấy đã đăng ký tham gia hoạt động tình nguyện.",
-    "me": "voluntary"
+    "me": "voluntary",
+    "pos": "Danh từ"
   },
   {
     "w": "慈善",
     "p": "cí shàn",
     "m": "từ thiện",
     "cat": "xã hội",
-    "me": "charity"
+    "me": "charity",
+    "pos": "Danh từ"
   },
   {
     "w": "捐款",
@@ -4250,6 +4810,7 @@
     "cat": "hành động",
     "example": "他们为灾区捐款。",
     "example_vi": "Họ quyên góp tiền cho vùng bị thiên tai.",
-    "me": "to donate money"
+    "me": "to donate money",
+    "pos": "Động từ"
   }
 ]

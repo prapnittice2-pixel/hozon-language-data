@@ -1,0 +1,2258 @@
+[
+  {
+    "w": "数字钱包",
+    "p": "shù zì qián bāo",
+    "m": "ví điện tử",
+    "cat": "technology",
+    "me": "digital wallet",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "在线支付",
+    "p": "zài xiàn zhī fù",
+    "m": "thanh toán trực tuyến",
+    "cat": "law",
+    "me": "online payment",
+    "pos": "Động từ"
+  },
+  {
+    "w": "移动应用",
+    "p": "yí dòng yīng yòng",
+    "m": "ứng dụng di động",
+    "cat": "technology",
+    "me": "mobile application",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "域名",
+    "p": "yù míng",
+    "m": "tên miền",
+    "cat": "advanced_language",
+    "me": "domain name",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "采购",
+    "p": "cǎi gòu",
+    "m": "mua sắm, thu mua",
+    "cat": "advanced_language",
+    "me": "purchase, procure",
+    "pos": "Động từ"
+  },
+  {
+    "w": "合作伙伴",
+    "p": "hé zuò huǒ bàn",
+    "m": "đối tác hợp tác",
+    "cat": "thành ngữ",
+    "me": "cooperation partner",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "竞争对手",
+    "p": "jìng zhēng duì shǒu",
+    "m": "đối thủ cạnh tranh",
+    "cat": "thành ngữ",
+    "me": "competitor",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "精神科",
+    "p": "jīng shén kē",
+    "m": "khoa tâm thần",
+    "cat": "advanced_language",
+    "me": "psychiatry department",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "肿瘤科",
+    "p": "zhǒng liú kē",
+    "m": "khoa ung bướu",
+    "cat": "advanced_language",
+    "me": "oncology department",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "草药",
+    "p": "cǎo yào",
+    "m": "thảo dược",
+    "cat": "medicine",
+    "me": "medicinal herb",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "交换生",
+    "p": "jiāo huàn shēng",
+    "m": "sinh viên trao đổi",
+    "cat": "education",
+    "me": "exchange student",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "研究员",
+    "p": "yán jiū yuán",
+    "m": "nhà nghiên cứu",
+    "cat": "education",
+    "me": "researcher",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "副教授",
+    "p": "fù jiào shòu",
+    "m": "phó giáo sư",
+    "cat": "advanced_language",
+    "me": "associate professor",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "讲师",
+    "p": "jiǎng shī",
+    "m": "giảng viên",
+    "cat": "education",
+    "me": "lecturer",
+    "pos": "Động từ"
+  },
+  {
+    "w": "阅览室",
+    "p": "yuè lǎn shì",
+    "m": "phòng đọc sách",
+    "cat": "advanced_language",
+    "me": "reading room",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "选修课",
+    "p": "xuǎn xiū kè",
+    "m": "môn học tự chọn",
+    "cat": "advanced_language",
+    "me": "elective",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "必修课",
+    "p": "bì xiū kè",
+    "m": "môn học bắt buộc",
+    "cat": "advanced_language",
+    "me": "compulsory subject",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "考研",
+    "p": "kǎo yán",
+    "m": "thi cao học",
+    "cat": "advanced_language",
+    "me": "graduate school entrance exam",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "水能",
+    "p": "shuǐ néng",
+    "m": "thủy điện",
+    "cat": "advanced_language",
+    "me": "hydroelectric power",
+    "pos": "Tính từ"
+  },
+  {
+    "w": "洪涝",
+    "p": "hóng lào",
+    "m": "lũ lụt",
+    "cat": "advanced_language",
+    "me": "flood",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "干旱",
+    "p": "gān hàn",
+    "m": "hạn hán",
+    "cat": "advanced_language",
+    "me": "drought",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "海啸",
+    "p": "hǎi xiào",
+    "m": "sóng thần",
+    "cat": "advanced_language",
+    "me": "tsunami",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "陶瓷",
+    "p": "táo cí",
+    "m": "gốm sứ",
+    "cat": "advanced_language",
+    "me": "ceramics, porcelain",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "丝绸",
+    "p": "sī chóu",
+    "m": "lụa tơ tằm",
+    "cat": "advanced_language",
+    "me": "silk",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "元宵节",
+    "p": "yuán xiāo jié",
+    "m": "Tết Nguyên Tiêu",
+    "cat": "advanced_language",
+    "me": "Lantern Festival",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "清明节",
+    "p": "qīng míng jié",
+    "m": "Tết Thanh Minh",
+    "cat": "advanced_language",
+    "me": "Qingming Festival (Tomb-Sweeping Day)",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "端午节",
+    "p": "duān wǔ jié",
+    "m": "Tết Đoan Ngọ",
+    "cat": "advanced_language",
+    "me": "Dragon Boat Festival",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "重阳节",
+    "p": "chóng yáng jié",
+    "m": "Tết Trùng Cửu",
+    "cat": "advanced_language",
+    "me": "Double Ninth Festival",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "旗袍",
+    "p": "qí páo",
+    "m": "áo sườn xám",
+    "cat": "advanced_language",
+    "me": "qipao (Chinese cheongsam)",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "诗词",
+    "p": "shī cí",
+    "m": "thơ ca",
+    "cat": "literature",
+    "me": "poetry",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "音乐剧",
+    "p": "yīn yuè jù",
+    "m": "nhạc kịch",
+    "cat": "music_industry",
+    "me": "musical (theater)",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "孤独感",
+    "p": "gū dú gǎn",
+    "m": "cảm giác cô đơn",
+    "cat": "advanced_language",
+    "me": "loneliness",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "满足感",
+    "p": "mǎn zú gǎn",
+    "m": "cảm giác thỏa mãn",
+    "cat": "advanced_language",
+    "me": "a feeling of satisfaction",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "烹饪技巧",
+    "p": "pēng rèn jì qiǎo",
+    "m": "kỹ thuật nấu nướng",
+    "cat": "thành ngữ",
+    "me": "cooking technique",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "调味品",
+    "p": "tiáo wèi pǐn",
+    "m": "gia vị",
+    "cat": "food",
+    "me": "spice, seasoning",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "花椒",
+    "p": "huā jiāo",
+    "m": "hạt tiêu Tứ Xuyên",
+    "cat": "advanced_language",
+    "me": "Sichuan peppercorn",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "八角",
+    "p": "bā jiǎo",
+    "m": "hoa hồi",
+    "cat": "advanced_language",
+    "me": "star anise",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "桂皮",
+    "p": "guì pí",
+    "m": "quế",
+    "cat": "advanced_language",
+    "me": "cinnamon",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "红烧肉",
+    "p": "hóng shāo ròu",
+    "m": "thịt kho đỏ",
+    "cat": "advanced_language",
+    "me": "red-braised pork",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "清蒸鱼",
+    "p": "qīng zhēng yú",
+    "m": "cá hấp",
+    "cat": "advanced_language",
+    "me": "steamed fish",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "麻婆豆腐",
+    "p": "má pó dòu fu",
+    "m": "đậu phụ bà già",
+    "cat": "thành ngữ",
+    "me": "old lady's tofu (a tofu dish)",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "宫保鸡丁",
+    "p": "gōng bǎo jī dīng",
+    "m": "gà xào Cung Bảo",
+    "cat": "thành ngữ",
+    "me": "Kung Pao chicken",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "糖醋排骨",
+    "p": "táng cù pái gǔ",
+    "m": "sườn chua ngọt",
+    "cat": "thành ngữ",
+    "me": "sweet and sour ribs",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "小笼包",
+    "p": "xiǎo lóng bāo",
+    "m": "bánh bao nhỏ hấp",
+    "cat": "advanced_language",
+    "me": "small steamed dumpling",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "青旅",
+    "p": "qīng lǚ",
+    "m": "nhà nghỉ thanh niên",
+    "cat": "advanced_language",
+    "me": "youth hostel",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "世界遗产",
+    "p": "shì jiè yí chǎn",
+    "m": "di sản thế giới",
+    "cat": "culture",
+    "me": "world heritage",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "文化遗址",
+    "p": "wén huà yí zhǐ",
+    "m": "di tích văn hóa",
+    "cat": "culture",
+    "me": "cultural relic",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "背包旅行",
+    "p": "bèi bāo lǚ xíng",
+    "m": "du lịch bụi",
+    "cat": "travel",
+    "me": "backpacking travel",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "奥林匹克",
+    "p": "ào lín pǐ kè",
+    "m": "Olympic",
+    "cat": "thành ngữ",
+    "me": "the Olympics",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "季军",
+    "p": "jì jūn",
+    "m": "hạng ba",
+    "cat": "advanced_language",
+    "me": "third place",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "星系",
+    "p": "xīng xì",
+    "m": "thiên hà",
+    "cat": "advanced_language",
+    "me": "galaxy",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "太阳系",
+    "p": "tài yáng xì",
+    "m": "hệ mặt trời",
+    "cat": "advanced_language",
+    "me": "the solar system",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "物理学",
+    "p": "wù lǐ xué",
+    "m": "vật lý học",
+    "cat": "science",
+    "me": "physics",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "生物学",
+    "p": "shēng wù xué",
+    "m": "sinh vật học",
+    "cat": "advanced_language",
+    "me": "biology",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "历史学",
+    "p": "lì shǐ xué",
+    "m": "lịch sử học",
+    "cat": "advanced_language",
+    "me": "historiography",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "商法",
+    "p": "shāng fǎ",
+    "m": "luật thương mại",
+    "cat": "law",
+    "me": "commercial law",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "税法",
+    "p": "shuì fǎ",
+    "m": "luật thuế",
+    "cat": "law",
+    "me": "tax law",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "惩罚",
+    "p": "chéng fá",
+    "m": "hình phạt",
+    "cat": "advanced_language",
+    "me": "punishment",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "打工人",
+    "p": "dǎ gōng rén",
+    "m": "người lao động (tự gọi)",
+    "cat": "advanced_language",
+    "me": "worker (self-reference)",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "搞钱",
+    "p": "gǎo qián",
+    "m": "kiếm tiền",
+    "cat": "advanced_language",
+    "me": "earn",
+    "pos": "Động từ"
+  },
+  {
+    "w": "宅家",
+    "p": "zhái jiā",
+    "m": "ở nhà, hikikomori",
+    "cat": "advanced_language",
+    "me": "hikikomori (a social recluse)",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "刷剧",
+    "p": "shuā jù",
+    "m": "xem phim liên tục",
+    "cat": "advanced_language",
+    "me": "to binge-watch",
+    "pos": "Động từ"
+  },
+  {
+    "w": "刷屏",
+    "p": "shuā píng",
+    "m": "tràn ngập mạng xã hội",
+    "cat": "technology",
+    "me": "flood social media",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "种草",
+    "p": "zhòng cǎo",
+    "m": "giới thiệu sản phẩm",
+    "cat": "advanced_language",
+    "me": "product introduction",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "拔草",
+    "p": "bá cǎo",
+    "m": "mua thứ đã thấy quảng cáo",
+    "cat": "media",
+    "me": "to buy something after seeing it advertised",
+    "pos": "Động từ"
+  },
+  {
+    "w": "带货",
+    "p": "dài huò",
+    "m": "bán hàng livestream",
+    "cat": "law",
+    "me": "livestream selling",
+    "pos": "Động từ"
+  },
+  {
+    "w": "主播",
+    "p": "zhǔ bō",
+    "m": "người dẫn livestream",
+    "cat": "advanced_language",
+    "me": "livestream host",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "表情包",
+    "p": "biǎo qíng bāo",
+    "m": "meme, emoji",
+    "cat": "advanced_language",
+    "me": "meme, emoji",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "粤语",
+    "p": "yuè yǔ",
+    "m": "tiếng Quảng Đông",
+    "cat": "advanced_language",
+    "me": "Cantonese",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "语调",
+    "p": "yǔ diào",
+    "m": "ngữ điệu, giọng điệu",
+    "cat": "advanced_language",
+    "me": "intonation, tone",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "一石二鸟",
+    "p": "yī shí èr niǎo",
+    "m": "một mũi tên trúng hai đích",
+    "cat": "thành ngữ",
+    "me": "one arrow, two targets — kill two birds with one stone",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "大惊失色",
+    "p": "dà jīng shī sè",
+    "m": "giật mình kinh hoảng",
+    "cat": "thành ngữ",
+    "me": "startled with terror",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "见多识广",
+    "p": "jiàn duō shí guǎng",
+    "m": "đi nhiều biết rộng",
+    "cat": "thành ngữ",
+    "me": "widely traveled and knowledgeable",
+    "pos": "Động từ"
+  },
+  {
+    "w": "千变万化",
+    "p": "qiān biàn wàn huà",
+    "m": "ngàn biến vạn hóa",
+    "cat": "thành ngữ",
+    "me": "a thousand transformations, ten thousand changes",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "十全十美",
+    "p": "shí quán shí měi",
+    "m": "hoàn toàn hoàn hảo",
+    "cat": "thành ngữ",
+    "me": "completely perfect",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "欲速不达",
+    "p": "yù sù bù dá",
+    "m": "dục tốc bất đạt",
+    "cat": "thành ngữ",
+    "me": "haste makes waste",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "争先恐后",
+    "p": "zhēng xiān kǒng hòu",
+    "m": "tranh giành nhau, chen lấn",
+    "cat": "thành ngữ",
+    "me": "jostle, scramble",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "血管",
+    "p": "xuè guǎn",
+    "m": "mạch máu",
+    "cat": "advanced_language",
+    "me": "vessel",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "艾滋病",
+    "p": "ài zī bìng",
+    "m": "AIDS",
+    "cat": "advanced_language",
+    "me": "AIDS",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "荷尔蒙",
+    "p": "hè ěr méng",
+    "m": "hormone",
+    "cat": "medicine",
+    "me": "hormone",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "矿物质",
+    "p": "kuàng wù zhì",
+    "m": "khoáng chất",
+    "cat": "advanced_language",
+    "me": "mineral",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "外包",
+    "p": "wài bāo",
+    "m": "gia công bên ngoài",
+    "cat": "advanced_language",
+    "me": "outsourcing",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "控制器",
+    "p": "kòng zhì qì",
+    "m": "bộ điều khiển",
+    "cat": "advanced_language",
+    "me": "controller",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "目瞪口呆",
+    "p": "mù dèng kǒu dāi",
+    "m": "há hốc mồm kinh ngạc",
+    "cat": "thành ngữ",
+    "me": "jaw drop in astonishment",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "万事俱备",
+    "p": "wàn shì jù bèi",
+    "m": "mọi việc đã sẵn sàng",
+    "cat": "thành ngữ",
+    "me": "everything is ready",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "小题大做",
+    "p": "xiǎo tí dà zuò",
+    "m": "làm to chuyện nhỏ",
+    "cat": "thành ngữ",
+    "me": "make a mountain out of a molehill",
+    "pos": "Động từ"
+  },
+  {
+    "w": "一目了然",
+    "p": "yī mù liǎo rán",
+    "m": "nhìn một cái là hiểu",
+    "cat": "thành ngữ",
+    "me": "understand at a single glance",
+    "pos": "Động từ"
+  },
+  {
+    "w": "异口同声",
+    "p": "yì kǒu tóng shēng",
+    "m": "đồng thanh nhất trí",
+    "cat": "thành ngữ",
+    "me": "unanimous agreement",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "专心致志",
+    "p": "zhuān xīn zhì zhì",
+    "m": "chuyên tâm chí chí",
+    "cat": "thành ngữ",
+    "me": "wholeheartedly devoted",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "癌症",
+    "p": "ái zhèng",
+    "m": "ung thư (nói chung)",
+    "cat": "medicine",
+    "me": "cancer (general)",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "放射科",
+    "p": "fàng shè kē",
+    "m": "khoa X-quang",
+    "cat": "advanced_language",
+    "me": "radiology department",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "麻醉科",
+    "p": "má zuì kē",
+    "m": "khoa gây mê",
+    "cat": "advanced_language",
+    "me": "anesthesiology department",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "急诊科",
+    "p": "jí zhěn kē",
+    "m": "khoa cấp cứu",
+    "cat": "medicine",
+    "me": "emergency department",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "地基",
+    "p": "dì jī",
+    "m": "nền móng",
+    "cat": "advanced_language",
+    "me": "foundation",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "建筑面积",
+    "p": "jiàn zhù miàn jī",
+    "m": "diện tích xây dựng",
+    "cat": "thành ngữ",
+    "me": "construction area",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "安然无恙",
+    "p": "ān rán wú yàng",
+    "m": "bình an vô sự",
+    "cat": "thành ngữ",
+    "me": "safe and sound",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "白手起家",
+    "p": "bái shǒu qǐ jiā",
+    "m": "tay không xây dựng sự nghiệp",
+    "cat": "work",
+    "me": "build a career from nothing",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "出乎意料",
+    "p": "chū hū yì liào",
+    "m": "ngoài sự mong đợi",
+    "cat": "thành ngữ",
+    "me": "beyond expectations",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "东奔西走",
+    "p": "dōng bēn xī zǒu",
+    "m": "bôn ba đây đó",
+    "cat": "thành ngữ",
+    "me": "rush about from place to place",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "欢天喜地",
+    "p": "huān tiān xǐ dì",
+    "m": "vui mừng hớn hở",
+    "cat": "thành ngữ",
+    "me": "overjoyed, elated",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "三人行必有我师",
+    "p": "sān rén xíng bì yǒu wǒ shī",
+    "m": "ba người đi tất có thầy ta",
+    "cat": "advanced_language",
+    "me": "among any three people walking together, there must be one I can learn from",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "数一数二",
+    "p": "shǔ yī shǔ èr",
+    "m": "nhất nhì, xuất chúng",
+    "cat": "thành ngữ",
+    "me": "top-tier, outstanding",
+    "pos": "Số từ"
+  },
+  {
+    "w": "天长地久",
+    "p": "tiān cháng dì jiǔ",
+    "m": "dài như trời đất",
+    "cat": "thành ngữ",
+    "me": "as vast / eternal as heaven and earth",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "往往如此",
+    "p": "wǎng wǎng rú cǐ",
+    "m": "thường thường là vậy",
+    "cat": "thành ngữ",
+    "me": "usually the case",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "无缘无故",
+    "p": "wú yuán wú gù",
+    "m": "không có lý do gì",
+    "cat": "thành ngữ",
+    "me": "there's no reason to",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "物美价廉",
+    "p": "wù měi jià lián",
+    "m": "chất lượng tốt giá rẻ",
+    "cat": "thành ngữ",
+    "me": "good quality, low price",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "有始有终",
+    "p": "yǒu shǐ yǒu zhōng",
+    "m": "có đầu có cuối",
+    "cat": "thành ngữ",
+    "me": "have a beginning and an end — see something through",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "杂乱无章",
+    "p": "zá luàn wú zhāng",
+    "m": "lộn xộn không trật tự",
+    "cat": "thành ngữ",
+    "me": "disorderly, chaotic",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "团队协作",
+    "p": "tuán duì xié zuò",
+    "m": "làm việc nhóm",
+    "cat": "thành ngữ",
+    "me": "teamwork",
+    "pos": "Động từ"
+  },
+  {
+    "w": "沟通技巧",
+    "p": "gōu tōng jì qiǎo",
+    "m": "kỹ năng giao tiếp",
+    "cat": "thành ngữ",
+    "me": "communication skills",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "时间管理",
+    "p": "shí jiān guǎn lǐ",
+    "m": "quản lý thời gian",
+    "cat": "thành ngữ",
+    "me": "time management",
+    "pos": "Động từ"
+  },
+  {
+    "w": "秦始皇",
+    "p": "qín shǐ huáng",
+    "m": "Tần Thủy Hoàng",
+    "cat": "advanced_language",
+    "me": "Qin Shi Huang",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "汉朝",
+    "p": "hàn cháo",
+    "m": "triều đại Hán",
+    "cat": "advanced_language",
+    "me": "the Han dynasty",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "唐朝",
+    "p": "táng cháo",
+    "m": "triều đại Đường",
+    "cat": "advanced_language",
+    "me": "Tang dynasty",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "宋朝",
+    "p": "sòng cháo",
+    "m": "triều đại Tống",
+    "cat": "advanced_language",
+    "me": "the Song dynasty",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "明朝",
+    "p": "míng cháo",
+    "m": "triều đại Minh",
+    "cat": "advanced_language",
+    "me": "the Ming dynasty",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "清朝",
+    "p": "qīng cháo",
+    "m": "triều đại Thanh",
+    "cat": "advanced_language",
+    "me": "the Qing dynasty",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "阴阳",
+    "p": "yīn yáng",
+    "m": "âm dương",
+    "cat": "advanced_language",
+    "me": "yin and yang",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "五行",
+    "p": "wǔ xíng",
+    "m": "ngũ hành",
+    "cat": "advanced_language",
+    "me": "the Five Elements",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "压强",
+    "p": "yā qiáng",
+    "m": "áp suất",
+    "cat": "advanced_language",
+    "me": "pressure",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "戒毒",
+    "p": "jiè dú",
+    "m": "cai nghiện ma túy",
+    "cat": "advanced_language",
+    "me": "drug rehabilitation",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "戒酒",
+    "p": "jiè jiǔ",
+    "m": "cai rượu",
+    "cat": "advanced_language",
+    "me": "quit drinking",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "流浪汉",
+    "p": "liú làng hàn",
+    "m": "người vô gia cư",
+    "cat": "advanced_language",
+    "me": "homeless person",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "包装设计",
+    "p": "bāo zhuāng shè jì",
+    "m": "thiết kế bao bì",
+    "cat": "thành ngữ",
+    "me": "packaging design",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "佛教",
+    "p": "fó jiào",
+    "m": "Phật giáo",
+    "cat": "advanced_language",
+    "me": "Buddhism",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "道教",
+    "p": "dào jiào",
+    "m": "Đạo giáo",
+    "cat": "advanced_language",
+    "me": "Taoism",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "儒教",
+    "p": "rú jiào",
+    "m": "Nho giáo",
+    "cat": "philosophy",
+    "me": "Confucianism",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "伊斯兰教",
+    "p": "yī sī lán jiào",
+    "m": "Hồi giáo",
+    "cat": "thành ngữ",
+    "me": "Islam",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "基督教",
+    "p": "jī dū jiào",
+    "m": "Kitô giáo",
+    "cat": "advanced_language",
+    "me": "Christianity",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "天主教",
+    "p": "tiān zhǔ jiào",
+    "m": "Công giáo",
+    "cat": "advanced_language",
+    "me": "Catholicism",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "新教",
+    "p": "xīn jiào",
+    "m": "Đạo Tin Lành",
+    "cat": "advanced_language",
+    "me": "Protestantism",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "印度教",
+    "p": "yìn dù jiào",
+    "m": "Ấn Độ giáo",
+    "cat": "advanced_language",
+    "me": "Hinduism",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "犹太教",
+    "p": "yóu tài jiào",
+    "m": "Do Thái giáo",
+    "cat": "advanced_language",
+    "me": "Judaism",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "菩萨",
+    "p": "pú sà",
+    "m": "Bồ Tát",
+    "cat": "advanced_language",
+    "me": "Bodhisattva",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "如来",
+    "p": "rú lái",
+    "m": "Như Lai",
+    "cat": "advanced_language",
+    "me": "Tathagata (the Buddha)",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "修行",
+    "p": "xiū xíng",
+    "m": "tu hành, tu dưỡng",
+    "cat": "advanced_language",
+    "me": "cultivate oneself spiritually",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "种树",
+    "p": "zhòng shù",
+    "m": "đầu tư lâu dài, xây dựng",
+    "cat": "economics",
+    "me": "long-term investment, building",
+    "pos": "Động từ"
+  },
+  {
+    "w": "孔子",
+    "p": "Kǒng zǐ",
+    "m": "Khổng Tử",
+    "cat": "advanced_language",
+    "me": "Confucius",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "老子",
+    "p": "Lǎo zǐ",
+    "m": "Lão Tử",
+    "cat": "advanced_language",
+    "me": "Laozi",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "气",
+    "p": "qì",
+    "m": "khí",
+    "cat": "advanced_language",
+    "me": "qi",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "中草药",
+    "p": "zhōng cǎo yào",
+    "m": "thảo dược Trung Quốc",
+    "cat": "medicine",
+    "me": "Chinese herbal medicine",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "人参",
+    "p": "rén shēn",
+    "m": "nhân sâm",
+    "cat": "advanced_language",
+    "me": "ginseng",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "恒星",
+    "p": "héng xīng",
+    "m": "ngôi sao (cố định)",
+    "cat": "advanced_language",
+    "me": "star (fixed)",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "彗星",
+    "p": "huì xīng",
+    "m": "sao chổi",
+    "cat": "advanced_language",
+    "me": "comet",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "小行星",
+    "p": "xiǎo xíng xīng",
+    "m": "tiểu hành tinh",
+    "cat": "advanced_language",
+    "me": "asteroid",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "日食",
+    "p": "rì shí",
+    "m": "nhật thực",
+    "cat": "astronomy",
+    "me": "solar eclipse",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "月食",
+    "p": "yuè shí",
+    "m": "nguyệt thực",
+    "cat": "advanced_language",
+    "me": "lunar eclipse",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "潮汐",
+    "p": "cháo xī",
+    "m": "thủy triều",
+    "cat": "advanced_language",
+    "me": "tide",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "珠江",
+    "p": "Zhū jiāng",
+    "m": "Sông Châu Giang",
+    "cat": "advanced_language",
+    "me": "the Pearl River",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "喜马拉雅山",
+    "p": "Xǐ mǎ lā yǎ shān",
+    "m": "Dãy Himalaya",
+    "cat": "advanced_language",
+    "me": "the Himalayas",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "南海",
+    "p": "Nán hǎi",
+    "m": "Biển Nam (Biển Đông)",
+    "cat": "advanced_language",
+    "me": "the South China Sea",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "东海",
+    "p": "Dōng hǎi",
+    "m": "Biển Hoa Đông",
+    "cat": "advanced_language",
+    "me": "the East China Sea",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "黄海",
+    "p": "Huáng hǎi",
+    "m": "Biển Hoàng Hải",
+    "cat": "advanced_language",
+    "me": "Yellow Sea",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "西湖",
+    "p": "Xī hú",
+    "m": "Tây Hồ (Hàng Châu)",
+    "cat": "advanced_language",
+    "me": "West Lake (Hangzhou)",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "慈悲",
+    "p": "cí bēi",
+    "m": "từ bi",
+    "cat": "advanced_language",
+    "me": "compassion",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "就连",
+    "p": "jiù lián",
+    "m": "ngay cả",
+    "cat": "advanced_language",
+    "me": "even",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "起码",
+    "p": "qǐ mǎ",
+    "m": "ít nhất, tối thiểu",
+    "cat": "advanced_language",
+    "me": "at least, minimum",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "令人",
+    "p": "lìng rén",
+    "m": "làm cho người ta",
+    "cat": "advanced_language",
+    "me": "make someone (feel)",
+    "pos": "Động từ"
+  },
+  {
+    "w": "西游记",
+    "p": "Xī yóu jì",
+    "m": "Tây Du Ký",
+    "cat": "advanced_language",
+    "me": "Journey to the West",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "笛子",
+    "p": "dí zi",
+    "m": "sáo trúc",
+    "cat": "advanced_language",
+    "me": "bamboo flute",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "古筝",
+    "p": "gǔ zhēng",
+    "m": "cổ tranh",
+    "cat": "advanced_language",
+    "me": "guzheng (Chinese zither)",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "竹笛",
+    "p": "zhú dí",
+    "m": "sáo tre",
+    "cat": "advanced_language",
+    "me": "bamboo flute",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "有趣的是",
+    "p": "yǒu qù de shì",
+    "m": "thú vị là",
+    "cat": "animal",
+    "me": "interestingly",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "组合",
+    "p": "zǔ hé",
+    "m": "tổ hợp",
+    "cat": "advanced_language",
+    "me": "combinatorial",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "点心",
+    "p": "diǎn xīn",
+    "m": "dim sum, bánh điểm tâm",
+    "cat": "advanced_language",
+    "me": "dim sum",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "煎饺",
+    "p": "jiān jiǎo",
+    "m": "sủi cảo chiên",
+    "cat": "advanced_language",
+    "me": "pan-fried dumplings",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "樱花",
+    "p": "yīng huā",
+    "m": "hoa anh đào",
+    "cat": "advanced_language",
+    "me": "cherry blossom",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "荷花",
+    "p": "hé huā",
+    "m": "hoa sen",
+    "cat": "advanced_language",
+    "me": "lotus flower",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "牡丹",
+    "p": "mǔ dān",
+    "m": "hoa mẫu đơn",
+    "cat": "advanced_language",
+    "me": "peony",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "菊花",
+    "p": "jú huā",
+    "m": "hoa cúc",
+    "cat": "advanced_language",
+    "me": "chrysanthemum",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "梅花",
+    "p": "méi huā",
+    "m": "hoa mận/mai",
+    "cat": "advanced_language",
+    "me": "plum blossom",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "兰花",
+    "p": "lán huā",
+    "m": "hoa lan",
+    "cat": "advanced_language",
+    "me": "orchid",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "银杏",
+    "p": "yín xìng",
+    "m": "bạch quả (cây)",
+    "cat": "advanced_language",
+    "me": "ginkgo (tree)",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "桂花",
+    "p": "guì huā",
+    "m": "hoa quế",
+    "cat": "advanced_language",
+    "me": "osmanthus flower",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "茉莉",
+    "p": "mò li",
+    "m": "hoa nhài (lài)",
+    "cat": "advanced_language",
+    "me": "jasmine",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "薰衣草",
+    "p": "xūn yī cǎo",
+    "m": "hoa lavender",
+    "cat": "advanced_language",
+    "me": "lavender",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "芦苇",
+    "p": "lú wěi",
+    "m": "lau sậy",
+    "cat": "advanced_language",
+    "me": "reed",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "仙人掌",
+    "p": "xiān rén zhǎng",
+    "m": "xương rồng",
+    "cat": "advanced_language",
+    "me": "cactus",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "七夕节",
+    "p": "Qī xī jié",
+    "m": "Tết Thất Tịch",
+    "cat": "advanced_language",
+    "me": "the Qixi Festival (Chinese Valentine's Day)",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "冬至",
+    "p": "Dōng zhì",
+    "m": "Đông Chí",
+    "cat": "advanced_language",
+    "me": "Winter Solstice",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "舞狮",
+    "p": "wǔ shī",
+    "m": "múa lân (sư tử)",
+    "cat": "advanced_language",
+    "me": "lion dance",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "舞龙",
+    "p": "wǔ lóng",
+    "m": "múa rồng",
+    "cat": "advanced_language",
+    "me": "dragon dance",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "爆竹",
+    "p": "bào zhú",
+    "m": "pháo nổ",
+    "cat": "advanced_language",
+    "me": "firecracker",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "会计师",
+    "p": "kuài jì shī",
+    "m": "kế toán",
+    "cat": "accounting",
+    "me": "accounting",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "建筑师",
+    "p": "jiàn zhù shī",
+    "m": "kiến trúc sư",
+    "cat": "nghệ thuật",
+    "me": "architect",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "口腔科医生",
+    "p": "kǒu qiāng kē yī shēng",
+    "m": "nha sĩ",
+    "cat": "advanced_language",
+    "me": "dentist",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "兽医",
+    "p": "shòu yī",
+    "m": "bác sĩ thú y",
+    "cat": "geo_vet",
+    "me": "vet",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "跳水",
+    "p": "tiào shuǐ",
+    "m": "nhảy cầu",
+    "cat": "advanced_language",
+    "me": "diving (sport)",
+    "pos": "Động từ"
+  },
+  {
+    "w": "赛艇",
+    "p": "sài tǐng",
+    "m": "đua thuyền",
+    "cat": "advanced_language",
+    "me": "boat racing",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "帆船",
+    "p": "fān chuán",
+    "m": "thuyền buồm",
+    "cat": "advanced_language",
+    "me": "sailboat",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "击剑",
+    "p": "jī jiàn",
+    "m": "đấu kiếm",
+    "cat": "advanced_language",
+    "me": "fencing",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "柔道",
+    "p": "róu dào",
+    "m": "judo",
+    "cat": "advanced_language",
+    "me": "judo",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "拳击",
+    "p": "quán jī",
+    "m": "quyền anh",
+    "cat": "advanced_language",
+    "me": "boxing",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "莫斯科",
+    "p": "Mò sī kē",
+    "m": "Moscow",
+    "cat": "advanced_language",
+    "me": "Moscow",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "迪拜",
+    "p": "Dí bài",
+    "m": "Dubai",
+    "cat": "advanced_language",
+    "me": "Dubai",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "孟买",
+    "p": "Mèng mǎi",
+    "m": "Mumbai",
+    "cat": "advanced_language",
+    "me": "Mumbai",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "澳门",
+    "p": "Àomén",
+    "m": "Macau",
+    "cat": "advanced_language",
+    "me": "Macau",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "多伦多",
+    "p": "Duō lún duō",
+    "m": "Toronto",
+    "cat": "advanced_language",
+    "me": "Toronto",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "温哥华",
+    "p": "Wēn gē huá",
+    "m": "Vancouver",
+    "cat": "advanced_language",
+    "me": "Vancouver",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "洛杉矶",
+    "p": "Luò shān jī",
+    "m": "Los Angeles",
+    "cat": "advanced_language",
+    "me": "Los Angeles",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "旧金山",
+    "p": "Jiù jīn shān",
+    "m": "San Francisco",
+    "cat": "advanced_language",
+    "me": "San Francisco",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "芝加哥",
+    "p": "Zhī jiā gē",
+    "m": "Chicago",
+    "cat": "advanced_language",
+    "me": "Chicago",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "华盛顿",
+    "p": "Huá shèng dùn",
+    "m": "Washington D.C.",
+    "cat": "advanced_language",
+    "me": "Washington D.C.",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "法兰克福",
+    "p": "Fǎ lán kè fú",
+    "m": "Frankfurt",
+    "cat": "thành ngữ",
+    "me": "Frankfurt",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "阿姆斯特丹",
+    "p": "Ā mǔ sī tè dān",
+    "m": "Amsterdam",
+    "cat": "advanced_language",
+    "me": "Amsterdam",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "布鲁塞尔",
+    "p": "Bù lǔ sài ěr",
+    "m": "Brussels",
+    "cat": "thành ngữ",
+    "me": "Brussels",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "斯德哥尔摩",
+    "p": "Sī dé gē ěr mó",
+    "m": "Stockholm",
+    "cat": "advanced_language",
+    "me": "Stockholm",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "维也纳",
+    "p": "Wéi yě nà",
+    "m": "Vienna",
+    "cat": "advanced_language",
+    "me": "Vienna",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "吉隆坡",
+    "p": "Jí lóng pō",
+    "m": "Kuala Lumpur",
+    "cat": "advanced_language",
+    "me": "Kuala Lumpur",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "雅加达",
+    "p": "Yǎ jiā dá",
+    "m": "Jakarta",
+    "cat": "advanced_language",
+    "me": "Jakarta",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "曼谷",
+    "p": "Màn gǔ",
+    "m": "Bangkok",
+    "cat": "advanced_language",
+    "me": "Bangkok",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "河内",
+    "p": "Hé nèi",
+    "m": "Hanoi (Hà Nội)",
+    "cat": "advanced_language",
+    "me": "Hanoi",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "胡志明市",
+    "p": "Hú zhì míng shì",
+    "m": "Hồ Chí Minh City",
+    "cat": "thành ngữ",
+    "me": "Ho Chi Minh City",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "开罗",
+    "p": "Kāi luó",
+    "m": "Cairo",
+    "cat": "advanced_language",
+    "me": "Cairo",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "圣保罗",
+    "p": "Shèng bǎo luó",
+    "m": "São Paulo",
+    "cat": "advanced_language",
+    "me": "São Paulo",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "利马",
+    "p": "Lì mǎ",
+    "m": "Lima",
+    "cat": "advanced_language",
+    "me": "Lima",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "墨西哥城",
+    "p": "Mò xī gē chéng",
+    "m": "Mexico City",
+    "cat": "thành ngữ",
+    "me": "Mexico City",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "不管怎样",
+    "p": "bù guǎn zěn yàng",
+    "m": "dù sao đi nữa",
+    "cat": "thành ngữ",
+    "me": "no matter what, regardless",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "实践中",
+    "p": "shí jiàn zhōng",
+    "m": "trong thực tiễn",
+    "cat": "advanced_language",
+    "me": "in practice",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "螳螂",
+    "p": "táng láng",
+    "m": "bọ ngựa",
+    "cat": "advanced_language",
+    "me": "praying mantis",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "蜈蚣",
+    "p": "wú gōng",
+    "m": "rết",
+    "cat": "advanced_language",
+    "me": "centipede",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "蝎子",
+    "p": "xiē zi",
+    "m": "bọ cạp",
+    "cat": "advanced_language",
+    "me": "scorpion",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "壁虎",
+    "p": "bì hǔ",
+    "m": "thạch sùng",
+    "cat": "advanced_language",
+    "me": "house lizard, gecko",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "变色龙",
+    "p": "biàn sè lóng",
+    "m": "tắc kè hoa",
+    "cat": "advanced_language",
+    "me": "chameleon",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "袋鼠",
+    "p": "dài shǔ",
+    "m": "chuột túi",
+    "cat": "advanced_language",
+    "me": "kangaroo",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "考拉",
+    "p": "kǎo lā",
+    "m": "gấu túi koala",
+    "cat": "advanced_language",
+    "me": "koala",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "鸵鸟",
+    "p": "tuó niǎo",
+    "m": "đà điểu",
+    "cat": "advanced_language",
+    "me": "ostrich",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "企鹅",
+    "p": "qǐ é",
+    "m": "chim cánh cụt",
+    "cat": "animal",
+    "me": "penguin",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "犀牛",
+    "p": "xī niú",
+    "m": "tê giác",
+    "cat": "advanced_language",
+    "me": "rhinoceros",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "河马",
+    "p": "hé mǎ",
+    "m": "hà mã",
+    "cat": "advanced_language",
+    "me": "hippopotamus",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "长颈鹿",
+    "p": "cháng jǐng lù",
+    "m": "hươu cao cổ",
+    "cat": "advanced_language",
+    "me": "giraffe",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "猩猩",
+    "p": "xīng xīng",
+    "m": "đười ươi",
+    "cat": "advanced_language",
+    "me": "orangutan",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "猎豹",
+    "p": "liè bào",
+    "m": "báo săn cheetah",
+    "cat": "advanced_language",
+    "me": "cheetah",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "羚羊",
+    "p": "líng yáng",
+    "m": "linh dương",
+    "cat": "advanced_language",
+    "me": "antelope",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "水母",
+    "p": "shuǐ mǔ",
+    "m": "sứa biển",
+    "cat": "advanced_language",
+    "me": "jellyfish",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "章鱼",
+    "p": "zhāng yú",
+    "m": "bạch tuộc",
+    "cat": "advanced_language",
+    "me": "octopus",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "海豚",
+    "p": "hǎi tún",
+    "m": "cá heo",
+    "cat": "advanced_language",
+    "me": "dolphin",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "金枪鱼",
+    "p": "jīn qiāng yú",
+    "m": "cá ngừ",
+    "cat": "advanced_language",
+    "me": "tuna",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "三文鱼",
+    "p": "sān wén yú",
+    "m": "cá hồi",
+    "cat": "advanced_language",
+    "me": "salmon",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "龙虾",
+    "p": "lóng xiā",
+    "m": "tôm hùm",
+    "cat": "advanced_language",
+    "me": "lobster",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "雷暴",
+    "p": "léi bào",
+    "m": "giông sét",
+    "cat": "advanced_language",
+    "me": "thunderstorm",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "龙卷风",
+    "p": "lóng juǎn fēng",
+    "m": "lốc xoáy",
+    "cat": "advanced_language",
+    "me": "tornado",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "霜冻",
+    "p": "shuāng dòng",
+    "m": "sương muối",
+    "cat": "advanced_language",
+    "me": "frost",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "冰雹",
+    "p": "bīng báo",
+    "m": "mưa đá",
+    "cat": "advanced_language",
+    "me": "hail",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "季风",
+    "p": "jì fēng",
+    "m": "gió mùa",
+    "cat": "advanced_language",
+    "me": "monsoon",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "先后",
+    "p": "xiān hòu",
+    "m": "trước sau, lần lượt",
+    "cat": "advanced_language",
+    "me": "one after another, in sequence",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "集体",
+    "p": "jí tǐ",
+    "m": "tập thể",
+    "cat": "advanced_language",
+    "me": "collective",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "个体",
+    "p": "gè tǐ",
+    "m": "cá thể",
+    "cat": "advanced_language",
+    "me": "individual (organism)",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "形式",
+    "p": "xíng shì",
+    "m": "hình thức",
+    "cat": "advanced_language",
+    "me": "form",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "红外线",
+    "p": "hóng wài xiàn",
+    "m": "tia hồng ngoại",
+    "cat": "advanced_language",
+    "me": "infrared ray",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "X光",
+    "p": "X guāng",
+    "m": "tia X",
+    "cat": "advanced_language",
+    "me": "X-ray",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "红烧",
+    "p": "hóng shāo",
+    "m": "kho đỏ",
+    "cat": "advanced_language",
+    "me": "the red storehouse",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "清蒸",
+    "p": "qīng zhēng",
+    "m": "hấp đơn giản",
+    "cat": "advanced_language",
+    "me": "simple steaming",
+    "pos": "Động từ"
+  },
+  {
+    "w": "凉拌",
+    "p": "liáng bàn",
+    "m": "trộn nguội",
+    "cat": "advanced_language",
+    "me": "cold-mix (salad, dish)",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "砂锅",
+    "p": "shā guō",
+    "m": "nồi đất",
+    "cat": "advanced_language",
+    "me": "clay pot",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "炒锅",
+    "p": "chǎo guō",
+    "m": "chảo xào",
+    "cat": "advanced_language",
+    "me": "wok",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "长廊",
+    "p": "cháng láng",
+    "m": "hành lang dài",
+    "cat": "advanced_language",
+    "me": "a long corridor",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "薄荷",
+    "p": "bò he",
+    "m": "bạc hà",
+    "cat": "advanced_language",
+    "me": "mint",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "菊花茶",
+    "p": "jú huā chá",
+    "m": "trà hoa cúc",
+    "cat": "advanced_language",
+    "me": "chrysanthemum tea",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "山楂",
+    "p": "shān zhā",
+    "m": "sơn tra",
+    "cat": "advanced_language",
+    "me": "hawthorn",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "莲子",
+    "p": "lián zǐ",
+    "m": "hạt sen",
+    "cat": "advanced_language",
+    "me": "lotus seed",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "百合",
+    "p": "bǎi hé",
+    "m": "bách hợp",
+    "cat": "advanced_language",
+    "me": "lily",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "静脉",
+    "p": "jìng mài",
+    "m": "tĩnh mạch",
+    "cat": "advanced_language",
+    "me": "vein",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "动脉",
+    "p": "dòng mài",
+    "m": "động mạch",
+    "cat": "advanced_language",
+    "me": "artery",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "宝贝",
+    "p": "bǎo bèi",
+    "m": "bảo bối, cưng",
+    "cat": "advanced_language",
+    "me": "treasure, darling",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "哥们",
+    "p": "gē men",
+    "m": "anh em, bạn bè",
+    "cat": "advanced_language",
+    "me": "brothers, friends",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "姑娘",
+    "p": "gū niang",
+    "m": "cô gái",
+    "cat": "advanced_language",
+    "me": "girl",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "大叔",
+    "p": "dà shū",
+    "m": "chú, đàn ông trung tuổi",
+    "cat": "advanced_language",
+    "me": "uncle, middle-aged man",
+    "pos": "Đại từ"
+  },
+  {
+    "w": "大妈",
+    "p": "dà mā",
+    "m": "dì, phụ nữ trung tuổi",
+    "cat": "advanced_language",
+    "me": "auntie, a middle-aged woman",
+    "pos": "Đại từ"
+  },
+  {
+    "w": "帅哥",
+    "p": "shuài gē",
+    "m": "anh đẹp trai",
+    "cat": "advanced_language",
+    "me": "a handsome man",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "美女",
+    "p": "měi nǚ",
+    "m": "cô gái đẹp",
+    "cat": "advanced_language",
+    "me": "a beautiful girl",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "胖子",
+    "p": "pàng zi",
+    "m": "người béo",
+    "cat": "advanced_language",
+    "me": "a fat person",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "瘦子",
+    "p": "shòu zi",
+    "m": "người gầy",
+    "cat": "advanced_language",
+    "me": "a thin person",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "优惠券",
+    "p": "yōu huì quàn",
+    "m": "phiếu ưu đãi",
+    "cat": "advanced_language",
+    "me": "coupon, discount voucher",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "会员卡",
+    "p": "huì yuán kǎ",
+    "m": "thẻ thành viên",
+    "cat": "psychology",
+    "me": "membership card",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "购物车",
+    "p": "gòu wù chē",
+    "m": "giỏ mua hàng",
+    "cat": "ecommerce",
+    "me": "shopping basket",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "搞定",
+    "p": "gǎo dìng",
+    "m": "giải quyết xong",
+    "cat": "advanced_language",
+    "me": "resolved, taken care of",
+    "pos": "Động từ"
+  },
+  {
+    "w": "半途而废",
+    "p": "bàn tú ér fèi",
+    "m": "bỏ dở giữa chừng",
+    "cat": "thành ngữ",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "亡羊补牢",
+    "p": "wáng yáng bǔ láo",
+    "m": "mất dê mới vá chuồng (muộn còn hơn không)",
+    "cat": "thành ngữ",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "感悟",
+    "p": "gǎn wù",
+    "m": "sự ngộ ra / Cảm nhận sâu sắc",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "拟",
+    "p": "nǐ",
+    "m": "dự kiến / Đề xuất (văn phong hành chính)",
+    "cat": "literature",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "特此",
+    "p": "tè cǐ",
+    "m": "đặc biệt / Nay đặc biệt (kết thúc thông báo)",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  }
+]

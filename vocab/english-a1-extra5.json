@@ -1,0 +1,466 @@
+[
+  {
+    "w": "Hello",
+    "p": "/həˈloʊ/",
+    "m": "xin chào",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Hi",
+    "p": "/haɪ/",
+    "m": "chào (thân mật)",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Goodbye",
+    "p": "/ˌɡʊdˈbaɪ/",
+    "m": "tạm biệt",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Thank you",
+    "p": "/θæŋk juː/",
+    "m": "cảm ơn",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Sorry",
+    "p": "/ˈsɒri/",
+    "m": "xin lỗi",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "Yes",
+    "p": "/jɛs/",
+    "m": "có / Vâng",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "No",
+    "p": "/noʊ/",
+    "m": "không",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Phó từ"
+  },
+  {
+    "w": "My name is...",
+    "p": "/maɪ neɪm ɪz/",
+    "m": "tên tôi là...",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "One",
+    "p": "/wʌn/",
+    "m": "một (1)",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Two",
+    "p": "/tuː/",
+    "m": "hai (2)",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Three",
+    "p": "/θriː/",
+    "m": "ba (3)",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Four",
+    "p": "/fɔːr/",
+    "m": "bốn (4)",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Five",
+    "p": "/faɪv/",
+    "m": "năm (5)",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Ten",
+    "p": "/tɛn/",
+    "m": "mười (10)",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Today",
+    "p": "/təˈdeɪ/",
+    "m": "hôm nay",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Red",
+    "p": "/rɛd/",
+    "m": "màu đỏ",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Blue",
+    "p": "/bluː/",
+    "m": "màu xanh dương",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Green",
+    "p": "/ɡriːn/",
+    "m": "màu xanh lá",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Yellow",
+    "p": "/ˈjɛloʊ/",
+    "m": "màu vàng",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "White",
+    "p": "/waɪt/",
+    "m": "màu trắng",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Black",
+    "p": "/blæk/",
+    "m": "màu đen",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Big",
+    "p": "/bɪɡ/",
+    "m": "to, lớn",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Tính từ"
+  },
+  {
+    "w": "Small",
+    "p": "/smɔːl/",
+    "m": "nhỏ, bé",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Tính từ"
+  },
+  {
+    "w": "Beautiful",
+    "p": "/ˈbjuːtɪfəl/",
+    "m": "đẹp",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Tính từ"
+  },
+  {
+    "w": "Hot",
+    "p": "/hɒt/",
+    "m": "nóng",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Tính từ"
+  },
+  {
+    "w": "Cold",
+    "p": "/koʊld/",
+    "m": "lạnh",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Tính từ"
+  },
+  {
+    "w": "Good",
+    "p": "/ɡʊd/",
+    "m": "tốt",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Tính từ"
+  },
+  {
+    "w": "Father",
+    "p": "/ˈfɑːðər/",
+    "m": "bố/Cha",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Mother",
+    "p": "/ˈmʌðər/",
+    "m": "mẹ",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Brother",
+    "p": "/ˈbrʌðər/",
+    "m": "anh/Em trai",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Sister",
+    "p": "/ˈsɪstər/",
+    "m": "chị/Em gái",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Grandfather",
+    "p": "/ˈɡrændfɑːðər/",
+    "m": "ông",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Đại từ"
+  },
+  {
+    "w": "Grandmother",
+    "p": "/ˈɡrændmʌðər/",
+    "m": "bà",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Đại từ"
+  },
+  {
+    "w": "Son",
+    "p": "/sʌn/",
+    "m": "con trai",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Daughter",
+    "p": "/ˈdɔːtər/",
+    "m": "con gái",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Family",
+    "p": "/ˈfæməli/",
+    "m": "gia đình",
+    "cat": "family",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Friend",
+    "p": "/frɛnd/",
+    "m": "bạn bè",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Water",
+    "p": "/ˈwɔːtər/",
+    "m": "nước",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Tea",
+    "p": "/tiː/",
+    "m": "trà",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Coffee",
+    "p": "/ˈkɒfi/",
+    "m": "cà phê",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Rice",
+    "p": "/raɪs/",
+    "m": "cơm/Gạo",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Bread",
+    "p": "/brɛd/",
+    "m": "bánh mì",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Chicken",
+    "p": "/ˈtʃɪkɪn/",
+    "m": "gà",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Apple",
+    "p": "/ˈæpəl/",
+    "m": "táo",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Banana",
+    "p": "/bəˈnɑːnə/",
+    "m": "chuối",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Delicious",
+    "p": "/dɪˈlɪʃəs/",
+    "m": "ngon",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Tính từ"
+  },
+  {
+    "w": "I would like...",
+    "p": "/aɪ wʊd laɪk/",
+    "m": "tôi muốn (lịch sự)",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "School",
+    "p": "/skuːl/",
+    "m": "trường học",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Hospital",
+    "p": "/ˈhɒspɪtəl/",
+    "m": "bệnh viện",
+    "cat": "medicine",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Supermarket",
+    "p": "/ˈsuːpərˌmɑːrkɪt/",
+    "m": "siêu thị",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Restaurant",
+    "p": "/ˈrɛstərɒnt/",
+    "m": "nhà hàng",
+    "cat": "food",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Bank",
+    "p": "/bæŋk/",
+    "m": "ngân hàng",
+    "cat": "economics",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Here",
+    "p": "/hɪər/",
+    "m": "đây, ở đây",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "There",
+    "p": "/ðɛər/",
+    "m": "đó, ở đó",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Left",
+    "p": "/lɛft/",
+    "m": "trái",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Right",
+    "p": "/raɪt/",
+    "m": "phải",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Where is...?",
+    "p": "/wɛər ɪz/",
+    "m": "...ở đâu?",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "grey",
+    "p": "ɡɹˈeɪ",
+    "m": "màu xám",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  }
+]

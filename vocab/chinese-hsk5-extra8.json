@@ -5,7 +5,9 @@
     "m": "nhập gia tùy tục",
     "example": "到了国外要入乡随俗。",
     "example_vi": "Đến nước ngoài phải nhập gia tùy tục.",
-    "me": "when in Rome, do as the Romans do"
+    "me": "when in Rome, do as the Romans do",
+    "pos": "Danh từ",
+    "cat": "idiom"
   },
   {
     "w": "曲艺",
@@ -13,7 +15,9 @@
     "m": "khúc nghệ, nghệ thuật kể chuyện dân gian",
     "example": "相声是中国曲艺的一种。",
     "example_vi": "Tương thanh là một loại hình khúc nghệ của Trung Quốc.",
-    "me": "folk storytelling art"
+    "me": "folk storytelling art",
+    "pos": "Danh từ",
+    "cat": "art"
   },
   {
     "w": "民乐",
@@ -21,7 +25,9 @@
     "m": "âm nhạc dân tộc",
     "example": "她擅长演奏中国民乐。",
     "example_vi": "Cô ấy giỏi biểu diễn âm nhạc dân tộc Trung Quốc.",
-    "me": "ethnic music"
+    "me": "ethnic music",
+    "pos": "Danh từ",
+    "cat": "music"
   },
   {
     "w": "营养不良",
@@ -29,7 +35,9 @@
     "m": "suy dinh dưỡng",
     "example": "长期挑食容易造成营养不良。",
     "example_vi": "Kén ăn lâu dài dễ gây ra suy dinh dưỡng.",
-    "me": "malnutrition"
+    "me": "malnutrition",
+    "pos": "Danh từ",
+    "cat": "idiom"
   },
   {
     "w": "绿色出行",
@@ -37,7 +45,9 @@
     "m": "đi lại xanh, thân thiện môi trường",
     "example": "越来越多的人选择绿色出行。",
     "example_vi": "Ngày càng nhiều người lựa chọn phương thức đi lại xanh.",
-    "me": "green, eco-friendly transportation"
+    "me": "green, eco-friendly transportation",
+    "pos": "Động từ",
+    "cat": "idiom"
   },
   {
     "w": "量入为出",
@@ -45,7 +55,9 @@
     "m": "chi tiêu theo thu nhập",
     "example": "理财的原则是量入为出。",
     "example_vi": "Nguyên tắc quản lý tài chính là chi tiêu theo thu nhập.",
-    "me": "spend according to income"
+    "me": "spend according to income",
+    "pos": "Danh từ",
+    "cat": "idiom"
   },
   {
     "w": "精打细算",
@@ -53,7 +65,9 @@
     "m": "tính toán chi li",
     "example": "她过日子精打细算。",
     "example_vi": "Cô ấy sống rất tính toán chi li.",
-    "me": "meticulous calculation"
+    "me": "meticulous calculation",
+    "pos": "Danh từ",
+    "cat": "idiom"
   },
   {
     "w": "楼盘",
@@ -61,7 +75,9 @@
     "m": "dự án bất động sản",
     "example": "这个楼盘的价格比较合理。",
     "example_vi": "Giá của dự án bất động sản này khá hợp lý.",
-    "me": "real estate project"
+    "me": "real estate project",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "物业管理",
@@ -69,7 +85,9 @@
     "m": "quản lý bất động sản/chung cư",
     "example": "小区的物业管理做得很好。",
     "example_vi": "Công tác quản lý khu chung cư được làm rất tốt.",
-    "me": "property/apartment management"
+    "me": "property/apartment management",
+    "pos": "Động từ",
+    "cat": "idiom"
   },
   {
     "w": "学区房",
@@ -77,7 +95,9 @@
     "m": "nhà trong khu vực tuyển sinh",
     "example": "为了孩子上学，他们买了学区房。",
     "example_vi": "Vì việc học của con, họ đã mua nhà trong khu vực tuyển sinh.",
-    "me": "house within a school district"
+    "me": "house within a school district",
+    "pos": "Danh từ",
+    "cat": "place"
   },
   {
     "w": "晕车",
@@ -85,7 +105,9 @@
     "m": "say xe",
     "example": "我坐长途汽车容易晕车。",
     "example_vi": "Tôi dễ bị say xe khi đi xe đường dài.",
-    "me": "carsick"
+    "me": "carsick",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "门诊",
@@ -93,7 +115,9 @@
     "m": "khám ngoại trú, phòng khám",
     "example": "今天医院的门诊人特别多。",
     "example_vi": "Hôm nay phòng khám ngoại trú của bệnh viện rất đông người.",
-    "me": "outpatient clinic"
+    "me": "outpatient clinic",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "骨折",
@@ -101,7 +125,9 @@
     "m": "gãy xương",
     "example": "他摔倒后手臂骨折了。",
     "example_vi": "Sau khi ngã, cánh tay của anh ấy bị gãy.",
-    "me": "bone fracture"
+    "me": "bone fracture",
+    "pos": "Danh từ",
+    "cat": "health"
   },
   {
     "w": "扭伤",
@@ -109,7 +135,9 @@
     "m": "bong gân, trẹo",
     "example": "打球的时候他不小心扭伤了脚踝。",
     "example_vi": "Khi chơi bóng, anh ấy vô ý bị trẹo mắt cá chân.",
-    "me": "sprain"
+    "me": "sprain",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "抢救",
@@ -117,7 +145,9 @@
     "m": "cấp cứu, cứu chữa khẩn cấp",
     "example": "医生全力抢救，病人终于脱离了危险。",
     "example_vi": "Bác sĩ đã hết sức cấp cứu, bệnh nhân cuối cùng đã thoát khỏi nguy hiểm.",
-    "me": "emergency treatment"
+    "me": "emergency treatment",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "输液",
@@ -125,7 +155,9 @@
     "m": "truyền dịch",
     "example": "护士给他输液退烧。",
     "example_vi": "Y tá truyền dịch cho anh ấy để hạ sốt.",
-    "me": "intravenous infusion"
+    "me": "intravenous infusion",
+    "pos": "Danh từ",
+    "cat": "health"
   },
   {
     "w": "恶性",
@@ -133,7 +165,9 @@
     "m": "ác tính",
     "example": "检查结果显示是恶性肿瘤。",
     "example_vi": "Kết quả kiểm tra cho thấy đây là khối u ác tính.",
-    "me": "malignant"
+    "me": "malignant",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "瘫痪",
@@ -141,7 +175,9 @@
     "m": "liệt, bại liệt",
     "example": "中风后，他的左半身瘫痪了。",
     "example_vi": "Sau khi bị đột quỵ, nửa người bên trái của anh ấy bị liệt.",
-    "me": "paralysis"
+    "me": "paralysis",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "养生",
@@ -149,7 +185,9 @@
     "m": "dưỡng sinh",
     "example": "现在很多年轻人也开始注重养生。",
     "example_vi": "Hiện nay nhiều người trẻ cũng bắt đầu chú trọng dưỡng sinh.",
-    "me": "health preservation"
+    "me": "health preservation",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "病历",
@@ -157,7 +195,9 @@
     "m": "bệnh án",
     "example": "请携带以前的病历来复诊。",
     "example_vi": "Xin mang theo bệnh án cũ khi đến tái khám.",
-    "me": "medical record"
+    "me": "medical record",
+    "pos": "Danh từ",
+    "cat": "health"
   },
   {
     "w": "免疫力",
@@ -165,7 +205,9 @@
     "m": "sức đề kháng miễn dịch",
     "example": "多运动可以提高免疫力。",
     "example_vi": "Vận động nhiều có thể nâng cao sức đề kháng miễn dịch.",
-    "me": "immune resistance"
+    "me": "immune resistance",
+    "pos": "Danh từ",
+    "cat": "health"
   },
   {
     "w": "复发",
@@ -173,7 +215,9 @@
     "m": "tái phát",
     "example": "如果不注意休息，病情可能会复发。",
     "example_vi": "Nếu không chú ý nghỉ ngơi, bệnh có thể sẽ tái phát.",
-    "me": "relapse, recur"
+    "me": "relapse, recur",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "精密",
@@ -181,7 +225,9 @@
     "m": "chính xác, tinh vi",
     "example": "这台仪器非常精密。",
     "example_vi": "Thiết bị này rất chính xác tinh vi.",
-    "me": "precise, sophisticated"
+    "me": "precise, sophisticated",
+    "pos": "Tính từ",
+    "cat": "adjective"
   },
   {
     "w": "油画",
@@ -189,7 +235,9 @@
     "m": "tranh sơn dầu",
     "example": "这幅油画色彩非常丰富。",
     "example_vi": "Bức tranh sơn dầu này có màu sắc rất phong phú.",
-    "me": "oil painting"
+    "me": "oil painting",
+    "pos": "Danh từ",
+    "cat": "nghệ thuật"
   },
   {
     "w": "交响乐",
@@ -197,7 +245,9 @@
     "m": "nhạc giao hưởng",
     "example": "今晚音乐厅演奏贝多芬的交响乐。",
     "example_vi": "Tối nay phòng hòa nhạc biểu diễn nhạc giao hưởng của Beethoven.",
-    "me": "symphonic music"
+    "me": "symphonic music",
+    "pos": "Danh từ",
+    "cat": "nghệ thuật"
   },
   {
     "w": "编织",
@@ -205,7 +255,9 @@
     "m": "đan, dệt",
     "example": "奶奶正在为孙子编织毛衣。",
     "example_vi": "Bà đang đan áo len cho cháu trai.",
-    "me": "knit, weave"
+    "me": "knit, weave",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "烘焙",
@@ -213,7 +265,9 @@
     "m": "làm bánh nướng",
     "example": "她周末喜欢在家烘焙蛋糕。",
     "example_vi": "Cuối tuần cô ấy thích làm bánh nướng ở nhà.",
-    "me": "bake"
+    "me": "bake",
+    "pos": "Động từ",
+    "cat": "literary"
   },
   {
     "w": "离职",
@@ -221,14 +275,18 @@
     "m": "thôi việc",
     "example": "她因为个人原因申请离职。",
     "example_vi": "Cô ấy xin thôi việc vì lý do cá nhân.",
-    "me": "resign, terminate employment"
+    "me": "resign, terminate employment",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "沙尘暴",
     "p": "shāchénbào",
     "m": "bão cát",
     "example": "春天北方经常出现沙尘暴。",
-    "example_vi": "Mùa xuân miền Bắc thường xuất hiện bão cát."
+    "example_vi": "Mùa xuân miền Bắc thường xuất hiện bão cát.",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "泥石流",
@@ -236,7 +294,9 @@
     "m": "lũ bùn đá",
     "example": "暴雨过后山区发生了泥石流。",
     "example_vi": "Sau trận mưa lớn, vùng núi xảy ra lũ bùn đá.",
-    "me": "mudslide"
+    "me": "mudslide",
+    "pos": "Danh từ",
+    "cat": "thiên nhiên"
   },
   {
     "w": "扬长避短",
@@ -244,7 +304,9 @@
     "m": "phát huy sở trường, tránh sở đoản",
     "example": "我们要学会扬长避短。",
     "example_vi": "Chúng ta cần học cách phát huy sở trường, tránh sở đoản.",
-    "me": "leverage strengths, avoid weaknesses"
+    "me": "leverage strengths, avoid weaknesses",
+    "pos": "Danh từ",
+    "cat": "idiom"
   },
   {
     "w": "一箭双雕",
@@ -252,7 +314,9 @@
     "m": "một mũi tên trúng hai đích",
     "example": "这个办法一箭双雕，两个问题都解决了。",
     "example_vi": "Cách này một mũi tên trúng hai đích, cả hai vấn đề đều được giải quyết.",
-    "me": "one arrow, two targets — kill two birds with one stone"
+    "me": "one arrow, two targets — kill two birds with one stone",
+    "pos": "Danh từ",
+    "cat": "idiom"
   },
   {
     "w": "择校",
@@ -260,7 +324,9 @@
     "m": "chọn trường",
     "example": "很多家长为孩子择校而烦恼。",
     "example_vi": "Nhiều phụ huynh phiền lòng vì việc chọn trường cho con.",
-    "me": "choose a school"
+    "me": "choose a school",
+    "pos": "Động từ",
+    "cat": "học tập"
   },
   {
     "w": "特长生",
@@ -268,7 +334,9 @@
     "m": "học sinh có năng khiếu đặc biệt",
     "example": "他以特长生的身份被这所学校录取。",
     "example_vi": "Anh ấy được trường này tuyển vào với tư cách học sinh có năng khiếu đặc biệt.",
-    "me": "student with special talent"
+    "me": "student with special talent",
+    "pos": "Động từ",
+    "cat": "học tập"
   },
   {
     "w": "保送",
@@ -276,7 +344,9 @@
     "m": "được tuyển thẳng",
     "example": "成绩优异的他被保送上大学。",
     "example_vi": "Với thành tích xuất sắc, anh ấy được tuyển thẳng vào đại học.",
-    "me": "to be directly admitted or recruited"
+    "me": "to be directly admitted or recruited",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "起诉书",
@@ -284,7 +354,9 @@
     "m": "đơn khởi kiện",
     "example": "他向法院提交了起诉书。",
     "example_vi": "Anh ấy đã nộp đơn khởi kiện lên tòa án.",
-    "me": "complaint (lawsuit filing)"
+    "me": "complaint (lawsuit filing)",
+    "pos": "Danh từ",
+    "cat": "Pháp luật"
   },
   {
     "w": "律师费",
@@ -292,7 +364,9 @@
     "m": "phí luật sư",
     "example": "打这场官司要花不少律师费。",
     "example_vi": "Vụ kiện này phải tốn khá nhiều phí luật sư.",
-    "me": "attorney fee"
+    "me": "attorney fee",
+    "pos": "Danh từ",
+    "cat": "law"
   },
   {
     "w": "担保人",
@@ -300,7 +374,9 @@
     "m": "người bảo lãnh",
     "example": "贷款需要一位担保人。",
     "example_vi": "Vay tiền cần có một người bảo lãnh.",
-    "me": "guarantor"
+    "me": "guarantor",
+    "pos": "Danh từ",
+    "cat": "law"
   },
   {
     "w": "收费站",
@@ -308,7 +384,9 @@
     "m": "trạm thu phí",
     "example": "前面就是高速公路收费站。",
     "example_vi": "Phía trước chính là trạm thu phí đường cao tốc.",
-    "me": "toll station"
+    "me": "toll station",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "物业费",
@@ -316,7 +394,9 @@
     "m": "phí quản lý chung cư",
     "example": "每个月要交物业费。",
     "example_vi": "Mỗi tháng phải nộp phí quản lý.",
-    "me": "apartment maintenance fee"
+    "me": "apartment maintenance fee",
+    "pos": "Danh từ",
+    "cat": "home"
   },
   {
     "w": "精装修",
@@ -324,7 +404,9 @@
     "m": "hoàn thiện cao cấp",
     "example": "这套房子是精装修的，可以直接入住。",
     "example_vi": "Căn nhà này đã hoàn thiện cao cấp, có thể vào ở ngay.",
-    "me": "premium finishing"
+    "me": "premium finishing",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "毛坯房",
@@ -332,7 +414,9 @@
     "m": "nhà thô, chưa hoàn thiện",
     "example": "这是一套毛坯房，还需要装修。",
     "example_vi": "Đây là một căn nhà thô, còn cần phải trang trí nội thất.",
-    "me": "an unfinished, bare house"
+    "me": "an unfinished, bare house",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "采光",
@@ -340,7 +424,9 @@
     "m": "lấy ánh sáng",
     "example": "这套房子采光很好。",
     "example_vi": "Căn nhà này lấy ánh sáng rất tốt.",
-    "me": "gather light"
+    "me": "gather light",
+    "pos": "Động từ",
+    "cat": "verb"
   },
   {
     "w": "朝向",
@@ -348,7 +434,9 @@
     "m": "hướng nhà",
     "example": "这套房子朝向南面。",
     "example_vi": "Căn nhà này hướng về phía nam.",
-    "me": "house orientation"
+    "me": "house orientation",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "户型",
@@ -356,7 +444,9 @@
     "m": "kiểu căn hộ",
     "example": "这个户型的客厅很宽敞。",
     "example_vi": "Kiểu căn hộ này có phòng khách rất rộng rãi.",
-    "me": "apartment layout"
+    "me": "apartment layout",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "过户",
@@ -364,7 +454,9 @@
     "m": "sang tên, chuyển quyền sở hữu",
     "example": "房子已经办理了过户手续。",
     "example_vi": "Căn nhà đã làm xong thủ tục sang tên.",
-    "me": "to transfer ownership"
+    "me": "to transfer ownership",
+    "pos": "Động từ",
+    "cat": "home"
   },
   {
     "w": "中介费",
@@ -372,7 +464,9 @@
     "m": "phí môi giới",
     "example": "买房要付一笔中介费。",
     "example_vi": "Mua nhà phải trả một khoản phí môi giới.",
-    "me": "brokerage fee"
+    "me": "brokerage fee",
+    "pos": "Danh từ",
+    "cat": "kinh doanh"
   },
   {
     "w": "向导",
@@ -380,7 +474,9 @@
     "m": "người hướng dẫn, hướng đạo",
     "example": "我们请了一位当地向导带路。",
     "example_vi": "Chúng tôi đã thuê một hướng dẫn viên địa phương để dẫn đường.",
-    "me": "guide, scout"
+    "me": "guide, scout",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "展览馆",
@@ -388,7 +484,9 @@
     "m": "nhà triển lãm",
     "example": "这个展览馆展出了很多历史文物。",
     "example_vi": "Nhà triển lãm này trưng bày rất nhiều di vật lịch sử.",
-    "me": "exhibition hall"
+    "me": "exhibition hall",
+    "pos": "Danh từ",
+    "cat": "địa điểm"
   },
   {
     "w": "纪念馆",
@@ -396,7 +494,9 @@
     "m": "nhà tưởng niệm, bảo tàng lưu niệm",
     "example": "我们参观了鲁迅纪念馆。",
     "example_vi": "Chúng tôi đã tham quan nhà tưởng niệm Lỗ Tấn.",
-    "me": "memorial hall, commemorative museum"
+    "me": "memorial hall, commemorative museum",
+    "pos": "Danh từ",
+    "cat": "địa điểm"
   },
   {
     "w": "度假",
@@ -404,7 +504,9 @@
     "m": "nghỉ mát, nghỉ dưỡng",
     "example": "我们打算去海边度假一周。",
     "example_vi": "Chúng tôi định đi nghỉ mát ở biển một tuần.",
-    "me": "vacation, recuperate"
+    "me": "vacation, recuperate",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "度假村",
@@ -412,7 +514,9 @@
     "m": "khu nghỉ dưỡng",
     "example": "这家度假村环境优美，服务周到。",
     "example_vi": "Khu nghỉ dưỡng này có cảnh quan đẹp, phục vụ chu đáo.",
-    "me": "resort"
+    "me": "resort",
+    "pos": "Danh từ",
+    "cat": "travel"
   },
   {
     "w": "客栈",
@@ -420,7 +524,9 @@
     "m": "nhà trọ, khách điếm",
     "example": "我们在古镇找了一家小客栈住下。",
     "example_vi": "Chúng tôi tìm một nhà trọ nhỏ ở thị trấn cổ để ở lại.",
-    "me": "inn, lodging house"
+    "me": "inn, lodging house",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "前台",
@@ -428,7 +534,9 @@
     "m": "lễ tân, quầy tiếp tân",
     "example": "请到前台办理入住手续。",
     "example_vi": "Xin mời đến quầy lễ tân làm thủ tục nhận phòng.",
-    "me": "receptionist, front desk"
+    "me": "receptionist, front desk",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "改签",
@@ -436,7 +544,9 @@
     "m": "đổi vé, đổi chuyến",
     "example": "航班取消了，我只能去改签。",
     "example_vi": "Chuyến bay bị hủy rồi, tôi chỉ có thể đi đổi vé.",
-    "me": "change ticket, transfer"
+    "me": "change ticket, transfer",
+    "pos": "Động từ",
+    "cat": "verb"
   },
   {
     "w": "退票",
@@ -444,7 +554,9 @@
     "m": "trả vé, hoàn vé",
     "example": "由于临时有事，他去退票了。",
     "example_vi": "Vì đột xuất có việc, anh ấy đã đi trả vé.",
-    "me": "return a ticket, refund a ticket"
+    "me": "return a ticket, refund a ticket",
+    "pos": "Động từ",
+    "cat": "verb"
   },
   {
     "w": "晚点",
@@ -452,7 +564,9 @@
     "m": "trễ giờ (tàu xe)",
     "example": "火车晚点了半个小时。",
     "example_vi": "Tàu hỏa bị trễ nửa tiếng.",
-    "me": "be late (train, vehicle)"
+    "me": "be late (train, vehicle)",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "延误",
@@ -460,14 +574,18 @@
     "m": "trì hoãn, chậm trễ",
     "example": "由于天气原因，航班延误了三个小时。",
     "example_vi": "Do thời tiết, chuyến bay bị trì hoãn ba tiếng.",
-    "me": "delay"
+    "me": "delay",
+    "pos": "Danh từ",
+    "cat": "du lịch"
   },
   {
     "w": "直达",
     "p": "zhídá",
     "m": "đi thẳng, trực tiếp đến",
     "example": "这趟车直达机场，不用换乘。",
-    "example_vi": "Chuyến xe này đi thẳng đến sân bay, không cần chuyển tuyến."
+    "example_vi": "Chuyến xe này đi thẳng đến sân bay, không cần chuyển tuyến.",
+    "pos": "Động từ",
+    "cat": "verb"
   },
   {
     "w": "班机",
@@ -475,7 +593,9 @@
     "m": "chuyến bay định kỳ",
     "example": "明天的班机几点起飞？",
     "example_vi": "Chuyến bay ngày mai mấy giờ cất cánh?",
-    "me": "scheduled flight"
+    "me": "scheduled flight",
+    "pos": "Danh từ",
+    "cat": "giao thông"
   },
   {
     "w": "航线",
@@ -483,7 +603,9 @@
     "m": "tuyến bay, tuyến hàng không",
     "example": "这条航线经过三个城市。",
     "example_vi": "Tuyến bay này đi qua ba thành phố.",
-    "me": "flight route, air route"
+    "me": "flight route, air route",
+    "pos": "Danh từ",
+    "cat": "giao thông"
   },
   {
     "w": "候机厅",
@@ -491,7 +613,9 @@
     "m": "phòng chờ sân bay",
     "example": "我们在候机厅等了两个小时。",
     "example_vi": "Chúng tôi đã đợi hai tiếng ở phòng chờ sân bay.",
-    "me": "airport lounge"
+    "me": "airport lounge",
+    "pos": "Danh từ",
+    "cat": "transport"
   },
   {
     "w": "降落",
@@ -499,7 +623,9 @@
     "m": "hạ cánh",
     "example": "飞机马上就要降落了。",
     "example_vi": "Máy bay sắp hạ cánh rồi.",
-    "me": "land (aircraft)"
+    "me": "land (aircraft)",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "着陆",
@@ -507,7 +633,9 @@
     "m": "đáp đất, hạ cánh",
     "example": "飞机安全着陆，乘客都松了一口气。",
     "example_vi": "Máy bay hạ cánh an toàn, hành khách đều thở phào nhẹ nhõm.",
-    "me": "land, touch down"
+    "me": "land, touch down",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "颠簸",
@@ -515,7 +643,9 @@
     "m": "xóc nảy, chòng chành",
     "example": "飞机在暴风雨中剧烈颠簸。",
     "example_vi": "Máy bay xóc nảy dữ dội trong cơn bão.",
-    "me": "jolt, sway"
+    "me": "jolt, sway",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "晕机",
@@ -523,7 +653,9 @@
     "m": "say máy bay",
     "example": "她一坐飞机就晕机。",
     "example_vi": "Cô ấy hễ đi máy bay là bị say.",
-    "me": "airsickness"
+    "me": "airsickness",
+    "pos": "Danh từ",
+    "cat": "transport"
   },
   {
     "w": "晕船",
@@ -531,7 +663,9 @@
     "m": "say sóng, say tàu thủy",
     "example": "第一次坐船，他晕船晕得很厉害。",
     "example_vi": "Lần đầu đi tàu thủy, anh ấy say sóng rất nặng.",
-    "me": "seasick"
+    "me": "seasick",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "倒时差",
@@ -539,7 +673,9 @@
     "m": "điều chỉnh lệch múi giờ",
     "example": "到了美国以后，我用了三天才倒过时差。",
     "example_vi": "Sau khi đến Mỹ, tôi mất ba ngày mới điều chỉnh xong lệch múi giờ.",
-    "me": "adjust for jet lag"
+    "me": "adjust for jet lag",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "跟团",
@@ -547,7 +683,9 @@
     "m": "đi theo đoàn du lịch",
     "example": "这次旅行我们选择跟团出发。",
     "example_vi": "Chuyến du lịch lần này chúng tôi chọn đi theo đoàn.",
-    "me": "to travel with a tour group"
+    "me": "to travel with a tour group",
+    "pos": "Động từ",
+    "cat": "travel"
   },
   {
     "w": "团费",
@@ -555,7 +693,9 @@
     "m": "phí đoàn du lịch",
     "example": "团费已经包含了住宿和交通。",
     "example_vi": "Phí đoàn đã bao gồm chỗ ở và đi lại.",
-    "me": "group tour fee"
+    "me": "group tour fee",
+    "pos": "Danh từ",
+    "cat": "travel"
   },
   {
     "w": "导览",
@@ -563,7 +703,9 @@
     "m": "hướng dẫn tham quan",
     "example": "博物馆提供免费的语音导览。",
     "example_vi": "Bảo tàng cung cấp dịch vụ hướng dẫn tham quan bằng âm thanh miễn phí.",
-    "me": "guided tour"
+    "me": "guided tour",
+    "pos": "Động từ",
+    "cat": "travel"
   },
   {
     "w": "讲解",
@@ -571,7 +713,9 @@
     "m": "thuyết minh, giảng giải",
     "example": "导游详细地讲解了每件文物的历史。",
     "example_vi": "Hướng dẫn viên đã thuyết minh chi tiết về lịch sử của từng món cổ vật.",
-    "me": "narrate, explain"
+    "me": "narrate, explain",
+    "pos": "Động từ",
+    "cat": "verb"
   },
   {
     "w": "租车",
@@ -579,7 +723,9 @@
     "m": "thuê xe",
     "example": "到了当地，我们打算租车自驾游。",
     "example_vi": "Đến nơi, chúng tôi định thuê xe tự lái đi du lịch.",
-    "me": "rent a car"
+    "me": "rent a car",
+    "pos": "Động từ",
+    "cat": "verb"
   },
   {
     "w": "租船",
@@ -587,7 +733,9 @@
     "m": "thuê thuyền",
     "example": "我们在湖边租船划了一个下午。",
     "example_vi": "Chúng tôi đã thuê thuyền chèo bên hồ suốt một buổi chiều.",
-    "me": "hire a boat"
+    "me": "hire a boat",
+    "pos": "Động từ",
+    "cat": "verb"
   },
   {
     "w": "包车",
@@ -595,7 +743,9 @@
     "m": "bao xe, thuê nguyên xe",
     "example": "我们包车去了周边几个景点。",
     "example_vi": "Chúng tôi đã bao xe đi vài điểm du lịch lân cận.",
-    "me": "charter a whole vehicle"
+    "me": "charter a whole vehicle",
+    "pos": "Động từ",
+    "cat": "verb"
   },
   {
     "w": "拼车",
@@ -603,7 +753,9 @@
     "m": "đi chung xe, ghép xe",
     "example": "为了省钱，他们决定拼车去机场。",
     "example_vi": "Để tiết kiệm tiền, họ quyết định đi ghép xe ra sân bay.",
-    "me": "carpool, ride-sharing"
+    "me": "carpool, ride-sharing",
+    "pos": "Động từ",
+    "cat": "giao thông"
   },
   {
     "w": "顺风车",
@@ -611,7 +763,9 @@
     "m": "xe đi nhờ, xe tiện chuyến",
     "example": "我在网上找了一辆顺风车回老家。",
     "example_vi": "Tôi tìm được một chuyến xe tiện đường trên mạng để về quê.",
-    "me": "hitchhiking, carpooling"
+    "me": "hitchhiking, carpooling",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "里程",
@@ -619,7 +773,9 @@
     "m": "lộ trình, quãng đường",
     "example": "这辆车的总里程已经超过十万公里。",
     "example_vi": "Tổng quãng đường xe này đã chạy vượt quá một trăm nghìn cây số.",
-    "me": "route, distance"
+    "me": "route, distance",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "过路费",
@@ -627,7 +783,9 @@
     "m": "phí qua đường, phí cầu đường",
     "example": "高速公路要收过路费。",
     "example_vi": "Đường cao tốc phải thu phí qua đường.",
-    "me": "toll fee"
+    "me": "toll fee",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "拥堵",
@@ -635,7 +793,9 @@
     "m": "tắc nghẽn giao thông",
     "example": "上下班高峰期，市区交通十分拥堵。",
     "example_vi": "Vào giờ cao điểm đi làm, giao thông nội thành rất tắc nghẽn.",
-    "me": "traffic congestion"
+    "me": "traffic congestion",
+    "pos": "Danh từ",
+    "cat": "literary"
   },
   {
     "w": "畅通",
@@ -643,7 +803,9 @@
     "m": "thông suốt, thông thoáng",
     "example": "假期第一天，高速公路依然畅通。",
     "example_vi": "Ngày đầu kỳ nghỉ, đường cao tốc vẫn thông thoáng.",
-    "me": "smooth, unobstructed"
+    "me": "smooth, unobstructed",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "绕道",
@@ -651,7 +813,9 @@
     "m": "đi đường vòng",
     "example": "前方施工，请绕道行驶。",
     "example_vi": "Phía trước đang thi công, xin đi đường vòng.",
-    "me": "take a roundabout route"
+    "me": "take a roundabout route",
+    "pos": "Động từ",
+    "cat": "giao thông"
   },
   {
     "w": "抄近路",
@@ -659,7 +823,9 @@
     "m": "đi đường tắt",
     "example": "为了赶时间，他抄近路穿过了公园。",
     "example_vi": "Để kịp giờ, anh ấy đã đi đường tắt xuyên qua công viên.",
-    "me": "take a shortcut"
+    "me": "take a shortcut",
+    "pos": "Động từ",
+    "cat": "verb"
   },
   {
     "w": "走捷径",
@@ -667,7 +833,9 @@
     "m": "đi lối tắt, tìm cách nhanh nhất",
     "example": "他总想走捷径，不愿意脚踏实地地努力。",
     "example_vi": "Anh ấy lúc nào cũng muốn đi đường tắt, không chịu nỗ lực một cách chắc chắn.",
-    "me": "take a shortcut, find the fastest way"
+    "me": "take a shortcut, find the fastest way",
+    "pos": "Động từ",
+    "cat": "verb"
   },
   {
     "w": "化验",
@@ -675,7 +843,9 @@
     "m": "xét nghiệm",
     "example": "医生让我先去化验血液。",
     "example_vi": "Bác sĩ bảo tôi đi xét nghiệm máu trước.",
-    "me": "test, examination (medical)"
+    "me": "test, examination (medical)",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "药方",
@@ -683,7 +853,9 @@
     "m": "đơn thuốc, toa thuốc",
     "example": "医生给我开了一张药方。",
     "example_vi": "Bác sĩ đã kê cho tôi một đơn thuốc.",
-    "me": "prescription"
+    "me": "prescription",
+    "pos": "Danh từ",
+    "cat": "sức khỏe"
   },
   {
     "w": "病房",
@@ -691,7 +863,9 @@
     "m": "phòng bệnh",
     "example": "病人被安排在三楼的病房。",
     "example_vi": "Bệnh nhân được sắp xếp ở phòng bệnh tầng ba.",
-    "me": "disease prevention"
+    "me": "disease prevention",
+    "pos": "Danh từ",
+    "cat": "health"
   },
   {
     "w": "手术室",
@@ -699,7 +873,9 @@
     "m": "phòng phẫu thuật",
     "example": "医生已经在手术室里准备好了。",
     "example_vi": "Bác sĩ đã chuẩn bị sẵn sàng trong phòng phẫu thuật.",
-    "me": "operating room"
+    "me": "operating room",
+    "pos": "Danh từ",
+    "cat": "health"
   },
   {
     "w": "服药",
@@ -707,7 +883,9 @@
     "m": "uống thuốc",
     "example": "请按时服药，不要随意停药。",
     "example_vi": "Xin uống thuốc đúng giờ, đừng tự ý ngừng thuốc.",
-    "me": "take medicine"
+    "me": "take medicine",
+    "pos": "Động từ",
+    "cat": "health"
   },
   {
     "w": "药效",
@@ -715,7 +893,9 @@
     "m": "hiệu quả của thuốc",
     "example": "这种药药效很快。",
     "example_vi": "Loại thuốc này có hiệu quả rất nhanh.",
-    "me": "drug efficacy"
+    "me": "drug efficacy",
+    "pos": "Danh từ",
+    "cat": "Y học"
   },
   {
     "w": "病因",
@@ -723,7 +903,9 @@
     "m": "nguyên nhân bệnh",
     "example": "医生还没找到他头痛的病因。",
     "example_vi": "Bác sĩ vẫn chưa tìm ra nguyên nhân gây đau đầu của anh ấy.",
-    "me": "cause of illness, etiology"
+    "me": "cause of illness, etiology",
+    "pos": "Danh từ",
+    "cat": "health"
   },
   {
     "w": "病情",
@@ -731,7 +913,9 @@
     "m": "tình trạng bệnh",
     "example": "经过治疗，他的病情有所好转。",
     "example_vi": "Sau khi điều trị, tình trạng bệnh của anh ấy đã có phần cải thiện.",
-    "me": "medical condition"
+    "me": "medical condition",
+    "pos": "Danh từ",
+    "cat": "health"
   },
   {
     "w": "病症",
@@ -739,7 +923,9 @@
     "m": "chứng bệnh, triệu chứng bệnh",
     "example": "这种病症很少见。",
     "example_vi": "Chứng bệnh này rất hiếm gặp.",
-    "me": "ailment, symptom"
+    "me": "ailment, symptom",
+    "pos": "Danh từ",
+    "cat": "health"
   },
   {
     "w": "发炎",
@@ -747,7 +933,9 @@
     "m": "viêm, sưng viêm",
     "example": "伤口如果不消毒，很容易发炎。",
     "example_vi": "Vết thương nếu không khử trùng thì rất dễ bị viêm.",
-    "me": "inflammation, swelling"
+    "me": "inflammation, swelling",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "炎症",
@@ -755,7 +943,9 @@
     "m": "chứng viêm",
     "example": "医生说这是轻微的炎症。",
     "example_vi": "Bác sĩ nói đây là chứng viêm nhẹ.",
-    "me": "inflammation"
+    "me": "inflammation",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "感染",
@@ -763,7 +953,9 @@
     "m": "nhiễm trùng, lây nhiễm",
     "example": "伤口感染了，需要马上处理。",
     "example_vi": "Vết thương bị nhiễm trùng rồi, cần xử lý ngay.",
-    "me": "infection"
+    "me": "infection",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "抵抗力",
@@ -771,7 +963,9 @@
     "m": "sức đề kháng",
     "example": "冬天要注意增强抵抗力。",
     "example_vi": "Mùa đông cần chú ý tăng cường sức đề kháng.",
-    "me": "resistance (immune)"
+    "me": "resistance (immune)",
+    "pos": "Danh từ",
+    "cat": "health"
   },
   {
     "w": "体质",
@@ -779,7 +973,9 @@
     "m": "thể chất",
     "example": "他从小体质就比较弱。",
     "example_vi": "Anh ấy từ nhỏ thể chất đã tương đối yếu.",
-    "me": "physical constitution"
+    "me": "physical constitution",
+    "pos": "Danh từ",
+    "cat": "health"
   },
   {
     "w": "滋补",
@@ -787,7 +983,9 @@
     "m": "tẩm bổ, bồi bổ",
     "example": "这道汤有滋补身体的作用。",
     "example_vi": "Món canh này có tác dụng tẩm bổ cơ thể.",
-    "me": "nourish, tonify"
+    "me": "nourish, tonify",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "保健",
@@ -795,7 +993,9 @@
     "m": "bảo vệ sức khỏe, chăm sóc sức khỏe",
     "example": "定期体检是一种保健方式。",
     "example_vi": "Khám sức khỏe định kỳ là một cách bảo vệ sức khỏe.",
-    "me": "health care, health protection"
+    "me": "health care, health protection",
+    "pos": "Danh từ",
+    "cat": "health"
   },
   {
     "w": "理疗",
@@ -803,7 +1003,9 @@
     "m": "vật lý trị liệu",
     "example": "医生建议他做理疗来缓解腰痛。",
     "example_vi": "Bác sĩ đề nghị anh ấy làm vật lý trị liệu để giảm đau lưng.",
-    "me": "physical therapy"
+    "me": "physical therapy",
+    "pos": "Danh từ",
+    "cat": "health"
   },
   {
     "w": "痊愈",
@@ -811,7 +1013,9 @@
     "m": "bình phục hoàn toàn",
     "example": "祝你早日痊愈。",
     "example_vi": "Chúc bạn sớm bình phục.",
-    "me": "fully recover"
+    "me": "fully recover",
+    "pos": "Danh từ",
+    "cat": "health"
   },
   {
     "w": "遗传病",
@@ -819,7 +1023,9 @@
     "m": "bệnh di truyền",
     "example": "这种遗传病会传给下一代。",
     "example_vi": "Loại bệnh di truyền này sẽ truyền cho thế hệ sau.",
-    "me": "hereditary disease"
+    "me": "hereditary disease",
+    "pos": "Danh từ",
+    "cat": "Y học"
   },
   {
     "w": "残疾",
@@ -827,7 +1033,9 @@
     "m": "tàn tật, khuyết tật",
     "example": "政府为残疾人提供了很多帮助。",
     "example_vi": "Chính phủ đã cung cấp nhiều sự giúp đỡ cho người khuyết tật.",
-    "me": "disabled, handicapped"
+    "me": "disabled, handicapped",
+    "pos": "Danh từ",
+    "cat": "health"
   },
   {
     "w": "视力",
@@ -835,7 +1043,9 @@
     "m": "thị lực",
     "example": "长时间看手机会影响视力。",
     "example_vi": "Nhìn điện thoại quá lâu sẽ ảnh hưởng đến thị lực.",
-    "me": "eyesight, visual acuity"
+    "me": "eyesight, visual acuity",
+    "pos": "Danh từ",
+    "cat": "health"
   },
   {
     "w": "失明",
@@ -843,7 +1053,9 @@
     "m": "mù, mất thị lực",
     "example": "一场意外让他不幸失明。",
     "example_vi": "Một tai nạn đã khiến anh ấy không may bị mù.",
-    "me": "blind, loss of vision"
+    "me": "blind, loss of vision",
+    "pos": "Danh từ",
+    "cat": "health"
   },
   {
     "w": "拉伤",
@@ -851,7 +1063,9 @@
     "m": "kéo căng cơ, chấn thương do kéo giãn",
     "example": "运动前不热身容易拉伤肌肉。",
     "example_vi": "Không khởi động trước khi tập thể thao dễ bị kéo căng cơ.",
-    "me": "muscle strain"
+    "me": "muscle strain",
+    "pos": "Động từ",
+    "cat": "verb"
   },
   {
     "w": "擦伤",
@@ -859,7 +1073,9 @@
     "m": "trầy xước",
     "example": "他摔倒时手肘擦伤了。",
     "example_vi": "Khi ngã, khuỷu tay của anh ấy bị trầy xước.",
-    "me": "scratch"
+    "me": "scratch",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "淤青",
@@ -867,7 +1083,9 @@
     "m": "vết bầm tím",
     "example": "撞到桌角，腿上留下了一块淤青。",
     "example_vi": "Va vào góc bàn, trên chân để lại một vết bầm tím.",
-    "me": "bruise"
+    "me": "bruise",
+    "pos": "Danh từ",
+    "cat": "sức khỏe"
   },
   {
     "w": "肿胀",
@@ -875,7 +1093,9 @@
     "m": "sưng tấy",
     "example": "他的脚踝肿胀得厉害。",
     "example_vi": "Mắt cá chân của anh ấy sưng tấy nghiêm trọng.",
-    "me": "swollen"
+    "me": "swollen",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "消肿",
@@ -883,7 +1103,9 @@
     "m": "tiêu sưng, giảm sưng",
     "example": "冰敷可以帮助消肿。",
     "example_vi": "Chườm đá có thể giúp tiêu sưng.",
-    "me": "reduce swelling"
+    "me": "reduce swelling",
+    "pos": "Động từ",
+    "cat": "verb"
   },
   {
     "w": "止痛",
@@ -891,7 +1113,9 @@
     "m": "giảm đau",
     "example": "医生给她开了止痛药。",
     "example_vi": "Bác sĩ đã kê cho cô ấy thuốc giảm đau.",
-    "me": "pain relief"
+    "me": "pain relief",
+    "pos": "Động từ",
+    "cat": "verb"
   },
   {
     "w": "验血",
@@ -899,7 +1123,9 @@
     "m": "xét nghiệm máu",
     "example": "医生让我先去验血。",
     "example_vi": "Bác sĩ bảo tôi đi xét nghiệm máu trước.",
-    "me": "blood test"
+    "me": "blood test",
+    "pos": "Danh từ",
+    "cat": "sức khỏe"
   },
   {
     "w": "脉搏",
@@ -907,7 +1133,9 @@
     "m": "mạch đập",
     "example": "护士正在测量他的脉搏。",
     "example_vi": "Y tá đang đo mạch đập cho anh ấy.",
-    "me": "pulse"
+    "me": "pulse",
+    "pos": "Danh từ",
+    "cat": "sức khỏe"
   },
   {
     "w": "肥胖",
@@ -915,7 +1143,9 @@
     "m": "béo phì",
     "example": "长期不运动容易导致肥胖。",
     "example_vi": "Không vận động lâu dài dễ dẫn đến béo phì.",
-    "me": "obesity"
+    "me": "obesity",
+    "pos": "Danh từ",
+    "cat": "sức khỏe"
   },
   {
     "w": "消化不良",
@@ -923,7 +1153,9 @@
     "m": "khó tiêu, tiêu hóa kém",
     "example": "吃得太快容易消化不良。",
     "example_vi": "Ăn quá nhanh dễ bị khó tiêu.",
-    "me": "indigestion, poor digestion"
+    "me": "indigestion, poor digestion",
+    "pos": "Danh từ",
+    "cat": "health"
   },
   {
     "w": "便秘",
@@ -931,7 +1163,9 @@
     "m": "táo bón",
     "example": "多吃蔬菜可以预防便秘。",
     "example_vi": "Ăn nhiều rau có thể phòng ngừa táo bón.",
-    "me": "constipation"
+    "me": "constipation",
+    "pos": "Danh từ",
+    "cat": "health"
   },
   {
     "w": "腹泻",
@@ -939,7 +1173,9 @@
     "m": "tiêu chảy",
     "example": "他吃坏了肚子，一直腹泻。",
     "example_vi": "Anh ấy bị đau bụng do ăn phải đồ xấu, cứ bị tiêu chảy mãi.",
-    "me": "diarrhea"
+    "me": "diarrhea",
+    "pos": "Danh từ",
+    "cat": "health"
   },
   {
     "w": "呕吐",
@@ -947,7 +1183,9 @@
     "m": "nôn mửa",
     "example": "他吃坏了东西，忍不住呕吐起来。",
     "example_vi": "Anh ấy ăn phải đồ không tốt, không kìm được mà nôn mửa.",
-    "me": "vomiting"
+    "me": "vomiting",
+    "pos": "Danh từ",
+    "cat": "health"
   },
   {
     "w": "恶心",
@@ -955,7 +1193,9 @@
     "m": "buồn nôn",
     "example": "闻到这股味道，我觉得很恶心。",
     "example_vi": "Ngửi thấy mùi này, tôi cảm thấy rất buồn nôn.",
-    "me": "nausea"
+    "me": "nausea",
+    "pos": "Danh từ",
+    "cat": "health"
   },
   {
     "w": "头晕",
@@ -963,7 +1203,9 @@
     "m": "chóng mặt",
     "example": "他站起来的时候突然感到头晕。",
     "example_vi": "Khi đứng dậy, anh ấy đột nhiên cảm thấy chóng mặt.",
-    "me": "dizzy"
+    "me": "dizzy",
+    "pos": "Danh từ",
+    "cat": "sức khỏe"
   },
   {
     "w": "作息",
@@ -971,7 +1213,9 @@
     "m": "sinh hoạt, thời gian biểu nghỉ ngơi làm việc",
     "example": "他每天作息很规律。",
     "example_vi": "Mỗi ngày anh ấy sinh hoạt rất điều độ.",
-    "me": "daily routine, a rest-and-work schedule"
+    "me": "daily routine, a rest-and-work schedule",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "交情",
@@ -979,7 +1223,9 @@
     "m": "tình bạn, mối giao tình",
     "example": "我们俩认识多年，交情很深。",
     "example_vi": "Chúng tôi quen nhau đã nhiều năm, tình bạn rất sâu đậm.",
-    "me": "friendship, camaraderie"
+    "me": "friendship, camaraderie",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "情谊",
@@ -987,7 +1233,9 @@
     "m": "tình nghĩa",
     "example": "这份情谊我永远不会忘记。",
     "example_vi": "Tình nghĩa này tôi sẽ mãi mãi không quên.",
-    "me": "affection and loyalty"
+    "me": "affection and loyalty",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "人缘",
@@ -995,7 +1243,9 @@
     "m": "được lòng người",
     "example": "他为人热情，人缘很好。",
     "example_vi": "Anh ấy đối xử nhiệt tình với mọi người, rất được lòng người.",
-    "me": "win people's favor"
+    "me": "win people's favor",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "人脉",
@@ -1003,7 +1253,9 @@
     "m": "mối quan hệ, quan hệ xã hội",
     "example": "做生意需要广泛的人脉。",
     "example_vi": "Làm ăn kinh doanh cần có mối quan hệ rộng rãi.",
-    "me": "relationship, social connection"
+    "me": "relationship, social connection",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "社交圈",
@@ -1011,7 +1263,9 @@
     "m": "vòng tròn xã giao",
     "example": "工作以后，他的社交圈变小了。",
     "example_vi": "Sau khi đi làm, vòng tròn xã giao của anh ấy đã thu hẹp lại.",
-    "me": "a social circle"
+    "me": "a social circle",
+    "pos": "Danh từ",
+    "cat": "society"
   },
   {
     "w": "圈子",
@@ -1019,7 +1273,9 @@
     "m": "vòng, nhóm, giới",
     "example": "每个人都有自己的朋友圈子。",
     "example_vi": "Mỗi người đều có nhóm bạn bè riêng của mình.",
-    "me": "circle, group, sphere"
+    "me": "circle, group, sphere",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "同乡",
@@ -1027,7 +1283,9 @@
     "m": "đồng hương",
     "example": "我们是同乡，都来自四川。",
     "example_vi": "Chúng tôi là đồng hương, đều đến từ Tứ Xuyên.",
-    "me": "fellow countryman, compatriot"
+    "me": "fellow countryman, compatriot",
+    "pos": "Danh từ",
+    "cat": "Xã hội"
   },
   {
     "w": "同伴",
@@ -1035,7 +1293,9 @@
     "m": "bạn đồng hành",
     "example": "旅途中，同伴之间要互相照顾。",
     "example_vi": "Trong chuyến đi, các bạn đồng hành cần chăm sóc lẫn nhau.",
-    "me": "companion"
+    "me": "companion",
+    "pos": "Danh từ",
+    "cat": "người"
   },
   {
     "w": "伙伴",
@@ -1043,7 +1303,9 @@
     "m": "bạn đồng hành, đối tác",
     "example": "他是我多年的生意伙伴。",
     "example_vi": "Anh ấy là đối tác kinh doanh nhiều năm của tôi.",
-    "me": "companion, partner"
+    "me": "companion, partner",
+    "pos": "Danh từ",
+    "cat": "emotion"
   },
   {
     "w": "搭档",
@@ -1051,7 +1313,9 @@
     "m": "cộng sự, cặp làm việc",
     "example": "他们俩是很有默契的搭档。",
     "example_vi": "Hai người họ là cặp cộng sự rất ăn ý.",
-    "me": "colleague, working pair"
+    "me": "colleague, working pair",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "拍档",
@@ -1059,7 +1323,9 @@
     "m": "cộng sự, bạn diễn",
     "example": "这对拍档合作得很愉快。",
     "example_vi": "Cặp cộng sự này hợp tác với nhau rất vui vẻ.",
-    "me": "partner, co-star"
+    "me": "partner, co-star",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "闺蜜",
@@ -1067,7 +1333,9 @@
     "m": "bạn thân (nữ)",
     "example": "她把所有的秘密都告诉了闺蜜。",
     "example_vi": "Cô ấy đã kể hết mọi bí mật cho bạn thân của mình.",
-    "me": "close friend (female)"
+    "me": "close friend (female)",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "死党",
@@ -1075,7 +1343,9 @@
     "m": "bạn chí cốt",
     "example": "他是我从小玩到大的死党。",
     "example_vi": "Anh ấy là bạn chí cốt chơi với tôi từ nhỏ đến lớn.",
-    "me": "bosom friend"
+    "me": "bosom friend",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "挚友",
@@ -1083,7 +1353,9 @@
     "m": "bạn thân thiết",
     "example": "多年不见，他们依然是挚友。",
     "example_vi": "Nhiều năm không gặp, họ vẫn là bạn thân thiết.",
-    "me": "close friend"
+    "me": "close friend",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "老友",
@@ -1091,7 +1363,9 @@
     "m": "bạn cũ, bạn lâu năm",
     "example": "今天我要去见一位老友。",
     "example_vi": "Hôm nay tôi sẽ đi gặp một người bạn cũ.",
-    "me": "old friend, longtime friend"
+    "me": "old friend, longtime friend",
+    "pos": "Danh từ",
+    "cat": "Xã hội"
   },
   {
     "w": "亲情",
@@ -1099,7 +1373,9 @@
     "m": "tình thân, tình cảm gia đình",
     "example": "无论走多远，亲情永远不会改变。",
     "example_vi": "Dù đi xa đến đâu, tình thân gia đình vẫn không bao giờ thay đổi.",
-    "me": "family bond, kinship affection"
+    "me": "family bond, kinship affection",
+    "pos": "Danh từ",
+    "cat": "family"
   },
   {
     "w": "暗恋",
@@ -1107,7 +1383,9 @@
     "m": "thầm yêu, yêu đơn phương",
     "example": "他暗恋班上的一个女生。",
     "example_vi": "Anh ấy thầm yêu một bạn nữ trong lớp.",
-    "me": "secretly love, unrequited love"
+    "me": "secretly love, unrequited love",
+    "pos": "Động từ",
+    "cat": "emotion"
   },
   {
     "w": "单恋",
@@ -1115,7 +1393,9 @@
     "m": "yêu đơn phương",
     "example": "单恋的滋味很不好受。",
     "example_vi": "Cảm giác yêu đơn phương rất khó chịu.",
-    "me": "unrequited love"
+    "me": "unrequited love",
+    "pos": "Động từ",
+    "cat": "verb"
   },
   {
     "w": "热恋",
@@ -1123,7 +1403,9 @@
     "m": "yêu say đắm",
     "example": "他们正处于热恋阶段。",
     "example_vi": "Họ đang trong giai đoạn yêu say đắm.",
-    "me": "love passionately"
+    "me": "love passionately",
+    "pos": "Động từ",
+    "cat": "Gia đình"
   },
   {
     "w": "失恋",
@@ -1131,7 +1413,9 @@
     "m": "thất tình",
     "example": "失恋后，她伤心了好久。",
     "example_vi": "Sau khi thất tình, cô ấy đã buồn rất lâu.",
-    "me": "heartbreak"
+    "me": "heartbreak",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "复婚",
@@ -1139,7 +1423,9 @@
     "m": "tái hợp (vợ chồng cũ)",
     "example": "离婚后，他们最终选择了复婚。",
     "example_vi": "Sau khi ly hôn, cuối cùng họ đã chọn tái hợp.",
-    "me": "to reconcile, reunite (former spouses)"
+    "me": "to reconcile, reunite (former spouses)",
+    "pos": "Danh từ",
+    "cat": "family"
   },
   {
     "w": "再婚",
@@ -1147,7 +1433,9 @@
     "m": "tái hôn",
     "example": "妈妈去世后，爸爸一直没有再婚。",
     "example_vi": "Sau khi mẹ qua đời, bố tôi vẫn chưa tái hôn.",
-    "me": "remarry"
+    "me": "remarry",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "订婚",
@@ -1155,7 +1443,9 @@
     "m": "đính hôn",
     "example": "他们下个月要举行订婚仪式。",
     "example_vi": "Tháng sau họ sẽ tổ chức lễ đính hôn.",
-    "me": "get engaged"
+    "me": "get engaged",
+    "pos": "Danh từ",
+    "cat": "family"
   },
   {
     "w": "求婚",
@@ -1163,7 +1453,9 @@
     "m": "cầu hôn",
     "example": "他在海边向她求婚。",
     "example_vi": "Anh ấy đã cầu hôn cô ấy bên bờ biển.",
-    "me": "to propose marriage"
+    "me": "to propose marriage",
+    "pos": "Danh từ",
+    "cat": "emotion"
   },
   {
     "w": "婚宴",
@@ -1171,7 +1463,9 @@
     "m": "tiệc cưới",
     "example": "婚宴定在周六晚上。",
     "example_vi": "Tiệc cưới được ấn định vào tối thứ Bảy.",
-    "me": "wedding reception"
+    "me": "wedding reception",
+    "pos": "Danh từ",
+    "cat": "gia đình"
   },
   {
     "w": "蜜月",
@@ -1179,7 +1473,9 @@
     "m": "tuần trăng mật",
     "example": "他们去马尔代夫度蜜月。",
     "example_vi": "Họ đi Maldives hưởng tuần trăng mật.",
-    "me": "honeymoon"
+    "me": "honeymoon",
+    "pos": "Danh từ",
+    "cat": "gia đình"
   },
   {
     "w": "新婚",
@@ -1187,7 +1483,9 @@
     "m": "mới cưới",
     "example": "这对新婚夫妇看起来很幸福。",
     "example_vi": "Cặp vợ chồng mới cưới này trông rất hạnh phúc.",
-    "me": "newlywed"
+    "me": "newlywed",
+    "pos": "Danh từ",
+    "cat": "emotion"
   },
   {
     "w": "配偶",
@@ -1195,7 +1493,9 @@
     "m": "vợ/chồng, phối ngẫu",
     "example": "请填写你配偶的姓名。",
     "example_vi": "Xin điền tên vợ/chồng của bạn.",
-    "me": "spouse"
+    "me": "spouse",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "情侣",
@@ -1203,7 +1503,9 @@
     "m": "đôi tình nhân",
     "example": "公园里有很多情侣在散步。",
     "example_vi": "Trong công viên có rất nhiều đôi tình nhân đang dạo bộ.",
-    "me": "a couple of lovers"
+    "me": "a couple of lovers",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "相亲",
@@ -1211,7 +1513,9 @@
     "m": "xem mắt, hẹn hò mai mối",
     "example": "她这周末要去相亲。",
     "example_vi": "Cuối tuần này cô ấy sẽ đi xem mắt.",
-    "me": "matchmaking date, arranged meeting"
+    "me": "matchmaking date, arranged meeting",
+    "pos": "Động từ",
+    "cat": "verb"
   },
   {
     "w": "牵线",
@@ -1219,7 +1523,9 @@
     "m": "làm mối, mai mối",
     "example": "是朋友帮他们牵线认识的。",
     "example_vi": "Chính bạn bè đã làm mối cho họ quen nhau.",
-    "me": "matchmake"
+    "me": "matchmake",
+    "pos": "Động từ",
+    "cat": "emotion"
   },
   {
     "w": "撮合",
@@ -1227,7 +1533,9 @@
     "m": "mai mối, tác hợp",
     "example": "大家都想撮合他们两个。",
     "example_vi": "Mọi người đều muốn tác hợp cho hai người họ.",
-    "me": "matchmake, bring together"
+    "me": "matchmake, bring together",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "表白",
@@ -1235,7 +1543,9 @@
     "m": "tỏ tình",
     "example": "他鼓起勇气向她表白了。",
     "example_vi": "Anh ấy đã lấy hết can đảm tỏ tình với cô ấy.",
-    "me": "confess one's feelings"
+    "me": "confess one's feelings",
+    "pos": "Danh từ",
+    "cat": "emotion"
   },
   {
     "w": "吃醋",
@@ -1243,7 +1553,9 @@
     "m": "ghen tuông",
     "example": "看到他和别的女生说话，她有点吃醋。",
     "example_vi": "Thấy anh ấy nói chuyện với bạn gái khác, cô ấy hơi ghen.",
-    "me": "jealous"
+    "me": "jealous",
+    "pos": "Danh từ",
+    "cat": "emotion"
   },
   {
     "w": "猜疑",
@@ -1251,7 +1563,9 @@
     "m": "nghi ngờ, đa nghi",
     "example": "夫妻之间不应该互相猜疑。",
     "example_vi": "Vợ chồng với nhau không nên nghi ngờ lẫn nhau.",
-    "me": "suspicious, doubtful by nature"
+    "me": "suspicious, doubtful by nature",
+    "pos": "Động từ",
+    "cat": "verb"
   },
   {
     "w": "和好",
@@ -1259,7 +1573,9 @@
     "m": "làm hòa",
     "example": "吵架后，他们很快就和好了。",
     "example_vi": "Sau khi cãi nhau, họ nhanh chóng làm hòa.",
-    "me": "make peace, reconcile"
+    "me": "make peace, reconcile",
+    "pos": "Động từ",
+    "cat": "hành động"
   },
   {
     "w": "宽恕",
@@ -1267,7 +1583,9 @@
     "m": "tha thứ, khoan dung",
     "example": "她最终选择了宽恕对方。",
     "example_vi": "Cuối cùng cô ấy đã chọn tha thứ cho đối phương.",
-    "me": "forgive, be tolerant"
+    "me": "forgive, be tolerant",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "认错",
@@ -1275,7 +1593,9 @@
     "m": "nhận lỗi",
     "example": "他主动向老师认错了。",
     "example_vi": "Anh ấy đã chủ động nhận lỗi với thầy giáo.",
-    "me": "admit fault"
+    "me": "admit fault",
+    "pos": "Động từ",
+    "cat": "verb"
   },
   {
     "w": "忍让",
@@ -1283,7 +1603,9 @@
     "m": "nhường nhịn",
     "example": "有时候适当的忍让能避免矛盾。",
     "example_vi": "Đôi khi nhường nhịn đúng mức có thể tránh được mâu thuẫn.",
-    "me": "yield, give way"
+    "me": "yield, give way",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "迁就",
@@ -1291,7 +1613,9 @@
     "m": "nhân nhượng, chiều theo",
     "example": "妈妈总是迁就孩子的要求。",
     "example_vi": "Mẹ luôn chiều theo yêu cầu của con cái.",
-    "me": "make concessions, accommodate"
+    "me": "make concessions, accommodate",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "让步",
@@ -1299,7 +1623,9 @@
     "m": "nhượng bộ",
     "example": "双方都做出了一些让步。",
     "example_vi": "Cả hai bên đều đã có một số nhượng bộ.",
-    "me": "give in"
+    "me": "give in",
+    "pos": "Động từ",
+    "cat": "phrasal"
   },
   {
     "w": "退让",
@@ -1307,7 +1633,9 @@
     "m": "lùi bước, nhường nhịn",
     "example": "面对不合理的要求，他没有退让。",
     "example_vi": "Đối mặt với yêu cầu vô lý, anh ấy đã không lùi bước.",
-    "me": "step back, concede"
+    "me": "step back, concede",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "顺从",
@@ -1315,7 +1643,9 @@
     "m": "vâng lời, phục tùng",
     "example": "她从小就习惯顺从父母的安排。",
     "example_vi": "Từ nhỏ cô ấy đã quen vâng theo sự sắp đặt của cha mẹ.",
-    "me": "obey, submit"
+    "me": "obey, submit",
+    "pos": "Động từ",
+    "cat": "hành động"
   },
   {
     "w": "叛逆",
@@ -1323,7 +1653,9 @@
     "m": "nổi loạn",
     "example": "青春期的孩子容易叛逆。",
     "example_vi": "Trẻ ở tuổi dậy thì dễ nổi loạn.",
-    "me": "rebellious"
+    "me": "rebellious",
+    "pos": "Tính từ",
+    "cat": "tính từ"
   },
   {
     "w": "倔强",
@@ -1331,7 +1663,9 @@
     "m": "bướng bỉnh, ương ngạnh",
     "example": "这孩子性格很倔强，不肯认错。",
     "example_vi": "Đứa trẻ này tính cách rất bướng bỉnh, không chịu nhận lỗi.",
-    "me": "stubborn, headstrong"
+    "me": "stubborn, headstrong",
+    "pos": "Tính từ",
+    "cat": "adjective"
   },
   {
     "w": "升职",
@@ -1339,7 +1673,9 @@
     "m": "thăng chức",
     "example": "他工作努力，很快就升职了。",
     "example_vi": "Anh ấy làm việc chăm chỉ, chẳng bao lâu đã được thăng chức.",
-    "me": "promotion"
+    "me": "promotion",
+    "pos": "Danh từ",
+    "cat": "work"
   },
   {
     "w": "兼职",
@@ -1347,7 +1683,9 @@
     "m": "làm thêm, bán thời gian",
     "example": "她放学后做兼职赚零花钱。",
     "example_vi": "Sau giờ học cô ấy làm thêm để kiếm tiền tiêu vặt.",
-    "me": "work part-time"
+    "me": "work part-time",
+    "pos": "Động từ",
+    "cat": "verb"
   },
   {
     "w": "全职",
@@ -1355,7 +1693,9 @@
     "m": "toàn thời gian",
     "example": "生完孩子后，她辞职当了全职妈妈。",
     "example_vi": "Sau khi sinh con, cô ấy đã nghỉ việc để làm mẹ toàn thời gian.",
-    "me": "full-time"
+    "me": "full-time",
+    "pos": "Danh từ",
+    "cat": "work"
   },
   {
     "w": "招募",
@@ -1363,7 +1703,9 @@
     "m": "chiêu mộ, tuyển mộ",
     "example": "公司正在招募新员工。",
     "example_vi": "Công ty đang chiêu mộ nhân viên mới.",
-    "me": "to recruit"
+    "me": "to recruit",
+    "pos": "Động từ",
+    "cat": "verb"
   },
   {
     "w": "任命",
@@ -1371,7 +1713,9 @@
     "m": "bổ nhiệm",
     "example": "公司任命他为部门经理。",
     "example_vi": "Công ty bổ nhiệm anh ấy làm trưởng phòng.",
-    "me": "to appoint"
+    "me": "to appoint",
+    "pos": "Danh từ",
+    "cat": "business"
   },
   {
     "w": "委派",
@@ -1379,7 +1723,9 @@
     "m": "cử đi, ủy nhiệm",
     "example": "领导委派他去处理这件事。",
     "example_vi": "Lãnh đạo cử anh ấy đi xử lý việc này.",
-    "me": "dispatch, delegate"
+    "me": "dispatch, delegate",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "派遣",
@@ -1387,7 +1733,9 @@
     "m": "phái cử, điều động",
     "example": "公司派遣他去国外分公司工作。",
     "example_vi": "Công ty phái cử anh ấy đi làm việc tại chi nhánh nước ngoài.",
-    "me": "dispatch, assign"
+    "me": "dispatch, assign",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "调任",
@@ -1395,7 +1743,9 @@
     "m": "điều chuyển công tác",
     "example": "他被调任到北京分公司。",
     "example_vi": "Anh ấy được điều chuyển đến chi nhánh Bắc Kinh.",
-    "me": "job reassignment"
+    "me": "job reassignment",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "在职",
@@ -1403,7 +1753,9 @@
     "m": "đang tại chức",
     "example": "他目前仍在职，还没退休。",
     "example_vi": "Hiện anh ấy vẫn đang tại chức, chưa nghỉ hưu.",
-    "me": "currently in office"
+    "me": "currently in office",
+    "pos": "Danh từ",
+    "cat": "work"
   },
   {
     "w": "任职",
@@ -1411,7 +1763,9 @@
     "m": "đảm nhiệm chức vụ",
     "example": "他在这家公司任职已经十年了。",
     "example_vi": "Anh ấy đã đảm nhiệm chức vụ ở công ty này mười năm rồi.",
-    "me": "hold a position"
+    "me": "hold a position",
+    "pos": "Danh từ",
+    "cat": "work"
   },
   {
     "w": "职务",
@@ -1419,7 +1773,9 @@
     "m": "chức vụ",
     "example": "他被提升到更高的职务。",
     "example_vi": "Anh ấy được thăng lên chức vụ cao hơn.",
-    "me": "position, post"
+    "me": "position, post",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "职称",
@@ -1427,7 +1783,9 @@
     "m": "chức danh nghề nghiệp",
     "example": "他今年评上了高级职称。",
     "example_vi": "Năm nay anh ấy được xét lên chức danh cao cấp.",
-    "me": "professional title"
+    "me": "professional title",
+    "pos": "Danh từ",
+    "cat": "work"
   },
   {
     "w": "职权",
@@ -1435,7 +1793,9 @@
     "m": "quyền hạn chức vụ",
     "example": "经理不能滥用自己的职权。",
     "example_vi": "Trưởng phòng không được lạm dụng quyền hạn của mình.",
-    "me": "positional authority"
+    "me": "positional authority",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "职责",
@@ -1443,7 +1803,9 @@
     "m": "trách nhiệm công việc",
     "example": "保证产品质量是他的职责。",
     "example_vi": "Đảm bảo chất lượng sản phẩm là trách nhiệm của anh ấy.",
-    "me": "job responsibility"
+    "me": "job responsibility",
+    "pos": "Danh từ",
+    "cat": "work"
   },
   {
     "w": "空缺",
@@ -1451,7 +1813,9 @@
     "m": "chỗ trống, khuyết",
     "example": "公司目前有一个职位空缺。",
     "example_vi": "Công ty hiện có một vị trí đang trống.",
-    "me": "vacancy, gap"
+    "me": "vacancy, gap",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "编制",
@@ -1459,7 +1823,9 @@
     "m": "biên chế",
     "example": "这个岗位有正式编制。",
     "example_vi": "Vị trí này có biên chế chính thức.",
-    "me": "staffing establishment"
+    "me": "staffing establishment",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "聘用",
@@ -1467,7 +1833,9 @@
     "m": "tuyển dụng, thuê",
     "example": "公司决定聘用她担任设计师。",
     "example_vi": "Công ty quyết định tuyển dụng cô ấy làm nhà thiết kế.",
-    "me": "employ"
+    "me": "employ",
+    "pos": "Động từ",
+    "cat": "work"
   },
   {
     "w": "聘任",
@@ -1475,7 +1843,9 @@
     "m": "bổ nhiệm qua tuyển dụng",
     "example": "他被聘任为顾问。",
     "example_vi": "Anh ấy được bổ nhiệm làm cố vấn.",
-    "me": "appointment through recruitment"
+    "me": "appointment through recruitment",
+    "pos": "Danh từ",
+    "cat": "work"
   },
   {
     "w": "续聘",
@@ -1483,7 +1853,9 @@
     "m": "gia hạn hợp đồng",
     "example": "由于表现出色，公司决定续聘他。",
     "example_vi": "Vì biểu hiện xuất sắc, công ty quyết định gia hạn hợp đồng với anh ấy.",
-    "me": "extend a contract"
+    "me": "extend a contract",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "解聘",
@@ -1491,7 +1863,9 @@
     "m": "sa thải, chấm dứt hợp đồng",
     "example": "公司因业绩不佳解聘了他。",
     "example_vi": "Công ty đã sa thải anh ấy vì hiệu quả công việc kém.",
-    "me": "dismiss, terminate a contract"
+    "me": "dismiss, terminate a contract",
+    "pos": "Động từ",
+    "cat": "verb"
   },
   {
     "w": "辞退",
@@ -1499,7 +1873,9 @@
     "m": "sa thải, cho thôi việc",
     "example": "他因迟到多次被辞退了。",
     "example_vi": "Anh ấy bị sa thải vì đi trễ nhiều lần.",
-    "me": "lay off, dismiss"
+    "me": "lay off, dismiss",
+    "pos": "Động từ",
+    "cat": "verb"
   },
   {
     "w": "罢工",
@@ -1507,7 +1883,9 @@
     "m": "đình công",
     "example": "工人们因不满待遇而罢工。",
     "example_vi": "Công nhân đình công vì bất mãn với chế độ đãi ngộ.",
-    "me": "go on strike"
+    "me": "go on strike",
+    "pos": "Danh từ",
+    "cat": "xã hội"
   },
   {
     "w": "怠工",
@@ -1515,14 +1893,18 @@
     "m": "lãn công",
     "example": "一些员工用怠工来表达不满。",
     "example_vi": "Một số nhân viên dùng cách lãn công để bày tỏ sự bất mãn.",
-    "me": "to slack off at work, go slow (labor action)"
+    "me": "to slack off at work, go slow (labor action)",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "敬业",
     "p": "jìngyè",
     "m": "tận tụy với công việc",
     "example": "她工作非常敬业，从不迟到。",
-    "example_vi": "Cô ấy làm việc rất tận tụy, chưa bao giờ đi trễ."
+    "example_vi": "Cô ấy làm việc rất tận tụy, chưa bao giờ đi trễ.",
+    "pos": "Danh từ",
+    "cat": "work"
   },
   {
     "w": "称职",
@@ -1530,7 +1912,9 @@
     "m": "xứng chức, làm tròn nhiệm vụ",
     "example": "大家都认为他是个称职的领导。",
     "example_vi": "Mọi người đều cho rằng anh ấy là một lãnh đạo xứng chức.",
-    "me": "to be worthy of one's position, fulfill one's duty"
+    "me": "to be worthy of one's position, fulfill one's duty",
+    "pos": "Động từ",
+    "cat": "verb"
   },
   {
     "w": "胜任",
@@ -1538,7 +1922,9 @@
     "m": "đảm đương nổi, đủ năng lực",
     "example": "他完全能胜任这份工作。",
     "example_vi": "Anh ấy hoàn toàn có thể đảm đương công việc này.",
-    "me": "capable of handling, competent enough"
+    "me": "capable of handling, competent enough",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "合伙",
@@ -1546,7 +1932,9 @@
     "m": "hợp tác kinh doanh, góp vốn chung",
     "example": "他们几个朋友合伙开了一家餐厅。",
     "example_vi": "Vài người bạn của anh ấy đã hợp tác mở một nhà hàng.",
-    "me": "business partnership, joint investment"
+    "me": "business partnership, joint investment",
+    "pos": "Động từ",
+    "cat": "business"
   },
   {
     "w": "合资",
@@ -1554,7 +1942,9 @@
     "m": "liên doanh",
     "example": "这是一家中外合资企业。",
     "example_vi": "Đây là một doanh nghiệp liên doanh Trung-nước ngoài.",
-    "me": "joint venture"
+    "me": "joint venture",
+    "pos": "Danh từ",
+    "cat": "business"
   },
   {
     "w": "创办",
@@ -1562,7 +1952,9 @@
     "m": "sáng lập, thành lập",
     "example": "他二十岁就创办了自己的公司。",
     "example_vi": "Anh ấy mới hai mươi tuổi đã sáng lập công ty của riêng mình.",
-    "me": "found, establish"
+    "me": "found, establish",
+    "pos": "Danh từ",
+    "cat": "kinh doanh"
   },
   {
     "w": "筹办",
@@ -1570,7 +1962,9 @@
     "m": "chuẩn bị tổ chức",
     "example": "我们正在筹办一场大型晚会。",
     "example_vi": "Chúng tôi đang chuẩn bị tổ chức một buổi dạ tiệc lớn.",
-    "me": "prepare to organize"
+    "me": "prepare to organize",
+    "pos": "Động từ",
+    "cat": "verb"
   },
   {
     "w": "筹备",
@@ -1578,7 +1972,9 @@
     "m": "chuẩn bị (cho sự kiện)",
     "example": "婚礼的筹备工作已经完成了大半。",
     "example_vi": "Công tác chuẩn bị cho đám cưới đã hoàn thành quá nửa.",
-    "me": "prepare (for an event)"
+    "me": "prepare (for an event)",
+    "pos": "Động từ",
+    "cat": "verb"
   },
   {
     "w": "筹划",
@@ -1586,7 +1982,9 @@
     "m": "trù tính, lên kế hoạch",
     "example": "他们正在筹划一个新项目。",
     "example_vi": "Họ đang trù tính một dự án mới.",
-    "me": "plan, scheme"
+    "me": "plan, scheme",
+    "pos": "Động từ",
+    "cat": "verb"
   },
   {
     "w": "策划",
@@ -1594,7 +1992,9 @@
     "m": "lập kế hoạch, hoạch định",
     "example": "这次活动是他一手策划的。",
     "example_vi": "Hoạt động lần này do một tay anh ấy lên kế hoạch.",
-    "me": "plan, formulate"
+    "me": "plan, formulate",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "理念",
@@ -1602,7 +2002,9 @@
     "m": "lý niệm, triết lý",
     "example": "公司一直坚持诚信经营的理念。",
     "example_vi": "Công ty luôn kiên trì triết lý kinh doanh trung thực.",
-    "me": "concept, philosophy"
+    "me": "concept, philosophy",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "赤字",
@@ -1610,7 +2012,9 @@
     "m": "thâm hụt, lỗ",
     "example": "公司这个月出现了财务赤字。",
     "example_vi": "Tháng này công ty xuất hiện thâm hụt tài chính.",
-    "me": "deficit, loss"
+    "me": "deficit, loss",
+    "pos": "Danh từ",
+    "cat": "kinh doanh"
   },
   {
     "w": "股份",
@@ -1618,7 +2022,9 @@
     "m": "cổ phần",
     "example": "他持有公司百分之十的股份。",
     "example_vi": "Anh ấy nắm giữ mười phần trăm cổ phần của công ty.",
-    "me": "shares, equity"
+    "me": "shares, equity",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "证券",
@@ -1626,7 +2032,9 @@
     "m": "chứng khoán",
     "example": "他在一家证券公司工作。",
     "example_vi": "Anh ấy làm việc tại một công ty chứng khoán.",
-    "me": "securities"
+    "me": "securities",
+    "pos": "Danh từ",
+    "cat": "kinh doanh"
   },
   {
     "w": "涨价",
@@ -1634,7 +2042,9 @@
     "m": "tăng giá",
     "example": "由于原材料上涨，产品也跟着涨价了。",
     "example_vi": "Do nguyên liệu tăng giá, sản phẩm cũng tăng giá theo.",
-    "me": "price increase"
+    "me": "price increase",
+    "pos": "Động từ",
+    "cat": "money"
   },
   {
     "w": "降价",
@@ -1642,7 +2052,9 @@
     "m": "giảm giá",
     "example": "商场为了促销大幅降价。",
     "example_vi": "Trung tâm thương mại giảm giá mạnh để thúc đẩy bán hàng.",
-    "me": "discount"
+    "me": "discount",
+    "pos": "Động từ",
+    "cat": "shopping"
   },
   {
     "w": "推销",
@@ -1650,7 +2062,9 @@
     "m": "tiếp thị, chào hàng",
     "example": "他挨家挨户推销自己的产品。",
     "example_vi": "Anh ấy đến từng nhà chào bán sản phẩm của mình.",
-    "me": "market, pitch a sale"
+    "me": "market, pitch a sale",
+    "pos": "Danh từ",
+    "cat": "kinh doanh"
   },
   {
     "w": "展会",
@@ -1658,7 +2072,9 @@
     "m": "hội chợ triển lãm",
     "example": "我们下个月要参加一个国际展会。",
     "example_vi": "Tháng sau chúng tôi sẽ tham gia một hội chợ triển lãm quốc tế.",
-    "me": "exhibition fair"
+    "me": "exhibition fair",
+    "pos": "Danh từ",
+    "cat": "kinh doanh"
   },
   {
     "w": "博览会",
@@ -1666,7 +2082,9 @@
     "m": "hội chợ triển lãm lớn",
     "example": "这次博览会吸引了上千家企业参展。",
     "example_vi": "Hội chợ triển lãm lần này thu hút hàng nghìn doanh nghiệp tham gia.",
-    "me": "large trade fair"
+    "me": "large trade fair",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "交易会",
@@ -1674,7 +2092,9 @@
     "m": "hội chợ giao thương",
     "example": "广交会是中国重要的交易会之一。",
     "example_vi": "Hội chợ Quảng Châu là một trong những hội chợ giao thương quan trọng của Trung Quốc.",
-    "me": "trade fair"
+    "me": "trade fair",
+    "pos": "Danh từ",
+    "cat": "kinh doanh"
   },
   {
     "w": "合约",
@@ -1682,7 +2102,9 @@
     "m": "hợp đồng",
     "example": "双方已经签订了合约。",
     "example_vi": "Hai bên đã ký kết hợp đồng.",
-    "me": "contract"
+    "me": "contract",
+    "pos": "Danh từ",
+    "cat": "kinh doanh"
   },
   {
     "w": "履约",
@@ -1690,7 +2112,9 @@
     "m": "thực hiện hợp đồng",
     "example": "公司一直严格履约。",
     "example_vi": "Công ty luôn nghiêm túc thực hiện hợp đồng.",
-    "me": "perform a contract"
+    "me": "perform a contract",
+    "pos": "Động từ",
+    "cat": "law"
   },
   {
     "w": "索赔",
@@ -1698,14 +2122,18 @@
     "m": "đòi bồi thường",
     "example": "顾客因产品质量问题要求索赔。",
     "example_vi": "Khách hàng yêu cầu bồi thường vì vấn đề chất lượng sản phẩm.",
-    "me": "to claim compensation"
+    "me": "to claim compensation",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "理赔",
     "p": "lǐpéi",
     "m": "giải quyết bồi thường bảo hiểm",
     "example": "保险公司正在处理这起理赔案件。",
-    "example_vi": "Công ty bảo hiểm đang xử lý vụ bồi thường này."
+    "example_vi": "Công ty bảo hiểm đang xử lý vụ bồi thường này.",
+    "pos": "Động từ",
+    "cat": "verb"
   },
   {
     "w": "审批",
@@ -1713,7 +2141,9 @@
     "m": "thẩm định phê duyệt",
     "example": "这个项目还在等待上级审批。",
     "example_vi": "Dự án này vẫn đang chờ cấp trên phê duyệt.",
-    "me": "review and approve"
+    "me": "review and approve",
+    "pos": "Danh từ",
+    "cat": "work"
   },
   {
     "w": "审核",
@@ -1721,7 +2151,9 @@
     "m": "thẩm tra, xét duyệt",
     "example": "财务部门要审核每一笔支出。",
     "example_vi": "Bộ phận tài chính phải thẩm tra từng khoản chi.",
-    "me": "to review, examine"
+    "me": "to review, examine",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "核实",
@@ -1729,7 +2161,9 @@
     "m": "xác minh, kiểm chứng",
     "example": "请先核实这些信息是否准确。",
     "example_vi": "Xin hãy xác minh những thông tin này có chính xác không trước đã.",
-    "me": "verify"
+    "me": "verify",
+    "pos": "Danh từ",
+    "cat": "học thuật"
   },
   {
     "w": "核查",
@@ -1737,7 +2171,9 @@
     "m": "kiểm tra xác minh",
     "example": "相关部门正在核查此事。",
     "example_vi": "Cơ quan liên quan đang kiểm tra xác minh việc này.",
-    "me": "verify, check"
+    "me": "verify, check",
+    "pos": "Động từ",
+    "cat": "verb"
   },
   {
     "w": "兴趣爱好",
@@ -1745,7 +2181,9 @@
     "m": "sở thích",
     "example": "你平时有什么兴趣爱好？",
     "example_vi": "Bình thường bạn có sở thích gì?",
-    "me": "hobby"
+    "me": "hobby",
+    "pos": "Danh từ",
+    "cat": "giải trí"
   },
   {
     "w": "业余爱好",
@@ -1753,7 +2191,9 @@
     "m": "sở thích lúc rảnh rỗi",
     "example": "摄影是他的业余爱好。",
     "example_vi": "Nhiếp ảnh là sở thích lúc rảnh của anh ấy.",
-    "me": "a hobby for free time"
+    "me": "a hobby for free time",
+    "pos": "Danh từ",
+    "cat": "idiom"
   },
   {
     "w": "园艺",
@@ -1761,7 +2201,9 @@
     "m": "làm vườn",
     "example": "退休以后，他迷上了园艺。",
     "example_vi": "Sau khi nghỉ hưu, ông ấy mê làm vườn.",
-    "me": "garden"
+    "me": "garden",
+    "pos": "Động từ",
+    "cat": "hobby"
   },
   {
     "w": "种花",
@@ -1769,7 +2211,9 @@
     "m": "trồng hoa",
     "example": "她在阳台上种花种草。",
     "example_vi": "Cô ấy trồng hoa trồng cỏ trên ban công.",
-    "me": "grow flowers"
+    "me": "grow flowers",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "养宠物",
@@ -1777,7 +2221,9 @@
     "m": "nuôi thú cưng",
     "example": "一个人住，养宠物可以解闷。",
     "example_vi": "Sống một mình, nuôi thú cưng có thể giải khuây.",
-    "me": "keep a pet"
+    "me": "keep a pet",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "遛狗",
@@ -1785,7 +2231,9 @@
     "m": "dắt chó đi dạo",
     "example": "他每天早上都去公园遛狗。",
     "example_vi": "Mỗi sáng anh ấy đều ra công viên dắt chó đi dạo.",
-    "me": "walk the dog"
+    "me": "walk the dog",
+    "pos": "Danh từ",
+    "cat": "văn hóa"
   },
   {
     "w": "登山",
@@ -1793,7 +2241,9 @@
     "m": "leo núi",
     "example": "假期我们计划去登山。",
     "example_vi": "Kỳ nghỉ chúng tôi dự định đi leo núi.",
-    "me": "climbing"
+    "me": "climbing",
+    "pos": "Danh từ",
+    "cat": "sport"
   },
   {
     "w": "徒步",
@@ -1801,7 +2251,9 @@
     "m": "đi bộ đường dài",
     "example": "他们徒步走了十公里山路。",
     "example_vi": "Họ đã đi bộ mười cây số đường núi.",
-    "me": "hiking"
+    "me": "hiking",
+    "pos": "Động từ",
+    "cat": "thể thao"
   },
   {
     "w": "野营",
@@ -1809,7 +2261,9 @@
     "m": "cắm trại",
     "example": "孩子们对野营活动很感兴趣。",
     "example_vi": "Bọn trẻ rất hứng thú với hoạt động cắm trại.",
-    "me": "camp"
+    "me": "camp",
+    "pos": "Động từ",
+    "cat": "hobby"
   },
   {
     "w": "露营",
@@ -1817,7 +2271,9 @@
     "m": "cắm trại ngoài trời",
     "example": "我们在山里露营了一晚。",
     "example_vi": "Chúng tôi đã cắm trại một đêm trong núi.",
-    "me": "outdoor camping"
+    "me": "outdoor camping",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "郊游",
@@ -1825,7 +2281,9 @@
     "m": "đi chơi ngoại ô",
     "example": "学校组织学生去郊游。",
     "example_vi": "Trường tổ chức cho học sinh đi chơi ngoại ô.",
-    "me": "go on a suburban outing"
+    "me": "go on a suburban outing",
+    "pos": "Động từ",
+    "cat": "du lịch"
   },
   {
     "w": "远足",
@@ -1833,14 +2291,18 @@
     "m": "đi bộ đường dài",
     "example": "这次远足全程大约二十公里。",
     "example_vi": "Chuyến đi bộ đường dài lần này tổng quãng đường khoảng hai mươi cây số.",
-    "me": "hiking"
+    "me": "hiking",
+    "pos": "Động từ",
+    "cat": "thể thao"
   },
   {
     "w": "骑行",
     "p": "qíxíng",
     "m": "đạp xe đi",
     "example": "他每天骑行上班。",
-    "example_vi": "Mỗi ngày anh ấy đạp xe đi làm."
+    "example_vi": "Mỗi ngày anh ấy đạp xe đi làm.",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "溜冰",
@@ -1848,7 +2310,9 @@
     "m": "trượt băng, patin",
     "example": "广场上有很多人在溜冰。",
     "example_vi": "Trên quảng trường có rất nhiều người đang trượt patin.",
-    "me": "ice skating, roller skating"
+    "me": "ice skating, roller skating",
+    "pos": "Động từ",
+    "cat": "thể thao"
   },
   {
     "w": "冲浪",
@@ -1856,7 +2320,9 @@
     "m": "lướt sóng",
     "example": "他去夏威夷学习冲浪。",
     "example_vi": "Anh ấy đến Hawaii học lướt sóng.",
-    "me": "surfing"
+    "me": "surfing",
+    "pos": "Danh từ",
+    "cat": "thể thao"
   },
   {
     "w": "慢跑",
@@ -1864,7 +2330,9 @@
     "m": "chạy bộ chậm",
     "example": "每天早上我都会去公园慢跑。",
     "example_vi": "Mỗi sáng tôi đều ra công viên chạy bộ chậm.",
-    "me": "jog"
+    "me": "jog",
+    "pos": "Động từ",
+    "cat": "thể thao"
   },
   {
     "w": "象棋",
@@ -1872,7 +2340,9 @@
     "m": "cờ tướng",
     "example": "爷爷经常和邻居下象棋。",
     "example_vi": "Ông tôi thường xuyên chơi cờ tướng với hàng xóm.",
-    "me": "Chinese chess (xiangqi)"
+    "me": "Chinese chess (xiangqi)",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "围棋",
@@ -1880,7 +2350,9 @@
     "m": "cờ vây",
     "example": "他从小就学习下围棋。",
     "example_vi": "Anh ấy học chơi cờ vây từ nhỏ.",
-    "me": "go (board game)"
+    "me": "go (board game)",
+    "pos": "Danh từ",
+    "cat": "văn hóa"
   },
   {
     "w": "麻将",
@@ -1888,7 +2360,9 @@
     "m": "mạt chược",
     "example": "过年的时候，一家人喜欢打麻将。",
     "example_vi": "Vào dịp Tết, cả nhà thích chơi mạt chược.",
-    "me": "mahjong"
+    "me": "mahjong",
+    "pos": "Danh từ",
+    "cat": "văn hóa"
   },
   {
     "w": "扑克",
@@ -1896,7 +2370,9 @@
     "m": "bài tây, poker",
     "example": "我们几个朋友聚在一起打扑克。",
     "example_vi": "Vài người bạn chúng tôi tụ tập lại chơi bài tây.",
-    "me": "playing cards, poker"
+    "me": "playing cards, poker",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "桌游",
@@ -1904,7 +2380,9 @@
     "m": "board game",
     "example": "周末他们经常聚在一起玩桌游。",
     "example_vi": "Cuối tuần họ thường tụ tập chơi board game.",
-    "me": "board game"
+    "me": "board game",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "网游",
@@ -1912,7 +2390,9 @@
     "m": "game online",
     "example": "他每天下班后都要玩两个小时网游。",
     "example_vi": "Mỗi ngày sau giờ làm anh ấy đều chơi game online hai tiếng.",
-    "me": "online game"
+    "me": "online game",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "手游",
@@ -1920,7 +2400,9 @@
     "m": "game di động",
     "example": "现在很多年轻人喜欢玩手游。",
     "example_vi": "Hiện nay nhiều người trẻ thích chơi game trên điện thoại.",
-    "me": "mobile game"
+    "me": "mobile game",
+    "pos": "Danh từ",
+    "cat": "literary"
   },
   {
     "w": "追剧",
@@ -1928,7 +2410,9 @@
     "m": "xem phim bộ liên tục",
     "example": "她最近迷上了追剧，一集接一集地看。",
     "example_vi": "Gần đây cô ấy mê xem phim bộ liên tục, xem hết tập này đến tập khác.",
-    "me": "binge-watch a series"
+    "me": "binge-watch a series",
+    "pos": "Động từ",
+    "cat": "verb"
   },
   {
     "w": "追星",
@@ -1936,7 +2420,9 @@
     "m": "hâm mộ thần tượng",
     "example": "她是个狂热的追星族。",
     "example_vi": "Cô ấy là một fan cuồng nhiệt hâm mộ thần tượng.",
-    "me": "idol worship, fandom"
+    "me": "idol worship, fandom",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "演唱会",
@@ -1944,7 +2430,9 @@
     "m": "buổi hòa nhạc ca sĩ",
     "example": "我们买了下个月的演唱会门票。",
     "example_vi": "Chúng tôi đã mua vé buổi hòa nhạc tháng sau.",
-    "me": "singer's concert"
+    "me": "singer's concert",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "音乐会",
@@ -1952,7 +2440,9 @@
     "m": "buổi hòa nhạc",
     "example": "今晚有一场古典音乐会。",
     "example_vi": "Tối nay có một buổi hòa nhạc cổ điển.",
-    "me": "concert"
+    "me": "concert",
+    "pos": "Danh từ",
+    "cat": "nghệ thuật"
   },
   {
     "w": "话剧",
@@ -1960,7 +2450,9 @@
     "m": "kịch nói",
     "example": "这部话剧讲述了一个感人的故事。",
     "example_vi": "Vở kịch nói này kể về một câu chuyện cảm động.",
-    "me": "spoken drama (theater)"
+    "me": "spoken drama (theater)",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "歌剧",
@@ -1968,7 +2460,9 @@
     "m": "opera, ca kịch",
     "example": "她第一次去看歌剧，感到十分震撼。",
     "example_vi": "Lần đầu tiên cô ấy đi xem opera, cảm thấy vô cùng choáng ngợp.",
-    "me": "opera"
+    "me": "opera",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "小品",
@@ -1976,7 +2470,9 @@
     "m": "tiểu phẩm hài",
     "example": "春晚上的小品逗得观众哈哈大笑。",
     "example_vi": "Tiểu phẩm hài trong chương trình Xuân vãn khiến khán giả cười lớn.",
-    "me": "comedy sketch"
+    "me": "comedy sketch",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "街舞",
@@ -1984,7 +2480,9 @@
     "m": "nhảy đường phố",
     "example": "他从初中就开始学街舞。",
     "example_vi": "Anh ấy bắt đầu học nhảy đường phố từ cấp hai.",
-    "me": "street dance"
+    "me": "street dance",
+    "pos": "Động từ",
+    "cat": "nghệ thuật"
   },
   {
     "w": "广场舞",
@@ -1992,7 +2490,9 @@
     "m": "nhảy múa quảng trường",
     "example": "傍晚，广场上到处是跳广场舞的大妈。",
     "example_vi": "Chiều tối, khắp quảng trường là các bà cô đang nhảy múa quảng trường.",
-    "me": "public square dancing"
+    "me": "public square dancing",
+    "pos": "Động từ",
+    "cat": "verb"
   },
   {
     "w": "弹琴",
@@ -2000,7 +2500,9 @@
     "m": "chơi đàn",
     "example": "她每天都要练习弹琴一个小时。",
     "example_vi": "Mỗi ngày cô ấy đều luyện đàn một tiếng.",
-    "me": "play an instrument"
+    "me": "play an instrument",
+    "pos": "Động từ",
+    "cat": "verb"
   },
   {
     "w": "吹笛",
@@ -2008,7 +2510,9 @@
     "m": "thổi sáo",
     "example": "他吹笛的技巧非常高超。",
     "example_vi": "Kỹ thuật thổi sáo của anh ấy rất điêu luyện.",
-    "me": "to play the flute"
+    "me": "to play the flute",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "品茶",
@@ -2016,7 +2520,9 @@
     "m": "thưởng trà",
     "example": "老人们喜欢坐在一起品茶聊天。",
     "example_vi": "Các cụ già thích ngồi cùng nhau thưởng trà trò chuyện.",
-    "me": "appreciate tea"
+    "me": "appreciate tea",
+    "pos": "Danh từ",
+    "cat": "drink"
   },
   {
     "w": "品酒",
@@ -2024,7 +2530,9 @@
     "m": "nếm rượu, thưởng rượu",
     "example": "他对品酒很有研究。",
     "example_vi": "Anh ấy rất am hiểu về việc nếm rượu.",
-    "me": "taste wine, savor wine"
+    "me": "taste wine, savor wine",
+    "pos": "Danh từ",
+    "cat": "drink"
   },
   {
     "w": "折纸",
@@ -2032,7 +2540,9 @@
     "m": "gấp giấy, origami",
     "example": "她教孩子们用彩纸折纸。",
     "example_vi": "Cô ấy dạy bọn trẻ gấp giấy bằng giấy màu.",
-    "me": "paper folding, origami"
+    "me": "paper folding, origami",
+    "pos": "Danh từ",
+    "cat": "entertainment"
   },
   {
     "w": "头条",
@@ -2040,7 +2550,9 @@
     "m": "tin nổi bật, headline",
     "example": "这条新闻登上了今天的头条。",
     "example_vi": "Tin này đã lên trang nhất hôm nay.",
-    "me": "headline news"
+    "me": "headline news",
+    "pos": "Động từ",
+    "cat": "verb"
   },
   {
     "w": "报导",
@@ -2048,7 +2560,9 @@
     "m": "đưa tin, bản tin",
     "example": "记者对这起事件进行了详细报导。",
     "example_vi": "Phóng viên đã đưa tin chi tiết về sự việc này.",
-    "me": "report the news, news bulletin"
+    "me": "report the news, news bulletin",
+    "pos": "Danh từ",
+    "cat": "society"
   },
   {
     "w": "报刊",
@@ -2056,7 +2570,9 @@
     "m": "báo chí",
     "example": "图书馆订阅了各种报刊。",
     "example_vi": "Thư viện đặt mua đủ loại báo chí.",
-    "me": "journalism"
+    "me": "journalism",
+    "pos": "Danh từ",
+    "cat": "society"
   },
   {
     "w": "社论",
@@ -2064,7 +2580,9 @@
     "m": "xã luận",
     "example": "今天的社论讨论了教育改革问题。",
     "example_vi": "Xã luận hôm nay bàn về vấn đề cải cách giáo dục.",
-    "me": "editorial"
+    "me": "editorial",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "评论员",
@@ -2072,7 +2590,9 @@
     "m": "bình luận viên",
     "example": "这位评论员的分析很有见地。",
     "example_vi": "Phân tích của bình luận viên này rất sâu sắc.",
-    "me": "commentator"
+    "me": "commentator",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "播音员",
@@ -2080,7 +2600,9 @@
     "m": "phát thanh viên",
     "example": "她的梦想是成为一名播音员。",
     "example_vi": "Ước mơ của cô ấy là trở thành phát thanh viên.",
-    "me": "broadcaster, announcer"
+    "me": "broadcaster, announcer",
+    "pos": "Danh từ",
+    "cat": "media"
   },
   {
     "w": "栏目",
@@ -2088,7 +2610,9 @@
     "m": "chuyên mục, tiết mục",
     "example": "这个栏目专门介绍旅游景点。",
     "example_vi": "Chuyên mục này chuyên giới thiệu các điểm du lịch.",
-    "me": "column, segment"
+    "me": "column, segment",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "收视率",
@@ -2096,7 +2620,9 @@
     "m": "tỷ lệ người xem",
     "example": "这部电视剧的收视率非常高。",
     "example_vi": "Bộ phim truyền hình này có tỷ lệ người xem rất cao.",
-    "me": "viewership rate"
+    "me": "viewership rate",
+    "pos": "Danh từ",
+    "cat": "Truyền thông"
   },
   {
     "w": "点击率",
@@ -2104,7 +2630,9 @@
     "m": "tỷ lệ lượt click",
     "example": "这条视频的点击率突破了百万。",
     "example_vi": "Lượt xem video này đã vượt qua một triệu.",
-    "me": "click-through rate"
+    "me": "click-through rate",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "热搜",
@@ -2112,7 +2640,9 @@
     "m": "từ khóa tìm kiếm nóng",
     "example": "这个话题上了微博热搜。",
     "example_vi": "Chủ đề này đã lên top tìm kiếm nóng trên Weibo.",
-    "me": "trending search keyword"
+    "me": "trending search keyword",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "发布会",
@@ -2120,7 +2650,9 @@
     "m": "buổi họp báo ra mắt",
     "example": "公司明天将召开新产品发布会。",
     "example_vi": "Ngày mai công ty sẽ tổ chức họp báo ra mắt sản phẩm mới.",
-    "me": "launch press conference"
+    "me": "launch press conference",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "通告",
@@ -2128,7 +2660,9 @@
     "m": "thông báo, cáo thị",
     "example": "学校张贴了一份通告。",
     "example_vi": "Trường đã dán một tờ thông báo.",
-    "me": "notice, announcement"
+    "me": "notice, announcement",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "公告",
@@ -2136,7 +2670,9 @@
     "m": "công bố, thông cáo",
     "example": "政府发布了最新公告。",
     "example_vi": "Chính phủ đã ban hành thông cáo mới nhất.",
-    "me": "announce, communiqué"
+    "me": "announce, communiqué",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "消息来源",
@@ -2144,7 +2680,9 @@
     "m": "nguồn tin",
     "example": "记者必须保护消息来源。",
     "example_vi": "Phóng viên phải bảo vệ nguồn tin.",
-    "me": "source (journalism)"
+    "me": "source (journalism)",
+    "pos": "Danh từ",
+    "cat": "Truyền thông"
   },
   {
     "w": "爆料",
@@ -2152,7 +2690,9 @@
     "m": "tiết lộ tin nội bộ",
     "example": "有网友爆料该明星出轨。",
     "example_vi": "Có cư dân mạng tiết lộ ngôi sao đó ngoại tình.",
-    "me": "leak insider information"
+    "me": "leak insider information",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "传闻",
@@ -2160,7 +2700,9 @@
     "m": "tin đồn",
     "example": "网上流传着各种传闻。",
     "example_vi": "Trên mạng lan truyền đủ loại tin đồn.",
-    "me": "rumor"
+    "me": "rumor",
+    "pos": "Động từ",
+    "cat": "media"
   },
   {
     "w": "谣言",
@@ -2168,7 +2710,9 @@
     "m": "tin đồn nhảm",
     "example": "大家不要轻信谣言。",
     "example_vi": "Mọi người đừng dễ dàng tin vào tin đồn nhảm.",
-    "me": "baseless rumor"
+    "me": "baseless rumor",
+    "pos": "Động từ",
+    "cat": "verb"
   },
   {
     "w": "真相",
@@ -2176,7 +2720,9 @@
     "m": "sự thật",
     "example": "记者最终揭露了事件的真相。",
     "example_vi": "Cuối cùng phóng viên đã phanh phui sự thật của sự việc.",
-    "me": "fact"
+    "me": "fact",
+    "pos": "Danh từ",
+    "cat": "advanced"
   },
   {
     "w": "热议",
@@ -2184,7 +2730,9 @@
     "m": "bàn luận sôi nổi",
     "example": "这件事在网上引发了热议。",
     "example_vi": "Sự việc này đã gây ra bàn luận sôi nổi trên mạng.",
-    "me": "lively discussion"
+    "me": "lively discussion",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "福利政策",
@@ -2192,7 +2740,9 @@
     "m": "chính sách phúc lợi",
     "example": "政府出台了新的福利政策。",
     "example_vi": "Chính phủ đã ban hành chính sách phúc lợi mới.",
-    "me": "welfare policy"
+    "me": "welfare policy",
+    "pos": "Danh từ",
+    "cat": "idiom"
   },
   {
     "w": "举措",
@@ -2200,7 +2750,9 @@
     "m": "biện pháp, động thái",
     "example": "这是一项重要的改革举措。",
     "example_vi": "Đây là một biện pháp cải cách quan trọng.",
-    "me": "measure, move"
+    "me": "measure, move",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "倡议",
@@ -2208,7 +2760,9 @@
     "m": "đề xướng, sáng kiến",
     "example": "他向大家提出了环保倡议。",
     "example_vi": "Anh ấy đã đưa ra sáng kiến bảo vệ môi trường với mọi người.",
-    "me": "propose, initiative"
+    "me": "propose, initiative",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "呼吁",
@@ -2216,7 +2770,9 @@
     "m": "kêu gọi",
     "example": "专家呼吁大家节约用水。",
     "example_vi": "Chuyên gia kêu gọi mọi người tiết kiệm nước.",
-    "me": "call for, appeal"
+    "me": "call for, appeal",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "普及",
@@ -2224,7 +2780,9 @@
     "m": "phổ cập, phổ biến",
     "example": "智能手机已经普及到千家万户。",
     "example_vi": "Điện thoại thông minh đã phổ cập đến mọi nhà.",
-    "me": "popularize, widespread"
+    "me": "popularize, widespread",
+    "pos": "Tính từ",
+    "cat": "adjective"
   },
   {
     "w": "推行",
@@ -2232,7 +2790,9 @@
     "m": "thúc đẩy thực hiện",
     "example": "学校正在推行新的教学方法。",
     "example_vi": "Trường đang thúc đẩy áp dụng phương pháp giảng dạy mới.",
-    "me": "promote implementation"
+    "me": "promote implementation",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "细微",
@@ -2240,7 +2800,9 @@
     "m": "nhỏ nhặt, tinh vi",
     "example": "他能察觉到最细微的变化。",
     "example_vi": "Anh ấy có thể nhận ra những thay đổi nhỏ nhặt nhất.",
-    "me": "minute, subtle"
+    "me": "minute, subtle",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "庞大",
@@ -2248,7 +2810,9 @@
     "m": "to lớn, khổng lồ",
     "example": "这是一个庞大的工程项目。",
     "example_vi": "Đây là một dự án công trình khổng lồ.",
-    "me": "enormous"
+    "me": "enormous",
+    "pos": "Danh từ",
+    "cat": "advanced"
   },
   {
     "w": "微弱",
@@ -2256,7 +2820,9 @@
     "m": "yếu ớt, mờ nhạt",
     "example": "远处传来微弱的呼救声。",
     "example_vi": "Từ xa vọng lại tiếng kêu cứu yếu ớt.",
-    "me": "weak, faint"
+    "me": "weak, faint",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "强烈",
@@ -2264,7 +2830,9 @@
     "m": "mạnh mẽ, mãnh liệt",
     "example": "大家强烈反对这个方案。",
     "example_vi": "Mọi người phản đối mạnh mẽ phương án này.",
-    "me": "strong, intense"
+    "me": "strong, intense",
+    "pos": "Tính từ",
+    "cat": "adjective"
   },
   {
     "w": "强劲",
@@ -2272,7 +2840,9 @@
     "m": "mạnh mẽ (xu thế)",
     "example": "今年经济增长势头强劲。",
     "example_vi": "Năm nay đà tăng trưởng kinh tế rất mạnh mẽ.",
-    "me": "strong (trend)"
+    "me": "strong (trend)",
+    "pos": "Tính từ",
+    "cat": "adjective"
   },
   {
     "w": "虚弱",
@@ -2280,7 +2850,9 @@
     "m": "hư yếu, suy nhược",
     "example": "大病初愈，他身体还很虚弱。",
     "example_vi": "Vừa khỏi bệnh nặng, cơ thể anh ấy vẫn còn rất suy nhược.",
-    "me": "weak, debilitated"
+    "me": "weak, debilitated",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "脆弱",
@@ -2288,7 +2860,9 @@
     "m": "mong manh, yếu đuối",
     "example": "她的内心其实很脆弱。",
     "example_vi": "Nội tâm cô ấy thực ra rất mong manh.",
-    "me": "fragile, weak"
+    "me": "fragile, weak",
+    "pos": "Tính từ",
+    "cat": "adjective"
   },
   {
     "w": "坚固",
@@ -2296,7 +2870,9 @@
     "m": "kiên cố, vững chắc",
     "example": "这座桥建得非常坚固。",
     "example_vi": "Cây cầu này được xây rất kiên cố.",
-    "me": "solid, sturdy"
+    "me": "solid, sturdy",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "牢固",
@@ -2304,7 +2880,9 @@
     "m": "chắc chắn, bền vững",
     "example": "打好基础，房子才能盖得牢固。",
     "example_vi": "Xây nền móng tốt thì nhà mới có thể xây chắc chắn.",
-    "me": "solid, durable"
+    "me": "solid, durable",
+    "pos": "Phó từ",
+    "cat": "adverb"
   },
   {
     "w": "稳固",
@@ -2312,7 +2890,9 @@
     "m": "vững chắc, ổn định",
     "example": "公司的市场地位越来越稳固。",
     "example_vi": "Vị thế thị trường của công ty ngày càng vững chắc.",
-    "me": "solid, stable"
+    "me": "solid, stable",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "动荡",
@@ -2320,7 +2900,9 @@
     "m": "biến động, bất ổn",
     "example": "那个时期社会局势非常动荡。",
     "example_vi": "Thời kỳ đó tình hình xã hội rất biến động.",
-    "me": "volatile, unstable"
+    "me": "volatile, unstable",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "有序",
@@ -2328,7 +2910,9 @@
     "m": "có trật tự",
     "example": "疏散工作进行得井然有序。",
     "example_vi": "Công tác sơ tán diễn ra rất trật tự.",
-    "me": "orderly"
+    "me": "orderly",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "杂乱",
@@ -2336,7 +2920,9 @@
     "m": "lộn xộn, hỗn tạp",
     "example": "房间里堆满了杂乱的东西。",
     "example_vi": "Trong phòng chất đầy đồ đạc lộn xộn.",
-    "me": "chaotic, jumbled"
+    "me": "chaotic, jumbled",
+    "pos": "Tính từ",
+    "cat": "adjective"
   },
   {
     "w": "凌乱",
@@ -2344,7 +2930,9 @@
     "m": "bừa bộn",
     "example": "她的头发被风吹得很凌乱。",
     "example_vi": "Tóc cô ấy bị gió thổi rối bù.",
-    "me": "messy"
+    "me": "messy",
+    "pos": "Tính từ",
+    "cat": "adjective"
   },
   {
     "w": "粗略",
@@ -2352,7 +2940,9 @@
     "m": "sơ lược, đại khái",
     "example": "我只做了一个粗略的统计。",
     "example_vi": "Tôi chỉ mới làm một thống kê sơ lược.",
-    "me": "brief, approximate"
+    "me": "brief, approximate",
+    "pos": "Phó từ",
+    "cat": "adverb"
   },
   {
     "w": "笼统",
@@ -2360,7 +2950,9 @@
     "m": "chung chung, mơ hồ",
     "example": "他的回答太笼统了。",
     "example_vi": "Câu trả lời của anh ấy quá chung chung.",
-    "me": "vague, general"
+    "me": "vague, general",
+    "pos": "Tính từ",
+    "cat": "adjective"
   },
   {
     "w": "模糊",
@@ -2368,7 +2960,9 @@
     "m": "mờ nhạt, mơ hồ",
     "example": "照片有点模糊，看不清脸。",
     "example_vi": "Bức ảnh hơi mờ, không nhìn rõ mặt.",
-    "me": "faint, vague"
+    "me": "faint, vague",
+    "pos": "Tính từ",
+    "cat": "adjective"
   },
   {
     "w": "含糊",
@@ -2376,7 +2970,9 @@
     "m": "lấp lửng, mập mờ",
     "example": "他说话含糊其辞，不肯正面回答。",
     "example_vi": "Anh ấy nói năng lấp lửng, không chịu trả lời thẳng.",
-    "me": "ambiguous, vague"
+    "me": "ambiguous, vague",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "明确",
@@ -2384,7 +2980,9 @@
     "m": "rõ ràng, minh xác",
     "example": "请给我一个明确的答复。",
     "example_vi": "Xin cho tôi một câu trả lời rõ ràng.",
-    "me": "clear, explicit"
+    "me": "clear, explicit",
+    "pos": "Tính từ",
+    "cat": "adjective"
   },
   {
     "w": "确切",
@@ -2392,7 +2990,9 @@
     "m": "chính xác, xác thực",
     "example": "目前还没有确切的消息。",
     "example_vi": "Hiện vẫn chưa có tin tức chính xác.",
-    "me": "accurate, authentic"
+    "me": "accurate, authentic",
+    "pos": "Tính từ",
+    "cat": "adjective"
   },
   {
     "w": "难怪",
@@ -2400,14 +3000,18 @@
     "m": "thảo nào, hèn gì",
     "example": "难怪他今天没来，原来生病了。",
     "example_vi": "Thảo nào hôm nay anh ấy không đến, hóa ra là bị ốm.",
-    "me": "no wonder"
+    "me": "no wonder",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "幸亏",
     "p": "xìngkuī",
     "m": "may mà, may sao",
     "example": "幸亏带了伞，不然就淋湿了。",
-    "example_vi": "May mà mang theo ô, không thì đã bị ướt."
+    "example_vi": "May mà mang theo ô, không thì đã bị ướt.",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "多亏",
@@ -2415,7 +3019,9 @@
     "m": "nhờ có, may nhờ",
     "example": "多亏你的帮助，我才顺利完成任务。",
     "example_vi": "Nhờ có sự giúp đỡ của bạn, tôi mới hoàn thành nhiệm vụ suôn sẻ.",
-    "me": "thanks to, fortunately due to"
+    "me": "thanks to, fortunately due to",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "幸好",
@@ -2423,7 +3029,9 @@
     "m": "may mà, may thay",
     "example": "幸好我们出发得早，没有堵车。",
     "example_vi": "May mà chúng tôi xuất phát sớm, không bị kẹt xe.",
-    "me": "fortunately"
+    "me": "fortunately",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "反倒",
@@ -2431,7 +3039,9 @@
     "m": "trái lại, ngược lại",
     "example": "批评了他几句，他反倒不高兴了。",
     "example_vi": "Chỉ phê bình anh ấy vài câu, anh ấy lại không vui.",
-    "me": "on the contrary"
+    "me": "on the contrary",
+    "pos": "Phó từ",
+    "cat": "language"
   },
   {
     "w": "倒是",
@@ -2439,7 +3049,9 @@
     "m": "lại là, thì lại",
     "example": "天气倒是不错，就是有点冷。",
     "example_vi": "Thời tiết thì khá đẹp, chỉ là hơi lạnh.",
-    "me": "yet again, on the other hand"
+    "me": "yet again, on the other hand",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "偏偏",
@@ -2447,7 +3059,9 @@
     "m": "lại cứ, cố tình",
     "example": "我不想让他知道，他偏偏猜到了。",
     "example_vi": "Tôi không muốn để anh ấy biết, anh ấy lại cứ đoán ra được.",
-    "me": "yet still, deliberately"
+    "me": "yet still, deliberately",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "凑巧",
@@ -2455,7 +3069,9 @@
     "m": "tình cờ, vừa khéo",
     "example": "真凑巧，我们在机场遇见了。",
     "example_vi": "Thật tình cờ, chúng tôi gặp nhau ở sân bay.",
-    "me": "by coincidence, as luck would have it"
+    "me": "by coincidence, as luck would have it",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "碰巧",
@@ -2463,7 +3079,9 @@
     "m": "tình cờ, ngẫu nhiên",
     "example": "我碰巧路过，就顺便进来看看。",
     "example_vi": "Tôi tình cờ đi ngang qua nên tiện thể vào xem.",
-    "me": "coincidental, random"
+    "me": "coincidental, random",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "索性",
@@ -2471,7 +3089,9 @@
     "m": "dứt khoát, thẳng thừng",
     "example": "既然已经迟到了，他索性不去了。",
     "example_vi": "Đã trễ rồi, anh ấy dứt khoát không đi nữa.",
-    "me": "decisive, blunt"
+    "me": "decisive, blunt",
+    "pos": "Danh từ",
+    "cat": "psychology"
   },
   {
     "w": "顺带",
@@ -2479,7 +3099,9 @@
     "m": "tiện thể",
     "example": "我去超市，顺带帮你买瓶水。",
     "example_vi": "Tôi đi siêu thị, tiện thể mua giúp bạn một chai nước.",
-    "me": "while at it, incidentally"
+    "me": "while at it, incidentally",
+    "pos": "Phó từ",
+    "cat": "trạng từ"
   },
   {
     "w": "附带",
@@ -2487,7 +3109,9 @@
     "m": "kèm theo, đính kèm",
     "example": "这份合同附带了几项条款。",
     "example_vi": "Bản hợp đồng này kèm theo vài điều khoản.",
-    "me": "to attach, enclose"
+    "me": "to attach, enclose",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "额外",
@@ -2495,7 +3119,9 @@
     "m": "thêm vào, ngoài ra",
     "example": "完成任务后，他还得到了额外的奖励。",
     "example_vi": "Sau khi hoàn thành nhiệm vụ, anh ấy còn nhận được phần thưởng thêm.",
-    "me": "in addition, besides"
+    "me": "in addition, besides",
+    "pos": "Động từ",
+    "cat": "verb"
   },
   {
     "w": "再说",
@@ -2503,7 +3129,9 @@
     "m": "hơn nữa, vả lại",
     "example": "时间还早，再说他也没通知我们。",
     "example_vi": "Còn sớm mà, vả lại anh ấy cũng chưa báo cho chúng tôi.",
-    "me": "moreover, besides"
+    "me": "moreover, besides",
+    "pos": "Phó từ",
+    "cat": "language"
   },
   {
     "w": "归根结底",
@@ -2511,7 +3139,9 @@
     "m": "suy cho cùng, rốt cuộc",
     "example": "归根结底，还是我们准备不足。",
     "example_vi": "Suy cho cùng, vẫn là do chúng tôi chuẩn bị chưa đủ.",
-    "me": "in the end, ultimately"
+    "me": "in the end, ultimately",
+    "pos": "Phó từ",
+    "cat": "idiom"
   },
   {
     "w": "担当",
@@ -2519,7 +3149,9 @@
     "m": "đảm đương, gánh vác",
     "example": "他勇于担当责任。",
     "example_vi": "Anh ấy dũng cảm gánh vác trách nhiệm.",
-    "me": "take on, shoulder"
+    "me": "take on, shoulder",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "担负",
@@ -2527,7 +3159,9 @@
     "m": "đảm nhận, gánh vác",
     "example": "他担负着全家的生活重担。",
     "example_vi": "Anh ấy gánh vác gánh nặng cuộc sống của cả gia đình.",
-    "me": "take on, shoulder"
+    "me": "take on, shoulder",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "承诺",
@@ -2535,7 +3169,9 @@
     "m": "cam kết, hứa hẹn",
     "example": "公司承诺按时交货。",
     "example_vi": "Công ty cam kết giao hàng đúng hạn.",
-    "me": "commit, pledge"
+    "me": "commit, pledge",
+    "pos": "Động từ",
+    "cat": "verb"
   },
   {
     "w": "允诺",
@@ -2543,7 +3179,9 @@
     "m": "hứa hẹn, đồng ý",
     "example": "他允诺明天一定归还欠款。",
     "example_vi": "Anh ấy hứa ngày mai nhất định trả lại khoản nợ.",
-    "me": "promise, agree"
+    "me": "promise, agree",
+    "pos": "Động từ",
+    "cat": "verb"
   },
   {
     "w": "保障",
@@ -2551,7 +3189,9 @@
     "m": "bảo đảm",
     "example": "政府要保障公民的基本权利。",
     "example_vi": "Chính phủ phải bảo đảm quyền lợi cơ bản của công dân.",
-    "me": "guarantee"
+    "me": "guarantee",
+    "pos": "Danh từ",
+    "cat": "finance"
   },
   {
     "w": "削弱",
@@ -2559,7 +3199,9 @@
     "m": "làm suy yếu",
     "example": "长期的压力削弱了他的免疫力。",
     "example_vi": "Áp lực lâu dài đã làm suy yếu sức đề kháng của anh ấy.",
-    "me": "undermine"
+    "me": "undermine",
+    "pos": "Động từ",
+    "cat": "society"
   },
   {
     "w": "增进",
@@ -2567,7 +3209,9 @@
     "m": "tăng cường, thúc đẩy",
     "example": "这次交流增进了两国的友谊。",
     "example_vi": "Cuộc giao lưu lần này đã tăng cường tình hữu nghị giữa hai nước.",
-    "me": "boost"
+    "me": "boost",
+    "pos": "Động từ",
+    "cat": "vocabulary"
   },
   {
     "w": "阻挠",
@@ -2575,7 +3219,9 @@
     "m": "cản trở, ngăn cản",
     "example": "他们试图阻挠计划的实施。",
     "example_vi": "Họ cố gắng cản trở việc thực hiện kế hoạch.",
-    "me": "hinder, obstruct"
+    "me": "hinder, obstruct",
+    "pos": "Động từ",
+    "cat": "formal-academic"
   },
   {
     "w": "阻止",
@@ -2583,7 +3229,9 @@
     "m": "ngăn chặn",
     "example": "警察及时阻止了事故的发生。",
     "example_vi": "Cảnh sát đã kịp thời ngăn chặn tai nạn xảy ra.",
-    "me": "prevent"
+    "me": "prevent",
+    "pos": "Động từ",
+    "cat": "hành động"
   },
   {
     "w": "制止",
@@ -2591,7 +3239,9 @@
     "m": "ngăn chặn, chấm dứt",
     "example": "老师及时制止了学生的争吵。",
     "example_vi": "Thầy giáo đã kịp thời ngăn chặn cuộc cãi vã của học sinh.",
-    "me": "prevent, stop"
+    "me": "prevent, stop",
+    "pos": "Động từ",
+    "cat": "verb"
   },
   {
     "w": "调节",
@@ -2599,7 +3249,9 @@
     "m": "điều chỉnh",
     "example": "空调可以调节室内温度。",
     "example_vi": "Máy điều hòa có thể điều chỉnh nhiệt độ trong phòng.",
-    "me": "adjust"
+    "me": "adjust",
+    "pos": "Động từ",
+    "cat": "verb"
   },
   {
     "w": "分割",
@@ -2607,7 +3259,9 @@
     "m": "chia cắt, phân chia",
     "example": "这块地被分割成了几部分。",
     "example_vi": "Mảnh đất này bị chia cắt thành mấy phần.",
-    "me": "divide, split"
+    "me": "divide, split",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "划分",
@@ -2615,7 +3269,9 @@
     "m": "phân chia, phân loại",
     "example": "老师把学生划分成了几个小组。",
     "example_vi": "Thầy giáo đã chia học sinh thành mấy nhóm nhỏ.",
-    "me": "divide, classify"
+    "me": "divide, classify",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "识别",
@@ -2623,7 +3279,9 @@
     "m": "nhận biết, nhận dạng",
     "example": "这个软件可以识别人脸。",
     "example_vi": "Phần mềm này có thể nhận diện khuôn mặt.",
-    "me": "recognize, identify"
+    "me": "recognize, identify",
+    "pos": "Động từ",
+    "cat": "verb"
   },
   {
     "w": "判定",
@@ -2631,7 +3289,9 @@
     "m": "phán định, xác định",
     "example": "医生判定他患了流感。",
     "example_vi": "Bác sĩ xác định anh ấy mắc bệnh cúm.",
-    "me": "determine, ascertain"
+    "me": "determine, ascertain",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "推测",
@@ -2639,7 +3299,9 @@
     "m": "suy đoán",
     "example": "专家推测这场雨还要下三天。",
     "example_vi": "Chuyên gia suy đoán trận mưa này còn kéo dài ba ngày nữa.",
-    "me": "speculate, infer"
+    "me": "speculate, infer",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "预料",
@@ -2647,7 +3309,9 @@
     "m": "dự liệu, lường trước",
     "example": "事情的发展超出了我们的预料。",
     "example_vi": "Diễn biến sự việc đã vượt quá dự liệu của chúng tôi.",
-    "me": "anticipate, foresee"
+    "me": "anticipate, foresee",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "预计",
@@ -2655,7 +3319,9 @@
     "m": "dự tính, dự kiến",
     "example": "预计明天会下雨。",
     "example_vi": "Dự kiến ngày mai sẽ có mưa.",
-    "me": "anticipate, expect"
+    "me": "anticipate, expect",
+    "pos": "Động từ",
+    "cat": "verb"
   },
   {
     "w": "预期",
@@ -2663,7 +3329,9 @@
     "m": "kỳ vọng, dự kiến",
     "example": "销售业绩超过了预期。",
     "example_vi": "Doanh số bán hàng đã vượt quá kỳ vọng.",
-    "me": "expect, anticipate"
+    "me": "expect, anticipate",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "预警",
@@ -2671,7 +3339,9 @@
     "m": "cảnh báo sớm",
     "example": "气象部门发布了台风预警。",
     "example_vi": "Cơ quan khí tượng đã phát cảnh báo sớm về bão.",
-    "me": "early warning"
+    "me": "early warning",
+    "pos": "Động từ",
+    "cat": "verb"
   },
   {
     "w": "警惕",
@@ -2679,7 +3349,9 @@
     "m": "cảnh giác",
     "example": "大家要提高警惕，谨防上当。",
     "example_vi": "Mọi người cần nâng cao cảnh giác, đề phòng bị lừa.",
-    "me": "vigilant"
+    "me": "vigilant",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "警觉",
@@ -2687,7 +3359,9 @@
     "m": "cảnh giác, tỉnh táo",
     "example": "听到异响，他立刻警觉起来。",
     "example_vi": "Nghe thấy tiếng động lạ, anh ấy lập tức cảnh giác.",
-    "me": "vigilant, alert"
+    "me": "vigilant, alert",
+    "pos": "Tính từ",
+    "cat": "adjective"
   },
   {
     "w": "察觉",
@@ -2695,7 +3369,9 @@
     "m": "phát hiện, nhận ra",
     "example": "她察觉到了他的异常。",
     "example_vi": "Cô ấy đã nhận ra sự bất thường của anh ấy.",
-    "me": "detect"
+    "me": "detect",
+    "pos": "Động từ",
+    "cat": "hành động"
   },
   {
     "w": "发觉",
@@ -2703,7 +3379,9 @@
     "m": "phát hiện ra",
     "example": "他发觉自己被骗了。",
     "example_vi": "Anh ấy phát hiện ra mình đã bị lừa.",
-    "me": "discover"
+    "me": "discover",
+    "pos": "Động từ",
+    "cat": "verb"
   },
   {
     "w": "检测",
@@ -2711,7 +3389,9 @@
     "m": "kiểm tra, đo lường",
     "example": "工厂对产品进行严格检测。",
     "example_vi": "Nhà máy tiến hành kiểm tra nghiêm ngặt sản phẩm.",
-    "me": "check, measure"
+    "me": "check, measure",
+    "pos": "Động từ",
+    "cat": "verb"
   },
   {
     "w": "回收利用",
@@ -2719,7 +3399,9 @@
     "m": "tái chế sử dụng",
     "example": "我们应该回收利用废旧物品。",
     "example_vi": "Chúng ta nên tái chế sử dụng đồ vật cũ.",
-    "me": "recycle for reuse"
+    "me": "recycle for reuse",
+    "pos": "Danh từ",
+    "cat": "idiom"
   },
   {
     "w": "节约能源",
@@ -2727,7 +3409,9 @@
     "m": "tiết kiệm năng lượng",
     "example": "节约能源是每个人的责任。",
     "example_vi": "Tiết kiệm năng lượng là trách nhiệm của mỗi người.",
-    "me": "energy saving"
+    "me": "energy saving",
+    "pos": "Động từ",
+    "cat": "science"
   },
   {
     "w": "森林火灾",
@@ -2735,7 +3419,9 @@
     "m": "cháy rừng",
     "example": "干燥的天气容易引发森林火灾。",
     "example_vi": "Thời tiết khô hanh dễ gây ra cháy rừng.",
-    "me": "wildfire"
+    "me": "wildfire",
+    "pos": "Danh từ",
+    "cat": "environment"
   },
   {
     "w": "保护区",
@@ -2743,7 +3429,9 @@
     "m": "khu bảo tồn",
     "example": "这里是国家级自然保护区。",
     "example_vi": "Nơi đây là khu bảo tồn thiên nhiên cấp quốc gia.",
-    "me": "conservation area"
+    "me": "conservation area",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "资源短缺",
@@ -2751,7 +3439,9 @@
     "m": "thiếu hụt tài nguyên",
     "example": "水资源短缺是全球性问题。",
     "example_vi": "Thiếu hụt tài nguyên nước là vấn đề toàn cầu.",
-    "me": "resource shortage"
+    "me": "resource shortage",
+    "pos": "Động từ",
+    "cat": "idiom"
   },
   {
     "w": "性格开朗",
@@ -2759,7 +3449,9 @@
     "m": "tính cách vui vẻ cởi mở",
     "example": "她性格开朗，很受同事欢迎。",
     "example_vi": "Cô ấy tính cách vui vẻ cởi mở, rất được đồng nghiệp yêu mến.",
-    "me": "a cheerful, open personality"
+    "me": "a cheerful, open personality",
+    "pos": "Danh từ",
+    "cat": "idiom"
   },
   {
     "w": "无私",
@@ -2767,7 +3459,9 @@
     "m": "vô tư, không vụ lợi",
     "example": "老师无私地帮助每一个学生。",
     "example_vi": "Thầy giáo vô tư giúp đỡ từng học sinh.",
-    "me": "selfless, disinterested"
+    "me": "selfless, disinterested",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "大意",
@@ -2775,7 +3469,9 @@
     "m": "bất cẩn, sơ suất",
     "example": "考试时他因为大意丢了不少分。",
     "example_vi": "Khi thi anh ấy vì bất cẩn mà mất khá nhiều điểm.",
-    "me": "careless, negligent"
+    "me": "careless, negligent",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "懒散",
@@ -2783,7 +3479,9 @@
     "m": "lười biếng, uể oải",
     "example": "假期过后，他变得有点懒散。",
     "example_vi": "Sau kỳ nghỉ, anh ấy trở nên hơi lười biếng.",
-    "me": "lazy, sluggish"
+    "me": "lazy, sluggish",
+    "pos": "Tính từ",
+    "cat": "adjective"
   },
   {
     "w": "散漫",
@@ -2791,14 +3489,18 @@
     "m": "tùy tiện, thiếu kỷ luật",
     "example": "他工作态度散漫，经常迟到。",
     "example_vi": "Thái độ làm việc của anh ấy tùy tiện, thường xuyên đi trễ.",
-    "me": "undisciplined, careless"
+    "me": "undisciplined, careless",
+    "pos": "Động từ",
+    "cat": "verb"
   },
   {
     "w": "固执己见",
     "p": "gùzhíjǐjiàn",
     "m": "khăng khăng bảo thủ ý kiến riêng",
     "example": "他固执己见，谁的意见都听不进去。",
-    "example_vi": "Anh ấy khăng khăng bảo thủ ý kiến riêng, không nghe ai cả."
+    "example_vi": "Anh ấy khăng khăng bảo thủ ý kiến riêng, không nghe ai cả.",
+    "pos": "Danh từ",
+    "cat": "idiom"
   },
   {
     "w": "老实",
@@ -2806,7 +3508,9 @@
     "m": "thật thà",
     "example": "他是个老实人，从不撒谎。",
     "example_vi": "Anh ấy là người thật thà, chưa bao giờ nói dối.",
-    "me": "honest"
+    "me": "honest",
+    "pos": "Tính từ",
+    "cat": "adjective"
   },
   {
     "w": "狡猾",
@@ -2814,7 +3518,9 @@
     "m": "xảo quyệt, ranh mãnh",
     "example": "这只狐狸非常狡猾。",
     "example_vi": "Con cáo này rất xảo quyệt.",
-    "me": "cunning, crafty"
+    "me": "cunning, crafty",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "精明",
@@ -2822,7 +3528,9 @@
     "m": "tinh khôn, sắc sảo",
     "example": "他是个精明的商人。",
     "example_vi": "Anh ấy là một thương nhân tinh khôn.",
-    "me": "shrewd, sharp"
+    "me": "shrewd, sharp",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "机灵",
@@ -2830,7 +3538,9 @@
     "m": "nhanh nhẹn, lanh lợi",
     "example": "这孩子很机灵，一学就会。",
     "example_vi": "Đứa trẻ này rất lanh lợi, học là biết ngay.",
-    "me": "agile, quick-witted"
+    "me": "agile, quick-witted",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "聪慧",
@@ -2838,7 +3548,9 @@
     "m": "thông minh, sáng dạ",
     "example": "她从小就聪慧过人。",
     "example_vi": "Cô ấy từ nhỏ đã thông minh hơn người.",
-    "me": "intelligent, quick-witted"
+    "me": "intelligent, quick-witted",
+    "pos": "Tính từ",
+    "cat": "adjective"
   },
   {
     "w": "笨拙",
@@ -2846,7 +3558,9 @@
     "m": "vụng về",
     "example": "他动作笨拙，经常打翻东西。",
     "example_vi": "Động tác của anh ấy vụng về, thường xuyên làm đổ đồ.",
-    "me": "clumsy"
+    "me": "clumsy",
+    "pos": "Tính từ",
+    "cat": "tính từ"
   },
   {
     "w": "呆板",
@@ -2854,7 +3568,9 @@
     "m": "cứng nhắc, khô khan",
     "example": "他的表情很呆板，看不出情绪。",
     "example_vi": "Biểu cảm của anh ấy rất cứng nhắc, không nhìn ra cảm xúc.",
-    "me": "rigid, dry"
+    "me": "rigid, dry",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "文静",
@@ -2862,7 +3578,9 @@
     "m": "trầm tĩnh, hiền dịu",
     "example": "她性格文静，不爱说话。",
     "example_vi": "Cô ấy tính cách trầm tĩnh, không thích nói nhiều.",
-    "me": "calm and gentle"
+    "me": "calm and gentle",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "冲动",
@@ -2870,7 +3588,9 @@
     "m": "bốc đồng, xung động",
     "example": "他做事太冲动，容易后悔。",
     "example_vi": "Anh ấy làm việc quá bốc đồng, dễ hối hận.",
-    "me": "impulsive"
+    "me": "impulsive",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "教育制度",
@@ -2878,7 +3598,9 @@
     "m": "chế độ giáo dục",
     "example": "每个国家的教育制度都不一样。",
     "example_vi": "Chế độ giáo dục của mỗi quốc gia đều khác nhau.",
-    "me": "education system"
+    "me": "education system",
+    "pos": "Danh từ",
+    "cat": "idiom"
   },
   {
     "w": "教育体系",
@@ -2886,7 +3608,9 @@
     "m": "hệ thống giáo dục",
     "example": "这个国家正在改革教育体系。",
     "example_vi": "Quốc gia này đang cải cách hệ thống giáo dục.",
-    "me": "education system"
+    "me": "education system",
+    "pos": "Danh từ",
+    "cat": "học tập"
   },
   {
     "w": "校纪",
@@ -2894,7 +3618,9 @@
     "m": "kỷ luật trường học",
     "example": "违反校纪的学生会受到处分。",
     "example_vi": "Học sinh vi phạm kỷ luật trường sẽ bị xử phạt.",
-    "me": "school discipline"
+    "me": "school discipline",
+    "pos": "Danh từ",
+    "cat": "education"
   },
   {
     "w": "考风",
@@ -2902,7 +3628,9 @@
     "m": "tác phong thi cử",
     "example": "学校非常重视考风考纪。",
     "example_vi": "Trường rất coi trọng tác phong và kỷ luật thi cử.",
-    "me": "exam conduct/etiquette"
+    "me": "exam conduct/etiquette",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "作弊",
@@ -2910,7 +3638,9 @@
     "m": "gian lận thi cử",
     "example": "考试作弊会被取消成绩。",
     "example_vi": "Gian lận trong thi cử sẽ bị hủy kết quả.",
-    "me": "exam cheating"
+    "me": "exam cheating",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "舞弊",
@@ -2918,7 +3648,9 @@
     "m": "gian lận, tham nhũng",
     "example": "学校严厉打击考试舞弊行为。",
     "example_vi": "Trường xử lý nghiêm hành vi gian lận thi cử.",
-    "me": "fraud, corruption"
+    "me": "fraud, corruption",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "监考",
@@ -2926,7 +3658,9 @@
     "m": "giám thị coi thi",
     "example": "今天由王老师监考。",
     "example_vi": "Hôm nay thầy Vương làm giám thị coi thi.",
-    "me": "exam proctor"
+    "me": "exam proctor",
+    "pos": "Danh từ",
+    "cat": "Học thuật"
   },
   {
     "w": "批改",
@@ -2934,7 +3668,9 @@
     "m": "chấm sửa bài tập",
     "example": "老师每天要批改很多作业。",
     "example_vi": "Mỗi ngày thầy giáo phải chấm sửa rất nhiều bài tập.",
-    "me": "grade and correct homework"
+    "me": "grade and correct homework",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "批阅",
@@ -2942,7 +3678,9 @@
     "m": "chấm duyệt bài thi",
     "example": "老师正在批阅学生的作文。",
     "example_vi": "Thầy giáo đang chấm bài văn của học sinh.",
-    "me": "grade an exam"
+    "me": "grade an exam",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "评语",
@@ -2950,7 +3688,9 @@
     "m": "lời nhận xét",
     "example": "老师在作业本上写了评语。",
     "example_vi": "Thầy giáo đã viết lời nhận xét vào vở bài tập.",
-    "me": "a remark, comment"
+    "me": "a remark, comment",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "家访",
@@ -2958,7 +3698,9 @@
     "m": "thăm nhà học sinh",
     "example": "老师利用假期去学生家里家访。",
     "example_vi": "Thầy giáo tận dụng kỳ nghỉ đến thăm nhà học sinh.",
-    "me": "home visit (to a student's family)"
+    "me": "home visit (to a student's family)",
+    "pos": "Danh từ",
+    "cat": "Học thuật"
   },
   {
     "w": "推荐信",
@@ -2966,7 +3708,9 @@
     "m": "thư giới thiệu",
     "example": "申请留学需要一封推荐信。",
     "example_vi": "Xin du học cần một lá thư giới thiệu.",
-    "me": "letter of recommendation"
+    "me": "letter of recommendation",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "自主招生",
@@ -2974,7 +3718,9 @@
     "m": "tuyển sinh tự chủ",
     "example": "一些大学开始实行自主招生政策。",
     "example_vi": "Một số trường đại học bắt đầu thực hiện chính sách tuyển sinh tự chủ.",
-    "me": "autonomous admission"
+    "me": "autonomous admission",
+    "pos": "Động từ",
+    "cat": "idiom"
   },
   {
     "w": "装潢",
@@ -2982,7 +3728,9 @@
     "m": "trang trí nội thất",
     "example": "这家店的装潢非常有特色。",
     "example_vi": "Trang trí nội thất của cửa hàng này rất có đặc sắc.",
-    "me": "interior decoration"
+    "me": "interior decoration",
+    "pos": "Danh từ",
+    "cat": "home"
   },
   {
     "w": "楼层",
@@ -2990,7 +3738,9 @@
     "m": "tầng lầu",
     "example": "你住在几楼层？",
     "example_vi": "Bạn ở tầng mấy?",
-    "me": "floor, story"
+    "me": "floor, story",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "书房",
@@ -2998,7 +3748,9 @@
     "m": "phòng đọc sách",
     "example": "爸爸喜欢在书房看书。",
     "example_vi": "Bố thích đọc sách trong phòng đọc sách.",
-    "me": "reading room"
+    "me": "reading room",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "储藏室",
@@ -3006,7 +3758,9 @@
     "m": "phòng kho",
     "example": "旧家具都放在储藏室里。",
     "example_vi": "Đồ nội thất cũ đều được cất trong phòng kho.",
-    "me": "storage room"
+    "me": "storage room",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "开发商",
@@ -3014,7 +3768,9 @@
     "m": "chủ đầu tư",
     "example": "开发商承诺明年交房。",
     "example_vi": "Chủ đầu tư cam kết giao nhà vào năm sau.",
-    "me": "project investor / developer"
+    "me": "project investor / developer",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "首付",
@@ -3022,14 +3778,18 @@
     "m": "tiền trả trước mua nhà",
     "example": "他们凑够了首付款。",
     "example_vi": "Họ đã gom đủ tiền trả trước.",
-    "me": "down payment for a house"
+    "me": "down payment for a house",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "月供",
     "p": "yuègòng",
     "m": "trả góp hàng tháng",
     "example": "每个月的月供压力不小。",
-    "example_vi": "Áp lực trả góp hàng tháng không nhỏ."
+    "example_vi": "Áp lực trả góp hàng tháng không nhỏ.",
+    "pos": "Động từ",
+    "cat": "verb"
   },
   {
     "w": "房贷",
@@ -3037,7 +3797,9 @@
     "m": "vay mua nhà",
     "example": "他每个月都要还房贷。",
     "example_vi": "Mỗi tháng anh ấy đều phải trả nợ vay mua nhà.",
-    "me": "home mortgage loan"
+    "me": "home mortgage loan",
+    "pos": "Động từ",
+    "cat": "verb"
   },
   {
     "w": "按揭",
@@ -3045,7 +3807,9 @@
     "m": "thế chấp vay mua nhà",
     "example": "他们按揭买了一套房子。",
     "example_vi": "Họ đã thế chấp vay mua một căn nhà.",
-    "me": "home mortgage"
+    "me": "home mortgage",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "看房",
@@ -3053,7 +3817,9 @@
     "m": "xem nhà",
     "example": "周末我们约好去看房。",
     "example_vi": "Cuối tuần chúng tôi hẹn nhau đi xem nhà.",
-    "me": "house viewing"
+    "me": "house viewing",
+    "pos": "Động từ",
+    "cat": "verb"
   },
   {
     "w": "验房",
@@ -3061,7 +3827,9 @@
     "m": "kiểm tra nhà trước khi nhận",
     "example": "收房前一定要仔细验房。",
     "example_vi": "Trước khi nhận nhà nhất định phải kiểm tra kỹ.",
-    "me": "pre-acceptance house inspection"
+    "me": "pre-acceptance house inspection",
+    "pos": "Động từ",
+    "cat": "verb"
   },
   {
     "w": "交房",
@@ -3069,7 +3837,9 @@
     "m": "bàn giao nhà",
     "example": "开发商预计明年交房。",
     "example_vi": "Chủ đầu tư dự kiến bàn giao nhà vào năm sau.",
-    "me": "hand over the house (property handover)"
+    "me": "hand over the house (property handover)",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "布置",
@@ -3077,7 +3847,9 @@
     "m": "bài trí, sắp xếp",
     "example": "她把新房布置得很温馨。",
     "example_vi": "Cô ấy đã bài trí căn nhà mới rất ấm cúng.",
-    "me": "arrangement, layout"
+    "me": "arrangement, layout",
+    "pos": "Động từ",
+    "cat": "verb"
   },
   {
     "w": "翻新",
@@ -3085,7 +3857,9 @@
     "m": "tân trang, làm mới lại",
     "example": "老房子经过翻新变得焕然一新。",
     "example_vi": "Ngôi nhà cũ sau khi tân trang trở nên hoàn toàn mới mẻ.",
-    "me": "renovate, refresh"
+    "me": "renovate, refresh",
+    "pos": "Động từ",
+    "cat": "verb"
   },
   {
     "w": "改造",
@@ -3093,7 +3867,9 @@
     "m": "cải tạo",
     "example": "政府计划改造老旧小区。",
     "example_vi": "Chính phủ có kế hoạch cải tạo khu dân cư cũ.",
-    "me": "renovate"
+    "me": "renovate",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "拆迁",
@@ -3101,7 +3877,9 @@
     "m": "giải tỏa di dời",
     "example": "这一带因为拆迁变化很大。",
     "example_vi": "Khu vực này đã thay đổi rất nhiều vì giải tỏa.",
-    "me": "demolition and relocation"
+    "me": "demolition and relocation",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "征收",
@@ -3109,7 +3887,9 @@
     "m": "trưng thu, thu hồi",
     "example": "政府依法征收这块土地。",
     "example_vi": "Chính phủ trưng thu mảnh đất này theo pháp luật.",
-    "me": "requisition, reclaim"
+    "me": "requisition, reclaim",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "补偿",
@@ -3117,7 +3897,9 @@
     "m": "bồi thường, đền bù",
     "example": "拆迁户获得了合理的补偿。",
     "example_vi": "Các hộ bị giải tỏa đã nhận được khoản bồi thường hợp lý.",
-    "me": "compensate, indemnify"
+    "me": "compensate, indemnify",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "自食其力",
@@ -3125,7 +3907,9 @@
     "m": "tự lực cánh sinh",
     "example": "他从小就懂得自食其力。",
     "example_vi": "Anh ấy từ nhỏ đã biết tự lực cánh sinh.",
-    "me": "self-reliance"
+    "me": "self-reliance",
+    "pos": "Danh từ",
+    "cat": "idiom"
   },
   {
     "w": "自给自足",
@@ -3133,14 +3917,18 @@
     "m": "tự cung tự cấp",
     "example": "这个村子一直保持自给自足的生活方式。",
     "example_vi": "Ngôi làng này vẫn duy trì lối sống tự cung tự cấp.",
-    "me": "self-sufficient"
+    "me": "self-sufficient",
+    "pos": "Tính từ",
+    "cat": "tính từ"
   },
   {
     "w": "量力而行",
     "p": "liànglìérxíng",
     "m": "liệu sức mà làm",
     "example": "做事要量力而行，不要勉强。",
-    "example_vi": "Làm việc phải liệu sức mà làm, đừng gượng ép."
+    "example_vi": "Làm việc phải liệu sức mà làm, đừng gượng ép.",
+    "pos": "Danh từ",
+    "cat": "idiom"
   },
   {
     "w": "顺水推舟",
@@ -3148,14 +3936,18 @@
     "m": "thuận nước đẩy thuyền",
     "example": "他顺水推舟答应了这件事。",
     "example_vi": "Anh ấy thuận nước đẩy thuyền mà đồng ý việc này.",
-    "me": "go with the flow, take advantage of favorable conditions"
+    "me": "go with the flow, take advantage of favorable conditions",
+    "pos": "Danh từ",
+    "cat": "idiom"
   },
   {
     "w": "趁热打铁",
     "p": "chènrèdǎtiě",
     "m": "thừa thắng xông lên",
     "example": "既然大家都同意，我们就趁热打铁把合同签了。",
-    "example_vi": "Đã mọi người đều đồng ý, chúng ta hãy thừa thắng xông lên ký hợp đồng luôn."
+    "example_vi": "Đã mọi người đều đồng ý, chúng ta hãy thừa thắng xông lên ký hợp đồng luôn.",
+    "pos": "Danh từ",
+    "cat": "idiom"
   },
   {
     "w": "心想事成",
@@ -3163,7 +3955,9 @@
     "m": "vạn sự như ý",
     "example": "祝你新年心想事成。",
     "example_vi": "Chúc bạn năm mới vạn sự như ý.",
-    "me": "may everything go as you wish"
+    "me": "may everything go as you wish",
+    "pos": "Danh từ",
+    "cat": "idiom"
   },
   {
     "w": "万事如意",
@@ -3171,7 +3965,9 @@
     "m": "vạn sự như ý",
     "example": "祝大家身体健康，万事如意。",
     "example_vi": "Chúc mọi người sức khỏe dồi dào, vạn sự như ý.",
-    "me": "may everything go as you wish"
+    "me": "may everything go as you wish",
+    "pos": "Danh từ",
+    "cat": "idiom"
   },
   {
     "w": "吉祥如意",
@@ -3179,7 +3975,9 @@
     "m": "cát tường như ý",
     "example": "新年快乐，吉祥如意。",
     "example_vi": "Chúc mừng năm mới, cát tường như ý.",
-    "me": "auspicious and as one wishes"
+    "me": "auspicious and as one wishes",
+    "pos": "Danh từ",
+    "cat": "idiom"
   },
   {
     "w": "艺术家",
@@ -3187,7 +3985,9 @@
     "m": "nghệ sĩ",
     "example": "他是一位有名的艺术家。",
     "example_vi": "Anh ấy là một nghệ sĩ nổi tiếng.",
-    "me": "artist"
+    "me": "artist",
+    "pos": "Danh từ",
+    "cat": "người"
   },
   {
     "w": "艺术品",
@@ -3195,7 +3995,9 @@
     "m": "tác phẩm nghệ thuật",
     "example": "这些艺术品价值连城。",
     "example_vi": "Những tác phẩm nghệ thuật này có giá trị vô cùng.",
-    "me": "work of art"
+    "me": "work of art",
+    "pos": "Danh từ",
+    "cat": "art"
   },
   {
     "w": "艺术展",
@@ -3203,7 +4005,9 @@
     "m": "triển lãm nghệ thuật",
     "example": "周末我们去看了一场艺术展。",
     "example_vi": "Cuối tuần chúng tôi đã đi xem một buổi triển lãm nghệ thuật.",
-    "me": "art exhibition"
+    "me": "art exhibition",
+    "pos": "Danh từ",
+    "cat": "nghệ thuật"
   },
   {
     "w": "画展",
@@ -3211,7 +4015,9 @@
     "m": "triển lãm tranh",
     "example": "这次画展展出了他的最新作品。",
     "example_vi": "Triển lãm tranh lần này trưng bày tác phẩm mới nhất của anh ấy.",
-    "me": "art exhibition"
+    "me": "art exhibition",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "画廊",
@@ -3219,7 +4025,9 @@
     "m": "phòng tranh, gallery",
     "example": "她经营着一家小画廊。",
     "example_vi": "Cô ấy đang kinh doanh một phòng tranh nhỏ.",
-    "me": "art gallery"
+    "me": "art gallery",
+    "pos": "Danh từ",
+    "cat": "địa điểm"
   },
   {
     "w": "书画",
@@ -3227,7 +4035,9 @@
     "m": "thư pháp và hội họa",
     "example": "他从小就喜欢书画。",
     "example_vi": "Anh ấy từ nhỏ đã thích thư pháp và hội họa.",
-    "me": "calligraphy and painting"
+    "me": "calligraphy and painting",
+    "pos": "Danh từ",
+    "cat": "Nghệ thuật"
   },
   {
     "w": "古董",
@@ -3235,7 +4045,9 @@
     "m": "đồ cổ",
     "example": "他收藏了不少古董。",
     "example_vi": "Anh ấy sưu tầm khá nhiều đồ cổ.",
-    "me": "antique"
+    "me": "antique",
+    "pos": "Danh từ",
+    "cat": "Nghệ thuật"
   },
   {
     "w": "收藏家",
@@ -3243,7 +4055,9 @@
     "m": "nhà sưu tầm",
     "example": "他是一位著名的古董收藏家。",
     "example_vi": "Anh ấy là một nhà sưu tầm đồ cổ nổi tiếng.",
-    "me": "collector"
+    "me": "collector",
+    "pos": "Danh từ",
+    "cat": "Nghệ thuật"
   },
   {
     "w": "拍卖",
@@ -3251,7 +4065,9 @@
     "m": "đấu giá",
     "example": "这幅画将在拍卖会上出售。",
     "example_vi": "Bức tranh này sẽ được bán trong buổi đấu giá.",
-    "me": "auction"
+    "me": "auction",
+    "pos": "Danh từ",
+    "cat": "Nghệ thuật"
   },
   {
     "w": "拍卖会",
@@ -3259,7 +4075,9 @@
     "m": "buổi đấu giá",
     "example": "这次拍卖会吸引了很多收藏家。",
     "example_vi": "Buổi đấu giá lần này đã thu hút rất nhiều nhà sưu tầm.",
-    "me": "an auction"
+    "me": "an auction",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "乐团",
@@ -3267,7 +4085,9 @@
     "m": "dàn nhạc",
     "example": "他是国家交响乐团的成员。",
     "example_vi": "Anh ấy là thành viên của dàn nhạc giao hưởng quốc gia.",
-    "me": "orchestra"
+    "me": "orchestra",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "传统工艺",
@@ -3275,7 +4095,9 @@
     "m": "thủ công truyền thống",
     "example": "这项传统工艺已经传承了几百年。",
     "example_vi": "Nghề thủ công truyền thống này đã được lưu truyền mấy trăm năm.",
-    "me": "traditional handicraft"
+    "me": "traditional handicraft",
+    "pos": "Danh từ",
+    "cat": "nghệ thuật"
   },
   {
     "w": "手工艺",
@@ -3283,7 +4105,9 @@
     "m": "thủ công mỹ nghệ",
     "example": "她精通各种手工艺。",
     "example_vi": "Cô ấy thông thạo nhiều loại thủ công mỹ nghệ.",
-    "me": "arts and crafts"
+    "me": "arts and crafts",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "古建筑",
@@ -3291,7 +4115,9 @@
     "m": "kiến trúc cổ",
     "example": "这座城市保留了很多古建筑。",
     "example_vi": "Thành phố này bảo tồn rất nhiều kiến trúc cổ.",
-    "me": "ancient architecture"
+    "me": "ancient architecture",
+    "pos": "Danh từ",
+    "cat": "nghệ thuật"
   },
   {
     "w": "古镇",
@@ -3299,7 +4125,9 @@
     "m": "thị trấn cổ",
     "example": "这个古镇有上千年的历史。",
     "example_vi": "Thị trấn cổ này có lịch sử hàng nghìn năm.",
-    "me": "ancient town"
+    "me": "ancient town",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "古村落",
@@ -3307,7 +4135,9 @@
     "m": "làng cổ",
     "example": "我们参观了一个保存完好的古村落。",
     "example_vi": "Chúng tôi đã tham quan một ngôi làng cổ được bảo tồn nguyên vẹn.",
-    "me": "ancient village"
+    "me": "ancient village",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "存折",
@@ -3315,7 +4145,9 @@
     "m": "sổ tiết kiệm",
     "example": "他把工资存进了存折里。",
     "example_vi": "Anh ấy đã gửi tiền lương vào sổ tiết kiệm.",
-    "me": "savings passbook"
+    "me": "savings passbook",
+    "pos": "Danh từ",
+    "cat": "tiền bạc"
   },
   {
     "w": "借记卡",
@@ -3323,7 +4155,9 @@
     "m": "thẻ ghi nợ",
     "example": "请用借记卡付款。",
     "example_vi": "Xin thanh toán bằng thẻ ghi nợ.",
-    "me": "debit card"
+    "me": "debit card",
+    "pos": "Danh từ",
+    "cat": "tiền bạc"
   },
   {
     "w": "转账记录",
@@ -3331,7 +4165,9 @@
     "m": "lịch sử chuyển khoản",
     "example": "银行保留了所有的转账记录。",
     "example_vi": "Ngân hàng lưu giữ tất cả lịch sử chuyển khoản.",
-    "me": "transfer history"
+    "me": "transfer history",
+    "pos": "Danh từ",
+    "cat": "tiền bạc"
   },
   {
     "w": "手续费",
@@ -3339,7 +4175,9 @@
     "m": "phí thủ tục",
     "example": "转账需要支付一定的手续费。",
     "example_vi": "Chuyển khoản cần phải trả một khoản phí thủ tục nhất định.",
-    "me": "processing fee"
+    "me": "processing fee",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "硬币",
@@ -3347,7 +4185,9 @@
     "m": "tiền xu",
     "example": "口袋里有几个硬币。",
     "example_vi": "Trong túi có mấy đồng tiền xu.",
-    "me": "coin"
+    "me": "coin",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "纸币",
@@ -3355,7 +4195,9 @@
     "m": "tiền giấy",
     "example": "现在使用纸币的人越来越少。",
     "example_vi": "Hiện nay số người dùng tiền giấy ngày càng ít.",
-    "me": "paper money"
+    "me": "paper money",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "支票",
@@ -3363,7 +4205,9 @@
     "m": "séc",
     "example": "他用支票支付了房租。",
     "example_vi": "Anh ấy đã dùng séc để trả tiền thuê nhà.",
-    "me": "check (payment)"
+    "me": "check (payment)",
+    "pos": "Danh từ",
+    "cat": "Ngân hàng"
   },
   {
     "w": "汇票",
@@ -3371,7 +4215,9 @@
     "m": "hối phiếu",
     "example": "这笔货款以汇票方式支付。",
     "example_vi": "Khoản tiền hàng này được thanh toán bằng hối phiếu.",
-    "me": "bill of exchange"
+    "me": "bill of exchange",
+    "pos": "Danh từ",
+    "cat": "Ngân hàng"
   },
   {
     "w": "保险费",
@@ -3379,7 +4225,9 @@
     "m": "phí bảo hiểm",
     "example": "每年要交一次保险费。",
     "example_vi": "Mỗi năm phải đóng phí bảo hiểm một lần.",
-    "me": "premium"
+    "me": "premium",
+    "pos": "Danh từ",
+    "cat": "tiền bạc"
   },
   {
     "w": "亏本",
@@ -3387,7 +4235,9 @@
     "m": "lỗ vốn",
     "example": "这笔生意做得亏本了。",
     "example_vi": "Vụ làm ăn này đã bị lỗ vốn.",
-    "me": "capital loss"
+    "me": "capital loss",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "攒钱",
@@ -3395,7 +4245,9 @@
     "m": "tích tiền, dành dụm",
     "example": "她一直在攒钱买房子。",
     "example_vi": "Cô ấy luôn dành dụm tiền để mua nhà.",
-    "me": "save money"
+    "me": "save money",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "欠钱",
@@ -3403,7 +4255,9 @@
     "m": "nợ tiền",
     "example": "他还欠钱没还清。",
     "example_vi": "Anh ấy vẫn còn nợ tiền chưa trả hết.",
-    "me": "owe money"
+    "me": "owe money",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "预算超支",
@@ -3411,7 +4265,9 @@
     "m": "vượt ngân sách",
     "example": "这次装修预算超支了不少。",
     "example_vi": "Lần trang trí nhà này đã vượt ngân sách khá nhiều.",
-    "me": "over budget"
+    "me": "over budget",
+    "pos": "Danh từ",
+    "cat": "idiom"
   },
   {
     "w": "证词",
@@ -3419,7 +4275,9 @@
     "m": "lời khai, chứng từ",
     "example": "证人在法庭上提供了证词。",
     "example_vi": "Nhân chứng đã cung cấp lời khai tại tòa.",
-    "me": "testimony, deposition"
+    "me": "testimony, deposition",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "判刑",
@@ -3427,7 +4285,9 @@
     "m": "tuyên án, kết án",
     "example": "法院对他判刑三年。",
     "example_vi": "Tòa án đã tuyên án anh ta ba năm tù.",
-    "me": "pronounce sentence, convict"
+    "me": "pronounce sentence, convict",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "案件",
@@ -3435,7 +4295,9 @@
     "m": "vụ án",
     "example": "警方正在调查这起案件。",
     "example_vi": "Cảnh sát đang điều tra vụ án này.",
-    "me": "case (legal)"
+    "me": "case (legal)",
+    "pos": "Danh từ",
+    "cat": "law"
   },
   {
     "w": "案例",
@@ -3443,7 +4305,9 @@
     "m": "án lệ, trường hợp điển hình",
     "example": "老师用真实案例给我们讲解法律知识。",
     "example_vi": "Thầy giáo dùng những trường hợp điển hình thực tế để giảng giải kiến thức pháp luật cho chúng tôi.",
-    "me": "case law, precedent case"
+    "me": "case law, precedent case",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "犯法",
@@ -3451,7 +4315,9 @@
     "m": "phạm pháp",
     "example": "偷东西是犯法的行为。",
     "example_vi": "Trộm cắp là hành vi phạm pháp.",
-    "me": "to break the law"
+    "me": "to break the law",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "罪犯",
@@ -3459,7 +4325,9 @@
     "m": "tội phạm",
     "example": "警察最终抓住了罪犯。",
     "example_vi": "Cuối cùng cảnh sát đã bắt được tội phạm.",
-    "me": "crime, criminal"
+    "me": "crime, criminal",
+    "pos": "Danh từ",
+    "cat": "law"
   },
   {
     "w": "受害者",
@@ -3467,7 +4335,9 @@
     "m": "nạn nhân",
     "example": "政府为受害者提供了帮助。",
     "example_vi": "Chính phủ đã cung cấp sự giúp đỡ cho các nạn nhân.",
-    "me": "victim"
+    "me": "victim",
+    "pos": "Danh từ",
+    "cat": "người"
   },
   {
     "w": "嫌疑人",
@@ -3475,7 +4345,9 @@
     "m": "nghi phạm",
     "example": "警方正在审讯嫌疑人。",
     "example_vi": "Cảnh sát đang thẩm vấn nghi phạm.",
-    "me": "suspect"
+    "me": "suspect",
+    "pos": "Danh từ",
+    "cat": "law"
   },
   {
     "w": "户籍",
@@ -3483,7 +4355,9 @@
     "m": "hộ khẩu",
     "example": "办理户籍需要携带身份证。",
     "example_vi": "Làm thủ tục hộ khẩu cần mang theo chứng minh thư.",
-    "me": "household registration"
+    "me": "household registration",
+    "pos": "Danh từ",
+    "cat": "law"
   },
   {
     "w": "政府部门",
@@ -3491,7 +4365,9 @@
     "m": "cơ quan chính phủ",
     "example": "这件事需要向相关政府部门咨询。",
     "example_vi": "Việc này cần hỏi cơ quan chính phủ liên quan.",
-    "me": "government agency"
+    "me": "government agency",
+    "pos": "Danh từ",
+    "cat": "politics"
   },
   {
     "w": "声称",
@@ -3499,7 +4375,9 @@
     "m": "tuyên bố, khẳng định",
     "example": "他声称自己是无辜的。",
     "example_vi": "Anh ta tuyên bố mình vô tội.",
-    "me": "claim to"
+    "me": "claim to",
+    "pos": "Động từ",
+    "cat": "hành động"
   },
   {
     "w": "宣称",
@@ -3507,7 +4385,9 @@
     "m": "tuyên bố công khai",
     "example": "公司宣称将投入大量资金研发新产品。",
     "example_vi": "Công ty tuyên bố sẽ đầu tư một khoản lớn để nghiên cứu sản phẩm mới.",
-    "me": "public declaration"
+    "me": "public declaration",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "通报",
@@ -3515,7 +4395,9 @@
     "m": "thông báo chính thức",
     "example": "学校向全体师生通报了这一情况。",
     "example_vi": "Trường đã thông báo tình hình này đến toàn thể giáo viên và học sinh.",
-    "me": "official announcement"
+    "me": "official announcement",
+    "pos": "Danh từ",
+    "cat": "media"
   },
   {
     "w": "转达",
@@ -3523,7 +4405,9 @@
     "m": "chuyển đạt, truyền đạt",
     "example": "请帮我向他转达我的问候。",
     "example_vi": "Xin giúp tôi chuyển lời hỏi thăm đến anh ấy.",
-    "me": "convey, communicate"
+    "me": "convey, communicate",
+    "pos": "Động từ",
+    "cat": "verb"
   },
   {
     "w": "转告",
@@ -3531,7 +4415,9 @@
     "m": "nhắn lại, chuyển lời",
     "example": "请转告他明天开会推迟了。",
     "example_vi": "Xin nhắn lại với anh ấy rằng cuộc họp ngày mai bị hoãn.",
-    "me": "pass on a message"
+    "me": "pass on a message",
+    "pos": "Động từ",
+    "cat": "hành động"
   },
   {
     "w": "告知",
@@ -3539,7 +4425,9 @@
     "m": "báo cho biết",
     "example": "请及时告知我们最新进展。",
     "example_vi": "Xin kịp thời báo cho chúng tôi biết tiến triển mới nhất.",
-    "me": "inform, notify"
+    "me": "inform, notify",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "知会",
@@ -3547,7 +4435,9 @@
     "m": "báo cho biết trước",
     "example": "出发前请知会一声。",
     "example_vi": "Trước khi xuất phát xin báo trước một tiếng.",
-    "me": "notify in advance"
+    "me": "notify in advance",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "叮嘱",
@@ -3555,7 +4445,9 @@
     "m": "dặn dò",
     "example": "妈妈叮嘱他路上要小心。",
     "example_vi": "Mẹ dặn dò anh ấy đi đường phải cẩn thận.",
-    "me": "instruct, remind"
+    "me": "instruct, remind",
+    "pos": "Động từ",
+    "cat": "hành động"
   },
   {
     "w": "嘱咐",
@@ -3563,7 +4455,9 @@
     "m": "dặn dò",
     "example": "出门前，奶奶再三嘱咐我们注意安全。",
     "example_vi": "Trước khi ra ngoài, bà dặn đi dặn lại chúng tôi phải chú ý an toàn.",
-    "me": "instruct, remind"
+    "me": "instruct, remind",
+    "pos": "Động từ",
+    "cat": "hành động"
   },
   {
     "w": "吩咐",
@@ -3571,7 +4465,9 @@
     "m": "dặn bảo, sai bảo",
     "example": "老板吩咐他明天早点来。",
     "example_vi": "Ông chủ dặn anh ấy ngày mai đến sớm hơn.",
-    "me": "to instruct, direct"
+    "me": "to instruct, direct",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "交代",
@@ -3579,7 +4475,9 @@
     "m": "dặn dò, giao phó",
     "example": "领导已经把任务交代清楚了。",
     "example_vi": "Lãnh đạo đã giao phó nhiệm vụ rõ ràng.",
-    "me": "instruct, entrust"
+    "me": "instruct, entrust",
+    "pos": "Động từ",
+    "cat": "verb"
   },
   {
     "w": "委托",
@@ -3587,7 +4485,9 @@
     "m": "ủy thác, giao phó",
     "example": "他委托律师处理这件事。",
     "example_vi": "Anh ấy ủy thác cho luật sư xử lý việc này.",
-    "me": "entrust, delegate"
+    "me": "entrust, delegate",
+    "pos": "Động từ",
+    "cat": "hành động"
   },
   {
     "w": "托付",
@@ -3595,7 +4495,9 @@
     "m": "phó thác, gửi gắm",
     "example": "她把孩子托付给邻居照顾。",
     "example_vi": "Cô ấy gửi gắm con cho hàng xóm chăm sóc.",
-    "me": "entrust, confide"
+    "me": "entrust, confide",
+    "pos": "Động từ",
+    "cat": "verb"
   },
   {
     "w": "拜托",
@@ -3603,7 +4505,9 @@
     "m": "nhờ vả",
     "example": "拜托你帮我一个忙。",
     "example_vi": "Nhờ bạn giúp tôi một việc.",
-    "me": "ask a favor"
+    "me": "ask a favor",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "恳求",
@@ -3611,7 +4515,9 @@
     "m": "khẩn cầu, van xin",
     "example": "他恳求老师再给他一次机会。",
     "example_vi": "Anh ấy khẩn cầu thầy giáo cho mình thêm một cơ hội.",
-    "me": "beg, entreat"
+    "me": "beg, entreat",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "征求",
@@ -3619,7 +4525,9 @@
     "m": "trưng cầu, hỏi ý kiến",
     "example": "公司正在征求员工的意见。",
     "example_vi": "Công ty đang trưng cầu ý kiến của nhân viên.",
-    "me": "solicit, seek opinion"
+    "me": "solicit, seek opinion",
+    "pos": "Động từ",
+    "cat": "verb"
   },
   {
     "w": "征询",
@@ -3627,7 +4535,9 @@
     "m": "hỏi ý kiến",
     "example": "医生征询了病人家属的意见。",
     "example_vi": "Bác sĩ đã hỏi ý kiến của người nhà bệnh nhân.",
-    "me": "ask for an opinion"
+    "me": "ask for an opinion",
+    "pos": "Động từ",
+    "cat": "verb"
   },
   {
     "w": "打探",
@@ -3635,7 +4545,9 @@
     "m": "dò hỏi, thăm dò",
     "example": "他四处打探消息。",
     "example_vi": "Anh ấy đi khắp nơi dò hỏi tin tức.",
-    "me": "inquire, probe"
+    "me": "inquire, probe",
+    "pos": "Động từ",
+    "cat": "hành động"
   },
   {
     "w": "查询",
@@ -3643,7 +4555,9 @@
     "m": "tra cứu, hỏi thông tin",
     "example": "你可以在网上查询航班信息。",
     "example_vi": "Bạn có thể tra cứu thông tin chuyến bay trên mạng.",
-    "me": "look up, inquire for information"
+    "me": "look up, inquire for information",
+    "pos": "Động từ",
+    "cat": "verb"
   },
   {
     "w": "核对",
@@ -3651,7 +4565,9 @@
     "m": "đối chiếu, kiểm tra lại",
     "example": "请仔细核对账单上的数字。",
     "example_vi": "Xin kiểm tra đối chiếu kỹ các con số trên hóa đơn.",
-    "me": "cross-check, verify again"
+    "me": "cross-check, verify again",
+    "pos": "Động từ",
+    "cat": "verb"
   },
   {
     "w": "澄清事实",
@@ -3659,7 +4575,9 @@
     "m": "làm rõ sự thật",
     "example": "公司发表声明澄清事实。",
     "example_vi": "Công ty đã ra tuyên bố để làm rõ sự thật.",
-    "me": "clarify the truth"
+    "me": "clarify the truth",
+    "pos": "Động từ",
+    "cat": "hành động"
   },
   {
     "w": "更正",
@@ -3667,7 +4585,9 @@
     "m": "đính chính, sửa lại",
     "example": "报纸第二天发表了更正声明。",
     "example_vi": "Ngày hôm sau tờ báo đã đăng tuyên bố đính chính.",
-    "me": "correct, amend"
+    "me": "correct, amend",
+    "pos": "Động từ",
+    "cat": "hành động"
   },
   {
     "w": "纠正",
@@ -3675,7 +4595,9 @@
     "m": "sửa chữa, uốn nắn",
     "example": "老师及时纠正了他的发音错误。",
     "example_vi": "Thầy giáo đã kịp thời sửa lỗi phát âm của anh ấy.",
-    "me": "to correct, rectify"
+    "me": "to correct, rectify",
+    "pos": "Động từ",
+    "cat": "verb"
   },
   {
     "w": "修订",
@@ -3683,7 +4605,9 @@
     "m": "tu chỉnh, sửa đổi",
     "example": "这本词典已经修订了好几次。",
     "example_vi": "Cuốn từ điển này đã được tu chỉnh nhiều lần.",
-    "me": "revise, amend"
+    "me": "revise, amend",
+    "pos": "Động từ",
+    "cat": "verb"
   },
   {
     "w": "阐述观点",
@@ -3691,7 +4615,9 @@
     "m": "trình bày quan điểm",
     "example": "他在会上详细阐述观点。",
     "example_vi": "Anh ấy đã trình bày quan điểm chi tiết trong cuộc họp.",
-    "me": "present a viewpoint"
+    "me": "present a viewpoint",
+    "pos": "Động từ",
+    "cat": "hành động"
   },
   {
     "w": "概述",
@@ -3699,7 +4625,9 @@
     "m": "khái quát, tóm lược",
     "example": "请先概述一下事情的经过。",
     "example_vi": "Xin hãy khái quát diễn biến sự việc trước.",
-    "me": "generalize, summarize"
+    "me": "generalize, summarize",
+    "pos": "Động từ",
+    "cat": "hành động"
   },
   {
     "w": "减压",
@@ -3707,7 +4635,9 @@
     "m": "giảm áp lực",
     "example": "运动是有效的减压方式。",
     "example_vi": "Vận động là cách giảm áp lực hiệu quả.",
-    "me": "reduce pressure"
+    "me": "reduce pressure",
+    "pos": "Động từ",
+    "cat": "verb"
   },
   {
     "w": "释放压力",
@@ -3715,7 +4645,9 @@
     "m": "giải tỏa áp lực",
     "example": "听音乐可以帮助释放压力。",
     "example_vi": "Nghe nhạc có thể giúp giải tỏa áp lực.",
-    "me": "relieve pressure"
+    "me": "relieve pressure",
+    "pos": "Danh từ",
+    "cat": "idiom"
   },
   {
     "w": "自制力",
@@ -3723,7 +4655,9 @@
     "m": "khả năng tự chủ",
     "example": "减肥需要很强的自制力。",
     "example_vi": "Giảm cân cần khả năng tự chủ rất mạnh.",
-    "me": "capacity for self-determination"
+    "me": "capacity for self-determination",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "专注力",
@@ -3731,7 +4665,9 @@
     "m": "khả năng tập trung",
     "example": "冥想可以提高专注力。",
     "example_vi": "Thiền định có thể nâng cao khả năng tập trung.",
-    "me": "ability to concentrate"
+    "me": "ability to concentrate",
+    "pos": "Danh từ",
+    "cat": "psychology"
   },
   {
     "w": "分心",
@@ -3739,7 +4675,9 @@
     "m": "phân tâm",
     "example": "上课不要玩手机，容易分心。",
     "example_vi": "Trong giờ học đừng chơi điện thoại, dễ bị phân tâm.",
-    "me": "distracted"
+    "me": "distracted",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "走神",
@@ -3747,7 +4685,9 @@
     "m": "lơ đãng, mất tập trung",
     "example": "他上课总是走神。",
     "example_vi": "Anh ấy trong giờ học lúc nào cũng lơ đãng.",
-    "me": "space out"
+    "me": "space out",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "发呆",
@@ -3755,7 +4695,9 @@
     "m": "thẫn thờ, ngẩn người",
     "example": "她坐在窗边发呆。",
     "example_vi": "Cô ấy ngồi bên cửa sổ thẫn thờ.",
-    "me": "dazed, blank-minded"
+    "me": "dazed, blank-minded",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "冥想",
@@ -3763,7 +4705,9 @@
     "m": "thiền định",
     "example": "每天冥想十分钟对身心有好处。",
     "example_vi": "Mỗi ngày thiền định mười phút có lợi cho thân tâm.",
-    "me": "meditation"
+    "me": "meditation",
+    "pos": "Danh từ",
+    "cat": "health"
   },
   {
     "w": "自我反省",
@@ -3771,7 +4715,9 @@
     "m": "tự kiểm điểm, tự phản tỉnh",
     "example": "他每天晚上都会自我反省。",
     "example_vi": "Mỗi tối anh ấy đều tự kiểm điểm bản thân.",
-    "me": "self-examine, self-reflect"
+    "me": "self-examine, self-reflect",
+    "pos": "Danh từ",
+    "cat": "idiom"
   },
   {
     "w": "内省",
@@ -3779,7 +4725,9 @@
     "m": "nội tỉnh, tự xét mình",
     "example": "内省是了解自己的重要方式。",
     "example_vi": "Tự xét mình là cách quan trọng để hiểu bản thân.",
-    "me": "introspect, self-examine"
+    "me": "introspect, self-examine",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "自尊心",
@@ -3787,7 +4735,9 @@
     "m": "lòng tự trọng",
     "example": "批评孩子时要注意保护他的自尊心。",
     "example_vi": "Khi phê bình trẻ cần chú ý bảo vệ lòng tự trọng của chúng.",
-    "me": "self-esteem"
+    "me": "self-esteem",
+    "pos": "Danh từ",
+    "cat": "psychology"
   },
   {
     "w": "自卑感",
@@ -3795,7 +4745,9 @@
     "m": "cảm giác tự ti",
     "example": "长期被比较让他产生了自卑感。",
     "example_vi": "Bị so sánh lâu dài khiến anh ấy nảy sinh cảm giác tự ti.",
-    "me": "sense of inferiority"
+    "me": "sense of inferiority",
+    "pos": "Danh từ",
+    "cat": "emotion"
   },
   {
     "w": "幸福感",
@@ -3803,7 +4755,9 @@
     "m": "cảm giác hạnh phúc",
     "example": "简单的生活也能带来幸福感。",
     "example_vi": "Cuộc sống giản đơn cũng có thể mang lại cảm giác hạnh phúc.",
-    "me": "a feeling of happiness"
+    "me": "a feeling of happiness",
+    "pos": "Danh từ",
+    "cat": "psychology"
   },
   {
     "w": "存在感",
@@ -3811,7 +4765,9 @@
     "m": "cảm giác hiện diện, được chú ý",
     "example": "他在团队里存在感很强。",
     "example_vi": "Anh ấy có cảm giác hiện diện rất mạnh trong nhóm.",
-    "me": "sense of presence, being noticed"
+    "me": "sense of presence, being noticed",
+    "pos": "Danh từ",
+    "cat": "psychology"
   },
   {
     "w": "认同感",
@@ -3819,7 +4775,9 @@
     "m": "cảm giác được công nhận",
     "example": "员工对公司的认同感很重要。",
     "example_vi": "Cảm giác đồng thuận của nhân viên với công ty rất quan trọng.",
-    "me": "a sense of being recognized"
+    "me": "a sense of being recognized",
+    "pos": "Danh từ",
+    "cat": "emotion"
   },
   {
     "w": "心境",
@@ -3827,7 +4785,9 @@
     "m": "tâm trạng, cảnh giới tâm hồn",
     "example": "旅行能让人换一种心境。",
     "example_vi": "Du lịch có thể giúp người ta thay đổi tâm trạng.",
-    "me": "mood, a state of mind"
+    "me": "mood, a state of mind",
+    "pos": "Danh từ",
+    "cat": "psychology"
   },
   {
     "w": "心情低落",
@@ -3835,7 +4795,9 @@
     "m": "tâm trạng buồn bã",
     "example": "最近他心情低落，不太爱说话。",
     "example_vi": "Gần đây tâm trạng anh ấy buồn bã, không thích nói chuyện lắm.",
-    "me": "sad mood"
+    "me": "sad mood",
+    "pos": "Danh từ",
+    "cat": "idiom"
   },
   {
     "w": "情绪失控",
@@ -3843,7 +4805,9 @@
     "m": "mất kiểm soát cảm xúc",
     "example": "她因为压力太大而情绪失控。",
     "example_vi": "Cô ấy vì áp lực quá lớn mà mất kiểm soát cảm xúc.",
-    "me": "lose emotional control"
+    "me": "lose emotional control",
+    "pos": "Danh từ",
+    "cat": "psychology"
   },
   {
     "w": "心理阴影",
@@ -3851,7 +4815,9 @@
     "m": "bóng đen tâm lý, ám ảnh",
     "example": "那次事故给他留下了心理阴影。",
     "example_vi": "Vụ tai nạn đó đã để lại bóng đen tâm lý cho anh ấy.",
-    "me": "psychological shadow, a haunting fear"
+    "me": "psychological shadow, a haunting fear",
+    "pos": "Danh từ",
+    "cat": "idiom"
   },
   {
     "w": "精神状态",
@@ -3859,7 +4825,9 @@
     "m": "trạng thái tinh thần",
     "example": "他最近精神状态不太好。",
     "example_vi": "Gần đây trạng thái tinh thần của anh ấy không tốt lắm.",
-    "me": "mental state"
+    "me": "mental state",
+    "pos": "Danh từ",
+    "cat": "psychology"
   },
   {
     "w": "精神饱满",
@@ -3867,7 +4835,9 @@
     "m": "tinh thần sung mãn",
     "example": "睡了个好觉，他今天精神饱满。",
     "example_vi": "Ngủ một giấc ngon, hôm nay anh ấy tinh thần sung mãn.",
-    "me": "abundant vigor of spirit"
+    "me": "abundant vigor of spirit",
+    "pos": "Danh từ",
+    "cat": "idiom"
   },
   {
     "w": "萎靡不振",
@@ -3875,7 +4845,9 @@
     "m": "ủ rũ, suy sụp tinh thần",
     "example": "生病后他一直萎靡不振。",
     "example_vi": "Sau khi ốm anh ấy cứ ủ rũ mãi.",
-    "me": "dejected, dispirited"
+    "me": "dejected, dispirited",
+    "pos": "Danh từ",
+    "cat": "idiom"
   },
   {
     "w": "会议室",
@@ -3883,7 +4855,9 @@
     "m": "phòng họp",
     "example": "会议在三楼会议室举行。",
     "example_vi": "Cuộc họp diễn ra tại phòng họp tầng ba.",
-    "me": "meeting room"
+    "me": "meeting room",
+    "pos": "Danh từ",
+    "cat": "công việc"
   },
   {
     "w": "会议记录",
@@ -3891,7 +4865,9 @@
     "m": "biên bản họp",
     "example": "秘书负责整理会议记录。",
     "example_vi": "Thư ký phụ trách chỉnh lý biên bản cuộc họp.",
-    "me": "minutes"
+    "me": "minutes",
+    "pos": "Danh từ",
+    "cat": "công việc"
   },
   {
     "w": "会议纪要",
@@ -3899,7 +4875,9 @@
     "m": "tóm tắt biên bản họp",
     "example": "请把会议纪要发给大家。",
     "example_vi": "Xin gửi bản tóm tắt cuộc họp cho mọi người.",
-    "me": "meeting minutes summary"
+    "me": "meeting minutes summary",
+    "pos": "Danh từ",
+    "cat": "work"
   },
   {
     "w": "议程",
@@ -3907,7 +4885,9 @@
     "m": "chương trình nghị sự",
     "example": "今天的议程有三项内容。",
     "example_vi": "Chương trình nghị sự hôm nay có ba nội dung.",
-    "me": "agenda"
+    "me": "agenda",
+    "pos": "Danh từ",
+    "cat": "công việc"
   },
   {
     "w": "主持会议",
@@ -3915,7 +4895,9 @@
     "m": "chủ trì cuộc họp",
     "example": "今天由经理主持会议。",
     "example_vi": "Hôm nay do giám đốc chủ trì cuộc họp.",
-    "me": "chair a meeting"
+    "me": "chair a meeting",
+    "pos": "Danh từ",
+    "cat": "work"
   },
   {
     "w": "发言人",
@@ -3923,7 +4905,9 @@
     "m": "người phát ngôn",
     "example": "他是公司的官方发言人。",
     "example_vi": "Anh ấy là người phát ngôn chính thức của công ty.",
-    "me": "spokesperson"
+    "me": "spokesperson",
+    "pos": "Danh từ",
+    "cat": "media"
   },
   {
     "w": "提案",
@@ -3931,7 +4915,9 @@
     "m": "đề án, đề xuất",
     "example": "他在会上提出了一个新提案。",
     "example_vi": "Anh ấy đã đưa ra một đề án mới trong cuộc họp.",
-    "me": "proposal"
+    "me": "proposal",
+    "pos": "Động từ",
+    "cat": "verb"
   },
   {
     "w": "议案",
@@ -3939,7 +4925,9 @@
     "m": "dự án nghị quyết",
     "example": "这项议案获得了大家的支持。",
     "example_vi": "Dự án nghị quyết này đã nhận được sự ủng hộ của mọi người.",
-    "me": "draft resolution"
+    "me": "draft resolution",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "表决",
@@ -3947,7 +4935,9 @@
     "m": "biểu quyết",
     "example": "大家对这个方案进行了表决。",
     "example_vi": "Mọi người đã biểu quyết về phương án này.",
-    "me": "vote"
+    "me": "vote",
+    "pos": "Danh từ",
+    "cat": "Chính trị"
   },
   {
     "w": "一致通过",
@@ -3955,7 +4945,9 @@
     "m": "nhất trí thông qua",
     "example": "这项提案获得一致通过。",
     "example_vi": "Đề án này đã được nhất trí thông qua.",
-    "me": "pass unanimously"
+    "me": "pass unanimously",
+    "pos": "Danh từ",
+    "cat": "idiom"
   },
   {
     "w": "反对票",
@@ -3963,7 +4955,9 @@
     "m": "phiếu chống",
     "example": "这项决议只有两票反对票。",
     "example_vi": "Nghị quyết này chỉ có hai phiếu chống.",
-    "me": "vote against"
+    "me": "vote against",
+    "pos": "Danh từ",
+    "cat": "Văn phòng"
   },
   {
     "w": "弃权",
@@ -3971,7 +4965,9 @@
     "m": "bỏ phiếu trắng, từ bỏ quyền",
     "example": "有三名代表选择了弃权。",
     "example_vi": "Có ba đại biểu đã chọn bỏ phiếu trắng.",
-    "me": "abstain from voting, waive a right"
+    "me": "abstain from voting, waive a right",
+    "pos": "Động từ",
+    "cat": "Văn phòng"
   },
   {
     "w": "汇报工作",
@@ -3979,7 +4975,9 @@
     "m": "báo cáo công việc",
     "example": "每周一他都要向经理汇报工作。",
     "example_vi": "Mỗi thứ Hai anh ấy đều phải báo cáo công việc với giám đốc.",
-    "me": "work report"
+    "me": "work report",
+    "pos": "Danh từ",
+    "cat": "work"
   },
   {
     "w": "工作总结",
@@ -3987,7 +4985,9 @@
     "m": "tổng kết công việc",
     "example": "年底要交一份工作总结。",
     "example_vi": "Cuối năm phải nộp một bản tổng kết công việc.",
-    "me": "work summary"
+    "me": "work summary",
+    "pos": "Danh từ",
+    "cat": "idiom"
   },
   {
     "w": "年度总结",
@@ -3995,7 +4995,9 @@
     "m": "tổng kết năm",
     "example": "公司正在准备年度总结大会。",
     "example_vi": "Công ty đang chuẩn bị đại hội tổng kết năm.",
-    "me": "year-end review"
+    "me": "year-end review",
+    "pos": "Danh từ",
+    "cat": "work"
   },
   {
     "w": "季度报告",
@@ -4003,7 +5005,9 @@
     "m": "báo cáo quý",
     "example": "财务部提交了第三季度报告。",
     "example_vi": "Phòng tài chính đã nộp báo cáo quý ba.",
-    "me": "quarterly report"
+    "me": "quarterly report",
+    "pos": "Danh từ",
+    "cat": "business"
   },
   {
     "w": "月度报告",
@@ -4011,7 +5015,9 @@
     "m": "báo cáo tháng",
     "example": "请在月底前完成月度报告。",
     "example_vi": "Xin hoàn thành báo cáo tháng trước cuối tháng.",
-    "me": "monthly report"
+    "me": "monthly report",
+    "pos": "Danh từ",
+    "cat": "idiom"
   },
   {
     "w": "项目进度",
@@ -4019,7 +5025,9 @@
     "m": "tiến độ dự án",
     "example": "他每天都要跟进项目进度。",
     "example_vi": "Mỗi ngày anh ấy đều phải theo dõi tiến độ dự án.",
-    "me": "project progress"
+    "me": "project progress",
+    "pos": "Danh từ",
+    "cat": "work"
   },
   {
     "w": "截止日期",
@@ -4027,7 +5035,9 @@
     "m": "hạn chót",
     "example": "报名的截止日期是本周五。",
     "example_vi": "Hạn chót đăng ký là thứ Sáu tuần này.",
-    "me": "deadline"
+    "me": "deadline",
+    "pos": "Danh từ",
+    "cat": "work"
   },
   {
     "w": "延期",
@@ -4035,7 +5045,9 @@
     "m": "trì hoãn, gia hạn",
     "example": "由于天气原因，比赛延期举行。",
     "example_vi": "Do thời tiết, trận đấu bị hoãn lại.",
-    "me": "postpone, extend"
+    "me": "postpone, extend",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "团队精神",
@@ -4043,7 +5055,9 @@
     "m": "tinh thần đồng đội",
     "example": "这次活动培养了大家的团队精神。",
     "example_vi": "Hoạt động lần này đã rèn luyện tinh thần đồng đội của mọi người.",
-    "me": "team spirit"
+    "me": "team spirit",
+    "pos": "Danh từ",
+    "cat": "sport"
   },
   {
     "w": "团队建设",
@@ -4051,7 +5065,9 @@
     "m": "xây dựng đội nhóm",
     "example": "公司每年都会组织团队建设活动。",
     "example_vi": "Mỗi năm công ty đều tổ chức hoạt động xây dựng đội nhóm.",
-    "me": "team building"
+    "me": "team building",
+    "pos": "Động từ",
+    "cat": "idiom"
   },
   {
     "w": "跨部门合作",
@@ -4059,7 +5075,9 @@
     "m": "hợp tác liên phòng ban",
     "example": "这个项目需要跨部门合作完成。",
     "example_vi": "Dự án này cần sự hợp tác liên phòng ban để hoàn thành.",
-    "me": "cross-departmental cooperation"
+    "me": "cross-departmental cooperation",
+    "pos": "Động từ",
+    "cat": "Văn phòng"
   },
   {
     "w": "协同工作",
@@ -4067,7 +5085,9 @@
     "m": "phối hợp làm việc",
     "example": "各部门要协同工作，提高效率。",
     "example_vi": "Các phòng ban cần phối hợp làm việc để nâng cao hiệu quả.",
-    "me": "work coordination"
+    "me": "work coordination",
+    "pos": "Động từ",
+    "cat": "idiom"
   },
   {
     "w": "逐一",
@@ -4075,7 +5095,9 @@
     "m": "từng cái một",
     "example": "老师逐一检查了学生的作业。",
     "example_vi": "Thầy giáo đã kiểm tra từng bài tập của học sinh một.",
-    "me": "one by one"
+    "me": "one by one",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "逐个",
@@ -4083,7 +5105,9 @@
     "m": "từng cái, lần lượt",
     "example": "请大家逐个发言。",
     "example_vi": "Xin mọi người lần lượt phát biểu.",
-    "me": "one by one, in turn"
+    "me": "one by one, in turn",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "依次",
@@ -4091,7 +5115,9 @@
     "m": "theo thứ tự",
     "example": "请大家依次入场。",
     "example_vi": "Xin mọi người vào theo thứ tự.",
-    "me": "in order, sequentially"
+    "me": "in order, sequentially",
+    "pos": "Động từ",
+    "cat": "verb"
   },
   {
     "w": "渐渐地",
@@ -4099,7 +5125,9 @@
     "m": "dần dần",
     "example": "天渐渐地黑了下来。",
     "example_vi": "Trời dần dần tối lại.",
-    "me": "gradually"
+    "me": "gradually",
+    "pos": "Phó từ",
+    "cat": "trạng từ"
   },
   {
     "w": "不断地",
@@ -4107,7 +5135,9 @@
     "m": "không ngừng",
     "example": "他不断地努力提高自己。",
     "example_vi": "Anh ấy không ngừng nỗ lực nâng cao bản thân.",
-    "me": "unceasingly"
+    "me": "unceasingly",
+    "pos": "Danh từ",
+    "cat": "time"
   },
   {
     "w": "持续地",
@@ -4115,7 +5145,9 @@
     "m": "liên tục",
     "example": "雨持续地下了三天。",
     "example_vi": "Mưa liên tục rơi suốt ba ngày.",
-    "me": "constantly"
+    "me": "constantly",
+    "pos": "Danh từ",
+    "cat": "advanced"
   },
   {
     "w": "反复地",
@@ -4123,7 +5155,9 @@
     "m": "lặp đi lặp lại",
     "example": "他反复地强调这一点。",
     "example_vi": "Anh ấy lặp đi lặp lại nhấn mạnh điểm này.",
-    "me": "repeatedly"
+    "me": "repeatedly",
+    "pos": "Phó từ",
+    "cat": "time"
   },
   {
     "w": "来回",
@@ -4131,7 +5165,9 @@
     "m": "đi đi lại lại",
     "example": "他每天来回要花两个小时。",
     "example_vi": "Mỗi ngày anh ấy phải mất hai tiếng đi lại.",
-    "me": "pace back and forth"
+    "me": "pace back and forth",
+    "pos": "Động từ",
+    "cat": "verb"
   },
   {
     "w": "往返",
@@ -4139,7 +5175,9 @@
     "m": "đi về, khứ hồi",
     "example": "这是一张往返机票。",
     "example_vi": "Đây là một vé máy bay khứ hồi.",
-    "me": "round trip"
+    "me": "round trip",
+    "pos": "Động từ",
+    "cat": "verb"
   },
   {
     "w": "时而",
@@ -4147,7 +5185,9 @@
     "m": "thỉnh thoảng, lúc thì",
     "example": "天气时而晴朗，时而多云。",
     "example_vi": "Thời tiết lúc thì nắng ráo, lúc thì nhiều mây.",
-    "me": "occasionally, sometimes"
+    "me": "occasionally, sometimes",
+    "pos": "Phó từ",
+    "cat": "adverb"
   },
   {
     "w": "时不时",
@@ -4155,7 +5195,9 @@
     "m": "thỉnh thoảng",
     "example": "他时不时会来看看我们。",
     "example_vi": "Thỉnh thoảng anh ấy lại đến thăm chúng tôi.",
-    "me": "once in a while"
+    "me": "once in a while",
+    "pos": "Phó từ",
+    "cat": "trạng từ"
   },
   {
     "w": "间或",
@@ -4163,7 +5205,9 @@
     "m": "thỉnh thoảng, đôi khi",
     "example": "他间或也会犯些小错误。",
     "example_vi": "Đôi khi anh ấy cũng phạm phải vài lỗi nhỏ.",
-    "me": "occasionally"
+    "me": "occasionally",
+    "pos": "Phó từ",
+    "cat": "trạng từ"
   },
   {
     "w": "博物馆讲解员",
@@ -4171,7 +5215,9 @@
     "m": "hướng dẫn viên bảo tàng",
     "example": "博物馆讲解员详细介绍了每件展品。",
     "example_vi": "Hướng dẫn viên bảo tàng đã giới thiệu chi tiết từng hiện vật trưng bày.",
-    "me": "museum guide"
+    "me": "museum guide",
+    "pos": "Động từ",
+    "cat": "work"
   },
   {
     "w": "义工",
@@ -4179,7 +5225,9 @@
     "m": "tình nguyện viên",
     "example": "周末她去医院当义工。",
     "example_vi": "Cuối tuần cô ấy đến bệnh viện làm tình nguyện viên.",
-    "me": "volunteer"
+    "me": "volunteer",
+    "pos": "Danh từ",
+    "cat": "society"
   },
   {
     "w": "公益活动",
@@ -4187,7 +5235,9 @@
     "m": "hoạt động công ích",
     "example": "学校经常组织学生参加公益活动。",
     "example_vi": "Trường thường xuyên tổ chức cho học sinh tham gia hoạt động công ích.",
-    "me": "public welfare activity"
+    "me": "public welfare activity",
+    "pos": "Danh từ",
+    "cat": "society"
   },
   {
     "w": "慈善机构",
@@ -4195,7 +5245,9 @@
     "m": "tổ chức từ thiện",
     "example": "他把一部分收入捐给了慈善机构。",
     "example_vi": "Anh ấy đã quyên góp một phần thu nhập cho tổ chức từ thiện.",
-    "me": "charity"
+    "me": "charity",
+    "pos": "Động từ",
+    "cat": "xã hội"
   },
   {
     "w": "募捐",
@@ -4203,7 +5255,9 @@
     "m": "quyên góp",
     "example": "学校发起了一次募捐活动。",
     "example_vi": "Trường đã phát động một đợt quyên góp.",
-    "me": "donate"
+    "me": "donate",
+    "pos": "Động từ",
+    "cat": "hành động"
   },
   {
     "w": "资助贫困生",
@@ -4211,6 +5265,8 @@
     "m": "trợ cấp học sinh nghèo",
     "example": "这个基金会专门资助贫困生上学。",
     "example_vi": "Quỹ này chuyên trợ cấp cho học sinh nghèo đi học.",
-    "me": "subsidy for disadvantaged students"
+    "me": "subsidy for disadvantaged students",
+    "pos": "Danh từ",
+    "cat": "education"
   }
 ]

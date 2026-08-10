@@ -668,5 +668,825 @@
     "vn": "Tổng hợp",
     "e": "📚",
     "intro": "Nhóm từ vựng tổng hợp giúp mở rộng vốn từ của bạn."
+  },
+  "dentistry": {
+    "vn": "Nha khoa",
+    "e": "🦷",
+    "intro": "Từ vựng nha khoa chuyên sâu cho lĩnh vực chăm sóc răng miệng."
+  },
+  "astronomy": {
+    "vn": "Thiên văn học",
+    "e": "🔭",
+    "intro": "Khám phá vũ trụ bao la qua từ vựng thiên văn học chuyên sâu."
+  },
+  "ophthalmology": {
+    "vn": "Nhãn khoa",
+    "e": "👁️",
+    "intro": "Từ vựng chuyên khoa mắt cho chẩn đoán và điều trị thị lực."
+  },
+  "tattoo": {
+    "vn": "Xăm hình",
+    "e": "🎨",
+    "intro": "Từ vựng chuyên ngành nghệ thuật xăm hình và trang trí cơ thể."
+  },
+  "funeral": {
+    "vn": "Tang lễ",
+    "e": "🕯️",
+    "intro": "Từ vựng trang trọng cho lĩnh vực dịch vụ tang lễ và tưởng niệm."
+  },
+  "baby_products": {
+    "vn": "Đồ dùng trẻ sơ sinh",
+    "e": "🍼",
+    "intro": "Từ vựng chuyên ngành sản phẩm và chăm sóc trẻ sơ sinh."
+  },
+  "pet_products": {
+    "vn": "Đồ dùng thú cưng",
+    "e": "🐕",
+    "intro": "Từ vựng ngành công nghiệp sản phẩm và dịch vụ thú cưng."
+  },
+  "investigation": {
+    "vn": "Điều tra tư nhân",
+    "e": "🕵️",
+    "intro": "Từ vựng chuyên ngành điều tra, trinh thám và thu thập chứng cứ."
+  },
+  "floriculture": {
+    "vn": "Hoa & Làm vườn",
+    "e": "🌷",
+    "intro": "Từ vựng chuyên ngành trồng hoa, cây cảnh và thiết kế cảnh quan."
+  },
+  "leather": {
+    "vn": "Da giày",
+    "e": "👞",
+    "intro": "Từ vựng chuyên ngành chế tác da thuộc và sản xuất giày dép."
+  },
+  "furniture": {
+    "vn": "Nội thất & Thiết kế",
+    "e": "🛋️",
+    "intro": "Từ vựng chuyên ngành sản xuất nội thất và thiết kế không gian sống."
+  },
+  "toys": {
+    "vn": "Đồ chơi",
+    "e": "🧸",
+    "intro": "Từ vựng ngành công nghiệp thiết kế và sản xuất đồ chơi trẻ em."
+  },
+  "fire_safety": {
+    "vn": "Phòng cháy chữa cháy",
+    "e": "🧯",
+    "intro": "Từ vựng chuyên ngành an toàn phòng cháy và chữa cháy."
+  },
+  "postal": {
+    "vn": "Bưu chính & Chuyển phát",
+    "e": "📮",
+    "intro": "Từ vựng chuyên ngành dịch vụ bưu chính và chuyển phát nhanh."
+  },
+  "printing": {
+    "vn": "In ấn & Bao bì",
+    "e": "🖨️",
+    "intro": "Từ vựng chuyên ngành công nghệ in ấn và thiết kế đóng gói."
+  },
+  "telecom": {
+    "vn": "Viễn thông",
+    "e": "📡",
+    "intro": "Từ vựng chuyên ngành hạ tầng mạng và dịch vụ viễn thông."
+  },
+  "jewelry": {
+    "vn": "Trang sức & Hàng xa xỉ",
+    "e": "💎",
+    "intro": "Từ vựng chuyên ngành chế tác trang sức và thị trường hàng xa xỉ."
+  },
+  "photography": {
+    "vn": "Nhiếp ảnh",
+    "e": "📷",
+    "intro": "Từ vựng chuyên ngành kỹ thuật và nghệ thuật nhiếp ảnh."
+  },
+  "esports": {
+    "vn": "Thể thao điện tử",
+    "e": "🎮",
+    "intro": "Từ vựng ngành công nghiệp thể thao điện tử và giải đấu game."
+  },
+  "real_estate": {
+    "vn": "Bất động sản",
+    "e": "🏢",
+    "intro": "Từ vựng chuyên ngành giao dịch và quản lý bất động sản."
+  },
+  "mining": {
+    "vn": "Khai khoáng",
+    "e": "⛏️",
+    "intro": "Từ vựng chuyên ngành khai thác mỏ và luyện kim."
+  },
+  "early_childhood": {
+    "vn": "Giáo dục mầm non",
+    "e": "🧒",
+    "intro": "Từ vựng chuyên ngành phát triển và giáo dục trẻ nhỏ."
+  },
+  "film": {
+    "vn": "Điện ảnh",
+    "e": "🎬",
+    "intro": "Từ vựng chuyên ngành sản xuất và phát hành phim ảnh."
+  },
+  "ads_pr": {
+    "vn": "Quảng cáo & PR",
+    "e": "📢",
+    "intro": "Từ vựng chuyên ngành quảng cáo và quan hệ công chúng."
+  },
+  "accounting": {
+    "vn": "Kế toán & Kiểm toán",
+    "e": "🧾",
+    "intro": "Từ vựng chuyên ngành kế toán, kiểm toán và tài chính doanh nghiệp."
+  },
+  "hr": {
+    "vn": "Nhân sự",
+    "e": "🧑‍💼",
+    "intro": "Từ vựng chuyên ngành quản trị nhân sự và tuyển dụng."
+  },
+  "logistics": {
+    "vn": "Logistics & Kho vận",
+    "e": "📦",
+    "intro": "Từ vựng chuyên ngành chuỗi cung ứng, kho bãi và vận chuyển."
+  },
+  "cosmetics": {
+    "vn": "Mỹ phẩm & Làm đẹp",
+    "e": "💄",
+    "intro": "Từ vựng chuyên ngành mỹ phẩm và chăm sóc sắc đẹp."
+  },
+  "coffee_tea": {
+    "vn": "Cà phê & Trà",
+    "e": "☕",
+    "intro": "Từ vựng chuyên ngành văn hóa và công nghiệp cà phê, trà."
+  },
+  "disability": {
+    "vn": "Quyền người khuyết tật",
+    "e": "♿",
+    "intro": "Từ vựng chuyên ngành hỗ trợ tiếp cận và quyền người khuyết tật."
+  },
+  "elderly_care": {
+    "vn": "Chăm sóc người già",
+    "e": "🧓",
+    "intro": "Từ vựng chuyên ngành chăm sóc sức khỏe và đời sống người cao tuổi."
+  },
+  "wedding": {
+    "vn": "Cưới hỏi",
+    "e": "💍",
+    "intro": "Từ vựng chuyên ngành tổ chức và dịch vụ đám cưới."
+  },
+  "music_industry": {
+    "vn": "Âm nhạc & Bản quyền",
+    "e": "🎵",
+    "intro": "Từ vựng ngành công nghiệp âm nhạc và bản quyền tác phẩm."
+  },
+  "ecommerce": {
+    "vn": "Thương mại điện tử",
+    "e": "🛒",
+    "intro": "Từ vựng chuyên ngành vận hành kinh doanh trực tuyến."
+  },
+  "automotive": {
+    "vn": "Ô tô",
+    "e": "🚙",
+    "intro": "Từ vựng chuyên ngành sản xuất và kinh doanh ô tô."
+  },
+  "railway": {
+    "vn": "Đường sắt",
+    "e": "🚄",
+    "intro": "Từ vựng chuyên ngành vận hành và hạ tầng đường sắt."
+  },
+  "gamedev": {
+    "vn": "Phát triển game",
+    "e": "🕹️",
+    "intro": "Từ vựng chuyên ngành thiết kế và phát triển trò chơi điện tử."
+  },
+  "psychotherapy": {
+    "vn": "Tâm lý trị liệu",
+    "e": "🛋️",
+    "intro": "Từ vựng chuyên ngành tư vấn và trị liệu tâm lý."
+  },
+  "outdoor": {
+    "vn": "Leo núi & Thám hiểm",
+    "e": "🏔️",
+    "intro": "Từ vựng chuyên ngành leo núi, thám hiểm và thể thao ngoài trời."
+  },
+  "wine": {
+    "vn": "Rượu vang",
+    "e": "🍷",
+    "intro": "Từ vựng chuyên ngành sản xuất và thẩm định rượu vang."
+  },
+  "domestic": {
+    "vn": "Giúp việc gia đình",
+    "e": "🧹",
+    "intro": "Từ vựng chuyên ngành dịch vụ giúp việc và chăm sóc gia đình."
+  },
+  "equestrian": {
+    "vn": "Cưỡi ngựa & Lặn biển",
+    "e": "🐎",
+    "intro": "Từ vựng chuyên ngành thể thao cưỡi ngựa và lặn biển."
+  },
+  "disaster": {
+    "vn": "Ứng phó thiên tai",
+    "e": "🚨",
+    "intro": "Từ vựng chuyên ngành quản lý và ứng phó khẩn cấp thiên tai."
+  },
+  "bikeshare": {
+    "vn": "Xe đạp chia sẻ",
+    "e": "🚲",
+    "intro": "Từ vựng chuyên ngành kinh tế chia sẻ và giao thông đô thị xanh."
+  },
+  "jets_yachts": {
+    "vn": "Máy bay & Du thuyền riêng",
+    "e": "🛥️",
+    "intro": "Từ vựng chuyên ngành dịch vụ hàng không và du thuyền cao cấp."
+  },
+  "dating": {
+    "vn": "Mai mối & Hẹn hò",
+    "e": "💘",
+    "intro": "Từ vựng chuyên ngành dịch vụ mai mối và nền tảng hẹn hò."
+  },
+  "acg": {
+    "vn": "Anime & Truyện tranh",
+    "e": "🎌",
+    "intro": "Từ vựng ngành công nghiệp anime, truyện tranh và văn hóa 2D."
+  },
+  "escaperoom": {
+    "vn": "Giải trí nhập vai",
+    "e": "🔐",
+    "intro": "Từ vựng chuyên ngành phòng thoát hiểm và giải trí trải nghiệm."
+  },
+  "fitness": {
+    "vn": "Fitness & Huấn luyện cá nhân",
+    "e": "🏋️",
+    "intro": "Từ vựng chuyên ngành huấn luyện thể hình và phòng tập gym."
+  },
+  "yoga": {
+    "vn": "Yoga & Thiền",
+    "e": "🧘",
+    "intro": "Từ vựng chuyên ngành yoga, thiền định và chăm sóc tinh thần."
+  },
+  "butler": {
+    "vn": "Quản gia & Lễ tân cao cấp",
+    "e": "🎩",
+    "intro": "Từ vựng chuyên ngành dịch vụ quản gia và lễ tân cao cấp."
+  },
+  "military": {
+    "vn": "Quân sự & Quốc phòng",
+    "e": "🎖️",
+    "intro": "Từ vựng chuyên ngành quân sự, quốc phòng và an ninh."
+  },
+  "agriculture": {
+    "vn": "Nông nghiệp",
+    "e": "🌾",
+    "intro": "Từ vựng chuyên ngành nông nghiệp và công nghệ nông nghiệp."
+  },
+  "architecture_urban": {
+    "vn": "Kiến trúc & Quy hoạch đô thị",
+    "e": "🏙️",
+    "intro": "Từ vựng chuyên ngành kiến trúc và quy hoạch không gian đô thị."
+  },
+  "insurance": {
+    "vn": "Bảo hiểm",
+    "e": "🛡️",
+    "intro": "Từ vựng chuyên ngành bảo hiểm và quản lý rủi ro."
+  },
+  "criminology": {
+    "vn": "Tội phạm học & Pháp y",
+    "e": "🔬",
+    "intro": "Từ vựng chuyên ngành tội phạm học và giám định pháp y."
+  },
+  "heritage": {
+    "vn": "Di sản phi vật thể",
+    "e": "🏺",
+    "intro": "Từ vựng chuyên ngành bảo tồn di sản văn hóa và nghề thủ công truyền thống."
+  },
+  "kids_entertainment": {
+    "vn": "Khu vui chơi trẻ em",
+    "e": "🎡",
+    "intro": "Từ vựng chuyên ngành vận hành khu vui chơi và giải trí trẻ em."
+  },
+  "aviation_maritime": {
+    "vn": "Hàng không & Hàng hải",
+    "e": "✈️",
+    "intro": "Từ vựng chuyên ngành hàng không, hàng hải và vận tải biển."
+  },
+  "energy": {
+    "vn": "Năng lượng",
+    "e": "⚡",
+    "intro": "Từ vựng chuyên ngành sản xuất và phân phối năng lượng."
+  },
+  "mathematics": {
+    "vn": "Toán học & Thống kê",
+    "e": "📐",
+    "intro": "Từ vựng chuyên ngành toán học và khoa học thống kê."
+  },
+  "international_law": {
+    "vn": "Luật quốc tế",
+    "e": "⚖️",
+    "intro": "Từ vựng chuyên ngành công pháp quốc tế và trọng tài."
+  },
+  "religion": {
+    "vn": "Tôn giáo & Thần học",
+    "e": "🕊️",
+    "intro": "Từ vựng chuyên ngành tôn giáo, thần học và tín ngưỡng."
+  },
+  "library": {
+    "vn": "Thư viện & Xuất bản",
+    "e": "📚",
+    "intro": "Từ vựng chuyên ngành thư viện học và ngành xuất bản."
+  },
+  "sports_industry": {
+    "vn": "Ngành công nghiệp thể thao",
+    "e": "🏟️",
+    "intro": "Từ vựng chuyên ngành quản lý và kinh doanh thể thao."
+  },
+  "geo_vet": {
+    "vn": "Địa lý & Thú y",
+    "e": "🌍",
+    "intro": "Từ vựng chuyên ngành khí tượng địa lý và chăm sóc thú y."
+  },
+  "textile_culinary": {
+    "vn": "Dệt may & Ẩm thực-Khách sạn",
+    "e": "🍽️",
+    "intro": "Từ vựng chuyên ngành dệt may, ẩm thực và dịch vụ khách sạn."
+  },
+  "secondhand": {
+    "vn": "Đồ cũ & Kinh tế tuần hoàn",
+    "e": "♻️",
+    "intro": "Từ vựng chuyên ngành giao dịch đồ cũ và kinh tế tuần hoàn."
+  },
+  "eyewear": {
+    "vn": "Kính mắt",
+    "e": "👓",
+    "intro": "Từ vựng chuyên ngành sản xuất và kinh doanh kính mắt."
+  },
+  "auction": {
+    "vn": "Đấu giá & Nghệ thuật",
+    "e": "🖼️",
+    "intro": "Từ vựng chuyên ngành đấu giá và giao dịch tác phẩm nghệ thuật."
+  },
+  "translation": {
+    "vn": "Dịch thuật",
+    "e": "🌐",
+    "intro": "Từ vựng chuyên ngành biên phiên dịch và dịch vụ ngôn ngữ."
+  },
+  "tcm": {
+    "vn": "Y học cổ truyền",
+    "e": "☯️",
+    "intro": "Từ vựng chuyên sâu về y học cổ truyền và các liệu pháp dưỡng sinh."
+  },
+  "sports_medicine": {
+    "vn": "Y học thể thao",
+    "e": "🩹",
+    "intro": "Từ vựng chuyên sâu về chấn thương và phục hồi chức năng thể thao."
+  },
+  "hospice": {
+    "vn": "Chăm sóc cuối đời",
+    "e": "🕊️",
+    "intro": "Từ vựng chuyên sâu về chăm sóc giảm nhẹ và an dưỡng cuối đời."
+  },
+  "organ_transplant": {
+    "vn": "Ghép tạng",
+    "e": "🫀",
+    "intro": "Từ vựng chuyên sâu về hiến và ghép tạng trong y học."
+  },
+  "special_education": {
+    "vn": "Giáo dục đặc biệt",
+    "e": "🧩",
+    "intro": "Từ vựng chuyên sâu về giáo dục hòa nhập và trẻ có nhu cầu đặc biệt."
+  },
+  "vocational_training": {
+    "vn": "Đào tạo nghề",
+    "e": "🛠️",
+    "intro": "Từ vựng chuyên sâu về đào tạo kỹ năng nghề và giáo dục nghề nghiệp."
+  },
+  "exhibition": {
+    "vn": "Hội chợ triển lãm",
+    "e": "🎪",
+    "intro": "Từ vựng chuyên sâu về tổ chức hội chợ và sự kiện triển lãm."
+  },
+  "securities": {
+    "vn": "Đầu tư chứng khoán",
+    "e": "📊",
+    "intro": "Từ vựng chuyên sâu về giao dịch chứng khoán và thị trường tài chính."
+  },
+  "meteorology": {
+    "vn": "Khí tượng học",
+    "e": "🌦️",
+    "intro": "Từ vựng chuyên sâu về dự báo thời tiết và khoa học khí quyển."
+  },
+  "oceanography": {
+    "vn": "Hải dương học",
+    "e": "🌊",
+    "intro": "Từ vựng chuyên sâu về nghiên cứu đại dương và sinh thái biển."
+  },
+  "traditional_medicine": {
+    "vn": "Y học cổ truyền",
+    "e": "☯️",
+    "intro": "Từ vựng chuyên sâu về y học cổ truyền và các liệu pháp dưỡng sinh."
+  },
+  "reproductive_medicine": {
+    "vn": "Y học sinh sản",
+    "e": "🍼",
+    "intro": "Từ vựng chuyên sâu về hỗ trợ sinh sản và điều trị hiếm muộn."
+  },
+  "dementia_care": {
+    "vn": "Chăm sóc sa sút trí tuệ",
+    "e": "🧠",
+    "intro": "Từ vựng chuyên sâu về chăm sóc người mắc chứng sa sút trí tuệ."
+  },
+  "drone_tech": {
+    "vn": "Công nghệ Drone",
+    "e": "🚁",
+    "intro": "Từ vựng chuyên sâu về thiết bị bay không người lái và ứng dụng."
+  },
+  "vr_tech": {
+    "vn": "Công nghệ VR/AR",
+    "e": "🥽",
+    "intro": "Từ vựng chuyên sâu về thực tế ảo và thực tế tăng cường."
+  },
+  "semiconductor": {
+    "vn": "Ngành bán dẫn",
+    "e": "🔬",
+    "intro": "Từ vựng chuyên sâu về sản xuất chip và công nghệ bán dẫn."
+  },
+  "ev_vehicles": {
+    "vn": "Xe điện",
+    "e": "🔋",
+    "intro": "Từ vựng chuyên sâu về xe điện và hạ tầng sạc."
+  },
+  "biotech": {
+    "vn": "Công nghệ sinh học",
+    "e": "🧬",
+    "intro": "Từ vựng chuyên sâu về công nghệ sinh học và dược phẩm sinh học."
+  },
+  "epidemiology": {
+    "vn": "Dịch tễ học",
+    "e": "🦠",
+    "intro": "Từ vựng chuyên sâu về giám sát dịch bệnh và y tế công cộng."
+  },
+  "radiology": {
+    "vn": "Chẩn đoán hình ảnh",
+    "e": "🩻",
+    "intro": "Từ vựng chuyên sâu về chụp X-quang và chẩn đoán hình ảnh y khoa."
+  },
+  "pharmacology": {
+    "vn": "Dược lý học",
+    "e": "💊",
+    "intro": "Từ vựng chuyên sâu về tác dụng và tương tác của thuốc."
+  },
+  "dermatology": {
+    "vn": "Da liễu",
+    "e": "🧴",
+    "intro": "Từ vựng chuyên sâu về các bệnh da và điều trị da liễu."
+  },
+  "ent": {
+    "vn": "Tai Mũi Họng",
+    "e": "👂",
+    "intro": "Từ vựng chuyên sâu về khám và điều trị tai mũi họng."
+  },
+  "psychiatry": {
+    "vn": "Tâm thần học",
+    "e": "🧩",
+    "intro": "Từ vựng chuyên sâu về chẩn đoán và điều trị rối loạn tâm thần."
+  },
+  "pediatric_icu": {
+    "vn": "Hồi sức tích cực Nhi",
+    "e": "👶",
+    "intro": "Từ vựng chuyên sâu về chăm sóc đặc biệt cho trẻ nguy kịch."
+  },
+  "anesthesiology": {
+    "vn": "Gây mê hồi sức",
+    "e": "💉",
+    "intro": "Từ vựng chuyên sâu về gây mê và hồi sức trong phẫu thuật."
+  },
+  "space_exploration": {
+    "vn": "Thám hiểm vũ trụ",
+    "e": "🚀",
+    "intro": "Từ vựng chuyên sâu về công nghệ vũ trụ và các sứ mệnh không gian."
+  },
+  "cybersecurity": {
+    "vn": "An ninh mạng",
+    "e": "🔐",
+    "intro": "Từ vựng chuyên sâu về bảo mật thông tin và phòng chống tấn công mạng."
+  },
+  "blockchain": {
+    "vn": "Blockchain",
+    "e": "⛓️",
+    "intro": "Từ vựng chuyên sâu về công nghệ chuỗi khối và tiền điện tử."
+  },
+  "data_science": {
+    "vn": "Khoa học dữ liệu",
+    "e": "📈",
+    "intro": "Từ vựng chuyên sâu về phân tích dữ liệu và học máy."
+  },
+  "intellectual_property": {
+    "vn": "Sở hữu trí tuệ",
+    "e": "©️",
+    "intro": "Từ vựng chuyên sâu về bằng sáng chế, bản quyền và nhãn hiệu."
+  },
+  "hazmat_transport": {
+    "vn": "Vận chuyển hàng nguy hiểm",
+    "e": "☣️",
+    "intro": "Từ vựng chuyên sâu về xử lý và vận chuyển vật liệu nguy hiểm."
+  },
+  "antitrust_law": {
+    "vn": "Luật chống độc quyền",
+    "e": "⚖️",
+    "intro": "Từ vựng chuyên sâu về luật cạnh tranh và chống độc quyền."
+  },
+  "tax_law": {
+    "vn": "Luật thuế",
+    "e": "🧾",
+    "intro": "Từ vựng chuyên sâu về thuế và tuân thủ pháp luật thuế."
+  },
+  "labor_arbitration": {
+    "vn": "Trọng tài lao động",
+    "e": "🤝",
+    "intro": "Từ vựng chuyên sâu về giải quyết tranh chấp lao động."
+  },
+  "perfumery": {
+    "vn": "Nghệ thuật nước hoa",
+    "e": "🌸",
+    "intro": "Từ vựng chuyên sâu về pha chế và sáng tạo nước hoa."
+  },
+  "horology": {
+    "vn": "Chế tác đồng hồ",
+    "e": "⌚",
+    "intro": "Từ vựng chuyên sâu về chế tác và phục chế đồng hồ cơ."
+  },
+  "chess_theory": {
+    "vn": "Lý thuyết cờ vua",
+    "e": "♟️",
+    "intro": "Từ vựng chuyên sâu về chiến thuật và lý thuyết cờ vua chuyên nghiệp."
+  },
+  "genealogy": {
+    "vn": "Phả hệ học",
+    "e": "🌳",
+    "intro": "Từ vựng chuyên sâu về nghiên cứu gia phả và nguồn gốc tổ tiên."
+  },
+  "museum_curation": {
+    "vn": "Quản lý bảo tàng",
+    "e": "🏛️",
+    "intro": "Từ vựng chuyên sâu về dàn dựng triển lãm và bảo tồn hiện vật."
+  },
+  "cartography": {
+    "vn": "Bản đồ học",
+    "e": "🗺️",
+    "intro": "Từ vựng chuyên sâu về lập bản đồ và hệ thống thông tin địa lý."
+  },
+  "urban_planning": {
+    "vn": "Quy hoạch đô thị",
+    "e": "🏙️",
+    "intro": "Từ vựng chuyên sâu về quy hoạch và phát triển đô thị."
+  },
+  "procurement_supply": {
+    "vn": "Thu mua & Chuỗi cung ứng",
+    "e": "📦",
+    "intro": "Từ vựng chuyên sâu về mua sắm doanh nghiệp và quản lý chuỗi cung ứng."
+  },
+  "actuarial_science": {
+    "vn": "Khoa học định phí bảo hiểm",
+    "e": "📐",
+    "intro": "Từ vựng chuyên sâu về tính toán rủi ro và định phí bảo hiểm."
+  },
+  "venture_capital": {
+    "vn": "Đầu tư mạo hiểm",
+    "e": "💡",
+    "intro": "Từ vựng chuyên sâu về gọi vốn khởi nghiệp và đầu tư mạo hiểm."
+  },
+  "numismatics": {
+    "vn": "Sưu tầm tiền xu",
+    "e": "🪙",
+    "intro": "Từ vựng chuyên sâu về sưu tầm và định giá tiền xu cổ."
+  },
+  "philately": {
+    "vn": "Sưu tầm tem",
+    "e": "📮",
+    "intro": "Từ vựng chuyên sâu về sưu tầm và nghiên cứu tem thư."
+  },
+  "beekeeping": {
+    "vn": "Nghề nuôi ong",
+    "e": "🐝",
+    "intro": "Từ vựng chuyên sâu về nuôi ong và khai thác mật ong."
+  },
+  "falconry": {
+    "vn": "Huấn luyện chim ưng",
+    "e": "🦅",
+    "intro": "Từ vựng chuyên sâu về huấn luyện và chăm sóc chim săn mồi."
+  },
+  "forensic_science": {
+    "vn": "Khoa học pháp y",
+    "e": "🔍",
+    "intro": "Từ vựng chuyên sâu về điều tra hiện trường và chứng cứ pháp y."
+  },
+  "immigration_law": {
+    "vn": "Luật nhập cư",
+    "e": "🛂",
+    "intro": "Từ vựng chuyên sâu về thị thực, tị nạn và luật nhập cư."
+  },
+  "maritime_law": {
+    "vn": "Luật hàng hải",
+    "e": "⚓",
+    "intro": "Từ vựng chuyên sâu về pháp lý hàng hải và tranh chấp tàu biển."
+  },
+  "family_law": {
+    "vn": "Luật gia đình",
+    "e": "👨‍👩‍👧",
+    "intro": "Từ vựng chuyên sâu về ly hôn, quyền nuôi con và luật gia đình."
+  },
+  "environmental_law": {
+    "vn": "Luật môi trường",
+    "e": "🌍",
+    "intro": "Từ vựng chuyên sâu về pháp lý bảo vệ môi trường."
+  },
+  "computational_linguistics": {
+    "vn": "Ngôn ngữ học tính toán",
+    "e": "🖥️",
+    "intro": "Từ vựng chuyên sâu về xử lý ngôn ngữ tự nhiên và AI ngôn ngữ."
+  },
+  "taxidermy": {
+    "vn": "Nhồi bông thú",
+    "e": "🦉",
+    "intro": "Từ vựng chuyên sâu về kỹ thuật nhồi bông và bảo quản tiêu bản."
+  },
+  "locksmithing": {
+    "vn": "Nghề khóa",
+    "e": "🔑",
+    "intro": "Từ vựng chuyên sâu về sửa khóa và hệ thống an ninh cơ khí."
+  },
+  "glassblowing": {
+    "vn": "Thổi thủy tinh",
+    "e": "🎐",
+    "intro": "Từ vựng chuyên sâu về nghệ thuật thổi và tạo hình thủy tinh."
+  },
+  "blacksmithing": {
+    "vn": "Rèn kim loại",
+    "e": "🔨",
+    "intro": "Từ vựng chuyên sâu về nghề rèn và chế tác kim loại thủ công."
+  },
+  "bookbinding": {
+    "vn": "Đóng sách",
+    "e": "📚",
+    "intro": "Từ vựng chuyên sâu về nghệ thuật đóng sách và phục chế sách cổ."
+  },
+  "upholstery": {
+    "vn": "Bọc nệm ghế",
+    "e": "🛋️",
+    "intro": "Từ vựng chuyên sâu về nghề bọc nệm và phục chế đồ nội thất."
+  },
+  "viticulture": {
+    "vn": "Trồng nho làm rượu",
+    "e": "🍇",
+    "intro": "Từ vựng chuyên sâu về canh tác vườn nho phục vụ sản xuất rượu vang."
+  },
+  "cheese_making": {
+    "vn": "Làm phô mai",
+    "e": "🧀",
+    "intro": "Từ vựng chuyên sâu về sản xuất và ủ chín phô mai thủ công."
+  },
+  "puppetry": {
+    "vn": "Nghệ thuật múa rối",
+    "e": "🎭",
+    "intro": "Từ vựng chuyên sâu về chế tác và biểu diễn múa rối."
+  },
+  "circus_arts": {
+    "vn": "Nghệ thuật xiếc",
+    "e": "🎪",
+    "intro": "Từ vựng chuyên sâu về các bộ môn biểu diễn xiếc."
+  },
+  "calligraphy": {
+    "vn": "Thư pháp",
+    "e": "🖌️",
+    "intro": "Từ vựng chuyên sâu về nghệ thuật viết thư pháp."
+  },
+  "origami": {
+    "vn": "Nghệ thuật gấp giấy",
+    "e": "🦢",
+    "intro": "Từ vựng chuyên sâu về kỹ thuật và nghệ thuật gấp giấy."
+  },
+  "embroidery": {
+    "vn": "Nghề thêu",
+    "e": "🧵",
+    "intro": "Từ vựng chuyên sâu về kỹ thuật thêu tay truyền thống và hiện đại."
+  },
+  "tapestry_weaving": {
+    "vn": "Dệt Tapestry",
+    "e": "🪢",
+    "intro": "Từ vựng chuyên sâu về dệt tranh thảm trang trí thủ công."
+  },
+  "papermaking": {
+    "vn": "Nghề làm giấy",
+    "e": "📜",
+    "intro": "Từ vựng chuyên sâu về kỹ thuật làm giấy thủ công truyền thống."
+  },
+  "natural_dyeing": {
+    "vn": "Nhuộm tự nhiên",
+    "e": "🎨",
+    "intro": "Từ vựng chuyên sâu về kỹ thuật nhuộm vải bằng nguyên liệu tự nhiên."
+  },
+  "basket_weaving": {
+    "vn": "Đan giỏ thủ công",
+    "e": "🧺",
+    "intro": "Từ vựng chuyên sâu về kỹ thuật đan giỏ và mây tre."
+  },
+  "mosaic_art": {
+    "vn": "Nghệ thuật Mosaic",
+    "e": "🔲",
+    "intro": "Từ vựng chuyên sâu về ghép tranh khảm bằng gạch và mảnh vỡ."
+  },
+  "stained_glass": {
+    "vn": "Kính màu",
+    "e": "🪟",
+    "intro": "Từ vựng chuyên sâu về chế tác cửa sổ và tác phẩm kính màu."
+  },
+  "woodturning": {
+    "vn": "Tiện gỗ",
+    "e": "🪵",
+    "intro": "Từ vựng chuyên sâu về gia công tiện và tạo hình đồ gỗ."
+  },
+  "leathercraft": {
+    "vn": "Nghề da thủ công",
+    "e": "👜",
+    "intro": "Từ vựng chuyên sâu về cắt may và chế tác đồ da thủ công."
+  },
+  "ceramics_glazing": {
+    "vn": "Men gốm",
+    "e": "🏺",
+    "intro": "Từ vựng chuyên sâu về pha chế men và kỹ thuật nung gốm."
+  },
+  "candle_making": {
+    "vn": "Làm nến thủ công",
+    "e": "🕯️",
+    "intro": "Từ vựng chuyên sâu về kỹ thuật đổ khuôn và pha hương nến."
+  },
+  "soap_making": {
+    "vn": "Làm xà phòng thủ công",
+    "e": "🧼",
+    "intro": "Từ vựng chuyên sâu về quy trình xà phòng hóa và tạo hình xà phòng."
+  },
+  "knife_sharpening": {
+    "vn": "Mài dao",
+    "e": "🔪",
+    "intro": "Từ vựng chuyên sâu về kỹ thuật mài và bảo dưỡng dao."
+  },
+  "silversmithing": {
+    "vn": "Chế tác bạc",
+    "e": "💍",
+    "intro": "Từ vựng chuyên sâu về nghề kim hoàn và chế tác đồ bạc."
+  },
+  "kite_making": {
+    "vn": "Làm diều",
+    "e": "🪁",
+    "intro": "Từ vựng chuyên sâu về kỹ thuật làm và điều khiển diều truyền thống."
+  },
+  "quilting": {
+    "vn": "May chăn Quilt",
+    "e": "🧶",
+    "intro": "Từ vựng chuyên sâu về ghép vải và khâu chần chăn quilt."
+  },
+  "scrimshaw": {
+    "vn": "Khắc Scrimshaw",
+    "e": "🦴",
+    "intro": "Từ vựng chuyên sâu về nghệ thuật chạm khắc trên xương và sừng."
+  },
+  "terrarium_design": {
+    "vn": "Thiết kế Terrarium",
+    "e": "🌿",
+    "intro": "Từ vựng chuyên sâu về thiết kế hệ sinh thái thu nhỏ trong bình kính."
+  },
+  "mead_making": {
+    "vn": "Ủ rượu mật ong",
+    "e": "🍯",
+    "intro": "Từ vựng chuyên sâu về ủ và lên men rượu mật ong."
+  },
+  "cider_making": {
+    "vn": "Ủ rượu Cider",
+    "e": "🍎",
+    "intro": "Từ vựng chuyên sâu về sản xuất rượu táo lên men."
+  },
+  "kombucha_brewing": {
+    "vn": "Lên men Kombucha",
+    "e": "🫖",
+    "intro": "Từ vựng chuyên sâu về nuôi men và ủ trà lên men kombucha."
+  },
+  "sourdough_baking": {
+    "vn": "Bánh mì Sourdough",
+    "e": "🍞",
+    "intro": "Từ vựng chuyên sâu về nuôi men tự nhiên và làm bánh mì lên men chua."
+  },
+  "pickling_fermentation": {
+    "vn": "Lên men ngâm chua",
+    "e": "🥒",
+    "intro": "Từ vựng chuyên sâu về kỹ thuật muối chua và lên men rau củ."
+  },
+  "distillery": {
+    "vn": "Chưng cất rượu mạnh",
+    "e": "🥃",
+    "intro": "Từ vựng chuyên sâu về quy trình chưng cất và ủ rượu mạnh."
+  },
+  "home_brewing": {
+    "vn": "Nấu bia tại nhà",
+    "e": "🍺",
+    "intro": "Từ vựng chuyên sâu về quy trình nấu và ủ bia thủ công."
+  },
+  "artisan_vinegar": {
+    "vn": "Làm giấm thủ công",
+    "e": "🍋",
+    "intro": "Từ vựng chuyên sâu về lên men và ủ giấm thủ công."
   }
 }

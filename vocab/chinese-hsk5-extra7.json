@@ -6,7 +6,8 @@
     "cat": "tech",
     "example": "她给我发了一条私信。",
     "example_vi": "Cô ấy đã gửi cho tôi một tin nhắn riêng tư.",
-    "me": "private message, direct message (DM)"
+    "me": "private message, direct message (DM)",
+    "pos": "Động từ"
   },
   {
     "w": "评论区",
@@ -15,14 +16,16 @@
     "cat": "tech",
     "example": "很多网友在评论区留言。",
     "example_vi": "Rất nhiều cư dân mạng để lại bình luận ở khu vực bình luận.",
-    "me": "comment section"
+    "me": "comment section",
+    "pos": "Danh từ"
   },
   {
     "w": "作息时间",
     "p": "zuòxī shíjiān",
     "m": "thời gian biểu sinh hoạt, lịch ngủ nghỉ hàng ngày",
     "cat": "health",
-    "me": "daily schedule, sleep routine"
+    "me": "daily schedule, sleep routine",
+    "pos": "Danh từ"
   },
   {
     "w": "电动车",
@@ -31,6 +34,7 @@
     "cat": "tech",
     "example": "他买了一辆电动车。",
     "example_vi": "Anh ấy đã mua một chiếc xe điện.",
-    "me": "electric vehicle"
+    "me": "electric vehicle",
+    "pos": "Danh từ"
   }
 ]

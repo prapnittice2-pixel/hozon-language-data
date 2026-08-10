@@ -6,7 +6,8 @@
     "cat": "language",
     "example": "他很聪明，并且很努力。",
     "example_vi": "Anh ấy rất thông minh, và hơn nữa rất chăm chỉ.",
-    "me": "and furthermore, at the same time"
+    "me": "and furthermore, at the same time",
+    "pos": "Danh từ"
   },
   {
     "w": "与其",
@@ -15,7 +16,8 @@
     "cat": "language",
     "example": "与其抱怨，不如努力改变。",
     "example_vi": "Thay vì than phiền, chi bằng cố gắng thay đổi.",
-    "me": "instead of, rather"
+    "me": "instead of, rather",
+    "pos": "Danh từ"
   },
   {
     "w": "准时",
@@ -24,7 +26,8 @@
     "cat": "time",
     "example": "请准时到达。",
     "example_vi": "Xin hãy đến đúng giờ.",
-    "me": "punctual, on time"
+    "me": "punctual, on time",
+    "pos": "Danh từ"
   },
   {
     "w": "具有",
@@ -33,7 +36,8 @@
     "cat": "verb",
     "example": "这个方案具有很大的可行性。",
     "example_vi": "Phương án này có tính khả thi rất lớn.",
-    "me": "to have, possess, bear (a trait)"
+    "me": "to have, possess, bear (a trait)",
+    "pos": "Động từ"
   },
   {
     "w": "留下",
@@ -42,14 +46,16 @@
     "cat": "verb",
     "example": "他留下了一封信。",
     "example_vi": "Anh ấy đã để lại một bức thư.",
-    "me": "stay; leave behind"
+    "me": "stay; leave behind",
+    "pos": "Động từ"
   },
   {
     "w": "行为",
     "p": "xíngwéi",
     "m": "hành vi, cách cư xử",
     "cat": "society",
-    "me": "behavior"
+    "me": "behavior",
+    "pos": "Danh từ"
   },
   {
     "w": "建设",
@@ -58,7 +64,8 @@
     "cat": "verb",
     "example": "政府正在建设新的道路。",
     "example_vi": "Chính phủ đang xây dựng con đường mới.",
-    "me": "to build, construct"
+    "me": "to build, construct",
+    "pos": "Động từ"
   },
   {
     "w": "分享",
@@ -67,7 +74,8 @@
     "cat": "verb",
     "example": "他喜欢和朋友分享快乐。",
     "example_vi": "Anh ấy thích chia sẻ niềm vui với bạn bè.",
-    "me": "share"
+    "me": "share",
+    "pos": "Động từ"
   },
   {
     "w": "追求",
@@ -76,7 +84,8 @@
     "cat": "verb",
     "example": "他一直在追求自己的梦想。",
     "example_vi": "Anh ấy luôn theo đuổi ước mơ của mình.",
-    "me": "pursue, seek"
+    "me": "pursue, seek",
+    "pos": "Động từ"
   },
   {
     "w": "举例",
@@ -85,18 +94,21 @@
     "cat": "language",
     "example": "请举例说明。",
     "example_vi": "Xin hãy lấy ví dụ để giải thích.",
-    "me": "give an example"
+    "me": "give an example",
+    "pos": "Động từ"
   },
   {
     "w": "越来越",
     "p": "yuèláiyuè",
     "m": "ngày càng, càng ngày càng",
-    "cat": "language"
+    "cat": "language",
+    "pos": "Phó từ"
   },
   {
     "w": "一旦",
     "p": "yīdàn",
     "m": "một khi, hễ mà, khi đã",
-    "cat": "language"
+    "cat": "language",
+    "pos": "Danh từ"
   }
 ]

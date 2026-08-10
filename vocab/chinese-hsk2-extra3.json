@@ -6,7 +6,8 @@
     "cat": "verb",
     "example": "请打开窗户。",
     "example_vi": "Xin hãy mở cửa sổ.",
-    "me": "open, turn on"
+    "me": "open, turn on",
+    "pos": "Động từ"
   },
   {
     "w": "关上",
@@ -15,14 +16,16 @@
     "cat": "verb",
     "example": "请把门关上。",
     "example_vi": "Xin hãy đóng cửa lại.",
-    "me": "close, turn off"
+    "me": "close, turn off",
+    "pos": "Động từ"
   },
   {
     "w": "摘",
     "p": "zhāi",
     "m": "hái (hoa, quả), lấy xuống",
     "cat": "verb",
-    "me": "pick (flowers, fruit), take down"
+    "me": "pick (flowers, fruit), take down",
+    "pos": "Động từ"
   },
   {
     "w": "拿走",
@@ -31,7 +34,8 @@
     "cat": "verb",
     "example": "请把这些书拿走。",
     "example_vi": "Xin hãy mang những cuốn sách này đi.",
-    "me": "take away"
+    "me": "take away",
+    "pos": "Động từ"
   },
   {
     "w": "胆小",
@@ -40,34 +44,39 @@
     "cat": "tính từ",
     "example": "这只小狗很胆小。",
     "example_vi": "Con chó con này rất nhút nhát.",
-    "me": "timid, shy, cowardly"
+    "me": "timid, shy, cowardly",
+    "pos": "Tính từ"
   },
   {
     "w": "一边...一边",
     "p": "yībiān...yībiān",
     "m": "vừa...vừa (làm hai việc cùng lúc)",
     "cat": "language",
-    "me": "both...and (doing two things at once)"
+    "me": "both...and (doing two things at once)",
+    "pos": "Danh từ"
   },
   {
     "w": "先...再...",
     "p": "xiān...zài...",
     "m": "trước...rồi mới... (thứ tự hành động)",
     "cat": "language",
-    "me": "first...then... (sequence of action)"
+    "me": "first...then... (sequence of action)",
+    "pos": "Danh từ"
   },
   {
     "w": "不但...而且",
     "p": "bùdàn...érqiě",
     "m": "không những...mà còn... (tăng tiến)",
     "cat": "language",
-    "me": "not only...but also..."
+    "me": "not only...but also...",
+    "pos": "Danh từ"
   },
   {
     "w": "虽然...但是",
     "p": "suīrán...dànshì",
     "m": "mặc dù...nhưng... (nhượng bộ)",
     "cat": "language",
-    "me": "although... yet... (concessive)"
+    "me": "although... yet... (concessive)",
+    "pos": "Động từ"
   }
 ]

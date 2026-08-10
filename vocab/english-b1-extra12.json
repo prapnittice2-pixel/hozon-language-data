@@ -1,0 +1,522 @@
+[
+  {
+    "w": "oxygen",
+    "p": "ˈɑːksɪdʒən",
+    "m": "oxy",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "watercolor",
+    "p": "wˈɔːɾɚkˌʌlɚ",
+    "m": "màu nước (hội họa)",
+    "cat": "nghệ thuật",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "denim",
+    "p": "dˈɛnɪm",
+    "m": "vải jean",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "sodium",
+    "p": "sˈoʊdiəm",
+    "m": "natri, muối",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "stretching",
+    "p": "stɹˈɛtʃɪŋ",
+    "m": "kéo giãn cơ",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "warm-up",
+    "p": "wˈɔːɹmˈʌp",
+    "m": "khởi động",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "steam",
+    "p": "stˈiːm",
+    "m": "hấp",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "Journey",
+    "p": "/ˈdʒɜːrni/",
+    "m": "chuyến đi / Hành trình",
+    "cat": "travel",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Destination",
+    "p": "/ˌdestɪˈneɪʃn/",
+    "m": "điểm đến",
+    "cat": "travel",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Itinerary",
+    "p": "/aɪˈtɪnəreri/",
+    "m": "lịch trình chuyến đi",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Accommodation",
+    "p": "/əˌkɒməˈdeɪʃn/",
+    "m": "chỗ ở / Nơi lưu trú",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Departure",
+    "p": "/dɪˈpɑːrtʃər/",
+    "m": "sự khởi hành / Chuyến bay đi",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Boarding pass",
+    "p": "/ˈbɔːrdɪŋ pæs/",
+    "m": "thẻ lên máy bay",
+    "cat": "collocations",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Customs",
+    "p": "/ˈkʌstəmz/",
+    "m": "hải quan",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Commute",
+    "p": "/kəˈmjuːt/",
+    "m": "di chuyển hàng ngày (thường đi làm)",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Fare",
+    "p": "/feər/",
+    "m": "giá vé (phương tiện công cộng)",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Turbulence",
+    "p": "/ˈtɜːrbjələns/",
+    "m": "nhiễu loạn không khí (trên máy bay)",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Symptom",
+    "p": "/ˈsɪmptəm/",
+    "m": "triệu chứng (bệnh)",
+    "cat": "medicine",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Diagnosis",
+    "p": "/ˌdaɪəɡˈnoʊsɪs/",
+    "m": "chẩn đoán bệnh",
+    "cat": "medicine",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Prescription",
+    "p": "/prɪˈskrɪpʃn/",
+    "m": "đơn thuốc",
+    "cat": "medicine",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Recovery",
+    "p": "/rɪˈkʌvəri/",
+    "m": "sự hồi phục (sức khỏe)",
+    "cat": "medicine",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Nutrition",
+    "p": "/njuːˈtrɪʃn/",
+    "m": "dinh dưỡng",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Immune system",
+    "p": "/ɪˈmjuːn ˈsɪstəm/",
+    "m": "hệ miễn dịch",
+    "cat": "medicine",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Allergic",
+    "p": "/əˈlɜːrdʒɪk/",
+    "m": "dị ứng (tính từ)",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Chronic",
+    "p": "/ˈkrɒnɪk/",
+    "m": "mãn tính / Kéo dài",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Physiotherapy",
+    "p": "/ˌfɪziəʊˈθerəpi/",
+    "m": "vật lý trị liệu",
+    "cat": "science",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Interview",
+    "p": "/ˈɪntərvjuː/",
+    "m": "phỏng vấn",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "Résumé",
+    "p": "/ˈrezəmeɪ/",
+    "m": "sơ yếu lý lịch / CV",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Colleague",
+    "p": "/ˈkɒliːɡ/",
+    "m": "đồng nghiệp",
+    "cat": "work",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Promotion",
+    "p": "/prəˈmoʊʃn/",
+    "m": "sự thăng chức",
+    "cat": "work",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Deadline",
+    "p": "/ˈdedlaɪn/",
+    "m": "hạn chót / Thời hạn",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Salary",
+    "p": "/ˈsæləri/",
+    "m": "mức lương (theo tháng hoặc năm)",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Teamwork",
+    "p": "/ˈtiːmwɜːrk/",
+    "m": "làm việc nhóm",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "Negotiation",
+    "p": "/nɪˌɡoʊʃiˈeɪʃn/",
+    "m": "đàm phán",
+    "cat": "diplomacy",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "Feedback",
+    "p": "/ˈfiːdbæk/",
+    "m": "phản hồi / Nhận xét",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Device",
+    "p": "/dɪˈvaɪs/",
+    "m": "thiết bị (điện tử)",
+    "cat": "technology",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Application",
+    "p": "/ˌæplɪˈkeɪʃn/",
+    "m": "ứng dụng (app)",
+    "cat": "technology",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Bandwidth",
+    "p": "/ˈbændwɪdθ/",
+    "m": "băng thông (internet)",
+    "cat": "technology",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Update",
+    "p": "/ˈʌpdeɪt/",
+    "m": "cập nhật (phần mềm)",
+    "cat": "technology",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Privacy",
+    "p": "/ˈprɪvəsi/",
+    "m": "quyền riêng tư / Sự bảo mật",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Cyberbullying",
+    "p": "/ˈsaɪbərbʊliɪŋ/",
+    "m": "bắt nạt trên mạng",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Wireless",
+    "p": "/ˈwaɪərləs/",
+    "m": "không dây",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Tính từ"
+  },
+  {
+    "w": "Algorithm",
+    "p": "/ˈælɡərɪðəm/",
+    "m": "thuật toán",
+    "cat": "AI",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Streaming",
+    "p": "/ˈstriːmɪŋ/",
+    "m": "phát trực tuyến",
+    "cat": "technology",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Headline",
+    "p": "/ˈhedlaɪn/",
+    "m": "tiêu đề tin tức / Hàng tít lớn",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Reporter",
+    "p": "/rɪˈpɔːrtər/",
+    "m": "phóng viên",
+    "cat": "media",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Editorial",
+    "p": "/ˌedɪˈtɔːriəl/",
+    "m": "bài xã luận / Liên quan đến ban biên tập",
+    "cat": "media",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Broadcast",
+    "p": "/ˈbrɔːdkæst/",
+    "m": "phát sóng / Chương trình phát thanh-truyền hình",
+    "cat": "media",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Eyewitness",
+    "p": "/ˈaɪwɪtnəs/",
+    "m": "nhân chứng trực tiếp",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Bias",
+    "p": "/ˈbaɪəs/",
+    "m": "thành kiến / Sự thiên vị",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Censorship",
+    "p": "/ˈsensərʃɪp/",
+    "m": "kiểm duyệt",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Coverage",
+    "p": "/ˈkʌvərɪdʒ/",
+    "m": "sự đưa tin / Phạm vi phủ sóng",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Controversy",
+    "p": "/ˈkɒntrəvɜːrsi/",
+    "m": "tranh cãi / Sự gây tranh luận",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Opinion",
+    "p": "/əˈpɪnjən/",
+    "m": "ý kiến / Quan điểm",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Argument",
+    "p": "/ˈɑːrɡjumənt/",
+    "m": "lập luận / Tranh luận",
+    "cat": "rhetoric",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Perspective",
+    "p": "/pərˈspektɪv/",
+    "m": "quan điểm / Góc nhìn",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Counterargument",
+    "p": "/ˈkaʊntərɑːrɡjumənt/",
+    "m": "lập luận phản bác",
+    "cat": "rhetoric",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Persuade",
+    "p": "/pərˈsweɪd/",
+    "m": "thuyết phục",
+    "cat": "rhetoric",
+    "me": "",
+    "pos": "Động từ"
+  },
+  {
+    "w": "Concede",
+    "p": "/kənˈsiːd/",
+    "m": "nhượng bộ / Thừa nhận (một phần)",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Controversial",
+    "p": "/ˌkɒntrəˈvɜːrʃl/",
+    "m": "gây tranh cãi (tính từ)",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Compromise",
+    "p": "/ˈkɒmprəmaɪz/",
+    "m": "sự thỏa hiệp / Tìm giải pháp trung gian",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "Impartial",
+    "p": "/ɪmˈpɑːrʃl/",
+    "m": "công bằng / Không thiên vị",
+    "cat": "society",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "pyjamas",
+    "p": "pədʒˈɑːməz",
+    "m": "đồ ngủ",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "favour",
+    "p": "fˈeɪvɚ",
+    "m": "sự giúp đỡ, ưu ái",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  },
+  {
+    "w": "neighbourhood",
+    "p": "nˈeɪbɚhˌʊd",
+    "m": "khu phố, hàng xóm láng giềng",
+    "cat": "advanced_language",
+    "me": "",
+    "pos": "Danh từ"
+  }
+]

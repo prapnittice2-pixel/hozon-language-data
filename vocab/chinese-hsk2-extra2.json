@@ -4,63 +4,72 @@
     "p": "jīnnián",
     "m": "năm nay",
     "cat": "time",
-    "me": "this year"
+    "me": "this year",
+    "pos": "Danh từ"
   },
   {
     "w": "去年",
     "p": "qùnián",
     "m": "năm ngoái",
     "cat": "time",
-    "me": "last year"
+    "me": "last year",
+    "pos": "Danh từ"
   },
   {
     "w": "明年",
     "p": "míngnián",
     "m": "năm sau",
     "cat": "time",
-    "me": "the following year"
+    "me": "the following year",
+    "pos": "Danh từ"
   },
   {
     "w": "上个月",
     "p": "shàng ge yuè",
     "m": "tháng trước",
     "cat": "time",
-    "me": "last month"
+    "me": "last month",
+    "pos": "Danh từ"
   },
   {
     "w": "下个月",
     "p": "xià ge yuè",
     "m": "tháng sau",
     "cat": "time",
-    "me": "next month"
+    "me": "next month",
+    "pos": "Danh từ"
   },
   {
     "w": "上周",
     "p": "shàng zhōu",
     "m": "tuần trước",
     "cat": "time",
-    "me": "last week"
+    "me": "last week",
+    "pos": "Danh từ"
   },
   {
     "w": "下周",
     "p": "xià zhōu",
     "m": "tuần sau",
     "cat": "time",
-    "me": "next week"
+    "me": "next week",
+    "pos": "Danh từ"
   },
   {
     "w": "月初",
     "p": "yuèchū",
     "m": "đầu tháng",
     "cat": "time",
-    "me": "beginning of the month"
+    "me": "beginning of the month",
+    "pos": "Danh từ"
   },
   {
     "w": "月底",
     "p": "yuèdǐ",
     "m": "cuối tháng",
     "cat": "time",
-    "me": "end of the month"
+    "me": "end of the month",
+    "pos": "Danh từ"
   },
   {
     "w": "刚刚",
@@ -69,7 +78,8 @@
     "cat": "time",
     "example": "他刚刚离开。",
     "example_vi": "Anh ấy vừa mới rời đi.",
-    "me": "just now, just finished"
+    "me": "just now, just finished",
+    "pos": "Phó từ"
   },
   {
     "w": "楼上",
@@ -78,7 +88,8 @@
     "cat": "place",
     "example": "我的房间在楼上。",
     "example_vi": "Phòng của tôi ở tầng trên.",
-    "me": "upper floor"
+    "me": "upper floor",
+    "pos": "Danh từ"
   },
   {
     "w": "楼下",
@@ -87,14 +98,16 @@
     "cat": "place",
     "example": "厨房在楼下。",
     "example_vi": "Bếp ở tầng dưới.",
-    "me": "lower floor"
+    "me": "lower floor",
+    "pos": "Danh từ"
   },
   {
     "w": "门口",
     "p": "ménkǒu",
     "m": "cửa ra vào, ngay cổng",
     "cat": "place",
-    "me": "doorway, right at the gate"
+    "me": "doorway, right at the gate",
+    "pos": "Danh từ"
   },
   {
     "w": "那边",
@@ -103,7 +116,8 @@
     "cat": "place",
     "example": "他站在那边。",
     "example_vi": "Anh ấy đứng ở phía đó.",
-    "me": "that side, over there"
+    "me": "that side, over there",
+    "pos": "Danh từ"
   },
   {
     "w": "这边",
@@ -112,7 +126,8 @@
     "cat": "place",
     "example": "请坐这边。",
     "example_vi": "Xin mời ngồi phía này.",
-    "me": "this side"
+    "me": "this side",
+    "pos": "Danh từ"
   },
   {
     "w": "哪边",
@@ -121,14 +136,16 @@
     "cat": "place",
     "example": "你想去哪边？",
     "example_vi": "Bạn muốn đi phía nào?",
-    "me": "which side"
+    "me": "which side",
+    "pos": "Danh từ"
   },
   {
     "w": "不好意思",
     "p": "bù hǎoyìsi",
     "m": "xin lỗi, ngại ngùng, xấu hổ",
     "cat": "greeting",
-    "me": "sorry, embarrassed, ashamed"
+    "me": "sorry, embarrassed, ashamed",
+    "pos": "Tính từ"
   },
   {
     "w": "没问题",
@@ -137,27 +154,31 @@
     "cat": "greeting",
     "example": "没问题，我可以帮你。",
     "example_vi": "Không vấn đề gì, tôi có thể giúp bạn.",
-    "me": "no problem, sure"
+    "me": "no problem, sure",
+    "pos": "Danh từ"
   },
   {
     "w": "上午好",
     "p": "shàngwǔ hǎo",
     "m": "chào buổi sáng",
     "cat": "greeting",
-    "me": "good morning"
+    "me": "good morning",
+    "pos": "Danh từ"
   },
   {
     "w": "下午好",
     "p": "xiàwǔ hǎo",
     "m": "chào buổi chiều",
     "cat": "greeting",
-    "me": "good afternoon"
+    "me": "good afternoon",
+    "pos": "Danh từ"
   },
   {
     "w": "晚上好",
     "p": "wǎnshàng hǎo",
     "m": "chào buổi tối",
     "cat": "greeting",
-    "me": "good evening"
+    "me": "good evening",
+    "pos": "Danh từ"
   }
 ]

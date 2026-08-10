@@ -5,7 +5,9 @@
     "m": "nghiên cứu định tính",
     "example": "这项研究采用质化研究方法。",
     "example_vi": "Nghiên cứu này áp dụng phương pháp nghiên cứu định tính.",
-    "me": "qualitative research"
+    "me": "qualitative research",
+    "pos": "Danh từ",
+    "cat": "học thuật"
   },
   {
     "w": "公共物品",
@@ -13,7 +15,9 @@
     "m": "hàng hóa công cộng",
     "example": "道路属于公共物品。",
     "example_vi": "Đường xá thuộc về hàng hóa công cộng.",
-    "me": "public good"
+    "me": "public good",
+    "pos": "Danh từ",
+    "cat": "economics"
   },
   {
     "w": "意志力",
@@ -21,7 +25,9 @@
     "m": "ý chí, nghị lực",
     "example": "完成这个目标需要很强的意志力。",
     "example_vi": "Hoàn thành mục tiêu này cần ý chí rất mạnh mẽ.",
-    "me": "willpower"
+    "me": "willpower",
+    "pos": "Danh từ",
+    "cat": "psychology"
   },
   {
     "w": "公共产品",
@@ -29,7 +35,9 @@
     "m": "hàng hóa công cộng",
     "example": "路灯是一种公共产品。",
     "example_vi": "Đèn đường là một loại hàng hóa công cộng.",
-    "me": "public good"
+    "me": "public good",
+    "pos": "Danh từ",
+    "cat": "economics"
   },
   {
     "w": "公共利益",
@@ -37,7 +45,9 @@
     "m": "lợi ích công cộng",
     "example": "政策要考虑公共利益。",
     "example_vi": "Chính sách phải xem xét lợi ích công cộng.",
-    "me": "public interest"
+    "me": "public interest",
+    "pos": "Danh từ",
+    "cat": "society"
   },
   {
     "w": "污名化",
@@ -45,7 +55,9 @@
     "m": "kỳ thị, gắn nhãn xấu",
     "example": "这个污名化。",
     "example_vi": "kỳ thị, gắn nhãn xấu.",
-    "me": "stigmatize"
+    "me": "stigmatize",
+    "pos": "Động từ",
+    "cat": "hành động"
   },
   {
     "w": "通胀",
@@ -53,7 +65,9 @@
     "m": "lạm phát",
     "example": "今年通胀率有所上升。",
     "example_vi": "Tỷ lệ lạm phát năm nay đã tăng lên phần nào.",
-    "me": "inflation"
+    "me": "inflation",
+    "pos": "Danh từ",
+    "cat": "kinh doanh"
   },
   {
     "w": "通缩",
@@ -61,7 +75,9 @@
     "m": "giảm phát",
     "example": "这个国家出现了通缩现象。",
     "example_vi": "Quốc gia này đã xuất hiện hiện tượng giảm phát.",
-    "me": "deflation"
+    "me": "deflation",
+    "pos": "Động từ",
+    "cat": "economics"
   },
   {
     "w": "急救",
@@ -69,7 +85,9 @@
     "m": "cấp cứu",
     "example": "他学习了急救知识。",
     "example_vi": "Anh ấy đã học kiến thức cấp cứu.",
-    "me": "emergency care"
+    "me": "emergency care",
+    "pos": "Danh từ",
+    "cat": "noun"
   },
   {
     "w": "生物识别",
@@ -77,7 +95,9 @@
     "m": "sinh trắc học",
     "example": "我在学习生物识别。",
     "example_vi": "Tôi đang học sinh trắc học.",
-    "me": "biometric"
+    "me": "biometric",
+    "pos": "Danh từ",
+    "cat": "công nghệ"
   },
   {
     "w": "生物技术",
@@ -85,7 +105,9 @@
     "m": "công nghệ sinh học",
     "example": "我在学习生物技术。",
     "example_vi": "Tôi đang học công nghệ sinh học.",
-    "me": "biotechnology"
+    "me": "biotechnology",
+    "pos": "Danh từ",
+    "cat": "công nghệ"
   },
   {
     "w": "教科书",
@@ -93,7 +115,9 @@
     "m": "sách giáo khoa",
     "example": "我在学习教科书。",
     "example_vi": "Tôi đang học sách giáo khoa.",
-    "me": "textbook"
+    "me": "textbook",
+    "pos": "Danh từ",
+    "cat": "school"
   },
   {
     "w": "荒漠化",
@@ -101,7 +125,9 @@
     "m": "sa mạc hóa",
     "example": "这个地区面临荒漠化问题。",
     "example_vi": "Khu vực này đối mặt với vấn đề sa mạc hóa.",
-    "me": "desertification"
+    "me": "desertification",
+    "pos": "Danh từ",
+    "cat": "thiên nhiên"
   },
   {
     "w": "自然灾害",
@@ -109,7 +135,9 @@
     "m": "thiên tai",
     "example": "这个地区经常发生自然灾害。",
     "example_vi": "Khu vực này thường xuyên xảy ra thiên tai.",
-    "me": "natural disaster"
+    "me": "natural disaster",
+    "pos": "Danh từ",
+    "cat": "environment"
   },
   {
     "w": "营收",
@@ -117,7 +145,9 @@
     "m": "doanh thu",
     "example": "公司今年营收增长了。",
     "example_vi": "Doanh thu của công ty năm nay đã tăng lên.",
-    "me": "revenue"
+    "me": "revenue",
+    "pos": "Danh từ",
+    "cat": "kinh doanh"
   },
   {
     "w": "电子商务",
@@ -125,7 +155,9 @@
     "m": "thương mại điện tử",
     "example": "他从事电子商务行业。",
     "example_vi": "Anh ấy làm việc trong ngành thương mại điện tử.",
-    "me": "e-commerce"
+    "me": "e-commerce",
+    "pos": "Động từ",
+    "cat": "kinh doanh"
   },
   {
     "w": "社会阶层",
@@ -133,7 +165,9 @@
     "m": "tầng lớp xã hội",
     "example": "这本书分析了社会阶层。",
     "example_vi": "Cuốn sách này đã phân tích tầng lớp xã hội.",
-    "me": "social stratification"
+    "me": "social stratification",
+    "pos": "Danh từ",
+    "cat": "society"
   },
   {
     "w": "社会公正",
@@ -141,7 +175,9 @@
     "m": "công bằng xã hội",
     "example": "我们要维护社会公正。",
     "example_vi": "Chúng ta phải duy trì công bằng xã hội.",
-    "me": "social justice"
+    "me": "social justice",
+    "pos": "Danh từ",
+    "cat": "society"
   },
   {
     "w": "自尊",
@@ -149,7 +185,9 @@
     "m": "lòng tự trọng",
     "example": "每个人都需要自尊。",
     "example_vi": "Mỗi người đều cần lòng tự trọng.",
-    "me": "self-esteem"
+    "me": "self-esteem",
+    "pos": "Danh từ",
+    "cat": "psychology"
   },
   {
     "w": "初创公司",
@@ -157,7 +195,9 @@
     "m": "công ty khởi nghiệp",
     "example": "他加入了一家初创公司。",
     "example_vi": "Anh ấy đã gia nhập một công ty khởi nghiệp.",
-    "me": "startup"
+    "me": "startup",
+    "pos": "Danh từ",
+    "cat": "kinh doanh"
   },
   {
     "w": "远程办公",
@@ -165,7 +205,9 @@
     "m": "làm việc từ xa",
     "example": "公司允许员工远程办公。",
     "example_vi": "Công ty cho phép nhân viên làm việc từ xa.",
-    "me": "remote work"
+    "me": "remote work",
+    "pos": "Động từ",
+    "cat": "công việc"
   },
   {
     "w": "太极拳",
@@ -173,7 +215,9 @@
     "m": "thái cực quyền",
     "example": "爷爷每天早上打太极拳。",
     "example_vi": "Ông nội mỗi sáng đều luyện thái cực quyền.",
-    "me": "tai chi"
+    "me": "tai chi",
+    "pos": "Động từ",
+    "cat": "culture"
   },
   {
     "w": "反恐",
@@ -181,7 +225,9 @@
     "m": "chống khủng bố",
     "example": "各国加强了反恐合作。",
     "example_vi": "Các nước đã tăng cường hợp tác chống khủng bố.",
-    "me": "counter-terrorism"
+    "me": "counter-terrorism",
+    "pos": "Danh từ",
+    "cat": "vocabulary_extra"
   },
   {
     "w": "教练员",
@@ -189,7 +235,9 @@
     "m": "huấn luyện viên",
     "example": "他是国家队的教练员。",
     "example_vi": "Anh ấy là huấn luyện viên của đội tuyển quốc gia.",
-    "me": "coach"
+    "me": "coach",
+    "pos": "Danh từ",
+    "cat": "thể thao"
   },
   {
     "w": "裁判员",
@@ -197,7 +245,9 @@
     "m": "trọng tài",
     "example": "裁判员宣布了比赛结果。",
     "example_vi": "Trọng tài đã công bố kết quả trận đấu.",
-    "me": "referee"
+    "me": "referee",
+    "pos": "Danh từ",
+    "cat": "thể thao"
   },
   {
     "w": "焦灼不安",
@@ -205,7 +255,9 @@
     "m": "lo lắng bồn chồn",
     "example": "焦灼不安是一个重要的专业概念。",
     "example_vi": "lo lắng bồn chồn là khái niệm quan trọng.",
-    "me": "anxious, restless"
+    "me": "anxious, restless",
+    "pos": "Động từ",
+    "cat": "psychology"
   },
   {
     "w": "论文答辩",
@@ -213,7 +265,9 @@
     "m": "bảo vệ luận văn",
     "example": "他下周要参加硕士论文答辩。",
     "example_vi": "Tuần sau anh ấy phải tham gia bảo vệ luận văn thạc sĩ.",
-    "me": "defend a thesis"
+    "me": "defend a thesis",
+    "pos": "Danh từ",
+    "cat": "academic"
   },
   {
     "w": "职务晋升",
@@ -221,7 +275,9 @@
     "m": "thăng chức",
     "example": "他凭借出色表现获得职务晋升。",
     "example_vi": "Anh ấy được thăng chức nhờ thành tích xuất sắc.",
-    "me": "promotion"
+    "me": "promotion",
+    "pos": "Danh từ",
+    "cat": "work"
   },
   {
     "w": "立法机关",
@@ -229,7 +285,9 @@
     "m": "cơ quan lập pháp",
     "example": "这项法案已提交立法机关审议。",
     "example_vi": "Dự luật này đã được trình lên cơ quan lập pháp xem xét.",
-    "me": "legislature"
+    "me": "legislature",
+    "pos": "Danh từ",
+    "cat": "politics"
   },
   {
     "w": "忧心忡忡",
@@ -237,7 +295,9 @@
     "m": "lo lắng bồn chồn",
     "example": "面对考试成绩，她忧心忡忡。",
     "example_vi": "Đối diện với kết quả thi, cô ấy lo lắng bồn chồn.",
-    "me": "anxious, restless"
+    "me": "anxious, restless",
+    "pos": "Động từ",
+    "cat": "psychology"
   },
   {
     "w": "退休金",
@@ -245,7 +305,9 @@
     "m": "lương hưu",
     "example": "他每月领取固定退休金。",
     "example_vi": "Mỗi tháng ông nhận lương hưu cố định.",
-    "me": "pension"
+    "me": "pension",
+    "pos": "Danh từ",
+    "cat": "tiền bạc"
   },
   {
     "w": "企业管理",
@@ -253,7 +315,9 @@
     "m": "quản trị doanh nghiệp",
     "example": "他在大学主修企业管理专业。",
     "example_vi": "Anh ấy học chuyên ngành quản trị doanh nghiệp tại đại học.",
-    "me": "corporate governance"
+    "me": "corporate governance",
+    "pos": "Danh từ",
+    "cat": "kinh doanh"
   },
   {
     "w": "心灰意冷",
@@ -261,6 +325,8 @@
     "m": "chán nản thất vọng",
     "example": "接连失败让他一度心灰意冷。",
     "example_vi": "Thất bại liên tiếp từng khiến anh ấy chán nản thất vọng.",
-    "me": "discouraged and disappointed"
+    "me": "discouraged and disappointed",
+    "pos": "Danh từ",
+    "cat": "cảm xúc"
   }
 ]

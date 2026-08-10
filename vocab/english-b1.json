@@ -3,6006 +3,7007 @@
     "w": "accommodation",
     "m": "chỗ ở, nơi lưu trú",
     "cat": "travel",
-    "p": "ɐkˌɑːmədˈeɪʃən"
+    "p": "ɐkˌɑːmədˈeɪʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "reservation",
     "m": "đặt chỗ trước",
     "cat": "travel",
-    "p": "ɹˌɛzɚvˈeɪʃən"
+    "p": "ɹˌɛzɚvˈeɪʃən",
+    "pos": "Động từ"
   },
   {
     "w": "destination",
     "m": "điểm đến",
     "cat": "travel",
-    "p": "dˌɛstɪnˈeɪʃən"
+    "p": "dˌɛstɪnˈeɪʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "itinerary",
     "m": "lịch trình du lịch",
     "cat": "travel",
-    "p": "aɪtˈɪnɚɹˌɛɹi"
+    "p": "aɪtˈɪnɚɹˌɛɹi",
+    "pos": "Danh từ"
   },
   {
     "w": "sightseeing",
     "m": "tham quan",
     "cat": "travel",
-    "p": "sˈaɪtsiːɪŋ"
+    "p": "sˈaɪtsiːɪŋ",
+    "pos": "Động từ"
   },
   {
     "w": "landmark",
     "m": "địa danh nổi tiếng",
     "cat": "travel",
-    "p": "lˈændmɑːɹk"
+    "p": "lˈændmɑːɹk",
+    "pos": "Danh từ"
   },
   {
     "w": "excursion",
     "m": "chuyến tham quan ngắn",
     "cat": "travel",
-    "p": "ɛkskˈɜːʃən"
+    "p": "ɛkskˈɜːʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "customs",
     "m": "hải quan",
     "cat": "travel",
-    "p": "kˈʌstəmz"
+    "p": "kˈʌstəmz",
+    "pos": "Danh từ"
   },
   {
     "w": "immigration",
     "m": "xuất nhập cảnh, nhập cư",
     "cat": "travel",
-    "p": "ˌɪmɪɡɹˈeɪʃən"
+    "p": "ˌɪmɪɡɹˈeɪʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "currency",
     "m": "tiền tệ",
     "cat": "travel",
-    "p": "kˈɜːɹənsi"
+    "p": "kˈɜːɹənsi",
+    "pos": "Danh từ"
   },
   {
     "w": "exchange rate",
     "m": "tỷ giá hối đoái",
     "cat": "travel",
-    "p": "ɛkstʃˈeɪndʒ ɹˈeɪt"
+    "p": "ɛkstʃˈeɪndʒ ɹˈeɪt",
+    "pos": "Danh từ"
   },
   {
     "w": "backpack",
     "m": "ba lô",
     "cat": "travel",
-    "p": "bˈækpæk"
+    "p": "bˈækpæk",
+    "pos": "Danh từ"
   },
   {
     "w": "delay",
     "m": "sự chậm trễ",
     "cat": "travel",
-    "p": "dᵻlˈeɪ"
+    "p": "dᵻlˈeɪ",
+    "pos": "Danh từ"
   },
   {
     "w": "cancellation",
     "m": "hủy bỏ",
     "cat": "travel",
-    "p": "kˌænsɪlˈeɪʃən"
+    "p": "kˌænsɪlˈeɪʃən",
+    "pos": "Động từ"
   },
   {
     "w": "refund",
     "m": "hoàn tiền",
     "cat": "travel",
-    "p": "ɹᵻfˈʌnd"
+    "p": "ɹᵻfˈʌnd",
+    "pos": "Danh từ"
   },
   {
     "w": "insurance",
     "m": "bảo hiểm",
     "cat": "travel",
-    "p": "ɪnʃˈʊɹɹəns"
+    "p": "ɪnʃˈʊɹɹəns",
+    "pos": "Danh từ"
   },
   {
     "w": "cruise",
     "m": "du thuyền",
     "cat": "travel",
-    "p": "kɹˈuːz"
+    "p": "kɹˈuːz",
+    "pos": "Danh từ"
   },
   {
     "w": "adventure",
     "m": "cuộc phiêu lưu",
     "cat": "travel",
-    "p": "ɐdvˈɛntʃɚ"
+    "p": "ɐdvˈɛntʃɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "explore",
     "m": "khám phá",
     "cat": "travel",
-    "p": "ɛksplˈɔːɹ"
+    "p": "ɛksplˈɔːɹ",
+    "pos": "Động từ"
   },
   {
     "w": "recommend",
     "m": "giới thiệu, gợi ý, đề xuất, khuyến nghị, giới thiệu/khuyến nghị",
     "cat": "travel",
-    "p": "ɹˌɛkəmˈɛnd"
+    "p": "ɹˌɛkəmˈɛnd",
+    "pos": "Động từ"
   },
   {
     "w": "route",
     "m": "tuyến đường",
     "cat": "travel",
-    "p": "ɹˈaʊt"
+    "p": "ɹˈaʊt",
+    "pos": "Danh từ"
   },
   {
     "w": "navigate",
     "m": "điều hướng, dẫn đường, xử lý, định hướng, tìm đường",
     "cat": "travel",
-    "p": "nˈævɪɡˌeɪt"
+    "p": "nˈævɪɡˌeɪt",
+    "pos": "Động từ"
   },
   {
     "w": "souvenir",
     "m": "quà lưu niệm",
     "cat": "travel",
-    "p": "sˌuːvənˈɪɹ"
+    "p": "sˌuːvənˈɪɹ",
+    "pos": "Danh từ"
   },
   {
     "w": "local",
     "m": "địa phương",
     "cat": "travel",
-    "p": "lˈoʊkəl"
+    "p": "lˈoʊkəl",
+    "pos": "Tính từ"
   },
   {
     "w": "abroad",
     "m": "ở nước ngoài",
     "cat": "travel",
-    "p": "ɐbɹˈɔːd"
+    "p": "ɐbɹˈɔːd",
+    "pos": "Danh từ"
   },
   {
     "w": "overseas",
     "m": "hải ngoại",
     "cat": "travel",
-    "p": "ˌoʊvɚsˈiːz"
+    "p": "ˌoʊvɚsˈiːz",
+    "pos": "Danh từ"
   },
   {
     "w": "foreign",
     "m": "nước ngoài, ngoại quốc",
     "cat": "travel",
-    "p": "fˈɔːɹən"
+    "p": "fˈɔːɹən",
+    "pos": "Danh từ"
   },
   {
     "w": "border",
     "m": "biên giới",
     "cat": "travel",
-    "p": "bˈɔːɹdɚ"
+    "p": "bˈɔːɹdɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "coast",
     "m": "bờ biển",
     "cat": "travel",
-    "p": "kˈoʊst"
+    "p": "kˈoʊst",
+    "pos": "Danh từ"
   },
   {
     "w": "peninsula",
     "m": "bán đảo",
     "cat": "travel",
-    "p": "pənˈɪnsjʊlə"
+    "p": "pənˈɪnsjʊlə",
+    "pos": "Động từ"
   },
   {
     "w": "island",
     "m": "hòn đảo",
     "cat": "travel",
-    "p": "ˈaɪlənd"
+    "p": "ˈaɪlənd",
+    "pos": "Danh từ"
   },
   {
     "w": "mountain range",
     "m": "dãy núi",
     "cat": "travel",
-    "p": "mˈaʊntɪn ɹˈeɪndʒ"
+    "p": "mˈaʊntɪn ɹˈeɪndʒ",
+    "pos": "Danh từ"
   },
   {
     "w": "valley",
     "m": "thung lũng",
     "cat": "travel",
-    "p": "vˈæli"
+    "p": "vˈæli",
+    "pos": "Danh từ"
   },
   {
     "w": "waterfall",
     "m": "thác nước",
     "cat": "travel",
-    "p": "wˈɔːɾɚfˌɔːl"
+    "p": "wˈɔːɾɚfˌɔːl",
+    "pos": "Danh từ"
   },
   {
     "w": "jungle",
     "m": "rừng rậm",
     "cat": "travel",
-    "p": "dʒˈʌŋɡəl"
+    "p": "dʒˈʌŋɡəl",
+    "pos": "Danh từ"
   },
   {
     "w": "desert",
     "m": "sa mạc",
     "cat": "travel",
-    "p": "dˈɛzɚt"
+    "p": "dˈɛzɚt",
+    "pos": "Danh từ"
   },
   {
     "w": "passport",
     "m": "hộ chiếu",
     "cat": "travel",
-    "p": "pˈæspɔːɹt"
+    "p": "pˈæspɔːɹt",
+    "pos": "Danh từ"
   },
   {
     "w": "visa",
     "m": "thị thực, visa",
     "cat": "travel",
-    "p": "vˈiːzə"
+    "p": "vˈiːzə",
+    "pos": "Danh từ"
   },
   {
     "w": "luggage",
     "m": "hành lý",
     "cat": "travel",
-    "p": "lˈʌɡɪdʒ"
+    "p": "lˈʌɡɪdʒ",
+    "pos": "Danh từ"
   },
   {
     "w": "check in",
     "m": "làm thủ tục nhận phòng",
     "cat": "travel",
-    "p": "tʃˈɛk ˈɪn"
+    "p": "tʃˈɛk ˈɪn",
+    "pos": "Động từ"
   },
   {
     "w": "check out",
     "m": "làm thủ tục trả phòng",
     "cat": "travel",
-    "p": "tʃˈɛk ˈaʊt"
+    "p": "tʃˈɛk ˈaʊt",
+    "pos": "Động từ"
   },
   {
     "w": "hostel",
     "m": "nhà trọ giá rẻ",
     "cat": "travel",
-    "p": "hˈɑːstəl"
+    "p": "hˈɑːstəl",
+    "pos": "Danh từ"
   },
   {
     "w": "resort",
     "m": "khu nghỉ dưỡng",
     "cat": "travel",
-    "p": "ɹᵻzˈɔːɹt"
+    "p": "ɹᵻzˈɔːɹt",
+    "pos": "Danh từ"
   },
   {
     "w": "guide",
     "m": "hướng dẫn viên",
     "cat": "travel",
-    "p": "ɡˈaɪd"
+    "p": "ɡˈaɪd",
+    "pos": "Động từ"
   },
   {
     "w": "tour",
     "m": "chuyến du lịch",
     "cat": "travel",
-    "p": "tˈʊɹ"
+    "p": "tˈʊɹ",
+    "pos": "Danh từ"
   },
   {
     "w": "package tour",
     "m": "tour trọn gói",
     "cat": "travel",
-    "p": "pˈækɪdʒ tˈʊɹ"
+    "p": "pˈækɪdʒ tˈʊɹ",
+    "pos": "Danh từ"
   },
   {
     "w": "backpacker",
     "m": "du khách ba lô",
     "cat": "travel",
-    "p": "bˈækpækɚ"
+    "p": "bˈækpækɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "jet lag",
     "m": "trễ múi giờ",
     "cat": "travel",
-    "p": "dʒˈɛt lˈæɡ"
+    "p": "dʒˈɛt lˈæɡ",
+    "pos": "Danh từ"
   },
   {
     "w": "culture shock",
     "m": "sốc văn hóa",
     "cat": "travel",
-    "p": "kˈʌltʃɚ ʃˈɑːk"
+    "p": "kˈʌltʃɚ ʃˈɑːk",
+    "pos": "Danh từ"
   },
   {
     "w": "budget",
     "m": "ngân sách",
     "cat": "travel",
-    "p": "bˈʌdʒɪt"
+    "p": "bˈʌdʒɪt",
+    "pos": "Danh từ"
   },
   {
     "w": "interview",
     "m": "phỏng vấn",
     "cat": "work",
-    "p": "ˈɪntɚvjˌuː"
+    "p": "ˈɪntɚvjˌuː",
+    "pos": "Động từ"
   },
   {
     "w": "resume",
     "m": "CV, sơ yếu lý lịch, hồ sơ xin việc",
     "cat": "work",
-    "p": "ɹᵻzˈuːm"
+    "p": "ɹᵻzˈuːm",
+    "pos": "Danh từ"
   },
   {
     "w": "employer",
     "m": "người sử dụng lao động",
     "cat": "work",
-    "p": "ɛmplˈɔɪɚ"
+    "p": "ɛmplˈɔɪɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "salary",
     "m": "lương tháng",
     "cat": "work",
-    "p": "sˈælɚɹi"
+    "p": "sˈælɚɹi",
+    "pos": "Danh từ"
   },
   {
     "w": "overtime",
     "m": "làm thêm giờ",
     "cat": "work",
-    "p": "ˈoʊvɚtˌaɪm"
+    "p": "ˈoʊvɚtˌaɪm",
+    "pos": "Động từ"
   },
   {
     "w": "promotion",
     "m": "thăng chức, khuyến mãi",
     "cat": "work",
-    "p": "pɹəmˈoʊʃən"
+    "p": "pɹəmˈoʊʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "qualification",
     "m": "bằng cấp, năng lực, trình độ, điều kiện, chứng chỉ",
     "cat": "work",
-    "p": "kwˌɔlɪfɪkˈeɪʃən"
+    "p": "kwˌɔlɪfɪkˈeɪʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "reference",
     "m": "người giới thiệu, tài liệu tham khảo, tham chiếu",
     "cat": "work",
-    "p": "ɹˈɛfɹəns"
+    "p": "ɹˈɛfɹəns",
+    "pos": "Danh từ"
   },
   {
     "w": "contract",
     "m": "hợp đồng",
     "cat": "work",
-    "p": "kˈɑːntɹækt"
+    "p": "kˈɑːntɹækt",
+    "pos": "Danh từ"
   },
   {
     "w": "part-time",
     "m": "bán thời gian",
     "cat": "work",
-    "p": "pˈɑːɹttˈaɪm"
+    "p": "pˈɑːɹttˈaɪm",
+    "pos": "Động từ"
   },
   {
     "w": "full-time",
     "m": "toàn thời gian",
     "cat": "work",
-    "p": "fˈʊltˈaɪm"
+    "p": "fˈʊltˈaɪm",
+    "pos": "Danh từ"
   },
   {
     "w": "freelance",
     "m": "làm tự do",
     "cat": "work",
-    "p": "fɹˈiːlæns"
+    "p": "fɹˈiːlæns",
+    "pos": "Động từ"
   },
   {
     "w": "remote",
     "m": "làm việc từ xa",
     "cat": "work",
-    "p": "ɹᵻmˈoʊt"
+    "p": "ɹᵻmˈoʊt",
+    "pos": "Động từ"
   },
   {
     "w": "department",
     "m": "phòng ban",
     "cat": "work",
-    "p": "dᵻpˈɑːɹtmənt"
+    "p": "dᵻpˈɑːɹtmənt",
+    "pos": "Danh từ"
   },
   {
     "w": "supervisor",
     "m": "người giám sát, quản lý",
     "cat": "work",
-    "p": "sˈuːpɚvˌaɪzɚ"
+    "p": "sˈuːpɚvˌaɪzɚ",
+    "pos": "Động từ"
   },
   {
     "w": "client",
     "m": "khách hàng",
     "cat": "work",
-    "p": "klˈaɪənt"
+    "p": "klˈaɪənt",
+    "pos": "Danh từ"
   },
   {
     "w": "presentation",
     "m": "bài thuyết trình",
     "cat": "work",
-    "p": "pɹˌɛzəntˈeɪʃən"
+    "p": "pɹˌɛzəntˈeɪʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "feedback",
     "m": "phản hồi",
     "cat": "work",
-    "p": "fˈiːdbæk"
+    "p": "fˈiːdbæk",
+    "pos": "Động từ"
   },
   {
     "w": "appraisal",
     "m": "đánh giá công việc",
     "cat": "work",
-    "p": "ɐpɹˈeɪzəl"
+    "p": "ɐpɹˈeɪzəl",
+    "pos": "Động từ"
   },
   {
     "w": "performance",
     "m": "buổi biểu diễn, hiệu suất",
     "cat": "work",
-    "p": "pɚfˈɔːɹməns"
+    "p": "pɚfˈɔːɹməns",
+    "pos": "Danh từ"
   },
   {
     "w": "target",
     "m": "mục tiêu",
     "cat": "work",
-    "p": "tˈɑːɹɡɪt"
+    "p": "tˈɑːɹɡɪt",
+    "pos": "Danh từ"
   },
   {
     "w": "achieve",
     "m": "đạt được, hoàn thành",
     "cat": "work",
-    "p": "ɐtʃˈiːv"
+    "p": "ɐtʃˈiːv",
+    "pos": "Động từ"
   },
   {
     "w": "resign",
     "m": "từ chức",
     "cat": "work",
-    "p": "ɹɪzˈaɪn"
+    "p": "ɹɪzˈaɪn",
+    "pos": "Động từ"
   },
   {
     "w": "dismiss",
     "m": "sa thải",
     "cat": "work",
-    "p": "dɪsmˈɪs"
+    "p": "dɪsmˈɪs",
+    "pos": "Động từ"
   },
   {
     "w": "hire",
     "m": "thuê người; thuê đồ, tuyển dụng",
     "cat": "work",
-    "p": "hˈaɪɚ"
+    "p": "hˈaɪɚ",
+    "pos": "Động từ"
   },
   {
     "w": "retire",
     "m": "về hưu",
     "cat": "work",
-    "p": "ɹᵻtˈaɪɚ"
+    "p": "ɹᵻtˈaɪɚ",
+    "pos": "Động từ"
   },
   {
     "w": "pension",
     "m": "lương hưu",
     "cat": "work",
-    "p": "pˈɛnʃən"
+    "p": "pˈɛnʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "allowance",
     "m": "phụ cấp",
     "cat": "work",
-    "p": "ɐlˈaʊəns"
+    "p": "ɐlˈaʊəns",
+    "pos": "Danh từ"
   },
   {
     "w": "bonus",
     "m": "tiền thưởng",
     "cat": "work",
-    "p": "bˈoʊnəs"
+    "p": "bˈoʊnəs",
+    "pos": "Danh từ"
   },
   {
     "w": "negotiate",
     "m": "đàm phán",
     "cat": "work",
-    "p": "nᵻɡˈoʊʃɪˌeɪt"
+    "p": "nᵻɡˈoʊʃɪˌeɪt",
+    "pos": "Động từ"
   },
   {
     "w": "training",
     "m": "đào tạo, huấn luyện",
     "cat": "work",
-    "p": "tɹˈeɪnɪŋ"
+    "p": "tɹˈeɪnɪŋ",
+    "pos": "Danh từ"
   },
   {
     "w": "develop",
     "m": "phát triển kỹ năng",
     "cat": "work",
-    "p": "dɪvˈɛləp"
+    "p": "dɪvˈɛləp",
+    "pos": "Động từ"
   },
   {
     "w": "teamwork",
     "m": "làm việc nhóm",
     "cat": "work",
-    "p": "tˈiːmwɜːk"
+    "p": "tˈiːmwɜːk",
+    "pos": "Động từ"
   },
   {
     "w": "colleague",
     "m": "đồng nghiệp",
     "cat": "work",
-    "p": "kˈɑːliːɡ"
+    "p": "kˈɑːliːɡ",
+    "pos": "Danh từ"
   },
   {
     "w": "leadership",
     "m": "khả năng lãnh đạo",
     "cat": "work",
-    "p": "lˈiːdɚʃˌɪp"
+    "p": "lˈiːdɚʃˌɪp",
+    "pos": "Danh từ"
   },
   {
     "w": "responsibility",
     "m": "trách nhiệm",
     "cat": "work",
-    "p": "ɹᵻspˌɑːnsəbˈɪlᵻɾi"
+    "p": "ɹᵻspˌɑːnsəbˈɪlᵻɾi",
+    "pos": "Danh từ"
   },
   {
     "w": "career",
     "m": "sự nghiệp",
     "cat": "work",
-    "p": "kɚɹˈɪɹ"
+    "p": "kɚɹˈɪɹ",
+    "pos": "Danh từ"
   },
   {
     "w": "profession",
     "m": "nghề nghiệp",
     "cat": "work",
-    "p": "pɹəfˈɛʃən"
+    "p": "pɹəfˈɛʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "industry",
     "m": "ngành công nghiệp",
     "cat": "work",
-    "p": "ˈɪndʌstɹi"
+    "p": "ˈɪndʌstɹi",
+    "pos": "Danh từ"
   },
   {
     "w": "company",
     "m": "công ty",
     "cat": "work",
-    "p": "kˈʌmpəni"
+    "p": "kˈʌmpəni",
+    "pos": "Danh từ"
   },
   {
     "w": "organization",
     "m": "tổ chức",
     "cat": "work",
-    "p": "ˌɔːɹɡɐnᵻzˈeɪʃən"
+    "p": "ˌɔːɹɡɐnᵻzˈeɪʃən",
+    "pos": "Động từ"
   },
   {
     "w": "management",
     "m": "quản lý",
     "cat": "work",
-    "p": "mˈænɪdʒmənt"
+    "p": "mˈænɪdʒmənt",
+    "pos": "Động từ"
   },
   {
     "w": "strategy",
     "m": "chiến lược",
     "cat": "work",
-    "p": "stɹˈæɾədʒi"
+    "p": "stɹˈæɾədʒi",
+    "pos": "Danh từ"
   },
   {
     "w": "competition",
     "m": "cuộc thi, cạnh tranh, cuộc đua",
     "cat": "work",
-    "p": "kˌɑːmpətˈɪʃən"
+    "p": "kˌɑːmpətˈɪʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "profit",
     "m": "lợi nhuận",
     "cat": "work",
-    "p": "pɹˈɑːfɪt"
+    "p": "pɹˈɑːfɪt",
+    "pos": "Danh từ"
   },
   {
     "w": "invest",
     "m": "đầu tư",
     "cat": "work",
-    "p": "ɪnvˈɛst"
+    "p": "ɪnvˈɛst",
+    "pos": "Động từ"
   },
   {
     "w": "fitness",
     "m": "thể lực, sức khỏe thể chất, sự cân đối, sự khỏe khoắn",
     "cat": "health",
-    "p": "fˈɪtnəs"
+    "p": "fˈɪtnəs",
+    "pos": "Danh từ"
   },
   {
     "w": "nutrition",
     "m": "dinh dưỡng",
     "cat": "health",
-    "p": "njuːtɹˈɪʃən"
+    "p": "njuːtɹˈɪʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "lifestyle",
     "m": "lối sống",
     "cat": "health",
-    "p": "lˈaɪfstaɪl"
+    "p": "lˈaɪfstaɪl",
+    "pos": "Danh từ"
   },
   {
     "w": "routine",
     "m": "thói quen, lịch sinh hoạt",
     "cat": "health",
-    "p": "ɹuːtˈiːn"
+    "p": "ɹuːtˈiːn",
+    "pos": "Danh từ"
   },
   {
     "w": "stress",
     "m": "căng thẳng",
     "cat": "health",
-    "p": "stɹˈɛs"
+    "p": "stɹˈɛs",
+    "pos": "Danh từ"
   },
   {
     "w": "meditation",
     "m": "thiền định",
     "cat": "health",
-    "p": "mˌɛdɪtˈeɪʃən"
+    "p": "mˌɛdɪtˈeɪʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "yoga",
     "m": "yoga",
     "cat": "health",
-    "p": "jˈoʊɡə"
+    "p": "jˈoʊɡə",
+    "pos": "Danh từ"
   },
   {
     "w": "therapy",
     "m": "liệu pháp, trị liệu",
     "cat": "health",
-    "p": "θˈɛɹəpi"
+    "p": "θˈɛɹəpi",
+    "pos": "Danh từ"
   },
   {
     "w": "mental health",
     "m": "sức khỏe tâm thần",
     "cat": "health",
-    "p": "mˈɛntəl hˈɛlθ"
+    "p": "mˈɛntəl hˈɛlθ",
+    "pos": "Danh từ"
   },
   {
     "w": "depression",
     "m": "trầm cảm, đại suy thoái",
     "cat": "health",
-    "p": "dᵻpɹˈɛʃən"
+    "p": "dᵻpɹˈɛʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "anxiety",
     "m": "lo âu",
     "cat": "health",
-    "p": "æŋzˈaɪəɾi"
+    "p": "æŋzˈaɪəɾi",
+    "pos": "Tính từ"
   },
   {
     "w": "wellbeing",
     "m": "sức khỏe tổng thể, sự khỏe mạnh hạnh phúc",
     "cat": "health",
-    "p": "wˈɛlbiːɪŋ"
+    "p": "wˈɛlbiːɪŋ",
+    "pos": "Danh từ"
   },
   {
     "w": "immune",
     "m": "miễn dịch",
     "cat": "health",
-    "p": "ɪmjˈuːn"
+    "p": "ɪmjˈuːn",
+    "pos": "Danh từ"
   },
   {
     "w": "symptom",
     "m": "triệu chứng",
     "cat": "health",
-    "p": "sˈɪmptəm"
+    "p": "sˈɪmptəm",
+    "pos": "Danh từ"
   },
   {
     "w": "diagnosis",
     "m": "chẩn đoán",
     "cat": "health",
-    "p": "dˌaɪəɡnˈoʊsɪs"
+    "p": "dˌaɪəɡnˈoʊsɪs",
+    "pos": "Động từ"
   },
   {
     "w": "treatment",
     "m": "điều trị",
     "cat": "health",
-    "p": "tɹˈiːtmənt"
+    "p": "tɹˈiːtmənt",
+    "pos": "Danh từ"
   },
   {
     "w": "prescription",
     "m": "đơn thuốc",
     "cat": "health",
-    "p": "pɹɪskɹˈɪpʃən"
+    "p": "pɹɪskɹˈɪpʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "allergy",
     "m": "dị ứng",
     "cat": "health",
-    "p": "ˈælɚdʒi"
+    "p": "ˈælɚdʒi",
+    "pos": "Danh từ"
   },
   {
     "w": "infection",
     "m": "nhiễm trùng",
     "cat": "health",
-    "p": "ɪnfˈɛkʃən"
+    "p": "ɪnfˈɛkʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "chronic",
     "m": "mãn tính",
     "cat": "health",
-    "p": "kɹˈɑːnɪk"
+    "p": "kɹˈɑːnɪk",
+    "pos": "Danh từ"
   },
   {
     "w": "surgery",
     "m": "phẫu thuật",
     "cat": "health",
-    "p": "sˈɜːdʒɚɹi"
+    "p": "sˈɜːdʒɚɹi",
+    "pos": "Danh từ"
   },
   {
     "w": "specialist",
     "m": "bác sĩ chuyên khoa",
     "cat": "health",
-    "p": "spˈɛʃəlˌɪst"
+    "p": "spˈɛʃəlˌɪst",
+    "pos": "Danh từ"
   },
   {
     "w": "checkup",
     "m": "khám sức khỏe định kỳ",
     "cat": "health",
-    "p": "tʃˈɛkʌp"
+    "p": "tʃˈɛkʌp",
+    "pos": "Danh từ"
   },
   {
     "w": "prevention",
     "m": "phòng ngừa",
     "cat": "health",
-    "p": "pɹɪvˈɛnʃən"
+    "p": "pɹɪvˈɛnʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "vaccination",
     "m": "tiêm phòng, tiêm chủng, vắc-xin",
     "cat": "health",
-    "p": "vˌæksᵻnˈeɪʃən"
+    "p": "vˌæksᵻnˈeɪʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "vitamin",
     "m": "vitamin, vi-ta-min",
     "cat": "health",
-    "p": "vˈaɪɾəmɪn"
+    "p": "vˈaɪɾəmɪn",
+    "pos": "Danh từ"
   },
   {
     "w": "protein",
     "m": "protein, đạm",
     "cat": "health",
-    "p": "pɹˈoʊtiːn"
+    "p": "pɹˈoʊtiːn",
+    "pos": "Danh từ"
   },
   {
     "w": "calorie",
     "m": "calo",
     "cat": "health",
-    "p": "kˈælɚɹi"
+    "p": "kˈælɚɹi",
+    "pos": "Danh từ"
   },
   {
     "w": "obesity",
     "m": "béo phì",
     "cat": "health",
-    "p": "oʊbˈiːsəɾi"
+    "p": "oʊbˈiːsəɾi",
+    "pos": "Danh từ"
   },
   {
     "w": "diabetes",
     "m": "bệnh tiểu đường",
     "cat": "health",
-    "p": "dˌaɪəbˈiːɾiːz"
+    "p": "dˌaɪəbˈiːɾiːz",
+    "pos": "Danh từ"
   },
   {
     "w": "cholesterol",
     "m": "cholesterol",
     "cat": "health",
-    "p": "kəlˈɛstɚɹˌɑːl"
+    "p": "kəlˈɛstɚɹˌɑːl",
+    "pos": "Danh từ"
   },
   {
     "w": "blood pressure",
     "m": "huyết áp",
     "cat": "health",
-    "p": "blˈʌd pɹˈɛʃɚ"
+    "p": "blˈʌd pɹˈɛʃɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "heart rate",
     "m": "nhịp tim",
     "cat": "health",
-    "p": "hˈɑːɹt ɹˈeɪt"
+    "p": "hˈɑːɹt ɹˈeɪt",
+    "pos": "Danh từ"
   },
   {
     "w": "gym",
     "m": "phòng gym",
     "cat": "health",
-    "p": "dʒˈɪm"
+    "p": "dʒˈɪm",
+    "pos": "Danh từ"
   },
   {
     "w": "jog",
     "m": "chạy bộ",
     "cat": "health",
-    "p": "dʒˈɑːɡ"
+    "p": "dʒˈɑːɡ",
+    "pos": "Động từ"
   },
   {
     "w": "stretch",
     "m": "khởi động, duỗi người, giãn cơ, vươn vai, kéo giãn",
     "cat": "health",
-    "p": "stɹˈɛtʃ"
+    "p": "stɹˈɛtʃ",
+    "pos": "Động từ"
   },
   {
     "w": "posture",
     "m": "tư thế",
     "cat": "health",
-    "p": "pˈɔstʃɚ"
+    "p": "pˈɔstʃɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "supplement",
     "m": "thực phẩm bổ sung",
     "cat": "health",
-    "p": "sˈʌplɪmənt"
+    "p": "sˈʌplɪmənt",
+    "pos": "Danh từ"
   },
   {
     "w": "organic",
     "m": "hữu cơ",
     "cat": "health",
-    "p": "ɔːɹɡˈænɪk"
+    "p": "ɔːɹɡˈænɪk",
+    "pos": "Danh từ"
   },
   {
     "w": "pollution",
     "m": "ô nhiễm",
     "cat": "environment",
-    "p": "pəlˈuːʃən"
+    "p": "pəlˈuːʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "recycling",
     "m": "tái chế",
     "cat": "environment",
-    "p": "ɹᵻsˈaɪklɪŋ"
+    "p": "ɹᵻsˈaɪklɪŋ",
+    "pos": "Động từ"
   },
   {
     "w": "renewable",
     "m": "có thể tái tạo",
     "cat": "environment",
-    "p": "ɹᵻnˈuːəbəl"
+    "p": "ɹᵻnˈuːəbəl",
+    "pos": "Tính từ"
   },
   {
     "w": "sustainable",
     "m": "bền vững",
     "cat": "environment",
-    "p": "səstˈeɪnəbəl"
+    "p": "səstˈeɪnəbəl",
+    "pos": "Tính từ"
   },
   {
     "w": "global warming",
     "m": "nóng lên toàn cầu",
     "cat": "environment",
-    "p": "ɡlˈoʊbəl wˈɔːɹmɪŋ"
+    "p": "ɡlˈoʊbəl wˈɔːɹmɪŋ",
+    "pos": "Danh từ"
   },
   {
     "w": "carbon footprint",
     "m": "dấu chân carbon",
     "cat": "environment",
-    "p": "kˈɑːɹbən fˈʊtpɹɪnt"
+    "p": "kˈɑːɹbən fˈʊtpɹɪnt",
+    "pos": "Danh từ"
   },
   {
     "w": "emission",
     "m": "khí thải",
     "cat": "environment",
-    "p": "ɪmˈɪʃən"
+    "p": "ɪmˈɪʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "fossil fuel",
     "m": "nhiên liệu hóa thạch",
     "cat": "environment",
-    "p": "fˈɑːsəl fjˈuːəl"
+    "p": "fˈɑːsəl fjˈuːəl",
+    "pos": "Danh từ"
   },
   {
     "w": "solar energy",
     "m": "năng lượng mặt trời",
     "cat": "environment",
-    "p": "sˈoʊlɚɹ ˈɛnɚdʒi"
+    "p": "sˈoʊlɚɹ ˈɛnɚdʒi",
+    "pos": "Danh từ"
   },
   {
     "w": "deforestation",
     "m": "phá rừng",
     "cat": "environment",
-    "p": "diːfˌɔːɹɪstˈeɪʃən"
+    "p": "diːfˌɔːɹɪstˈeɪʃən",
+    "pos": "Động từ"
   },
   {
     "w": "habitat",
     "m": "môi trường sống",
     "cat": "environment",
-    "p": "hˈæbɪtˌæt"
+    "p": "hˈæbɪtˌæt",
+    "pos": "Danh từ"
   },
   {
     "w": "endangered",
     "m": "có nguy cơ tuyệt chủng",
     "cat": "environment",
-    "p": "ɛndˈeɪndʒɚd"
+    "p": "ɛndˈeɪndʒɚd",
+    "pos": "Tính từ"
   },
   {
     "w": "conservation",
     "m": "bảo tồn",
     "cat": "environment",
-    "p": "kˌɑːnsɚvˈeɪʃən"
+    "p": "kˌɑːnsɚvˈeɪʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "biodiversity",
     "m": "đa dạng sinh học",
     "cat": "environment",
-    "p": "bˌaɪoʊdaɪvˈɜːsᵻɾi"
+    "p": "bˌaɪoʊdaɪvˈɜːsᵻɾi",
+    "pos": "Danh từ"
   },
   {
     "w": "ecosystem",
     "m": "hệ sinh thái",
     "cat": "environment",
-    "p": "ˈiːkoʊsˌɪstəm"
+    "p": "ˈiːkoʊsˌɪstəm",
+    "pos": "Danh từ"
   },
   {
     "w": "flood",
     "m": "lũ lụt",
     "cat": "environment",
-    "p": "flˈʌd"
+    "p": "flˈʌd",
+    "pos": "Danh từ"
   },
   {
     "w": "drought",
     "m": "hạn hán",
     "cat": "environment",
-    "p": "dɹˈaʊt"
+    "p": "dɹˈaʊt",
+    "pos": "Danh từ"
   },
   {
     "w": "earthquake",
     "m": "động đất",
     "cat": "environment",
-    "p": "ˈɜːθkweɪk"
+    "p": "ˈɜːθkweɪk",
+    "pos": "Danh từ"
   },
   {
     "w": "wildfire",
     "m": "cháy rừng",
     "cat": "environment",
-    "p": "wˈaɪldfaɪɚ"
+    "p": "wˈaɪldfaɪɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "glacier",
     "m": "sông băng",
     "cat": "environment",
-    "p": "ɡlˈeɪʃɚ"
+    "p": "ɡlˈeɪʃɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "atmosphere",
     "m": "khí quyển",
     "cat": "environment",
-    "p": "ˈætməsfˌɪɹ"
+    "p": "ˈætməsfˌɪɹ",
+    "pos": "Danh từ"
   },
   {
     "w": "toxic",
     "m": "độc hại",
     "cat": "environment",
-    "p": "tˈɑːksɪk"
+    "p": "tˈɑːksɪk",
+    "pos": "Tính từ"
   },
   {
     "w": "waste",
     "m": "chất thải, rác thải",
     "cat": "environment",
-    "p": "wˈeɪst"
+    "p": "wˈeɪst",
+    "pos": "Danh từ"
   },
   {
     "w": "contamination",
     "m": "sự ô nhiễm, nhiễm bẩn",
     "cat": "environment",
-    "p": "kəntˌæmᵻnˈeɪʃən"
+    "p": "kəntˌæmᵻnˈeɪʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "eco-friendly",
     "m": "thân thiện môi trường",
     "cat": "environment",
-    "p": "ˈiːkoʊfɹˈɛndli"
+    "p": "ˈiːkoʊfɹˈɛndli",
+    "pos": "Danh từ"
   },
   {
     "w": "green energy",
     "m": "năng lượng xanh",
     "cat": "environment",
-    "p": "ɡɹˈiːn ˈɛnɚdʒi"
+    "p": "ɡɹˈiːn ˈɛnɚdʒi",
+    "pos": "Danh từ"
   },
   {
     "w": "tree-planting",
     "m": "trồng cây",
     "cat": "environment",
-    "p": "tɹˈiːplˈæntɪŋ"
+    "p": "tɹˈiːplˈæntɪŋ",
+    "pos": "Danh từ"
   },
   {
     "w": "climate change",
     "m": "biến đổi khí hậu",
     "cat": "environment",
-    "p": "klˈaɪmət tʃˈeɪndʒ"
+    "p": "klˈaɪmət tʃˈeɪndʒ",
+    "pos": "Động từ"
   },
   {
     "w": "ozone layer",
     "m": "tầng ozone",
     "cat": "environment",
-    "p": "ˈoʊzoʊn lˈeɪɚ"
+    "p": "ˈoʊzoʊn lˈeɪɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "rainforest",
     "m": "rừng nhiệt đới",
     "cat": "environment",
-    "p": "ɹˈeɪnfˌɔːɹɪst"
+    "p": "ɹˈeɪnfˌɔːɹɪst",
+    "pos": "Danh từ"
   },
   {
     "w": "extinct",
     "m": "tuyệt chủng",
     "cat": "environment",
-    "p": "ɛkstˈɪŋkt"
+    "p": "ɛkstˈɪŋkt",
+    "pos": "Danh từ"
   },
   {
     "w": "wildlife",
     "m": "động vật hoang dã",
     "cat": "environment",
-    "p": "wˈaɪldlaɪf"
+    "p": "wˈaɪldlaɪf",
+    "pos": "Danh từ"
   },
   {
     "w": "recycle",
     "m": "tái chế",
     "cat": "environment",
-    "p": "ɹᵻsˈaɪkəl"
+    "p": "ɹᵻsˈaɪkəl",
+    "pos": "Động từ"
   },
   {
     "w": "compost",
     "m": "phân compost",
     "cat": "environment",
-    "p": "kˈɑːmpoʊst"
+    "p": "kˈɑːmpoʊst",
+    "pos": "Danh từ"
   },
   {
     "w": "curriculum",
     "m": "chương trình học",
     "cat": "education",
-    "p": "kɜːɹˈɪkjʊləm"
+    "p": "kɜːɹˈɪkjʊləm",
+    "pos": "Danh từ"
   },
   {
     "w": "lecture",
     "m": "bài giảng, buổi thuyết trình",
     "cat": "education",
-    "p": "lˈɛktʃɚ"
+    "p": "lˈɛktʃɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "seminar",
     "m": "hội thảo nhóm nhỏ",
     "cat": "education",
-    "p": "sˈɛmɪnˌɑːɹ"
+    "p": "sˈɛmɪnˌɑːɹ",
+    "pos": "Danh từ"
   },
   {
     "w": "tutorial",
     "m": "buổi học kèm cặp, buổi học nhóm nhỏ, hướng dẫn",
     "cat": "education",
-    "p": "tuːtˈɔːɹɪəl"
+    "p": "tuːtˈɔːɹɪəl",
+    "pos": "Động từ"
   },
   {
     "w": "assignment",
     "m": "bài tập được giao",
     "cat": "education",
-    "p": "ɐsˈaɪnmənt"
+    "p": "ɐsˈaɪnmənt",
+    "pos": "Danh từ"
   },
   {
     "w": "essay",
     "m": "bài luận",
     "cat": "education",
-    "p": "ˈɛseɪ"
+    "p": "ˈɛseɪ",
+    "pos": "Danh từ"
   },
   {
     "w": "thesis",
     "m": "luận văn, luận án",
     "cat": "education",
-    "p": "θˈiːsɪs"
+    "p": "θˈiːsɪs",
+    "pos": "Danh từ"
   },
   {
     "w": "experiment",
     "m": "thí nghiệm",
     "cat": "education",
-    "p": "ɛkspˈɛɹɪmənt"
+    "p": "ɛkspˈɛɹɪmənt",
+    "pos": "Danh từ"
   },
   {
     "w": "laboratory",
     "m": "phòng thí nghiệm",
     "cat": "education",
-    "p": "lˈæbɹətˌɔːɹi"
+    "p": "lˈæbɹətˌɔːɹi",
+    "pos": "Danh từ"
   },
   {
     "w": "hypothesis",
     "m": "giả thuyết",
     "cat": "education",
-    "p": "haɪpˈɑːθəsˌɪs"
+    "p": "haɪpˈɑːθəsˌɪs",
+    "pos": "Danh từ"
   },
   {
     "w": "evidence",
     "m": "bằng chứng",
     "cat": "education",
-    "p": "ˈɛvɪdəns"
+    "p": "ˈɛvɪdəns",
+    "pos": "Danh từ"
   },
   {
     "w": "conclusion",
     "m": "kết luận",
     "cat": "education",
-    "p": "kəŋklˈuːʒən"
+    "p": "kəŋklˈuːʒən",
+    "pos": "Động từ"
   },
   {
     "w": "argument",
     "m": "lập luận",
     "cat": "education",
-    "p": "ˈɑːɹɡjuːmənt"
+    "p": "ˈɑːɹɡjuːmənt",
+    "pos": "Danh từ"
   },
   {
     "w": "debate",
     "m": "tranh luận",
     "cat": "education",
-    "p": "dᵻbˈeɪt"
+    "p": "dᵻbˈeɪt",
+    "pos": "Danh từ"
   },
   {
     "w": "analyze",
     "m": "phân tích",
     "cat": "education",
-    "p": "ˈænɐlˌaɪz"
+    "p": "ˈænɐlˌaɪz",
+    "pos": "Động từ"
   },
   {
     "w": "compare",
     "m": "so sánh",
     "cat": "education",
-    "p": "kəmpˈɛɹ"
+    "p": "kəmpˈɛɹ",
+    "pos": "Động từ"
   },
   {
     "w": "evaluate",
     "m": "đánh giá",
     "cat": "education",
-    "p": "ɪvˈæljuːˌeɪt"
+    "p": "ɪvˈæljuːˌeɪt",
+    "pos": "Động từ"
   },
   {
     "w": "summarize",
     "m": "tóm tắt",
     "cat": "education",
-    "p": "sˈʌmɚɹˌaɪz"
+    "p": "sˈʌmɚɹˌaɪz",
+    "pos": "Động từ"
   },
   {
     "w": "statistics",
     "m": "thống kê",
     "cat": "education",
-    "p": "stɐtˈɪstɪks"
+    "p": "stɐtˈɪstɪks",
+    "pos": "Danh từ"
   },
   {
     "w": "data",
     "m": "dữ liệu",
     "cat": "education",
-    "p": "dˈeɪɾə"
+    "p": "dˈeɪɾə",
+    "pos": "Danh từ"
   },
   {
     "w": "source",
     "m": "nguồn tài liệu, nguồn tin, nguồn gốc",
     "cat": "education",
-    "p": "sˈɔːɹs"
+    "p": "sˈɔːɹs",
+    "pos": "Danh từ"
   },
   {
     "w": "bibliography",
     "m": "thư mục tài liệu tham khảo",
     "cat": "education",
-    "p": "bˌɪblɪˈɑːɡɹəfi"
+    "p": "bˌɪblɪˈɑːɡɹəfi",
+    "pos": "Danh từ"
   },
   {
     "w": "plagiarism",
     "m": "đạo văn",
     "cat": "education",
-    "p": "plˈeɪdʒɚɹˌɪzəm"
+    "p": "plˈeɪdʒɚɹˌɪzəm",
+    "pos": "Danh từ"
   },
   {
     "w": "scholarship",
     "m": "học bổng",
     "cat": "education",
-    "p": "skˈɑːlɚʃˌɪp"
+    "p": "skˈɑːlɚʃˌɪp",
+    "pos": "Động từ"
   },
   {
     "w": "internship",
     "m": "thực tập",
     "cat": "education",
-    "p": "ɪntˈɜːnʃɪp"
+    "p": "ɪntˈɜːnʃɪp",
+    "pos": "Danh từ"
   },
   {
     "w": "undergraduate",
     "m": "sinh viên đại học",
     "cat": "education",
-    "p": "ˌʌndɚɡɹˈædʒuːət"
+    "p": "ˌʌndɚɡɹˈædʒuːət",
+    "pos": "Danh từ"
   },
   {
     "w": "postgraduate",
     "m": "học sau đại học",
     "cat": "education",
-    "p": "pˈoʊstɡɹɐdʒˌuːeɪt"
+    "p": "pˈoʊstɡɹɐdʒˌuːeɪt",
+    "pos": "Động từ"
   },
   {
     "w": "degree",
     "m": "độ (nhiệt độ), bằng đại học, học vị",
     "cat": "education",
-    "p": "dᵻɡɹˈiː"
+    "p": "dᵻɡɹˈiː",
+    "pos": "Động từ"
   },
   {
     "w": "certificate",
     "m": "chứng chỉ",
     "cat": "education",
-    "p": "sɚtˈɪfɪkət"
+    "p": "sɚtˈɪfɪkət",
+    "pos": "Danh từ"
   },
   {
     "w": "diploma",
     "m": "bằng cao đẳng, văn bằng, bằng chứng chỉ, bằng cấp, bằng tốt nghiệp",
     "cat": "education",
-    "p": "dɪplˈoʊmə"
+    "p": "dɪplˈoʊmə",
+    "pos": "Danh từ"
   },
   {
     "w": "academic",
     "m": "học thuật, học giả",
     "cat": "education",
-    "p": "ˌækədˈɛmɪk"
+    "p": "ˌækədˈɛmɪk",
+    "pos": "Động từ"
   },
   {
     "w": "research",
     "m": "nghiên cứu",
     "cat": "education",
-    "p": "ɹᵻsˈɜːtʃ"
+    "p": "ɹᵻsˈɜːtʃ",
+    "pos": "Động từ"
   },
   {
     "w": "subject",
     "m": "môn học",
     "cat": "education",
-    "p": "sˈʌbdʒɛkt"
+    "p": "sˈʌbdʒɛkt",
+    "pos": "Danh từ"
   },
   {
     "w": "knowledge",
     "m": "kiến thức",
     "cat": "education",
-    "p": "nˈɑːlɪdʒ"
+    "p": "nˈɑːlɪdʒ",
+    "pos": "Danh từ"
   },
   {
     "w": "skill",
     "m": "kỹ năng",
     "cat": "education",
-    "p": "skˈɪl"
+    "p": "skˈɪl",
+    "pos": "Danh từ"
   },
   {
     "w": "ability",
     "m": "khả năng",
     "cat": "education",
-    "p": "ɐbˈɪləɾi"
+    "p": "ɐbˈɪləɾi",
+    "pos": "Danh từ"
   },
   {
     "w": "software",
     "m": "phần mềm",
     "cat": "technology",
-    "p": "sˈɔftwɛɹ"
+    "p": "sˈɔftwɛɹ",
+    "pos": "Danh từ"
   },
   {
     "w": "hardware",
     "m": "phần cứng",
     "cat": "technology",
-    "p": "hˈɑːɹdwɛɹ"
+    "p": "hˈɑːɹdwɛɹ",
+    "pos": "Danh từ"
   },
   {
     "w": "operating system",
     "m": "hệ điều hành",
     "cat": "technology",
-    "p": "ˈɑːpɚɹˌeɪɾɪŋ sˈɪstəm"
+    "p": "ˈɑːpɚɹˌeɪɾɪŋ sˈɪstəm",
+    "pos": "Danh từ"
   },
   {
     "w": "browser",
     "m": "trình duyệt web",
     "cat": "technology",
-    "p": "bɹˈaʊzɚ"
+    "p": "bɹˈaʊzɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "social media",
     "m": "mạng xã hội",
     "cat": "technology",
-    "p": "sˈoʊʃəl mˈiːdiːə"
+    "p": "sˈoʊʃəl mˈiːdiːə",
+    "pos": "Danh từ"
   },
   {
     "w": "platform",
     "m": "sân ga, bến, ke ga, nền tảng, thềm ga",
     "cat": "technology",
-    "p": "plˈætfɔːɹm"
+    "p": "plˈætfɔːɹm",
+    "pos": "Danh từ"
   },
   {
     "w": "profile",
     "m": "trang cá nhân",
     "cat": "technology",
-    "p": "pɹˈoʊfaɪl"
+    "p": "pɹˈoʊfaɪl",
+    "pos": "Danh từ"
   },
   {
     "w": "security",
     "m": "bảo mật",
     "cat": "technology",
-    "p": "sᵻkjˈʊɹɹᵻɾi"
+    "p": "sᵻkjˈʊɹɹᵻɾi",
+    "pos": "Danh từ"
   },
   {
     "w": "privacy",
     "m": "quyền riêng tư",
     "cat": "technology",
-    "p": "pɹˈaɪvəsi"
+    "p": "pɹˈaɪvəsi",
+    "pos": "Danh từ"
   },
   {
     "w": "virus",
     "m": "virus máy tính",
     "cat": "technology",
-    "p": "vˈaɪɹəs"
+    "p": "vˈaɪɹəs",
+    "pos": "Danh từ"
   },
   {
     "w": "backup",
     "m": "sao lưu dữ liệu",
     "cat": "technology",
-    "p": "bˈækʌp"
+    "p": "bˈækʌp",
+    "pos": "Động từ"
   },
   {
     "w": "cloud",
     "m": "đám mây (lưu trữ)",
     "cat": "technology",
-    "p": "klˈaʊd"
+    "p": "klˈaʊd",
+    "pos": "Danh từ"
   },
   {
     "w": "stream",
     "m": "con suối nhỏ, phát trực tiếp, dòng suối",
     "cat": "technology",
-    "p": "stɹˈiːm"
+    "p": "stɹˈiːm",
+    "pos": "Danh từ"
   },
   {
     "w": "bandwidth",
     "m": "băng thông",
     "cat": "technology",
-    "p": "bˈændwɪdθ"
+    "p": "bˈændwɪdθ",
+    "pos": "Danh từ"
   },
   {
     "w": "wireless",
     "m": "không dây",
     "cat": "technology",
-    "p": "wˈaɪɚləs"
+    "p": "wˈaɪɚləs",
+    "pos": "Tính từ"
   },
   {
     "w": "artificial intelligence",
     "m": "trí tuệ nhân tạo",
     "cat": "technology",
-    "p": "ˌɑːɹɾɪfˈɪʃəl ɪntˈɛlɪdʒəns"
+    "p": "ˌɑːɹɾɪfˈɪʃəl ɪntˈɛlɪdʒəns",
+    "pos": "Danh từ"
   },
   {
     "w": "robot",
     "m": "robot",
     "cat": "technology",
-    "p": "ɹˈoʊbɑːt"
+    "p": "ɹˈoʊbɑːt",
+    "pos": "Danh từ"
   },
   {
     "w": "automation",
     "m": "tự động hóa",
     "cat": "technology",
-    "p": "ˌɔːɾəmˈeɪʃən"
+    "p": "ˌɔːɾəmˈeɪʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "update",
     "m": "cập nhật",
     "cat": "technology",
-    "p": "ˈʌpdeɪt"
+    "p": "ˈʌpdeɪt",
+    "pos": "Động từ"
   },
   {
     "w": "interface",
     "m": "giao diện",
     "cat": "technology",
-    "p": "ˈɪntɚfˌeɪs"
+    "p": "ˈɪntɚfˌeɪs",
+    "pos": "Động từ"
   },
   {
     "w": "navigation",
     "m": "điều hướng",
     "cat": "technology",
-    "p": "nˌævɪɡˈeɪʃən"
+    "p": "nˌævɪɡˈeɪʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "icon",
     "m": "biểu tượng",
     "cat": "technology",
-    "p": "ˈaɪkɑːn"
+    "p": "ˈaɪkɑːn",
+    "pos": "Danh từ"
   },
   {
     "w": "folder",
     "m": "thư mục",
     "cat": "technology",
-    "p": "fˈoʊldɚ"
+    "p": "fˈoʊldɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "database",
     "m": "cơ sở dữ liệu",
     "cat": "technology",
-    "p": "dˈeɪɾəbˌeɪs"
+    "p": "dˈeɪɾəbˌeɪs",
+    "pos": "Danh từ"
   },
   {
     "w": "algorithm",
     "m": "thuật toán",
     "cat": "technology",
-    "p": "ˈælɡɚɹˌɪθəm"
+    "p": "ˈælɡɚɹˌɪθəm",
+    "pos": "Danh từ"
   },
   {
     "w": "code",
     "m": "lập trình, mã nguồn",
     "cat": "technology",
-    "p": "kˈoʊd"
+    "p": "kˈoʊd",
+    "pos": "Danh từ"
   },
   {
     "w": "debug",
     "m": "sửa lỗi phần mềm",
     "cat": "technology",
-    "p": "dˈiːbˌʌɡ"
+    "p": "dˈiːbˌʌɡ",
+    "pos": "Danh từ"
   },
   {
     "w": "network",
     "m": "mạng lưới",
     "cat": "technology",
-    "p": "nˈɛtwɜːk"
+    "p": "nˈɛtwɜːk",
+    "pos": "Danh từ"
   },
   {
     "w": "server",
     "m": "máy chủ",
     "cat": "technology",
-    "p": "sˈɜːvɚ"
+    "p": "sˈɜːvɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "poverty",
     "m": "nghèo đói",
     "cat": "society",
-    "p": "pˈɑːvɚɾi"
+    "p": "pˈɑːvɚɾi",
+    "pos": "Danh từ"
   },
   {
     "w": "inequality",
     "m": "bất bình đẳng",
     "cat": "society",
-    "p": "ɪniːkwˈɔlᵻɾi"
+    "p": "ɪniːkwˈɔlᵻɾi",
+    "pos": "Danh từ"
   },
   {
     "w": "discrimination",
     "m": "phân biệt đối xử",
     "cat": "society",
-    "p": "dɪskɹˌɪmᵻnˈeɪʃən"
+    "p": "dɪskɹˌɪmᵻnˈeɪʃən",
+    "pos": "Động từ"
   },
   {
     "w": "diversity",
     "m": "sự đa dạng",
     "cat": "society",
-    "p": "daɪvˈɜːsᵻɾi"
+    "p": "daɪvˈɜːsᵻɾi",
+    "pos": "Danh từ"
   },
   {
     "w": "tolerance",
     "m": "sự khoan nhượng",
     "cat": "society",
-    "p": "tˈɑːlɚɹəns"
+    "p": "tˈɑːlɚɹəns",
+    "pos": "Danh từ"
   },
   {
     "w": "human rights",
     "m": "nhân quyền",
     "cat": "society",
-    "p": "hjˈuːmən ɹˈaɪts"
+    "p": "hjˈuːmən ɹˈaɪts",
+    "pos": "Danh từ"
   },
   {
     "w": "justice",
     "m": "công lý",
     "cat": "society",
-    "p": "dʒˈʌstɪs"
+    "p": "dʒˈʌstɪs",
+    "pos": "Danh từ"
   },
   {
     "w": "democracy",
     "m": "dân chủ",
     "cat": "society",
-    "p": "dᵻmˈɑːkɹəsi"
+    "p": "dᵻmˈɑːkɹəsi",
+    "pos": "Danh từ"
   },
   {
     "w": "corruption",
     "m": "tham nhũng",
     "cat": "society",
-    "p": "kɚɹˈʌpʃən"
+    "p": "kɚɹˈʌpʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "protest",
     "m": "biểu tình, phản đối",
     "cat": "society",
-    "p": "pɹˈoʊtɛst"
+    "p": "pɹˈoʊtɛst",
+    "pos": "Động từ"
   },
   {
     "w": "campaign",
     "m": "chiến dịch",
     "cat": "society",
-    "p": "kæmpˈeɪn"
+    "p": "kæmpˈeɪn",
+    "pos": "Danh từ"
   },
   {
     "w": "charity",
     "m": "từ thiện",
     "cat": "society",
-    "p": "tʃˈæɹᵻɾi"
+    "p": "tʃˈæɹᵻɾi",
+    "pos": "Danh từ"
   },
   {
     "w": "volunteer",
     "m": "tình nguyện viên",
     "cat": "society",
-    "p": "vˌɑːləntˈɪɹ"
+    "p": "vˌɑːləntˈɪɹ",
+    "pos": "Danh từ"
   },
   {
     "w": "community",
     "m": "cộng đồng",
     "cat": "society",
-    "p": "kəmjˈuːnᵻɾi"
+    "p": "kəmjˈuːnᵻɾi",
+    "pos": "Danh từ"
   },
   {
     "w": "tradition",
     "m": "truyền thống",
     "cat": "society",
-    "p": "tɹɐdˈɪʃən"
+    "p": "tɹɐdˈɪʃən",
+    "pos": "Tính từ"
   },
   {
     "w": "religion",
     "m": "tôn giáo",
     "cat": "society",
-    "p": "ɹᵻlˈɪdʒən"
+    "p": "ɹᵻlˈɪdʒən",
+    "pos": "Danh từ"
   },
   {
     "w": "belief",
     "m": "niềm tin, tín ngưỡng",
     "cat": "society",
-    "p": "bᵻlˈiːf"
+    "p": "bᵻlˈiːf",
+    "pos": "Danh từ"
   },
   {
     "w": "vote",
     "m": "bỏ phiếu",
     "cat": "society",
-    "p": "vˈoʊt"
+    "p": "vˈoʊt",
+    "pos": "Động từ"
   },
   {
     "w": "election",
     "m": "cuộc bầu cử",
     "cat": "society",
-    "p": "ᵻlˈɛkʃən"
+    "p": "ᵻlˈɛkʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "government",
     "m": "chính phủ",
     "cat": "society",
-    "p": "ɡˈʌvɚnmənt"
+    "p": "ɡˈʌvɚnmənt",
+    "pos": "Danh từ"
   },
   {
     "w": "law",
     "m": "luật pháp",
     "cat": "society",
-    "p": "lˈɔː"
+    "p": "lˈɔː",
+    "pos": "Danh từ"
   },
   {
     "w": "reform",
     "m": "cải cách",
     "cat": "society",
-    "p": "ɹᵻfˈɔːɹm"
+    "p": "ɹᵻfˈɔːɹm",
+    "pos": "Danh từ"
   },
   {
     "w": "challenge",
     "m": "thách thức",
     "cat": "society",
-    "p": "tʃˈælɪndʒ"
+    "p": "tʃˈælɪndʒ",
+    "pos": "Danh từ"
   },
   {
     "w": "solution",
     "m": "giải pháp",
     "cat": "society",
-    "p": "səlˈuːʃən"
+    "p": "səlˈuːʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "impact",
     "m": "tác động, ảnh hưởng",
     "cat": "society",
-    "p": "ˈɪmpækt"
+    "p": "ˈɪmpækt",
+    "pos": "Danh từ"
   },
   {
     "w": "culture",
     "m": "văn hóa",
     "cat": "society",
-    "p": "kˈʌltʃɚ"
+    "p": "kˈʌltʃɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "media",
     "m": "truyền thông",
     "cat": "society",
-    "p": "mˈiːdiːə"
+    "p": "mˈiːdiːə",
+    "pos": "Danh từ"
   },
   {
     "w": "journalism",
     "m": "báo chí",
     "cat": "society",
-    "p": "dʒˈɜːnəlˌɪzəm"
+    "p": "dʒˈɜːnəlˌɪzəm",
+    "pos": "Danh từ"
   },
   {
     "w": "opinion",
     "m": "ý kiến, quan điểm",
     "cat": "society",
-    "p": "əpˈɪniən"
+    "p": "əpˈɪniən",
+    "pos": "Danh từ"
   },
   {
     "w": "conflict",
     "m": "xung đột",
     "cat": "society",
-    "p": "kˈɑːnflɪkt"
+    "p": "kˈɑːnflɪkt",
+    "pos": "Danh từ"
   },
   {
     "w": "peace",
     "m": "hòa bình",
     "cat": "society",
-    "p": "pˈiːs"
+    "p": "pˈiːs",
+    "pos": "Danh từ"
   },
   {
     "w": "support",
     "m": "ủng hộ, hỗ trợ",
     "cat": "society",
-    "p": "səpˈɔːɹt"
+    "p": "səpˈɔːɹt",
+    "pos": "Động từ"
   },
   {
     "w": "although",
     "m": "mặc dù",
     "cat": "connector",
-    "p": "ɔːlðˈoʊ"
+    "p": "ɔːlðˈoʊ",
+    "pos": "Động từ"
   },
   {
     "w": "however",
     "m": "tuy nhiên",
     "cat": "connector",
-    "p": "haʊˈɛvɚ"
+    "p": "haʊˈɛvɚ",
+    "pos": "Phó từ"
   },
   {
     "w": "therefore",
     "m": "vì vậy, do đó",
     "cat": "connector",
-    "p": "ðˈɛɹfɔːɹ"
+    "p": "ðˈɛɹfɔːɹ",
+    "pos": "Liên từ"
   },
   {
     "w": "moreover",
     "m": "hơn nữa",
     "cat": "connector",
-    "p": "mɔːɹˈoʊvɚ"
+    "p": "mɔːɹˈoʊvɚ",
+    "pos": "Phó từ"
   },
   {
     "w": "furthermore",
     "m": "thêm vào đó",
     "cat": "connector",
-    "p": "fˌɜːðɚmˈɔːɹ"
+    "p": "fˌɜːðɚmˈɔːɹ",
+    "pos": "Động từ"
   },
   {
     "w": "in addition",
     "m": "ngoài ra",
     "cat": "connector",
-    "p": "ɪn ɐdˈɪʃən"
+    "p": "ɪn ɐdˈɪʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "in contrast",
     "m": "ngược lại",
     "cat": "connector",
-    "p": "ɪn kˈɑːntɹæst"
+    "p": "ɪn kˈɑːntɹæst",
+    "pos": "Phó từ"
   },
   {
     "w": "despite",
     "m": "mặc dù, bất chấp",
     "cat": "connector",
-    "p": "dᵻspˈaɪt"
+    "p": "dᵻspˈaɪt",
+    "pos": "Động từ"
   },
   {
     "w": "whereas",
     "m": "trong khi đó",
     "cat": "connector",
-    "p": "wˈɛɹæz"
+    "p": "wˈɛɹæz",
+    "pos": "Phó từ"
   },
   {
     "w": "unless",
     "m": "trừ khi",
     "cat": "connector",
-    "p": "ʌnlˈɛs"
+    "p": "ʌnlˈɛs",
+    "pos": "Danh từ"
   },
   {
     "w": "provided that",
     "m": "với điều kiện là",
     "cat": "connector",
-    "p": "pɹəvˈaɪdᵻd ðˈæt"
+    "p": "pɹəvˈaɪdᵻd ðˈæt",
+    "pos": "Danh từ"
   },
   {
     "w": "as long as",
     "m": "miễn là",
     "cat": "connector",
-    "p": "æz lˈɔŋ æz"
+    "p": "æz lˈɔŋ æz",
+    "pos": "Danh từ"
   },
   {
     "w": "in order to",
     "m": "để, nhằm mục đích",
     "cat": "connector",
-    "p": "ɪn ˈɔːɹdɚ tuː"
+    "p": "ɪn ˈɔːɹdɚ tuː",
+    "pos": "Động từ"
   },
   {
     "w": "as a result",
     "m": "kết quả là",
     "cat": "connector",
-    "p": "æz ɐ ɹɪzˈʌlt"
+    "p": "æz ɐ ɹɪzˈʌlt",
+    "pos": "Danh từ"
   },
   {
     "w": "consequently",
     "m": "do đó, vì vậy",
     "cat": "connector",
-    "p": "kˈɑːnsɪkwəntli"
+    "p": "kˈɑːnsɪkwəntli",
+    "pos": "Phó từ"
   },
   {
     "w": "meanwhile",
     "m": "trong lúc đó",
     "cat": "connector",
-    "p": "mˈiːnwaɪl"
+    "p": "mˈiːnwaɪl",
+    "pos": "Danh từ"
   },
   {
     "w": "subsequently",
     "m": "sau đó",
     "cat": "connector",
-    "p": "sˈʌbsᵻkwəntli"
+    "p": "sˈʌbsᵻkwəntli",
+    "pos": "Phó từ"
   },
   {
     "w": "gradually",
     "m": "dần dần",
     "cat": "connector",
-    "p": "ɡɹˈædʒuːəli"
+    "p": "ɡɹˈædʒuːəli",
+    "pos": "Phó từ"
   },
   {
     "w": "unfortunately",
     "m": "thật không may",
     "cat": "connector",
-    "p": "ʌnfˈɔːɹtʃənətli"
+    "p": "ʌnfˈɔːɹtʃənətli",
+    "pos": "Phó từ"
   },
   {
     "w": "obviously",
     "m": "rõ ràng",
     "cat": "connector",
-    "p": "ˈɑːbviəsli"
+    "p": "ˈɑːbviəsli",
+    "pos": "Tính từ"
   },
   {
     "w": "certainly",
     "m": "chắc chắn",
     "cat": "connector",
-    "p": "sˈɜːʔn̩li"
+    "p": "sˈɜːʔn̩li",
+    "pos": "Phó từ"
   },
   {
     "w": "probably",
     "m": "có lẽ, nhiều khả năng",
     "cat": "connector",
-    "p": "pɹˈɑːbəbli"
+    "p": "pɹˈɑːbəbli",
+    "pos": "Phó từ"
   },
   {
     "w": "generally",
     "m": "nói chung",
     "cat": "connector",
-    "p": "dʒˈɛnɚɹəli"
+    "p": "dʒˈɛnɚɹəli",
+    "pos": "Phó từ"
   },
   {
     "w": "particularly",
     "m": "đặc biệt, nhất là",
     "cat": "connector",
-    "p": "pɚtˈɪkjʊlɚli"
+    "p": "pɚtˈɪkjʊlɚli",
+    "pos": "Phó từ"
   },
   {
     "w": "especially",
     "m": "đặc biệt",
     "cat": "connector",
-    "p": "ɪspˈɛʃəli"
+    "p": "ɪspˈɛʃəli",
+    "pos": "Tính từ"
   },
   {
     "w": "instead",
     "m": "thay vào đó",
     "cat": "connector",
-    "p": "ɪnstˈɛd"
+    "p": "ɪnstˈɛd",
+    "pos": "Danh từ"
   },
   {
     "w": "otherwise",
     "m": "nếu không thì",
     "cat": "connector",
-    "p": "ˈʌðɚwˌaɪz"
+    "p": "ˈʌðɚwˌaɪz",
+    "pos": "Danh từ"
   },
   {
     "w": "similarly",
     "m": "tương tự",
     "cat": "connector",
-    "p": "sˈɪmɪlɚli"
+    "p": "sˈɪmɪlɚli",
+    "pos": "Tính từ"
   },
   {
     "w": "on the other hand",
     "m": "mặt khác",
     "cat": "connector",
-    "p": "ɔnðɪ ˈʌðɚ hˈænd"
+    "p": "ɔnðɪ ˈʌðɚ hˈænd",
+    "pos": "Danh từ"
   },
   {
     "w": "for example",
     "m": "ví dụ",
     "cat": "connector",
-    "p": "fɔːɹ ɛɡzˈæmpəl"
+    "p": "fɔːɹ ɛɡzˈæmpəl",
+    "pos": "Danh từ"
   },
   {
     "w": "in fact",
     "m": "thực ra",
     "cat": "connector",
-    "p": "ɪn fˈækt"
+    "p": "ɪn fˈækt",
+    "pos": "Phó từ"
   },
   {
     "w": "as well as",
     "m": "cũng như",
     "cat": "connector",
-    "p": "æz wˈɛl æz"
+    "p": "æz wˈɛl æz",
+    "pos": "Danh từ"
   },
   {
     "w": "due to",
     "m": "do, vì",
     "cat": "connector",
-    "p": "dˈuː tuː"
+    "p": "dˈuː tuː",
+    "pos": "Danh từ"
   },
   {
     "w": "according to",
     "m": "theo, căn cứ theo",
     "cat": "connector",
-    "p": "ɐkˈɔːɹdɪŋ tuː"
+    "p": "ɐkˈɔːɹdɪŋ tuː",
+    "pos": "Động từ"
   },
   {
     "w": "look into",
     "m": "điều tra, xem xét kỹ",
     "cat": "phrasal",
-    "p": "lˈʊk ˌɪntʊ"
+    "p": "lˈʊk ˌɪntʊ",
+    "pos": "Động từ"
   },
   {
     "w": "come up with",
     "m": "nghĩ ra, đưa ra ý tưởng",
     "cat": "phrasal",
-    "p": "kˈʌm ˈʌp wɪð"
+    "p": "kˈʌm ˈʌp wɪð",
+    "pos": "Động từ"
   },
   {
     "w": "bring about",
     "m": "gây ra, tạo nên",
     "cat": "phrasal",
-    "p": "bɹˈɪŋ ɐbˈaʊt"
+    "p": "bɹˈɪŋ ɐbˈaʊt",
+    "pos": "Động từ"
   },
   {
     "w": "set up",
     "m": "thiết lập, thành lập, dựng nên, dựng lên",
     "cat": "phrasal",
-    "p": "sˈɛt ˈʌp"
+    "p": "sˈɛt ˈʌp",
+    "pos": "Động từ"
   },
   {
     "w": "take on",
     "m": "đảm nhận, nhận lấy",
     "cat": "phrasal",
-    "p": "tˈeɪk ˈɔn"
+    "p": "tˈeɪk ˈɔn",
+    "pos": "Động từ"
   },
   {
     "w": "work out",
     "m": "tìm ra, tập thể dục, giải quyết, tính toán ra",
     "cat": "phrasal",
-    "p": "wˈɜːk ˈaʊt"
+    "p": "wˈɜːk ˈaʊt",
+    "pos": "Động từ"
   },
   {
     "w": "fall through",
     "m": "thất bại, không thành",
     "cat": "phrasal",
-    "p": "fˈɔːl θɹˈuː"
+    "p": "fˈɔːl θɹˈuː",
+    "pos": "Động từ"
   },
   {
     "w": "carry out",
     "m": "thực hiện",
     "cat": "phrasal",
-    "p": "kˈæɹi ˈaʊt"
+    "p": "kˈæɹi ˈaʊt",
+    "pos": "Động từ"
   },
   {
     "w": "keep up with",
     "m": "theo kịp",
     "cat": "phrasal",
-    "p": "kˈiːp ˈʌp wɪð"
+    "p": "kˈiːp ˈʌp wɪð",
+    "pos": "Động từ"
   },
   {
     "w": "make up for",
     "m": "bù đắp cho",
     "cat": "phrasal",
-    "p": "mˌeɪk ˈʌp fɔːɹ"
+    "p": "mˌeɪk ˈʌp fɔːɹ",
+    "pos": "Động từ"
   },
   {
     "w": "pick up",
     "m": "đón, nhặt lên, học nhanh",
     "cat": "phrasal",
-    "p": "pˈɪk ˈʌp"
+    "p": "pˈɪk ˈʌp",
+    "pos": "Động từ"
   },
   {
     "w": "put off",
     "m": "trì hoãn",
     "cat": "phrasal",
-    "p": "pˌʊt ˈɔf"
+    "p": "pˌʊt ˈɔf",
+    "pos": "Động từ"
   },
   {
     "w": "take over",
     "m": "tiếp quản",
     "cat": "phrasal",
-    "p": "tˈeɪk ˈoʊvɚ"
+    "p": "tˈeɪk ˈoʊvɚ",
+    "pos": "Động từ"
   },
   {
     "w": "turn out",
     "m": "hóa ra",
     "cat": "phrasal",
-    "p": "tˈɜːn ˈaʊt"
+    "p": "tˈɜːn ˈaʊt",
+    "pos": "Động từ"
   },
   {
     "w": "carry on",
     "m": "tiếp tục",
     "cat": "phrasal",
-    "p": "kˈæɹi ˈɔn"
+    "p": "kˈæɹi ˈɔn",
+    "pos": "Động từ"
   },
   {
     "w": "figure out",
     "m": "hiểu ra, tìm cách",
     "cat": "phrasal",
-    "p": "fˈɪɡjɚɹ ˈaʊt"
+    "p": "fˈɪɡjɚɹ ˈaʊt",
+    "pos": "Động từ"
   },
   {
     "w": "get along",
     "m": "hòa thuận",
     "cat": "phrasal",
-    "p": "ɡɛt ɐlˈɔŋ"
+    "p": "ɡɛt ɐlˈɔŋ",
+    "pos": "Động từ"
   },
   {
     "w": "hold on",
     "m": "chờ một chút, giữ máy, chờ; bám chắc",
     "cat": "phrasal",
-    "p": "hˈoʊld ˈɔn"
+    "p": "hˈoʊld ˈɔn",
+    "pos": "Động từ"
   },
   {
     "w": "look forward to",
     "m": "mong đợi",
     "cat": "phrasal",
-    "p": "lˈʊk fˈɔːɹwɚd tuː"
+    "p": "lˈʊk fˈɔːɹwɚd tuː",
+    "pos": "Động từ"
   },
   {
     "w": "settle for",
     "m": "chấp nhận với",
     "cat": "phrasal",
-    "p": "sˈɛɾəl fɔːɹ"
+    "p": "sˈɛɾəl fɔːɹ",
+    "pos": "Động từ"
   },
   {
     "w": "sort out",
     "m": "giải quyết, sắp xếp",
     "cat": "phrasal",
-    "p": "sˈɔːɹt ˈaʊt"
+    "p": "sˈɔːɹt ˈaʊt",
+    "pos": "Động từ"
   },
   {
     "w": "stand for",
     "m": "đại diện cho, tượng trưng; viết tắt của, ủng hộ",
     "cat": "phrasal",
-    "p": "stˈænd fɔːɹ"
+    "p": "stˈænd fɔːɹ",
+    "pos": "Động từ"
   },
   {
     "w": "stick to",
     "m": "kiên trì, bám vào, bám sát, giữ vững",
     "cat": "phrasal",
-    "p": "stˈɪk tuː"
+    "p": "stˈɪk tuː",
+    "pos": "Động từ"
   },
   {
     "w": "give up",
     "m": "từ bỏ",
     "cat": "phrasal",
-    "p": "ɡˈɪv ˈʌp"
+    "p": "ɡˈɪv ˈʌp",
+    "pos": "Động từ"
   },
   {
     "w": "get over",
     "m": "vượt qua",
     "cat": "phrasal",
-    "p": "ɡɛt ˈoʊvɚ"
+    "p": "ɡɛt ˈoʊvɚ",
+    "pos": "Động từ"
   },
   {
     "w": "break down",
     "m": "hỏng, đổ vỡ, phân tích chi tiết, chia nhỏ",
     "cat": "phrasal",
-    "p": "bɹˈeɪk dˈaʊn"
+    "p": "bɹˈeɪk dˈaʊn",
+    "pos": "Động từ"
   },
   {
     "w": "break up",
     "m": "chia tay, tan vỡ",
     "cat": "phrasal",
-    "p": "bɹˈeɪk ˈʌp"
+    "p": "bɹˈeɪk ˈʌp",
+    "pos": "Động từ"
   },
   {
     "w": "bring up",
     "m": "nuôi dạy, đề cập, nuôi dưỡng, nhắc đến, nuôi nấng; nêu ra",
     "cat": "phrasal",
-    "p": "bɹˈɪŋ ˈʌp"
+    "p": "bɹˈɪŋ ˈʌp",
+    "pos": "Động từ"
   },
   {
     "w": "call off",
     "m": "hủy bỏ",
     "cat": "phrasal",
-    "p": "kˈɔːl ˈɔf"
+    "p": "kˈɔːl ˈɔf",
+    "pos": "Động từ"
   },
   {
     "w": "catch up",
     "m": "theo kịp, cập nhật, bắt kịp, đuổi kịp",
     "cat": "phrasal",
-    "p": "kˈætʃ ˈʌp"
+    "p": "kˈætʃ ˈʌp",
+    "pos": "Động từ"
   },
   {
     "w": "check out",
     "m": "xem qua, trả phòng",
     "cat": "phrasal",
-    "p": "tʃˈɛk ˈaʊt"
+    "p": "tʃˈɛk ˈaʊt",
+    "pos": "Động từ"
   },
   {
     "w": "come across",
     "m": "tình cờ gặp, bắt gặp, gây ấn tượng",
     "cat": "phrasal",
-    "p": "kˈʌm əkɹˈɑːs"
+    "p": "kˈʌm əkɹˈɑːs",
+    "pos": "Động từ"
   },
   {
     "w": "cut down on",
     "m": "giảm bớt",
     "cat": "phrasal",
-    "p": "kˈʌt dˌaʊn ˈɔn"
+    "p": "kˈʌt dˌaʊn ˈɔn",
+    "pos": "Động từ"
   },
   {
     "w": "deal with",
     "m": "đối phó, xử lý",
     "cat": "phrasal",
-    "p": "dˈiːl wɪð"
+    "p": "dˈiːl wɪð",
+    "pos": "Động từ"
   },
   {
     "w": "end up",
     "m": "cuối cùng trở thành, cuối cùng rơi vào, kết cục, rốt cuộc lại",
     "cat": "phrasal",
-    "p": "ˈɛnd ˈʌp"
+    "p": "ˈɛnd ˈʌp",
+    "pos": "Động từ"
   },
   {
     "w": "fall back on",
     "m": "dựa vào khi cần",
     "cat": "phrasal",
-    "p": "fˈɔːl bˈæk ˈɔn"
+    "p": "fˈɔːl bˈæk ˈɔn",
+    "pos": "Động từ"
   },
   {
     "w": "get rid of",
     "m": "loại bỏ",
     "cat": "phrasal",
-    "p": "ɡɛt ɹˈɪd ʌv"
+    "p": "ɡɛt ɹˈɪd ʌv",
+    "pos": "Động từ"
   },
   {
     "w": "give in",
     "m": "nhượng bộ",
     "cat": "phrasal",
-    "p": "ɡˈɪv ˈɪn"
+    "p": "ɡˈɪv ˈɪn",
+    "pos": "Động từ"
   },
   {
     "w": "go ahead",
     "m": "cứ tiến hành đi",
     "cat": "phrasal",
-    "p": "ɡˌoʊ ɐhˈɛd"
+    "p": "ɡˌoʊ ɐhˈɛd",
+    "pos": "Động từ"
   },
   {
     "w": "go through",
     "m": "trải qua, xem qua",
     "cat": "phrasal",
-    "p": "ɡˌoʊ θɹˈuː"
+    "p": "ɡˌoʊ θɹˈuː",
+    "pos": "Động từ"
   },
   {
     "w": "grow up",
     "m": "trưởng thành, lớn lên",
     "cat": "phrasal",
-    "p": "ɡɹˈoʊ ˈʌp"
+    "p": "ɡɹˈoʊ ˈʌp",
+    "pos": "Động từ"
   },
   {
     "w": "hand in",
     "m": "nộp (bài)",
     "cat": "phrasal",
-    "p": "hˈænd ˈɪn"
+    "p": "hˈænd ˈɪn",
+    "pos": "Động từ"
   },
   {
     "w": "look after",
     "m": "chăm sóc",
     "cat": "phrasal",
-    "p": "lˈʊk ˈæftɚ"
+    "p": "lˈʊk ˈæftɚ",
+    "pos": "Động từ"
   },
   {
     "w": "make out",
     "m": "phân biệt được, hiểu ra",
     "cat": "phrasal",
-    "p": "mˌeɪk ˈaʊt"
+    "p": "mˌeɪk ˈaʊt",
+    "pos": "Động từ"
   },
   {
     "w": "pass away",
     "m": "qua đời",
     "cat": "phrasal",
-    "p": "pˈæs ɐwˈeɪ"
+    "p": "pˈæs ɐwˈeɪ",
+    "pos": "Động từ"
   },
   {
     "w": "pay back",
     "m": "trả lại, đền đáp, trả nợ; trả đũa, trả thù",
     "cat": "phrasal",
-    "p": "pˈeɪ bˈæk"
+    "p": "pˈeɪ bˈæk",
+    "pos": "Động từ"
   },
   {
     "w": "point out",
     "m": "chỉ ra",
     "cat": "phrasal",
-    "p": "pˈɔɪnt ˈaʊt"
+    "p": "pˈɔɪnt ˈaʊt",
+    "pos": "Động từ"
   },
   {
     "w": "put up with",
     "m": "chịu đựng",
     "cat": "phrasal",
-    "p": "pˌʊt ˈʌp wɪð"
+    "p": "pˌʊt ˈʌp wɪð",
+    "pos": "Động từ"
   },
   {
     "w": "run into",
     "m": "tình cờ gặp",
     "cat": "phrasal",
-    "p": "ɹˈʌn ˌɪntʊ"
+    "p": "ɹˈʌn ˌɪntʊ",
+    "pos": "Động từ"
   },
   {
     "w": "set off",
     "m": "khởi hành",
     "cat": "phrasal",
-    "p": "sˈɛt ˈɔf"
+    "p": "sˈɛt ˈɔf",
+    "pos": "Động từ"
   },
   {
     "w": "show off",
     "m": "khoe khoang",
     "cat": "phrasal",
-    "p": "ʃˈoʊ ˈɔf"
+    "p": "ʃˈoʊ ˈɔf",
+    "pos": "Động từ"
   },
   {
     "w": "take place",
     "m": "xảy ra, diễn ra",
     "cat": "phrasal",
-    "p": "tˈeɪk plˈeɪs"
+    "p": "tˈeɪk plˈeɪs",
+    "pos": "Động từ"
   },
   {
     "w": "think over",
     "m": "suy nghĩ kỹ",
     "cat": "phrasal",
-    "p": "θˈɪŋk ˈoʊvɚ"
+    "p": "θˈɪŋk ˈoʊvɚ",
+    "pos": "Động từ"
   },
   {
     "w": "turn down",
     "m": "từ chối, giảm âm lượng",
     "cat": "phrasal",
-    "p": "tˈɜːn dˈaʊn"
+    "p": "tˈɜːn dˈaʊn",
+    "pos": "Động từ"
   },
   {
     "w": "use up",
     "m": "dùng hết",
     "cat": "phrasal",
-    "p": "jˈuːs ˈʌp"
+    "p": "jˈuːs ˈʌp",
+    "pos": "Động từ"
   },
   {
     "w": "achievement",
     "m": "thành tựu",
     "cat": "advanced",
-    "p": "ɐtʃˈiːvmənt"
+    "p": "ɐtʃˈiːvmənt",
+    "pos": "Danh từ"
   },
   {
     "w": "attitude",
     "m": "thái độ",
     "cat": "advanced",
-    "p": "ˈæɾɪtˌuːd"
+    "p": "ˈæɾɪtˌuːd",
+    "pos": "Danh từ"
   },
   {
     "w": "authority",
     "m": "thẩm quyền",
     "cat": "advanced",
-    "p": "ɐθˈɔːɹɪɾi"
+    "p": "ɐθˈɔːɹɪɾi",
+    "pos": "Danh từ"
   },
   {
     "w": "available",
     "m": "có sẵn, rảnh",
     "cat": "advanced",
-    "p": "ɐvˈeɪləbəl"
+    "p": "ɐvˈeɪləbəl",
+    "pos": "Danh từ"
   },
   {
     "w": "benefit",
     "m": "lợi ích",
     "cat": "advanced",
-    "p": "bˈɛnɪfˌɪt"
+    "p": "bˈɛnɪfˌɪt",
+    "pos": "Danh từ"
   },
   {
     "w": "cause",
     "m": "nguyên nhân",
     "cat": "advanced",
-    "p": "kˈɔːz"
+    "p": "kˈɔːz",
+    "pos": "Danh từ"
   },
   {
     "w": "claim",
     "m": "khẳng định, yêu cầu",
     "cat": "advanced",
-    "p": "klˈeɪm"
+    "p": "klˈeɪm",
+    "pos": "Danh từ"
   },
   {
     "w": "concern",
     "m": "lo ngại",
     "cat": "advanced",
-    "p": "kənsˈɜːn"
+    "p": "kənsˈɜːn",
+    "pos": "Danh từ"
   },
   {
     "w": "confident",
     "m": "tự tin",
     "cat": "advanced",
-    "p": "kˈɑːnfɪdənt"
+    "p": "kˈɑːnfɪdənt",
+    "pos": "Tính từ"
   },
   {
     "w": "consider",
     "m": "xem xét, cân nhắc",
     "cat": "advanced",
-    "p": "kənsˈɪdɚ"
+    "p": "kənsˈɪdɚ",
+    "pos": "Động từ"
   },
   {
     "w": "control",
     "m": "kiểm soát",
     "cat": "advanced",
-    "p": "kəntɹˈoʊl"
+    "p": "kəntɹˈoʊl",
+    "pos": "Động từ"
   },
   {
     "w": "creative",
     "m": "sáng tạo",
     "cat": "advanced",
-    "p": "kɹiːˈeɪɾɪv"
+    "p": "kɹiːˈeɪɾɪv",
+    "pos": "Tính từ"
   },
   {
     "w": "curious",
     "m": "tò mò",
     "cat": "advanced",
-    "p": "kjˈʊɹɹiəs"
+    "p": "kjˈʊɹɹiəs",
+    "pos": "Danh từ"
   },
   {
     "w": "current",
     "m": "hiện tại, dòng chảy",
     "cat": "advanced",
-    "p": "kˈɜːɹənt"
+    "p": "kˈɜːɹənt",
+    "pos": "Danh từ"
   },
   {
     "w": "decision",
     "m": "quyết định",
     "cat": "advanced",
-    "p": "dᵻsˈɪʒən"
+    "p": "dᵻsˈɪʒən",
+    "pos": "Động từ"
   },
   {
     "w": "depend",
     "m": "phụ thuộc",
     "cat": "advanced",
-    "p": "dᵻpˈɛnd"
+    "p": "dᵻpˈɛnd",
+    "pos": "Danh từ"
   },
   {
     "w": "detail",
     "m": "chi tiết",
     "cat": "advanced",
-    "p": "diːtˈeɪl"
+    "p": "diːtˈeɪl",
+    "pos": "Tính từ"
   },
   {
     "w": "determine",
     "m": "xác định",
     "cat": "advanced",
-    "p": "dɪtˈɜːmɪn"
+    "p": "dɪtˈɜːmɪn",
+    "pos": "Danh từ"
   },
   {
     "w": "difference",
     "m": "sự khác biệt",
     "cat": "advanced",
-    "p": "dˈɪfɹəns"
+    "p": "dˈɪfɹəns",
+    "pos": "Danh từ"
   },
   {
     "w": "difficulty",
     "m": "khó khăn",
     "cat": "advanced",
-    "p": "dˈɪfɪkˌʌlti"
+    "p": "dˈɪfɪkˌʌlti",
+    "pos": "Danh từ"
   },
   {
     "w": "discuss",
     "m": "thảo luận",
     "cat": "advanced",
-    "p": "dɪskˈʌs"
+    "p": "dɪskˈʌs",
+    "pos": "Động từ"
   },
   {
     "w": "education",
     "m": "giáo dục",
     "cat": "advanced",
-    "p": "ˌɛdʒuːkˈeɪʃən"
+    "p": "ˌɛdʒuːkˈeɪʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "effect",
     "m": "tác động, ảnh hưởng",
     "cat": "advanced",
-    "p": "ɪfˈɛkt"
+    "p": "ɪfˈɛkt",
+    "pos": "Danh từ"
   },
   {
     "w": "effective",
     "m": "hiệu quả",
     "cat": "advanced",
-    "p": "ɪfˈɛktɪv"
+    "p": "ɪfˈɛktɪv",
+    "pos": "Danh từ"
   },
   {
     "w": "effort",
     "m": "nỗ lực",
     "cat": "advanced",
-    "p": "ˈɛfɚt"
+    "p": "ˈɛfɚt",
+    "pos": "Danh từ"
   },
   {
     "w": "emotion",
     "m": "cảm xúc",
     "cat": "advanced",
-    "p": "ɪmˈoʊʃən"
+    "p": "ɪmˈoʊʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "encourage",
     "m": "khuyến khích",
     "cat": "advanced",
-    "p": "ɛŋkˈɜːɹɪdʒ"
+    "p": "ɛŋkˈɜːɹɪdʒ",
+    "pos": "Danh từ"
   },
   {
     "w": "environment",
     "m": "môi trường",
     "cat": "advanced",
-    "p": "ɛnvˈaɪɹənmənt"
+    "p": "ɛnvˈaɪɹənmənt",
+    "pos": "Danh từ"
   },
   {
     "w": "essential",
     "m": "thiết yếu",
     "cat": "advanced",
-    "p": "ᵻsˈɛnʃəl"
+    "p": "ᵻsˈɛnʃəl",
+    "pos": "Tính từ"
   },
   {
     "w": "eventually",
     "m": "cuối cùng",
     "cat": "advanced",
-    "p": "ᵻvˈɛntʃuːəli"
+    "p": "ᵻvˈɛntʃuːəli",
+    "pos": "Phó từ"
   },
   {
     "w": "expect",
     "m": "mong đợi",
     "cat": "advanced",
-    "p": "ɛkspˈɛkt"
+    "p": "ɛkspˈɛkt",
+    "pos": "Động từ"
   },
   {
     "w": "experience",
     "m": "kinh nghiệm",
     "cat": "advanced",
-    "p": "ɛkspˈiəɹɪəns"
+    "p": "ɛkspˈiəɹɪəns",
+    "pos": "Danh từ"
   },
   {
     "w": "express",
     "m": "diễn đạt, thể hiện",
     "cat": "advanced",
-    "p": "ɛkspɹˈɛs"
+    "p": "ɛkspɹˈɛs",
+    "pos": "Danh từ"
   },
   {
     "w": "factor",
     "m": "yếu tố",
     "cat": "advanced",
-    "p": "fˈæktɚ"
+    "p": "fˈæktɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "familiar",
     "m": "quen thuộc",
     "cat": "advanced",
-    "p": "fəmˈɪlɪɹ"
+    "p": "fəmˈɪlɪɹ",
+    "pos": "Tính từ"
   },
   {
     "w": "focus",
     "m": "tập trung",
     "cat": "advanced",
-    "p": "fˈoʊkəs"
+    "p": "fˈoʊkəs",
+    "pos": "Danh từ"
   },
   {
     "w": "formal",
     "m": "trang trọng, chính thức",
     "cat": "advanced",
-    "p": "fˈɔːɹməl"
+    "p": "fˈɔːɹməl",
+    "pos": "Danh từ"
   },
   {
     "w": "generation",
     "m": "thế hệ",
     "cat": "advanced",
-    "p": "dʒˌɛnɚɹˈeɪʃən"
+    "p": "dʒˌɛnɚɹˈeɪʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "global",
     "m": "toàn cầu",
     "cat": "advanced",
-    "p": "ɡlˈoʊbəl"
+    "p": "ɡlˈoʊbəl",
+    "pos": "Tính từ"
   },
   {
     "w": "goal",
     "m": "mục tiêu",
     "cat": "advanced",
-    "p": "ɡˈoʊl"
+    "p": "ɡˈoʊl",
+    "pos": "Danh từ"
   },
   {
     "w": "growth",
     "m": "tăng trưởng",
     "cat": "advanced",
-    "p": "ɡɹˈoʊθ"
+    "p": "ɡɹˈoʊθ",
+    "pos": "Danh từ"
   },
   {
     "w": "harm",
     "m": "gây hại",
     "cat": "advanced",
-    "p": "hˈɑːɹm"
+    "p": "hˈɑːɹm",
+    "pos": "Danh từ"
   },
   {
     "w": "helpful",
     "m": "hữu ích",
     "cat": "advanced",
-    "p": "hˈɛlpfəl"
+    "p": "hˈɛlpfəl",
+    "pos": "Tính từ"
   },
   {
     "w": "identify",
     "m": "nhận dạng, xác định, nhận diện, nhận ra",
     "cat": "advanced",
-    "p": "aɪdˈɛntᵻfˌaɪ"
+    "p": "aɪdˈɛntᵻfˌaɪ",
+    "pos": "Động từ"
   },
   {
     "w": "imagine",
     "m": "tưởng tượng",
     "cat": "advanced",
-    "p": "ɪmˈædʒɪn"
+    "p": "ɪmˈædʒɪn",
+    "pos": "Động từ"
   },
   {
     "w": "improve",
     "m": "cải thiện",
     "cat": "advanced",
-    "p": "ɪmpɹˈuːv"
+    "p": "ɪmpɹˈuːv",
+    "pos": "Động từ"
   },
   {
     "w": "include",
     "m": "bao gồm",
     "cat": "advanced",
-    "p": "ɪŋklˈuːd"
+    "p": "ɪŋklˈuːd",
+    "pos": "Động từ"
   },
   {
     "w": "increase",
     "m": "tăng lên",
     "cat": "advanced",
-    "p": "ˈɪŋkɹiːs"
+    "p": "ˈɪŋkɹiːs",
+    "pos": "Động từ"
   },
   {
     "w": "influence",
     "m": "ảnh hưởng",
     "cat": "advanced",
-    "p": "ˈɪnfluːəns"
+    "p": "ˈɪnfluːəns",
+    "pos": "Động từ"
   },
   {
     "w": "inform",
     "m": "thông báo",
     "cat": "advanced",
-    "p": "ɪnfˈɔːɹm"
+    "p": "ɪnfˈɔːɹm",
+    "pos": "Động từ"
   },
   {
     "w": "involve",
     "m": "liên quan đến",
     "cat": "advanced",
-    "p": "ɪnvˈɑːlv"
+    "p": "ɪnvˈɑːlv",
+    "pos": "Danh từ"
   },
   {
     "w": "issue",
     "m": "vấn đề",
     "cat": "advanced",
-    "p": "ˈɪʃuː"
+    "p": "ˈɪʃuː",
+    "pos": "Danh từ"
   },
   {
     "w": "limited",
     "m": "hạn chế",
     "cat": "advanced",
-    "p": "lˈɪmɪɾᵻd"
+    "p": "lˈɪmɪɾᵻd",
+    "pos": "Danh từ"
   },
   {
     "w": "maintain",
     "m": "duy trì",
     "cat": "advanced",
-    "p": "meɪntˈeɪn"
+    "p": "meɪntˈeɪn",
+    "pos": "Động từ"
   },
   {
     "w": "major",
     "m": "lớn, quan trọng",
     "cat": "advanced",
-    "p": "mˈeɪdʒɚ"
+    "p": "mˈeɪdʒɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "manage",
     "m": "quản lý",
     "cat": "advanced",
-    "p": "mˈænɪdʒ"
+    "p": "mˈænɪdʒ",
+    "pos": "Động từ"
   },
   {
     "w": "mention",
     "m": "đề cập",
     "cat": "advanced",
-    "p": "mˈɛnʃən"
+    "p": "mˈɛnʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "method",
     "m": "phương pháp",
     "cat": "advanced",
-    "p": "mˈɛθəd"
+    "p": "mˈɛθəd",
+    "pos": "Danh từ"
   },
   {
     "w": "modern",
     "m": "hiện đại",
     "cat": "advanced",
-    "p": "mˈɑːdɚn"
+    "p": "mˈɑːdɚn",
+    "pos": "Tính từ"
   },
   {
     "w": "natural",
     "m": "tự nhiên",
     "cat": "advanced",
-    "p": "nˈætʃɚɹəl"
+    "p": "nˈætʃɚɹəl",
+    "pos": "Tính từ"
   },
   {
     "w": "necessary",
     "m": "cần thiết",
     "cat": "advanced",
-    "p": "nˈɛsᵻsɚɹi"
+    "p": "nˈɛsᵻsɚɹi",
+    "pos": "Tính từ"
   },
   {
     "w": "normal",
     "m": "bình thường",
     "cat": "advanced",
-    "p": "nˈɔːɹməl"
+    "p": "nˈɔːɹməl",
+    "pos": "Tính từ"
   },
   {
     "w": "obtain",
     "m": "đạt được, có được, thu được, giành được",
     "cat": "advanced",
-    "p": "əbtˈeɪn"
+    "p": "əbtˈeɪn",
+    "pos": "Động từ"
   },
   {
     "w": "opportunity",
     "m": "cơ hội",
     "cat": "advanced",
-    "p": "ɑːpɚtˈuːnᵻɾi"
+    "p": "ɑːpɚtˈuːnᵻɾi",
+    "pos": "Danh từ"
   },
   {
     "w": "organize",
     "m": "tổ chức, sắp xếp",
     "cat": "advanced",
-    "p": "ˈɔːɹɡənˌaɪz"
+    "p": "ˈɔːɹɡənˌaɪz",
+    "pos": "Danh từ"
   },
   {
     "w": "particular",
     "m": "đặc biệt, cụ thể",
     "cat": "advanced",
-    "p": "pɚtˈɪkjʊlɚ"
+    "p": "pɚtˈɪkjʊlɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "personal",
     "m": "cá nhân",
     "cat": "advanced",
-    "p": "pˈɜːsənəl"
+    "p": "pˈɜːsənəl",
+    "pos": "Tính từ"
   },
   {
     "w": "physical",
     "m": "thể chất, vật lý",
     "cat": "advanced",
-    "p": "fˈɪzɪkəl"
+    "p": "fˈɪzɪkəl",
+    "pos": "Danh từ"
   },
   {
     "w": "possible",
     "m": "có thể",
     "cat": "advanced",
-    "p": "pˈɑːsᵻbəl"
+    "p": "pˈɑːsᵻbəl",
+    "pos": "Tính từ"
   },
   {
     "w": "practical",
     "m": "thực tế",
     "cat": "advanced",
-    "p": "pɹˈæktɪkəl"
+    "p": "pɹˈæktɪkəl",
+    "pos": "Tính từ"
   },
   {
     "w": "prepare",
     "m": "chuẩn bị",
     "cat": "advanced",
-    "p": "pɹɪpˈɛɹ"
+    "p": "pɹɪpˈɛɹ",
+    "pos": "Động từ"
   },
   {
     "w": "present",
     "m": "giới thiệu, hiện tại, trình bày",
     "cat": "advanced",
-    "p": "pɹˈɛzənt"
+    "p": "pɹˈɛzənt",
+    "pos": "Động từ"
   },
   {
     "w": "prevent",
     "m": "ngăn ngừa",
     "cat": "advanced",
-    "p": "pɹɪvˈɛnt"
+    "p": "pɹɪvˈɛnt",
+    "pos": "Động từ"
   },
   {
     "w": "problem",
     "m": "vấn đề, bài toán",
     "cat": "advanced",
-    "p": "pɹˈɑːbləm"
+    "p": "pɹˈɑːbləm",
+    "pos": "Danh từ"
   },
   {
     "w": "process",
     "m": "quá trình, xử lý",
     "cat": "advanced",
-    "p": "pɹˈɑːsɛs"
+    "p": "pɹˈɑːsɛs",
+    "pos": "Danh từ"
   },
   {
     "w": "produce",
     "m": "sản xuất",
     "cat": "advanced",
-    "p": "pɹədˈuːs"
+    "p": "pɹədˈuːs",
+    "pos": "Động từ"
   },
   {
     "w": "provide",
     "m": "cung cấp",
     "cat": "advanced",
-    "p": "pɹəvˈaɪd"
+    "p": "pɹəvˈaɪd",
+    "pos": "Động từ"
   },
   {
     "w": "public",
     "m": "công cộng",
     "cat": "advanced",
-    "p": "pˈʌblɪk"
+    "p": "pˈʌblɪk",
+    "pos": "Danh từ"
   },
   {
     "w": "purpose",
     "m": "mục đích",
     "cat": "advanced",
-    "p": "pˈɜːpəs"
+    "p": "pˈɜːpəs",
+    "pos": "Danh từ"
   },
   {
     "w": "quality",
     "m": "chất lượng",
     "cat": "advanced",
-    "p": "kwˈɔlᵻɾi"
+    "p": "kwˈɔlᵻɾi",
+    "pos": "Danh từ"
   },
   {
     "w": "question",
     "m": "câu hỏi",
     "cat": "advanced",
-    "p": "kwˈɛstʃən"
+    "p": "kwˈɛstʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "reason",
     "m": "lý do",
     "cat": "advanced",
-    "p": "ɹˈiːzən"
+    "p": "ɹˈiːzən",
+    "pos": "Danh từ"
   },
   {
     "w": "recognize",
     "m": "nhận ra",
     "cat": "advanced",
-    "p": "ɹˈɛkəɡnˌaɪz"
+    "p": "ɹˈɛkəɡnˌaɪz",
+    "pos": "Động từ"
   },
   {
     "w": "reduce",
     "m": "giảm",
     "cat": "advanced",
-    "p": "ɹᵻdˈuːs"
+    "p": "ɹᵻdˈuːs",
+    "pos": "Động từ"
   },
   {
     "w": "relate",
     "m": "liên quan",
     "cat": "advanced",
-    "p": "ɹᵻlˈeɪt"
+    "p": "ɹᵻlˈeɪt",
+    "pos": "Danh từ"
   },
   {
     "w": "relevant",
     "m": "liên quan, thích hợp",
     "cat": "advanced",
-    "p": "ɹˈɛlᵻvənt"
+    "p": "ɹˈɛlᵻvənt",
+    "pos": "Danh từ"
   },
   {
     "w": "require",
     "m": "yêu cầu, đòi hỏi, cần",
     "cat": "advanced",
-    "p": "ɹᵻkwˈaɪɚ"
+    "p": "ɹᵻkwˈaɪɚ",
+    "pos": "Động từ"
   },
   {
     "w": "result",
     "m": "kết quả",
     "cat": "advanced",
-    "p": "ɹɪzˈʌlt"
+    "p": "ɹɪzˈʌlt",
+    "pos": "Danh từ"
   },
   {
     "w": "role",
     "m": "vai trò",
     "cat": "advanced",
-    "p": "ɹˈoʊl"
+    "p": "ɹˈoʊl",
+    "pos": "Danh từ"
   },
   {
     "w": "significant",
     "m": "đáng kể, có ý nghĩa, quan trọng, đáng chú ý",
     "cat": "advanced",
-    "p": "sɪɡnˈɪfɪkənt"
+    "p": "sɪɡnˈɪfɪkənt",
+    "pos": "Tính từ"
   },
   {
     "w": "specific",
     "m": "cụ thể",
     "cat": "advanced",
-    "p": "spəsˈɪfɪk"
+    "p": "spəsˈɪfɪk",
+    "pos": "Tính từ"
   },
   {
     "w": "structure",
     "m": "cấu trúc",
     "cat": "advanced",
-    "p": "stɹˈʌktʃɚ"
+    "p": "stɹˈʌktʃɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "succeed",
     "m": "thành công",
     "cat": "advanced",
-    "p": "səksˈiːd"
+    "p": "səksˈiːd",
+    "pos": "Động từ"
   },
   {
     "w": "suggest",
     "m": "đề xuất",
     "cat": "advanced",
-    "p": "sədʒˈɛst"
+    "p": "sədʒˈɛst",
+    "pos": "Động từ"
   },
   {
     "w": "suitable",
     "m": "phù hợp",
     "cat": "advanced",
-    "p": "sˈuːɾəbəl"
+    "p": "sˈuːɾəbəl",
+    "pos": "Động từ"
   },
   {
     "w": "suppose",
     "m": "cho là, giả sử",
     "cat": "advanced",
-    "p": "səpˈoʊz"
+    "p": "səpˈoʊz",
+    "pos": "Danh từ"
   },
   {
     "w": "surprising",
     "m": "đáng ngạc nhiên",
     "cat": "advanced",
-    "p": "sɚpɹˈaɪzɪŋ"
+    "p": "sɚpɹˈaɪzɪŋ",
+    "pos": "Danh từ"
   },
   {
     "w": "tendency",
     "m": "xu hướng",
     "cat": "advanced",
-    "p": "tˈɛndənsi"
+    "p": "tˈɛndənsi",
+    "pos": "Danh từ"
   },
   {
     "w": "topic",
     "m": "chủ đề",
     "cat": "advanced",
-    "p": "tˈɑːpɪk"
+    "p": "tˈɑːpɪk",
+    "pos": "Danh từ"
   },
   {
     "w": "typical",
     "m": "điển hình",
     "cat": "advanced",
-    "p": "tˈɪpɪkəl"
+    "p": "tˈɪpɪkəl",
+    "pos": "Tính từ"
   },
   {
     "w": "unique",
     "m": "độc đáo",
     "cat": "advanced",
-    "p": "juːnˈiːk"
+    "p": "juːnˈiːk",
+    "pos": "Danh từ"
   },
   {
     "w": "useful",
     "m": "hữu ích",
     "cat": "advanced",
-    "p": "jˈuːsfəl"
+    "p": "jˈuːsfəl",
+    "pos": "Tính từ"
   },
   {
     "w": "various",
     "m": "nhiều loại, đa dạng",
     "cat": "advanced",
-    "p": "vˈɛɹiəs"
+    "p": "vˈɛɹiəs",
+    "pos": "Danh từ"
   },
   {
     "w": "view",
     "m": "tầm nhìn, cảnh, quan điểm",
     "cat": "advanced",
-    "p": "vjˈuː"
+    "p": "vjˈuː",
+    "pos": "Danh từ"
   },
   {
     "w": "wide",
     "m": "rộng",
     "cat": "advanced",
-    "p": "wˈaɪd"
+    "p": "wˈaɪd",
+    "pos": "Tính từ"
   },
   {
     "w": "wonder",
     "m": "tự hỏi, kỳ diệu",
     "cat": "advanced",
-    "p": "wˈʌndɚ"
+    "p": "wˈʌndɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "worth",
     "m": "đáng giá",
     "cat": "advanced",
-    "p": "wˈɜːθ"
+    "p": "wˈɜːθ",
+    "pos": "Động từ"
   },
   {
     "w": "absolute",
     "m": "tuyệt đối",
     "cat": "advanced",
-    "p": "ˈæbsəlˌuːt"
+    "p": "ˈæbsəlˌuːt",
+    "pos": "Phó từ"
   },
   {
     "w": "accurate",
     "m": "chính xác",
     "cat": "advanced",
-    "p": "ˈækjʊɹət"
+    "p": "ˈækjʊɹət",
+    "pos": "Tính từ"
   },
   {
     "w": "adapt",
     "m": "thích nghi",
     "cat": "advanced",
-    "p": "ɐdˈæpt"
+    "p": "ɐdˈæpt",
+    "pos": "Động từ"
   },
   {
     "w": "adequate",
     "m": "đầy đủ, thích hợp, thỏa đáng",
     "cat": "advanced",
-    "p": "ˈædɪkwət"
+    "p": "ˈædɪkwət",
+    "pos": "Danh từ"
   },
   {
     "w": "admit",
     "m": "thừa nhận",
     "cat": "advanced",
-    "p": "ɐdmˈɪt"
+    "p": "ɐdmˈɪt",
+    "pos": "Danh từ"
   },
   {
     "w": "afford",
     "m": "đủ tiền để mua, có đủ khả năng",
     "cat": "advanced",
-    "p": "ɐfˈɔːɹd"
+    "p": "ɐfˈɔːɹd",
+    "pos": "Động từ"
   },
   {
     "w": "agency",
     "m": "cơ quan, đại lý, hãng",
     "cat": "advanced",
-    "p": "ˈeɪdʒənsi"
+    "p": "ˈeɪdʒənsi",
+    "pos": "Danh từ"
   },
   {
     "w": "aggressive",
     "m": "hung hăng",
     "cat": "advanced",
-    "p": "ɐɡɹˈɛsɪv"
+    "p": "ɐɡɹˈɛsɪv",
+    "pos": "Danh từ"
   },
   {
     "w": "allow",
     "m": "cho phép",
     "cat": "advanced",
-    "p": "ɐlˈaʊ"
+    "p": "ɐlˈaʊ",
+    "pos": "Danh từ"
   },
   {
     "w": "alternative",
     "m": "lựa chọn thay thế",
     "cat": "advanced",
-    "p": "ɔːltˈɜːnətˌɪv"
+    "p": "ɔːltˈɜːnətˌɪv",
+    "pos": "Danh từ"
   },
   {
     "w": "ambitious",
     "m": "tham vọng",
     "cat": "advanced",
-    "p": "æmbˈɪʃəs"
+    "p": "æmbˈɪʃəs",
+    "pos": "Danh từ"
   },
   {
     "w": "announce",
     "m": "thông báo",
     "cat": "advanced",
-    "p": "ɐnˈaʊns"
+    "p": "ɐnˈaʊns",
+    "pos": "Động từ"
   },
   {
     "w": "apparent",
     "m": "rõ ràng, có vẻ như",
     "cat": "advanced",
-    "p": "ɐpˈæɹənt"
+    "p": "ɐpˈæɹənt",
+    "pos": "Danh từ"
   },
   {
     "w": "apply",
     "m": "áp dụng, xin việc, ứng dụng/xin, ứng dụng",
     "cat": "advanced",
-    "p": "ɐplˈaɪ"
+    "p": "ɐplˈaɪ",
+    "pos": "Động từ"
   },
   {
     "w": "approach",
     "m": "cách tiếp cận",
     "cat": "advanced",
-    "p": "ɐpɹˈoʊtʃ"
+    "p": "ɐpɹˈoʊtʃ",
+    "pos": "Danh từ"
   },
   {
     "w": "appropriate",
     "m": "thích hợp",
     "cat": "advanced",
-    "p": "ɐpɹˈoʊpɹɪət"
+    "p": "ɐpɹˈoʊpɹɪət",
+    "pos": "Danh từ"
   },
   {
     "w": "approve",
     "m": "phê duyệt",
     "cat": "advanced",
-    "p": "ɐpɹˈuːv"
+    "p": "ɐpɹˈuːv",
+    "pos": "Danh từ"
   },
   {
     "w": "aspect",
     "m": "khía cạnh",
     "cat": "advanced",
-    "p": "ˈæspɛkt"
+    "p": "ˈæspɛkt",
+    "pos": "Danh từ"
   },
   {
     "w": "assume",
     "m": "giả định",
     "cat": "advanced",
-    "p": "ɐsˈuːm"
+    "p": "ɐsˈuːm",
+    "pos": "Danh từ"
   },
   {
     "w": "attach",
     "m": "đính kèm",
     "cat": "advanced",
-    "p": "ɐtˈætʃ"
+    "p": "ɐtˈætʃ",
+    "pos": "Danh từ"
   },
   {
     "w": "attempt",
     "m": "cố gắng",
     "cat": "advanced",
-    "p": "ɐtˈɛmpt"
+    "p": "ɐtˈɛmpt",
+    "pos": "Danh từ"
   },
   {
     "w": "attract",
     "m": "thu hút",
     "cat": "advanced",
-    "p": "ɐtɹˈækt"
+    "p": "ɐtɹˈækt",
+    "pos": "Động từ"
   },
   {
     "w": "avoid",
     "m": "tránh",
     "cat": "advanced",
-    "p": "ɐvˈɔɪd"
+    "p": "ɐvˈɔɪd",
+    "pos": "Động từ"
   },
   {
     "w": "aware",
     "m": "nhận thức được",
     "cat": "advanced",
-    "p": "ɐwˈɛɹ"
+    "p": "ɐwˈɛɹ",
+    "pos": "Danh từ"
   },
   {
     "w": "basic",
     "m": "cơ bản",
     "cat": "advanced",
-    "p": "bˈeɪsɪk"
+    "p": "bˈeɪsɪk",
+    "pos": "Tính từ"
   },
   {
     "w": "behavior",
     "m": "hành vi",
     "cat": "advanced",
-    "p": "bᵻhˈeɪvjɚ"
+    "p": "bᵻhˈeɪvjɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "capable",
     "m": "có khả năng",
     "cat": "advanced",
-    "p": "kˈeɪpəbəl"
+    "p": "kˈeɪpəbəl",
+    "pos": "Danh từ"
   },
   {
     "w": "category",
     "m": "danh mục, loại",
     "cat": "advanced",
-    "p": "kˈæɾɪɡɚɹi"
+    "p": "kˈæɾɪɡɚɹi",
+    "pos": "Danh từ"
   },
   {
     "w": "certain",
     "m": "chắc chắn, một số",
     "cat": "advanced",
-    "p": "sˈɜːʔn̩"
+    "p": "sˈɜːʔn̩",
+    "pos": "Danh từ"
   },
   {
     "w": "combination",
     "m": "sự kết hợp",
     "cat": "advanced",
-    "p": "kˌɑːmbᵻnˈeɪʃən"
+    "p": "kˌɑːmbᵻnˈeɪʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "commit",
     "m": "cam kết",
     "cat": "advanced",
-    "p": "kəmˈɪt"
+    "p": "kəmˈɪt",
+    "pos": "Danh từ"
   },
   {
     "w": "communicate",
     "m": "giao tiếp",
     "cat": "advanced",
-    "p": "kəmjˈuːnᵻkˌeɪt"
+    "p": "kəmjˈuːnᵻkˌeɪt",
+    "pos": "Danh từ"
   },
   {
     "w": "complete",
     "m": "hoàn chỉnh, hoàn thành",
     "cat": "advanced",
-    "p": "kəmplˈiːt"
+    "p": "kəmplˈiːt",
+    "pos": "Danh từ"
   },
   {
     "w": "complex",
     "m": "phức tạp",
     "cat": "advanced",
-    "p": "kˈɑːmplɛks"
+    "p": "kˈɑːmplɛks",
+    "pos": "Tính từ"
   },
   {
     "w": "concentrate",
     "m": "tập trung",
     "cat": "advanced",
-    "p": "kˈɑːnsəntɹˌeɪt"
+    "p": "kˈɑːnsəntɹˌeɪt",
+    "pos": "Danh từ"
   },
   {
     "w": "conduct",
     "m": "tiến hành, hành vi",
     "cat": "advanced",
-    "p": "kˈɑːndʌkt"
+    "p": "kˈɑːndʌkt",
+    "pos": "Danh từ"
   },
   {
     "w": "connect",
     "m": "kết nối",
     "cat": "advanced",
-    "p": "kənˈɛkt"
+    "p": "kənˈɛkt",
+    "pos": "Động từ"
   },
   {
     "w": "consistent",
     "m": "nhất quán",
     "cat": "advanced",
-    "p": "kənsˈɪstənt"
+    "p": "kənsˈɪstənt",
+    "pos": "Danh từ"
   },
   {
     "w": "contact",
     "m": "liên lạc",
     "cat": "advanced",
-    "p": "kˈɑːntækt"
+    "p": "kˈɑːntækt",
+    "pos": "Danh từ"
   },
   {
     "w": "contribute",
     "m": "đóng góp",
     "cat": "advanced",
-    "p": "kəntɹˈɪbjuːt"
+    "p": "kəntɹˈɪbjuːt",
+    "pos": "Danh từ"
   },
   {
     "w": "convince",
     "m": "thuyết phục",
     "cat": "advanced",
-    "p": "kənvˈɪns"
+    "p": "kənvˈɪns",
+    "pos": "Động từ"
   },
   {
     "w": "cooperate",
     "m": "hợp tác",
     "cat": "advanced",
-    "p": "koʊˈɑːpɚɹˌeɪt"
+    "p": "koʊˈɑːpɚɹˌeɪt",
+    "pos": "Động từ"
   },
   {
     "w": "create",
     "m": "tạo ra",
     "cat": "advanced",
-    "p": "kɹiːˈeɪt"
+    "p": "kɹiːˈeɪt",
+    "pos": "Động từ"
   },
   {
     "w": "cultural",
     "m": "văn hóa",
     "cat": "advanced",
-    "p": "kˈʌltʃɚɹəl"
+    "p": "kˈʌltʃɚɹəl",
+    "pos": "Danh từ"
   },
   {
     "w": "decrease",
     "m": "giảm",
     "cat": "advanced",
-    "p": "dˈiːkɹiːs"
+    "p": "dˈiːkɹiːs",
+    "pos": "Động từ"
   },
   {
     "w": "define",
     "m": "định nghĩa",
     "cat": "advanced",
-    "p": "dᵻfˈaɪn"
+    "p": "dᵻfˈaɪn",
+    "pos": "Danh từ"
   },
   {
     "w": "demonstrate",
     "m": "chứng minh, biểu diễn",
     "cat": "advanced",
-    "p": "dˈɛmənstɹˌeɪt"
+    "p": "dˈɛmənstɹˌeɪt",
+    "pos": "Động từ"
   },
   {
     "w": "design",
     "m": "thiết kế",
     "cat": "advanced",
-    "p": "dɪzˈaɪn"
+    "p": "dɪzˈaɪn",
+    "pos": "Động từ"
   },
   {
     "w": "develop",
     "m": "phát triển",
     "cat": "advanced",
-    "p": "dɪvˈɛləp"
+    "p": "dɪvˈɛləp",
+    "pos": "Động từ"
   },
   {
     "w": "distribute",
     "m": "phân phối",
     "cat": "advanced",
-    "p": "dˈɪstɹɪbjˌuːt"
+    "p": "dˈɪstɹɪbjˌuːt",
+    "pos": "Danh từ"
   },
   {
     "w": "efficient",
     "m": "hiệu quả, năng suất cao, tiết kiệm",
     "cat": "advanced",
-    "p": "ɪfˈɪʃənt"
+    "p": "ɪfˈɪʃənt",
+    "pos": "Tính từ"
   },
   {
     "w": "either",
     "m": "hoặc là... hoặc là, một trong hai",
     "cat": "advanced",
-    "p": "ˈiːðɚ"
+    "p": "ˈiːðɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "enable",
     "m": "cho phép, giúp có thể, tạo điều kiện",
     "cat": "advanced",
-    "p": "ɛnˈeɪbəl"
+    "p": "ɛnˈeɪbəl",
+    "pos": "Danh từ"
   },
   {
     "w": "enforce",
     "m": "thực thi",
     "cat": "advanced",
-    "p": "ɛnfˈɔːɹs"
+    "p": "ɛnfˈɔːɹs",
+    "pos": "Danh từ"
   },
   {
     "w": "engage",
     "m": "tham gia, thu hút",
     "cat": "advanced",
-    "p": "ɛŋɡˈeɪdʒ"
+    "p": "ɛŋɡˈeɪdʒ",
+    "pos": "Danh từ"
   },
   {
     "w": "ensure",
     "m": "đảm bảo",
     "cat": "advanced",
-    "p": "ɛnʃˈʊɹ"
+    "p": "ɛnʃˈʊɹ",
+    "pos": "Danh từ"
   },
   {
     "w": "entire",
     "m": "toàn bộ",
     "cat": "advanced",
-    "p": "ɛntˈaɪɚ"
+    "p": "ɛntˈaɪɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "establish",
     "m": "thành lập, thiết lập",
     "cat": "advanced",
-    "p": "ɪstˈæblɪʃ"
+    "p": "ɪstˈæblɪʃ",
+    "pos": "Động từ"
   },
   {
     "w": "excess",
     "m": "dư thừa",
     "cat": "advanced",
-    "p": "ɛksˈɛs"
+    "p": "ɛksˈɛs",
+    "pos": "Danh từ"
   },
   {
     "w": "exchange",
     "m": "trao đổi",
     "cat": "advanced",
-    "p": "ɛkstʃˈeɪndʒ"
+    "p": "ɛkstʃˈeɪndʒ",
+    "pos": "Danh từ"
   },
   {
     "w": "exist",
     "m": "tồn tại",
     "cat": "advanced",
-    "p": "ɛɡzˈɪst"
+    "p": "ɛɡzˈɪst",
+    "pos": "Danh từ"
   },
   {
     "w": "expand",
     "m": "mở rộng",
     "cat": "advanced",
-    "p": "ɛkspˈænd"
+    "p": "ɛkspˈænd",
+    "pos": "Động từ"
   },
   {
     "w": "extend",
     "m": "kéo dài, mở rộng",
     "cat": "advanced",
-    "p": "ɛkstˈɛnd"
+    "p": "ɛkstˈɛnd",
+    "pos": "Danh từ"
   },
   {
     "w": "extreme",
     "m": "cực đoan",
     "cat": "advanced",
-    "p": "ɛkstɹˈiːm"
+    "p": "ɛkstɹˈiːm",
+    "pos": "Danh từ"
   },
   {
     "w": "facility",
     "m": "cơ sở, tiện nghi",
     "cat": "advanced",
-    "p": "fəsˈɪlᵻɾi"
+    "p": "fəsˈɪlᵻɾi",
+    "pos": "Danh từ"
   },
   {
     "w": "fair",
     "m": "công bằng",
     "cat": "advanced",
-    "p": "fˈɛɹ"
+    "p": "fˈɛɹ",
+    "pos": "Danh từ"
   },
   {
     "w": "feature",
     "m": "tính năng, đặc điểm",
     "cat": "advanced",
-    "p": "fˈiːtʃɚ"
+    "p": "fˈiːtʃɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "financial",
     "m": "tài chính",
     "cat": "advanced",
-    "p": "faɪnˈænʃəl"
+    "p": "faɪnˈænʃəl",
+    "pos": "Danh từ"
   },
   {
     "w": "flexible",
     "m": "linh hoạt",
     "cat": "advanced",
-    "p": "flˈɛksɪbəl"
+    "p": "flˈɛksɪbəl",
+    "pos": "Tính từ"
   },
   {
     "w": "freedom",
     "m": "tự do",
     "cat": "advanced",
-    "p": "fɹˈiːdəm"
+    "p": "fɹˈiːdəm",
+    "pos": "Tính từ"
   },
   {
     "w": "function",
     "m": "chức năng, hoạt động",
     "cat": "advanced",
-    "p": "fˈʌŋkʃən"
+    "p": "fˈʌŋkʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "fundamental",
     "m": "cơ bản, nền tảng",
     "cat": "advanced",
-    "p": "fˌʌndəmˈɛntəl"
+    "p": "fˌʌndəmˈɛntəl",
+    "pos": "Tính từ"
   },
   {
     "w": "guarantee",
     "m": "đảm bảo, bảo đảm",
     "cat": "advanced",
-    "p": "ɡˌæɹəntˈiː"
+    "p": "ɡˌæɹəntˈiː",
+    "pos": "Danh từ"
   },
   {
     "w": "guideline",
     "m": "hướng dẫn",
     "cat": "advanced",
-    "p": "ɡˈaɪdlaɪn"
+    "p": "ɡˈaɪdlaɪn",
+    "pos": "Danh từ"
   },
   {
     "w": "highlight",
     "m": "nhấn mạnh, điểm nổi bật, nêu bật",
     "cat": "advanced",
-    "p": "hˈaɪlaɪt"
+    "p": "hˈaɪlaɪt",
+    "pos": "Động từ"
   },
   {
     "w": "honest",
     "m": "trung thực",
     "cat": "advanced",
-    "p": "ˈɑːnɪst"
+    "p": "ˈɑːnɪst",
+    "pos": "Tính từ"
   },
   {
     "w": "huge",
     "m": "khổng lồ",
     "cat": "advanced",
-    "p": "hjˈuːdʒ"
+    "p": "hjˈuːdʒ",
+    "pos": "Tính từ"
   },
   {
     "w": "ideal",
     "m": "lý tưởng",
     "cat": "advanced",
-    "p": "aɪdˈiəl"
+    "p": "aɪdˈiəl",
+    "pos": "Tính từ"
   },
   {
     "w": "immediately",
     "m": "ngay lập tức",
     "cat": "advanced",
-    "p": "ɪmˈiːdɪətli"
+    "p": "ɪmˈiːdɪətli",
+    "pos": "Phó từ"
   },
   {
     "w": "implement",
     "m": "thực hiện, triển khai",
     "cat": "advanced",
-    "p": "ˈɪmplɪmənt"
+    "p": "ˈɪmplɪmənt",
+    "pos": "Động từ"
   },
   {
     "w": "independent",
     "m": "độc lập",
     "cat": "advanced",
-    "p": "ˌɪndᵻpˈɛndənt"
+    "p": "ˌɪndᵻpˈɛndənt",
+    "pos": "Tính từ"
   },
   {
     "w": "individual",
     "m": "cá nhân",
     "cat": "advanced",
-    "p": "ˌɪndᵻvˈɪdʒuːəl"
+    "p": "ˌɪndᵻvˈɪdʒuːəl",
+    "pos": "Tính từ"
   },
   {
     "w": "indicate",
     "m": "chỉ ra, biểu thị",
     "cat": "advanced",
-    "p": "ˈɪndᵻkˌeɪt"
+    "p": "ˈɪndᵻkˌeɪt",
+    "pos": "Danh từ"
   },
   {
     "w": "initial",
     "m": "ban đầu",
     "cat": "advanced",
-    "p": "ɪnˈɪʃəl"
+    "p": "ɪnˈɪʃəl",
+    "pos": "Danh từ"
   },
   {
     "w": "innovation",
     "m": "đổi mới",
     "cat": "advanced",
-    "p": "ˌɪnəvˈeɪʃən"
+    "p": "ˌɪnəvˈeɪʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "inspire",
     "m": "truyền cảm hứng",
     "cat": "advanced",
-    "p": "ɪnspˈaɪɚ"
+    "p": "ɪnspˈaɪɚ",
+    "pos": "Động từ"
   },
   {
     "w": "intense",
     "m": "mạnh mẽ, căng thẳng, mãnh liệt, dữ dội",
     "cat": "advanced",
-    "p": "ɪntˈɛns"
+    "p": "ɪntˈɛns",
+    "pos": "Danh từ"
   },
   {
     "w": "interpret",
     "m": "diễn giải, phiên dịch",
     "cat": "advanced",
-    "p": "ɪntˈɜːpɹɪt"
+    "p": "ɪntˈɜːpɹɪt",
+    "pos": "Danh từ"
   },
   {
     "w": "introduce",
     "m": "giới thiệu",
     "cat": "advanced",
-    "p": "ˌɪntɹədˈuːs"
+    "p": "ˌɪntɹədˈuːs",
+    "pos": "Động từ"
   },
   {
     "w": "investigate",
     "m": "điều tra",
     "cat": "advanced",
-    "p": "ɪnvˈɛstᵻɡˌeɪt"
+    "p": "ɪnvˈɛstᵻɡˌeɪt",
+    "pos": "Danh từ"
   },
   {
     "w": "justify",
     "m": "biện minh, chứng minh",
     "cat": "advanced",
-    "p": "dʒˈʌstᵻfˌaɪ"
+    "p": "dʒˈʌstᵻfˌaɪ",
+    "pos": "Danh từ"
   },
   {
     "w": "lack",
     "m": "thiếu",
     "cat": "advanced",
-    "p": "lˈæk"
+    "p": "lˈæk",
+    "pos": "Động từ"
   },
   {
     "w": "leadership",
     "m": "khả năng lãnh đạo",
     "cat": "advanced",
-    "p": "lˈiːdɚʃˌɪp"
+    "p": "lˈiːdɚʃˌɪp",
+    "pos": "Danh từ"
   },
   {
     "w": "legal",
     "m": "hợp pháp",
     "cat": "advanced",
-    "p": "lˈiːɡəl"
+    "p": "lˈiːɡəl",
+    "pos": "Danh từ"
   },
   {
     "w": "locate",
     "m": "tìm vị trí",
     "cat": "advanced",
-    "p": "loʊkˈeɪt"
+    "p": "loʊkˈeɪt",
+    "pos": "Danh từ"
   },
   {
     "w": "logical",
     "m": "hợp lý",
     "cat": "advanced",
-    "p": "lˈɑːdʒɪkəl"
+    "p": "lˈɑːdʒɪkəl",
+    "pos": "Tính từ"
   },
   {
     "w": "maximum",
     "m": "tối đa",
     "cat": "advanced",
-    "p": "mˈæksɪməm"
+    "p": "mˈæksɪməm",
+    "pos": "Danh từ"
   },
   {
     "w": "measure",
     "m": "đo lường, biện pháp",
     "cat": "advanced",
-    "p": "mˈɛʒɚ"
+    "p": "mˈɛʒɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "minimum",
     "m": "tối thiểu",
     "cat": "advanced",
-    "p": "mˈɪnɪməm"
+    "p": "mˈɪnɪməm",
+    "pos": "Tính từ"
   },
   {
     "w": "motivate",
     "m": "động viên, thúc đẩy",
     "cat": "advanced",
-    "p": "mˈoʊɾᵻvˌeɪt"
+    "p": "mˈoʊɾᵻvˌeɪt",
+    "pos": "Động từ"
   },
   {
     "w": "negative",
     "m": "tiêu cực",
     "cat": "advanced",
-    "p": "nˈɛɡətˌɪv"
+    "p": "nˈɛɡətˌɪv",
+    "pos": "Tính từ"
   },
   {
     "w": "obvious",
     "m": "hiển nhiên",
     "cat": "advanced",
-    "p": "ˈɑːbviəs"
+    "p": "ˈɑːbviəs",
+    "pos": "Tính từ"
   },
   {
     "w": "operate",
     "m": "vận hành",
     "cat": "advanced",
-    "p": "ˈɑːpɚɹˌeɪt"
+    "p": "ˈɑːpɚɹˌeɪt",
+    "pos": "Danh từ"
   },
   {
     "w": "option",
     "m": "lựa chọn",
     "cat": "advanced",
-    "p": "ˈɑːpʃən"
+    "p": "ˈɑːpʃən",
+    "pos": "Động từ"
   },
   {
     "w": "overcome",
     "m": "vượt qua",
     "cat": "advanced",
-    "p": "ˌoʊvɚkˈʌm"
+    "p": "ˌoʊvɚkˈʌm",
+    "pos": "Động từ"
   },
   {
     "w": "participate",
     "m": "tham gia",
     "cat": "advanced",
-    "p": "pɑːɹtˈɪsᵻpˌeɪt"
+    "p": "pɑːɹtˈɪsᵻpˌeɪt",
+    "pos": "Động từ"
   },
   {
     "w": "patient",
     "m": "kiên nhẫn, bệnh nhân",
     "cat": "advanced",
-    "p": "pˈeɪʃənt"
+    "p": "pˈeɪʃənt",
+    "pos": "Tính từ"
   },
   {
     "w": "percentage",
     "m": "phần trăm",
     "cat": "advanced",
-    "p": "pɚsˈɛntɪdʒ"
+    "p": "pɚsˈɛntɪdʒ",
+    "pos": "Số từ"
   },
   {
     "w": "permission",
     "m": "sự cho phép",
     "cat": "advanced",
-    "p": "pɚmˈɪʃən"
+    "p": "pɚmˈɪʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "persuade",
     "m": "thuyết phục",
     "cat": "advanced",
-    "p": "pɚswˈeɪd"
+    "p": "pɚswˈeɪd",
+    "pos": "Động từ"
   },
   {
     "w": "positive",
     "m": "tích cực",
     "cat": "advanced",
-    "p": "pˈɑːzᵻtˌɪv"
+    "p": "pˈɑːzᵻtˌɪv",
+    "pos": "Tính từ"
   },
   {
     "w": "potential",
     "m": "tiềm năng",
     "cat": "advanced",
-    "p": "pətˈɛnʃəl"
+    "p": "pətˈɛnʃəl",
+    "pos": "Danh từ"
   },
   {
     "w": "predict",
     "m": "dự đoán",
     "cat": "advanced",
-    "p": "pɹɪdˈɪkt"
+    "p": "pɹɪdˈɪkt",
+    "pos": "Danh từ"
   },
   {
     "w": "pressure",
     "m": "áp lực",
     "cat": "advanced",
-    "p": "pɹˈɛʃɚ"
+    "p": "pɹˈɛʃɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "priority",
     "m": "ưu tiên",
     "cat": "advanced",
-    "p": "pɹaɪˈɔːɹᵻɾi"
+    "p": "pɹaɪˈɔːɹᵻɾi",
+    "pos": "Động từ"
   },
   {
     "w": "project",
     "m": "dự án",
     "cat": "advanced",
-    "p": "pɹˈɑːdʒɛkt"
+    "p": "pɹˈɑːdʒɛkt",
+    "pos": "Danh từ"
   },
   {
     "w": "promote",
     "m": "thúc đẩy, quảng bá",
     "cat": "advanced",
-    "p": "pɹəmˈoʊt"
+    "p": "pɹəmˈoʊt",
+    "pos": "Danh từ"
   },
   {
     "w": "propose",
     "m": "đề xuất",
     "cat": "advanced",
-    "p": "pɹəpˈoʊz"
+    "p": "pɹəpˈoʊz",
+    "pos": "Động từ"
   },
   {
     "w": "protect",
     "m": "bảo vệ",
     "cat": "advanced",
-    "p": "pɹətˈɛkt"
+    "p": "pɹətˈɛkt",
+    "pos": "Động từ"
   },
   {
     "w": "prove",
     "m": "chứng minh",
     "cat": "advanced",
-    "p": "pɹˈuːv"
+    "p": "pɹˈuːv",
+    "pos": "Động từ"
   },
   {
     "w": "publish",
     "m": "xuất bản",
     "cat": "advanced",
-    "p": "pˈʌblɪʃ"
+    "p": "pˈʌblɪʃ",
+    "pos": "Danh từ"
   },
   {
     "w": "rate",
     "m": "tỉ lệ, đánh giá, tỷ lệ, mức độ",
     "cat": "advanced",
-    "p": "ɹˈeɪt"
+    "p": "ɹˈeɪt",
+    "pos": "Danh từ"
   },
   {
     "w": "recent",
     "m": "gần đây",
     "cat": "advanced",
-    "p": "ɹˈiːsənt"
+    "p": "ɹˈiːsənt",
+    "pos": "Phó từ"
   },
   {
     "w": "regular",
     "m": "thường xuyên, đều đặn",
     "cat": "advanced",
-    "p": "ɹˈɛɡjʊlɚ"
+    "p": "ɹˈɛɡjʊlɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "reject",
     "m": "từ chối, bác bỏ",
     "cat": "advanced",
-    "p": "ɹᵻdʒˈɛkt"
+    "p": "ɹᵻdʒˈɛkt",
+    "pos": "Danh từ"
   },
   {
     "w": "replace",
     "m": "thay thế",
     "cat": "advanced",
-    "p": "ɹᵻplˈeɪs"
+    "p": "ɹᵻplˈeɪs",
+    "pos": "Danh từ"
   },
   {
     "w": "represent",
     "m": "đại diện cho",
     "cat": "advanced",
-    "p": "ɹˌɛpɹᵻzˈɛnt"
+    "p": "ɹˌɛpɹᵻzˈɛnt",
+    "pos": "Danh từ"
   },
   {
     "w": "request",
     "m": "yêu cầu",
     "cat": "advanced",
-    "p": "ɹᵻkwˈɛst"
+    "p": "ɹᵻkwˈɛst",
+    "pos": "Động từ"
   },
   {
     "w": "resolve",
     "m": "giải quyết",
     "cat": "advanced",
-    "p": "ɹᵻzˈɑːlv"
+    "p": "ɹᵻzˈɑːlv",
+    "pos": "Động từ"
   },
   {
     "w": "resource",
     "m": "tài nguyên",
     "cat": "advanced",
-    "p": "ɹᵻsˈɔːɹs"
+    "p": "ɹᵻsˈɔːɹs",
+    "pos": "Danh từ"
   },
   {
     "w": "restrict",
     "m": "hạn chế",
     "cat": "advanced",
-    "p": "ɹᵻstɹˈɪkt"
+    "p": "ɹᵻstɹˈɪkt",
+    "pos": "Danh từ"
   },
   {
     "w": "review",
     "m": "xem lại, đánh giá, ôn tập, xem xét, điểm phim/sách",
     "cat": "advanced",
-    "p": "ɹᵻvjˈuː"
+    "p": "ɹᵻvjˈuː",
+    "pos": "Động từ"
   },
   {
     "w": "risk",
     "m": "rủi ro",
     "cat": "advanced",
-    "p": "ɹˈɪsk"
+    "p": "ɹˈɪsk",
+    "pos": "Danh từ"
   },
   {
     "w": "satisfy",
     "m": "thỏa mãn",
     "cat": "advanced",
-    "p": "sˈæɾɪsfˌaɪ"
+    "p": "sˈæɾɪsfˌaɪ",
+    "pos": "Danh từ"
   },
   {
     "w": "secure",
     "m": "an toàn, đảm bảo",
     "cat": "advanced",
-    "p": "sᵻkjˈʊɹ"
+    "p": "sᵻkjˈʊɹ",
+    "pos": "Danh từ"
   },
   {
     "w": "select",
     "m": "lựa chọn",
     "cat": "advanced",
-    "p": "sᵻlˈɛkt"
+    "p": "sᵻlˈɛkt",
+    "pos": "Động từ"
   },
   {
     "w": "sensitive",
     "m": "nhạy cảm",
     "cat": "advanced",
-    "p": "sˈɛnsᵻtˌɪv"
+    "p": "sˈɛnsᵻtˌɪv",
+    "pos": "Danh từ"
   },
   {
     "w": "separate",
     "m": "tách biệt",
     "cat": "advanced",
-    "p": "sˈɛpɹət"
+    "p": "sˈɛpɹət",
+    "pos": "Danh từ"
   },
   {
     "w": "serious",
     "m": "nghiêm trọng, nghiêm túc",
     "cat": "advanced",
-    "p": "sˈɪɹiəs"
+    "p": "sˈɪɹiəs",
+    "pos": "Danh từ"
   },
   {
     "w": "service",
     "m": "dịch vụ",
     "cat": "advanced",
-    "p": "sˈɜːvɪs"
+    "p": "sˈɜːvɪs",
+    "pos": "Danh từ"
   },
   {
     "w": "share",
     "m": "chia sẻ",
     "cat": "advanced",
-    "p": "ʃˈɛɹ"
+    "p": "ʃˈɛɹ",
+    "pos": "Động từ"
   },
   {
     "w": "show",
     "m": "chỉ cho xem, chứng tỏ, buổi biểu diễn",
     "cat": "advanced",
-    "p": "ʃˈoʊ"
+    "p": "ʃˈoʊ",
+    "pos": "Động từ"
   },
   {
     "w": "signal",
     "m": "tín hiệu, báo hiệu, dấu hiệu",
     "cat": "advanced",
-    "p": "sˈɪɡnəl"
+    "p": "sˈɪɡnəl",
+    "pos": "Danh từ"
   },
   {
     "w": "situation",
     "m": "tình huống",
     "cat": "advanced",
-    "p": "sˌɪtʃuːˈeɪʃən"
+    "p": "sˌɪtʃuːˈeɪʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "social",
     "m": "xã hội",
     "cat": "advanced",
-    "p": "sˈoʊʃəl"
+    "p": "sˈoʊʃəl",
+    "pos": "Danh từ"
   },
   {
     "w": "solve",
     "m": "giải quyết",
     "cat": "advanced",
-    "p": "sˈɑːlv"
+    "p": "sˈɑːlv",
+    "pos": "Động từ"
   },
   {
     "w": "spread",
     "m": "lan rộng",
     "cat": "advanced",
-    "p": "spɹˈɛd"
+    "p": "spɹˈɛd",
+    "pos": "Danh từ"
   },
   {
     "w": "standard",
     "m": "tiêu chuẩn",
     "cat": "advanced",
-    "p": "stˈændɚd"
+    "p": "stˈændɚd",
+    "pos": "Danh từ"
   },
   {
     "w": "state",
     "m": "tình trạng, phát biểu",
     "cat": "advanced",
-    "p": "stˈeɪt"
+    "p": "stˈeɪt",
+    "pos": "Danh từ"
   },
   {
     "w": "strong",
     "m": "mạnh mẽ",
     "cat": "advanced",
-    "p": "stɹˈɔŋ"
+    "p": "stɹˈɔŋ",
+    "pos": "Danh từ"
   },
   {
     "w": "study",
     "m": "học, nghiên cứu",
     "cat": "advanced",
-    "p": "stˈʌdi"
+    "p": "stˈʌdi",
+    "pos": "Động từ"
   },
   {
     "w": "supply",
     "m": "cung cấp",
     "cat": "advanced",
-    "p": "səplˈaɪ"
+    "p": "səplˈaɪ",
+    "pos": "Động từ"
   },
   {
     "w": "system",
     "m": "hệ thống",
     "cat": "advanced",
-    "p": "sˈɪstəm"
+    "p": "sˈɪstəm",
+    "pos": "Danh từ"
   },
   {
     "w": "tend",
     "m": "có xu hướng",
     "cat": "advanced",
-    "p": "tˈɛnd"
+    "p": "tˈɛnd",
+    "pos": "Danh từ"
   },
   {
     "w": "therefore",
     "m": "vì vậy",
     "cat": "advanced",
-    "p": "ðˈɛɹfɔːɹ"
+    "p": "ðˈɛɹfɔːɹ",
+    "pos": "Danh từ"
   },
   {
     "w": "totally",
     "m": "hoàn toàn",
     "cat": "advanced",
-    "p": "tˈoʊɾəli"
+    "p": "tˈoʊɾəli",
+    "pos": "Danh từ"
   },
   {
     "w": "traditional",
     "m": "truyền thống",
     "cat": "advanced",
-    "p": "tɹɐdˈɪʃənəl"
+    "p": "tɹɐdˈɪʃənəl",
+    "pos": "Tính từ"
   },
   {
     "w": "transfer",
     "m": "chuyển giao, chuyển khoản, chuyển tuyến, đổi xe/tàu",
     "cat": "advanced",
-    "p": "tɹˈænsfɜː"
+    "p": "tɹˈænsfɜː",
+    "pos": "Danh từ"
   },
   {
     "w": "treat",
     "m": "đối xử, chữa trị",
     "cat": "advanced",
-    "p": "tɹˈiːt"
+    "p": "tɹˈiːt",
+    "pos": "Danh từ"
   },
   {
     "w": "trust",
     "m": "tin tưởng",
     "cat": "advanced",
-    "p": "tɹˈʌst"
+    "p": "tɹˈʌst",
+    "pos": "Động từ"
   },
   {
     "w": "unable",
     "m": "không có khả năng",
     "cat": "advanced",
-    "p": "ʌnˈeɪbəl"
+    "p": "ʌnˈeɪbəl",
+    "pos": "Danh từ"
   },
   {
     "w": "unexpected",
     "m": "bất ngờ",
     "cat": "advanced",
-    "p": "ˌʌnɛkspˈɛktᵻd"
+    "p": "ˌʌnɛkspˈɛktᵻd",
+    "pos": "Danh từ"
   },
   {
     "w": "unfortunately",
     "m": "thật không may",
     "cat": "advanced",
-    "p": "ʌnfˈɔːɹtʃənətli"
+    "p": "ʌnfˈɔːɹtʃənətli",
+    "pos": "Phó từ"
   },
   {
     "w": "upon",
     "m": "trên, dựa vào",
     "cat": "advanced",
-    "p": "əpˌɑːn"
+    "p": "əpˌɑːn",
+    "pos": "Danh từ"
   },
   {
     "w": "urban",
     "m": "đô thị",
     "cat": "advanced",
-    "p": "ˈɜːbən"
+    "p": "ˈɜːbən",
+    "pos": "Danh từ"
   },
   {
     "w": "valuable",
     "m": "có giá trị",
     "cat": "advanced",
-    "p": "vˈæljuːəbəl"
+    "p": "vˈæljuːəbəl",
+    "pos": "Danh từ"
   },
   {
     "w": "variety",
     "m": "sự đa dạng",
     "cat": "advanced",
-    "p": "vɚɹˈaɪəɾi"
+    "p": "vɚɹˈaɪəɾi",
+    "pos": "Danh từ"
   },
   {
     "w": "vital",
     "m": "quan trọng sống còn",
     "cat": "advanced",
-    "p": "vˈaɪɾəl"
+    "p": "vˈaɪɾəl",
+    "pos": "Danh từ"
   },
   {
     "w": "wealth",
     "m": "sự giàu có",
     "cat": "advanced",
-    "p": "wˈɛlθ"
+    "p": "wˈɛlθ",
+    "pos": "Danh từ"
   },
   {
     "w": "widespread",
     "m": "lan rộng, phổ biến",
     "cat": "advanced",
-    "p": "wˈaɪdspɹɛd"
+    "p": "wˈaɪdspɹɛd",
+    "pos": "Danh từ"
   },
   {
     "w": "willing",
     "m": "sẵn lòng",
     "cat": "advanced",
-    "p": "wˈɪlɪŋ"
+    "p": "wˈɪlɪŋ",
+    "pos": "Danh từ"
   },
   {
     "w": "worldwide",
     "m": "trên toàn thế giới",
     "cat": "advanced",
-    "p": "wˈɜːldwaɪd"
+    "p": "wˈɜːldwaɪd",
+    "pos": "Danh từ"
   },
   {
     "w": "absolutely",
     "m": "hoàn toàn, chắc chắn",
     "cat": "advanced",
-    "p": "ˌæbsəlˈuːtli"
+    "p": "ˌæbsəlˈuːtli",
+    "pos": "Danh từ"
   },
   {
     "w": "accordingly",
     "m": "tương ứng, do vậy, do đó, theo đó",
     "cat": "advanced",
-    "p": "ɐkˈɔːɹdɪŋli"
+    "p": "ɐkˈɔːɹdɪŋli",
+    "pos": "Phó từ"
   },
   {
     "w": "additionally",
     "m": "ngoài ra, thêm vào",
     "cat": "advanced",
-    "p": "ɐdˈɪʃənəli"
+    "p": "ɐdˈɪʃənəli",
+    "pos": "Danh từ"
   },
   {
     "w": "apparently",
     "m": "có vẻ như",
     "cat": "advanced",
-    "p": "ɐpˈæɹəntli"
+    "p": "ɐpˈæɹəntli",
+    "pos": "Danh từ"
   },
   {
     "w": "approximately",
     "m": "xấp xỉ, khoảng",
     "cat": "advanced",
-    "p": "ɐpɹˈɑːksɪmətli"
+    "p": "ɐpɹˈɑːksɪmətli",
+    "pos": "Danh từ"
   },
   {
     "w": "broadly",
     "m": "một cách tổng quát, nhìn chung, rộng rãi",
     "cat": "advanced",
-    "p": "bɹˈɔːdli"
+    "p": "bɹˈɔːdli",
+    "pos": "Danh từ"
   },
   {
     "w": "closely",
     "m": "chặt chẽ, gần gũi",
     "cat": "advanced",
-    "p": "klˈoʊsli"
+    "p": "klˈoʊsli",
+    "pos": "Danh từ"
   },
   {
     "w": "comparatively",
     "m": "so sánh mà nói, một cách tương đối",
     "cat": "advanced",
-    "p": "kəmpˈæɹətˌɪvli"
+    "p": "kəmpˈæɹətˌɪvli",
+    "pos": "Danh từ"
   },
   {
     "w": "completely",
     "m": "hoàn toàn",
     "cat": "advanced",
-    "p": "kəmplˈiːtli"
+    "p": "kəmplˈiːtli",
+    "pos": "Danh từ"
   },
   {
     "w": "consistently",
     "m": "một cách nhất quán",
     "cat": "advanced",
-    "p": "kənsˈɪstəntli"
+    "p": "kənsˈɪstəntli",
+    "pos": "Danh từ"
   },
   {
     "w": "constantly",
     "m": "liên tục",
     "cat": "advanced",
-    "p": "kˈɑːnstəntli"
+    "p": "kˈɑːnstəntli",
+    "pos": "Danh từ"
   },
   {
     "w": "deliberately",
     "m": "có chủ ý, cố tình, một cách cố ý",
     "cat": "advanced",
-    "p": "dᵻlˈɪbɚɹətli"
+    "p": "dᵻlˈɪbɚɹətli",
+    "pos": "Phó từ"
   },
   {
     "w": "directly",
     "m": "trực tiếp",
     "cat": "advanced",
-    "p": "dᵻɹˈɛktli"
+    "p": "dᵻɹˈɛktli",
+    "pos": "Danh từ"
   },
   {
     "w": "effectively",
     "m": "một cách hiệu quả",
     "cat": "advanced",
-    "p": "ɪfˈɛktɪvli"
+    "p": "ɪfˈɛktɪvli",
+    "pos": "Phó từ"
   },
   {
     "w": "equally",
     "m": "bằng nhau",
     "cat": "advanced",
-    "p": "ˈiːkwəli"
+    "p": "ˈiːkwəli",
+    "pos": "Danh từ"
   },
   {
     "w": "essentially",
     "m": "về cơ bản",
     "cat": "advanced",
-    "p": "ᵻsˈɛnʃəli"
+    "p": "ᵻsˈɛnʃəli",
+    "pos": "Phó từ"
   },
   {
     "w": "exactly",
     "m": "chính xác",
     "cat": "advanced",
-    "p": "ɛɡzˈæktli"
+    "p": "ɛɡzˈæktli",
+    "pos": "Tính từ"
   },
   {
     "w": "frequently",
     "m": "thường xuyên, hay xảy ra",
     "cat": "advanced",
-    "p": "fɹˈiːkwəntli"
+    "p": "fɹˈiːkwəntli",
+    "pos": "Phó từ"
   },
   {
     "w": "highly",
     "m": "rất, ở mức cao",
     "cat": "advanced",
-    "p": "hˈaɪli"
+    "p": "hˈaɪli",
+    "pos": "Danh từ"
   },
   {
     "w": "increasingly",
     "m": "ngày càng tăng",
     "cat": "advanced",
-    "p": "ɪŋkɹˈiːsɪŋli"
+    "p": "ɪŋkɹˈiːsɪŋli",
+    "pos": "Danh từ"
   },
   {
     "w": "initially",
     "m": "ban đầu",
     "cat": "advanced",
-    "p": "ɪnˈɪʃəli"
+    "p": "ɪnˈɪʃəli",
+    "pos": "Danh từ"
   },
   {
     "w": "largely",
     "m": "phần lớn",
     "cat": "advanced",
-    "p": "lˈɑːɹdʒli"
+    "p": "lˈɑːɹdʒli",
+    "pos": "Danh từ"
   },
   {
     "w": "literally",
     "m": "theo nghĩa đen",
     "cat": "advanced",
-    "p": "lˈɪɾɚɹəli"
+    "p": "lˈɪɾɚɹəli",
+    "pos": "Danh từ"
   },
   {
     "w": "mainly",
     "m": "chủ yếu",
     "cat": "advanced",
-    "p": "mˈeɪnli"
+    "p": "mˈeɪnli",
+    "pos": "Tính từ"
   },
   {
     "w": "merely",
     "m": "chỉ đơn giản là",
     "cat": "advanced",
-    "p": "mˈɪɹli"
+    "p": "mˈɪɹli",
+    "pos": "Danh từ"
   },
   {
     "w": "mostly",
     "m": "chủ yếu, hầu hết",
     "cat": "advanced",
-    "p": "mˈoʊstli"
+    "p": "mˈoʊstli",
+    "pos": "Danh từ"
   },
   {
     "w": "naturally",
     "m": "một cách tự nhiên",
     "cat": "advanced",
-    "p": "nˈætʃɚɹəli"
+    "p": "nˈætʃɚɹəli",
+    "pos": "Danh từ"
   },
   {
     "w": "nearly",
     "m": "gần như",
     "cat": "advanced",
-    "p": "nˈɪɹli"
+    "p": "nˈɪɹli",
+    "pos": "Danh từ"
   },
   {
     "w": "originally",
     "m": "ban đầu, có nguồn gốc từ",
     "cat": "advanced",
-    "p": "ɚɹˈɪdʒɪnəli"
+    "p": "ɚɹˈɪdʒɪnəli",
+    "pos": "Danh từ"
   },
   {
     "w": "overall",
     "m": "tổng thể",
     "cat": "advanced",
-    "p": "ˌoʊvɚɹˈɔːl"
+    "p": "ˌoʊvɚɹˈɔːl",
+    "pos": "Phó từ"
   },
   {
     "w": "personally",
     "m": "cá nhân tôi",
     "cat": "advanced",
-    "p": "pˈɜːsənəli"
+    "p": "pˈɜːsənəli",
+    "pos": "Danh từ"
   },
   {
     "w": "precisely",
     "m": "chính xác",
     "cat": "advanced",
-    "p": "pɹɪsˈaɪsli"
+    "p": "pɹɪsˈaɪsli",
+    "pos": "Tính từ"
   },
   {
     "w": "previously",
     "m": "trước đây",
     "cat": "advanced",
-    "p": "pɹˈiːviəsli"
+    "p": "pɹˈiːviəsli",
+    "pos": "Phó từ"
   },
   {
     "w": "primarily",
     "m": "chủ yếu",
     "cat": "advanced",
-    "p": "pɹaɪmˈɛɹᵻli"
+    "p": "pɹaɪmˈɛɹᵻli",
+    "pos": "Tính từ"
   },
   {
     "w": "properly",
     "m": "đúng cách",
     "cat": "advanced",
-    "p": "pɹˈɑːpɚli"
+    "p": "pɹˈɑːpɚli",
+    "pos": "Danh từ"
   },
   {
     "w": "quickly",
     "m": "nhanh chóng",
     "cat": "advanced",
-    "p": "kwˈɪkli"
+    "p": "kwˈɪkli",
+    "pos": "Phó từ"
   },
   {
     "w": "relatively",
     "m": "tương đối",
     "cat": "advanced",
-    "p": "ɹˈɛlətˌɪvli"
+    "p": "ɹˈɛlətˌɪvli",
+    "pos": "Phó từ"
   },
   {
     "w": "roughly",
     "m": "khoảng, tương đối, đại khái",
     "cat": "advanced",
-    "p": "ɹˈʌfli"
+    "p": "ɹˈʌfli",
+    "pos": "Phó từ"
   },
   {
     "w": "severely",
     "m": "nghiêm trọng",
     "cat": "advanced",
-    "p": "sᵻvˈɪɹli"
+    "p": "sᵻvˈɪɹli",
+    "pos": "Tính từ"
   },
   {
     "w": "simply",
     "m": "đơn giản",
     "cat": "advanced",
-    "p": "sˈɪmpli"
+    "p": "sˈɪmpli",
+    "pos": "Tính từ"
   },
   {
     "w": "slowly",
     "m": "từ từ",
     "cat": "advanced",
-    "p": "slˈoʊli"
+    "p": "slˈoʊli",
+    "pos": "Danh từ"
   },
   {
     "w": "slightly",
     "m": "hơi, một chút",
     "cat": "advanced",
-    "p": "slˈaɪtli"
+    "p": "slˈaɪtli",
+    "pos": "Phó từ"
   },
   {
     "w": "strongly",
     "m": "mạnh mẽ",
     "cat": "advanced",
-    "p": "stɹˈɔŋli"
+    "p": "stɹˈɔŋli",
+    "pos": "Danh từ"
   },
   {
     "w": "suddenly",
     "m": "đột nhiên",
     "cat": "advanced",
-    "p": "sˈʌdənli"
+    "p": "sˈʌdənli",
+    "pos": "Phó từ"
   },
   {
     "w": "surely",
     "m": "chắc chắn",
     "cat": "advanced",
-    "p": "ʃˈʊɹli"
+    "p": "ʃˈʊɹli",
+    "pos": "Phó từ"
   },
   {
     "w": "typically",
     "m": "thường thường, điển hình",
     "cat": "advanced",
-    "p": "tˈɪpɪkli"
+    "p": "tˈɪpɪkli",
+    "pos": "Phó từ"
   },
   {
     "w": "ultimately",
     "m": "cuối cùng",
     "cat": "advanced",
-    "p": "ˈʌltᵻmətli"
+    "p": "ˈʌltᵻmətli",
+    "pos": "Phó từ"
   },
   {
     "w": "virtually",
     "m": "hầu như, thực tế",
     "cat": "advanced",
-    "p": "vˈɜːtʃuːəli"
+    "p": "vˈɜːtʃuːəli",
+    "pos": "Danh từ"
   },
   {
     "w": "widely",
     "m": "rộng rãi",
     "cat": "advanced",
-    "p": "wˈaɪdli"
+    "p": "wˈaɪdli",
+    "pos": "Tính từ"
   },
   {
     "w": "abandon",
     "m": "từ bỏ, rời bỏ",
     "cat": "advanced",
-    "p": "ɐbˈændən"
+    "p": "ɐbˈændən",
+    "pos": "Danh từ"
   },
   {
     "w": "abstract",
     "m": "trừu tượng, tóm tắt (bài báo khoa học)",
     "cat": "advanced",
-    "p": "ˈæbstɹækt"
+    "p": "ˈæbstɹækt",
+    "pos": "Danh từ"
   },
   {
     "w": "access",
     "m": "tiếp cận, truy cập",
     "cat": "advanced",
-    "p": "ˈæksɛs"
+    "p": "ˈæksɛs",
+    "pos": "Danh từ"
   },
   {
     "w": "accuse",
     "m": "cáo buộc",
     "cat": "advanced",
-    "p": "ɐkjˈuːz"
+    "p": "ɐkjˈuːz",
+    "pos": "Danh từ"
   },
   {
     "w": "acknowledge",
     "m": "thừa nhận",
     "cat": "advanced",
-    "p": "ɐknˈɑːlɪdʒ"
+    "p": "ɐknˈɑːlɪdʒ",
+    "pos": "Danh từ"
   },
   {
     "w": "acquire",
     "m": "có được, tiếp thu",
     "cat": "advanced",
-    "p": "ɐkwˈaɪɚ"
+    "p": "ɐkwˈaɪɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "address",
     "m": "địa chỉ, giải quyết, bài phát biểu, xử lý",
     "cat": "advanced",
-    "p": "ɐdɹˈɛs"
+    "p": "ɐdɹˈɛs",
+    "pos": "Danh từ"
   },
   {
     "w": "adjust",
     "m": "điều chỉnh",
     "cat": "advanced",
-    "p": "ɐdʒˈʌst"
+    "p": "ɐdʒˈʌst",
+    "pos": "Động từ"
   },
   {
     "w": "administration",
     "m": "sự quản lý, ban quản trị",
     "cat": "advanced",
-    "p": "ɐdmˌɪnɪstɹˈeɪʃən"
+    "p": "ɐdmˌɪnɪstɹˈeɪʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "advance",
     "m": "tiến lên, tiến bộ",
     "cat": "advanced",
-    "p": "ɐdvˈæns"
+    "p": "ɐdvˈæns",
+    "pos": "Danh từ"
   },
   {
     "w": "advantage",
     "m": "lợi thế",
     "cat": "advanced",
-    "p": "ɐdvˈæntɪdʒ"
+    "p": "ɐdvˈæntɪdʒ",
+    "pos": "Danh từ"
   },
   {
     "w": "affect",
     "m": "ảnh hưởng đến",
     "cat": "advanced",
-    "p": "ɐfˈɛkt"
+    "p": "ɐfˈɛkt",
+    "pos": "Động từ"
   },
   {
     "w": "affordable",
     "m": "phải chăng",
     "cat": "advanced",
-    "p": "ɐfˈɔːɹdəbəl"
+    "p": "ɐfˈɔːɹdəbəl",
+    "pos": "Danh từ"
   },
   {
     "w": "aftermath",
     "m": "hậu quả, kết quả sau, dư chấn",
     "cat": "advanced",
-    "p": "ˈæftɚmˌæθ"
+    "p": "ˈæftɚmˌæθ",
+    "pos": "Danh từ"
   },
   {
     "w": "agenda",
     "m": "chương trình nghị sự",
     "cat": "advanced",
-    "p": "ɐdʒˈɛndə"
+    "p": "ɐdʒˈɛndə",
+    "pos": "Danh từ"
   },
   {
     "w": "aid",
     "m": "giúp đỡ, viện trợ",
     "cat": "advanced",
-    "p": "ˈeɪd"
+    "p": "ˈeɪd",
+    "pos": "Danh từ"
   },
   {
     "w": "alert",
     "m": "cảnh báo, cảnh giác",
     "cat": "advanced",
-    "p": "ɐlˈɜːt"
+    "p": "ɐlˈɜːt",
+    "pos": "Danh từ"
   },
   {
     "w": "alliance",
     "m": "liên minh",
     "cat": "advanced",
-    "p": "ɐlˈaɪəns"
+    "p": "ɐlˈaɪəns",
+    "pos": "Danh từ"
   },
   {
     "w": "allocate",
     "m": "phân bổ",
     "cat": "advanced",
-    "p": "ˈæləkˌeɪt"
+    "p": "ˈæləkˌeɪt",
+    "pos": "Động từ"
   },
   {
     "w": "alter",
     "m": "thay đổi, biến đổi",
     "cat": "advanced",
-    "p": "ˈɔltɚ"
+    "p": "ˈɔltɚ",
+    "pos": "Động từ"
   },
   {
     "w": "ambitious",
     "m": "đầy tham vọng",
     "cat": "advanced",
-    "p": "æmbˈɪʃəs"
+    "p": "æmbˈɪʃəs",
+    "pos": "Tính từ"
   },
   {
     "w": "analyze",
     "m": "phân tích",
     "cat": "advanced",
-    "p": "ˈænɐlˌaɪz"
+    "p": "ˈænɐlˌaɪz",
+    "pos": "Động từ"
   },
   {
     "w": "anticipate",
     "m": "dự đoán, mong chờ, mong đợi, dự kiến, tiên liệu, lường trước",
     "cat": "advanced",
-    "p": "æntˈɪsᵻpˌeɪt"
+    "p": "æntˈɪsᵻpˌeɪt",
+    "pos": "Động từ"
   },
   {
     "w": "appeal",
     "m": "kháng cáo, kêu gọi, khiếu nại",
     "cat": "advanced",
-    "p": "ɐpˈiːl"
+    "p": "ɐpˈiːl",
+    "pos": "Danh từ"
   },
   {
     "w": "appreciate",
     "m": "đánh giá cao, trân trọng",
     "cat": "advanced",
-    "p": "ɐpɹˈiːʃɪˌeɪt"
+    "p": "ɐpɹˈiːʃɪˌeɪt",
+    "pos": "Động từ"
   },
   {
     "w": "approach",
     "m": "tiếp cận",
     "cat": "advanced",
-    "p": "ɐpɹˈoʊtʃ"
+    "p": "ɐpɹˈoʊtʃ",
+    "pos": "Danh từ"
   },
   {
     "w": "aspect",
     "m": "khía cạnh",
     "cat": "advanced",
-    "p": "ˈæspɛkt"
+    "p": "ˈæspɛkt",
+    "pos": "Danh từ"
   },
   {
     "w": "assess",
     "m": "đánh giá",
     "cat": "advanced",
-    "p": "ɐsˈɛs"
+    "p": "ɐsˈɛs",
+    "pos": "Động từ"
   },
   {
     "w": "assistance",
     "m": "sự hỗ trợ",
     "cat": "advanced",
-    "p": "ɐsˈɪstəns"
+    "p": "ɐsˈɪstəns",
+    "pos": "Danh từ"
   },
   {
     "w": "assumption",
     "m": "giả định",
     "cat": "advanced",
-    "p": "ɐsˈʌmpʃən"
+    "p": "ɐsˈʌmpʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "atmosphere",
     "m": "bầu không khí, khí quyển",
     "cat": "advanced",
-    "p": "ˈætməsfˌɪɹ"
+    "p": "ˈætməsfˌɪɹ",
+    "pos": "Danh từ"
   },
   {
     "w": "attach",
     "m": "gắn kèm",
     "cat": "advanced",
-    "p": "ɐtˈætʃ"
+    "p": "ɐtˈætʃ",
+    "pos": "Danh từ"
   },
   {
     "w": "attitude",
     "m": "thái độ",
     "cat": "advanced",
-    "p": "ˈæɾɪtˌuːd"
+    "p": "ˈæɾɪtˌuːd",
+    "pos": "Danh từ"
   },
   {
     "w": "audience",
     "m": "khán giả",
     "cat": "advanced",
-    "p": "ˈɔːdiəns"
+    "p": "ˈɔːdiəns",
+    "pos": "Danh từ"
   },
   {
     "w": "authorize",
     "m": "ủy quyền",
     "cat": "advanced",
-    "p": "ˈɔːθɚɹˌaɪz"
+    "p": "ˈɔːθɚɹˌaɪz",
+    "pos": "Danh từ"
   },
   {
     "w": "barrier",
     "m": "rào cản",
     "cat": "advanced",
-    "p": "bˈæɹiɚ"
+    "p": "bˈæɹiɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "bias",
     "m": "thiên kiến, thiên vị, sai lệch, thành kiến, định kiến",
     "cat": "advanced",
-    "p": "bˈaɪəs"
+    "p": "bˈaɪəs",
+    "pos": "Danh từ"
   },
   {
     "w": "boost",
     "m": "thúc đẩy, tăng cường",
     "cat": "advanced",
-    "p": "bˈuːst"
+    "p": "bˈuːst",
+    "pos": "Danh từ"
   },
   {
     "w": "boundary",
     "m": "ranh giới",
     "cat": "advanced",
-    "p": "bˈaʊndɚɹi"
+    "p": "bˈaʊndɚɹi",
+    "pos": "Danh từ"
   },
   {
     "w": "capacity",
     "m": "năng lực, sức chứa",
     "cat": "advanced",
-    "p": "kəpˈæsᵻɾi"
+    "p": "kəpˈæsᵻɾi",
+    "pos": "Danh từ"
   },
   {
     "w": "career",
     "m": "sự nghiệp",
     "cat": "advanced",
-    "p": "kɚɹˈɪɹ"
+    "p": "kɚɹˈɪɹ",
+    "pos": "Danh từ"
   },
   {
     "w": "caution",
     "m": "thận trọng",
     "cat": "advanced",
-    "p": "kˈɔːʃən"
+    "p": "kˈɔːʃən",
+    "pos": "Tính từ"
   },
   {
     "w": "circumstance",
     "m": "hoàn cảnh",
     "cat": "advanced",
-    "p": "sˈɜːkəmstˌæns"
+    "p": "sˈɜːkəmstˌæns",
+    "pos": "Danh từ"
   },
   {
     "w": "collaboration",
     "m": "sự hợp tác",
     "cat": "advanced",
-    "p": "kəlˌæbɚɹˈeɪʃən"
+    "p": "kəlˌæbɚɹˈeɪʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "collect",
     "m": "sưu tầm, thu thập, sưu tập, thu gom",
     "cat": "advanced",
-    "p": "kəlˈɛkt"
+    "p": "kəlˈɛkt",
+    "pos": "Động từ"
   },
   {
     "w": "commission",
     "m": "ủy ban, hoa hồng",
     "cat": "advanced",
-    "p": "kəmˈɪʃən"
+    "p": "kəmˈɪʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "commitment",
     "m": "cam kết",
     "cat": "advanced",
-    "p": "kəmˈɪtmənt"
+    "p": "kəmˈɪtmənt",
+    "pos": "Danh từ"
   },
   {
     "w": "compensation",
     "m": "bồi thường",
     "cat": "advanced",
-    "p": "kˌɑːmpənsˈeɪʃən"
+    "p": "kˌɑːmpənsˈeɪʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "competitive",
     "m": "cạnh tranh",
     "cat": "advanced",
-    "p": "kəmpˈɛɾᵻtˌɪv"
+    "p": "kəmpˈɛɾᵻtˌɪv",
+    "pos": "Tính từ"
   },
   {
     "w": "component",
     "m": "thành phần",
     "cat": "advanced",
-    "p": "kəmpˈoʊnənt"
+    "p": "kəmpˈoʊnənt",
+    "pos": "Danh từ"
   },
   {
     "w": "concentrate",
     "m": "tập trung",
     "cat": "advanced",
-    "p": "kˈɑːnsəntɹˌeɪt"
+    "p": "kˈɑːnsəntɹˌeɪt",
+    "pos": "Danh từ"
   },
   {
     "w": "conflict",
     "m": "xung đột",
     "cat": "advanced",
-    "p": "kˈɑːnflɪkt"
+    "p": "kˈɑːnflɪkt",
+    "pos": "Danh từ"
   },
   {
     "w": "considerable",
     "m": "đáng kể",
     "cat": "advanced",
-    "p": "kənsˈɪdɚɹəbəl"
+    "p": "kənsˈɪdɚɹəbəl",
+    "pos": "Phó từ"
   },
   {
     "w": "construct",
     "m": "xây dựng, kiến tạo",
     "cat": "advanced",
-    "p": "kˈɑːnstɹʌkt"
+    "p": "kˈɑːnstɹʌkt",
+    "pos": "Danh từ"
   },
   {
     "w": "context",
     "m": "bối cảnh",
     "cat": "advanced",
-    "p": "kˈɑːntɛkst"
+    "p": "kˈɑːntɛkst",
+    "pos": "Danh từ"
   },
   {
     "w": "controversy",
     "m": "tranh cãi",
     "cat": "advanced",
-    "p": "kˈɑːntɹəvˌɜːsi"
+    "p": "kˈɑːntɹəvˌɜːsi",
+    "pos": "Động từ"
   },
   {
     "w": "crucial",
     "m": "thiết yếu, cực kỳ quan trọng, then chốt, cốt yếu",
     "cat": "advanced",
-    "p": "kɹˈuːʃəl"
+    "p": "kɹˈuːʃəl",
+    "pos": "Tính từ"
   },
   {
     "w": "declare",
     "m": "tuyên bố",
     "cat": "advanced",
-    "p": "dᵻklˈɛɹ"
+    "p": "dᵻklˈɛɹ",
+    "pos": "Danh từ"
   },
   {
     "w": "dedicate",
     "m": "cống hiến, dành riêng",
     "cat": "advanced",
-    "p": "dˈɛdᵻkˌeɪt"
+    "p": "dˈɛdᵻkˌeɪt",
+    "pos": "Danh từ"
   },
   {
     "w": "demand",
     "m": "yêu cầu, nhu cầu",
     "cat": "advanced",
-    "p": "dᵻmˈænd"
+    "p": "dᵻmˈænd",
+    "pos": "Danh từ"
   },
   {
     "w": "deny",
     "m": "phủ nhận",
     "cat": "advanced",
-    "p": "dᵻnˈaɪ"
+    "p": "dᵻnˈaɪ",
+    "pos": "Danh từ"
   },
   {
     "w": "derive",
     "m": "bắt nguồn từ, rút ra, xuất phát từ, lấy từ",
     "cat": "advanced",
-    "p": "dᵻɹˈaɪv"
+    "p": "dᵻɹˈaɪv",
+    "pos": "Động từ"
   },
   {
     "w": "detect",
     "m": "phát hiện",
     "cat": "advanced",
-    "p": "dɪtˈɛkt"
+    "p": "dɪtˈɛkt",
+    "pos": "Động từ"
   },
   {
     "w": "disaster",
     "m": "thảm họa",
     "cat": "advanced",
-    "p": "dɪzˈæstɚ"
+    "p": "dɪzˈæstɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "discipline",
     "m": "kỷ luật",
     "cat": "advanced",
-    "p": "dˈɪsɪplˌɪn"
+    "p": "dˈɪsɪplˌɪn",
+    "pos": "Danh từ"
   },
   {
     "w": "document",
     "m": "tài liệu",
     "cat": "advanced",
-    "p": "dˈɑːkjuːmənt"
+    "p": "dˈɑːkjuːmənt",
+    "pos": "Danh từ"
   },
   {
     "w": "dominant",
     "m": "chiếm ưu thế",
     "cat": "advanced",
-    "p": "dˈɑːmɪnənt"
+    "p": "dˈɑːmɪnənt",
+    "pos": "Danh từ"
   },
   {
     "w": "dramatic",
     "m": "kịch tính, ấn tượng",
     "cat": "advanced",
-    "p": "dɹəmˈæɾɪk"
+    "p": "dɹəmˈæɾɪk",
+    "pos": "Danh từ"
   },
   {
     "w": "emerge",
     "m": "xuất hiện, nổi lên",
     "cat": "advanced",
-    "p": "ɪmˈɜːdʒ"
+    "p": "ɪmˈɜːdʒ",
+    "pos": "Danh từ"
   },
   {
     "w": "emphasize",
     "m": "nhấn mạnh",
     "cat": "advanced",
-    "p": "ˈɛmfɐsˌaɪz"
+    "p": "ˈɛmfɐsˌaɪz",
+    "pos": "Động từ"
   },
   {
     "w": "enormous",
     "m": "to lớn, khổng lồ",
     "cat": "advanced",
-    "p": "ɪnˈɔːɹməs"
+    "p": "ɪnˈɔːɹməs",
+    "pos": "Danh từ"
   },
   {
     "w": "entire",
     "m": "toàn bộ",
     "cat": "advanced",
-    "p": "ɛntˈaɪɚ"
+    "p": "ɛntˈaɪɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "equality",
     "m": "sự bình đẳng",
     "cat": "advanced",
-    "p": "iːkwˈɔlᵻɾi"
+    "p": "iːkwˈɔlᵻɾi",
+    "pos": "Danh từ"
   },
   {
     "w": "execute",
     "m": "thực hiện, thi hành",
     "cat": "advanced",
-    "p": "ˈɛksᵻkjˌuːt"
+    "p": "ˈɛksᵻkjˌuːt",
+    "pos": "Động từ"
   },
   {
     "w": "explicit",
     "m": "rõ ràng, tường minh",
     "cat": "advanced",
-    "p": "ɛksplˈɪsɪt"
+    "p": "ɛksplˈɪsɪt",
+    "pos": "Tính từ"
   },
   {
     "w": "exploration",
     "m": "sự khám phá",
     "cat": "advanced",
-    "p": "ɛksplɔːɹˈeɪʃən"
+    "p": "ɛksplɔːɹˈeɪʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "expose",
     "m": "phơi bày, tiếp xúc",
     "cat": "advanced",
-    "p": "ɛkspˈoʊz"
+    "p": "ɛkspˈoʊz",
+    "pos": "Danh từ"
   },
   {
     "w": "extensive",
     "m": "rộng lớn, sâu rộng",
     "cat": "advanced",
-    "p": "ɛkstˈɛnsɪv"
+    "p": "ɛkstˈɛnsɪv",
+    "pos": "Danh từ"
   },
   {
     "w": "factor",
     "m": "yếu tố",
     "cat": "advanced",
-    "p": "fˈæktɚ"
+    "p": "fˈæktɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "foundation",
     "m": "nền tảng, quỹ từ thiện",
     "cat": "advanced",
-    "p": "faʊndˈeɪʃən"
+    "p": "faʊndˈeɪʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "frustration",
     "m": "sự thất vọng, sự bực bội, ức chế",
     "cat": "advanced",
-    "p": "fɹʌstɹˈeɪʃən"
+    "p": "fɹʌstɹˈeɪʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "gain",
     "m": "đạt được, lợi ích",
     "cat": "advanced",
-    "p": "ɡˈeɪn"
+    "p": "ɡˈeɪn",
+    "pos": "Danh từ"
   },
   {
     "w": "genuine",
     "m": "chân thật, thật sự, thực sự, chân thực, chính hãng, thành thật",
     "cat": "advanced",
-    "p": "dʒˈɛnjuːɪn"
+    "p": "dʒˈɛnjuːɪn",
+    "pos": "Tính từ"
   },
   {
     "w": "gradually",
     "m": "dần dần",
     "cat": "advanced",
-    "p": "ɡɹˈædʒuːəli"
+    "p": "ɡɹˈædʒuːəli",
+    "pos": "Phó từ"
   },
   {
     "w": "handle",
     "m": "xử lý, tay nắm",
     "cat": "advanced",
-    "p": "hˈændəl"
+    "p": "hˈændəl",
+    "pos": "Danh từ"
   },
   {
     "w": "heritage",
     "m": "di sản",
     "cat": "advanced",
-    "p": "hˈɛɹɪɾɪdʒ"
+    "p": "hˈɛɹɪɾɪdʒ",
+    "pos": "Danh từ"
   },
   {
     "w": "hypothesis",
     "m": "giả thuyết",
     "cat": "advanced",
-    "p": "haɪpˈɑːθəsˌɪs"
+    "p": "haɪpˈɑːθəsˌɪs",
+    "pos": "Danh từ"
   },
   {
     "w": "identical",
     "m": "giống hệt nhau",
     "cat": "advanced",
-    "p": "aɪdˈɛntɪkəl"
+    "p": "aɪdˈɛntɪkəl",
+    "pos": "Danh từ"
   },
   {
     "w": "illustrate",
     "m": "minh họa",
     "cat": "advanced",
-    "p": "ˈɪləstɹˌeɪt"
+    "p": "ˈɪləstɹˌeɪt",
+    "pos": "Động từ"
   },
   {
     "w": "impression",
     "m": "ấn tượng",
     "cat": "advanced",
-    "p": "ɪmpɹˈɛʃən"
+    "p": "ɪmpɹˈɛʃən",
+    "pos": "Tính từ"
   },
   {
     "w": "income",
     "m": "thu nhập",
     "cat": "advanced",
-    "p": "ˈɪŋkʌm"
+    "p": "ˈɪŋkʌm",
+    "pos": "Danh từ"
   },
   {
     "w": "indirect",
     "m": "gián tiếp",
     "cat": "advanced",
-    "p": "ˌɪndɚɹˈɛkt"
+    "p": "ˌɪndɚɹˈɛkt",
+    "pos": "Danh từ"
   },
   {
     "w": "infrastructure",
     "m": "cơ sở hạ tầng",
     "cat": "advanced",
-    "p": "ˈɪnfɹəstɹˌʌktʃɚ"
+    "p": "ˈɪnfɹəstɹˌʌktʃɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "initiative",
     "m": "sáng kiến, chủ động, bước đầu tiên",
     "cat": "advanced",
-    "p": "ɪnˈɪʃiətˌɪv"
+    "p": "ɪnˈɪʃiətˌɪv",
+    "pos": "Danh từ"
   },
   {
     "w": "insert",
     "m": "chèn vào",
     "cat": "advanced",
-    "p": "ˈɪnsɜːt"
+    "p": "ˈɪnsɜːt",
+    "pos": "Danh từ"
   },
   {
     "w": "insight",
     "m": "hiểu sâu sắc, thấu hiểu",
     "cat": "advanced",
-    "p": "ˈɪnsaɪt"
+    "p": "ˈɪnsaɪt",
+    "pos": "Danh từ"
   },
   {
     "w": "intense",
     "m": "mạnh mẽ, căng thẳng, mãnh liệt, dữ dội",
     "cat": "advanced",
-    "p": "ɪntˈɛns"
+    "p": "ɪntˈɛns",
+    "pos": "Danh từ"
   },
   {
     "w": "interest",
     "m": "lợi ích, quan tâm",
     "cat": "advanced",
-    "p": "ˈɪntɹɛst"
+    "p": "ˈɪntɹɛst",
+    "pos": "Danh từ"
   },
   {
     "w": "inventory",
     "m": "hàng tồn kho",
     "cat": "advanced",
-    "p": "ˈɪnvəntˌɔːɹi"
+    "p": "ˈɪnvəntˌɔːɹi",
+    "pos": "Danh từ"
   },
   {
     "w": "journal",
     "m": "tạp chí, nhật ký",
     "cat": "advanced",
-    "p": "dʒˈɜːnəl"
+    "p": "dʒˈɜːnəl",
+    "pos": "Danh từ"
   },
   {
     "w": "judgement",
     "m": "phán xét",
     "cat": "advanced",
-    "p": "dʒˈʌdʒmənt"
+    "p": "dʒˈʌdʒmənt",
+    "pos": "Danh từ"
   },
   {
     "w": "launch",
     "m": "ra mắt, phóng, khởi động",
     "cat": "advanced",
-    "p": "lˈɑːntʃ"
+    "p": "lˈɑːntʃ",
+    "pos": "Động từ"
   },
   {
     "w": "layer",
     "m": "lớp",
     "cat": "advanced",
-    "p": "lˈeɪɚ"
+    "p": "lˈeɪɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "lecture",
     "m": "bài giảng",
     "cat": "advanced",
-    "p": "lˈɛktʃɚ"
+    "p": "lˈɛktʃɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "legacy",
     "m": "di sản, di chúc",
     "cat": "advanced",
-    "p": "lˈɛɡəsi"
+    "p": "lˈɛɡəsi",
+    "pos": "Danh từ"
   },
   {
     "w": "license",
     "m": "giấy phép",
     "cat": "advanced",
-    "p": "lˈaɪsəns"
+    "p": "lˈaɪsəns",
+    "pos": "Danh từ"
   },
   {
     "w": "link",
     "m": "liên kết",
     "cat": "advanced",
-    "p": "lˈɪŋk"
+    "p": "lˈɪŋk",
+    "pos": "Danh từ"
   },
   {
     "w": "literal",
     "m": "theo nghĩa đen",
     "cat": "advanced",
-    "p": "lˈɪɾɚɹəl"
+    "p": "lˈɪɾɚɹəl",
+    "pos": "Danh từ"
   },
   {
     "w": "loyalty",
     "m": "lòng trung thành",
     "cat": "advanced",
-    "p": "lˈɔɪəlɾi"
+    "p": "lˈɔɪəlɾi",
+    "pos": "Danh từ"
   },
   {
     "w": "mechanism",
     "m": "cơ chế",
     "cat": "advanced",
-    "p": "mˈɛkənˌɪzəm"
+    "p": "mˈɛkənˌɪzəm",
+    "pos": "Danh từ"
   },
   {
     "w": "mental",
     "m": "tinh thần, tâm thần",
     "cat": "advanced",
-    "p": "mˈɛntəl"
+    "p": "mˈɛntəl",
+    "pos": "Danh từ"
   },
   {
     "w": "mission",
     "m": "sứ mệnh",
     "cat": "advanced",
-    "p": "mˈɪʃən"
+    "p": "mˈɪʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "monitor",
     "m": "giám sát",
     "cat": "advanced",
-    "p": "mˈɑːnɪɾɚ"
+    "p": "mˈɑːnɪɾɚ",
+    "pos": "Động từ"
   },
   {
     "w": "multiple",
     "m": "nhiều, đa dạng",
     "cat": "advanced",
-    "p": "mˌʌltɪpəl"
+    "p": "mˌʌltɪpəl",
+    "pos": "Danh từ"
   },
   {
     "w": "negotiate",
     "m": "đàm phán",
     "cat": "advanced",
-    "p": "nᵻɡˈoʊʃɪˌeɪt"
+    "p": "nᵻɡˈoʊʃɪˌeɪt",
+    "pos": "Động từ"
   },
   {
     "w": "network",
     "m": "mạng lưới",
     "cat": "advanced",
-    "p": "nˈɛtwɜːk"
+    "p": "nˈɛtwɜːk",
+    "pos": "Danh từ"
   },
   {
     "w": "neutral",
     "m": "trung lập",
     "cat": "advanced",
-    "p": "nˈuːtɹəl"
+    "p": "nˈuːtɹəl",
+    "pos": "Danh từ"
   },
   {
     "w": "notion",
     "m": "khái niệm, ý tưởng",
     "cat": "advanced",
-    "p": "nˈoʊʃən"
+    "p": "nˈoʊʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "observe",
     "m": "quan sát",
     "cat": "advanced",
-    "p": "əbzˈɜːv"
+    "p": "əbzˈɜːv",
+    "pos": "Danh từ"
   },
   {
     "w": "outcome",
     "m": "kết quả",
     "cat": "advanced",
-    "p": "ˈaʊtkʌm"
+    "p": "ˈaʊtkʌm",
+    "pos": "Danh từ"
   },
   {
     "w": "output",
     "m": "sản lượng đầu ra",
     "cat": "advanced",
-    "p": "ˈaʊtpʊt"
+    "p": "ˈaʊtpʊt",
+    "pos": "Danh từ"
   },
   {
     "w": "outstanding",
     "m": "xuất sắc",
     "cat": "advanced",
-    "p": "aʊtstˈændɪŋ"
+    "p": "aʊtstˈændɪŋ",
+    "pos": "Danh từ"
   },
   {
     "w": "overcome",
     "m": "vượt qua",
     "cat": "advanced",
-    "p": "ˌoʊvɚkˈʌm"
+    "p": "ˌoʊvɚkˈʌm",
+    "pos": "Động từ"
   },
   {
     "w": "partnership",
     "m": "quan hệ đối tác",
     "cat": "advanced",
-    "p": "pˈɑːɹtnɚʃˌɪp"
+    "p": "pˈɑːɹtnɚʃˌɪp",
+    "pos": "Danh từ"
   },
   {
     "w": "pattern",
     "m": "mẫu, khuôn mẫu",
     "cat": "advanced",
-    "p": "pˈætɚn"
+    "p": "pˈætɚn",
+    "pos": "Danh từ"
   },
   {
     "w": "perspective",
     "m": "quan điểm, góc nhìn",
     "cat": "advanced",
-    "p": "pɚspˈɛktɪv"
+    "p": "pɚspˈɛktɪv",
+    "pos": "Danh từ"
   },
   {
     "w": "phase",
     "m": "giai đoạn, pha",
     "cat": "advanced",
-    "p": "fˈeɪz"
+    "p": "fˈeɪz",
+    "pos": "Danh từ"
   },
   {
     "w": "phenomenon",
     "m": "hiện tượng",
     "cat": "advanced",
-    "p": "fɪnˈɑːmɪnən"
+    "p": "fɪnˈɑːmɪnən",
+    "pos": "Danh từ"
   },
   {
     "w": "policy",
     "m": "chính sách",
     "cat": "advanced",
-    "p": "pˈɑːlɪsi"
+    "p": "pˈɑːlɪsi",
+    "pos": "Danh từ"
   },
   {
     "w": "portfolio",
     "m": "danh mục đầu tư",
     "cat": "advanced",
-    "p": "pɔːɹtfˈoʊlɪˌoʊ"
+    "p": "pɔːɹtfˈoʊlɪˌoʊ",
+    "pos": "Danh từ"
   },
   {
     "w": "precise",
     "m": "chính xác",
     "cat": "advanced",
-    "p": "pɹɪsˈaɪs"
+    "p": "pɹɪsˈaɪs",
+    "pos": "Tính từ"
   },
   {
     "w": "principle",
     "m": "nguyên tắc",
     "cat": "advanced",
-    "p": "pɹˈɪnsɪpəl"
+    "p": "pɹˈɪnsɪpəl",
+    "pos": "Danh từ"
   },
   {
     "w": "procedure",
     "m": "quy trình, thủ tục",
     "cat": "advanced",
-    "p": "pɹəsˈiːdʒɚ"
+    "p": "pɹəsˈiːdʒɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "profit",
     "m": "lợi nhuận",
     "cat": "advanced",
-    "p": "pɹˈɑːfɪt"
+    "p": "pɹˈɑːfɪt",
+    "pos": "Danh từ"
   },
   {
     "w": "progress",
     "m": "tiến độ, tiến bộ",
     "cat": "advanced",
-    "p": "pɹˈɑːɡɹɛs"
+    "p": "pɹˈɑːɡɹɛs",
+    "pos": "Danh từ"
   },
   {
     "w": "proportion",
     "m": "tỉ lệ",
     "cat": "advanced",
-    "p": "pɹəpˈɔːɹʃən"
+    "p": "pɹəpˈɔːɹʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "qualification",
     "m": "bằng cấp, năng lực, trình độ, điều kiện, chứng chỉ",
     "cat": "advanced",
-    "p": "kwˌɔlɪfɪkˈeɪʃən"
+    "p": "kwˌɔlɪfɪkˈeɪʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "quantity",
     "m": "số lượng",
     "cat": "advanced",
-    "p": "kwˈɔntᵻɾi"
+    "p": "kwˈɔntᵻɾi",
+    "pos": "Danh từ"
   },
   {
     "w": "radical",
     "m": "triệt để, cấp tiến",
     "cat": "advanced",
-    "p": "ɹˈædɪkəl"
+    "p": "ɹˈædɪkəl",
+    "pos": "Danh từ"
   },
   {
     "w": "rapid",
     "m": "nhanh chóng",
     "cat": "advanced",
-    "p": "ɹˈæpɪd"
+    "p": "ɹˈæpɪd",
+    "pos": "Phó từ"
   },
   {
     "w": "recognition",
     "m": "sự công nhận",
     "cat": "advanced",
-    "p": "ɹˌɛkəɡnˈɪʃən"
+    "p": "ɹˌɛkəɡnˈɪʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "recommend",
     "m": "giới thiệu, gợi ý, đề xuất, khuyến nghị, giới thiệu/khuyến nghị",
     "cat": "advanced",
-    "p": "ɹˌɛkəmˈɛnd"
+    "p": "ɹˌɛkəmˈɛnd",
+    "pos": "Động từ"
   },
   {
     "w": "recover",
     "m": "hồi phục",
     "cat": "advanced",
-    "p": "ɹᵻkˈʌvɚ"
+    "p": "ɹᵻkˈʌvɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "reflect",
     "m": "phản ánh, suy ngẫm",
     "cat": "advanced",
-    "p": "ɹᵻflˈɛkt"
+    "p": "ɹᵻflˈɛkt",
+    "pos": "Danh từ"
   },
   {
     "w": "register",
     "m": "đăng ký",
     "cat": "advanced",
-    "p": "ɹˈɛdʒɪstɚ"
+    "p": "ɹˈɛdʒɪstɚ",
+    "pos": "Động từ"
   },
   {
     "w": "regulation",
     "m": "quy định",
     "cat": "advanced",
-    "p": "ɹˌɛɡjʊlˈeɪʃən"
+    "p": "ɹˌɛɡjʊlˈeɪʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "reinforce",
     "m": "củng cố",
     "cat": "advanced",
-    "p": "ɹˌiːɪnfˈɔːɹs"
+    "p": "ɹˌiːɪnfˈɔːɹs",
+    "pos": "Danh từ"
   },
   {
     "w": "reliable",
     "m": "đáng tin cậy",
     "cat": "advanced",
-    "p": "ɹᵻlˈaɪəbəl"
+    "p": "ɹᵻlˈaɪəbəl",
+    "pos": "Tính từ"
   },
   {
     "w": "remarkable",
     "m": "đáng chú ý",
     "cat": "advanced",
-    "p": "ɹᵻmˈɑːɹkəbəl"
+    "p": "ɹᵻmˈɑːɹkəbəl",
+    "pos": "Danh từ"
   },
   {
     "w": "require",
     "m": "yêu cầu, đòi hỏi, cần",
     "cat": "advanced",
-    "p": "ɹᵻkwˈaɪɚ"
+    "p": "ɹᵻkwˈaɪɚ",
+    "pos": "Động từ"
   },
   {
     "w": "resistance",
     "m": "sự kháng cự",
     "cat": "advanced",
-    "p": "ɹᵻsˈɪstəns"
+    "p": "ɹᵻsˈɪstəns",
+    "pos": "Danh từ"
   },
   {
     "w": "resolve",
     "m": "giải quyết",
     "cat": "advanced",
-    "p": "ɹᵻzˈɑːlv"
+    "p": "ɹᵻzˈɑːlv",
+    "pos": "Động từ"
   },
   {
     "w": "respond",
     "m": "phản hồi",
     "cat": "advanced",
-    "p": "ɹᵻspˈɑːnd"
+    "p": "ɹᵻspˈɑːnd",
+    "pos": "Động từ"
   },
   {
     "w": "reveal",
     "m": "tiết lộ",
     "cat": "advanced",
-    "p": "ɹᵻvˈiːl"
+    "p": "ɹᵻvˈiːl",
+    "pos": "Danh từ"
   },
   {
     "w": "revenue",
     "m": "doanh thu",
     "cat": "advanced",
-    "p": "ɹˈɛvənˌuː"
+    "p": "ɹˈɛvənˌuː",
+    "pos": "Danh từ"
   },
   {
     "w": "scale",
     "m": "quy mô, tỉ lệ",
     "cat": "advanced",
-    "p": "skˈeɪl"
+    "p": "skˈeɪl",
+    "pos": "Danh từ"
   },
   {
     "w": "scenario",
     "m": "kịch bản",
     "cat": "advanced",
-    "p": "sənˈæɹiˌoʊ"
+    "p": "sənˈæɹiˌoʊ",
+    "pos": "Danh từ"
   },
   {
     "w": "scheme",
     "m": "kế hoạch, chương trình",
     "cat": "advanced",
-    "p": "skˈiːm"
+    "p": "skˈiːm",
+    "pos": "Danh từ"
   },
   {
     "w": "scope",
     "m": "phạm vi",
     "cat": "advanced",
-    "p": "skˈoʊp"
+    "p": "skˈoʊp",
+    "pos": "Danh từ"
   },
   {
     "w": "sector",
     "m": "lĩnh vực, ngành",
     "cat": "advanced",
-    "p": "sˈɛktɚ"
+    "p": "sˈɛktɚ",
+    "pos": "Danh từ"
   },
   {
     "w": "sequence",
     "m": "chuỗi, trình tự",
     "cat": "advanced",
-    "p": "sˈiːkwəns"
+    "p": "sˈiːkwəns",
+    "pos": "Danh từ"
   },
   {
     "w": "shortage",
     "m": "sự thiếu hụt",
     "cat": "advanced",
-    "p": "ʃˈɔːɹɾɪdʒ"
+    "p": "ʃˈɔːɹɾɪdʒ",
+    "pos": "Danh từ"
   },
   {
     "w": "stable",
     "m": "ổn định",
     "cat": "advanced",
-    "p": "stˈeɪbəl"
+    "p": "stˈeɪbəl",
+    "pos": "Tính từ"
   },
   {
     "w": "strategy",
     "m": "chiến lược",
     "cat": "advanced",
-    "p": "stɹˈæɾədʒi"
+    "p": "stɹˈæɾədʒi",
+    "pos": "Danh từ"
   },
   {
     "w": "sufficient",
     "m": "đủ, thỏa đáng",
     "cat": "advanced",
-    "p": "səfˈɪʃənt"
+    "p": "səfˈɪʃənt",
+    "pos": "Tính từ"
   },
   {
     "w": "survey",
     "m": "khảo sát, điều tra",
     "cat": "advanced",
-    "p": "sˈɜːveɪ"
+    "p": "sˈɜːveɪ",
+    "pos": "Danh từ"
   },
   {
     "w": "sustain",
     "m": "duy trì, chịu đựng",
     "cat": "advanced",
-    "p": "səstˈeɪn"
+    "p": "səstˈeɪn",
+    "pos": "Danh từ"
   },
   {
     "w": "symbol",
     "m": "biểu tượng",
     "cat": "advanced",
-    "p": "sˈɪmbəl"
+    "p": "sˈɪmbəl",
+    "pos": "Danh từ"
   },
   {
     "w": "technical",
     "m": "kỹ thuật",
     "cat": "advanced",
-    "p": "tˈɛknɪkəl"
+    "p": "tˈɛknɪkəl",
+    "pos": "Danh từ"
   },
   {
     "w": "tension",
     "m": "căng thẳng",
     "cat": "advanced",
-    "p": "tˈɛnʃən"
+    "p": "tˈɛnʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "territory",
     "m": "lãnh thổ",
     "cat": "advanced",
-    "p": "tˈɛɹɪtˌɔːɹi"
+    "p": "tˈɛɹɪtˌɔːɹi",
+    "pos": "Danh từ"
   },
   {
     "w": "theory",
     "m": "lý thuyết",
     "cat": "advanced",
-    "p": "θˈiəɹi"
+    "p": "θˈiəɹi",
+    "pos": "Tính từ"
   },
   {
     "w": "threat",
     "m": "mối đe dọa",
     "cat": "advanced",
-    "p": "θɹˈɛt"
+    "p": "θɹˈɛt",
+    "pos": "Danh từ"
   },
   {
     "w": "transform",
     "m": "biến đổi, chuyển đổi",
     "cat": "advanced",
-    "p": "tɹænsfˈɔːɹm"
+    "p": "tɹænsfˈɔːɹm",
+    "pos": "Danh từ"
   },
   {
     "w": "transition",
     "m": "sự chuyển tiếp",
     "cat": "advanced",
-    "p": "tɹænsˈɪʃən"
+    "p": "tɹænsˈɪʃən",
+    "pos": "Danh từ"
   },
   {
     "w": "trend",
     "m": "xu hướng",
     "cat": "advanced",
-    "p": "tɹˈɛnd"
+    "p": "tɹˈɛnd",
+    "pos": "Danh từ"
   },
   {
     "w": "uniform",
     "m": "đồng phục, đồng đều, đồng nhất, thống nhất, nhất quán",
     "cat": "advanced",
-    "p": "jˈuːnɪfˌɔːɹm"
+    "p": "jˈuːnɪfˌɔːɹm",
+    "pos": "Tính từ"
   },
   {
     "w": "urgent",
     "m": "khẩn cấp",
     "cat": "advanced",
-    "p": "ˈɜːdʒənt"
+    "p": "ˈɜːdʒənt",
+    "pos": "Danh từ"
   },
   {
     "w": "valid",
     "m": "hợp lệ, có giá trị",
     "cat": "advanced",
-    "p": "vˈælɪd"
+    "p": "vˈælɪd",
+    "pos": "Danh từ"
   },
   {
     "w": "vision",
     "m": "tầm nhìn",
     "cat": "advanced",
-    "p": "vˈɪʒən"
+    "p": "vˈɪʒən",
+    "pos": "Danh từ"
   },
   {
     "w": "voluntary",
     "m": "tình nguyện",
     "cat": "advanced",
-    "p": "vˈɑːləntɚɹi"
+    "p": "vˈɑːləntɚɹi",
+    "pos": "Danh từ"
   },
   {
     "w": "vulnerable",
     "m": "dễ bị tổn thương",
     "cat": "advanced",
-    "p": "vˈʌlnɚɹəbəl"
+    "p": "vˈʌlnɚɹəbəl",
+    "pos": "Danh từ"
   },
   {
     "w": "welfare",
     "m": "phúc lợi",
     "cat": "advanced",
-    "p": "wˈɛlfɛɹ"
+    "p": "wˈɛlfɛɹ",
+    "pos": "Danh từ"
   },
   {
     "w": "whereas",
     "m": "trong khi đó",
     "cat": "advanced",
-    "p": "wˈɛɹæz"
+    "p": "wˈɛɹæz",
+    "pos": "Phó từ"
   },
   {
     "w": "witness",
     "m": "nhân chứng, chứng kiến",
     "cat": "advanced",
-    "p": "wˈɪtnəs"
+    "p": "wˈɪtnəs",
+    "pos": "Danh từ"
   },
   {
     "w": "workforce",
     "m": "lực lượng lao động",
     "cat": "advanced",
-    "p": "wˈɜːkfɔːɹs"
+    "p": "wˈɜːkfɔːɹs",
+    "pos": "Danh từ"
   },
   {
     "w": "yield",
     "m": "sản lượng, nhượng bộ, mang lại, sản xuất",
     "cat": "advanced",
-    "p": "jˈiːld"
+    "p": "jˈiːld",
+    "pos": "Danh từ"
   },
   {
     "w": "cope with",
     "m": "đương đầu với, đối phó với, xử lý, vượt qua",
     "cat": "phrasal",
-    "p": "kˈoʊp wɪð"
+    "p": "kˈoʊp wɪð",
+    "pos": "Động từ"
   },
   {
     "w": "break into",
     "m": "đột nhập, bắt đầu làm",
     "cat": "phrasal",
-    "p": "bɹˈeɪk ˌɪntʊ"
+    "p": "bɹˈeɪk ˌɪntʊ",
+    "pos": "Động từ"
   },
   {
     "w": "build up",
     "m": "tích lũy, xây dựng",
     "cat": "phrasal",
-    "p": "bˈɪld ˈʌp"
+    "p": "bˈɪld ˈʌp",
+    "pos": "Động từ"
   },
   {
     "w": "call for",
     "m": "kêu gọi, cần đến",
     "cat": "phrasal",
-    "p": "kˈɔːl fɔːɹ"
+    "p": "kˈɔːl fɔːɹ",
+    "pos": "Động từ"
   },
   {
     "w": "come about",
     "m": "xảy ra",
     "cat": "phrasal",
-    "p": "kˈʌm ɐbˈaʊt"
+    "p": "kˈʌm ɐbˈaʊt",
+    "pos": "Động từ"
   },
   {
     "w": "come down with",
     "m": "bị ốm với, bị mắc (bệnh), đổ bệnh",
     "cat": "phrasal",
-    "p": "kˈʌm dˈaʊn wɪð"
+    "p": "kˈʌm dˈaʊn wɪð",
+    "pos": "Động từ"
   },
   {
     "w": "come forward",
     "m": "tình nguyện, bước ra",
     "cat": "phrasal",
-    "p": "kˈʌm fˈɔːɹwɚd"
+    "p": "kˈʌm fˈɔːɹwɚd",
+    "pos": "Động từ"
   },
   {
     "w": "draw up",
     "m": "soạn thảo",
     "cat": "phrasal",
-    "p": "dɹˈɔː ˈʌp"
+    "p": "dɹˈɔː ˈʌp",
+    "pos": "Động từ"
   },
   {
     "w": "drop out",
     "m": "bỏ học, bỏ cuộc",
     "cat": "phrasal",
-    "p": "dɹˈɑːp ˈaʊt"
+    "p": "dɹˈɑːp ˈaʊt",
+    "pos": "Động từ"
   },
   {
     "w": "fall apart",
     "m": "tan rã, sụp đổ",
     "cat": "phrasal",
-    "p": "fˈɔːl ɐpˈɑːɹt"
+    "p": "fˈɔːl ɐpˈɑːɹt",
+    "pos": "Động từ"
   },
   {
     "w": "fall behind",
     "m": "bị tụt hậu, tụt lại phía sau",
     "cat": "phrasal",
-    "p": "fˈɔːl bᵻhˈaɪnd"
+    "p": "fˈɔːl bᵻhˈaɪnd",
+    "pos": "Động từ"
   },
   {
     "w": "fit in",
     "m": "hòa nhập",
     "cat": "phrasal",
-    "p": "fˈɪt ˈɪn"
+    "p": "fˈɪt ˈɪn",
+    "pos": "Động từ"
   },
   {
     "w": "get away with",
     "m": "thoát khỏi hình phạt",
     "cat": "phrasal",
-    "p": "ɡɛt ɐwˈeɪ wɪð"
+    "p": "ɡɛt ɐwˈeɪ wɪð",
+    "pos": "Động từ"
   },
   {
     "w": "get back to",
     "m": "liên lạc lại",
     "cat": "phrasal",
-    "p": "ɡɛt bˈæk tuː"
+    "p": "ɡɛt bˈæk tuː",
+    "pos": "Động từ"
   },
   {
     "w": "give out",
     "m": "phân phát, cạn kiệt",
     "cat": "phrasal",
-    "p": "ɡˈɪv ˈaʊt"
+    "p": "ɡˈɪv ˈaʊt",
+    "pos": "Động từ"
   },
   {
     "w": "keep on",
     "m": "tiếp tục",
     "cat": "phrasal",
-    "p": "kˈiːp ˈɔn"
+    "p": "kˈiːp ˈɔn",
+    "pos": "Động từ"
   },
   {
     "w": "knock out",
     "m": "đánh bại",
     "cat": "phrasal",
-    "p": "nˈɑːk ˈaʊt"
+    "p": "nˈɑːk ˈaʊt",
+    "pos": "Động từ"
   },
   {
     "w": "lay off",
     "m": "sa thải tạm thời",
     "cat": "phrasal",
-    "p": "lˈeɪ ˈɔf"
+    "p": "lˈeɪ ˈɔf",
+    "pos": "Động từ"
   },
   {
     "w": "let down",
     "m": "làm thất vọng",
     "cat": "phrasal",
-    "p": "lˈɛt dˈaʊn"
+    "p": "lˈɛt dˈaʊn",
+    "pos": "Động từ"
   },
   {
     "w": "live up to",
     "m": "xứng đáng với kỳ vọng, sống đúng với; đáp ứng (kỳ vọng)",
     "cat": "phrasal",
-    "p": "lˈaɪv ˈʌp tuː"
+    "p": "lˈaɪv ˈʌp tuː",
+    "pos": "Động từ"
   },
   {
     "w": "look up",
     "m": "tra cứu",
     "cat": "phrasal",
-    "p": "lˈʊk ˈʌp"
+    "p": "lˈʊk ˈʌp",
+    "pos": "Động từ"
   },
   {
     "w": "make the most of",
     "m": "tận dụng tối đa",
     "cat": "phrasal",
-    "p": "mˌeɪk ðə mˈoʊst əv"
+    "p": "mˌeɪk ðə mˈoʊst əv",
+    "pos": "Động từ"
   },
   {
     "w": "opt out",
     "m": "từ chối tham gia",
     "cat": "phrasal",
-    "p": "ˈɑːpt ˈaʊt"
+    "p": "ˈɑːpt ˈaʊt",
+    "pos": "Động từ"
   },
   {
     "w": "pass on",
     "m": "truyền lại, từ chối, chuyển tiếp, truyền đạt",
     "cat": "phrasal",
-    "p": "pˈæs ˈɔn"
+    "p": "pˈæs ˈɔn",
+    "pos": "Động từ"
   },
   {
     "w": "phase out",
     "m": "loại bỏ dần",
     "cat": "phrasal",
-    "p": "fˈeɪz ˈaʊt"
+    "p": "fˈeɪz ˈaʊt",
+    "pos": "Động từ"
   },
   {
     "w": "pull through",
     "m": "vượt qua khó khăn",
     "cat": "phrasal",
-    "p": "pˈʊl θɹˈuː"
+    "p": "pˈʊl θɹˈuː",
+    "pos": "Động từ"
   },
   {
     "w": "run out of",
     "m": "hết, cạn",
     "cat": "phrasal",
-    "p": "ɹˈʌn ˌaʊɾəv"
+    "p": "ɹˈʌn ˌaʊɾəv",
+    "pos": "Động từ"
   },
   {
     "w": "set out",
     "m": "khởi hành, đặt ra",
     "cat": "phrasal",
-    "p": "sˈɛt ˈaʊt"
+    "p": "sˈɛt ˈaʊt",
+    "pos": "Động từ"
   },
   {
     "w": "sign up",
     "m": "đăng ký",
     "cat": "phrasal",
-    "p": "sˈaɪn ˈʌp"
+    "p": "sˈaɪn ˈʌp",
+    "pos": "Động từ"
   },
   {
     "w": "stand out",
     "m": "nổi bật",
     "cat": "phrasal",
-    "p": "stˈænd ˈaʊt"
+    "p": "stˈænd ˈaʊt",
+    "pos": "Động từ"
   },
   {
     "w": "step up",
     "m": "tăng cường, đẩy mạnh",
     "cat": "phrasal",
-    "p": "stˈɛp ˈʌp"
+    "p": "stˈɛp ˈʌp",
+    "pos": "Động từ"
   },
   {
     "w": "take into account",
     "m": "tính đến, xem xét",
     "cat": "phrasal",
-    "p": "tˈeɪk ˌɪntʊ ɐkˈaʊnt"
+    "p": "tˈeɪk ˌɪntʊ ɐkˈaʊnt",
+    "pos": "Động từ"
   },
   {
     "w": "take up",
     "m": "chiếm chỗ, bắt đầu",
     "cat": "phrasal",
-    "p": "tˈeɪk ˈʌp"
+    "p": "tˈeɪk ˈʌp",
+    "pos": "Động từ"
   },
   {
     "w": "throw away",
     "m": "ném đi, lãng phí",
     "cat": "phrasal",
-    "p": "θɹˈoʊ ɐwˈeɪ"
+    "p": "θɹˈoʊ ɐwˈeɪ",
+    "pos": "Động từ"
   },
   {
     "w": "track down",
     "m": "truy tìm",
     "cat": "phrasal",
-    "p": "tɹˈæk dˈaʊn"
+    "p": "tɹˈæk dˈaʊn",
+    "pos": "Động từ"
   },
   {
     "w": "turn around",
     "m": "xoay chuyển tình hình",
     "cat": "phrasal",
-    "p": "tˈɜːn ɚɹˈaʊnd"
+    "p": "tˈɜːn ɚɹˈaʊnd",
+    "pos": "Động từ"
   },
   {
     "w": "wind up",
     "m": "kết thúc, cuốn lại",
     "cat": "phrasal",
-    "p": "wˈaɪnd ˈʌp"
+    "p": "wˈaɪnd ˈʌp",
+    "pos": "Động từ"
   },
   {
     "w": "wipe out",
     "m": "xóa sạch, tiêu diệt",
     "cat": "phrasal",
-    "p": "wˈaɪp ˈaʊt"
+    "p": "wˈaɪp ˈaʊt",
+    "pos": "Động từ"
   },
   {
     "w": "wind down",
     "m": "giảm dần, thư giãn",
     "cat": "phrasal",
-    "p": "wˈɪnd dˈaʊn"
+    "p": "wˈɪnd dˈaʊn",
+    "pos": "Động từ"
   },
   {
     "w": "wrap up",
     "m": "kết thúc, gói lại",
     "cat": "phrasal",
-    "p": "ɹˈæp ˈʌp"
+    "p": "ɹˈæp ˈʌp",
+    "pos": "Động từ"
   },
   {
     "w": "zoom in",
     "m": "phóng to",
     "cat": "phrasal",
-    "p": "zˈuːm ˈɪn"
+    "p": "zˈuːm ˈɪn",
+    "pos": "Động từ"
   },
   {
     "w": "zone out",
     "m": "không tập trung, lơ đãng",
     "cat": "phrasal",
-    "p": "zˈoʊn ˈaʊt"
+    "p": "zˈoʊn ˈaʊt",
+    "pos": "Động từ"
   },
   {
     "w": "yield to",
     "m": "nhượng bộ trước",
     "cat": "phrasal",
-    "p": "jˈiːld tuː"
+    "p": "jˈiːld tuː",
+    "pos": "Động từ"
   },
   {
     "w": "work towards",
     "m": "làm việc hướng tới",
     "cat": "phrasal",
-    "p": "wˈɜːk təwˈɔːɹdz"
+    "p": "wˈɜːk təwˈɔːɹdz",
+    "pos": "Động từ"
   },
   {
     "w": "volunteer for",
     "m": "tình nguyện cho",
     "cat": "phrasal",
-    "p": "vˌɑːləntˈɪɹ fɔːɹ"
+    "p": "vˌɑːləntˈɪɹ fɔːɹ",
+    "pos": "Động từ"
   },
   {
     "w": "vary from",
     "m": "khác nhau từ",
     "cat": "phrasal",
-    "p": "vˈɛɹi fɹʌm"
+    "p": "vˈɛɹi fɹʌm",
+    "pos": "Động từ"
   },
   {
     "w": "update on",
     "m": "cập nhật về",
     "cat": "phrasal",
-    "p": "ˈʌpdeɪt ˈɔn"
+    "p": "ˈʌpdeɪt ˈɔn",
+    "pos": "Động từ"
   },
   {
     "w": "unique",
     "m": "độc đáo",
     "cat": "advanced",
-    "p": "juːnˈiːk"
+    "p": "juːnˈiːk",
+    "pos": "Danh từ"
   },
   {
     "w": "adequate",
     "m": "đầy đủ, thích hợp, thỏa đáng",
     "cat": "advanced",
-    "p": "ˈædɪkwət"
+    "p": "ˈædɪkwət",
+    "pos": "Danh từ"
   },
   {
     "w": "ambiguous",
     "m": "mơ hồ, không rõ ràng, lưỡng nghĩa, có thể hiểu nhiều cách",
     "cat": "advanced",
-    "p": "æmbˈɪɡjuːəs"
+    "p": "æmbˈɪɡjuːəs",
+    "pos": "Tính từ"
   },
   {
     "w": "apparent",
     "m": "rõ ràng, có vẻ",
     "cat": "advanced",
-    "p": "ɐpˈæɹənt"
+    "p": "ɐpˈæɹənt",
+    "pos": "Danh từ"
   },
   {
     "w": "approximate",
     "m": "xấp xỉ",
     "cat": "advanced",
-    "p": "ɐpɹˈɑːksɪmət"
+    "p": "ɐpɹˈɑːksɪmət",
+    "pos": "Danh từ"
   },
   {
     "w": "arbitrary",
     "m": "tùy tiện",
     "cat": "advanced",
-    "p": "ˈɑːɹbɪtɹˌɛɹi"
+    "p": "ˈɑːɹbɪtɹˌɛɹi",
+    "pos": "Danh từ"
   },
   {
     "w": "authentic",
     "m": "chân thực, xác thực, đích thực, chính gốc, chính hãng",
     "cat": "advanced",
-    "p": "ɔːθˈɛntɪk"
+    "p": "ɔːθˈɛntɪk",
+    "pos": "Tính từ"
   },
   {
     "w": "collective",
     "m": "tập thể",
     "cat": "advanced",
-    "p": "kəlˈɛktɪv"
+    "p": "kəlˈɛktɪv",
+    "pos": "Danh từ"
   },
   {
     "w": "comprehensive",
     "m": "toàn diện",
     "cat": "advanced",
-    "p": "kˌɑːmpɹihˈɛnsɪv"
+    "p": "kˌɑːmpɹihˈɛnsɪv",
+    "pos": "Tính từ"
   },
   {
     "w": "controversial",
     "m": "gây tranh cãi",
     "cat": "advanced",
-    "p": "kˌɑːntɹəvˈɜːʃəl"
+    "p": "kˌɑːntɹəvˈɜːʃəl",
+    "pos": "Tính từ"
   },
   {
     "w": "conventional",
     "m": "thông thường, truyền thống",
     "cat": "advanced",
-    "p": "kənvˈɛnʃənəl"
+    "p": "kənvˈɛnʃənəl",
+    "pos": "Danh từ"
   },
   {
     "w": "critical",
     "m": "phê bình, quan trọng",
     "cat": "advanced",
-    "p": "kɹˈɪɾɪkəl"
+    "p": "kɹˈɪɾɪkəl",
+    "pos": "Danh từ"
   },
   {
     "w": "cumulative",
     "m": "tích lũy",
     "cat": "advanced",
-    "p": "kjˈuːmjʊlətˌɪv"
+    "p": "kjˈuːmjʊlətˌɪv",
+    "pos": "Động từ"
   },
   {
     "w": "deliberate",
     "m": "cố ý, thảo luận kỹ, có chủ ý, thận trọng; cân nhắc",
     "cat": "advanced",
-    "p": "dᵻlˈɪbɚɹət"
+    "p": "dᵻlˈɪbɚɹət",
+    "pos": "Tính từ"
   },
   {
     "w": "distinctive",
     "m": "đặc trưng",
     "cat": "advanced",
-    "p": "dɪstˈɪŋktɪv"
+    "p": "dɪstˈɪŋktɪv",
+    "pos": "Danh từ"
   },
   {
     "w": "diverse",
     "m": "đa dạng",
     "cat": "advanced",
-    "p": "daɪvˈɜːs"
+    "p": "daɪvˈɜːs",
+    "pos": "Tính từ"
   },
   {
     "w": "dynamic",
     "m": "năng động",
     "cat": "advanced",
-    "p": "daɪnˈæmɪk"
+    "p": "daɪnˈæmɪk",
+    "pos": "Danh từ"
   },
   {
     "w": "evident",
     "m": "rõ ràng, hiển nhiên",
     "cat": "advanced",
-    "p": "ˈɛvɪdənt"
+    "p": "ˈɛvɪdənt",
+    "pos": "Tính từ"
   },
   {
     "w": "explicit",
     "m": "tường minh, rõ ràng",
     "cat": "advanced",
-    "p": "ɛksplˈɪsɪt"
+    "p": "ɛksplˈɪsɪt",
+    "pos": "Danh từ"
   },
   {
     "w": "fundamental",
     "m": "cơ bản, nền tảng",
     "cat": "advanced",
-    "p": "fˌʌndəmˈɛntəl"
+    "p": "fˌʌndəmˈɛntəl",
+    "pos": "Tính từ"
   },
   {
     "w": "genuine",
     "m": "chân thật, thật sự, thực sự, chân thực, chính hãng, thành thật",
     "cat": "advanced",
-    "p": "dʒˈɛnjuːɪn"
+    "p": "dʒˈɛnjuːɪn",
+    "pos": "Tính từ"
   },
   {
     "w": "gradual",
     "m": "dần dần, từ từ",
     "cat": "advanced",
-    "p": "ɡɹˈædʒuːəl"
+    "p": "ɡɹˈædʒuːəl",
+    "pos": "Tính từ"
   },
   {
     "w": "implicit",
     "m": "ngầm hiểu, ẩn ý, không nói thẳng, ngầm định, ẩn chứa",
     "cat": "advanced",
-    "p": "ɪmplˈɪsɪt"
+    "p": "ɪmplˈɪsɪt",
+    "pos": "Danh từ"
   },
   {
     "w": "inevitable",
     "m": "không thể tránh khỏi",
     "cat": "advanced",
-    "p": "ɪnˈɛvᵻɾəbəl"
+    "p": "ɪnˈɛvᵻɾəbəl",
+    "pos": "Tính từ"
   },
   {
     "w": "innovative",
     "m": "sáng tạo, đổi mới, cải tiến",
     "cat": "advanced",
-    "p": "ˈɪnəvˌeɪɾɪv"
+    "p": "ˈɪnəvˌeɪɾɪv",
+    "pos": "Tính từ"
   },
   {
     "w": "integrated",
     "m": "tích hợp",
     "cat": "advanced",
-    "p": "ˈɪntᵻɡɹˌeɪɾᵻd"
+    "p": "ˈɪntᵻɡɹˌeɪɾᵻd",
+    "pos": "Danh từ"
   },
   {
     "w": "intensive",
     "m": "chuyên sâu",
     "cat": "advanced",
-    "p": "ɪntˈɛnsɪv"
+    "p": "ɪntˈɛnsɪv",
+    "pos": "Danh từ"
   },
   {
     "w": "interactive",
     "m": "tương tác",
     "cat": "advanced",
-    "p": "ˌɪntɚɹˈæktɪv"
+    "p": "ˌɪntɚɹˈæktɪv",
+    "pos": "Danh từ"
   },
   {
     "w": "objective",
     "m": "khách quan, mục tiêu",
     "cat": "advanced",
-    "p": "ɑːbdʒˈɛktɪv"
+    "p": "ɑːbdʒˈɛktɪv",
+    "pos": "Tính từ"
   },
   {
     "w": "ongoing",
     "m": "đang tiếp diễn",
     "cat": "advanced",
-    "p": "ˈɑːŋɡoʊɪŋ"
+    "p": "ˈɑːŋɡoʊɪŋ",
+    "pos": "Danh từ"
   },
   {
     "w": "partial",
     "m": "một phần, bộ phận, thiên vị",
     "cat": "advanced",
-    "p": "pˈɑːɹʃəl"
+    "p": "pˈɑːɹʃəl",
+    "pos": "Danh từ"
   },
   {
     "w": "passive",
     "m": "thụ động",
     "cat": "advanced",
-    "p": "pˈæsɪv"
+    "p": "pˈæsɪv",
+    "pos": "Danh từ"
   },
   {
     "w": "persistent",
     "m": "kiên trì",
     "cat": "advanced",
-    "p": "pɚsˈɪstənt"
+    "p": "pɚsˈɪstənt",
+    "pos": "Động từ"
   },
   {
     "w": "precise",
     "m": "chính xác",
     "cat": "advanced",
-    "p": "pɹɪsˈaɪs"
+    "p": "pɹɪsˈaɪs",
+    "pos": "Tính từ"
   },
   {
     "w": "preliminary",
     "m": "sơ bộ",
     "cat": "advanced",
-    "p": "pɹɪlˈɪmɪnˌɛɹi"
+    "p": "pɹɪlˈɪmɪnˌɛɹi",
+    "pos": "Danh từ"
   },
   {
     "w": "prevalent",
     "m": "phổ biến",
     "cat": "advanced",
-    "p": "pɹˈɛvələnt"
+    "p": "pɹˈɛvələnt",
+    "pos": "Tính từ"
   },
   {
     "w": "productive",
     "m": "hiệu quả, năng suất",
     "cat": "advanced",
-    "p": "pɹədˈʌktɪv"
+    "p": "pɹədˈʌktɪv",
+    "pos": "Danh từ"
   },
   {
     "w": "progressive",
     "m": "tiến bộ",
     "cat": "advanced",
-    "p": "pɹəɡɹˈɛsɪv"
+    "p": "pɹəɡɹˈɛsɪv",
+    "pos": "Động từ"
   },
   {
     "w": "rational",
     "m": "hợp lý",
     "cat": "advanced",
-    "p": "ɹˈæʃənəl"
+    "p": "ɹˈæʃənəl",
+    "pos": "Tính từ"
   },
   {
     "w": "realistic",
     "m": "thực tế",
     "cat": "advanced",
-    "p": "ɹiːəlˈɪstɪk"
+    "p": "ɹiːəlˈɪstɪk",
+    "pos": "Tính từ"
   },
   {
     "w": "relevant",
     "m": "liên quan, thích hợp",
     "cat": "advanced",
-    "p": "ɹˈɛlᵻvənt"
+    "p": "ɹˈɛlᵻvənt",
+    "pos": "Danh từ"
   },
   {
     "w": "remarkable",
     "m": "đáng chú ý",
     "cat": "advanced",
-    "p": "ɹᵻmˈɑːɹkəbəl"
+    "p": "ɹᵻmˈɑːɹkəbəl",
+    "pos": "Danh từ"
   },
   {
     "w": "rigorous",
     "m": "nghiêm ngặt, chặt chẽ",
     "cat": "advanced",
-    "p": "ɹˈɪɡɚɹəs"
+    "p": "ɹˈɪɡɚɹəs",
+    "pos": "Tính từ"
   },
   {
     "w": "sensitive",
     "m": "nhạy cảm",
     "cat": "advanced",
-    "p": "sˈɛnsᵻtˌɪv"
+    "p": "sˈɛnsᵻtˌɪv",
+    "pos": "Danh từ"
   },
   {
     "w": "sequential",
     "m": "theo trình tự",
     "cat": "advanced",
-    "p": "siːkwˈɛnʃəl"
+    "p": "siːkwˈɛnʃəl",
+    "pos": "Danh từ"
   },
   {
     "w": "significant",
     "m": "đáng kể, có ý nghĩa, quan trọng, đáng chú ý",
     "cat": "advanced",
-    "p": "sɪɡnˈɪfɪkənt"
+    "p": "sɪɡnˈɪfɪkənt",
+    "pos": "Tính từ"
   },
   {
     "w": "straightforward",
     "m": "thẳng thắn, đơn giản",
     "cat": "advanced",
-    "p": "stɹeɪtfˈɔːɹwɚd"
+    "p": "stɹeɪtfˈɔːɹwɚd",
+    "pos": "Danh từ"
   },
   {
     "w": "subjective",
     "m": "chủ quan",
     "cat": "advanced",
-    "p": "sʌbdʒˈɛktɪv"
+    "p": "sʌbdʒˈɛktɪv",
+    "pos": "Tính từ"
   },
   {
     "w": "substantial",
     "m": "đáng kể, thực chất",
     "cat": "advanced",
-    "p": "səbstˈænʃəl"
+    "p": "səbstˈænʃəl",
+    "pos": "Danh từ"
   },
   {
     "w": "temporary",
     "m": "tạm thời",
     "cat": "advanced",
-    "p": "tˈɛmpɚɹˌɛɹi"
+    "p": "tˈɛmpɚɹˌɛɹi",
+    "pos": "Tính từ"
   },
   {
     "w": "theoretical",
     "m": "lý thuyết",
     "cat": "advanced",
-    "p": "θiəɹˈɛɾɪkəl"
+    "p": "θiəɹˈɛɾɪkəl",
+    "pos": "Tính từ"
   },
   {
     "w": "transparent",
     "m": "minh bạch, trong suốt, rõ ràng",
     "cat": "advanced",
-    "p": "tɹænspˈæɹənt"
+    "p": "tɹænspˈæɹənt",
+    "pos": "Tính từ"
   },
   {
     "w": "universal",
     "m": "phổ quát",
     "cat": "advanced",
-    "p": "jˌuːnɪvˈɜːsəl"
+    "p": "jˌuːnɪvˈɜːsəl",
+    "pos": "Danh từ"
   },
   {
     "w": "variable",
     "m": "biến số, thay đổi",
     "cat": "advanced",
-    "p": "vˈɛɹɪəbəl"
+    "p": "vˈɛɹɪəbəl",
+    "pos": "Danh từ"
   },
   {
     "w": "voluntary",
     "m": "tình nguyện",
     "cat": "advanced",
-    "p": "vˈɑːləntɚɹi"
+    "p": "vˈɑːləntɚɹi",
+    "pos": "Danh từ"
   },
   {
     "w": "complex",
     "m": "phức tạp",
     "cat": "advanced",
-    "p": "kˈɑːmplɛks"
+    "p": "kˈɑːmplɛks",
+    "pos": "Tính từ"
   },
   {
     "w": "rational",
     "m": "lý trí",
     "cat": "advanced",
-    "p": "ɹˈæʃənəl"
+    "p": "ɹˈæʃənəl",
+    "pos": "Danh từ"
   },
   {
     "w": "adequate",
     "m": "đầy đủ, thích hợp, thỏa đáng",
     "cat": "advanced",
-    "p": "ˈædɪkwət"
+    "p": "ˈædɪkwət",
+    "pos": "Danh từ"
   },
   {
     "w": "chronic",
     "m": "mãn tính, kéo dài",
     "cat": "advanced",
-    "p": "kɹˈɑːnɪk"
+    "p": "kɹˈɑːnɪk",
+    "pos": "Danh từ"
   },
   {
     "w": "preliminary",
     "m": "sơ bộ",
     "cat": "advanced",
-    "p": "pɹɪlˈɪmɪnˌɛɹi"
+    "p": "pɹɪlˈɪmɪnˌɛɹi",
+    "pos": "Danh từ"
   },
   {
     "w": "sequential",
     "m": "tuần tự",
     "cat": "advanced",
-    "p": "siːkwˈɛnʃəl"
+    "p": "siːkwˈɛnʃəl",
+    "pos": "Danh từ"
   },
   {
     "w": "abstract",
     "m": "trừu tượng, tóm tắt (bài báo khoa học)",
     "cat": "advanced",
-    "p": "ˈæbstɹækt"
+    "p": "ˈæbstɹækt",
+    "pos": "Danh từ"
   },
   {
     "w": "concrete",
     "m": "cụ thể, bê tông",
     "cat": "advanced",
-    "p": "kˈɑːŋkɹiːt"
+    "p": "kˈɑːŋkɹiːt",
+    "pos": "Danh từ"
   },
   {
     "w": "literal",
     "m": "theo nghĩa đen",
     "cat": "advanced",
-    "p": "lˈɪɾɚɹəl"
+    "p": "lˈɪɾɚɹəl",
+    "pos": "Danh từ"
   },
   {
     "w": "metaphorical",
     "m": "theo nghĩa bóng",
     "cat": "advanced",
-    "p": "mˌɛɾəfˈɔːɹɪkəl"
+    "p": "mˌɛɾəfˈɔːɹɪkəl",
+    "pos": "Danh từ"
   },
   {
     "w": "mutual",
     "m": "lẫn nhau, tương hỗ, chung",
     "cat": "advanced",
-    "p": "mjˈuːtʃuːəl"
+    "p": "mjˈuːtʃuːəl",
+    "pos": "Danh từ"
   },
   {
     "w": "sustainable",
     "m": "bền vững",
     "cat": "advanced",
-    "p": "səstˈeɪnəbəl"
+    "p": "səstˈeɪnəbəl",
+    "pos": "Tính từ"
   },
   {
     "w": "innovative",
     "m": "sáng tạo, đổi mới, cải tiến",
     "cat": "advanced",
-    "p": "ˈɪnəvˌeɪɾɪv"
+    "p": "ˈɪnəvˌeɪɾɪv",
+    "pos": "Tính từ"
   },
   {
     "w": "efficient",
     "m": "hiệu quả, năng suất cao, tiết kiệm",
     "cat": "advanced",
-    "p": "ɪfˈɪʃənt"
+    "p": "ɪfˈɪʃənt",
+    "pos": "Tính từ"
   },
   {
     "w": "productive",
     "m": "có năng suất",
     "cat": "advanced",
-    "p": "pɹədˈʌktɪv"
+    "p": "pɹədˈʌktɪv",
+    "pos": "Danh từ"
   },
   {
     "w": "reliable",
     "m": "đáng tin",
     "cat": "advanced",
-    "p": "ɹᵻlˈaɪəbəl"
+    "p": "ɹᵻlˈaɪəbəl",
+    "pos": "Danh từ"
   },
   {
     "w": "affordable",
     "m": "giá cả phải chăng",
     "cat": "advanced",
-    "p": "ɐfˈɔːɹdəbəl"
+    "p": "ɐfˈɔːɹdəbəl",
+    "pos": "Tính từ"
   },
   {
     "w": "accessible",
     "m": "dễ tiếp cận",
     "cat": "advanced",
-    "p": "æksˈɛsəbəl"
+    "p": "æksˈɛsəbəl",
+    "pos": "Danh từ"
   },
   {
     "w": "compatible",
     "m": "tương thích",
     "cat": "advanced",
-    "p": "kəmpˈæɾᵻbəl"
+    "p": "kəmpˈæɾᵻbəl",
+    "pos": "Danh từ"
   },
   {
     "w": "interactive",
     "m": "có tương tác",
     "cat": "advanced",
-    "p": "ˌɪntɚɹˈæktɪv"
+    "p": "ˌɪntɚɹˈæktɪv",
+    "pos": "Danh từ"
   },
   {
     "w": "automatic",
     "m": "tự động",
     "cat": "advanced",
-    "p": "ˌɔːɾəmˈæɾɪk"
+    "p": "ˌɔːɾəmˈæɾɪk",
+    "pos": "Tính từ"
   },
   {
     "w": "digital",
     "m": "kỹ thuật số",
     "cat": "advanced",
-    "p": "dˈɪdʒɪɾəl"
+    "p": "dˈɪdʒɪɾəl",
+    "pos": "Danh từ"
   },
   {
     "w": "virtual",
     "m": "ảo, ảo/trực tuyến, mô phỏng",
     "cat": "advanced",
-    "p": "vˈɜːtʃuːəl"
+    "p": "vˈɜːtʃuːəl",
+    "pos": "Tính từ"
   },
   {
     "w": "physical",
     "m": "vật lý",
     "cat": "advanced",
-    "p": "fˈɪzɪkəl"
+    "p": "fˈɪzɪkəl",
+    "pos": "Danh từ"
   },
   {
     "w": "environmental",
     "m": "về môi trường",
     "cat": "advanced",
-    "p": "ɛnvˌaɪɹənmˈɛntəl"
+    "p": "ɛnvˌaɪɹənmˈɛntəl",
+    "pos": "Danh từ"
   },
   {
     "w": "economic",
     "m": "kinh tế",
     "cat": "advanced",
-    "p": "ˌiːkənˈɑːmɪk"
+    "p": "ˌiːkənˈɑːmɪk",
+    "pos": "Danh từ"
   },
   {
     "w": "political",
     "m": "chính trị",
     "cat": "advanced",
-    "p": "pəlˈɪɾɪkəl"
+    "p": "pəlˈɪɾɪkəl",
+    "pos": "Danh từ"
   },
   {
     "w": "scientific",
     "m": "khoa học",
     "cat": "advanced",
-    "p": "saɪəntˈɪfɪk"
+    "p": "saɪəntˈɪfɪk",
+    "pos": "Danh từ"
   },
   {
     "w": "historical",
     "m": "lịch sử",
     "cat": "advanced",
-    "p": "hɪstˈɔːɹɪkəl"
+    "p": "hɪstˈɔːɹɪkəl",
+    "pos": "Danh từ"
   }
 ]
