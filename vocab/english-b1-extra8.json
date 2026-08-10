@@ -21,24 +21,10 @@
     "pos": "Danh từ"
   },
   {
-    "w": "pottery",
-    "m": "nghề làm gốm",
-    "cat": "giải trí",
-    "p": "pˈɑːɾɚɹi",
-    "pos": "Danh từ"
-  },
-  {
     "w": "sculpting",
     "m": "điêu khắc",
     "cat": "giải trí",
     "p": "skˈʌlptɪŋ",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "painting",
-    "m": "bức tranh, hội họa",
-    "cat": "giải trí",
-    "p": "pˈeɪntɪŋ",
     "pos": "Danh từ"
   },
   {
@@ -75,13 +61,6 @@
     "cat": "giải trí",
     "p": "kˈʊkɪŋ",
     "pos": "Động từ"
-  },
-  {
-    "w": "fishing",
-    "m": "câu cá",
-    "cat": "giải trí",
-    "p": "fˈɪʃɪŋ",
-    "pos": "Danh từ"
   },
   {
     "w": "hiking",
@@ -124,13 +103,6 @@
     "cat": "giải trí",
     "p": "ɡˈeɪmɪŋ",
     "pos": "Động từ"
-  },
-  {
-    "w": "puzzle",
-    "m": "trò chơi ghép hình",
-    "cat": "giải trí",
-    "p": "pˈʌzəl",
-    "pos": "Danh từ"
   },
   {
     "w": "crossword",
@@ -189,24 +161,10 @@
     "pos": "Động từ"
   },
   {
-    "w": "festival",
-    "m": "lễ hội",
-    "cat": "văn hóa",
-    "p": "fˈɛstɪvəl",
-    "pos": "Danh từ"
-  },
-  {
     "w": "carnival",
     "m": "hội hóa trang",
     "cat": "văn hóa",
     "p": "kˈɑːɹnɪvəl",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "parade",
-    "m": "cuộc diễu hành",
-    "cat": "văn hóa",
-    "p": "pɚɹˈeɪd",
     "pos": "Danh từ"
   },
   {
@@ -221,13 +179,6 @@
     "m": "lễ kỷ niệm",
     "cat": "văn hóa",
     "p": "sˌɛləbɹˈeɪʃən",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "anniversary",
-    "m": "ngày kỷ niệm",
-    "cat": "văn hóa",
-    "p": "ˌænɪvˈɜːsɚɹi",
     "pos": "Danh từ"
   },
   {
@@ -343,13 +294,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "souvenir",
-    "m": "quà lưu niệm",
-    "cat": "văn hóa",
-    "p": "sˌuːvənˈɪɹ",
-    "pos": "Danh từ"
-  },
-  {
     "w": "pancake",
     "m": "bánh kếp",
     "cat": "ẩm thực",
@@ -371,13 +315,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "porridge",
-    "m": "cháo yến mạch",
-    "cat": "ẩm thực",
-    "p": "pˈɔɹɪdʒ",
-    "pos": "Danh từ"
-  },
-  {
     "w": "cereal",
     "m": "ngũ cốc ăn sáng",
     "cat": "ẩm thực",
@@ -389,13 +326,6 @@
     "m": "nâng ly chúc mừng, bánh mì nướng",
     "cat": "ẩm thực",
     "p": "tˈoʊst",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "sandwich",
-    "m": "bánh kẹp",
-    "cat": "ẩm thực",
-    "p": "sˈændwɪtʃ",
     "pos": "Danh từ"
   },
   {
@@ -441,31 +371,10 @@
     "pos": "Danh từ"
   },
   {
-    "w": "barbecue",
-    "m": "đồ nướng",
-    "cat": "ẩm thực",
-    "p": "bˈɑːɹbɪkjˌuː",
-    "pos": "Danh từ"
-  },
-  {
     "w": "roast",
     "m": "món quay",
     "cat": "ẩm thực",
     "p": "ɹˈoʊst",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "salad",
-    "m": "rau trộn",
-    "cat": "ẩm thực",
-    "p": "sˈæləd",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "soup",
-    "m": "súp",
-    "cat": "ẩm thực",
-    "p": "sˈuːp",
     "pos": "Danh từ"
   },
   {
@@ -532,13 +441,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "syrup",
-    "m": "siro",
-    "cat": "ẩm thực",
-    "p": "sˈɪɹʌp",
-    "pos": "Danh từ"
-  },
-  {
     "w": "sauce",
     "m": "nước sốt",
     "cat": "ẩm thực",
@@ -578,13 +480,6 @@
     "m": "sữa lắc",
     "cat": "ẩm thực",
     "p": "mˈɪlkʃeɪk",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "lemonade",
-    "m": "nước chanh",
-    "cat": "ẩm thực",
-    "p": "lˌɛmənˈeɪd",
     "pos": "Danh từ"
   },
   {
@@ -651,27 +546,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "recipe",
-    "m": "công thức nấu ăn",
-    "cat": "ẩm thực",
-    "p": "ɹˈɛsᵻpˌiː",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "ingredient",
-    "m": "nguyên liệu",
-    "cat": "ẩm thực",
-    "p": "ɪŋɡɹˈiːdiənt",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "portion",
-    "m": "khẩu phần",
-    "cat": "ẩm thực",
-    "p": "pˈɔːɹʃən",
-    "pos": "Danh từ"
-  },
-  {
     "w": "helping",
     "m": "suất ăn thêm",
     "cat": "ẩm thực",
@@ -679,31 +553,10 @@
     "pos": "Danh từ"
   },
   {
-    "w": "breeze",
-    "m": "làn gió nhẹ",
-    "cat": "thiên nhiên",
-    "p": "bɹˈiːz",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "shower",
-    "m": "vòi sen, cơn mưa rào",
-    "cat": "thiên nhiên",
-    "p": "ʃˈaʊɚ",
-    "pos": "Danh từ"
-  },
-  {
     "w": "sunshine",
     "m": "ánh nắng",
     "cat": "thiên nhiên",
     "p": "sˈʌnʃaɪn",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "rainbow",
-    "m": "cầu vồng",
-    "cat": "thiên nhiên",
-    "p": "ɹˈeɪnboʊ",
     "pos": "Danh từ"
   },
   {
@@ -718,13 +571,6 @@
     "m": "phong cảnh",
     "cat": "thiên nhiên",
     "p": "lˈændskeɪp",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "scenery",
-    "m": "cảnh vật",
-    "cat": "thiên nhiên",
-    "p": "sˈiːnɚɹi",
     "pos": "Danh từ"
   },
   {
@@ -749,38 +595,10 @@
     "pos": "Danh từ"
   },
   {
-    "w": "valley",
-    "m": "thung lũng",
-    "cat": "thiên nhiên",
-    "p": "vˈæli",
-    "pos": "Danh từ"
-  },
-  {
     "w": "canyon",
     "m": "hẻm núi sâu",
     "cat": "thiên nhiên",
     "p": "kˈænɪən",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "waterfall",
-    "m": "thác nước",
-    "cat": "thiên nhiên",
-    "p": "wˈɔːɾɚfˌɔːl",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "stream",
-    "m": "con suối nhỏ, phát trực tiếp, dòng suối",
-    "cat": "thiên nhiên",
-    "p": "stɹˈiːm",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "pond",
-    "m": "ao",
-    "cat": "thiên nhiên",
-    "p": "pˈɑːnd",
     "pos": "Danh từ"
   },
   {
@@ -847,13 +665,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "forecast",
-    "m": "dự báo thời tiết",
-    "cat": "thiên nhiên",
-    "p": "fˈɔːɹkæst",
-    "pos": "Động từ"
-  },
-  {
     "w": "climate",
     "m": "khí hậu",
     "cat": "thiên nhiên",
@@ -861,24 +672,10 @@
     "pos": "Danh từ"
   },
   {
-    "w": "temperature",
-    "m": "nhiệt độ",
-    "cat": "thiên nhiên",
-    "p": "tˈɛmpɹɪtʃɚ",
-    "pos": "Danh từ"
-  },
-  {
     "w": "thermostat",
     "m": "bộ điều nhiệt",
     "cat": "đồ vật",
     "p": "θˈɜːməstˌæt",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "timetable",
-    "m": "thời gian biểu",
-    "cat": "công việc",
-    "p": "tˈaɪmteɪbəl",
     "pos": "Danh từ"
   },
   {
@@ -901,13 +698,6 @@
     "cat": "công việc",
     "p": "mˈɪnɪts",
     "pos": "Danh từ"
-  },
-  {
-    "w": "report",
-    "m": "báo cáo",
-    "cat": "công việc",
-    "p": "ɹᵻpˈɔːɹt",
-    "pos": "Động từ"
   },
   {
     "w": "presentation",
@@ -1008,13 +798,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "vacancy",
-    "m": "vị trí trống",
-    "cat": "công việc",
-    "p": "vˈeɪkənsi",
-    "pos": "Danh từ"
-  },
-  {
     "w": "candidate",
     "m": "ứng viên",
     "cat": "công việc",
@@ -1057,24 +840,10 @@
     "pos": "Động từ"
   },
   {
-    "w": "overtime",
-    "m": "làm thêm giờ",
-    "cat": "công việc",
-    "p": "ˈoʊvɚtˌaɪm",
-    "pos": "Động từ"
-  },
-  {
     "w": "workload",
     "m": "khối lượng công việc",
     "cat": "công việc",
     "p": "wˈɜːkloʊd",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "colleague",
-    "m": "đồng nghiệp",
-    "cat": "công việc",
-    "p": "kˈɑːliːɡ",
     "pos": "Danh từ"
   },
   {
@@ -1386,20 +1155,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "diet",
-    "m": "chế độ ăn",
-    "cat": "sức khỏe",
-    "p": "dˈaɪət",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "exercise",
-    "m": "tập thể dục",
-    "cat": "sức khỏe",
-    "p": "ˈɛksɚsˌaɪz",
-    "pos": "Động từ"
-  },
-  {
     "w": "fitness",
     "m": "thể lực, sức khỏe thể chất, sự cân đối, sự khỏe khoắn",
     "cat": "sức khỏe",
@@ -1670,13 +1425,6 @@
     "m": "anh chị em ruột",
     "cat": "người",
     "p": "sˈɪblɪŋ",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "twin",
-    "m": "sinh đôi",
-    "cat": "người",
-    "p": "twˈɪn",
     "pos": "Danh từ"
   },
   {

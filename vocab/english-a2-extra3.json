@@ -70,13 +70,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "blanket",
-    "m": "chăn, mền",
-    "cat": "nhà ở",
-    "p": "blˈæŋkɪt",
-    "pos": "Danh từ"
-  },
-  {
     "w": "blender",
     "m": "máy xay sinh tố",
     "cat": "đồ vật",
@@ -103,13 +96,6 @@
     "cat": "du lịch",
     "p": "bˈɔːɹdɪŋ pˈæs",
     "pos": "Danh từ"
-  },
-  {
-    "w": "boil",
-    "m": "luộc, đun sôi",
-    "cat": "ẩm thực",
-    "p": "bˈɔɪl",
-    "pos": "Động từ"
   },
   {
     "w": "bookshelf",
@@ -175,13 +161,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "bus stop",
-    "m": "trạm xe buýt",
-    "cat": "giao thông",
-    "p": "bˈʌs stˈɑːp",
-    "pos": "Danh từ"
-  },
-  {
     "w": "cabin",
     "m": "cabin; nhà gỗ nhỏ",
     "cat": "du lịch",
@@ -224,13 +203,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "carpet",
-    "m": "thảm trải sàn",
-    "cat": "nhà ở",
-    "p": "kˈɑːɹpɪt",
-    "pos": "Danh từ"
-  },
-  {
     "w": "cartoon",
     "m": "phim hoạt hình",
     "cat": "giải trí",
@@ -242,13 +214,6 @@
     "m": "thu ngân",
     "cat": "nghề nghiệp",
     "p": "kæʃˈɪɹ",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "ceiling",
-    "m": "trần nhà",
-    "cat": "nhà ở",
-    "p": "sˈiːlɪŋ",
     "pos": "Danh từ"
   },
   {
@@ -361,13 +326,6 @@
     "m": "tủ chén",
     "cat": "nhà ở",
     "p": "kˈʌbəd",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "curtain",
-    "m": "rèm cửa",
-    "cat": "nhà ở",
-    "p": "kˈɜːtən",
     "pos": "Danh từ"
   },
   {
@@ -546,13 +504,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "eraser",
-    "m": "cục tẩy",
-    "cat": "học tập",
-    "p": "ᵻɹˈeɪsɚ",
-    "pos": "Danh từ"
-  },
-  {
     "w": "errand",
     "m": "việc vặt phải đi làm",
     "cat": "đời sống",
@@ -571,13 +522,6 @@
     "m": "tỷ giá hối đoái",
     "cat": "tiền bạc",
     "p": "ɛkstʃˈeɪndʒ ɹˈeɪt",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "eyebrow",
-    "m": "lông mày",
-    "cat": "cơ thể",
-    "p": "ˈaɪbɹaʊ",
     "pos": "Danh từ"
   },
   {
@@ -620,13 +564,6 @@
     "m": "hàng rào",
     "cat": "nhà ở",
     "p": "fˈɛns",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "ferry",
-    "m": "phà",
-    "cat": "giao thông",
-    "p": "fˈɛɹi",
     "pos": "Danh từ"
   },
   {
@@ -1029,13 +966,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "kettle",
-    "m": "ấm đun nước",
-    "cat": "đồ vật",
-    "p": "kˈɛɾəl",
-    "pos": "Danh từ"
-  },
-  {
     "w": "keyboard",
     "m": "bàn phím",
     "cat": "công nghệ",
@@ -1113,13 +1043,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "living room",
-    "m": "phòng khách",
-    "cat": "nhà ở",
-    "p": "lˈɪvɪŋ ɹˈuːm",
-    "pos": "Danh từ"
-  },
-  {
     "w": "lock",
     "m": "ổ khóa",
     "cat": "đồ vật",
@@ -1194,13 +1117,6 @@
     "m": "đệm",
     "cat": "nhà ở",
     "p": "mˈætɹəs",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "microwave",
-    "m": "lò vi sóng",
-    "cat": "đồ vật",
-    "p": "mˈaɪkɹoʊwˌeɪv",
     "pos": "Danh từ"
   },
   {
@@ -1288,13 +1204,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "oven",
-    "m": "lò nướng",
-    "cat": "đồ vật",
-    "p": "ˈʌvən",
-    "pos": "Danh từ"
-  },
-  {
     "w": "overslept",
     "m": "ngủ quên",
     "cat": "đời sống",
@@ -1313,20 +1222,6 @@
     "m": "thuốc giảm đau",
     "cat": "sức khỏe",
     "p": "pˈeɪŋkɪlɚ",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "pajamas",
-    "m": "đồ ngủ",
-    "cat": "đồ vật",
-    "p": "pɐdʒˈɑːməz",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "pan",
-    "m": "chảo",
-    "cat": "đồ vật",
-    "p": "pˈæn",
     "pos": "Danh từ"
   },
   {
@@ -1390,13 +1285,6 @@
     "m": "dã ngoại",
     "cat": "giải trí",
     "p": "pˈɪknɪk",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "pillow",
-    "m": "cái gối",
-    "cat": "nhà ở",
-    "p": "pˈɪloʊ",
     "pos": "Danh từ"
   },
   {
@@ -1691,13 +1579,6 @@
     "m": "dầu gội",
     "cat": "đồ vật",
     "p": "ʃæmpˈuː",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "shelf",
-    "m": "kệ",
-    "cat": "nhà ở",
-    "p": "ʃˈɛlf",
     "pos": "Danh từ"
   },
   {
@@ -2156,20 +2037,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "wallet",
-    "m": "ví tiền",
-    "cat": "đồ vật",
-    "p": "wˈɔlɪt",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "wardrobe",
-    "m": "tủ quần áo",
-    "cat": "nhà ở",
-    "p": "wˈɔːɹdɹoʊb",
-    "pos": "Danh từ"
-  },
-  {
     "w": "washing powder",
     "m": "bột giặt",
     "cat": "đồ vật",
@@ -2223,13 +2090,6 @@
     "m": "giấy gói quà",
     "cat": "đồ vật",
     "p": "ɹˈæpɪŋ pˈeɪpɚ",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "wrist",
-    "m": "cổ tay",
-    "cat": "cơ thể",
-    "p": "ɹˈɪst",
     "pos": "Danh từ"
   },
   {
@@ -2433,13 +2293,6 @@
     "m": "cho mèo ăn",
     "cat": "đời sống",
     "p": "fˈiːd ðə kˈæt",
-    "pos": "Động từ"
-  },
-  {
-    "w": "fix",
-    "m": "sửa chữa",
-    "cat": "hành động",
-    "p": "fˈɪks",
     "pos": "Động từ"
   },
   {

@@ -1,24 +1,10 @@
 [
   {
-    "w": "colleague",
-    "p": "kˈɑːliːɡ",
-    "m": "đồng nghiệp",
-    "cat": "công việc",
-    "pos": "Danh từ"
-  },
-  {
     "w": "supervisor",
     "p": "sˈuːpɚvˌaɪzɚ",
     "m": "người giám sát, quản lý trực tiếp",
     "cat": "công việc",
     "pos": "Động từ"
-  },
-  {
-    "w": "deadline",
-    "p": "dˈɛdlaɪn",
-    "m": "hạn chót, thời hạn nộp bài/công việc",
-    "cat": "công việc",
-    "pos": "Danh từ"
   },
   {
     "w": "meeting room",
@@ -40,13 +26,6 @@
     "m": "khối lượng công việc",
     "cat": "công việc",
     "pos": "Danh từ"
-  },
-  {
-    "w": "overtime",
-    "p": "ˈoʊvɚtˌaɪm",
-    "m": "làm thêm giờ",
-    "cat": "công việc",
-    "pos": "Động từ"
   },
   {
     "w": "promotion",
@@ -196,13 +175,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "report",
-    "p": "ɹᵻpˈɔːɹt",
-    "m": "báo cáo",
-    "cat": "công việc",
-    "pos": "Động từ"
-  },
-  {
     "w": "spreadsheet",
     "p": "spɹˈɛdʃiːt",
     "m": "bảng tính",
@@ -210,30 +182,9 @@
     "pos": "Danh từ"
   },
   {
-    "w": "printer",
-    "p": "pɹˈɪntɚ",
-    "m": "máy in",
-    "cat": "đồ vật",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "stapler",
-    "p": "stˈeɪplɚ",
-    "m": "cái dập ghim",
-    "cat": "đồ vật",
-    "pos": "Danh từ"
-  },
-  {
     "w": "filing cabinet",
     "p": "fˈaɪlɪŋ kˈæbᵻnət",
     "m": "tủ đựng hồ sơ",
-    "cat": "đồ vật",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "whiteboard",
-    "p": "wˈaɪtbɔːɹd",
-    "m": "bảng trắng",
     "cat": "đồ vật",
     "pos": "Danh từ"
   },
@@ -245,59 +196,10 @@
     "pos": "Danh từ"
   },
   {
-    "w": "briefcase",
-    "p": "bɹˈiːfkeɪs",
-    "m": "cặp công sở, cặp tài liệu",
-    "cat": "đồ vật",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "keyboard",
-    "p": "kˈiːbɔːɹd",
-    "m": "bàn phím",
-    "cat": "công nghệ",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "screen",
-    "p": "skɹˈiːn",
-    "m": "màn hình",
-    "cat": "công nghệ",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "password",
-    "p": "pˈæswɜːd",
-    "m": "mật khẩu",
-    "cat": "công nghệ",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "log in",
-    "p": "lˈɔɡ ˈɪn",
-    "m": "đăng nhập",
-    "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
-    "w": "attach",
-    "p": "ɐtˈætʃ",
-    "m": "đính kèm (file)",
-    "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
     "w": "forward",
     "p": "fˈɔːɹwɚd",
     "m": "chuyển tiếp (email)",
     "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
-    "w": "schedule",
-    "p": "skˈɛdʒuːl",
-    "m": "lên lịch, thời gian biểu",
-    "cat": "công việc",
     "pos": "Động từ"
   },
   {
@@ -336,37 +238,9 @@
     "pos": "Động từ"
   },
   {
-    "w": "review",
-    "p": "ɹᵻvjˈuː",
-    "m": "xem lại, đánh giá, ôn tập, xem xét, điểm phim/sách",
-    "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
     "w": "resign",
     "p": "ɹɪzˈaɪn",
     "m": "từ chức, xin nghỉ việc",
-    "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
-    "w": "hire",
-    "p": "hˈaɪɚ",
-    "m": "thuê người; thuê đồ, tuyển dụng",
-    "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
-    "w": "fire",
-    "p": "fˈaɪɚ",
-    "m": "lửa, sa thải",
-    "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
-    "w": "retire",
-    "p": "ɹᵻtˈaɪɚ",
-    "m": "nghỉ hưu",
     "cat": "hành động",
     "pos": "Động từ"
   },
@@ -376,13 +250,6 @@
     "m": "đi làm hàng ngày (đi lại)",
     "cat": "giao thông",
     "pos": "Động từ"
-  },
-  {
-    "w": "rush hour",
-    "p": "ɹˈʌʃ ˈaʊɚ",
-    "m": "giờ cao điểm",
-    "cat": "giao thông",
-    "pos": "Danh từ"
   },
   {
     "w": "business trip",
@@ -406,27 +273,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "boarding pass",
-    "p": "bˈɔːɹdɪŋ pˈæs",
-    "m": "thẻ lên máy bay",
-    "cat": "giao thông",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "departure",
-    "p": "dᵻpˈɑːɹtʃɚ",
-    "m": "sự khởi hành, cổng đi",
-    "cat": "giao thông",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "arrival",
-    "p": "ɚɹˈaɪvəl",
-    "m": "sự đến nơi, cổng đến",
-    "cat": "giao thông",
-    "pos": "Danh từ"
-  },
-  {
     "w": "check in",
     "p": "tʃˈɛk ˈɪn",
     "m": "làm thủ tục (sân bay/khách sạn)",
@@ -439,13 +285,6 @@
     "m": "trả phòng",
     "cat": "hành động",
     "pos": "Động từ"
-  },
-  {
-    "w": "luggage",
-    "p": "lˈʌɡɪdʒ",
-    "m": "hành lý",
-    "cat": "giao thông",
-    "pos": "Danh từ"
   },
   {
     "w": "hand luggage",
@@ -483,20 +322,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "sightseeing",
-    "p": "sˈaɪtsiːɪŋ",
-    "m": "tham quan, ngắm cảnh",
-    "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
-    "w": "souvenir",
-    "p": "sˌuːvənˈɪɹ",
-    "m": "quà lưu niệm",
-    "cat": "đồ vật",
-    "pos": "Danh từ"
-  },
-  {
     "w": "resort",
     "p": "ɹᵻzˈɔːɹt",
     "m": "khu nghỉ dưỡng",
@@ -518,39 +343,11 @@
     "pos": "Danh từ"
   },
   {
-    "w": "reservation",
-    "p": "ɹˌɛzɚvˈeɪʃən",
-    "m": "đặt chỗ trước, đặt phòng",
-    "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
-    "w": "book",
-    "p": "bˈʊk",
-    "m": "cuốn sách, đặt trước (phòng/vé)",
-    "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
     "w": "cancel",
     "p": "kˈænsəl",
     "m": "hủy bỏ",
     "cat": "hành động",
     "pos": "Động từ"
-  },
-  {
-    "w": "refund",
-    "p": "ɹᵻfˈʌnd",
-    "m": "hoàn tiền",
-    "cat": "tiền bạc",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "itinerary",
-    "p": "aɪtˈɪnɚɹˌɛɹi",
-    "m": "lịch trình du lịch",
-    "cat": "địa điểm",
-    "pos": "Danh từ"
   },
   {
     "w": "destination",
@@ -571,20 +368,6 @@
     "p": "mˈɑːnjuːmənt",
     "m": "tượng đài, di tích, đài tưởng niệm",
     "cat": "địa điểm",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "museum",
-    "p": "mjuːzˈiəm",
-    "m": "bảo tàng",
-    "cat": "địa điểm",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "exhibition",
-    "p": "ɛksɪbˈɪʃən",
-    "m": "triển lãm",
-    "cat": "nghệ thuật",
     "pos": "Danh từ"
   },
   {
@@ -609,13 +392,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "exchange rate",
-    "p": "ɛkstʃˈeɪndʒ ɹˈeɪt",
-    "m": "tỷ giá hối đoái",
-    "cat": "tiền bạc",
-    "pos": "Danh từ"
-  },
-  {
     "w": "travel insurance",
     "p": "tɹˈævəl ɪnʃˈʊɹɹəns",
     "m": "bảo hiểm du lịch",
@@ -637,38 +413,10 @@
     "pos": "Danh từ"
   },
   {
-    "w": "platform",
-    "p": "plˈætfɔːɹm",
-    "m": "sân ga, bến, ke ga, nền tảng, thềm ga",
-    "cat": "giao thông",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "timetable",
-    "p": "tˈaɪmteɪbəl",
-    "m": "thời gian biểu, lịch tàu/xe",
-    "cat": "giao thông",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "delay",
-    "p": "dᵻlˈeɪ",
-    "m": "sự chậm trễ",
-    "cat": "giao thông",
-    "pos": "Danh từ"
-  },
-  {
     "w": "transfer",
     "p": "tɹˈænsfɜː",
     "m": "chuyển giao, chuyển khoản, chuyển tuyến, đổi xe/tàu",
     "cat": "giao thông",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "environment",
-    "p": "ɛnvˈaɪɹənmənt",
-    "m": "môi trường",
-    "cat": "thiên nhiên",
     "pos": "Danh từ"
   },
   {
@@ -719,13 +467,6 @@
     "m": "tua bin gió",
     "cat": "thiên nhiên",
     "pos": "Danh từ"
-  },
-  {
-    "w": "recycle",
-    "p": "ɹᵻsˈaɪkəl",
-    "m": "tái chế",
-    "cat": "hành động",
-    "pos": "Động từ"
   },
   {
     "w": "waste",
@@ -829,13 +570,6 @@
     "w": "coral reef",
     "p": "kˈɔːɹəl ɹˈiːf",
     "m": "rạn san hô",
-    "cat": "thiên nhiên",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "iceberg",
-    "p": "ˈaɪsbɜːɡ",
-    "m": "tảng băng trôi",
     "cat": "thiên nhiên",
     "pos": "Danh từ"
   },
@@ -987,13 +721,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "charity",
-    "p": "tʃˈæɹᵻɾi",
-    "m": "tổ chức từ thiện",
-    "cat": "xã hội",
-    "pos": "Động từ"
-  },
-  {
     "w": "volunteer",
     "p": "vˌɑːləntˈɪɹ",
     "m": "tình nguyện viên",
@@ -1075,13 +802,6 @@
     "p": "ˌɛdʒuːkˈeɪʃən sˈɪstəm",
     "m": "hệ thống giáo dục",
     "cat": "học tập",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "social media",
-    "p": "sˈoʊʃəl mˈiːdiːə",
-    "m": "mạng xã hội",
-    "cat": "công nghệ",
     "pos": "Danh từ"
   },
   {
@@ -1309,13 +1029,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "budget",
-    "p": "bˈʌdʒɪt",
-    "m": "ngân sách",
-    "cat": "tiền bạc",
-    "pos": "Danh từ"
-  },
-  {
     "w": "profit",
     "p": "pɹˈɑːfɪt",
     "m": "lợi nhuận",
@@ -1349,20 +1062,6 @@
     "m": "đối thủ cạnh tranh",
     "cat": "kinh doanh",
     "pos": "Danh từ"
-  },
-  {
-    "w": "market",
-    "p": "mˈɑːɹkɪt",
-    "m": "chợ, thị trường",
-    "cat": "kinh doanh",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "brand",
-    "p": "bɹˈænd",
-    "m": "thương hiệu",
-    "cat": "kinh doanh",
-    "pos": "Động từ"
   },
   {
     "w": "consumer",
@@ -1456,13 +1155,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "receipt",
-    "p": "ɹᵻsˈiːt",
-    "m": "biên lai, hóa đơn",
-    "cat": "tiền bạc",
-    "pos": "Danh từ"
-  },
-  {
     "w": "tax",
     "p": "tˈæks",
     "m": "thuế",
@@ -1488,13 +1180,6 @@
     "p": "ˈɪntɹɛst ɹˈeɪt",
     "m": "lãi suất",
     "cat": "tiền bạc",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "salary",
-    "p": "sˈælɚɹi",
-    "m": "lương tháng",
-    "cat": "công việc",
     "pos": "Danh từ"
   },
   {
@@ -1536,20 +1221,6 @@
     "w": "ambitious",
     "p": "æmbˈɪʃəs",
     "m": "có tham vọng",
-    "cat": "tính từ",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "reliable",
-    "p": "ɹᵻlˈaɪəbəl",
-    "m": "đáng tin cậy",
-    "cat": "tính từ",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "flexible",
-    "p": "flˈɛksɪbəl",
-    "m": "linh hoạt",
     "cat": "tính từ",
     "pos": "Tính từ"
   },
@@ -1617,20 +1288,6 @@
     "pos": "Tính từ"
   },
   {
-    "w": "confident",
-    "p": "kˈɑːnfɪdənt",
-    "m": "tự tin",
-    "cat": "tính từ",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "polite",
-    "p": "pəlˈaɪt",
-    "m": "lịch sự",
-    "cat": "tính từ",
-    "pos": "Tính từ"
-  },
-  {
     "w": "punctual",
     "p": "pˈʌŋktʃuːəl",
     "m": "đúng giờ",
@@ -1638,37 +1295,9 @@
     "pos": "Tính từ"
   },
   {
-    "w": "patient",
-    "p": "pˈeɪʃənt",
-    "m": "kiên nhẫn, bệnh nhân",
-    "cat": "tính từ",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "creative",
-    "p": "kɹiːˈeɪɾɪv",
-    "m": "sáng tạo",
-    "cat": "tính từ",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "responsible",
-    "p": "ɹᵻspˈɑːnsᵻbəl",
-    "m": "có trách nhiệm",
-    "cat": "tính từ",
-    "pos": "Tính từ"
-  },
-  {
     "w": "honestly",
     "p": "ˈɑːnɪstli",
     "m": "một cách thành thật",
-    "cat": "trạng từ",
-    "pos": "Phó từ"
-  },
-  {
-    "w": "carefully",
-    "p": "kˈɛɹfəli",
-    "m": "một cách cẩn thận",
     "cat": "trạng từ",
     "pos": "Phó từ"
   },
@@ -1683,13 +1312,6 @@
     "w": "gradually",
     "p": "ɡɹˈædʒuːəli",
     "m": "dần dần",
-    "cat": "trạng từ",
-    "pos": "Phó từ"
-  },
-  {
-    "w": "recently",
-    "p": "ɹˈiːsəntli",
-    "m": "gần đây",
     "cat": "trạng từ",
     "pos": "Phó từ"
   },
@@ -1736,13 +1358,6 @@
     "pos": "Phó từ"
   },
   {
-    "w": "immediately",
-    "p": "ɪmˈiːdɪətli",
-    "m": "ngay lập tức",
-    "cat": "trạng từ",
-    "pos": "Phó từ"
-  },
-  {
     "w": "obviously",
     "p": "ˈɑːbviəsli",
     "m": "rõ ràng là",
@@ -1753,13 +1368,6 @@
     "w": "surprisingly",
     "p": "sɚpɹˈaɪzɪŋli",
     "m": "một cách đáng ngạc nhiên",
-    "cat": "trạng từ",
-    "pos": "Phó từ"
-  },
-  {
-    "w": "unfortunately",
-    "p": "ʌnfˈɔːɹtʃənətli",
-    "m": "thật không may",
     "cat": "trạng từ",
     "pos": "Phó từ"
   },
@@ -1813,76 +1421,6 @@
     "pos": "Tính từ"
   },
   {
-    "w": "excited",
-    "p": "ɛksˈaɪɾᵻd",
-    "m": "hào hứng, phấn khích",
-    "cat": "cảm xúc",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "relieved",
-    "p": "ɹᵻlˈiːvd",
-    "m": "nhẹ nhõm",
-    "cat": "cảm xúc",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "disappointed",
-    "p": "dˌɪsɐpˈɔɪntᵻd",
-    "m": "thất vọng",
-    "cat": "cảm xúc",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "proud",
-    "p": "pɹˈaʊd",
-    "m": "tự hào",
-    "cat": "cảm xúc",
-    "pos": "Phó từ"
-  },
-  {
-    "w": "embarrassed",
-    "p": "ɛmbˈæɹəst",
-    "m": "xấu hổ, ngại ngùng, ngượng ngùng",
-    "cat": "cảm xúc",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "jealous",
-    "p": "dʒˈɛləs",
-    "m": "ghen tị, đố kị",
-    "cat": "cảm xúc",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "bored",
-    "p": "bˈɔːɹd",
-    "m": "chán nản",
-    "cat": "cảm xúc",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "satisfied",
-    "p": "sˈæɾɪsfˌaɪd",
-    "m": "thỏa mãn, hài lòng",
-    "cat": "cảm xúc",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "confused",
-    "p": "kənfjˈuːzd",
-    "m": "bối rối, không hiểu",
-    "cat": "cảm xúc",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "nervous",
-    "p": "nˈɜːvəs",
-    "m": "hồi hộp, lo lắng",
-    "cat": "cảm xúc",
-    "pos": "Tính từ"
-  },
-  {
     "w": "stressed",
     "p": "stɹˈɛst",
     "m": "căng thẳng",
@@ -1890,37 +1428,9 @@
     "pos": "Danh từ"
   },
   {
-    "w": "homesick",
-    "p": "hˈoʊmsɪk",
-    "m": "nhớ nhà",
-    "cat": "cảm xúc",
-    "pos": "Động từ"
-  },
-  {
-    "w": "grateful",
-    "p": "ɡɹˈeɪtfəl",
-    "m": "biết ơn",
-    "cat": "cảm xúc",
-    "pos": "Tính từ"
-  },
-  {
     "w": "curious",
     "p": "kjˈʊɹɹiəs",
     "m": "tò mò",
-    "cat": "cảm xúc",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "surprised",
-    "p": "sɚpɹˈaɪzd",
-    "m": "ngạc nhiên",
-    "cat": "cảm xúc",
-    "pos": "Động từ"
-  },
-  {
-    "w": "lonely",
-    "p": "lˈoʊnli",
-    "m": "cô đơn",
     "cat": "cảm xúc",
     "pos": "Danh từ"
   },
@@ -1956,13 +1466,6 @@
     "w": "ceremony",
     "p": "sˈɛɹᵻməni",
     "m": "nghi lễ, buổi lễ",
-    "cat": "văn hóa",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "festival",
-    "p": "fˈɛstɪvəl",
-    "m": "lễ hội",
     "cat": "văn hóa",
     "pos": "Danh từ"
   },
@@ -2037,13 +1540,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "spicy",
-    "p": "spˈaɪsi",
-    "m": "cay",
-    "cat": "tính từ",
-    "pos": "Tính từ"
-  },
-  {
     "w": "mild",
     "p": "mˈaɪld",
     "m": "nhẹ nhàng, không cay",
@@ -2055,55 +1551,6 @@
     "p": "sˈiːfuːd",
     "m": "hải sản",
     "cat": "thức ăn",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "vegetarian",
-    "p": "vˌɛdʒɪtˈɛɹiən",
-    "m": "ăn chay",
-    "cat": "thức ăn",
-    "pos": "Động từ"
-  },
-  {
-    "w": "ingredient",
-    "p": "ɪŋɡɹˈiːdiənt",
-    "m": "nguyên liệu (nấu ăn)",
-    "cat": "thức ăn",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "recipe",
-    "p": "ɹˈɛsᵻpˌiː",
-    "m": "công thức nấu ăn",
-    "cat": "thức ăn",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "allergic",
-    "p": "ɐlˈɜːdʒɪk",
-    "m": "bị dị ứng",
-    "cat": "sức khỏe",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "portion",
-    "p": "pˈɔːɹʃən",
-    "m": "khẩu phần, suất ăn",
-    "cat": "thức ăn",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "takeaway",
-    "p": "tˈeɪkəwˌeɪ",
-    "m": "thức ăn mang về",
-    "cat": "thức ăn",
-    "pos": "Động từ"
-  },
-  {
-    "w": "diet",
-    "p": "dˈaɪət",
-    "m": "chế độ ăn kiêng",
-    "cat": "sức khỏe",
     "pos": "Danh từ"
   },
   {
@@ -2135,20 +1582,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "dessert",
-    "p": "dɪzˈɜːt",
-    "m": "món tráng miệng",
-    "cat": "thức ăn",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "tip",
-    "p": "tˈɪp",
-    "m": "tiền boa; mẹo nhỏ, tiền típ, tiền bo",
-    "cat": "tiền bạc",
-    "pos": "Danh từ"
-  },
-  {
     "w": "bill",
     "p": "bˈɪl",
     "m": "hóa đơn (nhà hàng)",
@@ -2177,46 +1610,11 @@
     "pos": "Danh từ"
   },
   {
-    "w": "gym",
-    "p": "dʒˈɪm",
-    "m": "phòng tập thể hình",
-    "cat": "thể thao",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "yoga",
-    "p": "jˈoʊɡə",
-    "m": "yoga",
-    "cat": "thể thao",
-    "pos": "Danh từ"
-  },
-  {
     "w": "jogging",
     "p": "dʒˈɑːɡɪŋ",
     "m": "chạy bộ (nhẹ nhàng)",
     "cat": "thể thao",
     "pos": "Động từ"
-  },
-  {
-    "w": "cycling",
-    "p": "sˈaɪklɪŋ",
-    "m": "đạp xe",
-    "cat": "thể thao",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "swimming",
-    "p": "swˈɪmɪŋ",
-    "m": "bơi lội",
-    "cat": "thể thao",
-    "pos": "Động từ"
-  },
-  {
-    "w": "competition",
-    "p": "kˌɑːmpətˈɪʃən",
-    "m": "cuộc thi, cạnh tranh, cuộc đua",
-    "cat": "thể thao",
-    "pos": "Danh từ"
   },
   {
     "w": "championship",
@@ -2247,20 +1645,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "coach",
-    "p": "kˈoʊtʃ",
-    "m": "huấn luyện viên",
-    "cat": "thể thao",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "referee",
-    "p": "ɹˌɛfɚɹˈiː",
-    "m": "trọng tài",
-    "cat": "thể thao",
-    "pos": "Danh từ"
-  },
-  {
     "w": "tournament",
     "p": "tˈʊɹnəmənt",
     "m": "giải đấu",
@@ -2273,13 +1657,6 @@
     "m": "người hâm mộ",
     "cat": "thể thao",
     "pos": "Danh từ"
-  },
-  {
-    "w": "score",
-    "p": "skˈɔːɹ",
-    "m": "ghi điểm, tỉ số, điểm số, tỷ số, nhạc phim",
-    "cat": "thể thao",
-    "pos": "Động từ"
   },
   {
     "w": "defeat",
@@ -2300,13 +1677,6 @@
     "p": "tˈaɪ",
     "m": "hòa (tỷ số), cà vạt",
     "cat": "thể thao",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "novel",
-    "p": "nˈɑːvəl",
-    "m": "tiểu thuyết",
-    "cat": "nghệ thuật",
     "pos": "Danh từ"
   },
   {
@@ -2387,13 +1757,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "performance",
-    "p": "pɚfˈɔːɹməns",
-    "m": "buổi biểu diễn, hiệu suất",
-    "cat": "nghệ thuật",
-    "pos": "Danh từ"
-  },
-  {
     "w": "rehearsal",
     "p": "ɹᵻhˈɜːsəl",
     "m": "buổi tập (biểu diễn)",
@@ -2411,13 +1774,6 @@
     "w": "applause",
     "p": "ɐplˈɔːz",
     "m": "tiếng vỗ tay",
-    "cat": "nghệ thuật",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "sculpture",
-    "p": "skˈʌlptʃɚ",
-    "m": "điêu khắc, tác phẩm điêu khắc",
     "cat": "nghệ thuật",
     "pos": "Danh từ"
   },
@@ -2440,13 +1796,6 @@
     "p": "ˈɑːɹkɪtˌɛkt",
     "m": "kiến trúc sư",
     "cat": "nghệ thuật",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "government",
-    "p": "ɡˈʌvɚnmənt",
-    "m": "chính phủ",
-    "cat": "chính trị",
     "pos": "Danh từ"
   },
   {
@@ -2632,37 +1981,9 @@
     "pos": "Danh từ"
   },
   {
-    "w": "describe",
-    "p": "dᵻskɹˈaɪb",
-    "m": "mô tả",
-    "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
-    "w": "compare",
-    "p": "kəmpˈɛɹ",
-    "m": "so sánh",
-    "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
     "w": "contrast",
     "p": "kˈɑːntɹæst",
     "m": "đối chiếu, chỉ ra sự khác biệt, đối lập, tương phản",
-    "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
-    "w": "improve",
-    "p": "ɪmpɹˈuːv",
-    "m": "cải thiện",
-    "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
-    "w": "achieve",
-    "p": "ɐtʃˈiːv",
-    "m": "đạt được",
     "cat": "hành động",
     "pos": "Động từ"
   },
@@ -2709,37 +2030,9 @@
     "pos": "Động từ"
   },
   {
-    "w": "recommend",
-    "p": "ɹˌɛkəmˈɛnd",
-    "m": "giới thiệu, gợi ý, đề xuất, khuyến nghị, giới thiệu/khuyến nghị",
-    "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
-    "w": "suggest",
-    "p": "sədʒˈɛst",
-    "m": "gợi ý, đề nghị",
-    "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
     "w": "consider",
     "p": "kənsˈɪdɚ",
     "m": "xem xét, cân nhắc",
-    "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
-    "w": "increase",
-    "p": "ˈɪŋkɹiːs",
-    "m": "tăng lên",
-    "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
-    "w": "decrease",
-    "p": "dˈiːkɹiːs",
-    "m": "giảm xuống",
     "cat": "hành động",
     "pos": "Động từ"
   },
@@ -2786,13 +2079,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "reduce",
-    "p": "ɹᵻdˈuːs",
-    "m": "giảm, thu nhỏ",
-    "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
     "w": "support",
     "p": "səpˈɔːɹt",
     "m": "hỗ trợ, ủng hộ",
@@ -2803,20 +2089,6 @@
     "w": "expand",
     "p": "ɛkspˈænd",
     "m": "mở rộng",
-    "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
-    "w": "develop",
-    "p": "dɪvˈɛləp",
-    "m": "phát triển",
-    "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
-    "w": "manage",
-    "p": "mˈænɪdʒ",
-    "m": "quản lý",
     "cat": "hành động",
     "pos": "Động từ"
   },
@@ -2996,27 +2268,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "landlord",
-    "p": "lˈændlɔːɹd",
-    "m": "chủ nhà trọ, chủ nhà cho thuê",
-    "cat": "nhà ở",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "tenant",
-    "p": "tˈɛnənt",
-    "m": "người thuê nhà",
-    "cat": "người",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "rent",
-    "p": "ɹˈɛnt",
-    "m": "tiền thuê nhà",
-    "cat": "tiền bạc",
-    "pos": "Danh từ"
-  },
-  {
     "w": "lease",
     "p": "lˈiːs",
     "m": "hợp đồng thuê (nhà/xe)",
@@ -3038,20 +2289,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "furniture",
-    "p": "fˈɜːnɪtʃɚ",
-    "m": "đồ nội thất",
-    "cat": "đồ vật",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "suburb",
-    "p": "sˈʌbɜːb",
-    "m": "vùng ngoại ô",
-    "cat": "địa điểm",
-    "pos": "Danh từ"
-  },
-  {
     "w": "apartment",
     "p": "ɐpˈɑːɹtmənt",
     "m": "căn hộ",
@@ -3069,20 +2306,6 @@
     "w": "detached house",
     "p": "dɪtˈætʃt hˈaʊs",
     "m": "nhà riêng lẻ, biệt thự",
-    "cat": "nhà ở",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "balcony",
-    "p": "bˈælkəni",
-    "m": "ban công",
-    "cat": "nhà ở",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "basement",
-    "p": "bˈeɪsmənt",
-    "m": "tầng hầm",
     "cat": "nhà ở",
     "pos": "Danh từ"
   },
@@ -3119,13 +2342,6 @@
     "p": "pɹˈɑːpɚɾi",
     "m": "bất động sản, tài sản",
     "cat": "tiền bạc",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "cashier",
-    "p": "kæʃˈɪɹ",
-    "m": "thu ngân",
-    "cat": "công việc",
     "pos": "Danh từ"
   },
   {
@@ -3171,20 +2387,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "electrician",
-    "p": "ᵻlɛktɹˈɪʃən",
-    "m": "thợ điện",
-    "cat": "công việc",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "plumber",
-    "p": "plˈʌmɚ",
-    "m": "thợ sửa ống nước",
-    "cat": "công việc",
-    "pos": "Danh từ"
-  },
-  {
     "w": "receptionist",
     "p": "ɹᵻsˈɛpʃənˌɪst",
     "m": "lễ tân",
@@ -3202,13 +2404,6 @@
     "w": "pilot",
     "p": "pˈaɪlət",
     "m": "phi công",
-    "cat": "công việc",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "flight attendant",
-    "p": "flˈaɪt ɐtˈɛndənt",
-    "m": "tiếp viên hàng không",
     "cat": "công việc",
     "pos": "Danh từ"
   },
@@ -3255,13 +2450,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "nurse",
-    "p": "nˈɜːs",
-    "m": "y tá",
-    "cat": "công việc",
-    "pos": "Danh từ"
-  },
-  {
     "w": "dentist",
     "p": "dˈɛntɪst",
     "m": "nha sĩ",
@@ -3290,31 +2478,10 @@
     "pos": "Danh từ"
   },
   {
-    "w": "suburb",
-    "p": "sˈʌbɜːb",
-    "m": "ngoại ô thành phố",
-    "cat": "địa điểm",
-    "pos": "Danh từ"
-  },
-  {
     "w": "countryside",
     "p": "kˈʌntɹɪsˌaɪd",
     "m": "vùng nông thôn",
     "cat": "địa điểm",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "valley",
-    "p": "vˈæli",
-    "m": "thung lũng",
-    "cat": "thiên nhiên",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "waterfall",
-    "p": "wˈɔːɾɚfˌɔːl",
-    "m": "thác nước",
-    "cat": "thiên nhiên",
     "pos": "Danh từ"
   },
   {
@@ -3353,13 +2520,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "soil",
-    "p": "sˈɔɪl",
-    "m": "đất trồng trọt, thổ nhưỡng",
-    "cat": "thiên nhiên",
-    "pos": "Danh từ"
-  },
-  {
     "w": "harvest",
     "p": "hˈɑːɹvɪst",
     "m": "mùa gặt, thu hoạch",
@@ -3388,37 +2548,9 @@
     "pos": "Danh từ"
   },
   {
-    "w": "bush",
-    "p": "bˈʊʃ",
-    "m": "bụi cây",
-    "cat": "thiên nhiên",
-    "pos": "Danh từ"
-  },
-  {
     "w": "trunk",
     "p": "tɹˈʌŋk",
     "m": "thân cây",
-    "cat": "thiên nhiên",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "branch",
-    "p": "bɹˈæntʃ",
-    "m": "cành cây, chi nhánh",
-    "cat": "thiên nhiên",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "root",
-    "p": "ɹˈuːt",
-    "m": "rễ cây",
-    "cat": "thiên nhiên",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "seed",
-    "p": "sˈiːd",
-    "m": "hạt giống",
     "cat": "thiên nhiên",
     "pos": "Danh từ"
   },
@@ -3498,13 +2630,6 @@
     "m": "đàn (gia súc)",
     "cat": "động vật",
     "pos": "Danh từ"
-  },
-  {
-    "w": "pack",
-    "p": "pˈæk",
-    "m": "đóng gói hành lý, bầy (chó sói)",
-    "cat": "động vật",
-    "pos": "Động từ"
   },
   {
     "w": "stray",
@@ -3598,13 +2723,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "stepmother",
-    "p": "stˈɛpmʌðɚ",
-    "m": "mẹ kế",
-    "cat": "gia đình",
-    "pos": "Danh từ"
-  },
-  {
     "w": "guardian",
     "p": "ɡˈɑːɹdiən",
     "m": "người giám hộ",
@@ -3647,13 +2765,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "decade",
-    "p": "dˈɛkeɪd",
-    "m": "thập kỷ (10 năm)",
-    "cat": "thời gian",
-    "pos": "Danh từ"
-  },
-  {
     "w": "era",
     "p": "ˈiəɹə",
     "m": "thời đại, kỷ nguyên",
@@ -3675,13 +2786,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "deadline",
-    "p": "dˈɛdlaɪn",
-    "m": "hạn chót",
-    "cat": "thời gian",
-    "pos": "Danh từ"
-  },
-  {
     "w": "quarter",
     "p": "kwˈɔːɹɾɚ",
     "m": "quý (3 tháng)",
@@ -3692,13 +2796,6 @@
     "w": "annual",
     "p": "ˈænjuːəl",
     "m": "hàng năm",
-    "cat": "tính từ",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "weekly",
-    "p": "wˈiːkli",
-    "m": "hàng tuần",
     "cat": "tính từ",
     "pos": "Tính từ"
   },
@@ -3892,20 +2989,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "gloves",
-    "p": "ɡlˈʌvz",
-    "m": "găng tay",
-    "cat": "quần áo",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "scarf",
-    "p": "skˈɑːɹf",
-    "m": "khăn quàng cổ",
-    "cat": "quần áo",
-    "pos": "Danh từ"
-  },
-  {
     "w": "heel",
     "p": "hˈiːl",
     "m": "gót chân; gót giày",
@@ -3948,13 +3031,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "cotton",
-    "p": "kˈɑːʔn̩",
-    "m": "vải bông, cotton",
-    "cat": "đồ vật",
-    "pos": "Danh từ"
-  },
-  {
     "w": "silk",
     "p": "sˈɪlk",
     "m": "tơ lụa",
@@ -3972,48 +3048,6 @@
     "w": "thumbnail",
     "p": "θˈʌmneɪl",
     "m": "ngón tay cái; ảnh thu nhỏ",
-    "cat": "cơ thể",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "elbow",
-    "p": "ˈɛlboʊ",
-    "m": "khuỷu tay",
-    "cat": "cơ thể",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "wrist",
-    "p": "ɹˈɪst",
-    "m": "cổ tay",
-    "cat": "cơ thể",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "ankle",
-    "p": "ˈæŋkəl",
-    "m": "mắt cá chân",
-    "cat": "cơ thể",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "chin",
-    "p": "tʃˈɪn",
-    "m": "cằm",
-    "cat": "cơ thể",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "forehead",
-    "p": "fˈɔːɹhɛd",
-    "m": "trán",
-    "cat": "cơ thể",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "palm",
-    "p": "pˈɑːm",
-    "m": "lòng bàn tay",
     "cat": "cơ thể",
     "pos": "Danh từ"
   },
@@ -4053,20 +3087,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "fever",
-    "p": "fˈiːvɚ",
-    "m": "sốt",
-    "cat": "sức khỏe",
-    "pos": "Động từ"
-  },
-  {
-    "w": "prescription",
-    "p": "pɹɪskɹˈɪpʃən",
-    "m": "đơn thuốc",
-    "cat": "sức khỏe",
-    "pos": "Danh từ"
-  },
-  {
     "w": "symptom",
     "p": "sˈɪmptəm",
     "m": "triệu chứng",
@@ -4079,13 +3099,6 @@
     "m": "chẩn đoán (bệnh)",
     "cat": "hành động",
     "pos": "Động từ"
-  },
-  {
-    "w": "injection",
-    "p": "ɪndʒˈɛkʃən",
-    "m": "mũi tiêm",
-    "cat": "sức khỏe",
-    "pos": "Danh từ"
   },
   {
     "w": "surgery",
@@ -4109,27 +3122,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "clinic",
-    "p": "klˈɪnɪk",
-    "m": "phòng khám",
-    "cat": "địa điểm",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "pharmacy",
-    "p": "fˈɑːɹməsi",
-    "m": "nhà thuốc",
-    "cat": "địa điểm",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "waiting room",
-    "p": "wˈeɪɾɪŋ ɹˈuːm",
-    "m": "phòng chờ",
-    "cat": "địa điểm",
-    "pos": "Danh từ"
-  },
-  {
     "w": "specialist",
     "p": "spˈɛʃəlˌɪst",
     "m": "bác sĩ chuyên khoa",
@@ -4137,44 +3129,9 @@
     "pos": "Danh từ"
   },
   {
-    "w": "emergency",
-    "p": "ɪmˈɜːdʒənsi",
-    "m": "trường hợp khẩn cấp",
-    "cat": "sức khỏe",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "first aid",
-    "p": "fˈɜːst ˈeɪd",
-    "m": "sơ cứu",
-    "cat": "sức khỏe",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "bandage",
-    "p": "bˈændɪdʒ",
-    "m": "băng bó vết thương",
-    "cat": "sức khỏe",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "tuition",
-    "p": "tuːˈɪʃən",
-    "m": "học phí",
-    "cat": "học tập",
-    "pos": "Động từ"
-  },
-  {
     "w": "scholarship",
     "p": "skˈɑːlɚʃˌɪp",
     "m": "học bổng",
-    "cat": "học tập",
-    "pos": "Động từ"
-  },
-  {
-    "w": "degree",
-    "p": "dᵻɡɹˈiː",
-    "m": "độ (nhiệt độ), bằng đại học, học vị",
     "cat": "học tập",
     "pos": "Động từ"
   },
@@ -4207,13 +3164,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "timetable",
-    "p": "tˈaɪmteɪbəl",
-    "m": "thời khóa biểu",
-    "cat": "học tập",
-    "pos": "Danh từ"
-  },
-  {
     "w": "lecture",
     "p": "lˈɛktʃɚ",
     "m": "bài giảng, buổi học đại học",
@@ -4240,27 +3190,6 @@
     "m": "chương trình học, đề cương môn học",
     "cat": "học tập",
     "pos": "Danh từ"
-  },
-  {
-    "w": "grade",
-    "p": "ɡɹˈeɪd",
-    "m": "điểm số, xếp loại",
-    "cat": "học tập",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "pass",
-    "p": "pˈæs",
-    "m": "đậu, qua, đỗ (kỳ thi)",
-    "cat": "học tập",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "fail",
-    "p": "fˈeɪl",
-    "m": "trượt (kỳ thi)",
-    "cat": "học tập",
-    "pos": "Động từ"
   },
   {
     "w": "revise",
@@ -4298,37 +3227,9 @@
     "pos": "Động từ"
   },
   {
-    "w": "app",
-    "p": "ˈæp",
-    "m": "ứng dụng (điện thoại)",
-    "cat": "công nghệ",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "download",
-    "p": "dˈaʊnloʊd",
-    "m": "tải xuống",
-    "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
-    "w": "upload",
-    "p": "ˈʌploʊd",
-    "m": "tải lên",
-    "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
     "w": "browser",
     "p": "bɹˈaʊzɚ",
     "m": "trình duyệt web",
-    "cat": "công nghệ",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "cloud",
-    "p": "klˈaʊd",
-    "m": "điện toán đám mây",
     "cat": "công nghệ",
     "pos": "Danh từ"
   },
@@ -4345,13 +3246,6 @@
     "m": "phần cứng",
     "cat": "công nghệ",
     "pos": "Danh từ"
-  },
-  {
-    "w": "update",
-    "p": "ˈʌpdeɪt",
-    "m": "cập nhật",
-    "cat": "hành động",
-    "pos": "Động từ"
   },
   {
     "w": "virus",
@@ -4375,51 +3269,9 @@
     "pos": "Tính từ"
   },
   {
-    "w": "charger",
-    "p": "tʃˈɑːɹdʒɚ",
-    "m": "bộ sạc điện",
-    "cat": "đồ vật",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "microwave",
-    "p": "mˈaɪkɹoʊwˌeɪv",
-    "m": "lò vi sóng",
-    "cat": "đồ vật",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "freezer",
-    "p": "fɹˈiːzɚ",
-    "m": "ngăn đông lạnh, tủ đông",
-    "cat": "đồ vật",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "dishwasher",
-    "p": "dˈɪʃwɑːʃɚ",
-    "m": "máy rửa bát",
-    "cat": "đồ vật",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "vacuum cleaner",
-    "p": "vˈækjuːm klˈiːnɚ",
-    "m": "máy hút bụi",
-    "cat": "đồ vật",
-    "pos": "Danh từ"
-  },
-  {
     "w": "iron",
     "p": "ˈaɪɚn",
     "m": "bàn ủi quần áo",
-    "cat": "đồ vật",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "ladder",
-    "p": "lˈædɚ",
-    "m": "thang",
     "cat": "đồ vật",
     "pos": "Danh từ"
   },

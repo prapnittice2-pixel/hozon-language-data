@@ -98,13 +98,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "hang out",
-    "p": "hˈæŋ ˈaʊt",
-    "m": "đi chơi; dành thời gian cùng bạn bè",
-    "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
     "w": "hold on",
     "p": "hˈoʊld ˈɔn",
     "m": "chờ một chút, giữ máy, chờ; bám chắc",
@@ -721,13 +714,6 @@
     "pos": "Tính từ"
   },
   {
-    "w": "unfortunately",
-    "p": "ʌnfˈɔːɹtʃənətli",
-    "m": "thật không may; tiếc thay",
-    "cat": "trạng từ",
-    "pos": "Phó từ"
-  },
-  {
     "w": "consequently",
     "p": "kˈɑːnsɪkwəntli",
     "m": "do đó; vì vậy; kết quả là",
@@ -808,13 +794,6 @@
     "w": "particularly",
     "p": "pɚtˈɪkjʊlɚli",
     "m": "đặc biệt; nhất là; riêng là",
-    "cat": "trạng từ",
-    "pos": "Phó từ"
-  },
-  {
-    "w": "immediately",
-    "p": "ɪmˈiːdɪətli",
-    "m": "ngay lập tức; tức thì",
     "cat": "trạng từ",
     "pos": "Phó từ"
   },
@@ -1211,13 +1190,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "social media",
-    "p": "sˈoʊʃəl mˈiːdiːə",
-    "m": "mạng xã hội",
-    "cat": "công nghệ",
-    "pos": "Danh từ"
-  },
-  {
     "w": "digital device",
     "p": "dˈɪdʒɪɾəl dɪvˈaɪs",
     "m": "thiết bị kỹ thuật số",
@@ -1596,27 +1568,6 @@
     "pos": "Tính từ"
   },
   {
-    "w": "flexible",
-    "p": "flˈɛksɪbəl",
-    "m": "linh hoạt; dễ thích nghi",
-    "cat": "tính từ",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "reliable",
-    "p": "ɹᵻlˈaɪəbəl",
-    "m": "đáng tin cậy; đáng tin tưởng",
-    "cat": "tính từ",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "creative",
-    "p": "kɹiːˈeɪɾɪv",
-    "m": "sáng tạo; có tính sáng tạo",
-    "cat": "tính từ",
-    "pos": "Tính từ"
-  },
-  {
     "w": "motivated",
     "p": "mˈoʊɾᵻvˌeɪɾᵻd",
     "m": "có động lực; hăng hái",
@@ -1627,27 +1578,6 @@
     "w": "determined",
     "p": "dɪtˈɜːmɪnd",
     "m": "quyết tâm; kiên định",
-    "cat": "tính từ",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "independent",
-    "p": "ˌɪndᵻpˈɛndənt",
-    "m": "độc lập; tự lập",
-    "cat": "tính từ",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "responsible",
-    "p": "ɹᵻspˈɑːnsᵻbəl",
-    "m": "có trách nhiệm; đáng tin",
-    "cat": "tính từ",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "organized",
-    "p": "ˈɔːɹɡənˌaɪzd",
-    "m": "có tổ chức; ngăn nắp",
     "cat": "tính từ",
     "pos": "Tính từ"
   },
@@ -1680,13 +1610,6 @@
     "pos": "Tính từ"
   },
   {
-    "w": "hard-working",
-    "p": "hˈɑːɹdwˈɜːkɪŋ",
-    "m": "chăm chỉ; cần cù",
-    "cat": "tính từ",
-    "pos": "Tính từ"
-  },
-  {
     "w": "easy-going",
     "p": "ˈiːziɡˈoʊɪŋ",
     "m": "thoải mái; dễ tính",
@@ -1715,46 +1638,11 @@
     "pos": "Tính từ"
   },
   {
-    "w": "relieved",
-    "p": "ɹᵻlˈiːvd",
-    "m": "nhẹ nhõm; cảm thấy nhẹ lòng",
-    "cat": "cảm xúc",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "confused",
-    "p": "kənfjˈuːzd",
-    "m": "bối rối; không hiểu",
-    "cat": "cảm xúc",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "embarrassed",
-    "p": "ɛmbˈæɹəst",
-    "m": "xấu hổ, ngại ngùng, ngượng ngùng",
-    "cat": "cảm xúc",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "proud",
-    "p": "pɹˈaʊd",
-    "m": "tự hào",
-    "cat": "cảm xúc",
-    "pos": "Phó từ"
-  },
-  {
     "w": "curious",
     "p": "kjˈʊɹɹiəs",
     "m": "tò mò; ham học hỏi",
     "cat": "cảm xúc",
     "pos": "Danh từ"
-  },
-  {
-    "w": "disappointed",
-    "p": "dˌɪsɐpˈɔɪntᵻd",
-    "m": "thất vọng; hụt hẫng",
-    "cat": "cảm xúc",
-    "pos": "Tính từ"
   },
   {
     "w": "optimistic",
@@ -1783,20 +1671,6 @@
     "m": "choáng ngợp; không kham nổi",
     "cat": "cảm xúc",
     "pos": "Danh từ"
-  },
-  {
-    "w": "bored",
-    "p": "bˈɔːɹd",
-    "m": "chán nản; buồn tẻ",
-    "cat": "cảm xúc",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "nervous",
-    "p": "nˈɜːvəs",
-    "m": "hồi hộp; lo lắng",
-    "cat": "cảm xúc",
-    "pos": "Tính từ"
   },
   {
     "w": "be in charge of",
@@ -1901,13 +1775,6 @@
     "p": "ˈɪŋkɹiːs pɹˈɑːfɪts",
     "m": "tăng lợi nhuận",
     "cat": "kinh doanh",
-    "pos": "Động từ"
-  },
-  {
-    "w": "afford",
-    "p": "ɐfˈɔːɹd",
-    "m": "đủ tiền để mua, có đủ khả năng",
-    "cat": "tiền bạc",
     "pos": "Động từ"
   },
   {
@@ -2084,13 +1951,6 @@
     "m": "điều chỉnh theo; thích nghi với",
     "cat": "hành động",
     "pos": "Động từ"
-  },
-  {
-    "w": "rush hour",
-    "p": "ɹˈʌʃ ˈaʊɚ",
-    "m": "giờ cao điểm; giờ kẹt xe",
-    "cat": "giao thông",
-    "pos": "Danh từ"
   },
   {
     "w": "heavy traffic",

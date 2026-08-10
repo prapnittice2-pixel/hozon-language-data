@@ -1,20 +1,5 @@
 [
   {
-    "w": "摄影",
-    "p": "shè yǐng",
-    "m": "nhiếp ảnh",
-    "cat": "art",
-    "me": "photography",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "绘画",
-    "p": "huì huà",
-    "m": "hội họa",
-    "cat": "art",
-    "pos": "Danh từ"
-  },
-  {
     "w": "雕刻",
     "p": "diāo kè",
     "m": "điêu khắc",
@@ -129,14 +114,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "舞台",
-    "p": "wǔ tái",
-    "m": "sân khấu",
-    "cat": "art",
-    "me": "stage",
-    "pos": "Danh từ"
-  },
-  {
     "w": "剧本",
     "p": "jù běn",
     "m": "kịch bản",
@@ -144,14 +121,6 @@
     "example": "他正在写一部电影剧本。",
     "example_vi": "Anh ấy đang viết kịch bản phim.",
     "me": "script",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "导演",
-    "p": "dǎo yǎn",
-    "m": "đạo diễn",
-    "cat": "art",
-    "me": "director",
     "pos": "Danh từ"
   },
   {
@@ -185,14 +154,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "措施",
-    "p": "cuò shī",
-    "m": "biện pháp",
-    "cat": "society",
-    "me": "measure",
-    "pos": "Danh từ"
-  },
-  {
     "w": "设施",
     "p": "shè shī",
     "m": "cơ sở vật chất",
@@ -200,14 +161,6 @@
     "example": "小区的设施很齐全。",
     "example_vi": "Cơ sở vật chất của khu dân cư rất đầy đủ.",
     "me": "physical facilities, infrastructure",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "面临",
-    "p": "miàn lín",
-    "m": "đối mặt với",
-    "cat": "society",
-    "me": "face, confront",
     "pos": "Danh từ"
   },
   {
@@ -230,36 +183,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "体现",
-    "p": "tǐ xiàn",
-    "m": "thể hiện",
-    "cat": "society",
-    "pos": "Động từ"
-  },
-  {
-    "w": "促进",
-    "p": "cù jìn",
-    "m": "thúc đẩy",
-    "cat": "society",
-    "pos": "Động từ"
-  },
-  {
-    "w": "改善",
-    "p": "gǎi shàn",
-    "m": "cải thiện",
-    "cat": "society",
-    "me": "improve",
-    "pos": "Động từ"
-  },
-  {
-    "w": "现象",
-    "p": "xiàn xiàng",
-    "m": "hiện tượng",
-    "cat": "society",
-    "me": "phenomenon",
-    "pos": "Danh từ"
-  },
-  {
     "w": "局面",
     "p": "jú miàn",
     "m": "cục diện",
@@ -267,21 +190,6 @@
     "example": "目前的局面比较复杂。",
     "example_vi": "Cục diện hiện nay khá phức tạp.",
     "me": "the overall situation",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "规模",
-    "p": "guī mó",
-    "m": "quy mô",
-    "cat": "society",
-    "me": "scale",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "范围",
-    "p": "fàn wéi",
-    "m": "phạm vi",
-    "cat": "society",
     "pos": "Danh từ"
   },
   {
@@ -302,53 +210,6 @@
     "example": "这份配方的比例很重要。",
     "example_vi": "Tỷ lệ của công thức này rất quan trọng.",
     "me": "proportion",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "数据",
-    "p": "shù jù",
-    "m": "dữ liệu",
-    "cat": "society",
-    "me": "data",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "统计",
-    "p": "tǒng jì",
-    "m": "thống kê",
-    "cat": "society",
-    "me": "statistics",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "调整",
-    "p": "tiáo zhěng",
-    "m": "điều chỉnh",
-    "cat": "society",
-    "me": "adjust",
-    "pos": "Động từ"
-  },
-  {
-    "w": "控制",
-    "p": "kòng zhì",
-    "m": "kiểm soát",
-    "cat": "society",
-    "me": "control",
-    "pos": "Động từ"
-  },
-  {
-    "w": "维持",
-    "p": "wéi chí",
-    "m": "duy trì",
-    "cat": "society",
-    "me": "maintain",
-    "pos": "Động từ"
-  },
-  {
-    "w": "保持",
-    "p": "bǎo chí",
-    "m": "giữ gìn",
-    "cat": "society",
     "pos": "Danh từ"
   },
   {
@@ -378,14 +239,6 @@
     "example_vi": "Anh ấy quyết định từ chức.",
     "me": "resign",
     "pos": "Động từ"
-  },
-  {
-    "w": "创业",
-    "p": "chuàng yè",
-    "m": "khởi nghiệp",
-    "cat": "work",
-    "me": "start a business",
-    "pos": "Danh từ"
   },
   {
     "w": "福利",
@@ -454,14 +307,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "合作",
-    "p": "hé zuò",
-    "m": "hợp tác",
-    "cat": "work",
-    "me": "cooperative",
-    "pos": "Động từ"
-  },
-  {
     "w": "协调",
     "p": "xié tiáo",
     "m": "phối hợp, điều hòa, điều phối, hài hòa",
@@ -479,61 +324,6 @@
     "example": "团队成员分工明确。",
     "example_vi": "Các thành viên trong đội phân công rõ ràng.",
     "me": "assign, division of labor",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "效率",
-    "p": "xiào lǜ",
-    "m": "hiệu suất",
-    "cat": "work",
-    "me": "efficiency",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "业务",
-    "p": "yè wù",
-    "m": "nghiệp vụ",
-    "cat": "work",
-    "me": "professional operations",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "项目",
-    "p": "xiàng mù",
-    "m": "dự án",
-    "cat": "work",
-    "me": "project",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "方案",
-    "p": "fāng àn",
-    "m": "phương án",
-    "cat": "work",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "计划",
-    "p": "jì huà",
-    "m": "kế hoạch",
-    "cat": "work",
-    "me": "plan",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "目标",
-    "p": "mù biāo",
-    "m": "mục tiêu",
-    "cat": "work",
-    "me": "goal",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "媒体",
-    "p": "méi tǐ",
-    "m": "truyền thông",
-    "cat": "media",
-    "me": "media",
     "pos": "Danh từ"
   },
   {
@@ -585,13 +375,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "报道",
-    "p": "bào dào",
-    "m": "đưa tin",
-    "cat": "media",
-    "pos": "Danh từ"
-  },
-  {
     "w": "评论",
     "p": "píng lùn",
     "m": "bình luận",
@@ -622,53 +405,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "广告",
-    "p": "guǎng gào",
-    "m": "quảng cáo",
-    "cat": "media",
-    "me": "advertise",
-    "pos": "Động từ"
-  },
-  {
-    "w": "宣传",
-    "p": "xuān chuán",
-    "m": "tuyên truyền",
-    "cat": "media",
-    "pos": "Động từ"
-  },
-  {
-    "w": "舆论",
-    "p": "yú lùn",
-    "m": "dư luận",
-    "cat": "media",
-    "me": "public opinion",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "信息",
-    "p": "xìn xī",
-    "m": "thông tin",
-    "cat": "media",
-    "me": "information",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "网络",
-    "p": "wǎng luò",
-    "m": "mạng internet",
-    "cat": "tech",
-    "me": "internet",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "软件",
-    "p": "ruǎn jiàn",
-    "m": "phần mềm",
-    "cat": "tech",
-    "me": "software",
-    "pos": "Danh từ"
-  },
-  {
     "w": "硬件",
     "p": "yìng jiàn",
     "m": "phần cứng",
@@ -676,22 +412,6 @@
     "example": "这台电脑的硬件配置很高。",
     "example_vi": "Cấu hình phần cứng của máy tính này rất cao.",
     "me": "hardware",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "程序",
-    "p": "chéng xù",
-    "m": "chương trình, quy trình, thủ tục",
-    "cat": "tech",
-    "me": "program, process, procedure",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "系统",
-    "p": "xì tǒng",
-    "m": "hệ thống",
-    "cat": "tech",
-    "me": "system",
     "pos": "Danh từ"
   },
   {
@@ -723,22 +443,6 @@
     "example_vi": "Màn hình chiếc ti vi này rất lớn.",
     "me": "screen",
     "pos": "Danh từ"
-  },
-  {
-    "w": "下载",
-    "p": "xià zài",
-    "m": "tải xuống",
-    "cat": "tech",
-    "me": "download",
-    "pos": "Động từ"
-  },
-  {
-    "w": "上传",
-    "p": "shàng chuán",
-    "m": "tải lên",
-    "cat": "tech",
-    "me": "upload",
-    "pos": "Động từ"
   },
   {
     "w": "安装",
@@ -799,14 +503,6 @@
     "pos": "Tính từ"
   },
   {
-    "w": "固执",
-    "p": "gù zhí",
-    "m": "cứng đầu, bướng bỉnh, cố chấp",
-    "cat": "emotion",
-    "me": "stubborn, obstinate, headstrong",
-    "pos": "Tính từ"
-  },
-  {
     "w": "虚心",
     "p": "xū xīn",
     "m": "khiêm tốn cầu thị",
@@ -824,14 +520,6 @@
     "example": "她觉得很委屈。",
     "example_vi": "Cô ấy cảm thấy rất ấm ức.",
     "pos": "Danh từ"
-  },
-  {
-    "w": "谦虚",
-    "p": "qiān xū",
-    "m": "khiêm tốn",
-    "cat": "emotion",
-    "me": "humble",
-    "pos": "Tính từ"
   },
   {
     "w": "自豪",
@@ -852,61 +540,6 @@
     "pos": "Tính từ"
   },
   {
-    "w": "嫉妒",
-    "p": "jí dù",
-    "m": "ghen tị",
-    "cat": "emotion",
-    "me": "jealous",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "宽容",
-    "p": "kuān róng",
-    "m": "khoan dung",
-    "cat": "emotion",
-    "me": "tolerant, lenient",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "乐观",
-    "p": "lè guān",
-    "m": "lạc quan",
-    "cat": "emotion",
-    "me": "optimistic",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "悲观",
-    "p": "bēi guān",
-    "m": "bi quan",
-    "cat": "emotion",
-    "me": "pessimistic",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "焦虑",
-    "p": "jiāo lǜ",
-    "m": "lo âu",
-    "cat": "emotion",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "恐惧",
-    "p": "kǒng jù",
-    "m": "sợ hãi",
-    "cat": "emotion",
-    "me": "scared",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "愤怒",
-    "p": "fèn nù",
-    "m": "tức giận, phẫn nộ",
-    "cat": "emotion",
-    "me": "angry, indignant",
-    "pos": "Tính từ"
-  },
-  {
     "w": "喜悦",
     "p": "xǐ yuè",
     "m": "vui sướng",
@@ -922,20 +555,6 @@
     "cat": "emotion",
     "example": "他感到很悲伤。",
     "example_vi": "Anh ấy cảm thấy rất đau buồn.",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "激动",
-    "p": "jī dòng",
-    "m": "xúc động",
-    "cat": "emotion",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "平静",
-    "p": "píng jìng",
-    "m": "bình lặng",
-    "cat": "emotion",
     "pos": "Danh từ"
   },
   {
@@ -1019,30 +638,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "权利",
-    "p": "quán lì",
-    "m": "quyền lợi",
-    "cat": "law",
-    "me": "rights, benefits",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "义务",
-    "p": "yì wù",
-    "m": "nghĩa vụ",
-    "cat": "law",
-    "me": "obligation",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "合法",
-    "p": "hé fǎ",
-    "m": "hợp pháp",
-    "cat": "law",
-    "me": "legal",
-    "pos": "Danh từ"
-  },
-  {
     "w": "非法",
     "p": "fēi fǎ",
     "m": "bất hợp pháp",
@@ -1082,13 +677,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "协议",
-    "p": "xié yì",
-    "m": "thỏa thuận",
-    "cat": "law",
-    "pos": "Danh từ"
-  },
-  {
     "w": "条款",
     "p": "tiáo kuǎn",
     "m": "điều khoản",
@@ -1108,29 +696,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "培训",
-    "p": "péi xùn",
-    "m": "đào tạo",
-    "cat": "education",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "讲座",
-    "p": "jiǎng zuò",
-    "m": "bài giảng, hội thảo, buổi diễn thuyết",
-    "cat": "education",
-    "me": "lecture, seminar, talk",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "课程",
-    "p": "kè chéng",
-    "m": "khóa học",
-    "cat": "education",
-    "me": "course",
-    "pos": "Động từ"
-  },
-  {
     "w": "教材",
     "p": "jiào cái",
     "m": "tài liệu giảng dạy, giáo trình",
@@ -1139,21 +704,6 @@
     "example_vi": "Cuốn sách này là giáo trình của chúng tôi.",
     "me": "teaching material, curriculum",
     "pos": "Danh từ"
-  },
-  {
-    "w": "考核",
-    "p": "kǎo hé",
-    "m": "khảo hạch, đánh giá",
-    "cat": "education",
-    "pos": "Động từ"
-  },
-  {
-    "w": "评估",
-    "p": "píng gū",
-    "m": "đánh giá",
-    "cat": "education",
-    "me": "evaluate",
-    "pos": "Động từ"
   },
   {
     "w": "资格",
@@ -1184,30 +734,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "专业",
-    "p": "zhuān yè",
-    "m": "chuyên ngành",
-    "cat": "education",
-    "me": "major (field of study)",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "导师",
-    "p": "dǎo shī",
-    "m": "giáo viên hướng dẫn",
-    "cat": "education",
-    "me": "supervising teacher",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "营养",
-    "p": "yíng yǎng",
-    "m": "dinh dưỡng",
-    "cat": "health",
-    "me": "nutrition",
-    "pos": "Danh từ"
-  },
-  {
     "w": "健身",
     "p": "jiàn shēn",
     "m": "tập thể hình",
@@ -1215,13 +741,6 @@
     "example": "他每天去健身房健身。",
     "example_vi": "Anh ấy đến phòng tập mỗi ngày để tập thể hình.",
     "me": "bodybuilding",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "锻炼",
-    "p": "duàn liàn",
-    "m": "rèn luyện thân thể",
-    "cat": "health",
     "pos": "Danh từ"
   },
   {
@@ -1252,22 +771,6 @@
     "example": "他出现了发烧的症状。",
     "example_vi": "Anh ấy xuất hiện triệu chứng sốt.",
     "me": "symptom",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "诊断",
-    "p": "zhěn duàn",
-    "m": "chẩn đoán",
-    "cat": "health",
-    "me": "diagnosis",
-    "pos": "Động từ"
-  },
-  {
-    "w": "治疗",
-    "p": "zhì liáo",
-    "m": "điều trị",
-    "cat": "health",
-    "me": "treatment",
     "pos": "Danh từ"
   },
   {
@@ -1315,14 +818,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "污染",
-    "p": "wū rǎn",
-    "m": "ô nhiễm",
-    "cat": "environment",
-    "me": "pollution",
-    "pos": "Danh từ"
-  },
-  {
     "w": "排放",
     "p": "pái fàng",
     "m": "phát thải",
@@ -1330,14 +825,6 @@
     "example": "工厂需要控制排放。",
     "example_vi": "Nhà máy cần kiểm soát phát thải.",
     "pos": "Danh từ"
-  },
-  {
-    "w": "节能",
-    "p": "jié néng",
-    "m": "tiết kiệm năng lượng",
-    "cat": "environment",
-    "me": "energy saving",
-    "pos": "Động từ"
   },
   {
     "w": "回收",
@@ -1350,38 +837,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "资源",
-    "p": "zī yuán",
-    "m": "tài nguyên",
-    "cat": "environment",
-    "me": "resource",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "能源",
-    "p": "néng yuán",
-    "m": "năng lượng",
-    "cat": "environment",
-    "me": "energy",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "生态",
-    "p": "shēng tài",
-    "m": "sinh thái",
-    "cat": "environment",
-    "me": "ecology",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "气候",
-    "p": "qì hòu",
-    "m": "khí hậu",
-    "cat": "environment",
-    "me": "climate",
-    "pos": "Danh từ"
-  },
-  {
     "w": "灾害",
     "p": "zāi hài",
     "m": "thiên tai",
@@ -1390,14 +845,6 @@
     "example_vi": "Khu vực này thường xuyên xảy ra thiên tai.",
     "me": "natural disaster",
     "pos": "Danh từ"
-  },
-  {
-    "w": "保护",
-    "p": "bǎo hù",
-    "m": "bảo vệ",
-    "cat": "environment",
-    "me": "protect",
-    "pos": "Động từ"
   },
   {
     "w": "破坏",
@@ -1410,59 +857,11 @@
     "pos": "Động từ"
   },
   {
-    "w": "投资",
-    "p": "tóu zī",
-    "m": "đầu tư",
-    "cat": "economics",
-    "me": "investment",
-    "pos": "Động từ"
-  },
-  {
     "w": "理财",
     "p": "lǐ cái",
     "m": "quản lý tài chính",
     "cat": "economics",
     "me": "financial management",
-    "pos": "Động từ"
-  },
-  {
-    "w": "股票",
-    "p": "gǔ piào",
-    "m": "cổ phiếu",
-    "cat": "economics",
-    "me": "stock, shares",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "利润",
-    "p": "lì rùn",
-    "m": "lợi nhuận",
-    "cat": "economics",
-    "me": "profit",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "成本",
-    "p": "chéng běn",
-    "m": "chi phí",
-    "cat": "economics",
-    "me": "expense",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "预算",
-    "p": "yù suàn",
-    "m": "ngân sách",
-    "cat": "economics",
-    "me": "budget",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "贷款",
-    "p": "dài kuǎn",
-    "m": "cho vay, khoản vay, vay vốn, vay tiền",
-    "cat": "economics",
-    "me": "lend, loan, borrow capital, borrow money",
     "pos": "Động từ"
   },
   {
@@ -1476,98 +875,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "通货膨胀",
-    "p": "tōng huò péng zhàng",
-    "m": "lạm phát",
-    "cat": "economics",
-    "me": "inflation",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "市场",
-    "p": "shì chǎng",
-    "m": "thị trường",
-    "cat": "economics",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "供应",
-    "p": "gōng yìng",
-    "m": "cung ứng",
-    "cat": "economics",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "需求",
-    "p": "xū qiú",
-    "m": "nhu cầu",
-    "cat": "economics",
-    "me": "demand",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "消费",
-    "p": "xiāo fèi",
-    "m": "tiêu dùng",
-    "cat": "economics",
-    "me": "consumption",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "零售",
-    "p": "líng shòu",
-    "m": "bán lẻ",
-    "cat": "economics",
-    "me": "retail",
-    "pos": "Động từ"
-  },
-  {
-    "w": "批发",
-    "p": "pī fā",
-    "m": "bán buôn",
-    "cat": "economics",
-    "me": "wholesale",
-    "pos": "Động từ"
-  },
-  {
-    "w": "心理",
-    "p": "xīn lǐ",
-    "m": "tâm lý",
-    "cat": "psychology",
-    "me": "psychology",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "情绪",
-    "p": "qíng xù",
-    "m": "cảm xúc, tâm trạng",
-    "cat": "psychology",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "性格",
-    "p": "xìng gé",
-    "m": "tính cách",
-    "cat": "psychology",
-    "me": "personality",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "意识",
-    "p": "yì shí",
-    "m": "ý thức",
-    "cat": "psychology",
-    "me": "consciousness",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "记忆",
-    "p": "jì yì",
-    "m": "ký ức",
-    "cat": "psychology",
-    "pos": "Động từ"
-  },
-  {
     "w": "思维",
     "p": "sī wéi",
     "m": "tư duy",
@@ -1578,73 +885,11 @@
     "pos": "Danh từ"
   },
   {
-    "w": "观念",
-    "p": "guān niàn",
-    "m": "quan niệm",
-    "cat": "psychology",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "态度",
-    "p": "tài dù",
-    "m": "thái độ",
-    "cat": "psychology",
-    "me": "attitude",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "习惯",
-    "p": "xí guàn",
-    "m": "thói quen",
-    "cat": "psychology",
-    "me": "habit",
-    "pos": "Danh từ"
-  },
-  {
     "w": "动机",
     "p": "dòng jī",
     "m": "động cơ",
     "cat": "psychology",
     "me": "motive",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "压力",
-    "p": "yā lì",
-    "m": "áp lực",
-    "cat": "psychology",
-    "me": "pressure",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "自信",
-    "p": "zì xìn",
-    "m": "tự tin",
-    "cat": "psychology",
-    "me": "confident",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "文明",
-    "p": "wén míng",
-    "m": "văn minh",
-    "cat": "culture",
-    "me": "civilization",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "传统",
-    "p": "chuán tǒng",
-    "m": "truyền thống",
-    "cat": "culture",
-    "me": "traditional",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "习俗",
-    "p": "xí sú",
-    "m": "phong tục",
-    "cat": "culture",
     "pos": "Danh từ"
   },
   {
@@ -1657,102 +902,10 @@
     "pos": "Danh từ"
   },
   {
-    "w": "遗产",
-    "p": "yí chǎn",
-    "m": "di sản",
-    "cat": "culture",
-    "me": "heritage",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "信仰",
-    "p": "xìn yǎng",
-    "m": "tín ngưỡng",
-    "cat": "culture",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "宗教",
-    "p": "zōng jiào",
-    "m": "tôn giáo",
-    "cat": "culture",
-    "me": "religion",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "礼仪",
-    "p": "lǐ yí",
-    "m": "lễ nghi",
-    "cat": "culture",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "风俗",
-    "p": "fēng sú",
-    "m": "phong tục tập quán",
-    "cat": "culture",
-    "me": "custom",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "庆祝",
-    "p": "qìng zhù",
-    "m": "chúc mừng, kỷ niệm",
-    "cat": "culture",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "仪式",
-    "p": "yí shì",
-    "m": "nghi thức",
-    "cat": "culture",
-    "pos": "Danh từ"
-  },
-  {
     "w": "象征",
     "p": "xiàng zhēng",
     "m": "tượng trưng",
     "cat": "culture",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "研究",
-    "p": "yán jiū",
-    "m": "nghiên cứu",
-    "cat": "science",
-    "me": "research",
-    "pos": "Động từ"
-  },
-  {
-    "w": "实验",
-    "p": "shí yàn",
-    "m": "thí nghiệm",
-    "cat": "science",
-    "me": "experiment",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "理论",
-    "p": "lǐ lùn",
-    "m": "lý thuyết",
-    "cat": "science",
-    "me": "theory",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "原理",
-    "p": "yuán lǐ",
-    "m": "nguyên lý",
-    "cat": "science",
-    "me": "principle",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "公式",
-    "p": "gōng shì",
-    "m": "công thức",
-    "cat": "science",
-    "me": "formula",
     "pos": "Danh từ"
   },
   {
@@ -1765,13 +918,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "探索",
-    "p": "tàn suǒ",
-    "m": "thăm dò, khám phá",
-    "cat": "science",
-    "pos": "Danh từ"
-  },
-  {
     "w": "发明",
     "p": "fā míng",
     "m": "phát minh",
@@ -1780,13 +926,6 @@
     "example_vi": "Anh ấy đã phát minh ra một công cụ mới.",
     "me": "invention",
     "pos": "Danh từ"
-  },
-  {
-    "w": "创新",
-    "p": "chuàng xīn",
-    "m": "đổi mới sáng tạo",
-    "cat": "science",
-    "pos": "Động từ"
   },
   {
     "w": "成果",
@@ -1806,74 +945,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "分析",
-    "p": "fēn xī",
-    "m": "phân tích",
-    "cat": "science",
-    "me": "analyze",
-    "pos": "Động từ"
-  },
-  {
-    "w": "观察",
-    "p": "guān chá",
-    "m": "quan sát",
-    "cat": "science",
-    "me": "observe",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "验证",
-    "p": "yàn zhèng",
-    "m": "kiểm chứng",
-    "cat": "science",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "风景",
-    "p": "fēng jǐng",
-    "m": "phong cảnh",
-    "cat": "travel",
-    "me": "scenery",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "名胜",
-    "p": "míng shèng",
-    "m": "danh thắng",
-    "cat": "travel",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "古迹",
-    "p": "gǔ jì",
-    "m": "di tích cổ",
-    "cat": "travel",
-    "me": "ancient ruins",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "游览",
-    "p": "yóu lǎn",
-    "m": "tham quan",
-    "cat": "travel",
-    "me": "sightseeing",
-    "pos": "Động từ"
-  },
-  {
-    "w": "导游",
-    "p": "dǎo yóu",
-    "m": "hướng dẫn viên",
-    "cat": "travel",
-    "pos": "Động từ"
-  },
-  {
-    "w": "行程",
-    "p": "xíng chéng",
-    "m": "hành trình",
-    "cat": "travel",
-    "pos": "Danh từ"
-  },
-  {
     "w": "住宿",
     "p": "zhù sù",
     "m": "chỗ ở, lưu trú",
@@ -1881,29 +952,6 @@
     "example": "学校提供住宿。",
     "example_vi": "Nhà trường cung cấp chỗ ở.",
     "me": "accommodation, lodging",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "预订",
-    "p": "yù dìng",
-    "m": "đặt trước",
-    "cat": "travel",
-    "me": "to book in advance",
-    "pos": "Động từ"
-  },
-  {
-    "w": "纪念品",
-    "p": "jì niàn pǐn",
-    "m": "quà lưu niệm",
-    "cat": "travel",
-    "me": "souvenir",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "特产",
-    "p": "tè chǎn",
-    "m": "đặc sản",
-    "cat": "travel",
     "pos": "Danh từ"
   },
   {
@@ -1931,14 +979,6 @@
     "example": "每个人的口味不同。",
     "example_vi": "Khẩu vị của mỗi người khác nhau.",
     "me": "taste, palate",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "营养",
-    "p": "yíng yǎng",
-    "m": "dinh dưỡng",
-    "cat": "food",
-    "me": "nutrition",
     "pos": "Danh từ"
   },
   {
@@ -1972,21 +1012,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "美食",
-    "p": "měi shí",
-    "m": "món ngon",
-    "cat": "food",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "小吃",
-    "p": "xiǎo chī",
-    "m": "món ăn vặt",
-    "cat": "food",
-    "me": "snack",
-    "pos": "Danh từ"
-  },
-  {
     "w": "宴会",
     "p": "yàn huì",
     "m": "tiệc chiêu đãi",
@@ -2016,53 +1041,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "政策",
-    "p": "zhèng cè",
-    "m": "chính sách",
-    "cat": "politics",
-    "me": "policy",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "制度",
-    "p": "zhì dù",
-    "m": "chế độ",
-    "cat": "politics",
-    "me": "system, regime",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "改革",
-    "p": "gǎi gé",
-    "m": "cải cách",
-    "cat": "politics",
-    "me": "reform",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "领导",
-    "p": "lǐng dǎo",
-    "m": "lãnh đạo",
-    "cat": "politics",
-    "me": "leadership",
-    "pos": "Động từ"
-  },
-  {
-    "w": "政府",
-    "p": "zhèng fǔ",
-    "m": "chính phủ",
-    "cat": "politics",
-    "me": "government",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "官员",
-    "p": "guān yuán",
-    "m": "quan chức",
-    "cat": "politics",
-    "pos": "Danh từ"
-  },
-  {
     "w": "选举",
     "p": "xuǎn jǔ",
     "m": "bầu cử",
@@ -2070,14 +1048,6 @@
     "example": "今年将举行总统选举。",
     "example_vi": "Năm nay sẽ tổ chức bầu cử tổng thống.",
     "me": "election",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "代表",
-    "p": "dài biǎo",
-    "m": "đại biểu, đại diện",
-    "cat": "politics",
-    "me": "delegate, representative",
     "pos": "Danh từ"
   },
   {
@@ -2107,13 +1077,6 @@
     "example": "他的措辞很谨慎。",
     "example_vi": "Cách dùng từ của anh ấy rất thận trọng.",
     "me": "diction",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "表达",
-    "p": "biǎo dá",
-    "m": "diễn đạt",
-    "cat": "language",
     "pos": "Danh từ"
   },
   {
@@ -2164,45 +1127,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "概念",
-    "p": "gài niàn",
-    "m": "khái niệm",
-    "cat": "language",
-    "me": "concept",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "词汇",
-    "p": "cí huì",
-    "m": "từ vựng",
-    "cat": "language",
-    "me": "vocabulary",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "语法",
-    "p": "yǔ fǎ",
-    "m": "ngữ pháp",
-    "cat": "language",
-    "me": "grammar",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "翻译",
-    "p": "fān yì",
-    "m": "phiên dịch",
-    "cat": "language",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "沟通",
-    "p": "gōu tōng",
-    "m": "giao tiếp",
-    "cat": "language",
-    "me": "communicate",
-    "pos": "Danh từ"
-  },
-  {
     "w": "时光",
     "p": "shí guāng",
     "m": "thời gian, năm tháng",
@@ -2238,14 +1162,6 @@
     "example": "申请有一个期限。",
     "example_vi": "Việc nộp đơn có một thời hạn.",
     "me": "deadline, term",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "阶段",
-    "p": "jiē duàn",
-    "m": "giai đoạn",
-    "cat": "time",
-    "me": "phase",
     "pos": "Danh từ"
   },
   {
@@ -2286,22 +1202,6 @@
     "example": "报名截止到本周五。",
     "example_vi": "Đăng ký có hạn chót đến thứ Sáu tuần này.",
     "me": "deadline",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "及时",
-    "p": "jí shí",
-    "m": "kịp thời",
-    "cat": "time",
-    "me": "timely",
-    "pos": "Phó từ"
-  },
-  {
-    "w": "家庭",
-    "p": "jiā tíng",
-    "m": "gia đình",
-    "cat": "family",
-    "me": "family",
     "pos": "Danh từ"
   },
   {
@@ -2398,22 +1298,6 @@
     "example": "这个小区住着很多居民。",
     "example_vi": "Khu dân cư này có rất nhiều cư dân sinh sống.",
     "me": "resident",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "社区",
-    "p": "shè qū",
-    "m": "cộng đồng, khu dân cư, khu phố",
-    "cat": "place",
-    "me": "community, neighborhood",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "广场",
-    "p": "guǎng chǎng",
-    "m": "quảng trường",
-    "cat": "place",
-    "me": "plaza",
     "pos": "Danh từ"
   },
   {
@@ -2522,14 +1406,6 @@
     "example_vi": "Thuê nhà cần phải nộp tiền cọc.",
     "me": "deposit",
     "pos": "Danh từ"
-  },
-  {
-    "w": "搬家",
-    "p": "bān jiā",
-    "m": "chuyển nhà",
-    "cat": "home",
-    "me": "move house",
-    "pos": "Động từ"
   },
   {
     "w": "邻里",

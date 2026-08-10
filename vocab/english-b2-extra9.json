@@ -1,37 +1,9 @@
 [
   {
-    "w": "surgeon",
-    "m": "bác sĩ phẫu thuật",
-    "cat": "người",
-    "p": "sˈɜːdʒən",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "physician",
-    "m": "bác sĩ nội khoa",
-    "cat": "người",
-    "p": "fɪzˈɪʃən",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "pharmacist",
-    "m": "dược sĩ",
-    "cat": "người",
-    "p": "fˈɑːɹmɐsˌɪst",
-    "pos": "Danh từ"
-  },
-  {
     "w": "paramedic",
     "m": "nhân viên cấp cứu",
     "cat": "người",
     "p": "pˌæɹəmˈɛdɪk",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "therapist",
-    "m": "nhà trị liệu",
-    "cat": "người",
-    "p": "θˈɛɹəpˌɪst",
     "pos": "Danh từ"
   },
   {
@@ -46,13 +18,6 @@
     "m": "nhà kinh tế học",
     "cat": "người",
     "p": "ɪkˈɑːnəmˌɪst",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "accountant",
-    "m": "kế toán viên",
-    "cat": "người",
-    "p": "ɐkˈaʊntənt",
     "pos": "Danh từ"
   },
   {
@@ -98,13 +63,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "supervisor",
-    "m": "người giám sát",
-    "cat": "người",
-    "p": "sˈuːpɚvˌaɪzɚ",
-    "pos": "Danh từ"
-  },
-  {
     "w": "technician",
     "m": "kỹ thuật viên",
     "cat": "người",
@@ -112,31 +70,10 @@
     "pos": "Danh từ"
   },
   {
-    "w": "electrician",
-    "m": "thợ điện",
-    "cat": "người",
-    "p": "ᵻlɛktɹˈɪʃən",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "plumber",
-    "m": "thợ sửa ống nước",
-    "cat": "người",
-    "p": "plˈʌmɚ",
-    "pos": "Danh từ"
-  },
-  {
     "w": "carpenter",
     "m": "thợ mộc",
     "cat": "người",
     "p": "kˈɑːɹpəntɚ",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "mechanic",
-    "m": "thợ máy",
-    "cat": "người",
-    "p": "mᵻkˈænɪk",
     "pos": "Danh từ"
   },
   {
@@ -231,13 +168,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "librarian",
-    "m": "thủ thư",
-    "cat": "người",
-    "p": "laɪbɹˈɛɹiən",
-    "pos": "Danh từ"
-  },
-  {
     "w": "curator",
     "m": "người quản lý, giám tuyển nghệ thuật, người phụ trách bảo tàng",
     "cat": "người",
@@ -308,13 +238,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "veterinarian",
-    "m": "bác sĩ thú y",
-    "cat": "người",
-    "p": "vˌɛɾɚɹɪnˈɛɹiən",
-    "pos": "Danh từ"
-  },
-  {
     "w": "botanist",
     "m": "nhà thực vật học",
     "cat": "người",
@@ -340,20 +263,6 @@
     "m": "nhà ngoại giao",
     "cat": "người",
     "p": "dˈɪpləmˌæt",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "ambassador",
-    "m": "đại sứ",
-    "cat": "người",
-    "p": "ɐmbˈæsədɚ",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "senator",
-    "m": "thượng nghị sĩ",
-    "cat": "người",
-    "p": "sˈɛnəɾɚ",
     "pos": "Danh từ"
   },
   {
@@ -420,38 +329,10 @@
     "pos": "Danh từ"
   },
   {
-    "w": "general",
-    "m": "chung, tổng quát, tướng quân",
-    "cat": "người",
-    "p": "dʒˈɛnɚɹəl",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "recruit",
-    "m": "tuyển dụng, chiêu mộ, tân binh",
-    "cat": "người",
-    "p": "ɹᵻkɹˈuːt",
-    "pos": "Động từ"
-  },
-  {
     "w": "veteran",
     "m": "cựu chiến binh",
     "cat": "người",
     "p": "vˈɛɾɚɹən",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "refugee",
-    "m": "người tị nạn",
-    "cat": "society",
-    "p": "ɹˈɛfjuːdʒˌiː",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "immigrant",
-    "m": "người nhập cư",
-    "cat": "society",
-    "p": "ˈɪmɪɡɹənt",
     "pos": "Danh từ"
   },
   {
@@ -462,38 +343,10 @@
     "pos": "Danh từ"
   },
   {
-    "w": "citizen",
-    "m": "công dân",
-    "cat": "society",
-    "p": "sˈɪɾɪzən",
-    "pos": "Danh từ"
-  },
-  {
     "w": "resident",
     "m": "cư dân",
     "cat": "society",
     "p": "ɹˈɛzᵻdənt",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "tenant",
-    "m": "người thuê nhà",
-    "cat": "society",
-    "p": "tˈɛnənt",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "landlord",
-    "m": "chủ nhà cho thuê",
-    "cat": "society",
-    "p": "lˈændlɔːɹd",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "pedestrian",
-    "m": "người đi bộ",
-    "cat": "society",
-    "p": "pədˈɛstɹiən",
     "pos": "Danh từ"
   },
   {
@@ -504,52 +357,10 @@
     "pos": "Danh từ"
   },
   {
-    "w": "passenger",
-    "m": "hành khách",
-    "cat": "society",
-    "p": "pˈæsɪndʒɚ",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "spectator",
-    "m": "khán giả",
-    "cat": "society",
-    "p": "spɛktˈeɪɾɚ",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "audience",
-    "m": "khán thính giả",
-    "cat": "society",
-    "p": "ˈɔːdiəns",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "witness",
-    "m": "nhân chứng",
-    "cat": "society",
-    "p": "wˈɪtnəs",
-    "pos": "Danh từ"
-  },
-  {
     "w": "bystander",
     "m": "người ngoài cuộc",
     "cat": "society",
     "p": "bˈaɪstændɚ",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "volunteer",
-    "m": "tình nguyện viên",
-    "cat": "society",
-    "p": "vˌɑːləntˈɪɹ",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "apprentice",
-    "m": "người học việc",
-    "cat": "society",
-    "p": "ɐpɹˈɛntɪs",
     "pos": "Danh từ"
   },
   {
@@ -564,13 +375,6 @@
     "m": "người làm tự do",
     "cat": "society",
     "p": "fɹˈiːlænsɚ",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "colleague",
-    "m": "đồng nghiệp",
-    "cat": "society",
-    "p": "kˈɑːliːɡ",
     "pos": "Danh từ"
   },
   {
@@ -602,27 +406,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "orphan",
-    "m": "trẻ mồ côi",
-    "cat": "society",
-    "p": "ˈɔːɹfən",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "widow",
-    "m": "góa phụ",
-    "cat": "society",
-    "p": "wˈɪdoʊ",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "widower",
-    "m": "người đàn ông góa vợ",
-    "cat": "society",
-    "p": "wˈɪdoʊɚ",
-    "pos": "Danh từ"
-  },
-  {
     "w": "bachelor",
     "m": "người độc thân; cử nhân",
     "cat": "society",
@@ -637,20 +420,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "adolescent",
-    "m": "thanh thiếu niên",
-    "cat": "society",
-    "p": "ˌædəlˈɛsənt",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "teenager",
-    "m": "thiếu niên",
-    "cat": "society",
-    "p": "tˈiːneɪdʒɚ",
-    "pos": "Động từ"
-  },
-  {
     "w": "infant",
     "m": "trẻ sơ sinh",
     "cat": "society",
@@ -658,24 +427,10 @@
     "pos": "Danh từ"
   },
   {
-    "w": "steering wheel",
-    "m": "vô lăng",
-    "cat": "đồ vật",
-    "p": "stˈɪɹɪŋ wˈiːl",
-    "pos": "Danh từ"
-  },
-  {
     "w": "dashboard",
     "m": "bảng điều khiển xe",
     "cat": "đồ vật",
     "p": "dˈæʃbɔːɹd",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "windscreen",
-    "m": "kính chắn gió",
-    "cat": "đồ vật",
-    "p": "wˈɪndskɹiːn",
     "pos": "Danh từ"
   },
   {
@@ -791,24 +546,10 @@
     "pos": "Danh từ"
   },
   {
-    "w": "screwdriver",
-    "m": "tua vít",
-    "cat": "đồ vật",
-    "p": "skɹˈuːdɹaɪvɚ",
-    "pos": "Danh từ"
-  },
-  {
     "w": "chisel",
     "m": "cái đục",
     "cat": "đồ vật",
     "p": "tʃˈɪzəl",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "drill",
-    "m": "máy khoan",
-    "cat": "đồ vật",
-    "p": "dɹˈɪl",
     "pos": "Danh từ"
   },
   {
@@ -830,13 +571,6 @@
     "m": "chất bôi trơn",
     "cat": "đồ vật",
     "p": "lˈuːbɹɪkənt",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "tweezers",
-    "m": "cái nhíp",
-    "cat": "đồ vật",
-    "p": "twˈiːzɚz",
     "pos": "Danh từ"
   },
   {
@@ -868,52 +602,10 @@
     "pos": "Danh từ"
   },
   {
-    "w": "thermometer",
-    "m": "nhiệt kế",
-    "cat": "đồ vật",
-    "p": "θɜːmˈɑːmɪɾɚ",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "stethoscope",
-    "m": "ống nghe y khoa",
-    "cat": "đồ vật",
-    "p": "stˈɛθəskˌoʊp",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "syringe",
-    "m": "ống tiêm",
-    "cat": "đồ vật",
-    "p": "sɪɹˈɪndʒ",
-    "pos": "Danh từ"
-  },
-  {
     "w": "scalpel",
     "m": "dao mổ",
     "cat": "đồ vật",
     "p": "skˈælpəl",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "bandage",
-    "m": "băng gạc",
-    "cat": "đồ vật",
-    "p": "bˈændɪdʒ",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "crutch",
-    "m": "nạng",
-    "cat": "đồ vật",
-    "p": "kɹˈʌtʃ",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "wheelchair",
-    "m": "xe lăn",
-    "cat": "đồ vật",
-    "p": "wˈiːltʃɛɹ",
     "pos": "Danh từ"
   },
   {
@@ -938,31 +630,10 @@
     "pos": "Danh từ"
   },
   {
-    "w": "tripod",
-    "m": "chân máy ba chân",
-    "cat": "đồ vật",
-    "p": "tɹˈaɪpɑːd",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "projector",
-    "m": "máy chiếu",
-    "cat": "đồ vật",
-    "p": "pɹədʒˈɛktɚ",
-    "pos": "Danh từ"
-  },
-  {
     "w": "amplifier",
     "m": "bộ khuếch đại",
     "cat": "đồ vật",
     "p": "ˈæmplɪfˌaɪɚ",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "microphone",
-    "m": "micrô, micro",
-    "cat": "đồ vật",
-    "p": "mˈaɪkɹəfˌoʊn",
     "pos": "Danh từ"
   },
   {
@@ -977,13 +648,6 @@
     "m": "máy biến áp",
     "cat": "đồ vật",
     "p": "tɹænsfˈɔːɹmɚ",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "battery",
-    "m": "pin, ắc quy",
-    "cat": "đồ vật",
-    "p": "bˈæɾɚɹi",
     "pos": "Danh từ"
   },
   {
@@ -1078,13 +742,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "violin",
-    "m": "đàn vĩ cầm",
-    "cat": "nghệ thuật",
-    "p": "vaɪəlˈɪn",
-    "pos": "Danh từ"
-  },
-  {
     "w": "cello",
     "m": "đàn xen-lô",
     "cat": "nghệ thuật",
@@ -1169,20 +826,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "keyboard",
-    "m": "đàn phím điện tử",
-    "cat": "nghệ thuật",
-    "p": "kˈiːbɔːɹd",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "conductor",
-    "m": "nhạc trưởng",
-    "cat": "nghệ thuật",
-    "p": "kəndˈʌktɚ",
-    "pos": "Danh từ"
-  },
-  {
     "w": "soloist",
     "m": "nghệ sĩ độc tấu",
     "cat": "nghệ thuật",
@@ -1197,13 +840,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "melody",
-    "m": "giai điệu",
-    "cat": "nghệ thuật",
-    "p": "mˈɛlədi",
-    "pos": "Danh từ"
-  },
-  {
     "w": "harmony",
     "m": "hòa âm, sự hòa hợp",
     "cat": "nghệ thuật",
@@ -1211,24 +847,10 @@
     "pos": "Danh từ"
   },
   {
-    "w": "rhythm",
-    "m": "nhịp điệu",
-    "cat": "nghệ thuật",
-    "p": "ɹˈɪðəm",
-    "pos": "Danh từ"
-  },
-  {
     "w": "tempo",
     "m": "nhịp độ",
     "cat": "nghệ thuật",
     "p": "tˈɛmpoʊ",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "lyrics",
-    "m": "lời bài hát",
-    "cat": "nghệ thuật",
-    "p": "lˈɪɹɪks",
     "pos": "Danh từ"
   },
   {
@@ -1257,13 +879,6 @@
     "m": "đấu kiếm",
     "cat": "thể thao",
     "p": "fˈɛnsɪŋ",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "gymnastics",
-    "m": "thể dục dụng cụ",
-    "cat": "thể thao",
-    "p": "dʒɪmnˈæstɪks",
     "pos": "Danh từ"
   },
   {
@@ -1316,13 +931,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "surfing",
-    "m": "lướt sóng",
-    "cat": "thể thao",
-    "p": "sˈɜːfɪŋ",
-    "pos": "Danh từ"
-  },
-  {
     "w": "snowboarding",
     "m": "trượt ván tuyết",
     "cat": "thể thao",
@@ -1335,13 +943,6 @@
     "cat": "thể thao",
     "p": "skˈeɪtbɔːɹdɪŋ",
     "pos": "Động từ"
-  },
-  {
-    "w": "cycling",
-    "m": "đua xe đạp",
-    "cat": "thể thao",
-    "p": "sˈaɪklɪŋ",
-    "pos": "Danh từ"
   },
   {
     "w": "hurdles",
@@ -1379,24 +980,10 @@
     "pos": "Danh từ"
   },
   {
-    "w": "cricket",
-    "m": "con dế, môn cricket",
-    "cat": "thể thao",
-    "p": "kɹˈɪkɪt",
-    "pos": "Danh từ"
-  },
-  {
     "w": "squash",
     "m": "bóng quần",
     "cat": "thể thao",
     "p": "skwˈɑːʃ",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "referee",
-    "m": "trọng tài",
-    "cat": "thể thao",
-    "p": "ɹˌɛfɚɹˈiː",
     "pos": "Danh từ"
   },
   {
@@ -1407,46 +994,11 @@
     "pos": "Danh từ"
   },
   {
-    "w": "stadium",
-    "m": "sân vận động",
-    "cat": "thể thao",
-    "p": "stˈeɪdiəm",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "arena",
-    "m": "đấu trường",
-    "cat": "thể thao",
-    "p": "ɚɹˈiːnə",
-    "pos": "Danh từ"
-  },
-  {
     "w": "marathon",
     "m": "chạy marathon",
     "cat": "thể thao",
     "p": "mˈæɹəθˌɑːn",
     "pos": "Động từ"
-  },
-  {
-    "w": "championship",
-    "m": "giải vô địch",
-    "cat": "thể thao",
-    "p": "tʃˈæmpiənʃˌɪp",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "tournament",
-    "m": "giải đấu",
-    "cat": "thể thao",
-    "p": "tˈʊɹnəmənt",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "trophy",
-    "m": "cúp (thể thao), chiến lợi phẩm",
-    "cat": "thể thao",
-    "p": "tɹˈoʊfi",
-    "pos": "Danh từ"
   },
   {
     "w": "podium",
@@ -1558,13 +1110,6 @@
     "m": "a-ti-sô",
     "cat": "ẩm thực",
     "p": "ˈɑːɹɾɪtʃˌoʊk",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "mushroom",
-    "m": "nấm",
-    "cat": "ẩm thực",
-    "p": "mˈʌʃɹuːm",
     "pos": "Danh từ"
   },
   {
@@ -1918,24 +1463,10 @@
     "pos": "Danh từ"
   },
   {
-    "w": "nationality",
-    "m": "quốc tịch",
-    "cat": "society",
-    "p": "nˌæʃənˈælᵻɾi",
-    "pos": "Danh từ"
-  },
-  {
     "w": "frontier",
     "m": "biên cương",
     "cat": "địa điểm",
     "p": "fɹʌntˈɪɹ",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "territory",
-    "m": "lãnh thổ",
-    "cat": "địa điểm",
-    "p": "tˈɛɹɪtˌɔːɹi",
     "pos": "Danh từ"
   },
   {
@@ -1988,13 +1519,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "lighthouse",
-    "m": "hải đăng",
-    "cat": "địa điểm",
-    "p": "lˈaɪthaʊs",
-    "pos": "Danh từ"
-  },
-  {
     "w": "observatory",
     "m": "đài thiên văn",
     "cat": "địa điểm",
@@ -2002,24 +1526,10 @@
     "pos": "Danh từ"
   },
   {
-    "w": "cathedral",
-    "m": "nhà thờ lớn",
-    "cat": "địa điểm",
-    "p": "kɐθˈiːdɹəl",
-    "pos": "Danh từ"
-  },
-  {
     "w": "monastery",
     "m": "tu viện",
     "cat": "địa điểm",
     "p": "mˈɑːnɐstɚɹi",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "shrine",
-    "m": "đền thờ nhỏ",
-    "cat": "địa điểm",
-    "p": "ʃɹˈaɪn",
     "pos": "Danh từ"
   },
   {
@@ -2034,20 +1544,6 @@
     "m": "thành lũy",
     "cat": "địa điểm",
     "p": "sˈɪɾədˌɛl",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "monument",
-    "m": "tượng đài, di tích, đài tưởng niệm",
-    "cat": "địa điểm",
-    "p": "mˈɑːnjuːmənt",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "landmark",
-    "m": "địa danh nổi bật",
-    "cat": "địa điểm",
-    "p": "lˈændmɑːɹk",
     "pos": "Danh từ"
   },
   {
@@ -2079,25 +1575,11 @@
     "pos": "Động từ"
   },
   {
-    "w": "roundabout",
-    "m": "vòng xuyến",
-    "cat": "địa điểm",
-    "p": "ɹˈaʊndɐbˌaʊt",
-    "pos": "Danh từ"
-  },
-  {
     "w": "junction",
     "m": "giao lộ",
     "cat": "địa điểm",
     "p": "dʒˈʌŋkʃən",
     "pos": "Động từ"
-  },
-  {
-    "w": "underpass",
-    "m": "hầm chui",
-    "cat": "địa điểm",
-    "p": "ˌʌndɚpˈæs",
-    "pos": "Danh từ"
   },
   {
     "w": "overpass",
@@ -2163,90 +1645,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "interest rate",
-    "m": "lãi suất",
-    "cat": "tiền bạc",
-    "p": "ˈɪntɹɛst ɹˈeɪt",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "installment",
-    "m": "trả góp",
-    "cat": "tiền bạc",
-    "p": "ɪnstˈɔːlmənt",
-    "pos": "Động từ"
-  },
-  {
-    "w": "invoice",
-    "m": "hóa đơn",
-    "cat": "tiền bạc",
-    "p": "ˈɪnvɔɪs",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "receipt",
-    "m": "biên lai, hóa đơn",
-    "cat": "tiền bạc",
-    "p": "ɹᵻsˈiːt",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "transaction",
-    "m": "giao dịch",
-    "cat": "tiền bạc",
-    "p": "tɹænsˈækʃən",
-    "pos": "Động từ"
-  },
-  {
-    "w": "withdrawal",
-    "m": "hội chứng cai, sự rút tiền",
-    "cat": "tiền bạc",
-    "p": "wɪθdɹˈɔːl",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "deposit",
-    "m": "tiền đặt cọc, gửi tiền",
-    "cat": "tiền bạc",
-    "p": "dᵻpˈɑːzɪt",
-    "pos": "Động từ"
-  },
-  {
-    "w": "balance",
-    "m": "số dư tài khoản, sự cân bằng",
-    "cat": "tiền bạc",
-    "p": "bˈæləns",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "statement",
-    "m": "tuyên bố, phát biểu, sao kê",
-    "cat": "tiền bạc",
-    "p": "stˈeɪtmənt",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "currency",
-    "m": "tiền tệ",
-    "cat": "tiền bạc",
-    "p": "kˈɜːɹənsi",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "exchange rate",
-    "m": "tỷ giá hối đoái",
-    "cat": "tiền bạc",
-    "p": "ɛkstʃˈeɪndʒ ɹˈeɪt",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "commission",
-    "m": "hoa hồng",
-    "cat": "tiền bạc",
-    "p": "kəmˈɪʃən",
-    "pos": "Danh từ"
-  },
-  {
     "w": "premium",
     "m": "phí bảo hiểm",
     "cat": "tiền bạc",
@@ -2254,115 +1652,10 @@
     "pos": "Danh từ"
   },
   {
-    "w": "pension",
-    "m": "lương hưu",
-    "cat": "tiền bạc",
-    "p": "pˈɛnʃən",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "inheritance",
-    "m": "tài sản thừa kế",
-    "cat": "tiền bạc",
-    "p": "ɪnhˈɛɹɪtəns",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "allowance",
-    "m": "tiền trợ cấp",
-    "cat": "tiền bạc",
-    "p": "ɐlˈaʊəns",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "wage",
-    "m": "tiền công",
-    "cat": "tiền bạc",
-    "p": "wˈeɪdʒ",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "salary",
-    "m": "lương tháng",
-    "cat": "tiền bạc",
-    "p": "sˈælɚɹi",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "bonus",
-    "m": "tiền thưởng",
-    "cat": "tiền bạc",
-    "p": "bˈoʊnəs",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "fee",
-    "m": "lệ phí",
-    "cat": "tiền bạc",
-    "p": "fˈiː",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "fare",
-    "m": "tiền vé",
-    "cat": "tiền bạc",
-    "p": "fˈɛɹ",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "toll",
-    "m": "phí cầu đường",
-    "cat": "tiền bạc",
-    "p": "tˈoʊl",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "rent",
-    "m": "tiền thuê",
-    "cat": "tiền bạc",
-    "p": "ɹˈɛnt",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "loan",
-    "m": "khoản vay",
-    "cat": "tiền bạc",
-    "p": "lˈoʊn",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "debt",
-    "m": "nợ",
-    "cat": "tiền bạc",
-    "p": "dˈɛt",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "profit",
-    "m": "lợi nhuận",
-    "cat": "tiền bạc",
-    "p": "pɹˈɑːfɪt",
-    "pos": "Danh từ"
-  },
-  {
     "w": "expenditure",
     "m": "khoản chi tiêu",
     "cat": "tiền bạc",
     "p": "ɛkspˈɛndɪtʃɚ",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "thunderstorm",
-    "m": "giông bão có sấm",
-    "cat": "thiên nhiên",
-    "p": "θˈʌndɚstˌɔːɹm",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "drizzle",
-    "m": "mưa phùn",
-    "cat": "thiên nhiên",
-    "p": "dɹˈɪzəl",
     "pos": "Danh từ"
   },
   {
@@ -2387,13 +1680,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "frost",
-    "m": "sương giá",
-    "cat": "thiên nhiên",
-    "p": "fɹˈɔst",
-    "pos": "Danh từ"
-  },
-  {
     "w": "dew",
     "m": "sương",
     "cat": "thiên nhiên",
@@ -2405,13 +1691,6 @@
     "m": "sương mỏng",
     "cat": "thiên nhiên",
     "p": "mˈɪst",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "breeze",
-    "m": "gió nhẹ",
-    "cat": "thiên nhiên",
-    "p": "bɹˈiːz",
     "pos": "Danh từ"
   },
   {
@@ -2443,32 +1722,11 @@
     "pos": "Danh từ"
   },
   {
-    "w": "drought",
-    "m": "hạn hán",
-    "cat": "thiên nhiên",
-    "p": "dɹˈaʊt",
-    "pos": "Danh từ"
-  },
-  {
     "w": "famine",
     "m": "nạn đói",
     "cat": "thiên nhiên",
     "p": "fˈæmɪn",
     "pos": "Danh từ"
-  },
-  {
-    "w": "tide",
-    "m": "thủy triều",
-    "cat": "thiên nhiên",
-    "p": "tˈaɪd",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "wave",
-    "m": "sóng biển, vẫy tay",
-    "cat": "thiên nhiên",
-    "p": "wˈeɪv",
-    "pos": "Động từ"
   },
   {
     "w": "ripple",
@@ -2478,31 +1736,10 @@
     "pos": "Danh từ"
   },
   {
-    "w": "current",
-    "m": "hiện tại, dòng chảy",
-    "cat": "thiên nhiên",
-    "p": "kˈɜːɹənt",
-    "pos": "Danh từ"
-  },
-  {
     "w": "whirlpool",
     "m": "xoáy nước",
     "cat": "thiên nhiên",
     "p": "wˈɜːlpuːl",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "meadow",
-    "m": "đồng cỏ",
-    "cat": "thiên nhiên",
-    "p": "mˈɛdoʊ",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "pasture",
-    "m": "đồng cỏ, bãi chăn thả",
-    "cat": "thiên nhiên",
-    "p": "pˈæstʃɚ",
     "pos": "Danh từ"
   },
   {
@@ -2524,13 +1761,6 @@
     "m": "đầm lầy than bùn",
     "cat": "thiên nhiên",
     "p": "bˈɑːɡ",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "cliff",
-    "m": "vách đá",
-    "cat": "thiên nhiên",
-    "p": "klˈɪf",
     "pos": "Danh từ"
   },
   {
@@ -2573,13 +1803,6 @@
     "m": "tảng đá lớn",
     "cat": "thiên nhiên",
     "p": "bˈoʊldɚ",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "pebble",
-    "m": "viên cuội, hòn đá nhỏ, viên sỏi",
-    "cat": "thiên nhiên",
-    "p": "pˈɛbəl",
     "pos": "Danh từ"
   },
   {

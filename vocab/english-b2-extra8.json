@@ -14,13 +14,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "accessible",
-    "m": "dễ tiếp cận",
-    "cat": "tính từ",
-    "p": "æksˈɛsəbəl",
-    "pos": "Danh từ"
-  },
-  {
     "w": "accommodate",
     "m": "chứa được; đáp ứng",
     "cat": "hành động",
@@ -33,34 +26,6 @@
     "cat": "hành động",
     "p": "ɐkjˈuːmjʊlˌeɪt",
     "pos": "Động từ"
-  },
-  {
-    "w": "accurate",
-    "m": "chính xác",
-    "cat": "tính từ",
-    "p": "ˈækjʊɹət",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "acknowledge",
-    "m": "thừa nhận",
-    "cat": "hành động",
-    "p": "ɐknˈɑːlɪdʒ",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "acquire",
-    "m": "thu được, lĩnh hội",
-    "cat": "hành động",
-    "p": "ɐkwˈaɪɚ",
-    "pos": "Động từ"
-  },
-  {
-    "w": "adequate",
-    "m": "đầy đủ, thích hợp, thỏa đáng",
-    "cat": "tính từ",
-    "p": "ˈædɪkwət",
-    "pos": "Danh từ"
   },
   {
     "w": "adjacent",
@@ -77,20 +42,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "affordable",
-    "m": "giá phải chăng",
-    "cat": "tiền bạc",
-    "p": "ɐfˈɔːɹdəbəl",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "aftermath",
-    "m": "hậu quả, kết quả sau, dư chấn",
-    "cat": "society",
-    "p": "ˈæftɚmˌæθ",
-    "pos": "Danh từ"
-  },
-  {
     "w": "aggregate",
     "m": "tổng hợp, gộp",
     "cat": "academic",
@@ -105,38 +56,10 @@
     "pos": "Danh từ"
   },
   {
-    "w": "allocate",
-    "m": "phân bổ",
-    "cat": "business",
-    "p": "ˈæləkˌeɪt",
-    "pos": "Động từ"
-  },
-  {
     "w": "ambiguity",
     "m": "sự mơ hồ",
     "cat": "academic",
     "p": "ˌæmbɪɡjˈuːɪɾi",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "anticipate",
-    "m": "dự đoán, mong chờ, mong đợi, dự kiến, tiên liệu, lường trước",
-    "cat": "hành động",
-    "p": "æntˈɪsᵻpˌeɪt",
-    "pos": "Động từ"
-  },
-  {
-    "w": "apparent",
-    "m": "rõ ràng, có vẻ",
-    "cat": "tính từ",
-    "p": "ɐpˈæɹənt",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "appeal",
-    "m": "kháng cáo, kêu gọi, khiếu nại",
-    "cat": "media",
-    "p": "ɐpˈiːl",
     "pos": "Danh từ"
   },
   {
@@ -168,13 +91,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "arbitrary",
-    "m": "tùy tiện",
-    "cat": "tính từ",
-    "p": "ˈɑːɹbɪtɹˌɛɹi",
-    "pos": "Danh từ"
-  },
-  {
     "w": "articulate",
     "m": "diễn đạt rõ ràng",
     "cat": "hành động",
@@ -196,20 +112,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "assess",
-    "m": "đánh giá",
-    "cat": "academic",
-    "p": "ɐsˈɛs",
-    "pos": "Động từ"
-  },
-  {
-    "w": "assumption",
-    "m": "giả định",
-    "cat": "academic",
-    "p": "ɐsˈʌmpʃən",
-    "pos": "Danh từ"
-  },
-  {
     "w": "attain",
     "m": "đạt được",
     "cat": "hành động",
@@ -224,45 +126,10 @@
     "pos": "Danh từ"
   },
   {
-    "w": "authentic",
-    "m": "chân thực, xác thực, đích thực, chính gốc, chính hãng",
-    "cat": "tính từ",
-    "p": "ɔːθˈɛntɪk",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "authority",
-    "m": "chính quyền; thẩm quyền",
-    "cat": "chính trị",
-    "p": "ɐθˈɔːɹɪɾi",
-    "pos": "Danh từ"
-  },
-  {
     "w": "autonomy",
     "m": "quyền tự chủ",
     "cat": "chính trị",
     "p": "ɔːtˈɑːnəmi",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "barrier",
-    "m": "rào cản",
-    "cat": "society",
-    "p": "bˈæɹiɚ",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "beneficial",
-    "m": "có lợi",
-    "cat": "tính từ",
-    "p": "bˌɛnɪfˈɪʃəl",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "bias",
-    "m": "thiên kiến, thiên vị, sai lệch, thành kiến, định kiến",
-    "cat": "psychology",
-    "p": "bˈaɪəs",
     "pos": "Danh từ"
   },
   {
@@ -280,38 +147,10 @@
     "pos": "Danh từ"
   },
   {
-    "w": "capacity",
-    "m": "năng lực, sức chứa",
-    "cat": "academic",
-    "p": "kəpˈæsᵻɾi",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "censorship",
-    "m": "sự kiểm duyệt",
-    "cat": "media",
-    "p": "sˈɛnsɚʃˌɪp",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "circumstance",
-    "m": "hoàn cảnh",
-    "cat": "society",
-    "p": "sˈɜːkəmstˌæns",
-    "pos": "Danh từ"
-  },
-  {
     "w": "coincide",
     "m": "trùng khớp",
     "cat": "hành động",
     "p": "kˌoʊɪnsˈaɪd",
-    "pos": "Động từ"
-  },
-  {
-    "w": "collaborate",
-    "m": "hợp tác",
-    "cat": "business",
-    "p": "kəlˈæbɚɹˌeɪt",
     "pos": "Động từ"
   },
   {
@@ -329,24 +168,10 @@
     "pos": "Động từ"
   },
   {
-    "w": "commitment",
-    "m": "sự cam kết",
-    "cat": "business",
-    "p": "kəmˈɪtmənt",
-    "pos": "Danh từ"
-  },
-  {
     "w": "commodity",
     "m": "hàng hóa",
     "cat": "business",
     "p": "kəmˈɑːdᵻɾi",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "compatible",
-    "m": "tương thích",
-    "cat": "công nghệ",
-    "p": "kəmpˈæɾᵻbəl",
     "pos": "Danh từ"
   },
   {
@@ -406,13 +231,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "conduct",
-    "m": "tiến hành; hành vi",
-    "cat": "hành động",
-    "p": "kˈɑːndʌkt",
-    "pos": "Động từ"
-  },
-  {
     "w": "confront",
     "m": "đối mặt, đối diện, đối đầu, đương đầu, chất vấn",
     "cat": "hành động",
@@ -448,20 +266,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "considerable",
-    "m": "đáng kể",
-    "cat": "tính từ",
-    "p": "kənsˈɪdɚɹəbəl",
-    "pos": "Phó từ"
-  },
-  {
-    "w": "consistent",
-    "m": "nhất quán",
-    "cat": "tính từ",
-    "p": "kənsˈɪstənt",
-    "pos": "Danh từ"
-  },
-  {
     "w": "constitute",
     "m": "cấu thành",
     "cat": "academic",
@@ -490,38 +294,10 @@
     "pos": "Danh từ"
   },
   {
-    "w": "contemporary",
-    "m": "đương đại",
-    "cat": "văn hóa",
-    "p": "kəntˈɛmpɚɹˌɛɹi",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "contradict",
-    "m": "mâu thuẫn, phản bác",
-    "cat": "hành động",
-    "p": "kˌɑːntɹədˈɪkt",
-    "pos": "Động từ"
-  },
-  {
-    "w": "controversy",
-    "m": "sự tranh cãi",
-    "cat": "media",
-    "p": "kˈɑːntɹəvˌɜːsi",
-    "pos": "Danh từ"
-  },
-  {
     "w": "convey",
     "m": "truyền tải, vận chuyển, truyền đạt, chuyển tải, diễn đạt",
     "cat": "hành động",
     "p": "kənvˈeɪ",
-    "pos": "Động từ"
-  },
-  {
-    "w": "cooperate",
-    "m": "hợp tác",
-    "cat": "business",
-    "p": "koʊˈɑːpɚɹˌeɪt",
     "pos": "Động từ"
   },
   {
@@ -546,13 +322,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "coverage",
-    "m": "sự đưa tin; phạm vi",
-    "cat": "media",
-    "p": "kˈʌvɚɹɪdʒ",
-    "pos": "Danh từ"
-  },
-  {
     "w": "credibility",
     "m": "độ tin cậy",
     "cat": "media",
@@ -567,32 +336,11 @@
     "pos": "Danh từ"
   },
   {
-    "w": "crucial",
-    "m": "thiết yếu, cực kỳ quan trọng, then chốt, cốt yếu",
-    "cat": "tính từ",
-    "p": "kɹˈuːʃəl",
-    "pos": "Tính từ"
-  },
-  {
     "w": "cultivate",
     "m": "trồng trọt, nuôi dưỡng, vun đắp, bồi dưỡng, vun trồng",
     "cat": "hành động",
     "p": "kˈʌltᵻvˌeɪt",
     "pos": "Động từ"
-  },
-  {
-    "w": "cumulative",
-    "m": "tích lũy dồn",
-    "cat": "academic",
-    "p": "kjˈuːmjʊlətˌɪv",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "deadline",
-    "m": "hạn chót",
-    "cat": "công việc",
-    "p": "dˈɛdlaɪn",
-    "pos": "Danh từ"
   },
   {
     "w": "decisive",
@@ -602,45 +350,10 @@
     "pos": "Tính từ"
   },
   {
-    "w": "dedicate",
-    "m": "cống hiến",
-    "cat": "hành động",
-    "p": "dˈɛdᵻkˌeɪt",
-    "pos": "Động từ"
-  },
-  {
     "w": "deficit",
     "m": "thâm hụt",
     "cat": "business",
     "p": "dˈɛfɪsˌɪt",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "deliberate",
-    "m": "cố ý, thảo luận kỹ, có chủ ý, thận trọng; cân nhắc",
-    "cat": "tính từ",
-    "p": "dᵻlˈɪbɚɹət",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "democracy",
-    "m": "nền dân chủ",
-    "cat": "chính trị",
-    "p": "dᵻmˈɑːkɹəsi",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "demonstrate",
-    "m": "chứng minh; biểu tình",
-    "cat": "hành động",
-    "p": "dˈɛmənstɹˌeɪt",
-    "pos": "Động từ"
-  },
-  {
-    "w": "deny",
-    "m": "phủ nhận",
-    "cat": "hành động",
-    "p": "dᵻnˈaɪ",
     "pos": "Danh từ"
   },
   {
@@ -649,13 +362,6 @@
     "cat": "business",
     "p": "dᵻplˈɔɪ",
     "pos": "Danh từ"
-  },
-  {
-    "w": "derive",
-    "m": "bắt nguồn từ, rút ra, xuất phát từ, lấy từ",
-    "cat": "academic",
-    "p": "dᵻɹˈaɪv",
-    "pos": "Động từ"
   },
   {
     "w": "designate",
@@ -693,13 +399,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "diagnose",
-    "m": "chẩn đoán",
-    "cat": "sức khỏe",
-    "p": "dˌaɪəɡnˈoʊz",
-    "pos": "Động từ"
-  },
-  {
     "w": "differentiate",
     "m": "phân biệt",
     "cat": "academic",
@@ -721,24 +420,10 @@
     "pos": "Động từ"
   },
   {
-    "w": "discipline",
-    "m": "kỷ luật; ngành học",
-    "cat": "học thuật",
-    "p": "dˈɪsɪplˌɪn",
-    "pos": "Danh từ"
-  },
-  {
     "w": "disclose",
     "m": "tiết lộ",
     "cat": "media",
     "p": "dɪsklˈoʊz",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "discrimination",
-    "m": "sự phân biệt đối xử",
-    "cat": "society",
-    "p": "dɪskɹˌɪmᵻnˈeɪʃən",
     "pos": "Danh từ"
   },
   {
@@ -791,39 +476,11 @@
     "pos": "Danh từ"
   },
   {
-    "w": "distribute",
-    "m": "phân phối",
-    "cat": "business",
-    "p": "dˈɪstɹɪbjˌuːt",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "diverse",
-    "m": "đa dạng",
-    "cat": "society",
-    "p": "daɪvˈɜːs",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "dominant",
-    "m": "chiếm ưu thế",
-    "cat": "tính từ",
-    "p": "dˈɑːmɪnənt",
-    "pos": "Danh từ"
-  },
-  {
     "w": "drawback",
     "m": "nhược điểm",
     "cat": "society",
     "p": "dɹˈɔːbæk",
     "pos": "Danh từ"
-  },
-  {
-    "w": "dynamic",
-    "m": "năng động, biến động",
-    "cat": "tính từ",
-    "p": "daɪnˈæmɪk",
-    "pos": "Tính từ"
   },
   {
     "w": "ecology",
@@ -868,27 +525,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "emerge",
-    "m": "xuất hiện, nổi lên",
-    "cat": "hành động",
-    "p": "ɪmˈɜːdʒ",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "emission",
-    "m": "sự phát thải",
-    "cat": "môi trường",
-    "p": "ɪmˈɪʃən",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "emphasize",
-    "m": "nhấn mạnh",
-    "cat": "hành động",
-    "p": "ˈɛmfɐsˌaɪz",
-    "pos": "Động từ"
-  },
-  {
     "w": "empirical",
     "m": "thực nghiệm",
     "cat": "academic",
@@ -901,13 +537,6 @@
     "cat": "society",
     "p": "ɛmpˈaʊɚ",
     "pos": "Động từ"
-  },
-  {
-    "w": "enforce",
-    "m": "thực thi, ép buộc",
-    "cat": "law",
-    "p": "ɛnfˈɔːɹs",
-    "pos": "Danh từ"
   },
   {
     "w": "enhance",
@@ -952,46 +581,11 @@
     "pos": "Danh từ"
   },
   {
-    "w": "essential",
-    "m": "thiết yếu",
-    "cat": "tính từ",
-    "p": "ᵻsˈɛnʃəl",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "establish",
-    "m": "thành lập",
-    "cat": "business",
-    "p": "ɪstˈæblɪʃ",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "estimate",
-    "m": "ước tính",
-    "cat": "academic",
-    "p": "ˈɛstᵻmət",
-    "pos": "Động từ"
-  },
-  {
     "w": "ethical",
     "m": "thuộc đạo đức",
     "cat": "society",
     "p": "ˈɛθɪkəl",
     "pos": "Danh từ"
-  },
-  {
-    "w": "evaluate",
-    "m": "đánh giá",
-    "cat": "academic",
-    "p": "ɪvˈæljuːˌeɪt",
-    "pos": "Động từ"
-  },
-  {
-    "w": "evident",
-    "m": "rõ ràng, hiển nhiên",
-    "cat": "tính từ",
-    "p": "ˈɛvɪdənt",
-    "pos": "Tính từ"
   },
   {
     "w": "evolve",
@@ -1022,13 +616,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "expertise",
-    "m": "chuyên môn",
-    "cat": "business",
-    "p": "ˌɛkspɚtˈiːz",
-    "pos": "Danh từ"
-  },
-  {
     "w": "exploit",
     "m": "khai thác; bóc lột",
     "cat": "society",
@@ -1041,13 +628,6 @@
     "cat": "media",
     "p": "ɛkspˈoʊʒɚ",
     "pos": "Danh từ"
-  },
-  {
-    "w": "extensive",
-    "m": "rộng rãi, sâu rộng",
-    "cat": "tính từ",
-    "p": "ɛkstˈɛnsɪv",
-    "pos": "Tính từ"
   },
   {
     "w": "facilitate",
@@ -1085,13 +665,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "forecast",
-    "m": "dự báo",
-    "cat": "business",
-    "p": "fˈɔːɹkæst",
-    "pos": "Động từ"
-  },
-  {
     "w": "formulate",
     "m": "đặt ra, soạn thảo, xây dựng, lý thuyết), kế hoạch)",
     "cat": "academic",
@@ -1113,13 +686,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "fundamental",
-    "m": "cơ bản, nền tảng",
-    "cat": "tính từ",
-    "p": "fˌʌndəmˈɛntəl",
-    "pos": "Tính từ"
-  },
-  {
     "w": "generate",
     "m": "tạo ra",
     "cat": "hành động",
@@ -1127,25 +693,11 @@
     "pos": "Động từ"
   },
   {
-    "w": "genuine",
-    "m": "chân thật, thật sự, thực sự, chân thực, chính hãng, thành thật",
-    "cat": "tính từ",
-    "p": "dʒˈɛnjuːɪn",
-    "pos": "Tính từ"
-  },
-  {
     "w": "governance",
     "m": "sự quản trị",
     "cat": "chính trị",
     "p": "ɡˈʌvɚnəns",
     "pos": "Danh từ"
-  },
-  {
-    "w": "gradual",
-    "m": "dần dần, từ từ",
-    "cat": "tính từ",
-    "p": "ɡɹˈædʒuːəl",
-    "pos": "Tính từ"
   },
   {
     "w": "hierarchy",
@@ -1162,38 +714,10 @@
     "pos": "Động từ"
   },
   {
-    "w": "hypothesis",
-    "m": "giả thuyết",
-    "cat": "academic",
-    "p": "haɪpˈɑːθəsˌɪs",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "identical",
-    "m": "giống hệt",
-    "cat": "tính từ",
-    "p": "aɪdˈɛntɪkəl",
-    "pos": "Tính từ"
-  },
-  {
     "w": "ideology",
     "m": "hệ tư tưởng",
     "cat": "chính trị",
     "p": "ˌaɪdɪˈɑːlədʒi",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "illustrate",
-    "m": "minh họa",
-    "cat": "academic",
-    "p": "ˈɪləstɹˌeɪt",
-    "pos": "Động từ"
-  },
-  {
-    "w": "implement",
-    "m": "thực thi",
-    "cat": "business",
-    "p": "ˈɪmplɪmənt",
     "pos": "Danh từ"
   },
   {
@@ -1239,27 +763,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "indicate",
-    "m": "chỉ ra",
-    "cat": "hành động",
-    "p": "ˈɪndᵻkˌeɪt",
-    "pos": "Động từ"
-  },
-  {
-    "w": "inevitable",
-    "m": "không thể tránh khỏi",
-    "cat": "tính từ",
-    "p": "ɪnˈɛvᵻɾəbəl",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "infrastructure",
-    "m": "cơ sở hạ tầng",
-    "cat": "society",
-    "p": "ˈɪnfɹəstɹˌʌktʃɚ",
-    "pos": "Danh từ"
-  },
-  {
     "w": "inherent",
     "m": "vốn có",
     "cat": "tính từ",
@@ -1281,27 +784,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "initiative",
-    "m": "sáng kiến, chủ động, bước đầu tiên",
-    "cat": "business",
-    "p": "ɪnˈɪʃiətˌɪv",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "innovation",
-    "m": "sự đổi mới",
-    "cat": "công nghệ",
-    "p": "ˌɪnəvˈeɪʃən",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "insight",
-    "m": "sự thấu hiểu sâu sắc",
-    "cat": "academic",
-    "p": "ˈɪnsaɪt",
-    "pos": "Danh từ"
-  },
-  {
     "w": "inspect",
     "m": "kiểm tra",
     "cat": "hành động",
@@ -1316,31 +798,10 @@
     "pos": "Tính từ"
   },
   {
-    "w": "integrate",
-    "m": "tích hợp",
-    "cat": "công nghệ",
-    "p": "ˈɪntᵻɡɹˌeɪt",
-    "pos": "Danh từ"
-  },
-  {
     "w": "integrity",
     "m": "tính liêm chính, toàn vẹn, sự chính trực",
     "cat": "society",
     "p": "ɪntˈɛɡɹᵻɾi",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "intense",
-    "m": "mạnh mẽ, căng thẳng, mãnh liệt, dữ dội",
-    "cat": "tính từ",
-    "p": "ɪntˈɛns",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "interpret",
-    "m": "diễn giải",
-    "cat": "academic",
-    "p": "ɪntˈɜːpɹɪt",
     "pos": "Danh từ"
   },
   {
@@ -1358,13 +819,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "investigate",
-    "m": "điều tra",
-    "cat": "law",
-    "p": "ɪnvˈɛstᵻɡˌeɪt",
-    "pos": "Danh từ"
-  },
-  {
     "w": "irrelevant",
     "m": "không liên quan",
     "cat": "tính từ",
@@ -1376,13 +830,6 @@
     "m": "cô lập",
     "cat": "hành động",
     "p": "ˈaɪsəlˌeɪt",
-    "pos": "Động từ"
-  },
-  {
-    "w": "justify",
-    "m": "biện minh",
-    "cat": "hành động",
-    "p": "dʒˈʌstᵻfˌaɪ",
     "pos": "Động từ"
   },
   {
@@ -1435,13 +882,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "maintain",
-    "m": "duy trì",
-    "cat": "hành động",
-    "p": "meɪntˈeɪn",
-    "pos": "Động từ"
-  },
-  {
     "w": "mandatory",
     "m": "bắt buộc",
     "cat": "law",
@@ -1468,13 +908,6 @@
     "cat": "tính từ",
     "p": "mətʃˈʊɹ",
     "pos": "Tính từ"
-  },
-  {
-    "w": "mechanism",
-    "m": "cơ chế",
-    "cat": "science",
-    "p": "mˈɛkənˌɪzəm",
-    "pos": "Danh từ"
   },
   {
     "w": "mediate",
@@ -1512,13 +945,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "monitor",
-    "m": "giám sát",
-    "cat": "công nghệ",
-    "p": "mˈɑːnɪɾɚ",
-    "pos": "Động từ"
-  },
-  {
     "w": "motive",
     "m": "động cơ",
     "cat": "psychology",
@@ -1526,60 +952,11 @@
     "pos": "Danh từ"
   },
   {
-    "w": "mutual",
-    "m": "lẫn nhau, tương hỗ, chung",
-    "cat": "tính từ",
-    "p": "mjˈuːtʃuːəl",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "negotiate",
-    "m": "đàm phán",
-    "cat": "business",
-    "p": "nᵻɡˈoʊʃɪˌeɪt",
-    "pos": "Động từ"
-  },
-  {
-    "w": "neutral",
-    "m": "trung lập",
-    "cat": "chính trị",
-    "p": "nˈuːtɹəl",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "nevertheless",
-    "m": "tuy nhiên",
-    "cat": "trạng từ",
-    "p": "nˌɛvɚðəlˈɛs",
-    "pos": "Phó từ"
-  },
-  {
     "w": "nominal",
     "m": "trên danh nghĩa",
     "cat": "business",
     "p": "nˈɑːmɪnəl",
     "pos": "Danh từ"
-  },
-  {
-    "w": "norm",
-    "m": "chuẩn mực",
-    "cat": "society",
-    "p": "nˈɔːɹm",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "notion",
-    "m": "khái niệm, ý niệm",
-    "cat": "academic",
-    "p": "nˈoʊʃən",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "objective",
-    "m": "khách quan, mục tiêu",
-    "cat": "academic",
-    "p": "ɑːbdʒˈɛktɪv",
-    "pos": "Tính từ"
   },
   {
     "w": "obstacle",
@@ -1596,25 +973,11 @@
     "pos": "Động từ"
   },
   {
-    "w": "ongoing",
-    "m": "đang diễn ra",
-    "cat": "tính từ",
-    "p": "ˈɑːŋɡoʊɪŋ",
-    "pos": "Tính từ"
-  },
-  {
     "w": "optimal",
     "m": "tối ưu",
     "cat": "tính từ",
     "p": "ˈɑːptɪməl",
     "pos": "Tính từ"
-  },
-  {
-    "w": "outcome",
-    "m": "kết quả",
-    "cat": "society",
-    "p": "ˈaʊtkʌm",
-    "pos": "Danh từ"
   },
   {
     "w": "outweigh",
@@ -1652,53 +1015,11 @@
     "pos": "Danh từ"
   },
   {
-    "w": "partial",
-    "m": "một phần, bộ phận, thiên vị",
-    "cat": "tính từ",
-    "p": "pˈɑːɹʃəl",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "participate",
-    "m": "tham gia",
-    "cat": "hành động",
-    "p": "pɑːɹtˈɪsᵻpˌeɪt",
-    "pos": "Động từ"
-  },
-  {
-    "w": "passive",
-    "m": "thụ động",
-    "cat": "tính từ",
-    "p": "pˈæsɪv",
-    "pos": "Danh từ"
-  },
-  {
     "w": "perceive",
     "m": "nhận thức",
     "cat": "psychology",
     "p": "pɚsˈiːv",
     "pos": "Động từ"
-  },
-  {
-    "w": "persistent",
-    "m": "dai dẳng, kiên trì",
-    "cat": "tính từ",
-    "p": "pɚsˈɪstənt",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "perspective",
-    "m": "quan điểm, góc nhìn",
-    "cat": "academic",
-    "p": "pɚspˈɛktɪv",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "phenomenon",
-    "m": "hiện tượng",
-    "cat": "academic",
-    "p": "fɪnˈɑːmɪnən",
-    "pos": "Danh từ"
   },
   {
     "w": "plausible",
@@ -1715,32 +1036,11 @@
     "pos": "Danh từ"
   },
   {
-    "w": "potential",
-    "m": "tiềm năng",
-    "cat": "academic",
-    "p": "pətˈɛnʃəl",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "precise",
-    "m": "chính xác",
-    "cat": "tính từ",
-    "p": "pɹɪsˈaɪs",
-    "pos": "Tính từ"
-  },
-  {
     "w": "predominant",
     "m": "chiếm ưu thế, nổi bật nhất, chủ yếu",
     "cat": "tính từ",
     "p": "pɹɪdˈɑːmɪnənt",
     "pos": "Tính từ"
-  },
-  {
-    "w": "preliminary",
-    "m": "sơ bộ",
-    "cat": "academic",
-    "p": "pɹɪlˈɪmɪnˌɛɹi",
-    "pos": "Danh từ"
   },
   {
     "w": "presume",
@@ -1806,13 +1106,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "proportion",
-    "m": "tỷ lệ",
-    "cat": "academic",
-    "p": "pɹəpˈɔːɹʃən",
-    "pos": "Danh từ"
-  },
-  {
     "w": "prospect",
     "m": "triển vọng",
     "cat": "business",
@@ -1834,24 +1127,10 @@
     "pos": "Động từ"
   },
   {
-    "w": "radical",
-    "m": "cấp tiến, triệt để",
-    "cat": "chính trị",
-    "p": "ɹˈædɪkəl",
-    "pos": "Danh từ"
-  },
-  {
     "w": "random",
     "m": "ngẫu nhiên",
     "cat": "tính từ",
     "p": "ɹˈændəm",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "realistic",
-    "m": "thực tế",
-    "cat": "tính từ",
-    "p": "ɹiːəlˈɪstɪk",
     "pos": "Tính từ"
   },
   {
@@ -1862,46 +1141,11 @@
     "pos": "Tính từ"
   },
   {
-    "w": "recognition",
-    "m": "sự công nhận",
-    "cat": "society",
-    "p": "ɹˌɛkəɡnˈɪʃən",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "reinforce",
-    "m": "củng cố",
-    "cat": "hành động",
-    "p": "ɹˌiːɪnfˈɔːɹs",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "reject",
-    "m": "từ chối, bác bỏ",
-    "cat": "hành động",
-    "p": "ɹᵻdʒˈɛkt",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "relevant",
-    "m": "liên quan",
-    "cat": "tính từ",
-    "p": "ɹˈɛlᵻvənt",
-    "pos": "Danh từ"
-  },
-  {
     "w": "reluctant",
     "m": "miễn cưỡng",
     "cat": "cảm xúc",
     "p": "ɹᵻlˈʌktənt",
     "pos": "Tính từ"
-  },
-  {
-    "w": "remarkable",
-    "m": "đáng chú ý",
-    "cat": "tính từ",
-    "p": "ɹᵻmˈɑːɹkəbəl",
-    "pos": "Danh từ"
   },
   {
     "w": "reputation",
@@ -1932,13 +1176,6 @@
     "pos": "Tính từ"
   },
   {
-    "w": "resolve",
-    "m": "giải quyết; quyết tâm",
-    "cat": "hành động",
-    "p": "ɹᵻzˈɑːlv",
-    "pos": "Động từ"
-  },
-  {
     "w": "restore",
     "m": "khôi phục",
     "cat": "hành động",
@@ -1946,32 +1183,11 @@
     "pos": "Động từ"
   },
   {
-    "w": "restrict",
-    "m": "hạn chế",
-    "cat": "law",
-    "p": "ɹᵻstɹˈɪkt",
-    "pos": "Danh từ"
-  },
-  {
     "w": "retain",
     "m": "giữ lại",
     "cat": "hành động",
     "p": "ɹᵻtˈeɪn",
     "pos": "Động từ"
-  },
-  {
-    "w": "reveal",
-    "m": "tiết lộ",
-    "cat": "media",
-    "p": "ɹᵻvˈiːl",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "revenue",
-    "m": "doanh thu",
-    "cat": "business",
-    "p": "ɹˈɛvənˌuː",
-    "pos": "Danh từ"
   },
   {
     "w": "reverse",
@@ -1988,38 +1204,10 @@
     "pos": "Tính từ"
   },
   {
-    "w": "scenario",
-    "m": "kịch bản, viễn cảnh",
-    "cat": "society",
-    "p": "sənˈæɹiˌoʊ",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "scope",
-    "m": "phạm vi",
-    "cat": "academic",
-    "p": "skˈoʊp",
-    "pos": "Danh từ"
-  },
-  {
     "w": "scrutiny",
     "m": "sự xem xét kỹ",
     "cat": "media",
     "p": "skɹˈuːtɪni",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "sector",
-    "m": "khu vực, ngành",
-    "cat": "business",
-    "p": "sˈɛktɚ",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "sequence",
-    "m": "trình tự",
-    "cat": "academic",
-    "p": "sˈiːkwəns",
     "pos": "Danh từ"
   },
   {
@@ -2028,13 +1216,6 @@
     "cat": "hành động",
     "p": "ʃɹˈɪŋk",
     "pos": "Động từ"
-  },
-  {
-    "w": "significant",
-    "m": "đáng kể, có ý nghĩa, quan trọng, đáng chú ý",
-    "cat": "tính từ",
-    "p": "sɪɡnˈɪfɪkənt",
-    "pos": "Tính từ"
   },
   {
     "w": "simultaneously",
@@ -2065,31 +1246,10 @@
     "pos": "Danh từ"
   },
   {
-    "w": "stable",
-    "m": "ổn định",
-    "cat": "tính từ",
-    "p": "stˈeɪbəl",
-    "pos": "Tính từ"
-  },
-  {
     "w": "stakeholder",
     "m": "bên liên quan",
     "cat": "business",
     "p": "stˈeɪkhoʊldɚ",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "statistics",
-    "m": "số liệu thống kê",
-    "cat": "academic",
-    "p": "stɐtˈɪstɪks",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "strategy",
-    "m": "chiến lược",
-    "cat": "business",
-    "p": "stɹˈæɾədʒi",
     "pos": "Danh từ"
   },
   {
@@ -2107,13 +1267,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "substantial",
-    "m": "đáng kể, lớn",
-    "cat": "tính từ",
-    "p": "səbstˈænʃəl",
-    "pos": "Tính từ"
-  },
-  {
     "w": "subtle",
     "m": "tinh tế, khó nhận ra",
     "cat": "tính từ",
@@ -2121,38 +1274,10 @@
     "pos": "Tính từ"
   },
   {
-    "w": "sufficient",
-    "m": "đủ, thỏa đáng",
-    "cat": "tính từ",
-    "p": "səfˈɪʃənt",
-    "pos": "Tính từ"
-  },
-  {
     "w": "surveillance",
     "m": "sự giám sát",
     "cat": "chính trị",
     "p": "sɚvˈeɪləns",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "sustain",
-    "m": "duy trì, chống đỡ",
-    "cat": "môi trường",
-    "p": "səstˈeɪn",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "sustainable",
-    "m": "bền vững",
-    "cat": "môi trường",
-    "p": "səstˈeɪnəbəl",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "symptom",
-    "m": "triệu chứng",
-    "cat": "sức khỏe",
-    "p": "sˈɪmptəm",
     "pos": "Danh từ"
   },
   {
@@ -2177,25 +1302,11 @@
     "pos": "Tính từ"
   },
   {
-    "w": "tension",
-    "m": "sự căng thẳng",
-    "cat": "society",
-    "p": "tˈɛnʃən",
-    "pos": "Danh từ"
-  },
-  {
     "w": "terminate",
     "m": "chấm dứt",
     "cat": "hành động",
     "p": "tˈɜːmᵻnˌeɪt",
     "pos": "Động từ"
-  },
-  {
-    "w": "theoretical",
-    "m": "thuộc lý thuyết",
-    "cat": "academic",
-    "p": "θiəɹˈɛɾɪkəl",
-    "pos": "Danh từ"
   },
   {
     "w": "thorough",
@@ -2217,27 +1328,6 @@
     "cat": "society",
     "p": "θɹˈaɪv",
     "pos": "Danh từ"
-  },
-  {
-    "w": "transform",
-    "m": "biến đổi",
-    "cat": "hành động",
-    "p": "tɹænsfˈɔːɹm",
-    "pos": "Động từ"
-  },
-  {
-    "w": "transition",
-    "m": "sự chuyển tiếp",
-    "cat": "society",
-    "p": "tɹænsˈɪʃən",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "transparent",
-    "m": "minh bạch, trong suốt, rõ ràng",
-    "cat": "chính trị",
-    "p": "tɹænspˈæɹənt",
-    "pos": "Tính từ"
   },
   {
     "w": "trigger",
@@ -2282,13 +1372,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "uniform",
-    "m": "đồng phục, đồng đều, đồng nhất, thống nhất, nhất quán",
-    "cat": "tính từ",
-    "p": "jˈuːnɪfˌɔːɹm",
-    "pos": "Tính từ"
-  },
-  {
     "w": "unprecedented",
     "m": "chưa từng có",
     "cat": "tính từ",
@@ -2301,13 +1384,6 @@
     "cat": "hành động",
     "p": "jˈuːɾɪlˌaɪz",
     "pos": "Động từ"
-  },
-  {
-    "w": "valid",
-    "m": "có giá trị, hợp lệ",
-    "cat": "tính từ",
-    "p": "vˈælɪd",
-    "pos": "Tính từ"
   },
   {
     "w": "vary",
@@ -2338,55 +1414,6 @@
     "pos": "Tính từ"
   },
   {
-    "w": "vital",
-    "m": "thiết yếu, sống còn",
-    "cat": "tính từ",
-    "p": "vˈaɪɾəl",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "vulnerable",
-    "m": "dễ tổn thương",
-    "cat": "society",
-    "p": "vˈʌlnɚɹəbəl",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "welfare",
-    "m": "phúc lợi",
-    "cat": "society",
-    "p": "wˈɛlfɛɹ",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "widespread",
-    "m": "lan rộng",
-    "cat": "tính từ",
-    "p": "wˈaɪdspɹɛd",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "withdraw",
-    "m": "rút lui, rút tiền",
-    "cat": "hành động",
-    "p": "wɪθdɹˈɔː",
-    "pos": "Động từ"
-  },
-  {
-    "w": "witness",
-    "m": "chứng kiến; nhân chứng",
-    "cat": "law",
-    "p": "wˈɪtnəs",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "in the long run",
-    "m": "về lâu dài",
-    "cat": "society",
-    "p": "ɪnðə lˈɔŋ ɹˈʌn",
-    "pos": "Động từ"
-  },
-  {
     "w": "food for thought",
     "m": "điều đáng suy ngẫm",
     "cat": "society",
@@ -2415,13 +1442,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "break the ice",
-    "m": "phá vỡ bầu không khí ngại ngùng, phá vỡ sự im lặng ban đầu, phá vỡ sự ngại ngùng; khởi đầu cuộc trò chuyện",
-    "cat": "society",
-    "p": "bɹˈeɪk ðɪ ˈaɪs",
-    "pos": "Động từ"
-  },
-  {
     "w": "cut corners",
     "m": "làm tắt ẩu",
     "cat": "society",
@@ -2429,24 +1449,10 @@
     "pos": "Động từ"
   },
   {
-    "w": "on the same page",
-    "m": "đồng thuận, hiểu nhau, thống nhất quan điểm",
-    "cat": "society",
-    "p": "ɔnðə sˈeɪm pˈeɪdʒ",
-    "pos": "Động từ"
-  },
-  {
     "w": "a gray area",
     "m": "vùng xám, không rõ ràng",
     "cat": "society",
     "p": "ɐ ɡɹˈeɪ ˈɛɹiə",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "raise awareness",
-    "m": "nâng cao nhận thức",
-    "cat": "society",
-    "p": "ɹˈeɪz ɐwˈɛɹnəs",
     "pos": "Danh từ"
   }
 ]

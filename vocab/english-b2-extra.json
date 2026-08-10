@@ -259,13 +259,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "merger",
-    "p": "mˈɜːdʒɚ",
-    "m": "sự sáp nhập công ty",
-    "cat": "kinh doanh",
-    "pos": "Danh từ"
-  },
-  {
     "w": "monetary policy",
     "p": "mˈɑːnɪtˌɛɹi pˈɑːlɪsi",
     "m": "chính sách tiền tệ",
@@ -278,13 +271,6 @@
     "m": "độc quyền",
     "cat": "kinh doanh",
     "pos": "Danh từ"
-  },
-  {
-    "w": "mortgage",
-    "p": "mˈɔːɹɡɪdʒ",
-    "m": "vay thế chấp, khoản vay mua nhà",
-    "cat": "kinh doanh",
-    "pos": "Động từ"
   },
   {
     "w": "net profit",
@@ -308,13 +294,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "portfolio",
-    "p": "pɔːɹtfˈoʊlɪˌoʊ",
-    "m": "danh mục đầu tư",
-    "cat": "kinh doanh",
-    "pos": "Danh từ"
-  },
-  {
     "w": "procurement",
     "p": "pɹəkjˈʊɹmənt",
     "m": "mua sắm, cung ứng, thu mua",
@@ -329,13 +308,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "recession",
-    "p": "ɹᵻsˈɛʃən",
-    "m": "suy thoái kinh tế",
-    "cat": "kinh doanh",
-    "pos": "Danh từ"
-  },
-  {
     "w": "restructuring",
     "p": "ɹᵻstɹˈʌktʃɚɹɪŋ",
     "m": "tái cơ cấu",
@@ -343,25 +315,11 @@
     "pos": "Động từ"
   },
   {
-    "w": "revenue",
-    "p": "ɹˈɛvənˌuː",
-    "m": "doanh thu",
-    "cat": "kinh doanh",
-    "pos": "Danh từ"
-  },
-  {
     "w": "risk assessment",
     "p": "ɹˈɪsk ɐsˈɛsmənt",
     "m": "đánh giá rủi ro",
     "cat": "kinh doanh",
     "pos": "Động từ"
-  },
-  {
-    "w": "shareholder",
-    "p": "ʃˈɛɹhoʊldɚ",
-    "m": "cổ đông",
-    "cat": "kinh doanh",
-    "pos": "Danh từ"
   },
   {
     "w": "startup",
@@ -424,13 +382,6 @@
     "p": "wˈɜːkɪŋ kˈæpɪɾəl",
     "m": "vốn lưu động",
     "cat": "kinh doanh",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "alliance",
-    "p": "ɐlˈaɪəns",
-    "m": "liên minh, liên kết",
-    "cat": "chính trị",
     "pos": "Danh từ"
   },
   {
@@ -588,13 +539,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "treaty",
-    "p": "tɹˈiːɾi",
-    "m": "hiệp ước, điều ước quốc tế",
-    "cat": "chính trị",
-    "pos": "Danh từ"
-  },
-  {
     "w": "veto",
     "p": "vˈiːɾoʊ",
     "m": "quyền phủ quyết",
@@ -637,13 +581,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "biodiversity",
-    "p": "bˌaɪoʊdaɪvˈɜːsᵻɾi",
-    "m": "đa dạng sinh học",
-    "cat": "thiên nhiên",
-    "pos": "Danh từ"
-  },
-  {
     "w": "black hole",
     "p": "blˈæk hˈoʊl",
     "m": "hố đen vũ trụ",
@@ -665,13 +602,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "climate change",
-    "p": "klˈaɪmət tʃˈeɪndʒ",
-    "m": "biến đổi khí hậu",
-    "cat": "thiên nhiên",
-    "pos": "Động từ"
-  },
-  {
     "w": "cognitive bias",
     "p": "kˈɑːɡnᵻtˌɪv bˈaɪəs",
     "m": "thiên kiến nhận thức",
@@ -683,13 +613,6 @@
     "p": "kəmbˈʌstʃən",
     "m": "sự đốt cháy, phản ứng cháy",
     "cat": "học thuật",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "deforestation",
-    "p": "diːfˌɔːɹɪstˈeɪʃən",
-    "m": "nạn phá rừng",
-    "cat": "thiên nhiên",
     "pos": "Danh từ"
   },
   {
@@ -728,13 +651,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "fossil fuel",
-    "p": "fˈɑːsəl fjˈuːəl",
-    "m": "nhiên liệu hóa thạch",
-    "cat": "thiên nhiên",
-    "pos": "Danh từ"
-  },
-  {
     "w": "genetic mutation",
     "p": "dʒɪnˈɛɾɪk mjuːtˈeɪʃən",
     "m": "đột biến gen",
@@ -756,23 +672,9 @@
     "pos": "Danh từ"
   },
   {
-    "w": "hypothesis",
-    "p": "haɪpˈɑːθəsˌɪs",
-    "m": "giả thuyết khoa học",
-    "cat": "học thuật",
-    "pos": "Danh từ"
-  },
-  {
     "w": "kinetic energy",
     "p": "kᵻnˈɛɾɪk ˈɛnɚdʒi",
     "m": "động năng",
-    "cat": "học thuật",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "metabolism",
-    "p": "mətˈæbəlˌɪzəm",
-    "m": "quá trình trao đổi chất",
     "cat": "học thuật",
     "pos": "Danh từ"
   },
@@ -809,13 +711,6 @@
     "p": "kwˈɔntəm mᵻkˈænɪks",
     "m": "cơ học lượng tử",
     "cat": "học thuật",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "renewable energy",
-    "p": "ɹᵻnˈuːəbəl ˈɛnɚdʒi",
-    "m": "năng lượng tái tạo",
-    "cat": "thiên nhiên",
     "pos": "Danh từ"
   },
   {
@@ -1064,13 +959,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "ambiguous",
-    "p": "æmbˈɪɡjuːəs",
-    "m": "mơ hồ, không rõ ràng, lưỡng nghĩa, có thể hiểu nhiều cách",
-    "cat": "tính từ",
-    "pos": "Tính từ"
-  },
-  {
     "w": "assertive",
     "p": "ɐsˈɜːɾɪv",
     "m": "quyết đoán, tự tin",
@@ -1239,20 +1127,6 @@
     "pos": "Tính từ"
   },
   {
-    "w": "inevitable",
-    "p": "ɪnˈɛvᵻɾəbəl",
-    "m": "không thể tránh khỏi",
-    "cat": "tính từ",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "innovative",
-    "p": "ˈɪnəvˌeɪɾɪv",
-    "m": "sáng tạo, đổi mới, cải tiến",
-    "cat": "tính từ",
-    "pos": "Tính từ"
-  },
-  {
     "w": "insightful",
     "p": "ɪnsˈaɪtfəl",
     "m": "sâu sắc, có cái nhìn thấu đáo",
@@ -1298,13 +1172,6 @@
     "w": "pragmatic",
     "p": "pɹæɡmˈæɾɪk",
     "m": "thực dụng, thiết thực",
-    "cat": "tính từ",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "prevalent",
-    "p": "pɹˈɛvələnt",
-    "m": "phổ biến, thịnh hành",
     "cat": "tính từ",
     "pos": "Tính từ"
   },
@@ -1393,13 +1260,6 @@
     "pos": "Tính từ"
   },
   {
-    "w": "arbitrary",
-    "p": "ˈɑːɹbɪtɹˌɛɹi",
-    "m": "tùy tiện, không có lý do",
-    "cat": "tính từ",
-    "pos": "Tính từ"
-  },
-  {
     "w": "archaic",
     "p": "ɑːɹkˈeɪɪk",
     "m": "cổ hủ, lỗi thời",
@@ -1421,13 +1281,6 @@
     "pos": "Tính từ"
   },
   {
-    "w": "chronic",
-    "p": "kɹˈɑːnɪk",
-    "m": "mãn tính, kéo dài lâu dài",
-    "cat": "tính từ",
-    "pos": "Tính từ"
-  },
-  {
     "w": "clandestine",
     "p": "klændˈɛstɪn",
     "m": "bí mật, hoạt động chui",
@@ -1438,13 +1291,6 @@
     "w": "compelling",
     "p": "kəmpˈɛlɪŋ",
     "m": "thuyết phục, hấp dẫn",
-    "cat": "tính từ",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "comprehensive",
-    "p": "kˌɑːmpɹihˈɛnsɪv",
-    "m": "toàn diện, đầy đủ",
     "cat": "tính từ",
     "pos": "Tính từ"
   },
@@ -1547,13 +1393,6 @@
     "pos": "Tính từ"
   },
   {
-    "w": "opaque",
-    "p": "oʊpˈeɪk",
-    "m": "mờ đục, khó hiểu",
-    "cat": "tính từ",
-    "pos": "Tính từ"
-  },
-  {
     "w": "optimal",
     "p": "ˈɑːptɪməl",
     "m": "tối ưu, tốt nhất có thể",
@@ -1603,13 +1442,6 @@
     "pos": "Tính từ"
   },
   {
-    "w": "radical",
-    "p": "ɹˈædɪkəl",
-    "m": "cực đoan, triệt để",
-    "cat": "tính từ",
-    "pos": "Tính từ"
-  },
-  {
     "w": "relentless",
     "p": "ɹɪlˈɛntləs",
     "m": "không ngừng nghỉ, kiên định",
@@ -1627,13 +1459,6 @@
     "w": "repressive",
     "p": "ɹᵻpɹˈɛsɪv",
     "m": "đàn áp, trấn áp",
-    "cat": "tính từ",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "rigorous",
-    "p": "ɹˈɪɡɚɹəs",
-    "m": "nghiêm ngặt, chặt chẽ",
     "cat": "tính từ",
     "pos": "Tính từ"
   },
@@ -1687,13 +1512,6 @@
     "pos": "Tính từ"
   },
   {
-    "w": "toxic",
-    "p": "tˈɑːksɪk",
-    "m": "độc hại",
-    "cat": "tính từ",
-    "pos": "Tính từ"
-  },
-  {
     "w": "unethical",
     "p": "ʌnˈɛθɪkəl",
     "m": "phi đạo đức, vô lương tâm",
@@ -1722,34 +1540,6 @@
     "pos": "Tính từ"
   },
   {
-    "w": "widespread",
-    "p": "wˈaɪdspɹɛd",
-    "m": "lan rộng, phổ biến",
-    "cat": "tính từ",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "consequently",
-    "p": "kˈɑːnsɪkwəntli",
-    "m": "do đó, kết quả là",
-    "cat": "trạng từ",
-    "pos": "Phó từ"
-  },
-  {
-    "w": "considerably",
-    "p": "kənsˈɪdɚɹəbli",
-    "m": "đáng kể, nhiều",
-    "cat": "trạng từ",
-    "pos": "Phó từ"
-  },
-  {
-    "w": "deliberately",
-    "p": "dᵻlˈɪbɚɹətli",
-    "m": "có chủ ý, cố tình, một cách cố ý",
-    "cat": "trạng từ",
-    "pos": "Phó từ"
-  },
-  {
     "w": "evidently",
     "p": "ˈɛvɪdəntli",
     "m": "rõ ràng, hiển nhiên",
@@ -1760,13 +1550,6 @@
     "w": "fundamentally",
     "p": "fˌʌndəmˈɛntəli",
     "m": "về cơ bản",
-    "cat": "trạng từ",
-    "pos": "Phó từ"
-  },
-  {
-    "w": "gradually",
-    "p": "ɡɹˈædʒuːəli",
-    "m": "dần dần, từng bước",
     "cat": "trạng từ",
     "pos": "Phó từ"
   },
@@ -1806,13 +1589,6 @@
     "pos": "Phó từ"
   },
   {
-    "w": "meanwhile",
-    "p": "mˈiːnwaɪl",
-    "m": "trong khi đó",
-    "cat": "trạng từ",
-    "pos": "Phó từ"
-  },
-  {
     "w": "nonetheless",
     "p": "nˌʌnðəlˈɛs",
     "m": "dù thế nào đi nữa, tuy nhiên, dù vậy",
@@ -1848,13 +1624,6 @@
     "pos": "Phó từ"
   },
   {
-    "w": "subsequently",
-    "p": "sˈʌbsᵻkwəntli",
-    "m": "sau đó, tiếp theo",
-    "cat": "trạng từ",
-    "pos": "Phó từ"
-  },
-  {
     "w": "substantially",
     "p": "səbstˈænʃəli",
     "m": "đáng kể, nhiều",
@@ -1865,13 +1634,6 @@
     "w": "theoretically",
     "p": "θiəɹˈɛɾɪkli",
     "m": "về mặt lý thuyết",
-    "cat": "trạng từ",
-    "pos": "Phó từ"
-  },
-  {
-    "w": "accordingly",
-    "p": "ɐkˈɔːɹdɪŋli",
-    "m": "tương ứng, do vậy, do đó, theo đó",
     "cat": "trạng từ",
     "pos": "Phó từ"
   },
@@ -1890,30 +1652,9 @@
     "pos": "Phó từ"
   },
   {
-    "w": "acknowledge",
-    "p": "ɐknˈɑːlɪdʒ",
-    "m": "thừa nhận, công nhận",
-    "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
-    "w": "advocate",
-    "p": "ˈædvəkˌeɪt",
-    "m": "vận động, ủng hộ",
-    "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
     "w": "alleviate",
     "p": "ɐlˈiːvɪˌeɪt",
     "m": "giảm nhẹ, xoa dịu",
-    "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
-    "w": "anticipate",
-    "p": "æntˈɪsᵻpˌeɪt",
-    "m": "dự đoán, mong chờ, mong đợi, dự kiến, tiên liệu, lường trước",
     "cat": "hành động",
     "pos": "Động từ"
   },
@@ -1935,13 +1676,6 @@
     "w": "circumvent",
     "p": "sˈɜːkəmvˌɛnt",
     "m": "né tránh, lách qua",
-    "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
-    "w": "collaborate",
-    "p": "kəlˈæbɚɹˌeɪt",
-    "m": "hợp tác, cộng tác",
     "cat": "hành động",
     "pos": "Động từ"
   },
@@ -2030,13 +1764,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "implement",
-    "p": "ˈɪmplɪmənt",
-    "m": "thực hiện, triển khai",
-    "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
     "w": "incorporate",
     "p": "ɪŋkˈɔːɹpɚɹˌeɪt",
     "m": "kết hợp, đưa vào",
@@ -2058,13 +1785,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "justify",
-    "p": "dʒˈʌstᵻfˌaɪ",
-    "m": "biện minh, chứng minh tính hợp lý",
-    "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
     "w": "leverage",
     "p": "lˈɛvɚɹɪdʒ",
     "m": "đòn bẩy, tận dụng lợi thế, khai thác lợi thế",
@@ -2082,13 +1802,6 @@
     "w": "mitigate",
     "p": "mˈɪɾᵻɡˌeɪt",
     "m": "giảm thiểu, làm dịu",
-    "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
-    "w": "negotiate",
-    "p": "nᵻɡˈoʊʃɪˌeɪt",
-    "m": "đàm phán, thương lượng",
     "cat": "hành động",
     "pos": "Động từ"
   },
@@ -2131,13 +1844,6 @@
     "w": "streamline",
     "p": "stɹˈiːmlaɪn",
     "m": "tinh gọn hóa, tối ưu hóa quy trình",
-    "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
-    "w": "sustain",
-    "p": "səstˈeɪn",
-    "m": "duy trì, bảo tồn",
     "cat": "hành động",
     "pos": "Động từ"
   },
@@ -2194,13 +1900,6 @@
     "w": "distort",
     "p": "dɪstˈɔːɹt",
     "m": "bóp méo, làm sai lệch",
-    "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
-    "w": "enforce",
-    "p": "ɛnfˈɔːɹs",
-    "m": "thực thi, thi hành",
     "cat": "hành động",
     "pos": "Động từ"
   },
@@ -2317,13 +2016,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "reinforce",
-    "p": "ɹˌiːɪnfˈɔːɹs",
-    "m": "củng cố, tăng cường",
-    "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
     "w": "sabotage",
     "p": "sˈæbətˌɑːʒ",
     "m": "phá hoại ngầm",
@@ -2401,13 +2093,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "discrimination",
-    "p": "dɪskɹˌɪmᵻnˈeɪʃən",
-    "m": "sự phân biệt đối xử",
-    "cat": "xã hội",
-    "pos": "Danh từ"
-  },
-  {
     "w": "disparity",
     "p": "dɪspˈæɹᵻɾi",
     "m": "sự bất bình đẳng, chênh lệch",
@@ -2422,27 +2107,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "gender equality",
-    "p": "dʒˈɛndɚɹ iːkwˈɔlᵻɾi",
-    "m": "bình đẳng giới",
-    "cat": "xã hội",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "human rights",
-    "p": "hjˈuːmən ɹˈaɪts",
-    "m": "quyền con người",
-    "cat": "xã hội",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "immigration",
-    "p": "ˌɪmɪɡɹˈeɪʃən",
-    "m": "xuất nhập cảnh, nhập cư",
-    "cat": "xã hội",
-    "pos": "Danh từ"
-  },
-  {
     "w": "inclusion",
     "p": "ɪŋklˈuːʒən",
     "m": "sự hòa nhập, bao gồm tất cả",
@@ -2450,23 +2114,9 @@
     "pos": "Danh từ"
   },
   {
-    "w": "inequality",
-    "p": "ɪniːkwˈɔlᵻɾi",
-    "m": "sự bất bình đẳng",
-    "cat": "xã hội",
-    "pos": "Danh từ"
-  },
-  {
     "w": "marginalized",
     "p": "mˈɑːɹdʒɪnəlˌaɪzd",
     "m": "bị gạt ra ngoài lề xã hội",
-    "cat": "xã hội",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "migration",
-    "p": "maɪɡɹˈeɪʃən",
-    "m": "sự di cư, thiên di",
     "cat": "xã hội",
     "pos": "Danh từ"
   },
@@ -2485,39 +2135,11 @@
     "pos": "Danh từ"
   },
   {
-    "w": "poverty line",
-    "p": "pˈɑːvɚɾi lˈaɪn",
-    "m": "ngưỡng nghèo",
-    "cat": "xã hội",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "prejudice",
-    "p": "pɹˈɛdʒuːdɪs",
-    "m": "thành kiến, định kiến",
-    "cat": "xã hội",
-    "pos": "Động từ"
-  },
-  {
-    "w": "refugee",
-    "p": "ɹˈɛfjuːdʒˌiː",
-    "m": "người tị nạn",
-    "cat": "xã hội",
-    "pos": "Danh từ"
-  },
-  {
     "w": "social mobility",
     "p": "sˈoʊʃəl moʊbˈɪlᵻɾi",
     "m": "sự dịch chuyển xã hội",
     "cat": "xã hội",
     "pos": "Danh từ"
-  },
-  {
-    "w": "stereotype",
-    "p": "stˈɛɹɪˌoʊtaɪp",
-    "m": "định kiến, khuôn mẫu rập khuôn",
-    "cat": "xã hội",
-    "pos": "Động từ"
   },
   {
     "w": "stigma",
@@ -2534,13 +2156,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "welfare",
-    "p": "wˈɛlfɛɹ",
-    "m": "phúc lợi xã hội",
-    "cat": "xã hội",
-    "pos": "Danh từ"
-  },
-  {
     "w": "solidarity",
     "p": "sˌɑːlɪdˈæɹᵻɾi",
     "m": "tinh thần đoàn kết",
@@ -2553,34 +2168,6 @@
     "m": "sự bất đồng, phản đối",
     "cat": "xã hội",
     "pos": "Động từ"
-  },
-  {
-    "w": "algorithm",
-    "p": "ˈælɡɚɹˌɪθəm",
-    "m": "thuật toán",
-    "cat": "công nghệ",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "artificial intelligence",
-    "p": "ˌɑːɹɾɪfˈɪʃəl ɪntˈɛlɪdʒəns",
-    "m": "trí tuệ nhân tạo",
-    "cat": "công nghệ",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "automation",
-    "p": "ˌɔːɾəmˈeɪʃən",
-    "m": "tự động hóa",
-    "cat": "công nghệ",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "bandwidth",
-    "p": "bˈændwɪdθ",
-    "m": "băng thông",
-    "cat": "công nghệ",
-    "pos": "Danh từ"
   },
   {
     "w": "biometric",
@@ -2695,13 +2282,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "genre",
-    "p": "ʒˈɑːnɹə",
-    "m": "thể loại văn học, nghệ thuật",
-    "cat": "nghệ thuật",
-    "pos": "Danh từ"
-  },
-  {
     "w": "improvisation",
     "p": "ˌɪmpɹəvəzˈeɪʃən",
     "m": "sự ứng tấu, sáng tác ngẫu hứng",
@@ -2768,13 +2348,6 @@
     "w": "paradigm",
     "p": "pˈæɹədˌaɪm",
     "m": "mô hình tư duy, hệ thống quan điểm, khuôn mẫu nhận thức, hệ hình, khuôn mẫu tư duy",
-    "cat": "học thuật",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "phenomenon",
-    "p": "fɪnˈɑːmɪnən",
-    "m": "hiện tượng",
     "cat": "học thuật",
     "pos": "Danh từ"
   },

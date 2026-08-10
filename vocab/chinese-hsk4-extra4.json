@@ -60,26 +60,6 @@
     "cat": "đồ vật"
   },
   {
-    "w": "陶瓷",
-    "p": "táocí",
-    "m": "đồ gốm sứ",
-    "example": "这些陶瓷很精美。",
-    "example_vi": "Những món đồ gốm sứ này rất tinh xảo.",
-    "me": "ceramics, porcelain",
-    "pos": "Danh từ",
-    "cat": "noun"
-  },
-  {
-    "w": "腌制",
-    "p": "yānzhì",
-    "m": "ướp, muối",
-    "example": "这道菜需要提前腌制。",
-    "example_vi": "Món ăn này cần được ướp trước.",
-    "me": "cure, salt",
-    "pos": "Danh từ",
-    "cat": "ẩm thực"
-  },
-  {
     "w": "发酵",
     "p": "fājiào",
     "m": "lên men",
@@ -1680,16 +1660,6 @@
     "cat": "noun"
   },
   {
-    "w": "丝绸",
-    "p": "sīchóu",
-    "m": "lụa tơ tằm",
-    "example": "中国的丝绸非常有名。",
-    "example_vi": "Lụa tơ tằm của Trung Quốc rất nổi tiếng.",
-    "me": "silk",
-    "pos": "Danh từ",
-    "cat": "noun"
-  },
-  {
     "w": "羊毛",
     "p": "yángmáo",
     "m": "len, lông cừu",
@@ -1816,16 +1786,6 @@
     "example": "理疗师帮他按摩腰部。",
     "example_vi": "Kỹ thuật viên vật lý trị liệu giúp anh ấy xoa bóp vùng lưng.",
     "me": "physiotherapist",
-    "pos": "Danh từ",
-    "cat": "health"
-  },
-  {
-    "w": "营养师",
-    "p": "yíngyǎngshī",
-    "m": "chuyên viên dinh dưỡng",
-    "example": "营养师给她制定了饮食计划。",
-    "example_vi": "Chuyên viên dinh dưỡng đã lập kế hoạch ăn uống cho cô ấy.",
-    "me": "nutritionist",
     "pos": "Danh từ",
     "cat": "health"
   },
@@ -2180,26 +2140,6 @@
     "cat": "weather"
   },
   {
-    "w": "冰雹",
-    "p": "bīngbáo",
-    "m": "mưa đá",
-    "example": "昨天下了一场冰雹。",
-    "example_vi": "Hôm qua có một trận mưa đá.",
-    "me": "hail",
-    "pos": "Danh từ",
-    "cat": "thời tiết"
-  },
-  {
-    "w": "霜冻",
-    "p": "shuāngdòng",
-    "m": "sương giá",
-    "example": "早晨地面上有霜冻。",
-    "example_vi": "Buổi sáng trên mặt đất có sương giá.",
-    "me": "frost",
-    "pos": "Danh từ",
-    "cat": "thời tiết"
-  },
-  {
     "w": "融雪",
     "p": "róngxuě",
     "m": "tan tuyết",
@@ -2288,26 +2228,6 @@
     "me": "fry and stir-fry",
     "pos": "Động từ",
     "cat": "verb"
-  },
-  {
-    "w": "爆炒",
-    "p": "bàochǎo",
-    "m": "xào lửa lớn",
-    "example": "这盘菜是用大火爆炒的。",
-    "example_vi": "Món ăn này được xào bằng lửa lớn.",
-    "me": "stir-fry over high heat",
-    "pos": "Danh từ",
-    "cat": "ẩm thực"
-  },
-  {
-    "w": "清蒸",
-    "p": "qīngzhēng",
-    "m": "hấp thanh đạm",
-    "example": "清蒸鱼很受欢迎。",
-    "example_vi": "Cá hấp thanh đạm rất được ưa chuộng.",
-    "me": "light steaming",
-    "pos": "Động từ",
-    "cat": "ẩm thực"
   },
   {
     "w": "荤菜",
@@ -2520,26 +2440,6 @@
     "cat": "sport"
   },
   {
-    "w": "拳击",
-    "p": "quánjī",
-    "m": "quyền anh",
-    "example": "他每周去练拳击。",
-    "example_vi": "Mỗi tuần cậu ấy đi tập quyền anh.",
-    "me": "boxing",
-    "pos": "Danh từ",
-    "cat": "sport"
-  },
-  {
-    "w": "击剑",
-    "p": "jījiàn",
-    "m": "đấu kiếm",
-    "example": "击剑是一项优雅的运动。",
-    "example_vi": "Đấu kiếm là một môn thể thao thanh lịch.",
-    "me": "fencing",
-    "pos": "Danh từ",
-    "cat": "sport"
-  },
-  {
     "w": "射箭",
     "p": "shèjiàn",
     "m": "bắn cung",
@@ -2606,16 +2506,6 @@
     "example": "这场比赛最终以平局结束。",
     "example_vi": "Trận đấu này cuối cùng kết thúc với tỷ số hòa.",
     "me": "draw (a match)",
-    "pos": "Danh từ",
-    "cat": "sport"
-  },
-  {
-    "w": "季军",
-    "p": "jìjūn",
-    "m": "hạng ba",
-    "example": "他获得了这次比赛的季军。",
-    "example_vi": "Cậu ấy đã đạt hạng ba trong cuộc thi lần này.",
-    "me": "third place",
     "pos": "Danh từ",
     "cat": "sport"
   },

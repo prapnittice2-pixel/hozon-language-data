@@ -1,149 +1,5 @@
 [
   {
-    "w": "逻辑",
-    "p": "luó jí",
-    "m": "logic",
-    "cat": "academic",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "辩证",
-    "p": "biàn zhèng",
-    "m": "biện chứng",
-    "cat": "academic",
-    "me": "dialectical",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "抽象",
-    "p": "chōu xiàng",
-    "m": "trừu tượng",
-    "cat": "academic",
-    "me": "abstract",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "具体",
-    "p": "jù tǐ",
-    "m": "cụ thể",
-    "cat": "academic",
-    "me": "specific",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "概括",
-    "p": "gài kuò",
-    "m": "khái quát",
-    "cat": "academic",
-    "me": "generalize",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "归纳",
-    "p": "guī nà",
-    "m": "quy nạp",
-    "cat": "academic",
-    "me": "induction (logic)",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "演绎",
-    "p": "yǎn yì",
-    "m": "diễn dịch",
-    "cat": "academic",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "推理",
-    "p": "tuī lǐ",
-    "m": "suy luận",
-    "cat": "academic",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "论证",
-    "p": "lùn zhèng",
-    "m": "luận chứng",
-    "cat": "academic",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "假设",
-    "p": "jiǎ shè",
-    "m": "giả thuyết",
-    "cat": "academic",
-    "me": "hypothesis",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "前提",
-    "p": "qián tí",
-    "m": "tiền đề",
-    "cat": "academic",
-    "me": "premise",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "结论",
-    "p": "jié lùn",
-    "m": "kết luận",
-    "cat": "academic",
-    "me": "conclusion",
-    "pos": "Động từ"
-  },
-  {
-    "w": "依据",
-    "p": "yī jù",
-    "m": "căn cứ",
-    "cat": "academic",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "论据",
-    "p": "lùn jù",
-    "m": "luận cứ",
-    "cat": "academic",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "范畴",
-    "p": "fàn chóu",
-    "m": "phạm trù",
-    "cat": "academic",
-    "me": "category",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "本质",
-    "p": "běn zhì",
-    "m": "bản chất",
-    "cat": "academic",
-    "me": "essence, nature",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "内涵",
-    "p": "nèi hán",
-    "m": "hàm nghĩa, nội hàm",
-    "cat": "academic",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "外延",
-    "p": "wài yán",
-    "m": "ngoại diên",
-    "cat": "academic",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "实质",
-    "p": "shí zhì",
-    "m": "thực chất",
-    "cat": "academic",
-    "me": "substance, essence",
-    "pos": "Danh từ"
-  },
-  {
     "w": "要素",
     "p": "yào sù",
     "m": "yếu tố",
@@ -154,87 +10,11 @@
     "pos": "Danh từ"
   },
   {
-    "w": "机制",
-    "p": "jī zhì",
-    "m": "cơ chế",
-    "cat": "academic",
-    "me": "mechanism",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "体制",
-    "p": "tǐ zhì",
-    "m": "thể chế",
-    "cat": "academic",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "格局",
-    "p": "gé jú",
-    "m": "cục diện, bố cục, khuôn khổ, quy mô",
-    "cat": "academic",
-    "me": "situation, layout, framework, scale",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "框架",
-    "p": "kuàng jià",
-    "m": "khung, cấu trúc, khuôn khổ, sườn",
-    "cat": "academic",
-    "me": "frame, structure, framework",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "模式",
-    "p": "mó shì",
-    "m": "mô hình",
-    "cat": "academic",
-    "me": "model",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "结构",
-    "p": "jié gòu",
-    "m": "cấu trúc",
-    "cat": "academic",
-    "me": "structure",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "层次",
-    "p": "céng cì",
-    "m": "tầng nấc, cấp độ",
-    "cat": "academic",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "维度",
-    "p": "wéi dù",
-    "m": "chiều, góc độ, khía cạnh",
-    "cat": "academic",
-    "me": "dimension, angle, aspect",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "脉络",
-    "p": "mài luò",
-    "m": "mạch lạc, mạch nguồn",
-    "cat": "academic",
-    "pos": "Danh từ"
-  },
-  {
     "w": "雏形",
     "p": "chú xíng",
     "m": "hình hài ban đầu",
     "cat": "academic",
     "me": "original form",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "瓶颈",
-    "p": "píng jǐng",
-    "m": "nút thắt cổ chai",
-    "cat": "academic",
     "pos": "Danh từ"
   },
   {
@@ -266,28 +46,12 @@
     "pos": "Danh từ"
   },
   {
-    "w": "潜力",
-    "p": "qián lì",
-    "m": "tiềm năng",
-    "cat": "academic",
-    "me": "potential",
-    "pos": "Danh từ"
-  },
-  {
     "w": "潜能",
     "p": "qián néng",
     "m": "tiềm năng ẩn",
     "cat": "academic",
     "me": "latent potential",
     "pos": "Danh từ"
-  },
-  {
-    "w": "渗透",
-    "p": "shèn tòu",
-    "m": "thấm vào, xâm nhập, thẩm thấu, thâm nhập",
-    "cat": "academic",
-    "me": "permeate, infiltrate, seep into",
-    "pos": "Động từ"
   },
   {
     "w": "贯彻",
@@ -327,21 +91,6 @@
     "example": "请斟酌措辞。",
     "example_vi": "Xin hãy cân nhắc kỹ lưỡng cách dùng từ.",
     "me": "weigh carefully",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "权衡",
-    "p": "quán héng",
-    "m": "cân nhắc lợi hại",
-    "cat": "academic",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "遏制",
-    "p": "è zhì",
-    "m": "kiềm chế, ngăn chặn",
-    "cat": "policy",
-    "me": "containment",
     "pos": "Danh từ"
   },
   {
@@ -385,14 +134,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "强化",
-    "p": "qiáng huà",
-    "m": "tăng cường",
-    "cat": "society",
-    "me": "strengthen, enhance",
-    "pos": "Động từ"
-  },
-  {
     "w": "弱化",
     "p": "ruò huà",
     "m": "làm suy yếu",
@@ -403,30 +144,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "深化",
-    "p": "shēn huà",
-    "m": "đào sâu, làm sâu sắc thêm, nâng cao, đi sâu",
-    "cat": "society",
-    "me": "delve deeper, deepen, enhance",
-    "pos": "Động từ"
-  },
-  {
-    "w": "优化",
-    "p": "yōu huà",
-    "m": "tối ưu hóa",
-    "cat": "academic",
-    "me": "optimize",
-    "pos": "Động từ"
-  },
-  {
-    "w": "简化",
-    "p": "jiǎn huà",
-    "m": "đơn giản hóa",
-    "cat": "academic",
-    "me": "simplify",
-    "pos": "Động từ"
-  },
-  {
     "w": "细化",
     "p": "xì huà",
     "m": "chi tiết hóa",
@@ -434,21 +151,6 @@
     "example": "计划需要进一步细化。",
     "example_vi": "Kế hoạch cần được chi tiết hóa hơn nữa.",
     "me": "elaborate, detail",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "量化",
-    "p": "liàng huà",
-    "m": "định lượng hóa",
-    "cat": "academic",
-    "me": "quantify",
-    "pos": "Động từ"
-  },
-  {
-    "w": "规范",
-    "p": "guī fàn",
-    "m": "chuẩn mực, quy phạm",
-    "cat": "society",
     "pos": "Danh từ"
   },
   {
@@ -478,14 +180,6 @@
     "example_vi": "Các bộ phận phải phối hợp đồng bộ làm việc.",
     "me": "synchronized coordination",
     "pos": "Động từ"
-  },
-  {
-    "w": "配套",
-    "p": "pèi tào",
-    "m": "đi kèm, phối bộ, đồng bộ, ăn khớp",
-    "cat": "work",
-    "me": "to go together, match, be in sync",
-    "pos": "Tính từ"
   },
   {
     "w": "对接",
@@ -528,13 +222,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "严谨",
-    "p": "yán jǐn",
-    "m": "nghiêm cẩn",
-    "cat": "academic",
-    "pos": "Danh từ"
-  },
-  {
     "w": "严峻",
     "p": "yán jùn",
     "m": "nghiêm trọng, gay gắt",
@@ -575,13 +262,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "卓越",
-    "p": "zhuó yuè",
-    "m": "xuất chúng",
-    "cat": "academic",
-    "pos": "Danh từ"
-  },
-  {
     "w": "杰出",
     "p": "jié chū",
     "m": "kiệt xuất",
@@ -592,116 +272,6 @@
     "pos": "Tính từ"
   },
   {
-    "w": "显著",
-    "p": "xiǎn zhù",
-    "m": "rõ rệt, đáng kể, đáng chú ý, rõ ràng, nổi bật",
-    "cat": "academic",
-    "me": "marked, significant, notable, prominent",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "突出",
-    "p": "tū chū",
-    "m": "nổi bật",
-    "cat": "academic",
-    "pos": "Động từ"
-  },
-  {
-    "w": "独特",
-    "p": "dú tè",
-    "m": "độc đáo",
-    "cat": "academic",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "典型",
-    "p": "diǎn xíng",
-    "m": "điển hình",
-    "cat": "academic",
-    "me": "typical",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "普遍",
-    "p": "pǔ biàn",
-    "m": "phổ biến",
-    "cat": "academic",
-    "me": "popular",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "局限",
-    "p": "jú xiàn",
-    "m": "hạn chế, giới hạn",
-    "cat": "academic",
-    "me": "restrict",
-    "pos": "Động từ"
-  },
-  {
-    "w": "片面",
-    "p": "piàn miàn",
-    "m": "phiến diện",
-    "cat": "academic",
-    "me": "one-sided, biased",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "全面",
-    "p": "quán miàn",
-    "m": "toàn diện",
-    "cat": "academic",
-    "me": "comprehensive",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "系统",
-    "p": "xì tǒng",
-    "m": "hệ thống",
-    "cat": "academic",
-    "me": "system",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "综合",
-    "p": "zōng hé",
-    "m": "tổng hợp",
-    "cat": "academic",
-    "me": "synthesis",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "协调",
-    "p": "xié tiáo",
-    "m": "phối hợp, điều hòa, điều phối, hài hòa",
-    "cat": "society",
-    "me": "coordinate, harmonize",
-    "pos": "Động từ"
-  },
-  {
-    "w": "均衡",
-    "p": "jūn héng",
-    "m": "cân bằng",
-    "cat": "society",
-    "me": "balance",
-    "pos": "Động từ"
-  },
-  {
-    "w": "失衡",
-    "p": "shī héng",
-    "m": "mất cân bằng",
-    "cat": "society",
-    "me": "imbalanced",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "差异",
-    "p": "chā yì",
-    "m": "sự khác biệt",
-    "cat": "society",
-    "me": "difference",
-    "pos": "Danh từ"
-  },
-  {
     "w": "分歧",
     "p": "fēn qí",
     "m": "bất đồng",
@@ -710,30 +280,6 @@
     "example_vi": "Hai bên tồn tại bất đồng.",
     "me": "disagreement",
     "pos": "Danh từ"
-  },
-  {
-    "w": "共识",
-    "p": "gòng shí",
-    "m": "đồng thuận",
-    "cat": "society",
-    "me": "consensus",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "妥协",
-    "p": "tuǒ xié",
-    "m": "thỏa hiệp",
-    "cat": "society",
-    "me": "compromise",
-    "pos": "Động từ"
-  },
-  {
-    "w": "博弈",
-    "p": "bó yì",
-    "m": "đấu tranh, trò chơi chiến lược, đấu trí, cuộc chơi",
-    "cat": "society",
-    "me": "struggle, strategy game, battle of wits",
-    "pos": "Động từ"
   },
   {
     "w": "较量",
@@ -753,13 +299,6 @@
     "example": "这家公司足以与对手抗衡。",
     "example_vi": "Công ty này đủ sức đối kháng cân sức với đối thủ.",
     "me": "evenly matched confrontation",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "制约",
-    "p": "zhì yuē",
-    "m": "ràng buộc, chế ước",
-    "cat": "society",
     "pos": "Danh từ"
   },
   {
@@ -803,37 +342,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "载体",
-    "p": "zài tǐ",
-    "m": "vật mang, phương tiện",
-    "cat": "academic",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "媒介",
-    "p": "méi jiè",
-    "m": "trung gian, môi giới",
-    "cat": "academic",
-    "me": "intermediary, broker",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "纽带",
-    "p": "niǔ dài",
-    "m": "sợi dây liên kết",
-    "cat": "society",
-    "me": "connecting thread",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "桥梁",
-    "p": "qiáo liáng",
-    "m": "cầu nối",
-    "cat": "society",
-    "me": "bridge, link",
-    "pos": "Danh từ"
-  },
-  {
     "w": "枢纽",
     "p": "shū niǔ",
     "m": "đầu mối trung tâm",
@@ -841,21 +349,6 @@
     "example": "这座城市是交通枢纽。",
     "example_vi": "Thành phố này là đầu mối giao thông trung tâm.",
     "me": "central hub",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "核心",
-    "p": "hé xīn",
-    "m": "hạt nhân, cốt lõi",
-    "cat": "academic",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "焦点",
-    "p": "jiāo diǎn",
-    "m": "tiêu điểm",
-    "cat": "society",
-    "me": "focal point",
     "pos": "Danh từ"
   },
   {
@@ -889,21 +382,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "重心",
-    "p": "zhòng xīn",
-    "m": "trọng tâm",
-    "cat": "academic",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "侧重",
-    "p": "cè zhòng",
-    "m": "tập trung vào một phía, thiên về, chú trọng",
-    "cat": "academic",
-    "me": "focus on one side, lean toward, emphasize",
-    "pos": "Danh từ"
-  },
-  {
     "w": "倾向",
     "p": "qīng xiàng",
     "m": "xu hướng, khuynh hướng",
@@ -914,21 +392,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "动态",
-    "p": "dòng tài",
-    "m": "động thái, tình hình, năng động, biến động",
-    "cat": "society",
-    "me": "dynamics, developments",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "态势",
-    "p": "tài shì",
-    "m": "thế cục, tình thế",
-    "cat": "society",
-    "pos": "Danh từ"
-  },
-  {
     "w": "局势",
     "p": "jú shì",
     "m": "tình hình, cục thế",
@@ -936,13 +399,6 @@
     "example": "当前局势比较紧张。",
     "example_vi": "Tình hình hiện nay khá căng thẳng.",
     "me": "situation, state of affairs",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "氛围",
-    "p": "fēn wéi",
-    "m": "bầu không khí",
-    "cat": "society",
     "pos": "Danh từ"
   },
   {
@@ -1014,14 +470,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "先例",
-    "p": "xiān lì",
-    "m": "tiền lệ",
-    "cat": "law",
-    "me": "precedent",
-    "pos": "Danh từ"
-  },
-  {
     "w": "惯性",
     "p": "guàn xìng",
     "m": "quán tính",
@@ -1059,51 +507,6 @@
     "example": "这项制度具有刚性。",
     "example_vi": "Chế độ này mang tính cứng nhắc.",
     "me": "rigidity",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "局部",
-    "p": "jú bù",
-    "m": "cục bộ",
-    "cat": "academic",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "整体",
-    "p": "zhěng tǐ",
-    "m": "chỉnh thể, tổng thể",
-    "cat": "academic",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "宏观",
-    "p": "hóng guān",
-    "m": "vĩ mô",
-    "cat": "economics",
-    "me": "macro",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "微观",
-    "p": "wēi guān",
-    "m": "vi mô",
-    "cat": "economics",
-    "me": "micro, microscopic",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "调控",
-    "p": "tiáo kòng",
-    "m": "điều tiết kiểm soát",
-    "cat": "economics",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "杠杆",
-    "p": "gàng gǎn",
-    "m": "đòn bẩy",
-    "cat": "economics",
-    "me": "lever, leverage",
     "pos": "Danh từ"
   },
   {
@@ -1192,13 +595,6 @@
     "example": "市场持续低迷。",
     "example_vi": "Thị trường tiếp tục ảm đạm.",
     "me": "gloomy, stagnant",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "繁荣",
-    "p": "fán róng",
-    "m": "phồn vinh",
-    "cat": "economics",
     "pos": "Danh từ"
   },
   {
@@ -1302,13 +698,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "精髓",
-    "p": "jīng suǐ",
-    "m": "tinh túy",
-    "cat": "culture",
-    "pos": "Danh từ"
-  },
-  {
     "w": "精华",
     "p": "jīng huá",
     "m": "tinh hoa",
@@ -1349,20 +738,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "升华",
-    "p": "shēng huá",
-    "m": "thăng hoa",
-    "cat": "academic",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "蜕变",
-    "p": "tuì biàn",
-    "m": "lột xác, biến đổi",
-    "cat": "academic",
-    "pos": "Động từ"
-  },
-  {
     "w": "嬗变",
     "p": "shàn biàn",
     "m": "sự diễn biến, biến thiên",
@@ -1373,13 +748,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "演变",
-    "p": "yǎn biàn",
-    "m": "diễn biến",
-    "cat": "academic",
-    "pos": "Danh từ"
-  },
-  {
     "w": "变迁",
     "p": "biàn qiān",
     "m": "biến thiên, đổi dời",
@@ -1387,20 +755,6 @@
     "example": "这座城市经历了巨大变迁。",
     "example_vi": "Thành phố này đã trải qua sự biến thiên to lớn.",
     "me": "change, shift",
-    "pos": "Động từ"
-  },
-  {
-    "w": "转型",
-    "p": "zhuǎn xíng",
-    "m": "chuyển đổi mô hình",
-    "cat": "economics",
-    "pos": "Động từ"
-  },
-  {
-    "w": "转化",
-    "p": "zhuǎn huà",
-    "m": "chuyển hóa",
-    "cat": "academic",
     "pos": "Động từ"
   },
   {
@@ -1424,13 +778,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "衍生",
-    "p": "yǎn shēng",
-    "m": "phái sinh",
-    "cat": "academic",
-    "pos": "Danh từ"
-  },
-  {
     "w": "派生",
     "p": "pài shēng",
     "m": "sinh ra từ, dẫn xuất",
@@ -1439,13 +786,6 @@
     "example_vi": "Từ này dẫn xuất ra rất nhiều nghĩa.",
     "me": "originate from, derive from",
     "pos": "Động từ"
-  },
-  {
-    "w": "孕育",
-    "p": "yùn yù",
-    "m": "thai nghén, ấp ủ",
-    "cat": "academic",
-    "pos": "Danh từ"
   },
   {
     "w": "萌芽",
@@ -1518,30 +858,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "重组",
-    "p": "chóng zǔ",
-    "m": "tái cơ cấu",
-    "cat": "economics",
-    "me": "restructuring",
-    "pos": "Động từ"
-  },
-  {
-    "w": "整合",
-    "p": "zhěng hé",
-    "m": "tích hợp, hợp nhất",
-    "cat": "economics",
-    "me": "integrate, merge",
-    "pos": "Động từ"
-  },
-  {
-    "w": "融合",
-    "p": "róng hé",
-    "m": "hòa nhập, hợp nhất, kết hợp, dung hợp, hội nhập",
-    "cat": "society",
-    "me": "integrate, merge, blend",
-    "pos": "Động từ"
-  },
-  {
     "w": "交融",
     "p": "jiāo róng",
     "m": "giao hòa",
@@ -1550,34 +866,6 @@
     "example_vi": "Hai nền văn hóa giao hòa tại đây.",
     "me": "harmonize, blend",
     "pos": "Động từ"
-  },
-  {
-    "w": "渗入",
-    "p": "shèn rù",
-    "m": "thấm vào",
-    "cat": "academic",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "嵌入",
-    "p": "qiàn rù",
-    "m": "nhúng vào, lồng ghép",
-    "cat": "tech",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "植入",
-    "p": "zhí rù",
-    "m": "cấy ghép, đưa vào",
-    "cat": "tech",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "剥离",
-    "p": "bō lí",
-    "m": "tách bóc",
-    "cat": "economics",
-    "pos": "Danh từ"
   },
   {
     "w": "分化",
@@ -1607,30 +895,6 @@
     "example": "不能割裂历史与现实。",
     "example_vi": "Không thể cắt rời lịch sử với hiện thực.",
     "me": "cut apart, divide",
-    "pos": "Động từ"
-  },
-  {
-    "w": "对立",
-    "p": "duì lì",
-    "m": "đối lập",
-    "cat": "academic",
-    "me": "opposition, contrast",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "统一",
-    "p": "tǒng yī",
-    "m": "thống nhất",
-    "cat": "politics",
-    "me": "unify",
-    "pos": "Động từ"
-  },
-  {
-    "w": "凝聚",
-    "p": "níng jù",
-    "m": "tụ lại, đoàn kết, cố kết, gắn kết",
-    "cat": "society",
-    "me": "gather, unite, cohere, bond",
     "pos": "Động từ"
   },
   {
@@ -1714,29 +978,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "风险",
-    "p": "fēng xiǎn",
-    "m": "rủi ro",
-    "cat": "economics",
-    "me": "risk",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "危机",
-    "p": "wēi jī",
-    "m": "khủng hoảng",
-    "cat": "society",
-    "me": "crisis",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "契机",
-    "p": "qì jī",
-    "m": "cơ duyên, thời cơ",
-    "cat": "society",
-    "pos": "Danh từ"
-  },
-  {
     "w": "转机",
     "p": "zhuǎn jī",
     "m": "bước ngoặt tốt lên",
@@ -1744,21 +985,6 @@
     "example": "事情出现了转机。",
     "example_vi": "Sự việc đã xuất hiện bước ngoặt tốt lên.",
     "me": "a turning point for the better",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "机遇",
-    "p": "jī yù",
-    "m": "cơ hội, vận hội",
-    "cat": "society",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "挑战",
-    "p": "tiǎo zhàn",
-    "m": "thách thức",
-    "cat": "society",
-    "me": "challenge",
     "pos": "Danh từ"
   },
   {
@@ -1790,22 +1016,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "积极",
-    "p": "jī jí",
-    "m": "tích cực",
-    "cat": "emotion",
-    "me": "positive",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "消极",
-    "p": "xiāo jí",
-    "m": "tiêu cực",
-    "cat": "emotion",
-    "me": "negative",
-    "pos": "Tính từ"
-  },
-  {
     "w": "热忱",
     "p": "rè chén",
     "m": "nhiệt thành",
@@ -1814,14 +1024,6 @@
     "example_vi": "Anh ấy tràn đầy nhiệt thành với công việc.",
     "me": "enthusiastic, fervent",
     "pos": "Danh từ"
-  },
-  {
-    "w": "执着",
-    "p": "zhí zhuó",
-    "m": "kiên định, khắng khít, kiên trì bám đuổi",
-    "cat": "emotion",
-    "me": "steadfast, tightly bonded, persistently pursuing",
-    "pos": "Động từ"
   },
   {
     "w": "坚韧",
@@ -1962,13 +1164,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "含蓄",
-    "p": "hán xù",
-    "m": "hàm súc kín đáo",
-    "cat": "emotion",
-    "pos": "Danh từ"
-  },
-  {
     "w": "婉转",
     "p": "wǎn zhuǎn",
     "m": "uyển chuyển nhẹ nhàng",
@@ -1995,14 +1190,6 @@
     "example_vi": "Anh ấy đã chân thành cởi mở bày tỏ suy nghĩ của mình.",
     "me": "sincere and open",
     "pos": "Danh từ"
-  },
-  {
-    "w": "虚伪",
-    "p": "xū wěi",
-    "m": "giả dối",
-    "cat": "emotion",
-    "me": "false, hypocritical",
-    "pos": "Tính từ"
   },
   {
     "w": "真挚",
@@ -2041,14 +1228,6 @@
     "cat": "idiom",
     "example": "这个结果简直不可思议。",
     "example_vi": "Kết quả này quả thật không thể tưởng tượng được.",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "千方百计",
-    "p": "qiān fāng bǎi jì",
-    "m": "trăm phương ngàn kế",
-    "cat": "idiom",
-    "me": "a hundred plans, a thousand schemes",
     "pos": "Danh từ"
   },
   {
@@ -2129,20 +1308,6 @@
     "pos": "Tính từ"
   },
   {
-    "w": "不言而喻",
-    "p": "bù yán ér yù",
-    "m": "không nói cũng hiểu",
-    "cat": "idiom",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "显而易见",
-    "p": "xiǎn ér yì jiàn",
-    "m": "hiển nhiên dễ thấy",
-    "cat": "idiom",
-    "pos": "Danh từ"
-  },
-  {
     "w": "潜移默化",
     "p": "qián yí mò huà",
     "m": "ảnh hưởng ngấm ngầm",
@@ -2158,29 +1323,6 @@
     "cat": "idiom",
     "me": "deeply rooted",
     "pos": "Động từ"
-  },
-  {
-    "w": "息息相关",
-    "p": "xī xī xiāng guān",
-    "m": "liên quan mật thiết",
-    "cat": "idiom",
-    "me": "closely related",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "相辅相成",
-    "p": "xiāng fǔ xiāng chéng",
-    "m": "tương hỗ bổ sung, bổ trợ lẫn nhau cùng hoàn thành",
-    "cat": "idiom",
-    "me": "mutually complementary, jointly completing",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "相得益彰",
-    "p": "xiāng dé yì zhāng",
-    "m": "tôn nhau cùng nổi bật",
-    "cat": "idiom",
-    "pos": "Danh từ"
   },
   {
     "w": "相提并论",
@@ -2200,14 +1342,6 @@
     "example": "两种观点截然不同。",
     "example_vi": "Hai quan điểm này khác hẳn nhau.",
     "me": "completely different from one another",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "大同小异",
-    "p": "dà tóng xiǎo yì",
-    "m": "giống nhiều khác ít",
-    "cat": "idiom",
-    "me": "more similar than different",
     "pos": "Danh từ"
   },
   {
@@ -2343,14 +1477,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "逐渐",
-    "p": "zhú jiàn",
-    "m": "dần dần",
-    "cat": "language",
-    "me": "gradually",
-    "pos": "Phó từ"
-  },
-  {
     "w": "日趋",
     "p": "rì qū",
     "m": "ngày càng hướng tới",
@@ -2399,51 +1525,12 @@
     "pos": "Danh từ"
   },
   {
-    "w": "诚然",
-    "p": "chéng rán",
-    "m": "đúng vậy, thật sự, đúng là, thực ra",
-    "cat": "language",
-    "me": "indeed, truly, actually",
-    "pos": "Phó từ"
-  },
-  {
-    "w": "固然",
-    "p": "gù rán",
-    "m": "cố nhiên, dĩ nhiên là, tuy nhiên, dù cho, đành rằng, tuy là",
-    "cat": "language",
-    "me": "of course, naturally; however, even though",
-    "pos": "Phó từ"
-  },
-  {
     "w": "鉴于",
     "p": "jiàn yú",
     "m": "xét tới, căn cứ",
     "cat": "language",
     "me": "considering, based on",
     "pos": "Danh từ"
-  },
-  {
-    "w": "基于",
-    "p": "jī yú",
-    "m": "dựa trên",
-    "cat": "language",
-    "me": "base on",
-    "pos": "Động từ"
-  },
-  {
-    "w": "针对",
-    "p": "zhēn duì",
-    "m": "nhằm vào",
-    "cat": "language",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "围绕",
-    "p": "wéi rào",
-    "m": "xoay quanh",
-    "cat": "language",
-    "me": "revolve around",
-    "pos": "Động từ"
   },
   {
     "w": "凭借",
@@ -2453,53 +1540,6 @@
     "example": "他凭借努力取得了成功。",
     "example_vi": "Anh ấy dựa vào nỗ lực mà đạt được thành công.",
     "me": "rely on, thanks to",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "借助",
-    "p": "jiè zhù",
-    "m": "nhờ vào, dựa vào, nhờ sự trợ giúp",
-    "cat": "language",
-    "me": "rely on, thanks to help",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "通过",
-    "p": "tōng guò",
-    "m": "thông qua",
-    "cat": "language",
-    "me": "pass, approve",
-    "pos": "Động từ"
-  },
-  {
-    "w": "从而",
-    "p": "cóng ér",
-    "m": "từ đó, do đó, nhờ đó, bởi vậy",
-    "cat": "language",
-    "me": "from then, therefore, thereby",
-    "pos": "Phó từ"
-  },
-  {
-    "w": "进而",
-    "p": "jìn ér",
-    "m": "tiếp đó, hơn nữa, tiếp theo, từ đó tiến lên, tiến thêm, rồi",
-    "cat": "language",
-    "me": "next, moreover, further, then",
-    "pos": "Phó từ"
-  },
-  {
-    "w": "反之",
-    "p": "fǎn zhī",
-    "m": "ngược lại",
-    "cat": "language",
-    "me": "in contrast",
-    "pos": "Phó từ"
-  },
-  {
-    "w": "乃至",
-    "p": "nǎi zhì",
-    "m": "thậm chí đến",
-    "cat": "language",
     "pos": "Danh từ"
   },
   {

@@ -14,13 +14,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "tuition",
-    "p": "tuːˈɪʃən",
-    "m": "học phí",
-    "cat": "học tập",
-    "pos": "Động từ"
-  },
-  {
     "w": "scholarship",
     "p": "skˈɑːlɚʃˌɪp",
     "m": "học bổng",
@@ -91,13 +84,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "degree",
-    "p": "dᵻɡɹˈiː",
-    "m": "độ (nhiệt độ), bằng đại học, học vị",
-    "cat": "học tập",
-    "pos": "Động từ"
-  },
-  {
     "w": "lecture",
     "p": "lˈɛktʃɚ",
     "m": "bài giảng, buổi thuyết trình",
@@ -143,20 +129,6 @@
     "w": "extracurricular",
     "p": "ˌɛkstɹəkɚɹˈɪkjʊlɚ",
     "m": "ngoại khóa",
-    "cat": "học tập",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "dormitory",
-    "p": "dˈɔːɹmɪtˌɔːɹi",
-    "m": "ký túc xá",
-    "cat": "học tập",
-    "pos": "Động từ"
-  },
-  {
-    "w": "kindergarten",
-    "p": "kˈɪndɚɡˌɑːɹʔn̩",
-    "m": "trường mẫu giáo, trường mầm non",
     "cat": "học tập",
     "pos": "Danh từ"
   },
@@ -224,20 +196,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "prescription",
-    "p": "pɹɪskɹˈɪpʃən",
-    "m": "đơn thuốc",
-    "cat": "sức khỏe",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "pharmacy",
-    "p": "fˈɑːɹməsi",
-    "m": "nhà thuốc, hiệu thuốc",
-    "cat": "địa điểm",
-    "pos": "Danh từ"
-  },
-  {
     "w": "surgeon",
     "p": "sˈɜːdʒən",
     "m": "bác sĩ phẫu thuật",
@@ -252,24 +210,10 @@
     "pos": "Danh từ"
   },
   {
-    "w": "patient",
-    "p": "pˈeɪʃənt",
-    "m": "kiên nhẫn, bệnh nhân",
-    "cat": "người",
-    "pos": "Tính từ"
-  },
-  {
     "w": "ward",
     "p": "wˈɔːɹd",
     "m": "phòng bệnh viện, khu điều trị",
     "cat": "địa điểm",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "injection",
-    "p": "ɪndʒˈɛkʃən",
-    "m": "mũi tiêm",
-    "cat": "sức khỏe",
     "pos": "Danh từ"
   },
   {
@@ -305,27 +249,6 @@
     "p": "sˈɜːdʒɚɹi",
     "m": "phẫu thuật",
     "cat": "sức khỏe",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "emergency",
-    "p": "ɪmˈɜːdʒənsi",
-    "m": "trường hợp khẩn cấp",
-    "cat": "sức khỏe",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "ambulance",
-    "p": "ˈæmbjʊləns",
-    "m": "xe cứu thương",
-    "cat": "giao thông",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "clinic",
-    "p": "klˈɪnɪk",
-    "m": "phòng khám",
-    "cat": "địa điểm",
     "pos": "Danh từ"
   },
   {
@@ -374,13 +297,6 @@
     "w": "epidemic",
     "p": "ˌɛpɪdˈɛmɪk",
     "m": "dịch bệnh",
-    "cat": "sức khỏe",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "bandage",
-    "p": "bˈændɪdʒ",
-    "m": "băng bó vết thương",
     "cat": "sức khỏe",
     "pos": "Danh từ"
   },
@@ -437,13 +353,6 @@
     "w": "engagement",
     "p": "ɛŋɡˈeɪdʒmənt",
     "m": "đám hỏi, sự đính hôn, mức độ tương tác",
-    "cat": "gia đình",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "honeymoon",
-    "p": "hˈʌnɪmˌuːn",
-    "m": "tuần trăng mật",
     "cat": "gia đình",
     "pos": "Danh từ"
   },
@@ -777,13 +686,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "festival",
-    "p": "fˈɛstɪvəl",
-    "m": "lễ hội",
-    "cat": "văn hóa",
-    "pos": "Danh từ"
-  },
-  {
     "w": "pilgrimage",
     "p": "pˈɪlɡɹɪmɪdʒ",
     "m": "cuộc hành hương",
@@ -903,24 +805,10 @@
     "pos": "Danh từ"
   },
   {
-    "w": "parade",
-    "p": "pɚɹˈeɪd",
-    "m": "cuộc diễu hành",
-    "cat": "văn hóa",
-    "pos": "Danh từ"
-  },
-  {
     "w": "patron saint",
     "p": "pˈeɪtɹən sˈeɪnt",
     "m": "vị thánh bảo hộ",
     "cat": "văn hóa",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "souvenir",
-    "p": "sˌuːvənˈɪɹ",
-    "m": "đồ lưu niệm",
-    "cat": "đồ vật",
     "pos": "Danh từ"
   },
   {
@@ -948,13 +836,6 @@
     "w": "preserve",
     "p": "pɹɪzˈɜːv",
     "m": "bảo tồn, gìn giữ",
-    "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
-    "w": "celebrate",
-    "p": "sˈɛləbɹˌeɪt",
-    "m": "kỷ niệm, ăn mừng, tổ chức lễ",
     "cat": "hành động",
     "pos": "Động từ"
   },
@@ -1155,25 +1036,11 @@
     "pos": "Danh từ"
   },
   {
-    "w": "fail",
-    "p": "fˈeɪl",
-    "m": "trượt, thất bại",
-    "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
     "w": "retake",
     "p": "ɹᵻtˈeɪk",
     "m": "thi lại",
     "cat": "hành động",
     "pos": "Động từ"
-  },
-  {
-    "w": "grade",
-    "p": "ɡɹˈeɪd",
-    "m": "điểm số, lớp học",
-    "cat": "học tập",
-    "pos": "Danh từ"
   },
   {
     "w": "average",
@@ -1246,13 +1113,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "publish",
-    "p": "pˈʌblɪʃ",
-    "m": "xuất bản, đăng tải",
-    "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
     "w": "cite",
     "p": "sˈaɪt",
     "m": "trích dẫn, dẫn chứng",
@@ -1277,13 +1137,6 @@
     "w": "experiment",
     "p": "ɛkspˈɛɹɪmənt",
     "m": "thí nghiệm",
-    "cat": "học thuật",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "result",
-    "p": "ɹɪzˈʌlt",
-    "m": "kết quả",
     "cat": "học thuật",
     "pos": "Danh từ"
   },
@@ -1421,37 +1274,9 @@
     "pos": "Danh từ"
   },
   {
-    "w": "temperature",
-    "p": "tˈɛmpɹɪtʃɚ",
-    "m": "nhiệt độ, thân nhiệt",
-    "cat": "sức khỏe",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "fever",
-    "p": "fˈiːvɚ",
-    "m": "sốt",
-    "cat": "sức khỏe",
-    "pos": "Động từ"
-  },
-  {
-    "w": "cough",
-    "p": "kˈɔf",
-    "m": "ho",
-    "cat": "sức khỏe",
-    "pos": "Động từ"
-  },
-  {
     "w": "nausea",
     "p": "nˈɔːsɪə",
     "m": "buồn nôn",
-    "cat": "sức khỏe",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "dizzy",
-    "p": "dˈɪzi",
-    "m": "chóng mặt",
     "cat": "sức khỏe",
     "pos": "Danh từ"
   },
@@ -1468,13 +1293,6 @@
     "m": "phát ban, hấp tấp",
     "cat": "sức khỏe",
     "pos": "Tính từ"
-  },
-  {
-    "w": "bleed",
-    "p": "blˈiːd",
-    "m": "chảy máu",
-    "cat": "hành động",
-    "pos": "Động từ"
   },
   {
     "w": "heal",
@@ -1547,13 +1365,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "blood test",
-    "p": "blˈʌd tˈɛst",
-    "m": "xét nghiệm máu",
-    "cat": "sức khỏe",
-    "pos": "Danh từ"
-  },
-  {
     "w": "X-ray",
     "p": "ˈɛksɹˈeɪ",
     "m": "chụp X-quang",
@@ -1564,13 +1375,6 @@
     "w": "scan",
     "p": "skˈæn",
     "m": "chụp CT, quét hình ảnh",
-    "cat": "sức khỏe",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "painkiller",
-    "p": "pˈeɪŋkɪlɚ",
-    "m": "thuốc giảm đau",
     "cat": "sức khỏe",
     "pos": "Danh từ"
   },
@@ -1592,13 +1396,6 @@
     "w": "stethoscope",
     "p": "stˈɛθəskˌoʊp",
     "m": "ống nghe bác sĩ",
-    "cat": "đồ vật",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "wheelchair",
-    "p": "wˈiːltʃɛɹ",
-    "m": "xe lăn",
     "cat": "đồ vật",
     "pos": "Danh từ"
   },
@@ -1657,20 +1454,6 @@
     "m": "thiền, suy ngẫm",
     "cat": "hành động",
     "pos": "Động từ"
-  },
-  {
-    "w": "exercise",
-    "p": "ˈɛksɚsˌaɪz",
-    "m": "tập thể dục",
-    "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
-    "w": "diet",
-    "p": "dˈaɪət",
-    "m": "chế độ ăn kiêng",
-    "cat": "sức khỏe",
-    "pos": "Danh từ"
   },
   {
     "w": "calorie",
@@ -1841,13 +1624,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "twin",
-    "p": "twˈɪn",
-    "m": "sinh đôi",
-    "cat": "gia đình",
-    "pos": "Danh từ"
-  },
-  {
     "w": "eldest",
     "p": "ˈɛldɪst",
     "m": "con cả, lớn nhất",
@@ -1939,13 +1715,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "argue",
-    "p": "ˈɑːɹɡjuː",
-    "m": "cãi nhau, tranh luận",
-    "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
     "w": "media outlet",
     "p": "mˈiːdiːə ˈaʊtlɛt",
     "m": "cơ quan truyền thông",
@@ -1978,13 +1747,6 @@
     "p": "əpˈɪniən pˈiːs",
     "m": "bài bình luận, bài viết cá nhân",
     "cat": "học thuật",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "interview",
-    "p": "ˈɪntɚvjˌuː",
-    "m": "cuộc phỏng vấn",
-    "cat": "công việc",
     "pos": "Danh từ"
   },
   {
@@ -2030,30 +1792,9 @@
     "pos": "Động từ"
   },
   {
-    "w": "report",
-    "p": "ɹᵻpˈɔːɹt",
-    "m": "tường thuật, báo cáo",
-    "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
-    "w": "publish",
-    "p": "pˈʌblɪʃ",
-    "m": "đăng báo, xuất bản",
-    "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
     "w": "online media",
     "p": "ˈɑːnlaɪn mˈiːdiːə",
     "m": "truyền thông trực tuyến",
-    "cat": "công nghệ",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "social media",
-    "p": "sˈoʊʃəl mˈiːdiːə",
-    "m": "mạng xã hội",
     "cat": "công nghệ",
     "pos": "Danh từ"
   },
@@ -2069,34 +1810,6 @@
     "p": "fˈɑːloʊɚ",
     "m": "người theo dõi",
     "cat": "người",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "comment",
-    "p": "kˈɑːmɛnt",
-    "m": "bình luận",
-    "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
-    "w": "share",
-    "p": "ʃˈɛɹ",
-    "m": "chia sẻ",
-    "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
-    "w": "update",
-    "p": "ˈʌpdeɪt",
-    "m": "cập nhật, tin mới",
-    "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
-    "w": "platform",
-    "p": "plˈætfɔːɹm",
-    "m": "sân ga, bến, ke ga, nền tảng, thềm ga",
-    "cat": "công nghệ",
     "pos": "Danh từ"
   },
   {
@@ -2149,13 +1862,6 @@
     "pos": "Tính từ"
   },
   {
-    "w": "reliable",
-    "p": "ɹᵻlˈaɪəbəl",
-    "m": "đáng tin cậy",
-    "cat": "tính từ",
-    "pos": "Tính từ"
-  },
-  {
     "w": "accurate",
     "p": "ˈækjʊɹət",
     "m": "chính xác",
@@ -2180,13 +1886,6 @@
     "w": "subjective",
     "p": "sʌbdʒˈɛktɪv",
     "m": "chủ quan",
-    "cat": "tính từ",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "traditional",
-    "p": "tɹɐdˈɪʃənəl",
-    "m": "truyền thống",
     "cat": "tính từ",
     "pos": "Tính từ"
   },
@@ -2271,27 +1970,6 @@
     "w": "universal",
     "p": "jˌuːnɪvˈɜːsəl",
     "m": "phổ quát, toàn cầu",
-    "cat": "tính từ",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "global",
-    "p": "ɡlˈoʊbəl",
-    "m": "toàn cầu",
-    "cat": "tính từ",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "local",
-    "p": "lˈoʊkəl",
-    "m": "địa phương",
-    "cat": "tính từ",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "national",
-    "p": "nˈæʃənəl",
-    "m": "quốc gia, dân tộc",
     "cat": "tính từ",
     "pos": "Tính từ"
   },
@@ -2429,20 +2107,6 @@
     "pos": "Phó từ"
   },
   {
-    "w": "carefully",
-    "p": "kˈɛɹfəli",
-    "m": "cẩn thận",
-    "cat": "trạng từ",
-    "pos": "Phó từ"
-  },
-  {
-    "w": "regularly",
-    "p": "ɹˈɛɡjʊlɚli",
-    "m": "đều đặn, thường xuyên",
-    "cat": "trạng từ",
-    "pos": "Phó từ"
-  },
-  {
     "w": "annually",
     "p": "ˈænjuːəli",
     "m": "hàng năm",
@@ -2474,13 +2138,6 @@
     "w": "majority",
     "p": "mədʒˈɔːɹᵻɾi",
     "m": "đa số",
-    "cat": "xã hội",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "population",
-    "p": "pˌɑːpjʊlˈeɪʃən",
-    "m": "dân số",
     "cat": "xã hội",
     "pos": "Danh từ"
   },
@@ -2569,13 +2226,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "right",
-    "p": "ɹˈaɪt",
-    "m": "đúng, phải, quyền lợi",
-    "cat": "xã hội",
-    "pos": "Tính từ"
-  },
-  {
     "w": "equality",
     "p": "iːkwˈɔlᵻɾi",
     "m": "bình đẳng",
@@ -2621,13 +2271,6 @@
     "w": "appreciate",
     "p": "ɐpɹˈiːʃɪˌeɪt",
     "m": "đánh giá cao, trân trọng",
-    "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
-    "w": "accept",
-    "p": "ɐksˈɛpt",
-    "m": "chấp nhận",
     "cat": "hành động",
     "pos": "Động từ"
   },
@@ -2786,13 +2429,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "government",
-    "p": "ɡˈʌvɚnmənt",
-    "m": "chính phủ",
-    "cat": "chính trị",
-    "pos": "Danh từ"
-  },
-  {
     "w": "ministry",
     "p": "mˈɪnɪstɹi",
     "m": "bộ (chính phủ)",
@@ -2884,13 +2520,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "charity",
-    "p": "tʃˈæɹᵻɾi",
-    "m": "tổ chức từ thiện",
-    "cat": "xã hội",
-    "pos": "Động từ"
-  },
-  {
     "w": "volunteer",
     "p": "vˌɑːləntˈɪɹ",
     "m": "tình nguyện viên",
@@ -2908,13 +2537,6 @@
     "w": "fund",
     "p": "fˈʌnd",
     "m": "quỹ, tài trợ",
-    "cat": "tiền bạc",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "budget",
-    "p": "bˈʌdʒɪt",
-    "m": "ngân sách",
     "cat": "tiền bạc",
     "pos": "Danh từ"
   },
@@ -2943,13 +2565,6 @@
     "w": "wage",
     "p": "wˈeɪdʒ",
     "m": "lương, tiền công",
-    "cat": "tiền bạc",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "salary",
-    "p": "sˈælɚɹi",
-    "m": "lương tháng",
     "cat": "tiền bạc",
     "pos": "Danh từ"
   },
@@ -3017,13 +2632,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "market",
-    "p": "mˈɑːɹkɪt",
-    "m": "chợ, thị trường",
-    "cat": "kinh doanh",
-    "pos": "Danh từ"
-  },
-  {
     "w": "supply",
     "p": "səplˈaɪ",
     "m": "cung cấp, nguồn cung",
@@ -3038,39 +2646,11 @@
     "pos": "Danh từ"
   },
   {
-    "w": "competition",
-    "p": "kˌɑːmpətˈɪʃən",
-    "m": "cuộc thi, cạnh tranh, cuộc đua",
-    "cat": "kinh doanh",
-    "pos": "Danh từ"
-  },
-  {
     "w": "consumer",
     "p": "kənsˈuːmɚ",
     "m": "người tiêu dùng",
     "cat": "người",
     "pos": "Danh từ"
-  },
-  {
-    "w": "product",
-    "p": "pɹˈɑːdʌkt",
-    "m": "sản phẩm",
-    "cat": "kinh doanh",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "service",
-    "p": "sˈɜːvɪs",
-    "m": "dịch vụ",
-    "cat": "kinh doanh",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "brand",
-    "p": "bɹˈænd",
-    "m": "thương hiệu",
-    "cat": "kinh doanh",
-    "pos": "Động từ"
   },
   {
     "w": "advertisement",
@@ -3087,31 +2667,10 @@
     "pos": "Danh từ"
   },
   {
-    "w": "discount",
-    "p": "dˈɪskaʊnt",
-    "m": "giảm giá",
-    "cat": "tiền bạc",
-    "pos": "Động từ"
-  },
-  {
-    "w": "exhibition",
-    "p": "ɛksɪbˈɪʃən",
-    "m": "triển lãm",
-    "cat": "nghệ thuật",
-    "pos": "Danh từ"
-  },
-  {
     "w": "gallery",
     "p": "ɡˈælɚɹi",
     "m": "phòng trưng bày nghệ thuật",
     "cat": "địa điểm",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "performance",
-    "p": "pɚfˈɔːɹməns",
-    "m": "buổi biểu diễn, hiệu suất",
-    "cat": "nghệ thuật",
     "pos": "Danh từ"
   },
   {
@@ -3206,13 +2765,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "review",
-    "p": "ɹᵻvjˈuː",
-    "m": "xem lại, đánh giá, ôn tập, xem xét, điểm phim/sách",
-    "cat": "học thuật",
-    "pos": "Động từ"
-  },
-  {
     "w": "critic",
     "p": "kɹˈɪɾɪk",
     "m": "nhà phê bình",
@@ -3244,13 +2796,6 @@
     "w": "poetry",
     "p": "pˈoʊɪtɹi",
     "m": "thơ ca",
-    "cat": "nghệ thuật",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "novel",
-    "p": "nˈɑːvəl",
-    "m": "tiểu thuyết",
     "cat": "nghệ thuật",
     "pos": "Danh từ"
   },
@@ -3318,39 +2863,11 @@
     "pos": "Danh từ"
   },
   {
-    "w": "coach",
-    "p": "kˈoʊtʃ",
-    "m": "huấn luyện viên",
-    "cat": "người",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "referee",
-    "p": "ɹˌɛfɚɹˈiː",
-    "m": "trọng tài",
-    "cat": "người",
-    "pos": "Danh từ"
-  },
-  {
     "w": "spectator",
     "p": "spɛktˈeɪɾɚ",
     "m": "khán giả (thể thao)",
     "cat": "người",
     "pos": "Danh từ"
-  },
-  {
-    "w": "stadium",
-    "p": "stˈeɪdiəm",
-    "m": "sân vận động",
-    "cat": "địa điểm",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "score",
-    "p": "skˈɔːɹ",
-    "m": "ghi điểm, tỉ số, điểm số, tỷ số, nhạc phim",
-    "cat": "thể thao",
-    "pos": "Động từ"
   },
   {
     "w": "defeat",
@@ -3507,13 +3024,6 @@
     "pos": "Tính từ"
   },
   {
-    "w": "confident",
-    "p": "kˈɑːnfɪdənt",
-    "m": "tự tin",
-    "cat": "tính từ",
-    "pos": "Tính từ"
-  },
-  {
     "w": "ambitious",
     "p": "æmbˈɪʃəs",
     "m": "tham vọng, hoài bão",
@@ -3535,13 +3045,6 @@
     "pos": "Tính từ"
   },
   {
-    "w": "creative",
-    "p": "kɹiːˈeɪɾɪv",
-    "m": "sáng tạo",
-    "cat": "tính từ",
-    "pos": "Tính từ"
-  },
-  {
     "w": "cooperative",
     "p": "koʊˈɑːpɚɹətˌɪv",
     "m": "hợp tác",
@@ -3549,23 +3052,9 @@
     "pos": "Động từ"
   },
   {
-    "w": "flexible",
-    "p": "flˈɛksɪbəl",
-    "m": "linh hoạt",
-    "cat": "tính từ",
-    "pos": "Tính từ"
-  },
-  {
     "w": "adaptable",
     "p": "ɐdˈæptəbəl",
     "m": "có khả năng thích nghi, linh hoạt",
-    "cat": "tính từ",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "patient",
-    "p": "pˈeɪʃənt",
-    "m": "kiên nhẫn, bệnh nhân",
     "cat": "tính từ",
     "pos": "Tính từ"
   },
@@ -3612,13 +3101,6 @@
     "pos": "Tính từ"
   },
   {
-    "w": "generous",
-    "p": "dʒˈɛnɚɹəs",
-    "m": "hào phóng, rộng rãi",
-    "cat": "tính từ",
-    "pos": "Tính từ"
-  },
-  {
     "w": "selfish",
     "p": "sˈɛlfɪʃ",
     "m": "ích kỷ",
@@ -3645,20 +3127,6 @@
     "m": "tôn trọng",
     "cat": "tính từ",
     "pos": "Động từ"
-  },
-  {
-    "w": "polite",
-    "p": "pəlˈaɪt",
-    "m": "lịch sự",
-    "cat": "tính từ",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "rude",
-    "p": "ɹˈuːd",
-    "m": "thô lỗ",
-    "cat": "tính từ",
-    "pos": "Tính từ"
   },
   {
     "w": "formal",
@@ -3762,13 +3230,6 @@
     "w": "survey",
     "p": "sˈɜːveɪ",
     "m": "khảo sát, điều tra",
-    "cat": "xã hội",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "opinion",
-    "p": "əpˈɪniən",
-    "m": "ý kiến",
     "cat": "xã hội",
     "pos": "Danh từ"
   },
@@ -3958,13 +3419,6 @@
     "w": "doubt",
     "p": "dˈaʊt",
     "m": "nghi ngờ",
-    "cat": "cảm xúc",
-    "pos": "Động từ"
-  },
-  {
-    "w": "hope",
-    "p": "hˈoʊp",
-    "m": "hy vọng",
     "cat": "cảm xúc",
     "pos": "Động từ"
   },

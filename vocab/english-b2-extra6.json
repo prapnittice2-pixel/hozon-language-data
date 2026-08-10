@@ -1,12 +1,5 @@
 [
   {
-    "w": "negotiate",
-    "m": "đàm phán, thương lượng",
-    "cat": "kinh doanh",
-    "p": "nᵻɡˈoʊʃɪˌeɪt",
-    "pos": "Động từ"
-  },
-  {
     "w": "outsource",
     "m": "thuê ngoài, chuyển việc ra ngoài, gia công bên ngoài",
     "cat": "kinh doanh",
@@ -14,24 +7,10 @@
     "pos": "Động từ"
   },
   {
-    "w": "revenue",
-    "m": "doanh thu",
-    "cat": "kinh doanh",
-    "p": "ɹˈɛvənˌuː",
-    "pos": "Danh từ"
-  },
-  {
     "w": "stakeholder",
     "m": "bên liên quan",
     "cat": "kinh doanh",
     "p": "stˈeɪkhoʊldɚ",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "merger",
-    "m": "sự sáp nhập công ty",
-    "cat": "kinh doanh",
-    "p": "mˈɜːdʒɚ",
     "pos": "Danh từ"
   },
   {
@@ -70,13 +49,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "headquarters",
-    "m": "trụ sở chính, tổng hành dinh",
-    "cat": "kinh doanh",
-    "p": "hɛdkwˈɔːɹɾɚz",
-    "pos": "Danh từ"
-  },
-  {
     "w": "entrepreneur",
     "m": "doanh nhân khởi nghiệp",
     "cat": "kinh doanh",
@@ -109,13 +81,6 @@
     "m": "sự độc quyền",
     "cat": "kinh doanh",
     "p": "mənˈɑːpəli",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "competitor",
-    "m": "đối thủ cạnh tranh",
-    "cat": "kinh doanh",
-    "p": "kəmpˈɛɾɪɾɚ",
     "pos": "Danh từ"
   },
   {
@@ -161,20 +126,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "tender",
-    "m": "mềm (thịt), hồ sơ đấu thầu; đấu thầu",
-    "cat": "kinh doanh",
-    "p": "tˈɛndɚ",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "invoice",
-    "m": "hóa đơn",
-    "cat": "kinh doanh",
-    "p": "ˈɪnvɔɪs",
-    "pos": "Danh từ"
-  },
-  {
     "w": "warranty",
     "m": "chế độ bảo hành",
     "cat": "kinh doanh",
@@ -193,13 +144,6 @@
     "m": "tài sản",
     "cat": "kinh doanh",
     "p": "ˈæsɛt",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "inventory",
-    "m": "hàng tồn kho",
-    "cat": "kinh doanh",
-    "p": "ˈɪnvəntˌɔːɹi",
     "pos": "Danh từ"
   },
   {
@@ -245,39 +189,11 @@
     "pos": "Danh từ"
   },
   {
-    "w": "workforce",
-    "m": "lực lượng lao động",
-    "cat": "kinh doanh",
-    "p": "wˈɜːkfɔːɹs",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "recruitment",
-    "m": "sự tuyển dụng",
-    "cat": "kinh doanh",
-    "p": "ɹᵻkɹˈuːtmənt",
-    "pos": "Danh từ"
-  },
-  {
     "w": "redundancy",
     "m": "dự phòng, dư thừa, thừa nhân viên, cắt giảm nhân sự, bị cho thôi việc",
     "cat": "kinh doanh",
     "p": "ɹᵻdˈʌndənsi",
     "pos": "Tính từ"
-  },
-  {
-    "w": "resignation",
-    "m": "sự từ chức",
-    "cat": "kinh doanh",
-    "p": "ɹˌɛzɪɡnˈeɪʃən",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "appraisal",
-    "m": "buổi đánh giá năng lực nhân viên",
-    "cat": "kinh doanh",
-    "p": "ɐpɹˈeɪzəl",
-    "pos": "Danh từ"
   },
   {
     "w": "payroll",
@@ -301,45 +217,10 @@
     "pos": "Danh từ"
   },
   {
-    "w": "commission",
-    "m": "tiền hoa hồng",
-    "cat": "kinh doanh",
-    "p": "kəmˈɪʃən",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "probation",
-    "m": "thời gian thử việc, quản chế, thử thách, án treo",
-    "cat": "kinh doanh",
-    "p": "pɹoʊbˈeɪʃən",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "vacancy",
-    "m": "vị trí tuyển dụng còn trống",
-    "cat": "kinh doanh",
-    "p": "vˈeɪkənsi",
-    "pos": "Danh từ"
-  },
-  {
     "w": "credentials",
     "m": "bằng cấp, chứng chỉ năng lực",
     "cat": "kinh doanh",
     "p": "kɹᵻdˈɛnʃəlz",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "expertise",
-    "m": "chuyên môn sâu",
-    "cat": "kinh doanh",
-    "p": "ˌɛkspɚtˈiːz",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "delegation",
-    "m": "sự ủy thác, ủy quyền, phái đoàn",
-    "cat": "kinh doanh",
-    "p": "dˌɛlɪɡˈeɪʃən",
     "pos": "Danh từ"
   },
   {
@@ -350,25 +231,11 @@
     "pos": "Danh từ"
   },
   {
-    "w": "supervisor",
-    "m": "người giám sát",
-    "cat": "kinh doanh",
-    "p": "sˈuːpɚvˌaɪzɚ",
-    "pos": "Danh từ"
-  },
-  {
     "w": "executive",
     "m": "cơ quan hành pháp, quản lý cấp cao, giám đốc điều hành",
     "cat": "kinh doanh",
     "p": "ɛɡzˈɛkjuːtˌɪv",
     "pos": "Động từ"
-  },
-  {
-    "w": "shareholder",
-    "m": "cổ đông",
-    "cat": "kinh doanh",
-    "p": "ʃˈɛɹhoʊldɚ",
-    "pos": "Danh từ"
   },
   {
     "w": "dividend",
@@ -476,13 +343,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "forecast",
-    "m": "dự báo",
-    "cat": "kinh doanh",
-    "p": "fˈɔːɹkæst",
-    "pos": "Động từ"
-  },
-  {
     "w": "projection",
     "m": "dự báo, chiếu, số liệu dự phóng, ước tính",
     "cat": "kinh doanh",
@@ -494,13 +354,6 @@
     "m": "hạn ngạch, chỉ tiêu",
     "cat": "kinh doanh",
     "p": "kwˈoʊɾə",
-    "pos": "Động từ"
-  },
-  {
-    "w": "milestone",
-    "m": "cột mốc quan trọng",
-    "cat": "kinh doanh",
-    "p": "mˈaɪlstoʊn",
     "pos": "Động từ"
   },
   {
@@ -529,13 +382,6 @@
     "m": "khả năng mở rộng quy mô",
     "cat": "kinh doanh",
     "p": "skˌeɪləbˈɪlᵻɾi",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "productivity",
-    "m": "năng suất",
-    "cat": "kinh doanh",
-    "p": "pɹˌɑːdəktˈɪvᵻɾi",
     "pos": "Danh từ"
   },
   {
@@ -700,31 +546,10 @@
     "pos": "Danh từ"
   },
   {
-    "w": "workload",
-    "m": "khối lượng công việc",
-    "cat": "business",
-    "p": "wˈɜːkloʊd",
-    "pos": "Danh từ"
-  },
-  {
     "w": "workflow",
     "m": "luồng công việc",
     "cat": "business",
     "p": "wˈɜːkfloʊ",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "morale",
-    "m": "tinh thần làm việc",
-    "cat": "business",
-    "p": "mɚɹˈæl",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "burnout",
-    "m": "sự kiệt sức vì công việc",
-    "cat": "business",
-    "p": "bˈɜːnaʊt",
     "pos": "Danh từ"
   },
   {
@@ -749,31 +574,10 @@
     "pos": "Động từ"
   },
   {
-    "w": "agenda",
-    "m": "chương trình nghị sự",
-    "cat": "business",
-    "p": "ɐdʒˈɛndə",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "minutes",
-    "m": "biên bản cuộc họp",
-    "cat": "business",
-    "p": "mˈɪnɪts",
-    "pos": "Danh từ"
-  },
-  {
     "w": "memorandum",
     "m": "bản ghi nhớ, công văn nội bộ",
     "cat": "business",
     "p": "mˌɛmɚɹˈændəm",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "briefing",
-    "m": "buổi phổ biến thông tin, buổi báo cáo tóm tắt",
-    "cat": "business",
-    "p": "bɹˈiːfɪŋ",
     "pos": "Danh từ"
   },
   {
@@ -795,20 +599,6 @@
     "m": "sự đồng thuận",
     "cat": "business",
     "p": "kənsˈɛnsəs",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "mentorship",
-    "m": "sự dìu dắt, sự hướng dẫn, kèm cặp, cố vấn",
-    "cat": "business",
-    "p": "mˈɛntɔːɹʃˌɪp",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "apprenticeship",
-    "m": "chế độ học việc",
-    "cat": "business",
-    "p": "ɐpɹˈɛntɪsʃˌɪp",
     "pos": "Danh từ"
   },
   {
@@ -875,45 +665,10 @@
     "pos": "Danh từ"
   },
   {
-    "w": "competence",
-    "m": "năng lực",
-    "cat": "business",
-    "p": "kˈɑːmpɪtəns",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "proficiency",
-    "m": "sự thành thạo",
-    "cat": "business",
-    "p": "pɹəfˈɪʃənsi",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "aptitude",
-    "m": "năng khiếu",
-    "cat": "business",
-    "p": "ˈæptɪtˌuːd",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "initiative",
-    "m": "sáng kiến, chủ động, bước đầu tiên",
-    "cat": "business",
-    "p": "ɪnˈɪʃiətˌɪv",
-    "pos": "Danh từ"
-  },
-  {
     "w": "perseverance",
     "m": "sự kiên trì",
     "cat": "business",
     "p": "pˌɜːsɪvˈɪɹəns",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "punctuality",
-    "m": "sự đúng giờ",
-    "cat": "business",
-    "p": "pˌʌŋktʃuːˈælᵻɾi",
     "pos": "Danh từ"
   },
   {
@@ -973,13 +728,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "networking",
-    "m": "việc kết nối quan hệ, xây dựng mạng lưới quan hệ",
-    "cat": "business",
-    "p": "nˈɛtwɜːkɪŋ",
-    "pos": "Danh từ"
-  },
-  {
     "w": "headhunt",
     "m": "săn đầu người, chiêu mộ nhân tài",
     "cat": "business",
@@ -1001,31 +749,10 @@
     "pos": "Động từ"
   },
   {
-    "w": "portfolio",
-    "m": "hồ sơ năng lực; danh mục đầu tư",
-    "cat": "business",
-    "p": "pɔːɹtfˈoʊlɪˌoʊ",
-    "pos": "Danh từ"
-  },
-  {
     "w": "specialization",
     "m": "sự chuyên môn hóa",
     "cat": "business",
     "p": "spˌɛʃəlᵻzˈeɪʃən",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "supervision",
-    "m": "sự giám sát",
-    "cat": "business",
-    "p": "suːpɚvˈɪʒən",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "coordination",
-    "m": "sự điều phối",
-    "cat": "business",
-    "p": "koʊˈɔːɹdᵻnˈeɪʃən",
     "pos": "Danh từ"
   },
   {
@@ -1061,13 +788,6 @@
     "m": "thuộc tài khóa, ngân sách",
     "cat": "business",
     "p": "fˈɪskəl",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "overtime",
-    "m": "giờ làm thêm",
-    "cat": "business",
-    "p": "ˈoʊvɚtˌaɪm",
     "pos": "Danh từ"
   },
   {
@@ -1155,13 +875,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "authorize",
-    "m": "cho phép, ủy quyền",
-    "cat": "business",
-    "p": "ˈɔːθɚɹˌaɪz",
-    "pos": "Động từ"
-  },
-  {
     "w": "expedite",
     "m": "đẩy nhanh tiến độ",
     "cat": "business",
@@ -1197,38 +910,10 @@
     "pos": "Danh từ"
   },
   {
-    "w": "controversy",
-    "m": "cuộc tranh cãi",
-    "cat": "media",
-    "p": "kˈɑːntɹəvˌɜːsi",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "coverage",
-    "m": "sự đưa tin",
-    "cat": "media",
-    "p": "kˈʌvɚɹɪdʒ",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "censorship",
-    "m": "sự kiểm duyệt",
-    "cat": "media",
-    "p": "sˈɛnsɚʃˌɪp",
-    "pos": "Danh từ"
-  },
-  {
     "w": "propaganda",
     "m": "sự tuyên truyền một chiều",
     "cat": "media",
     "p": "pɹˌɑːpɐɡˈændə",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "tabloid",
-    "m": "báo lá cải",
-    "cat": "media",
-    "p": "tˈæblɔɪd",
     "pos": "Danh từ"
   },
   {
@@ -1239,38 +924,10 @@
     "pos": "Danh từ"
   },
   {
-    "w": "editorial",
-    "m": "bài xã luận",
-    "cat": "media",
-    "p": "ˌɛdɪtˈɔːɹɪəl",
-    "pos": "Danh từ"
-  },
-  {
     "w": "columnist",
     "m": "người phụ trách chuyên mục",
     "cat": "media",
     "p": "kˈɑːləmnˌɪst",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "correspondent",
-    "m": "phóng viên thường trú",
-    "cat": "media",
-    "p": "kˌɔːɹɪspˈɑːndənt",
-    "pos": "Động từ"
-  },
-  {
-    "w": "journalism",
-    "m": "nghề báo, báo chí",
-    "cat": "media",
-    "p": "dʒˈɜːnəlˌɪzəm",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "broadcast",
-    "m": "phát sóng; chương trình phát sóng",
-    "cat": "media",
-    "p": "bɹˈɔːdkæst",
     "pos": "Danh từ"
   },
   {
@@ -1281,24 +938,10 @@
     "pos": "Danh từ"
   },
   {
-    "w": "headline",
-    "m": "tít báo, tiêu đề lớn",
-    "cat": "media",
-    "p": "hˈɛdlaɪn",
-    "pos": "Danh từ"
-  },
-  {
     "w": "byline",
     "m": "dòng ghi tên tác giả bài báo",
     "cat": "media",
     "p": "bˈaɪlaɪn",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "circulation",
-    "m": "số lượng phát hành, tuần hoàn máu",
-    "cat": "media",
-    "p": "sˌɜːkjʊlˈeɪʃən",
     "pos": "Danh từ"
   },
   {
@@ -1330,13 +973,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "clickbait",
-    "m": "tiêu đề câu view, mồi nhử nhấp chuột",
-    "cat": "media",
-    "p": "klˈɪkbeɪt",
-    "pos": "Danh từ"
-  },
-  {
     "w": "misinformation",
     "m": "thông tin sai lệch",
     "cat": "media",
@@ -1358,24 +994,10 @@
     "pos": "Động từ"
   },
   {
-    "w": "rumor",
-    "m": "tin đồn",
-    "cat": "media",
-    "p": "ɹˈuːmɚ",
-    "pos": "Động từ"
-  },
-  {
     "w": "scandal",
     "m": "vụ bê bối",
     "cat": "media",
     "p": "skˈændəl",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "expose",
-    "m": "phơi bày, vạch trần",
-    "cat": "media",
-    "p": "ɛkspˈoʊz",
     "pos": "Danh từ"
   },
   {
@@ -1391,13 +1013,6 @@
     "cat": "media",
     "p": "skˈuːp",
     "pos": "Động từ"
-  },
-  {
-    "w": "exclusive",
-    "m": "độc quyền, loại trừ, riêng biệt, không bao gồm",
-    "cat": "media",
-    "p": "ɛksklˈuːsɪv",
-    "pos": "Tính từ"
   },
   {
     "w": "anonymity",
@@ -1449,13 +1064,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "spokesperson",
-    "m": "người phát ngôn",
-    "cat": "media",
-    "p": "spˈoʊkspɚsən",
-    "pos": "Danh từ"
-  },
-  {
     "w": "publicist",
     "m": "chuyên viên quảng bá",
     "cat": "media",
@@ -1467,20 +1075,6 @@
     "m": "sự quảng bá, chú ý của công luận",
     "cat": "media",
     "p": "pʌblˈɪsᵻɾi",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "press release",
-    "m": "thông cáo báo chí",
-    "cat": "media",
-    "p": "pɹˈɛs ɹᵻlˈiːs",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "press conference",
-    "m": "cuộc họp báo",
-    "cat": "media",
-    "p": "pɹˈɛs kˈɑːnfɹəns",
     "pos": "Danh từ"
   },
   {
@@ -1502,13 +1096,6 @@
     "m": "thổi phồng giật gân",
     "cat": "media",
     "p": "sɛnsˈeɪʃənəlˌaɪz",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "bias",
-    "m": "thiên kiến, thiên vị, sai lệch, thành kiến, định kiến",
-    "cat": "media",
-    "p": "bˈaɪəs",
     "pos": "Danh từ"
   },
   {
@@ -1554,31 +1141,10 @@
     "pos": "Danh từ"
   },
   {
-    "w": "documentary",
-    "m": "phim tài liệu",
-    "cat": "media",
-    "p": "dˌɑːkjuːmˈɛntɚɹi",
-    "pos": "Danh từ"
-  },
-  {
     "w": "footage",
     "m": "đoạn phim tư liệu",
     "cat": "media",
     "p": "fˈʊɾɪdʒ",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "livestream",
-    "m": "phát trực tiếp trên mạng",
-    "cat": "media",
-    "p": "lˈaɪvstɹiːm",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "podcast",
-    "m": "chương trình âm thanh trực tuyến",
-    "cat": "media",
-    "p": "pˈɑːdkæst",
     "pos": "Danh từ"
   },
   {
@@ -1642,48 +1208,6 @@
     "m": "chương trình tin tức giải trí",
     "cat": "media",
     "p": "ˌɪnfoʊtˈeɪnmənt",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "outlet",
-    "m": "cửa hàng bán lẻ, cơ quan truyền thông",
-    "cat": "media",
-    "p": "ˈaʊtlɛt",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "mainstream",
-    "m": "dòng chính thống, phổ biến, chủ đạo, đại chúng",
-    "cat": "media",
-    "p": "mˈeɪnstɹiːm",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "viral",
-    "m": "lan truyền mạnh trên mạng",
-    "cat": "media",
-    "p": "vˈaɪɚɹəl",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "trending",
-    "m": "đang thịnh hành",
-    "cat": "media",
-    "p": "tɹˈɛndɪŋ",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "influencer",
-    "m": "người có sức ảnh hưởng trên mạng",
-    "cat": "media",
-    "p": "ˈɪnfluːənsɚ",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "engagement",
-    "m": "đám hỏi, sự đính hôn, mức độ tương tác",
-    "cat": "media",
-    "p": "ɛŋɡˈeɪdʒmənt",
     "pos": "Danh từ"
   },
   {

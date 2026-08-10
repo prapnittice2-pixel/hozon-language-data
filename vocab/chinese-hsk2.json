@@ -20,62 +20,6 @@
     "pos": "Tính từ"
   },
   {
-    "w": "有趣",
-    "p": "yǒuqù",
-    "m": "thú vị",
-    "cat": "adjective",
-    "me": "interesting",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "重要",
-    "p": "zhòngyào",
-    "m": "quan trọng",
-    "cat": "adjective",
-    "me": "important",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "容易",
-    "p": "róngyì",
-    "m": "dễ dàng",
-    "cat": "adjective",
-    "me": "easily",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "难",
-    "p": "nán",
-    "m": "khó",
-    "cat": "adjective",
-    "me": "difficult",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "快",
-    "p": "kuài",
-    "m": "nhanh",
-    "cat": "adjective",
-    "me": "fast",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "慢",
-    "p": "màn",
-    "m": "chậm",
-    "cat": "adjective",
-    "me": "slow",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "早",
-    "p": "zǎo",
-    "m": "sáng (chào buổi sáng), sớm",
-    "cat": "adjective",
-    "me": "morning, early",
-    "pos": "Tính từ"
-  },
-  {
     "w": "晚",
     "p": "wǎn",
     "m": "muộn, tối",
@@ -86,70 +30,6 @@
     "pos": "Tính từ"
   },
   {
-    "w": "长",
-    "p": "cháng",
-    "m": "dài",
-    "cat": "adjective",
-    "me": "long",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "短",
-    "p": "duǎn",
-    "m": "ngắn",
-    "cat": "adjective",
-    "me": "short",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "高",
-    "p": "gāo",
-    "m": "cao",
-    "cat": "adjective",
-    "me": "tall",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "矮",
-    "p": "ǎi",
-    "m": "thấp, lùn",
-    "cat": "adjective",
-    "me": "short",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "胖",
-    "p": "pàng",
-    "m": "béo, mập",
-    "cat": "adjective",
-    "me": "fat, chubby",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "瘦",
-    "p": "shòu",
-    "m": "gầy",
-    "cat": "adjective",
-    "me": "thin",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "干净",
-    "p": "gānjìng",
-    "m": "sạch sẽ",
-    "cat": "adjective",
-    "me": "clean",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "坏",
-    "p": "huài",
-    "m": "xấu, hỏng",
-    "cat": "adjective",
-    "me": "bad, spoiled",
-    "pos": "Tính từ"
-  },
-  {
     "w": "帮助",
     "p": "bāngzhù",
     "m": "giúp đỡ",
@@ -157,36 +37,6 @@
     "example": "谢谢你的帮助。",
     "example_vi": "Cảm ơn sự giúp đỡ của bạn.",
     "me": "help",
-    "pos": "Động từ"
-  },
-  {
-    "w": "等",
-    "p": "děng",
-    "m": "đợi, chờ",
-    "cat": "verb",
-    "me": "wait",
-    "pos": "Động từ"
-  },
-  {
-    "w": "告诉",
-    "p": "gàosu",
-    "m": "nói, cho biết",
-    "cat": "verb",
-    "pos": "Động từ"
-  },
-  {
-    "w": "觉得",
-    "p": "juéde",
-    "m": "cảm thấy, nghĩ rằng",
-    "cat": "verb",
-    "pos": "Động từ"
-  },
-  {
-    "w": "开始",
-    "p": "kāishǐ",
-    "m": "bắt đầu",
-    "cat": "verb",
-    "me": "start",
     "pos": "Động từ"
   },
   {
@@ -218,22 +68,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "考试",
-    "p": "kǎoshì",
-    "m": "thi cử, kiểm tra",
-    "cat": "verb",
-    "me": "examination, test",
-    "pos": "Động từ"
-  },
-  {
-    "w": "决定",
-    "p": "juédìng",
-    "m": "quyết định",
-    "cat": "verb",
-    "me": "decide",
-    "pos": "Động từ"
-  },
-  {
     "w": "练习",
     "p": "liànxí",
     "m": "luyện tập",
@@ -241,13 +75,6 @@
     "example": "我每天练习写汉字。",
     "example_vi": "Mỗi ngày tôi luyện tập viết chữ Hán.",
     "me": "practice",
-    "pos": "Động từ"
-  },
-  {
-    "w": "了解",
-    "p": "liǎojiě",
-    "m": "hiểu, tìm hiểu",
-    "cat": "verb",
     "pos": "Động từ"
   },
   {
@@ -261,14 +88,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "旅游",
-    "p": "lǚyóu",
-    "m": "du lịch",
-    "cat": "verb",
-    "me": "travel",
-    "pos": "Động từ"
-  },
-  {
     "w": "试",
     "p": "shì",
     "m": "thử",
@@ -276,21 +95,6 @@
     "example": "你可以试一下这件衣服。",
     "example_vi": "Bạn có thể thử chiếc áo này một chút.",
     "me": "try",
-    "pos": "Động từ"
-  },
-  {
-    "w": "送",
-    "p": "sòng",
-    "m": "tặng, đưa đi",
-    "cat": "verb",
-    "pos": "Động từ"
-  },
-  {
-    "w": "跳舞",
-    "p": "tiàowǔ",
-    "m": "nhảy múa",
-    "cat": "verb",
-    "me": "dance",
     "pos": "Động từ"
   },
   {
@@ -312,78 +116,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "游泳",
-    "p": "yóuyǒng",
-    "m": "bơi lội",
-    "cat": "verb",
-    "me": "swim",
-    "pos": "Động từ"
-  },
-  {
-    "w": "找",
-    "p": "zhǎo",
-    "m": "tìm kiếm",
-    "cat": "verb",
-    "me": "search",
-    "pos": "Động từ"
-  },
-  {
-    "w": "站",
-    "p": "zhàn",
-    "m": "trạm, bến, ga, đứng",
-    "cat": "verb",
-    "me": "station, stop; stand",
-    "pos": "Động từ"
-  },
-  {
-    "w": "坐",
-    "p": "zuò",
-    "m": "ngồi",
-    "cat": "verb",
-    "me": "sit",
-    "pos": "Động từ"
-  },
-  {
-    "w": "跑",
-    "p": "pǎo",
-    "m": "chạy",
-    "cat": "verb",
-    "me": "run",
-    "pos": "Động từ"
-  },
-  {
-    "w": "笑",
-    "p": "xiào",
-    "m": "cười",
-    "cat": "verb",
-    "me": "laugh",
-    "pos": "Động từ"
-  },
-  {
-    "w": "哭",
-    "p": "kū",
-    "m": "khóc",
-    "cat": "verb",
-    "me": "cry",
-    "pos": "Động từ"
-  },
-  {
-    "w": "忘",
-    "p": "wàng",
-    "m": "quên",
-    "cat": "verb",
-    "me": "forget",
-    "pos": "Động từ"
-  },
-  {
-    "w": "希望",
-    "p": "xīwàng",
-    "m": "hy vọng",
-    "cat": "verb",
-    "me": "hope",
-    "pos": "Động từ"
-  },
-  {
     "w": "注意",
     "p": "zhùyì",
     "m": "chú ý",
@@ -392,13 +124,6 @@
     "example_vi": "Qua đường phải chú ý an toàn.",
     "me": "attention, to pay attention",
     "pos": "Động từ"
-  },
-  {
-    "w": "已经",
-    "p": "yǐjīng",
-    "m": "đã rồi",
-    "cat": "adverb",
-    "pos": "Phó từ"
   },
   {
     "w": "刚才",
@@ -411,30 +136,6 @@
     "pos": "Phó từ"
   },
   {
-    "w": "以前",
-    "p": "yǐqián",
-    "m": "trước đây",
-    "cat": "adverb",
-    "me": "previously",
-    "pos": "Phó từ"
-  },
-  {
-    "w": "以后",
-    "p": "yǐhòu",
-    "m": "sau này, sau đó",
-    "cat": "adverb",
-    "me": "afterward, later",
-    "pos": "Phó từ"
-  },
-  {
-    "w": "每天",
-    "p": "měitiān",
-    "m": "mỗi ngày",
-    "cat": "adverb",
-    "me": "every day",
-    "pos": "Phó từ"
-  },
-  {
     "w": "马上",
     "p": "mǎshàng",
     "m": "ngay lập tức",
@@ -442,14 +143,6 @@
     "example": "我马上就到。",
     "example_vi": "Tôi sẽ đến ngay lập tức.",
     "me": "immediately",
-    "pos": "Phó từ"
-  },
-  {
-    "w": "一直",
-    "p": "yīzhí",
-    "m": "liên tục, mãi mãi, thẳng, suốt, cứ, luôn luôn",
-    "cat": "adverb",
-    "me": "continuously, forever, always",
     "pos": "Phó từ"
   },
   {
@@ -493,29 +186,6 @@
     "pos": "Phó từ"
   },
   {
-    "w": "先",
-    "p": "xiān",
-    "m": "trước tiên",
-    "cat": "adverb",
-    "me": "first of all",
-    "pos": "Phó từ"
-  },
-  {
-    "w": "再",
-    "p": "zài",
-    "m": "lại, rồi lại",
-    "cat": "adverb",
-    "pos": "Phó từ"
-  },
-  {
-    "w": "然后",
-    "p": "ránhòu",
-    "m": "sau đó",
-    "cat": "conjunction",
-    "me": "afterward",
-    "pos": "Phó từ"
-  },
-  {
     "w": "身体",
     "p": "shēntǐ",
     "m": "thân thể, sức khỏe",
@@ -523,61 +193,6 @@
     "example": "多运动对身体好。",
     "example_vi": "Vận động nhiều tốt cho sức khỏe.",
     "me": "body, health",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "头",
-    "p": "tóu",
-    "m": "đầu",
-    "cat": "noun",
-    "me": "head",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "手",
-    "p": "shǒu",
-    "m": "tay",
-    "cat": "noun",
-    "me": "hand",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "脚",
-    "p": "jiǎo",
-    "m": "chân, bàn chân",
-    "cat": "noun",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "眼睛",
-    "p": "yǎnjing",
-    "m": "mắt",
-    "cat": "noun",
-    "me": "eye",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "耳朵",
-    "p": "ěrduo",
-    "m": "tai",
-    "cat": "noun",
-    "me": "ear",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "鼻子",
-    "p": "bízi",
-    "m": "mũi",
-    "cat": "noun",
-    "me": "nose",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "嘴",
-    "p": "zuǐ",
-    "m": "miệng",
-    "cat": "noun",
-    "me": "mouth",
     "pos": "Danh từ"
   },
   {
@@ -589,78 +204,6 @@
     "example_vi": "Anh ấy bị ốm, không đến lớp.",
     "me": "fall ill",
     "pos": "Động từ"
-  },
-  {
-    "w": "感冒",
-    "p": "gǎnmào",
-    "m": "cảm cúm",
-    "cat": "noun",
-    "me": "flu, cold",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "发烧",
-    "p": "fāshāo",
-    "m": "sốt",
-    "cat": "verb",
-    "me": "fever",
-    "pos": "Động từ"
-  },
-  {
-    "w": "医生",
-    "p": "yīshēng",
-    "m": "bác sĩ",
-    "cat": "noun",
-    "me": "doctor",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "医院",
-    "p": "yīyuàn",
-    "m": "bệnh viện",
-    "cat": "noun",
-    "me": "hospital",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "药",
-    "p": "yào",
-    "m": "thuốc",
-    "cat": "noun",
-    "me": "medicine",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "左边",
-    "p": "zuǒbiān",
-    "m": "bên trái",
-    "cat": "noun",
-    "me": "left",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "右边",
-    "p": "yòubiān",
-    "m": "bên phải",
-    "cat": "noun",
-    "me": "right side",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "前面",
-    "p": "qiánmiàn",
-    "m": "phía trước",
-    "cat": "noun",
-    "me": "front",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "后面",
-    "p": "hòumiàn",
-    "m": "phía sau",
-    "cat": "noun",
-    "me": "behind",
-    "pos": "Danh từ"
   },
   {
     "w": "上面",
@@ -680,38 +223,6 @@
     "example": "猫在床下面睡觉。",
     "example_vi": "Con mèo đang ngủ ở phía dưới giường.",
     "me": "below, underneath",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "里面",
-    "p": "lǐmiàn",
-    "m": "bên trong",
-    "cat": "noun",
-    "me": "inside",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "外面",
-    "p": "wàimiàn",
-    "m": "bên ngoài",
-    "cat": "noun",
-    "me": "outside",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "旁边",
-    "p": "pángbiān",
-    "m": "bên cạnh",
-    "cat": "noun",
-    "me": "next to",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "中间",
-    "p": "zhōngjiān",
-    "m": "ở giữa",
-    "cat": "noun",
-    "me": "middle",
     "pos": "Danh từ"
   },
   {
@@ -755,22 +266,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "自行车",
-    "p": "zìxíngchē",
-    "m": "xe đạp",
-    "cat": "noun",
-    "me": "bike",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "公共汽车",
-    "p": "gōnggòng qìchē",
-    "m": "xe buýt",
-    "cat": "noun",
-    "me": "bus",
-    "pos": "Danh từ"
-  },
-  {
     "w": "骑",
     "p": "qí",
     "m": "cưỡi, đạp (xe)",
@@ -789,14 +284,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "银行",
-    "p": "yínháng",
-    "m": "ngân hàng",
-    "cat": "noun",
-    "me": "bank",
-    "pos": "Danh từ"
-  },
-  {
     "w": "钱包",
     "p": "qiánbāo",
     "m": "ví tiền",
@@ -805,14 +292,6 @@
     "example_vi": "Ví tiền của tôi bị mất rồi.",
     "me": "wallet",
     "pos": "Danh từ"
-  },
-  {
-    "w": "便宜",
-    "p": "piányí",
-    "m": "rẻ",
-    "cat": "adjective",
-    "me": "cheap",
-    "pos": "Tính từ"
   },
   {
     "w": "打折",
@@ -831,43 +310,12 @@
     "pos": "Danh từ"
   },
   {
-    "w": "风",
-    "p": "fēng",
-    "m": "gió",
-    "cat": "noun",
-    "me": "wind",
-    "pos": "Danh từ"
-  },
-  {
     "w": "云",
     "p": "yún",
     "m": "mây",
     "cat": "noun",
     "me": "cloud",
     "pos": "Danh từ"
-  },
-  {
-    "w": "雨",
-    "p": "yǔ",
-    "m": "mưa",
-    "cat": "noun",
-    "me": "rain",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "雪",
-    "p": "xuě",
-    "m": "tuyết",
-    "cat": "noun",
-    "me": "snow",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "晴",
-    "p": "qíng",
-    "m": "trời nắng",
-    "cat": "adjective",
-    "pos": "Tính từ"
   },
   {
     "w": "阴",
@@ -906,30 +354,6 @@
     "pos": "Tính từ"
   },
   {
-    "w": "但是",
-    "p": "dànshì",
-    "m": "nhưng mà",
-    "cat": "conjunction",
-    "me": "but",
-    "pos": "Liên từ"
-  },
-  {
-    "w": "所以",
-    "p": "suǒyǐ",
-    "m": "vì vậy, cho nên, do đó, vì thế",
-    "cat": "conjunction",
-    "me": "therefore, thus, so",
-    "pos": "Liên từ"
-  },
-  {
-    "w": "因为",
-    "p": "yīnwèi",
-    "m": "vì, bởi vì",
-    "cat": "conjunction",
-    "me": "because",
-    "pos": "Liên từ"
-  },
-  {
     "w": "而且",
     "p": "érqiě",
     "m": "hơn nữa, và còn",
@@ -937,22 +361,6 @@
     "example": "这个菜好吃，而且不贵。",
     "example_vi": "Món ăn này ngon, hơn nữa còn không đắt.",
     "me": "moreover, and also",
-    "pos": "Liên từ"
-  },
-  {
-    "w": "虽然",
-    "p": "suīrán",
-    "m": "mặc dù, tuy nhiên, dù rằng, tuy rằng",
-    "cat": "conjunction",
-    "me": "although, however, even though",
-    "pos": "Liên từ"
-  },
-  {
-    "w": "如果",
-    "p": "rúguǒ",
-    "m": "nếu như",
-    "cat": "conjunction",
-    "me": "if",
     "pos": "Liên từ"
   },
   {
@@ -966,22 +374,6 @@
     "pos": "Liên từ"
   },
   {
-    "w": "一边",
-    "p": "yībiān",
-    "m": "vừa...vừa, một phía, vừa... vừa",
-    "cat": "conjunction",
-    "me": "on one hand... on the other hand",
-    "pos": "Liên từ"
-  },
-  {
-    "w": "一起",
-    "p": "yīqǐ",
-    "m": "cùng nhau",
-    "cat": "adverb",
-    "me": "together",
-    "pos": "Phó từ"
-  },
-  {
     "w": "还是",
     "p": "háishì",
     "m": "hay là, vẫn là",
@@ -989,14 +381,6 @@
     "example": "你喝茶还是咖啡？",
     "example_vi": "Bạn uống trà hay là cà phê?",
     "me": "or, still",
-    "pos": "Liên từ"
-  },
-  {
-    "w": "或者",
-    "p": "huòzhě",
-    "m": "hoặc là",
-    "cat": "conjunction",
-    "me": "or",
     "pos": "Liên từ"
   },
   {
@@ -1010,30 +394,6 @@
     "pos": "Liên từ"
   },
   {
-    "w": "其实",
-    "p": "qíshí",
-    "m": "thực ra, thật ra",
-    "cat": "adverb",
-    "me": "actually, in fact",
-    "pos": "Phó từ"
-  },
-  {
-    "w": "特别",
-    "p": "tèbié",
-    "m": "đặc biệt",
-    "cat": "adverb",
-    "me": "especially",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "一般",
-    "p": "yībān",
-    "m": "thông thường, bình thường",
-    "cat": "adjective",
-    "me": "ordinary, normal",
-    "pos": "Tính từ"
-  },
-  {
     "w": "各种",
     "p": "gèzhǒng",
     "m": "các loại, đủ loại",
@@ -1042,37 +402,6 @@
     "example_vi": "Trong siêu thị có đủ các loại hoa quả.",
     "me": "all kinds, every type",
     "pos": "Tính từ"
-  },
-  {
-    "w": "第一",
-    "p": "dìyī",
-    "m": "thứ nhất, số một",
-    "cat": "numeral",
-    "me": "first, number one",
-    "pos": "Số từ"
-  },
-  {
-    "w": "最",
-    "p": "zuì",
-    "m": "nhất (so sánh)",
-    "cat": "adverb",
-    "pos": "Phó từ"
-  },
-  {
-    "w": "越来越",
-    "p": "yuè lái yuè",
-    "m": "ngày càng",
-    "cat": "adverb",
-    "me": "increasingly",
-    "pos": "Phó từ"
-  },
-  {
-    "w": "非常",
-    "p": "fēicháng",
-    "m": "rất, vô cùng",
-    "cat": "adverb",
-    "me": "very, extremely",
-    "pos": "Phó từ"
   },
   {
     "w": "真",
@@ -1085,81 +414,12 @@
     "pos": "Phó từ"
   },
   {
-    "w": "必须",
-    "p": "bìxū",
-    "m": "phải, bắt buộc",
-    "cat": "adverb",
-    "me": "must, obligatory",
-    "pos": "Phó từ"
-  },
-  {
-    "w": "应该",
-    "p": "yīnggāi",
-    "m": "nên, phải",
-    "cat": "modal",
-    "me": "should, must",
-    "pos": "Động từ"
-  },
-  {
-    "w": "可以",
-    "p": "kěyǐ",
-    "m": "có thể, được phép",
-    "cat": "modal",
-    "me": "may, be permitted to",
-    "pos": "Động từ"
-  },
-  {
     "w": "可能",
     "p": "kěnéng",
     "m": "có thể, có khả năng",
     "cat": "modal",
     "me": "possible, capable",
     "pos": "Động từ"
-  },
-  {
-    "w": "要",
-    "p": "yào",
-    "m": "muốn, cần phải",
-    "cat": "modal",
-    "pos": "Động từ"
-  },
-  {
-    "w": "会",
-    "p": "huì",
-    "m": "sẽ, có thể (kỹ năng)",
-    "cat": "modal",
-    "pos": "Phó từ"
-  },
-  {
-    "w": "需要",
-    "p": "xūyào",
-    "m": "cần, cần thiết",
-    "cat": "verb",
-    "me": "necessary, needed",
-    "pos": "Động từ"
-  },
-  {
-    "w": "能",
-    "p": "néng",
-    "m": "có thể (năng lực)",
-    "cat": "modal",
-    "me": "can (ability)",
-    "pos": "Động từ"
-  },
-  {
-    "w": "问题",
-    "p": "wèntí",
-    "m": "vấn đề, câu hỏi",
-    "cat": "noun",
-    "me": "problem, question",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "事情",
-    "p": "shìqing",
-    "m": "sự việc, việc",
-    "cat": "noun",
-    "pos": "Danh từ"
   },
   {
     "w": "时间",
@@ -1169,13 +429,6 @@
     "example": "我们没有时间了。",
     "example_vi": "Chúng ta không còn thời gian nữa.",
     "me": "time",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "地方",
-    "p": "dìfang",
-    "m": "nơi, chỗ",
-    "cat": "noun",
     "pos": "Danh từ"
   },
   {
@@ -1215,22 +468,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "公司",
-    "p": "gōngsī",
-    "m": "công ty",
-    "cat": "noun",
-    "me": "company",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "作业",
-    "p": "zuòyè",
-    "m": "bài tập về nhà",
-    "cat": "noun",
-    "me": "homework",
-    "pos": "Danh từ"
-  },
-  {
     "w": "课",
     "p": "kè",
     "m": "bài học, tiết học",
@@ -1246,14 +483,6 @@
     "example": "这个字怎么写？",
     "example_vi": "Chữ này viết thế nào?",
     "me": "character, letter",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "故事",
-    "p": "gùshi",
-    "m": "câu chuyện",
-    "cat": "noun",
-    "me": "story",
     "pos": "Danh từ"
   },
   {

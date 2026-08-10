@@ -1,19 +1,5 @@
 [
   {
-    "w": "sparrow",
-    "m": "chim sẻ",
-    "cat": "thiên nhiên",
-    "p": "spˈæɹoʊ",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "pigeon",
-    "m": "bồ câu",
-    "cat": "thiên nhiên",
-    "p": "pˈɪdʒən",
-    "pos": "Danh từ"
-  },
-  {
     "w": "crow",
     "m": "quạ",
     "cat": "thiên nhiên",
@@ -119,13 +105,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "parrot",
-    "m": "con vẹt",
-    "cat": "thiên nhiên",
-    "p": "pˈæɹət",
-    "pos": "Danh từ"
-  },
-  {
     "w": "canary",
     "m": "chim hoàng yến",
     "cat": "thiên nhiên",
@@ -144,13 +123,6 @@
     "m": "con nhím",
     "cat": "thiên nhiên",
     "p": "hˈɛdʒhɑːɡ",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "squirrel",
-    "m": "con sóc",
-    "cat": "thiên nhiên",
-    "p": "skwˈɜːl",
     "pos": "Danh từ"
   },
   {
@@ -357,13 +329,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "lizard",
-    "m": "thằn lằn",
-    "cat": "thiên nhiên",
-    "p": "lˈɪzɚd",
-    "pos": "Danh từ"
-  },
-  {
     "w": "chameleon",
     "m": "tắc kè hoa",
     "cat": "thiên nhiên",
@@ -469,13 +434,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "snail",
-    "m": "ốc sên",
-    "cat": "thiên nhiên",
-    "p": "snˈeɪl",
-    "pos": "Danh từ"
-  },
-  {
     "w": "slug",
     "m": "sên trần",
     "cat": "thiên nhiên",
@@ -529,13 +487,6 @@
     "m": "chuồn chuồn",
     "cat": "thiên nhiên",
     "p": "dɹˈæɡənflˌaɪ",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "butterfly",
-    "m": "bươm bướm",
-    "cat": "thiên nhiên",
-    "p": "bˈʌɾɚflˌaɪ",
     "pos": "Danh từ"
   },
   {
@@ -882,20 +833,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "forehead",
-    "m": "trán",
-    "cat": "sức khỏe",
-    "p": "fˈɔːɹhɛd",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "eyebrow",
-    "m": "lông mày",
-    "cat": "sức khỏe",
-    "p": "ˈaɪbɹaʊ",
-    "pos": "Danh từ"
-  },
-  {
     "w": "eyelash",
     "m": "lông mi",
     "cat": "sức khỏe",
@@ -907,20 +844,6 @@
     "m": "mí mắt",
     "cat": "sức khỏe",
     "p": "ˈaɪlɪd",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "cheek",
-    "m": "má",
-    "cat": "sức khỏe",
-    "p": "tʃˈiːk",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "chin",
-    "m": "cằm",
-    "cat": "sức khỏe",
-    "p": "tʃˈɪn",
     "pos": "Danh từ"
   },
   {
@@ -973,13 +896,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "hip",
-    "m": "hông",
-    "cat": "sức khỏe",
-    "p": "hˈɪp",
-    "pos": "Danh từ"
-  },
-  {
     "w": "thigh",
     "m": "đùi",
     "cat": "sức khỏe",
@@ -994,13 +910,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "ankle",
-    "m": "mắt cá chân",
-    "cat": "sức khỏe",
-    "p": "ˈæŋkəl",
-    "pos": "Danh từ"
-  },
-  {
     "w": "heel",
     "m": "gót chân",
     "cat": "sức khỏe",
@@ -1008,45 +917,10 @@
     "pos": "Danh từ"
   },
   {
-    "w": "toe",
-    "m": "ngón chân",
-    "cat": "sức khỏe",
-    "p": "tˈoʊ",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "thumb",
-    "m": "ngón cái",
-    "cat": "sức khỏe",
-    "p": "θˈʌm",
-    "pos": "Danh từ"
-  },
-  {
     "w": "knuckle",
     "m": "khớp ngón tay",
     "cat": "sức khỏe",
     "p": "nˈʌkəl",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "palm",
-    "m": "lòng bàn tay",
-    "cat": "sức khỏe",
-    "p": "pˈɑːm",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "wrist",
-    "m": "cổ tay",
-    "cat": "sức khỏe",
-    "p": "ɹˈɪst",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "elbow",
-    "m": "khuỷu tay",
-    "cat": "sức khỏe",
-    "p": "ˈɛlboʊ",
     "pos": "Danh từ"
   },
   {
@@ -1120,13 +994,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "scarf",
-    "m": "khăn quàng cổ",
-    "cat": "đồ vật",
-    "p": "skˈɑːɹf",
-    "pos": "Danh từ"
-  },
-  {
     "w": "glove",
     "m": "găng tay",
     "cat": "đồ vật",
@@ -1152,20 +1019,6 @@
     "m": "tất dài",
     "cat": "đồ vật",
     "p": "stˈɑːkɪŋ",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "sandal",
-    "m": "dép quai",
-    "cat": "đồ vật",
-    "p": "sˈændəl",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "slipper",
-    "m": "dép lê",
-    "cat": "đồ vật",
-    "p": "slˈɪpɚ",
     "pos": "Danh từ"
   },
   {
@@ -1211,13 +1064,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "raincoat",
-    "m": "áo mưa",
-    "cat": "đồ vật",
-    "p": "ɹˈeɪŋkoʊt",
-    "pos": "Danh từ"
-  },
-  {
     "w": "apron",
     "m": "tạp dề",
     "cat": "đồ vật",
@@ -1260,20 +1106,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "sleeve",
-    "m": "tay áo",
-    "cat": "đồ vật",
-    "p": "slˈiːv",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "belt",
-    "m": "thắt lưng",
-    "cat": "đồ vật",
-    "p": "bˈɛlt",
-    "pos": "Danh từ"
-  },
-  {
     "w": "tie",
     "m": "hòa (tỷ số), cà vạt",
     "cat": "đồ vật",
@@ -1293,27 +1125,6 @@
     "cat": "đồ vật",
     "p": "bɹˈoʊtʃ",
     "pos": "Danh từ"
-  },
-  {
-    "w": "necklace",
-    "m": "vòng cổ",
-    "cat": "đồ vật",
-    "p": "nˈɛkləs",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "bracelet",
-    "m": "vòng tay",
-    "cat": "đồ vật",
-    "p": "bɹˈeɪslɪt",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "earring",
-    "m": "khuyên tai",
-    "cat": "đồ vật",
-    "p": "ˈɪɹɪŋ",
-    "pos": "Động từ"
   },
   {
     "w": "pendant",
@@ -1355,13 +1166,6 @@
     "m": "đặc, rắn chắc",
     "cat": "tính từ",
     "p": "sˈɑːlɪd",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "slippery",
-    "m": "trơn trượt",
-    "cat": "tính từ",
-    "p": "slˈɪpɚɹi",
     "pos": "Tính từ"
   },
   {
@@ -1442,13 +1246,6 @@
     "pos": "Phó từ"
   },
   {
-    "w": "flexible",
-    "m": "dẻo, linh hoạt",
-    "cat": "tính từ",
-    "p": "flˈɛksɪbəl",
-    "pos": "Tính từ"
-  },
-  {
     "w": "stiff",
     "m": "cứng đờ",
     "cat": "tính từ",
@@ -1467,13 +1264,6 @@
     "m": "lỏng, rộng",
     "cat": "tính từ",
     "p": "lˈuːs",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "narrow",
-    "m": "hẹp",
-    "cat": "tính từ",
-    "p": "nˈæɹoʊ",
     "pos": "Tính từ"
   },
   {
@@ -1505,24 +1295,10 @@
     "pos": "Tính từ"
   },
   {
-    "w": "cosy",
-    "m": "ấm cúng",
-    "cat": "tính từ",
-    "p": "kˈoʊzi",
-    "pos": "Tính từ"
-  },
-  {
     "w": "gloomy",
     "m": "u ám, buồn rầu, ảm đạm, bi quan",
     "cat": "tính từ",
     "p": "ɡlˈuːmi",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "bright",
-    "m": "sáng sủa",
-    "cat": "tính từ",
-    "p": "bɹˈaɪt",
     "pos": "Tính từ"
   },
   {
@@ -1558,20 +1334,6 @@
     "m": "đắng",
     "cat": "tính từ",
     "p": "bˈɪɾɚ",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "salty",
-    "m": "mặn",
-    "cat": "tính từ",
-    "p": "sˈɔlti",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "spicy",
-    "m": "cay",
-    "cat": "tính từ",
-    "p": "spˈaɪsi",
     "pos": "Tính từ"
   },
   {
@@ -1628,13 +1390,6 @@
     "m": "ôi, cũ (bánh)",
     "cat": "tính từ",
     "p": "stˈeɪl",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "fresh",
-    "m": "tươi",
-    "cat": "tính từ",
-    "p": "fɹˈɛʃ",
     "pos": "Tính từ"
   },
   {
@@ -1827,27 +1582,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "yawn",
-    "m": "ngáp",
-    "cat": "hành động",
-    "p": "jˈɔːn",
-    "pos": "Động từ"
-  },
-  {
-    "w": "sneeze",
-    "m": "hắt hơi",
-    "cat": "hành động",
-    "p": "snˈiːz",
-    "pos": "Động từ"
-  },
-  {
-    "w": "cough",
-    "m": "ho",
-    "cat": "hành động",
-    "p": "kˈɔf",
-    "pos": "Động từ"
-  },
-  {
     "w": "hiccup",
     "m": "nấc cụt",
     "cat": "hành động",
@@ -1897,24 +1631,10 @@
     "pos": "Động từ"
   },
   {
-    "w": "hug",
-    "m": "ôm",
-    "cat": "hành động",
-    "p": "hˈʌɡ",
-    "pos": "Động từ"
-  },
-  {
     "w": "squeeze",
     "m": "siết, bóp",
     "cat": "hành động",
     "p": "skwˈiːz",
-    "pos": "Động từ"
-  },
-  {
-    "w": "stretch",
-    "m": "khởi động, duỗi người, giãn cơ, vươn vai, kéo giãn",
-    "cat": "hành động",
-    "p": "stɹˈɛtʃ",
     "pos": "Động từ"
   },
   {
@@ -2009,13 +1729,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "sink",
-    "m": "bồn rửa, chìm",
-    "cat": "hành động",
-    "p": "sˈɪŋk",
-    "pos": "Động từ"
-  },
-  {
     "w": "splash",
     "m": "bắn tóe nước",
     "cat": "hành động",
@@ -2027,13 +1740,6 @@
     "m": "nhỏ giọt",
     "cat": "hành động",
     "p": "dɹˈɪp",
-    "pos": "Động từ"
-  },
-  {
-    "w": "pour",
-    "m": "rót, đổ",
-    "cat": "hành động",
-    "p": "pˈɔːɹ",
     "pos": "Động từ"
   },
   {
@@ -2076,13 +1782,6 @@
     "m": "liếm",
     "cat": "hành động",
     "p": "lˈɪk",
-    "pos": "Động từ"
-  },
-  {
-    "w": "whisper",
-    "m": "thì thầm",
-    "cat": "hành động",
-    "p": "wˈɪspɚ",
     "pos": "Động từ"
   },
   {

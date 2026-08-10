@@ -1,89 +1,10 @@
 [
   {
-    "w": "旅游",
-    "p": "lǚ yóu",
-    "m": "du lịch",
-    "cat": "travel",
-    "me": "travel",
-    "pos": "Động từ"
-  },
-  {
-    "w": "旅馆",
-    "p": "lǚ guǎn",
-    "m": "nhà trọ, khách sạn nhỏ",
-    "cat": "travel",
-    "me": "inn, small hotel",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "宾馆",
-    "p": "bīn guǎn",
-    "m": "khách sạn",
-    "cat": "travel",
-    "me": "hotel",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "护照",
-    "p": "hù zhào",
-    "m": "hộ chiếu",
-    "cat": "travel",
-    "me": "passport",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "签证",
-    "p": "qiān zhèng",
-    "m": "thị thực, visa",
-    "cat": "travel",
-    "me": "visa",
-    "pos": "Danh từ"
-  },
-  {
     "w": "航班",
     "p": "háng bān",
     "m": "chuyến bay",
     "cat": "travel",
     "me": "flight",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "机场",
-    "p": "jī chǎng",
-    "m": "sân bay",
-    "cat": "travel",
-    "me": "airport",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "出发",
-    "p": "chū fā",
-    "m": "khởi hành, xuất phát",
-    "cat": "travel",
-    "me": "departure",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "到达",
-    "p": "dào dá",
-    "m": "đến nơi, tới nơi",
-    "cat": "travel",
-    "pos": "Động từ"
-  },
-  {
-    "w": "行李",
-    "p": "xíng lǐ",
-    "m": "hành lý",
-    "cat": "travel",
-    "me": "luggage",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "地图",
-    "p": "dì tú",
-    "m": "bản đồ",
-    "cat": "travel",
-    "me": "map",
     "pos": "Danh từ"
   },
   {
@@ -117,14 +38,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "爬山",
-    "p": "pá shān",
-    "m": "leo núi",
-    "cat": "travel",
-    "me": "climbing",
-    "pos": "Danh từ"
-  },
-  {
     "w": "海边",
     "p": "hǎi biān",
     "m": "bờ biển",
@@ -143,13 +56,6 @@
     "example_vi": "Du khách đang dạo xem trong công viên.",
     "me": "visit, look around",
     "pos": "Danh từ"
-  },
-  {
-    "w": "打算",
-    "p": "dǎ suàn",
-    "m": "dự định",
-    "cat": "travel",
-    "pos": "Động từ"
   },
   {
     "w": "行程",
@@ -178,14 +84,6 @@
     "cat": "travel",
     "me": "book a room",
     "pos": "Động từ"
-  },
-  {
-    "w": "地址",
-    "p": "dì zhǐ",
-    "m": "địa chỉ",
-    "cat": "travel",
-    "me": "address",
-    "pos": "Danh từ"
   },
   {
     "w": "方向",
@@ -248,30 +146,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "路",
-    "p": "lù",
-    "m": "đường, con đường",
-    "cat": "travel",
-    "me": "road",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "时间",
-    "p": "shí jiān",
-    "m": "thời gian",
-    "cat": "travel",
-    "me": "time",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "超市",
-    "p": "chāo shì",
-    "m": "siêu thị",
-    "cat": "shopping",
-    "me": "supermarket",
-    "pos": "Danh từ"
-  },
-  {
     "w": "商场",
     "p": "shāng chǎng",
     "m": "trung tâm thương mại",
@@ -280,29 +154,6 @@
     "example_vi": "Chúng tôi đến trung tâm thương mại mua quần áo.",
     "me": "mall",
     "pos": "Danh từ"
-  },
-  {
-    "w": "价格",
-    "p": "jià gé",
-    "m": "giá cả",
-    "cat": "shopping",
-    "me": "price",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "便宜",
-    "p": "pián yi",
-    "m": "rẻ, giá rẻ",
-    "cat": "shopping",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "打折",
-    "p": "dǎ zhé",
-    "m": "giảm giá",
-    "cat": "shopping",
-    "me": "discount",
-    "pos": "Động từ"
   },
   {
     "w": "牌子",
@@ -325,14 +176,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "选择",
-    "p": "xuǎn zé",
-    "m": "lựa chọn",
-    "cat": "shopping",
-    "me": "option",
-    "pos": "Động từ"
-  },
-  {
     "w": "试穿",
     "p": "shì chuān",
     "m": "mặc thử",
@@ -351,14 +194,6 @@
     "example_vi": "Màu này rất phù hợp với bạn.",
     "me": "suitable",
     "pos": "Động từ"
-  },
-  {
-    "w": "满意",
-    "p": "mǎn yì",
-    "m": "hài lòng",
-    "cat": "shopping",
-    "me": "pleased",
-    "pos": "Tính từ"
   },
   {
     "w": "特价",
@@ -451,14 +286,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "健康",
-    "p": "jiàn kāng",
-    "m": "sức khỏe, khỏe mạnh",
-    "cat": "health",
-    "me": "health, healthy",
-    "pos": "Danh từ"
-  },
-  {
     "w": "营养",
     "p": "yíng yǎng",
     "m": "dinh dưỡng",
@@ -467,22 +294,6 @@
     "example_vi": "Loại thực phẩm này rất giàu dinh dưỡng.",
     "me": "nutrition",
     "pos": "Danh từ"
-  },
-  {
-    "w": "锻炼",
-    "p": "duàn liàn",
-    "m": "tập luyện",
-    "cat": "health",
-    "me": "train, practice",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "休息",
-    "p": "xiū xi",
-    "m": "nghỉ ngơi",
-    "cat": "health",
-    "me": "rest",
-    "pos": "Động từ"
   },
   {
     "w": "睡眠",
@@ -495,14 +306,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "感觉",
-    "p": "gǎn jué",
-    "m": "cảm giác",
-    "cat": "health",
-    "me": "feeling, sensation",
-    "pos": "Danh từ"
-  },
-  {
     "w": "疼",
     "p": "téng",
     "m": "đau",
@@ -510,21 +313,6 @@
     "example": "我的牙很疼。",
     "example_vi": "Răng của tôi rất đau.",
     "me": "pain",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "舒服",
-    "p": "shū fu",
-    "m": "dễ chịu",
-    "cat": "health",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "难受",
-    "p": "nán shòu",
-    "m": "khó chịu",
-    "cat": "health",
-    "me": "uncomfortable, annoyed",
     "pos": "Tính từ"
   },
   {
@@ -572,77 +360,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "蔬菜",
-    "p": "shū cài",
-    "m": "rau củ",
-    "cat": "health",
-    "me": "vegetable",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "肉",
-    "p": "ròu",
-    "m": "thịt",
-    "cat": "health",
-    "me": "meat",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "鱼",
-    "p": "yú",
-    "m": "cá",
-    "cat": "health",
-    "me": "fish",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "水果",
-    "p": "shuǐ guǒ",
-    "m": "trái cây",
-    "cat": "health",
-    "me": "fruit",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "面包",
-    "p": "miàn bāo",
-    "m": "bánh mì",
-    "cat": "health",
-    "me": "bread",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "牛奶",
-    "p": "niú nǎi",
-    "m": "sữa bò",
-    "cat": "health",
-    "me": "cow's milk",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "鸡",
-    "p": "jī",
-    "m": "gà",
-    "cat": "health",
-    "me": "chicken",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "猪肉",
-    "p": "zhū ròu",
-    "m": "thịt lợn",
-    "cat": "health",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "牛肉",
-    "p": "niú ròu",
-    "m": "thịt bò",
-    "cat": "health",
-    "me": "beef",
-    "pos": "Danh từ"
-  },
-  {
     "w": "羊肉",
     "p": "yáng ròu",
     "m": "thịt cừu",
@@ -663,57 +380,11 @@
     "pos": "Danh từ"
   },
   {
-    "w": "医院",
-    "p": "yī yuàn",
-    "m": "bệnh viện",
-    "cat": "health",
-    "me": "hospital",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "医生",
-    "p": "yī shēng",
-    "m": "bác sĩ",
-    "cat": "health",
-    "me": "doctor",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "药",
-    "p": "yào",
-    "m": "thuốc",
-    "cat": "health",
-    "me": "medicine",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "生病",
-    "p": "shēng bìng",
-    "m": "bị bệnh, ốm",
-    "cat": "health",
-    "pos": "Tính từ"
-  },
-  {
     "w": "治疗",
     "p": "zhì liáo",
     "m": "điều trị",
     "cat": "health",
     "me": "treatment",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "发烧",
-    "p": "fā shāo",
-    "m": "sốt",
-    "cat": "health",
-    "me": "fever",
-    "pos": "Động từ"
-  },
-  {
-    "w": "感冒",
-    "p": "gǎn mào",
-    "m": "cảm lạnh, cảm cúm",
-    "cat": "health",
     "pos": "Danh từ"
   },
   {
@@ -727,51 +398,12 @@
     "pos": "Danh từ"
   },
   {
-    "w": "工作",
-    "p": "gōng zuò",
-    "m": "công việc, làm việc",
-    "cat": "work",
-    "pos": "Động từ"
-  },
-  {
-    "w": "公司",
-    "p": "gōng sī",
-    "m": "công ty",
-    "cat": "work",
-    "me": "company",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "同事",
-    "p": "tóng shì",
-    "m": "đồng nghiệp",
-    "cat": "work",
-    "me": "colleague",
-    "pos": "Danh từ"
-  },
-  {
     "w": "经理",
     "p": "jīng lǐ",
     "m": "giám đốc, quản lý",
     "cat": "work",
     "me": "director, manager",
     "pos": "Động từ"
-  },
-  {
-    "w": "老板",
-    "p": "lǎo bǎn",
-    "m": "ông chủ, sếp",
-    "cat": "work",
-    "me": "boss",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "工资",
-    "p": "gōng zī",
-    "m": "lương, tiền lương",
-    "cat": "work",
-    "me": "salary, wages",
-    "pos": "Danh từ"
   },
   {
     "w": "职业",
@@ -820,14 +452,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "办公室",
-    "p": "bàn gōng shì",
-    "m": "văn phòng",
-    "cat": "work",
-    "me": "office",
-    "pos": "Danh từ"
-  },
-  {
     "w": "部门",
     "p": "bù mén",
     "m": "bộ phận, phòng ban",
@@ -844,14 +468,6 @@
     "example_vi": "Đây là nhiệm vụ của bạn.",
     "me": "mission, task",
     "pos": "Danh từ"
-  },
-  {
-    "w": "完成",
-    "p": "wán chéng",
-    "m": "hoàn thành",
-    "cat": "work",
-    "me": "complete",
-    "pos": "Động từ"
   },
   {
     "w": "负责",
@@ -952,34 +568,12 @@
     "pos": "Danh từ"
   },
   {
-    "w": "学校",
-    "p": "xué xiào",
-    "m": "trường học",
-    "cat": "education",
-    "me": "school",
-    "pos": "Danh từ"
-  },
-  {
     "w": "大学",
     "p": "dà xué",
     "m": "đại học",
     "cat": "education",
     "me": "university",
     "pos": "Danh từ"
-  },
-  {
-    "w": "老师",
-    "p": "lǎo shī",
-    "m": "giáo viên, thầy cô",
-    "cat": "education",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "学生",
-    "p": "xué shēng",
-    "m": "học sinh, sinh viên",
-    "cat": "education",
-    "pos": "Động từ"
   },
   {
     "w": "课程",
@@ -990,67 +584,12 @@
     "pos": "Danh từ"
   },
   {
-    "w": "教室",
-    "p": "jiào shì",
-    "m": "phòng học",
-    "cat": "education",
-    "me": "classroom",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "作业",
-    "p": "zuò yè",
-    "m": "bài tập về nhà",
-    "cat": "education",
-    "me": "homework",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "考试",
-    "p": "kǎo shì",
-    "m": "kỳ thi",
-    "cat": "education",
-    "me": "exam",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "成绩",
-    "p": "chéng jì",
-    "m": "thành tích, điểm số",
-    "cat": "education",
-    "me": "achievement, score",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "图书馆",
-    "p": "tú shū guǎn",
-    "m": "thư viện",
-    "cat": "education",
-    "me": "library",
-    "pos": "Danh từ"
-  },
-  {
     "w": "知识",
     "p": "zhī shi",
     "m": "kiến thức",
     "cat": "education",
     "me": "knowledge",
     "pos": "Danh từ"
-  },
-  {
-    "w": "学习",
-    "p": "xué xí",
-    "m": "học, học tập",
-    "cat": "education",
-    "pos": "Động từ"
-  },
-  {
-    "w": "练习",
-    "p": "liàn xí",
-    "m": "luyện tập",
-    "cat": "education",
-    "me": "practice",
-    "pos": "Động từ"
   },
   {
     "w": "讨论",
@@ -1091,14 +630,6 @@
     "example_vi": "Xin hãy ghi chú cẩn thận.",
     "me": "note",
     "pos": "Động từ"
-  },
-  {
-    "w": "毕业",
-    "p": "bì yè",
-    "m": "tốt nghiệp",
-    "cat": "education",
-    "me": "graduate",
-    "pos": "Danh từ"
   },
   {
     "w": "专业",
@@ -1161,29 +692,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "节日",
-    "p": "jié rì",
-    "m": "ngày lễ, ngày hội",
-    "cat": "culture",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "春节",
-    "p": "chūn jié",
-    "m": "Tết Nguyên Đán",
-    "cat": "culture",
-    "me": "Lunar New Year",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "中秋节",
-    "p": "zhōng qiū jié",
-    "m": "Tết Trung Thu",
-    "cat": "culture",
-    "me": "Mid-Autumn Festival",
-    "pos": "Danh từ"
-  },
-  {
     "w": "传统",
     "p": "chuán tǒng",
     "m": "truyền thống",
@@ -1213,14 +721,6 @@
     "m": "lịch sử",
     "cat": "culture",
     "me": "historical",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "故事",
-    "p": "gù shi",
-    "m": "câu chuyện",
-    "cat": "culture",
-    "me": "story",
     "pos": "Danh từ"
   },
   {
@@ -1292,37 +792,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "音乐",
-    "p": "yīn yuè",
-    "m": "âm nhạc",
-    "cat": "culture",
-    "me": "music",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "电影",
-    "p": "diàn yǐng",
-    "m": "phim, điện ảnh",
-    "cat": "culture",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "书",
-    "p": "shū",
-    "m": "sách",
-    "cat": "culture",
-    "me": "book",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "杂志",
-    "p": "zá zhì",
-    "m": "tạp chí",
-    "cat": "culture",
-    "me": "magazine",
-    "pos": "Danh từ"
-  },
-  {
     "w": "新闻",
     "p": "xīn wén",
     "m": "tin tức",
@@ -1367,29 +836,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "书法",
-    "p": "shū fǎ",
-    "m": "thư pháp",
-    "cat": "culture",
-    "me": "calligraphy",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "高兴",
-    "p": "gāo xìng",
-    "m": "vui vẻ, vui mừng",
-    "cat": "emotions",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "开心",
-    "p": "kāi xīn",
-    "m": "vui lòng, phấn khởi, vui vẻ, vui mừng, sung sướng",
-    "cat": "emotions",
-    "me": "pleased, delighted, happy",
-    "pos": "Danh từ"
-  },
-  {
     "w": "快乐",
     "p": "kuài lè",
     "m": "hạnh phúc, vui vẻ",
@@ -1400,84 +846,6 @@
     "pos": "Tính từ"
   },
   {
-    "w": "难过",
-    "p": "nán guò",
-    "m": "buồn bã, khổ tâm, đau lòng, đau khổ, khó chịu",
-    "cat": "emotions",
-    "me": "sad, distressed, heartbroken, suffering, upset",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "伤心",
-    "p": "shāng xīn",
-    "m": "đau lòng, buồn bã",
-    "cat": "emotions",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "生气",
-    "p": "shēng qì",
-    "m": "tức giận",
-    "cat": "emotions",
-    "me": "angry",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "害怕",
-    "p": "hài pà",
-    "m": "sợ hãi",
-    "cat": "emotions",
-    "me": "scared",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "担心",
-    "p": "dān xīn",
-    "m": "lo lắng",
-    "cat": "emotions",
-    "me": "worried",
-    "pos": "Động từ"
-  },
-  {
-    "w": "紧张",
-    "p": "jǐn zhāng",
-    "m": "căng thẳng, hồi hộp",
-    "cat": "emotions",
-    "me": "tense, anxious",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "放松",
-    "p": "fàng sōng",
-    "m": "thư giãn",
-    "cat": "emotions",
-    "pos": "Động từ"
-  },
-  {
-    "w": "失望",
-    "p": "shī wàng",
-    "m": "thất vọng",
-    "cat": "emotions",
-    "me": "disappointed",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "后悔",
-    "p": "hòu huǐ",
-    "m": "hối hận",
-    "cat": "emotions",
-    "me": "regret",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "感谢",
-    "p": "gǎn xiè",
-    "m": "cảm ơn, biết ơn",
-    "cat": "emotions",
-    "me": "thank, be grateful",
-    "pos": "Động từ"
-  },
-  {
     "w": "感动",
     "p": "gǎn dòng",
     "m": "cảm động, xúc động",
@@ -1486,14 +854,6 @@
     "example_vi": "Câu chuyện này khiến tôi rất cảm động.",
     "me": "moved, touched",
     "pos": "Danh từ"
-  },
-  {
-    "w": "惊讶",
-    "p": "jīng yà",
-    "m": "ngạc nhiên",
-    "cat": "emotions",
-    "me": "surprised",
-    "pos": "Động từ"
   },
   {
     "w": "好奇",
@@ -1534,54 +894,6 @@
     "pos": "Tính từ"
   },
   {
-    "w": "希望",
-    "p": "xī wàng",
-    "m": "hy vọng",
-    "cat": "emotions",
-    "me": "hope",
-    "pos": "Động từ"
-  },
-  {
-    "w": "花",
-    "p": "huā",
-    "m": "hoa",
-    "cat": "nature",
-    "me": "flower",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "树",
-    "p": "shù",
-    "m": "cây",
-    "cat": "nature",
-    "me": "tree",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "草",
-    "p": "cǎo",
-    "m": "cỏ",
-    "cat": "nature",
-    "me": "grass",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "山",
-    "p": "shān",
-    "m": "núi",
-    "cat": "nature",
-    "me": "mountain",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "河",
-    "p": "hé",
-    "m": "sông",
-    "cat": "nature",
-    "me": "river",
-    "pos": "Danh từ"
-  },
-  {
     "w": "湖",
     "p": "hú",
     "m": "hồ",
@@ -1589,14 +901,6 @@
     "example": "这个湖很美。",
     "example_vi": "Cái hồ này rất đẹp.",
     "me": "lake",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "海",
-    "p": "hǎi",
-    "m": "biển",
-    "cat": "nature",
-    "me": "sea",
     "pos": "Danh từ"
   },
   {
@@ -1610,99 +914,11 @@
     "pos": "Danh từ"
   },
   {
-    "w": "太阳",
-    "p": "tài yáng",
-    "m": "mặt trời",
-    "cat": "nature",
-    "me": "sun",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "月亮",
-    "p": "yuè liang",
-    "m": "mặt trăng",
-    "cat": "nature",
-    "me": "moon",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "星星",
-    "p": "xīng xing",
-    "m": "ngôi sao",
-    "cat": "nature",
-    "me": "star",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "云",
-    "p": "yún",
-    "m": "đám mây",
-    "cat": "nature",
-    "me": "cloud",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "风",
-    "p": "fēng",
-    "m": "gió",
-    "cat": "nature",
-    "me": "wind",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "雨",
-    "p": "yǔ",
-    "m": "mưa",
-    "cat": "nature",
-    "me": "rain",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "雪",
-    "p": "xuě",
-    "m": "tuyết",
-    "cat": "nature",
-    "me": "snow",
-    "pos": "Danh từ"
-  },
-  {
     "w": "季节",
     "p": "jì jié",
     "m": "mùa trong năm",
     "cat": "nature",
     "me": "season",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "春天",
-    "p": "chūn tiān",
-    "m": "mùa xuân",
-    "cat": "nature",
-    "me": "spring",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "夏天",
-    "p": "xià tiān",
-    "m": "mùa hè",
-    "cat": "nature",
-    "me": "summer",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "秋天",
-    "p": "qiū tiān",
-    "m": "mùa thu",
-    "cat": "nature",
-    "me": "autumn",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "冬天",
-    "p": "dōng tiān",
-    "m": "mùa đông",
-    "cat": "nature",
-    "me": "winter",
     "pos": "Danh từ"
   },
   {
@@ -1713,30 +929,6 @@
     "example": "他很努力，因此考试成绩很好。",
     "example_vi": "Anh ấy rất cố gắng, vì vậy kết quả thi rất tốt.",
     "me": "therefore",
-    "pos": "Liên từ"
-  },
-  {
-    "w": "所以",
-    "p": "suǒ yǐ",
-    "m": "vì vậy, cho nên, do đó, vì thế",
-    "cat": "grammar",
-    "me": "therefore, thus, so",
-    "pos": "Liên từ"
-  },
-  {
-    "w": "虽然",
-    "p": "suī rán",
-    "m": "mặc dù, tuy nhiên, dù rằng, tuy rằng",
-    "cat": "grammar",
-    "me": "although, however, even though",
-    "pos": "Liên từ"
-  },
-  {
-    "w": "但是",
-    "p": "dàn shì",
-    "m": "nhưng mà",
-    "cat": "grammar",
-    "me": "but",
     "pos": "Liên từ"
   },
   {
@@ -1788,28 +980,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "而且",
-    "p": "ér qiě",
-    "m": "hơn nữa, mà còn",
-    "cat": "grammar",
-    "pos": "Phó từ"
-  },
-  {
-    "w": "不但",
-    "p": "bù dàn",
-    "m": "không chỉ",
-    "cat": "grammar",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "既然",
-    "p": "jì rán",
-    "m": "đã thế, đã vậy",
-    "cat": "grammar",
-    "me": "since that's the case",
-    "pos": "Liên từ"
-  },
-  {
     "w": "一方面",
     "p": "yī fāng miàn",
     "m": "một mặt",
@@ -1826,13 +996,6 @@
     "example_vi": "Một mặt anh ấy rất thông minh, mặt khác anh ấy cũng rất chăm chỉ.",
     "me": "on the other hand",
     "pos": "Danh từ"
-  },
-  {
-    "w": "其实",
-    "p": "qí shí",
-    "m": "thực ra",
-    "cat": "grammar",
-    "pos": "Phó từ"
   },
   {
     "w": "确实",
@@ -1865,29 +1028,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "好像",
-    "p": "hǎo xiàng",
-    "m": "hình như, giống như, có vẻ như",
-    "cat": "grammar",
-    "me": "it seems, as if, apparently",
-    "pos": "Phó từ"
-  },
-  {
-    "w": "应该",
-    "p": "yīng gāi",
-    "m": "nên, phải nên",
-    "cat": "grammar",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "必须",
-    "p": "bì xū",
-    "m": "phải, bắt buộc",
-    "cat": "grammar",
-    "me": "must, obligatory",
-    "pos": "Phó từ"
-  },
-  {
     "w": "能够",
     "p": "néng gòu",
     "m": "có thể",
@@ -1896,14 +1036,6 @@
     "example_vi": "Tôi tin rằng bạn có thể làm được.",
     "me": "possible",
     "pos": "Tính từ"
-  },
-  {
-    "w": "可以",
-    "p": "kě yǐ",
-    "m": "có thể, được phép",
-    "cat": "grammar",
-    "me": "may, be permitted to",
-    "pos": "Động từ"
   },
   {
     "w": "不得不",
@@ -1946,14 +1078,6 @@
     "pos": "Tính từ"
   },
   {
-    "w": "一般",
-    "p": "yī bān",
-    "m": "thông thường, nói chung",
-    "cat": "grammar",
-    "me": "usually, generally",
-    "pos": "Động từ"
-  },
-  {
     "w": "通常",
     "p": "tōng cháng",
     "m": "thường thường",
@@ -1961,14 +1085,6 @@
     "example": "我通常六点起床。",
     "example_vi": "Tôi thường thường dậy lúc sáu giờ.",
     "me": "usually",
-    "pos": "Phó từ"
-  },
-  {
-    "w": "有时候",
-    "p": "yǒu shí hou",
-    "m": "đôi khi, thỉnh thoảng",
-    "cat": "grammar",
-    "me": "sometimes, occasionally",
     "pos": "Phó từ"
   },
   {
@@ -2000,13 +1116,6 @@
     "example_vi": "Nói chung, chuyến đi lần này rất vui vẻ.",
     "me": "generally speaking, overall",
     "pos": "Động từ"
-  },
-  {
-    "w": "当然",
-    "p": "dāng rán",
-    "m": "tất nhiên",
-    "cat": "grammar",
-    "pos": "Phó từ"
   },
   {
     "w": "不过",
@@ -2047,108 +1156,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "重要",
-    "p": "zhòng yào",
-    "m": "quan trọng",
-    "cat": "grammar",
-    "me": "important",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "特别",
-    "p": "tè bié",
-    "m": "đặc biệt",
-    "cat": "grammar",
-    "me": "especially",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "一直",
-    "p": "yī zhí",
-    "m": "liên tục, mãi mãi, thẳng, suốt, cứ, luôn luôn",
-    "cat": "grammar",
-    "me": "continuously, forever, always",
-    "pos": "Phó từ"
-  },
-  {
-    "w": "突然",
-    "p": "tū rán",
-    "m": "đột nhiên",
-    "cat": "grammar",
-    "me": "suddenly",
-    "pos": "Phó từ"
-  },
-  {
-    "w": "已经",
-    "p": "yǐ jīng",
-    "m": "đã, rồi",
-    "cat": "grammar",
-    "me": "already",
-    "pos": "Phó từ"
-  },
-  {
-    "w": "马上",
-    "p": "mǎ shàng",
-    "m": "ngay lập tức",
-    "cat": "grammar",
-    "me": "immediately",
-    "pos": "Phó từ"
-  },
-  {
-    "w": "以后",
-    "p": "yǐ hòu",
-    "m": "sau này, sau đó",
-    "cat": "grammar",
-    "me": "afterward, later",
-    "pos": "Phó từ"
-  },
-  {
-    "w": "以前",
-    "p": "yǐ qián",
-    "m": "trước đây",
-    "cat": "grammar",
-    "me": "previously",
-    "pos": "Phó từ"
-  },
-  {
-    "w": "认为",
-    "p": "rèn wéi",
-    "m": "cho rằng, nghĩ rằng",
-    "cat": "grammar",
-    "me": "consider, think that",
-    "pos": "Động từ"
-  },
-  {
-    "w": "决定",
-    "p": "jué dìng",
-    "m": "quyết định",
-    "cat": "grammar",
-    "me": "decide",
-    "pos": "Động từ"
-  },
-  {
-    "w": "同意",
-    "p": "tóng yì",
-    "m": "đồng ý",
-    "cat": "grammar",
-    "me": "agree",
-    "pos": "Động từ"
-  },
-  {
-    "w": "比较",
-    "p": "bǐ jiào",
-    "m": "so sánh, tương đối",
-    "cat": "grammar",
-    "pos": "Động từ"
-  },
-  {
-    "w": "注意",
-    "p": "zhù yì",
-    "m": "chú ý, để ý",
-    "cat": "grammar",
-    "pos": "Động từ"
-  },
-  {
     "w": "继续",
     "p": "jì xù",
     "m": "tiếp tục",
@@ -2159,59 +1166,12 @@
     "pos": "Động từ"
   },
   {
-    "w": "开始",
-    "p": "kāi shǐ",
-    "m": "bắt đầu",
-    "cat": "grammar",
-    "me": "start",
-    "pos": "Động từ"
-  },
-  {
-    "w": "结束",
-    "p": "jié shù",
-    "m": "kết thúc",
-    "cat": "grammar",
-    "me": "end, conclude",
-    "pos": "Động từ"
-  },
-  {
-    "w": "准备",
-    "p": "zhǔn bèi",
-    "m": "chuẩn bị",
-    "cat": "grammar",
-    "me": "prepare",
-    "pos": "Động từ"
-  },
-  {
-    "w": "需要",
-    "p": "xū yào",
-    "m": "cần, cần thiết",
-    "cat": "grammar",
-    "me": "necessary, needed",
-    "pos": "Động từ"
-  },
-  {
-    "w": "方便",
-    "p": "fāng biàn",
-    "m": "tiện lợi, thuận tiện",
-    "cat": "grammar",
-    "pos": "Tính từ"
-  },
-  {
     "w": "困难",
     "p": "kùn nán",
     "m": "khó khăn",
     "cat": "grammar",
     "me": "difficulty",
     "pos": "Danh từ"
-  },
-  {
-    "w": "容易",
-    "p": "róng yì",
-    "m": "dễ dàng",
-    "cat": "grammar",
-    "me": "easily",
-    "pos": "Tính từ"
   },
   {
     "w": "清楚",
@@ -2224,14 +1184,6 @@
     "pos": "Tính từ"
   },
   {
-    "w": "帮助",
-    "p": "bāng zhù",
-    "m": "giúp đỡ, hỗ trợ",
-    "cat": "work",
-    "me": "aid",
-    "pos": "Động từ"
-  },
-  {
     "w": "联系",
     "p": "lián xì",
     "m": "liên lạc, liên hệ",
@@ -2240,14 +1192,6 @@
     "example_vi": "Có việc gì xin hãy liên lạc với tôi.",
     "me": "contact, get in touch",
     "pos": "Danh từ"
-  },
-  {
-    "w": "解决",
-    "p": "jiě jué",
-    "m": "giải quyết",
-    "cat": "work",
-    "me": "resolve",
-    "pos": "Động từ"
   },
   {
     "w": "结果",
@@ -2260,14 +1204,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "成功",
-    "p": "chéng gōng",
-    "m": "thành công",
-    "cat": "work",
-    "me": "successful",
-    "pos": "Động từ"
-  },
-  {
     "w": "经验",
     "p": "jīng yàn",
     "m": "kinh nghiệm",
@@ -2275,14 +1211,6 @@
     "example": "他有很多工作经验。",
     "example_vi": "Anh ấy có rất nhiều kinh nghiệm làm việc.",
     "me": "experience",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "机会",
-    "p": "jī huì",
-    "m": "cơ hội",
-    "cat": "work",
-    "me": "chance",
     "pos": "Danh từ"
   },
   {
@@ -2360,51 +1288,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "了解",
-    "p": "liǎo jiě",
-    "m": "hiểu biết, tìm hiểu",
-    "cat": "education",
-    "pos": "Động từ"
-  },
-  {
-    "w": "方法",
-    "p": "fāng fǎ",
-    "m": "phương pháp, cách thức",
-    "cat": "education",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "努力",
-    "p": "nǔ lì",
-    "m": "nỗ lực, cố gắng",
-    "cat": "education",
-    "pos": "Động từ"
-  },
-  {
-    "w": "进步",
-    "p": "jìn bù",
-    "m": "tiến bộ",
-    "cat": "education",
-    "me": "progress",
-    "pos": "Động từ"
-  },
-  {
-    "w": "提高",
-    "p": "tí gāo",
-    "m": "nâng cao, cải thiện",
-    "cat": "education",
-    "me": "enhance",
-    "pos": "Động từ"
-  },
-  {
-    "w": "回答",
-    "p": "huí dá",
-    "m": "trả lời",
-    "cat": "education",
-    "me": "answer",
-    "pos": "Động từ"
-  },
-  {
     "w": "自信",
     "p": "zì xìn",
     "m": "tự tin",
@@ -2433,14 +1316,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "相信",
-    "p": "xiāng xìn",
-    "m": "tin tưởng",
-    "cat": "emotions",
-    "me": "trust",
-    "pos": "Động từ"
-  },
-  {
     "w": "感情",
     "p": "gǎn qíng",
     "m": "tình cảm",
@@ -2449,14 +1324,6 @@
     "example_vi": "Tình cảm giữa họ rất sâu đậm.",
     "me": "affection, feelings",
     "pos": "Danh từ"
-  },
-  {
-    "w": "骄傲",
-    "p": "jiāo ào",
-    "m": "tự hào, kiêu ngạo",
-    "cat": "emotions",
-    "me": "proud, arrogant",
-    "pos": "Tính từ"
   },
   {
     "w": "谦虚",
@@ -2499,13 +1366,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "关系",
-    "p": "guān xi",
-    "m": "quan hệ, mối quan hệ",
-    "cat": "culture",
-    "pos": "Danh từ"
-  },
-  {
     "w": "家人",
     "p": "jiā rén",
     "m": "người thân, gia đình",
@@ -2536,27 +1396,11 @@
     "pos": "Động từ"
   },
   {
-    "w": "孩子",
-    "p": "hái zi",
-    "m": "trẻ em, con cái",
-    "cat": "culture",
-    "me": "children",
-    "pos": "Danh từ"
-  },
-  {
     "w": "生活",
     "p": "shēng huó",
     "m": "cuộc sống, sinh hoạt",
     "cat": "culture",
     "me": "life, daily living",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "环境",
-    "p": "huán jìng",
-    "m": "môi trường",
-    "cat": "nature",
-    "me": "environment",
     "pos": "Danh từ"
   },
   {
@@ -2578,14 +1422,6 @@
     "example_vi": "Khí hậu ở nơi này rất tốt.",
     "me": "climate",
     "pos": "Danh từ"
-  },
-  {
-    "w": "自然",
-    "p": "zì rán",
-    "m": "tự nhiên",
-    "cat": "nature",
-    "me": "natural",
-    "pos": "Tính từ"
   },
   {
     "w": "保护",

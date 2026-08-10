@@ -290,16 +290,6 @@
     "cat": "noun"
   },
   {
-    "w": "火锅",
-    "p": "huǒguō",
-    "m": "lẩu",
-    "example": "冬天我们喜欢吃火锅。",
-    "example_vi": "Mùa đông chúng tôi thích ăn lẩu.",
-    "me": "hot pot",
-    "pos": "Danh từ",
-    "cat": "noun"
-  },
-  {
     "w": "烧烤",
     "p": "shāokǎo",
     "m": "đồ nướng",
@@ -316,25 +306,6 @@
     "example": "他点了一份炸鸡。",
     "example_vi": "Anh ấy gọi một suất gà rán.",
     "me": "fried chicken",
-    "pos": "Danh từ",
-    "cat": "noun"
-  },
-  {
-    "w": "粽子",
-    "p": "zòngzi",
-    "m": "bánh chưng/bánh ú",
-    "example": "端午节我们吃粽子。",
-    "example_vi": "Tết Đoan Ngọ chúng tôi ăn bánh ú.",
-    "pos": "Danh từ",
-    "cat": "noun"
-  },
-  {
-    "w": "月饼",
-    "p": "yuèbǐng",
-    "m": "bánh trung thu",
-    "example": "中秋节要吃月饼。",
-    "example_vi": "Tết Trung thu phải ăn bánh trung thu.",
-    "me": "mooncake",
     "pos": "Danh từ",
     "cat": "noun"
   },
@@ -1179,15 +1150,6 @@
     "cat": "place"
   },
   {
-    "w": "游乐场",
-    "p": "yóulèchǎng",
-    "m": "khu vui chơi",
-    "example": "孩子们喜欢去游乐场。",
-    "example_vi": "Bọn trẻ thích đi khu vui chơi.",
-    "pos": "Danh từ",
-    "cat": "noun"
-  },
-  {
     "w": "菜市场",
     "p": "càishìchǎng",
     "m": "chợ rau, chợ thực phẩm",
@@ -1878,16 +1840,6 @@
     "cat": "động vật"
   },
   {
-    "w": "蝴蝶",
-    "p": "húdié",
-    "m": "con bướm",
-    "example": "花园里飞着蝴蝶。",
-    "example_vi": "Trong vườn hoa có bướm bay.",
-    "me": "butterfly",
-    "pos": "Danh từ",
-    "cat": "động vật"
-  },
-  {
     "w": "蜜蜂",
     "p": "mìfēng",
     "m": "con ong",
@@ -1914,16 +1866,6 @@
     "example": "厨房里有一只苍蝇。",
     "example_vi": "Trong bếp có một con ruồi.",
     "me": "fly (insect)",
-    "pos": "Danh từ",
-    "cat": "animal"
-  },
-  {
-    "w": "蚊子",
-    "p": "wénzi",
-    "m": "con muỗi",
-    "example": "晚上有很多蚊子。",
-    "example_vi": "Buổi tối có rất nhiều muỗi.",
-    "me": "mosquito",
     "pos": "Danh từ",
     "cat": "animal"
   },
@@ -2146,16 +2088,6 @@
     "me": "takeout package",
     "pos": "Danh từ",
     "cat": "noun"
-  },
-  {
-    "w": "购物车",
-    "p": "gòuwùchē",
-    "m": "xe đẩy siêu thị",
-    "example": "她推着购物车买东西。",
-    "example_vi": "Cô ấy đẩy xe đẩy siêu thị đi mua đồ.",
-    "me": "shopping cart",
-    "pos": "Danh từ",
-    "cat": "đồ vật"
   },
   {
     "w": "塑料袋子",
@@ -2718,16 +2650,6 @@
     "cat": "noun"
   },
   {
-    "w": "馄饨",
-    "p": "húntun",
-    "m": "hoành thánh",
-    "example": "我喜欢吃馄饨。",
-    "example_vi": "Tôi thích ăn hoành thánh.",
-    "me": "wonton",
-    "pos": "Danh từ",
-    "cat": "noun"
-  },
-  {
     "w": "包子铺",
     "p": "bāozipù",
     "m": "tiệm bánh bao",
@@ -2768,15 +2690,6 @@
     "cat": "noun"
   },
   {
-    "w": "红烧肉",
-    "p": "hóngshāoròu",
-    "m": "thịt kho tàu",
-    "example": "妈妈做的红烧肉很香。",
-    "example_vi": "Món thịt kho tàu mẹ nấu rất thơm.",
-    "pos": "Danh từ",
-    "cat": "food"
-  },
-  {
     "w": "酸辣汤",
     "p": "suānlàtāng",
     "m": "canh chua cay",
@@ -2793,15 +2706,6 @@
     "example": "晚饭有一碗蔬菜汤。",
     "example_vi": "Bữa tối có một bát canh rau.",
     "me": "vegetable soup",
-    "pos": "Danh từ",
-    "cat": "noun"
-  },
-  {
-    "w": "点心",
-    "p": "diǎnxīn",
-    "m": "món điểm tâm, đồ ăn nhẹ",
-    "example": "下午我们吃点心。",
-    "example_vi": "Buổi chiều chúng tôi ăn điểm tâm.",
     "pos": "Danh từ",
     "cat": "noun"
   },

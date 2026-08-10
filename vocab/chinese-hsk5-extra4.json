@@ -20,13 +20,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "安慰",
-    "p": "ān wèi",
-    "m": "an ủi",
-    "cat": "emotion",
-    "pos": "Danh từ"
-  },
-  {
     "w": "安装",
     "p": "ān zhuāng",
     "m": "lắp đặt",
@@ -95,20 +88,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "保持",
-    "p": "bǎo chí",
-    "m": "duy trì, giữ vững",
-    "cat": "work",
-    "pos": "Động từ"
-  },
-  {
-    "w": "保存",
-    "p": "bǎo cún",
-    "m": "lưu giữ, bảo quản",
-    "cat": "tech",
-    "pos": "Danh từ"
-  },
-  {
     "w": "保留",
     "p": "bǎo liú",
     "m": "giữ lại, bảo lưu",
@@ -119,29 +98,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "保险",
-    "p": "bǎo xiǎn",
-    "m": "bảo hiểm",
-    "cat": "money",
-    "me": "insurance",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "报道",
-    "p": "bào dào",
-    "m": "đưa tin; bản tin",
-    "cat": "society",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "报告",
-    "p": "bào gào",
-    "m": "báo cáo",
-    "cat": "work",
-    "me": "report",
-    "pos": "Động từ"
-  },
-  {
     "w": "抱怨",
     "p": "bào yuàn",
     "m": "oán trách, phàn nàn",
@@ -150,14 +106,6 @@
     "example_vi": "Cô ấy luôn phàn nàn công việc quá mệt.",
     "me": "resent, complain",
     "pos": "Danh từ"
-  },
-  {
-    "w": "悲观",
-    "p": "bēi guān",
-    "m": "bi quan",
-    "cat": "psychology",
-    "me": "pessimistic",
-    "pos": "Tính từ"
   },
   {
     "w": "背景",
@@ -202,13 +150,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "彼此",
-    "p": "bǐ cǐ",
-    "m": "lẫn nhau, đôi bên",
-    "cat": "society",
-    "pos": "Danh từ"
-  },
-  {
     "w": "必然",
     "p": "bì rán",
     "m": "tất yếu, tất nhiên",
@@ -217,14 +158,6 @@
     "example_vi": "Thất bại là quá trình tất yếu của thành công.",
     "me": "inevitable, necessary",
     "pos": "Phó từ"
-  },
-  {
-    "w": "必要",
-    "p": "bì yào",
-    "m": "cần thiết",
-    "cat": "work",
-    "me": "necessary",
-    "pos": "Tính từ"
   },
   {
     "w": "毕竟",
@@ -237,26 +170,12 @@
     "pos": "Phó từ"
   },
   {
-    "w": "避免",
-    "p": "bì miǎn",
-    "m": "tránh, phòng tránh",
-    "cat": "work",
-    "pos": "Danh từ"
-  },
-  {
     "w": "编辑",
     "p": "biān jí",
     "m": "biên tập; biên tập viên",
     "cat": "culture",
     "example": "她是一名编辑。",
     "example_vi": "Cô ấy là một biên tập viên.",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "辩论",
-    "p": "biàn lùn",
-    "m": "tranh biện, biện luận",
-    "cat": "academic",
     "pos": "Danh từ"
   },
   {
@@ -270,14 +189,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "表达",
-    "p": "biǎo dá",
-    "m": "biểu đạt, diễn đạt",
-    "cat": "language",
-    "me": "express, convey",
-    "pos": "Động từ"
-  },
-  {
     "w": "表面",
     "p": "biǎo miàn",
     "m": "bề mặt, bề ngoài",
@@ -285,13 +196,6 @@
     "example": "桌子的表面很光滑。",
     "example_vi": "Bề mặt của cái bàn rất trơn nhẵn.",
     "me": "surface, exterior",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "表明",
-    "p": "biǎo míng",
-    "m": "tỏ rõ, chứng tỏ",
-    "cat": "language",
     "pos": "Danh từ"
   },
   {
@@ -305,13 +209,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "表现",
-    "p": "biǎo xiàn",
-    "m": "biểu hiện, thể hiện ra",
-    "cat": "work",
-    "pos": "Động từ"
-  },
-  {
     "w": "病毒",
     "p": "bìng dú",
     "m": "virus, vi-rút",
@@ -319,21 +216,6 @@
     "example": "这种病毒传播很快。",
     "example_vi": "Loại virus này lây lan rất nhanh.",
     "me": "virus",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "博物馆",
-    "p": "bó wù guǎn",
-    "m": "viện bảo tàng",
-    "cat": "culture",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "不断",
-    "p": "bú duàn",
-    "m": "không ngừng",
-    "cat": "time",
-    "me": "unceasingly",
     "pos": "Danh từ"
   },
   {
@@ -365,21 +247,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "步骤",
-    "p": "bù zhòu",
-    "m": "bước, trình tự",
-    "cat": "work",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "部门",
-    "p": "bù mén",
-    "m": "bộ phận, phòng ban",
-    "cat": "work",
-    "me": "department, division",
-    "pos": "Danh từ"
-  },
-  {
     "w": "财产",
     "p": "cái chǎn",
     "m": "tài sản",
@@ -408,22 +275,6 @@
     "example_vi": "Công ty đã áp dụng biện pháp mới.",
     "me": "apply, implement",
     "pos": "Danh từ"
-  },
-  {
-    "w": "参考",
-    "p": "cān kǎo",
-    "m": "tham khảo",
-    "cat": "academic",
-    "me": "for reference",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "参与",
-    "p": "cān yù",
-    "m": "tham gia, tham dự",
-    "cat": "society",
-    "me": "participate, attend",
-    "pos": "Động từ"
   },
   {
     "w": "惭愧",
@@ -471,22 +322,6 @@
     "example": "两者之间存在差距。",
     "example_vi": "Giữa hai bên tồn tại khoảng cách.",
     "pos": "Danh từ"
-  },
-  {
-    "w": "产品",
-    "p": "chǎn pǐn",
-    "m": "sản phẩm",
-    "cat": "business",
-    "me": "product",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "产生",
-    "p": "chǎn shēng",
-    "m": "tạo ra, phát sinh, nảy sinh, sản sinh",
-    "cat": "academic",
-    "me": "create, generate, arise, produce",
-    "pos": "Động từ"
   },
   {
     "w": "常识",
@@ -607,13 +442,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "成熟",
-    "p": "chéng shú",
-    "m": "chín chắn, trưởng thành",
-    "cat": "psychology",
-    "pos": "Danh từ"
-  },
-  {
     "w": "成语",
     "p": "chéng yǔ",
     "m": "thành ngữ",
@@ -652,14 +480,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "承认",
-    "p": "chéng rèn",
-    "m": "thừa nhận",
-    "cat": "society",
-    "me": "admit",
-    "pos": "Danh từ"
-  },
-  {
     "w": "承受",
     "p": "chéng shòu",
     "m": "chịu đựng",
@@ -676,14 +496,6 @@
     "cat": "academic",
     "example": "他的汉语已经达到了很高的程度。",
     "example_vi": "Tiếng Trung của anh ấy đã đạt đến mức độ rất cao.",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "程序",
-    "p": "chéng xù",
-    "m": "chương trình, quy trình, thủ tục",
-    "cat": "tech",
-    "me": "program, process, procedure",
     "pos": "Danh từ"
   },
   {
@@ -705,13 +517,6 @@
     "example_vi": "Việc này sớm muộn cũng sẽ bị phát hiện.",
     "me": "sooner or later",
     "pos": "Danh từ"
-  },
-  {
-    "w": "持续",
-    "p": "chí xù",
-    "m": "kéo dài, liên tục",
-    "cat": "time",
-    "pos": "Phó từ"
   },
   {
     "w": "充分",
@@ -773,14 +578,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "出口",
-    "p": "chū kǒu",
-    "m": "xuất khẩu, lối ra",
-    "cat": "economics",
-    "me": "export; exit",
-    "pos": "Danh từ"
-  },
-  {
     "w": "出色",
     "p": "chū sè",
     "m": "xuất sắc",
@@ -811,20 +608,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "处理",
-    "p": "chǔ lǐ",
-    "m": "xử lý",
-    "cat": "work",
-    "pos": "Động từ"
-  },
-  {
-    "w": "传播",
-    "p": "chuán bō",
-    "m": "truyền bá, lan truyền",
-    "cat": "society",
-    "pos": "Danh từ"
-  },
-  {
     "w": "传染",
     "p": "chuán rǎn",
     "m": "lây nhiễm",
@@ -845,22 +628,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "传统",
-    "p": "chuán tǒng",
-    "m": "truyền thống",
-    "cat": "culture",
-    "me": "traditional",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "创业",
-    "p": "chuàng yè",
-    "m": "khởi nghiệp",
-    "cat": "business",
-    "me": "start a business",
-    "pos": "Danh từ"
-  },
-  {
     "w": "创造",
     "p": "chuàng zào",
     "m": "sáng tạo",
@@ -871,14 +638,6 @@
     "pos": "Tính từ"
   },
   {
-    "w": "词汇",
-    "p": "cí huì",
-    "m": "từ vựng",
-    "cat": "language",
-    "me": "vocabulary",
-    "pos": "Danh từ"
-  },
-  {
     "w": "辞职",
     "p": "cí zhí",
     "m": "từ chức, nghỉ việc",
@@ -886,14 +645,6 @@
     "example": "他决定辞职。",
     "example_vi": "Anh ấy quyết định từ chức.",
     "me": "resign, quit",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "此外",
-    "p": "cǐ wài",
-    "m": "ngoài ra",
-    "cat": "language",
-    "me": "in addition",
     "pos": "Danh từ"
   },
   {
@@ -924,14 +675,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "从而",
-    "p": "cóng ér",
-    "m": "từ đó, do đó, nhờ đó, bởi vậy",
-    "cat": "language",
-    "me": "from then, therefore, thereby",
-    "pos": "Phó từ"
-  },
-  {
     "w": "从事",
     "p": "cóng shì",
     "m": "làm nghề, theo đuổi",
@@ -952,13 +695,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "促进",
-    "p": "cù jìn",
-    "m": "thúc đẩy",
-    "cat": "economics",
-    "pos": "Động từ"
-  },
-  {
     "w": "促使",
     "p": "cù shǐ",
     "m": "thôi thúc, khiến cho",
@@ -967,29 +703,6 @@
     "example_vi": "Tin tức này đã thôi thúc anh ấy đưa ra quyết định.",
     "me": "urge, cause",
     "pos": "Danh từ"
-  },
-  {
-    "w": "措施",
-    "p": "cuò shī",
-    "m": "biện pháp",
-    "cat": "society",
-    "me": "measure",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "存在",
-    "p": "cún zài",
-    "m": "tồn tại",
-    "cat": "academic",
-    "me": "exist",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "达到",
-    "p": "dá dào",
-    "m": "đạt tới",
-    "cat": "work",
-    "pos": "Động từ"
   },
   {
     "w": "打工",
@@ -1022,13 +735,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "大方",
-    "p": "dà fāng",
-    "m": "hào phóng; tự nhiên",
-    "cat": "psychology",
-    "pos": "Tính từ"
-  },
-  {
     "w": "大厦",
     "p": "dà shà",
     "m": "tòa nhà cao tầng",
@@ -1045,14 +751,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "代表",
-    "p": "dài biǎo",
-    "m": "đại biểu, đại diện",
-    "cat": "politics",
-    "me": "delegate, representative",
-    "pos": "Danh từ"
-  },
-  {
     "w": "代替",
     "p": "dài tì",
     "m": "thay thế",
@@ -1061,14 +759,6 @@
     "example_vi": "Không ai có thể thay thế vị trí của anh ấy.",
     "me": "replace",
     "pos": "Danh từ"
-  },
-  {
-    "w": "贷款",
-    "p": "dài kuǎn",
-    "m": "cho vay, khoản vay, vay vốn, vay tiền",
-    "cat": "money",
-    "me": "lend, loan, borrow capital, borrow money",
-    "pos": "Động từ"
   },
   {
     "w": "待遇",
@@ -1159,51 +849,12 @@
     "pos": "Động từ"
   },
   {
-    "w": "导演",
-    "p": "dǎo yǎn",
-    "m": "đạo diễn",
-    "cat": "art",
-    "me": "director",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "导致",
-    "p": "dǎo zhì",
-    "m": "dẫn đến, gây ra",
-    "cat": "academic",
-    "me": "give rise to",
-    "pos": "Động từ"
-  },
-  {
-    "w": "岛屿",
-    "p": "dǎo yǔ",
-    "m": "đảo, hòn đảo",
-    "cat": "nature",
-    "pos": "Danh từ"
-  },
-  {
     "w": "倒霉",
     "p": "dǎo méi",
     "m": "xui xẻo, đen đủi",
     "cat": "emotion",
     "me": "unlucky",
     "pos": "Danh từ"
-  },
-  {
-    "w": "到达",
-    "p": "dào dá",
-    "m": "đến nơi",
-    "cat": "travel",
-    "me": "arrive",
-    "pos": "Động từ"
-  },
-  {
-    "w": "道德",
-    "p": "dào dé",
-    "m": "đạo đức",
-    "cat": "society",
-    "me": "ethical",
-    "pos": "Tính từ"
   },
   {
     "w": "道理",
@@ -1221,14 +872,6 @@
     "m": "đăng ký",
     "cat": "work",
     "me": "register",
-    "pos": "Động từ"
-  },
-  {
-    "w": "等待",
-    "p": "děng dài",
-    "m": "chờ đợi",
-    "cat": "time",
-    "me": "wait",
     "pos": "Động từ"
   },
   {
@@ -1300,14 +943,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "地震",
-    "p": "dì zhèn",
-    "m": "động đất",
-    "cat": "nature",
-    "me": "earthquake",
-    "pos": "Danh từ"
-  },
-  {
     "w": "电池",
     "p": "diàn chí",
     "m": "pin",
@@ -1336,14 +971,6 @@
     "example_vi": "Trẻ em thích xem phim hoạt hình.",
     "me": "cartoon",
     "pos": "Danh từ"
-  },
-  {
-    "w": "独立",
-    "p": "dú lì",
-    "m": "độc lập",
-    "cat": "society",
-    "me": "independent",
-    "pos": "Tính từ"
   },
   {
     "w": "独特",
@@ -1565,14 +1192,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "反而",
-    "p": "fǎn ér",
-    "m": "trái lại, ngược lại",
-    "cat": "language",
-    "me": "on the contrary",
-    "pos": "Phó từ"
-  },
-  {
     "w": "反复",
     "p": "fǎn fù",
     "m": "lặp đi lặp lại",
@@ -1590,28 +1209,6 @@
     "example": "她的反应很快。",
     "example_vi": "Phản ứng của cô ấy rất nhanh.",
     "me": "reaction",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "反映",
-    "p": "fǎn yìng",
-    "m": "phản ánh",
-    "cat": "society",
-    "me": "reflect, report",
-    "pos": "Động từ"
-  },
-  {
-    "w": "范围",
-    "p": "fàn wéi",
-    "m": "phạm vi",
-    "cat": "academic",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "方案",
-    "p": "fāng àn",
-    "m": "phương án",
-    "cat": "work",
     "pos": "Danh từ"
   },
   {
@@ -1671,14 +1268,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "分别",
-    "p": "fēn bié",
-    "m": "lần lượt, riêng biệt, chia tay",
-    "cat": "language",
-    "me": "one by one, separately, part ways",
-    "pos": "Phó từ"
-  },
-  {
     "w": "分布",
     "p": "fēn bù",
     "m": "phân bố",
@@ -1687,22 +1276,6 @@
     "example_vi": "Dân số phân bố không đều.",
     "me": "distribution",
     "pos": "Danh từ"
-  },
-  {
-    "w": "分配",
-    "p": "fēn pèi",
-    "m": "phân phối, phân công",
-    "cat": "work",
-    "me": "distribute, assign",
-    "pos": "Động từ"
-  },
-  {
-    "w": "分析",
-    "p": "fēn xī",
-    "m": "phân tích",
-    "cat": "academic",
-    "me": "analyze",
-    "pos": "Động từ"
   },
   {
     "w": "纷纷",
@@ -1733,21 +1306,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "风俗",
-    "p": "fēng sú",
-    "m": "phong tục",
-    "cat": "culture",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "风险",
-    "p": "fēng xiǎn",
-    "m": "rủi ro",
-    "cat": "economics",
-    "me": "risk",
-    "pos": "Danh từ"
-  },
-  {
     "w": "疯狂",
     "p": "fēng kuáng",
     "m": "điên cuồng",
@@ -1775,14 +1333,6 @@
     "example": "他否定了这个说法。",
     "example_vi": "Anh ấy đã phủ định lời nói này.",
     "pos": "Động từ"
-  },
-  {
-    "w": "否认",
-    "p": "fǒu rèn",
-    "m": "phủ nhận",
-    "cat": "society",
-    "me": "deny",
-    "pos": "Danh từ"
   },
   {
     "w": "服装",
@@ -1833,14 +1383,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "改革",
-    "p": "gǎi gé",
-    "m": "cải cách",
-    "cat": "politics",
-    "me": "reform",
-    "pos": "Danh từ"
-  },
-  {
     "w": "改进",
     "p": "gǎi jìn",
     "m": "cải tiến",
@@ -1848,14 +1390,6 @@
     "example": "我们需要改进这个流程。",
     "example_vi": "Chúng ta cần cải tiến quy trình này.",
     "me": "improvement",
-    "pos": "Động từ"
-  },
-  {
-    "w": "改善",
-    "p": "gǎi shàn",
-    "m": "cải thiện",
-    "cat": "society",
-    "me": "improve",
     "pos": "Động từ"
   },
   {
@@ -1876,14 +1410,6 @@
     "example": "请概括一下这篇文章的内容。",
     "example_vi": "Xin hãy tóm tắt nội dung bài viết này.",
     "me": "generalize",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "概念",
-    "p": "gài niàn",
-    "m": "khái niệm",
-    "cat": "academic",
-    "me": "concept",
     "pos": "Danh từ"
   },
   {
@@ -1917,22 +1443,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "感激",
-    "p": "gǎn jī",
-    "m": "biết ơn, cảm kích",
-    "cat": "emotion",
-    "me": "grateful, appreciative",
-    "pos": "Động từ"
-  },
-  {
-    "w": "感受",
-    "p": "gǎn shòu",
-    "m": "cảm nhận",
-    "cat": "emotion",
-    "me": "perception, feeling",
-    "pos": "Động từ"
-  },
-  {
     "w": "感想",
     "p": "gǎn xiǎng",
     "m": "cảm nghĩ",
@@ -1959,13 +1469,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "告别",
-    "p": "gào bié",
-    "m": "từ biệt, tạm biệt",
-    "cat": "society",
-    "pos": "Danh từ"
-  },
-  {
     "w": "格外",
     "p": "gé wài",
     "m": "đặc biệt, hết sức",
@@ -1984,22 +1487,6 @@
     "example_vi": "Đây chỉ là hiện tượng cá biệt.",
     "me": "individual, isolated",
     "pos": "Danh từ"
-  },
-  {
-    "w": "个性",
-    "p": "gè xìng",
-    "m": "cá tính",
-    "cat": "psychology",
-    "me": "personality, individuality",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "各自",
-    "p": "gè zì",
-    "m": "mỗi người, riêng mình, riêng từng người, mỗi bên, tự mình",
-    "cat": "language",
-    "me": "each one, individually, on one's own",
-    "pos": "Phó từ"
   },
   {
     "w": "根本",
@@ -2047,14 +1534,6 @@
     "pos": "Tính từ"
   },
   {
-    "w": "公平",
-    "p": "gōng píng",
-    "m": "công bằng",
-    "cat": "society",
-    "me": "fair",
-    "pos": "Danh từ"
-  },
-  {
     "w": "公寓",
     "p": "gōng yù",
     "m": "căn hộ chung cư",
@@ -2069,21 +1548,5 @@
     "cat": "tech",
     "me": "function",
     "pos": "Danh từ"
-  },
-  {
-    "w": "贡献",
-    "p": "gòng xiàn",
-    "m": "đóng góp, cống hiến",
-    "cat": "society",
-    "me": "contribute, dedicate",
-    "pos": "Động từ"
-  },
-  {
-    "w": "沟通",
-    "p": "gōu tōng",
-    "m": "giao tiếp, trao đổi",
-    "cat": "society",
-    "me": "communication, exchange",
-    "pos": "Động từ"
   }
 ]

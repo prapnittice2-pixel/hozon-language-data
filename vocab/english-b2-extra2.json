@@ -21,13 +21,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "appeal",
-    "p": "ɐpˈiːl",
-    "m": "kháng cáo, kêu gọi, khiếu nại",
-    "cat": "chính trị",
-    "pos": "Danh từ"
-  },
-  {
     "w": "arbitration",
     "p": "ˌɑːɹbɪtɹˈeɪʃən",
     "m": "trọng tài, phân xử",
@@ -131,13 +124,6 @@
     "m": "có tội, đáng bị trách",
     "cat": "tính từ",
     "pos": "Tính từ"
-  },
-  {
-    "w": "custody",
-    "p": "kˈʌstədi",
-    "m": "quyền giám hộ, sự giam giữ",
-    "cat": "chính trị",
-    "pos": "Danh từ"
   },
   {
     "w": "defamation",
@@ -350,13 +336,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "probation",
-    "p": "pɹoʊbˈeɪʃən",
-    "m": "thời gian thử việc, quản chế, thử thách, án treo",
-    "cat": "chính trị",
-    "pos": "Danh từ"
-  },
-  {
     "w": "prosecution",
     "p": "pɹˌɑːsɪkjˈuːʃən",
     "m": "truy tố, bên công tố",
@@ -455,13 +434,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "antibiotic",
-    "p": "ˌæntɪbaɪˈɑːɾɪk",
-    "m": "kháng sinh",
-    "cat": "sức khỏe",
-    "pos": "Danh từ"
-  },
-  {
     "w": "arthritis",
     "p": "ɑːɹθɹˈaɪɾɪs",
     "m": "bệnh viêm khớp",
@@ -490,13 +462,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "blood pressure",
-    "p": "blˈʌd pɹˈɛʃɚ",
-    "m": "huyết áp",
-    "cat": "sức khỏe",
-    "pos": "Danh từ"
-  },
-  {
     "w": "cardiac",
     "p": "kˈɑːɹdiˌæk",
     "m": "thuộc tim",
@@ -508,13 +473,6 @@
     "p": "kˌɑːɹdɪˈoʊlədʒˌɪst",
     "m": "bác sĩ tim mạch",
     "cat": "công việc",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "chronic",
-    "p": "kɹˈɑːnɪk",
-    "m": "mãn tính, kéo dài",
-    "cat": "tính từ",
     "pos": "Danh từ"
   },
   {
@@ -539,13 +497,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "dehydration",
-    "p": "dˌiːhaɪdɹˈeɪʃən",
-    "m": "mất nước, thiếu nước",
-    "cat": "sức khỏe",
-    "pos": "Động từ"
-  },
-  {
     "w": "dementia",
     "p": "dᵻmˈɛnʃə",
     "m": "bệnh sa sút trí tuệ",
@@ -560,20 +511,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "diabetes",
-    "p": "dˌaɪəbˈiːɾiːz",
-    "m": "bệnh tiểu đường",
-    "cat": "sức khỏe",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "diagnosis",
-    "p": "dˌaɪəɡnˈoʊsɪs",
-    "m": "chẩn đoán bệnh",
-    "cat": "sức khỏe",
-    "pos": "Danh từ"
-  },
-  {
     "w": "dosage",
     "p": "dˈoʊsɪdʒ",
     "m": "liều lượng thuốc",
@@ -584,13 +521,6 @@
     "w": "endoscopy",
     "p": "ɛndˈoʊskəpi",
     "m": "nội soi",
-    "cat": "sức khỏe",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "epidemic",
-    "p": "ˌɛpɪdˈɛmɪk",
-    "m": "dịch bệnh, nạn dịch",
     "cat": "sức khỏe",
     "pos": "Danh từ"
   },
@@ -644,24 +574,10 @@
     "pos": "Tính từ"
   },
   {
-    "w": "metabolism",
-    "p": "mətˈæbəlˌɪzəm",
-    "m": "sự trao đổi chất",
-    "cat": "sức khỏe",
-    "pos": "Danh từ"
-  },
-  {
     "w": "neurologist",
     "p": "nʊɹɹˈɑːlədʒˌɪst",
     "m": "bác sĩ thần kinh",
     "cat": "công việc",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "obesity",
-    "p": "oʊbˈiːsəɾi",
-    "m": "béo phì",
-    "cat": "sức khỏe",
     "pos": "Danh từ"
   },
   {
@@ -707,13 +623,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "pharmacist",
-    "p": "fˈɑːɹmɐsˌɪst",
-    "m": "dược sĩ",
-    "cat": "công việc",
-    "pos": "Danh từ"
-  },
-  {
     "w": "prognosis",
     "p": "pɹɑːɡnˈoʊsɪs",
     "m": "tiên lượng bệnh",
@@ -740,13 +649,6 @@
     "m": "sự thuyên giảm bệnh",
     "cat": "sức khỏe",
     "pos": "Danh từ"
-  },
-  {
-    "w": "respiratory",
-    "p": "ɹˈɛspɹətˌɔːɹi",
-    "m": "thuộc hô hấp",
-    "cat": "tính từ",
-    "pos": "Tính từ"
   },
   {
     "w": "sedative",
@@ -791,32 +693,11 @@
     "pos": "Danh từ"
   },
   {
-    "w": "vaccination",
-    "p": "vˌæksᵻnˈeɪʃən",
-    "m": "tiêm phòng, tiêm chủng, vắc-xin",
-    "cat": "sức khỏe",
-    "pos": "Danh từ"
-  },
-  {
     "w": "viable",
     "p": "vˈaɪəbəl",
     "m": "khả thi, có thể thực hiện, có thể sống được",
     "cat": "tính từ",
     "pos": "Tính từ"
-  },
-  {
-    "w": "ward",
-    "p": "wˈɔːɹd",
-    "m": "khu bệnh phòng (bệnh viện)",
-    "cat": "địa điểm",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "biodiversity",
-    "p": "bˌaɪoʊdaɪvˈɜːsᵻɾi",
-    "m": "đa dạng sinh học",
-    "cat": "thiên nhiên",
-    "pos": "Danh từ"
   },
   {
     "w": "biosphere",
@@ -830,13 +711,6 @@
     "p": "kˈæp ænd tɹˈeɪd",
     "m": "hệ thống hạn ngạch và mua bán khí thải",
     "cat": "chính trị",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "carbon footprint",
-    "p": "kˈɑːɹbən fˈʊtpɹɪnt",
-    "m": "dấu chân carbon, lượng khí thải carbon",
-    "cat": "thiên nhiên",
     "pos": "Danh từ"
   },
   {
@@ -854,72 +728,9 @@
     "pos": "Danh từ"
   },
   {
-    "w": "climate change",
-    "p": "klˈaɪmət tʃˈeɪndʒ",
-    "m": "biến đổi khí hậu",
-    "cat": "thiên nhiên",
-    "pos": "Động từ"
-  },
-  {
-    "w": "conservation",
-    "p": "kˌɑːnsɚvˈeɪʃən",
-    "m": "bảo tồn, bảo vệ môi trường",
-    "cat": "thiên nhiên",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "contamination",
-    "p": "kəntˌæmᵻnˈeɪʃən",
-    "m": "ô nhiễm, sự nhiễm bẩn",
-    "cat": "thiên nhiên",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "coral reef",
-    "p": "kˈɔːɹəl ɹˈiːf",
-    "m": "rạn san hô",
-    "cat": "thiên nhiên",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "deforestation",
-    "p": "diːfˌɔːɹɪstˈeɪʃən",
-    "m": "nạn phá rừng",
-    "cat": "thiên nhiên",
-    "pos": "Danh từ"
-  },
-  {
     "w": "desertification",
     "p": "dɪzˌɜːɾɪfɪkˈeɪʃən",
     "m": "sa mạc hóa",
-    "cat": "thiên nhiên",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "ecosystem",
-    "p": "ˈiːkoʊsˌɪstəm",
-    "m": "hệ sinh thái",
-    "cat": "thiên nhiên",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "emission",
-    "p": "ɪmˈɪʃən",
-    "m": "sự phát thải (khí độc)",
-    "cat": "thiên nhiên",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "endangered species",
-    "p": "ɛndˈeɪndʒɚd spˈiːsiːz",
-    "m": "loài động vật nguy cấp, loài có nguy cơ tuyệt chủng",
-    "cat": "động vật",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "environmental impact",
-    "p": "ɛnvˌaɪɹənmˈɛntəl ˈɪmpækt",
-    "m": "tác động môi trường",
     "cat": "thiên nhiên",
     "pos": "Danh từ"
   },
@@ -928,13 +739,6 @@
     "p": "ɪɹˈoʊʒən",
     "m": "sự xói mòn đất",
     "cat": "thiên nhiên",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "fossil fuel",
-    "p": "fˈɑːsəl fjˈuːəl",
-    "m": "nhiên liệu hóa thạch",
-    "cat": "công nghệ",
     "pos": "Danh từ"
   },
   {
@@ -952,30 +756,9 @@
     "pos": "Tính từ"
   },
   {
-    "w": "glacier",
-    "p": "ɡlˈeɪʃɚ",
-    "m": "sông băng",
-    "cat": "thiên nhiên",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "greenhouse gas",
-    "p": "ɡɹˈiːnhaʊs ɡˈæs",
-    "m": "khí nhà kính",
-    "cat": "thiên nhiên",
-    "pos": "Danh từ"
-  },
-  {
     "w": "groundwater",
     "p": "ɡɹˈaʊndwɔːɾɚ",
     "m": "nước ngầm",
-    "cat": "thiên nhiên",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "habitat",
-    "p": "hˈæbɪtˌæt",
-    "m": "môi trường sống tự nhiên",
     "cat": "thiên nhiên",
     "pos": "Danh từ"
   },
@@ -1022,13 +805,6 @@
     "pos": "Tính từ"
   },
   {
-    "w": "ozone layer",
-    "p": "ˈoʊzoʊn lˈeɪɚ",
-    "m": "tầng ôzôn",
-    "cat": "thiên nhiên",
-    "pos": "Danh từ"
-  },
-  {
     "w": "poaching",
     "p": "pˈoʊtʃɪŋ",
     "m": "săn trộm động vật",
@@ -1040,13 +816,6 @@
     "p": "pəlˈuːtənt",
     "m": "chất gây ô nhiễm",
     "cat": "thiên nhiên",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "renewable energy",
-    "p": "ɹᵻnˈuːəbəl ˈɛnɚdʒi",
-    "m": "năng lượng tái tạo",
-    "cat": "công nghệ",
     "pos": "Danh từ"
   },
   {
@@ -1068,13 +837,6 @@
     "p": "sˈuːɪdʒ",
     "m": "nước thải, cống rãnh",
     "cat": "thiên nhiên",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "solar panel",
-    "p": "sˈoʊlɚ pˈænəl",
-    "m": "tấm pin năng lượng mặt trời",
-    "cat": "công nghệ",
     "pos": "Danh từ"
   },
   {
@@ -1110,13 +872,6 @@
     "p": "wˈɛtlənd",
     "m": "vùng đất ngập nước",
     "cat": "thiên nhiên",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "wind turbine",
-    "p": "wˈɪnd tˈɜːbaɪn",
-    "m": "tua-bin gió",
-    "cat": "công nghệ",
     "pos": "Danh từ"
   },
   {
@@ -1330,13 +1085,6 @@
     "pos": "Tính từ"
   },
   {
-    "w": "metaphor",
-    "p": "mˈɛɾəfˌɔːɹ",
-    "m": "ẩn dụ",
-    "cat": "học thuật",
-    "pos": "Danh từ"
-  },
-  {
     "w": "motif",
     "p": "moʊtˈiːf",
     "m": "mô-típ, chủ đề nhỏ lặp lại",
@@ -1407,13 +1155,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "protagonist",
-    "p": "pɹˈoʊɾɐɡənˌɪst",
-    "m": "nhân vật chính",
-    "cat": "người",
-    "pos": "Danh từ"
-  },
-  {
     "w": "satire",
     "p": "sˈæɾaɪɚ",
     "m": "châm biếm, trào phúng",
@@ -1453,13 +1194,6 @@
     "p": "sˈɪmbəlˌɪzəm",
     "m": "chủ nghĩa tượng trưng",
     "cat": "nghệ thuật",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "theme",
-    "p": "θˈiːm",
-    "m": "chủ đề tác phẩm",
-    "cat": "học thuật",
     "pos": "Danh từ"
   },
   {
@@ -1596,13 +1330,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "documentary",
-    "p": "dˌɑːkjuːmˈɛntɚɹi",
-    "m": "phim tài liệu",
-    "cat": "nghệ thuật",
-    "pos": "Danh từ"
-  },
-  {
     "w": "dolly shot",
     "p": "dˈɑːli ʃˈɑːt",
     "m": "cảnh quay trên xe di chuyển",
@@ -1650,13 +1377,6 @@
     "m": "đóng khung hình ảnh",
     "cat": "nghệ thuật",
     "pos": "Động từ"
-  },
-  {
-    "w": "genre",
-    "p": "ʒˈɑːnɹə",
-    "m": "thể loại (phim, nghệ thuật)",
-    "cat": "nghệ thuật",
-    "pos": "Danh từ"
   },
   {
     "w": "impressionism",
@@ -1757,13 +1477,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "portrait",
-    "p": "pˈɔːɹtɹɪt",
-    "m": "tranh chân dung",
-    "cat": "nghệ thuật",
-    "pos": "Danh từ"
-  },
-  {
     "w": "post-production",
     "p": "pˈoʊstpɹədˈʌkʃən",
     "m": "hậu kỳ sản xuất",
@@ -1783,13 +1496,6 @@
     "m": "kịch bản phim",
     "cat": "nghệ thuật",
     "pos": "Danh từ"
-  },
-  {
-    "w": "score",
-    "p": "skˈɔːɹ",
-    "m": "ghi điểm, tỉ số, điểm số, tỷ số, nhạc phim",
-    "cat": "nghệ thuật",
-    "pos": "Động từ"
   },
   {
     "w": "sequel",
@@ -1841,13 +1547,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "abstract",
-    "p": "ˈæbstɹækt",
-    "m": "trừu tượng, tóm tắt (bài báo khoa học)",
-    "cat": "tính từ",
-    "pos": "Danh từ"
-  },
-  {
     "w": "accentuate",
     "p": "æksˈɛntʃuːˌeɪt",
     "m": "nhấn mạnh, làm nổi bật",
@@ -1874,20 +1573,6 @@
     "m": "sự xuất hiện, sự ra đời",
     "cat": "học thuật",
     "pos": "Danh từ"
-  },
-  {
-    "w": "adversary",
-    "p": "ˈædvɚsɚɹi",
-    "m": "đối thủ, kẻ thù",
-    "cat": "người",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "advocate",
-    "p": "ˈædvəkˌeɪt",
-    "m": "ủng hộ, biện hộ",
-    "cat": "hành động",
-    "pos": "Động từ"
   },
   {
     "w": "affirmative",
@@ -2051,13 +1736,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "bias",
-    "p": "bˈaɪəs",
-    "m": "thiên kiến, thiên vị, sai lệch, thành kiến, định kiến",
-    "cat": "xã hội",
-    "pos": "Danh từ"
-  },
-  {
     "w": "bilateral",
     "p": "baɪlˈæɾɚɹəl",
     "m": "song phương",
@@ -2114,13 +1792,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "censorship",
-    "p": "sˈɛnsɚʃˌɪp",
-    "m": "kiểm duyệt",
-    "cat": "chính trị",
-    "pos": "Danh từ"
-  },
-  {
     "w": "charismatic",
     "p": "kˌæɹɪsmˈæɾɪk",
     "m": "có sức hút, lôi cuốn",
@@ -2140,13 +1811,6 @@
     "m": "tài sản thế chấp, phụ trội",
     "cat": "kinh doanh",
     "pos": "Danh từ"
-  },
-  {
-    "w": "commemorate",
-    "p": "kəmˈɛmɚɹˌeɪt",
-    "m": "kỷ niệm, tưởng niệm",
-    "cat": "hành động",
-    "pos": "Động từ"
   },
   {
     "w": "commodify",
@@ -2240,20 +1904,6 @@
     "pos": "Tính từ"
   },
   {
-    "w": "contradict",
-    "p": "kˌɑːntɹədˈɪkt",
-    "m": "mâu thuẫn, phủ nhận",
-    "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
-    "w": "controversial",
-    "p": "kˌɑːntɹəvˈɜːʃəl",
-    "m": "gây tranh cãi, gây bàn cãi",
-    "cat": "tính từ",
-    "pos": "Tính từ"
-  },
-  {
     "w": "conviction",
     "p": "kənvˈɪkʃən",
     "m": "niềm tin vững chắc, bản án, niềm tin mạnh mẽ; kết tội",
@@ -2310,13 +1960,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "deliberate",
-    "p": "dᵻlˈɪbɚɹət",
-    "m": "cố ý, thảo luận kỹ, có chủ ý, thận trọng; cân nhắc",
-    "cat": "tính từ",
-    "pos": "Tính từ"
-  },
-  {
     "w": "denounce",
     "p": "dᵻnˈaʊns",
     "m": "tố cáo, lên án công khai",
@@ -2329,13 +1972,6 @@
     "m": "sự thiếu thốn, tước đoạt",
     "cat": "xã hội",
     "pos": "Danh từ"
-  },
-  {
-    "w": "derive",
-    "p": "dᵻɹˈaɪv",
-    "m": "bắt nguồn từ, rút ra, xuất phát từ, lấy từ",
-    "cat": "hành động",
-    "pos": "Động từ"
   },
   {
     "w": "detrimental",
@@ -2450,13 +2086,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "enforce",
-    "p": "ɛnfˈɔːɹs",
-    "m": "thi hành, bắt buộc thực hiện",
-    "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
     "w": "equitable",
     "p": "ˈɛkwɪɾəbəl",
     "m": "công bằng, bình đẳng",
@@ -2520,13 +2149,6 @@
     "pos": "Tính từ"
   },
   {
-    "w": "explicit",
-    "p": "ɛksplˈɪsɪt",
-    "m": "rõ ràng, tường minh",
-    "cat": "tính từ",
-    "pos": "Tính từ"
-  },
-  {
     "w": "exponentially",
     "p": "ˌɛkspənˈɛnʃəli",
     "m": "theo cấp số nhân, tăng vượt bậc",
@@ -2569,23 +2191,9 @@
     "pos": "Động từ"
   },
   {
-    "w": "fragile",
-    "p": "fɹˈædʒəl",
-    "m": "dễ vỡ, mong manh",
-    "cat": "tính từ",
-    "pos": "Tính từ"
-  },
-  {
     "w": "fraudulent",
     "p": "fɹˈɔːdʒuːlənt",
     "m": "gian lận, lừa đảo",
-    "cat": "tính từ",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "fundamental",
-    "p": "fˌʌndəmˈɛntəl",
-    "m": "cơ bản, nền tảng",
     "cat": "tính từ",
     "pos": "Tính từ"
   },
@@ -2595,13 +2203,6 @@
     "m": "vô ích, vô hiệu quả",
     "cat": "tính từ",
     "pos": "Tính từ"
-  },
-  {
-    "w": "gender equality",
-    "p": "dʒˈɛndɚɹ iːkwˈɔlᵻɾi",
-    "m": "bình đẳng giới",
-    "cat": "xã hội",
-    "pos": "Danh từ"
   },
   {
     "w": "generate",
@@ -2688,13 +2289,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "implicit",
-    "p": "ɪmplˈɪsɪt",
-    "m": "ngầm hiểu, ẩn ý, không nói thẳng, ngầm định, ẩn chứa",
-    "cat": "tính từ",
-    "pos": "Danh từ"
-  },
-  {
     "w": "incentivize",
     "p": "ɪnsˈɛntɪvˌaɪz",
     "m": "tạo động lực, khuyến khích",
@@ -2702,24 +2296,10 @@
     "pos": "Động từ"
   },
   {
-    "w": "inclusive",
-    "p": "ɪŋklˈuːsɪv",
-    "m": "bao gồm tất cả, toàn diện",
-    "cat": "tính từ",
-    "pos": "Tính từ"
-  },
-  {
     "w": "indifference",
     "p": "ɪndˈɪfɹəns",
     "m": "sự thờ ơ, bàng quan",
     "cat": "cảm xúc",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "inequality",
-    "p": "ɪniːkwˈɔlᵻɾi",
-    "m": "sự bất bình đẳng",
-    "cat": "xã hội",
     "pos": "Danh từ"
   },
   {
@@ -2737,32 +2317,11 @@
     "pos": "Tính từ"
   },
   {
-    "w": "infrastructure",
-    "p": "ˈɪnfɹəstɹˌʌktʃɚ",
-    "m": "cơ sở hạ tầng",
-    "cat": "kinh doanh",
-    "pos": "Danh từ"
-  },
-  {
     "w": "inherently",
     "p": "ɪnhˈiəɹəntli",
     "m": "vốn có, một cách bẩm sinh, vốn dĩ, về bản chất",
     "cat": "trạng từ",
     "pos": "Phó từ"
-  },
-  {
-    "w": "initiative",
-    "p": "ɪnˈɪʃiətˌɪv",
-    "m": "sáng kiến, chủ động, bước đầu tiên",
-    "cat": "học thuật",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "innovation",
-    "p": "ˌɪnəvˈeɪʃən",
-    "m": "sự đổi mới, cải tiến",
-    "cat": "kinh doanh",
-    "pos": "Danh từ"
   },
   {
     "w": "instill",

@@ -60,16 +60,6 @@
     "cat": "transport"
   },
   {
-    "w": "兽医",
-    "p": "shòuyī",
-    "m": "bác sĩ thú y",
-    "example": "小狗生病了，我们带它去看兽医。",
-    "example_vi": "Con chó bị ốm, chúng tôi đưa nó đi khám bác sĩ thú y.",
-    "me": "vet",
-    "pos": "Danh từ",
-    "cat": "công việc"
-  },
-  {
     "w": "面试官",
     "p": "miànshìguān",
     "m": "người phỏng vấn",
@@ -108,15 +98,6 @@
     "me": "social insurance",
     "pos": "Danh từ",
     "cat": "society"
-  },
-  {
-    "w": "公积金",
-    "p": "gōngjījīn",
-    "m": "quỹ tích lũy nhà ở",
-    "example": "他用公积金贷款买了房子。",
-    "example_vi": "Anh ấy dùng quỹ tích lũy nhà ở để vay mua nhà.",
-    "pos": "Danh từ",
-    "cat": "noun"
   },
   {
     "w": "自我介绍",
@@ -409,16 +390,6 @@
     "cat": "sport"
   },
   {
-    "w": "柔道",
-    "p": "róudào",
-    "m": "judo",
-    "example": "他从小学习柔道。",
-    "example_vi": "Anh ấy học judo từ nhỏ.",
-    "me": "judo",
-    "pos": "Danh từ",
-    "cat": "sport"
-  },
-  {
     "w": "观众席",
     "p": "guānzhòngxí",
     "m": "khán đài",
@@ -576,16 +547,6 @@
     "example_vi": "Khi lên lớp thầy giáo dùng phần mềm quay màn hình.",
     "me": "screen recording",
     "pos": "Động từ",
-    "cat": "tech"
-  },
-  {
-    "w": "弹幕",
-    "p": "dànmù",
-    "m": "bình luận trôi trên video",
-    "example": "看视频的时候很多人喜欢发弹幕。",
-    "example_vi": "Khi xem video nhiều người thích gửi bình luận trôi.",
-    "me": "scrolling video comments (danmaku)",
-    "pos": "Danh từ",
     "cat": "tech"
   },
   {

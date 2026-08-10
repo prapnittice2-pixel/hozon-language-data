@@ -1,25 +1,5 @@
 [
   {
-    "w": "必修课",
-    "p": "bìxiūkè",
-    "m": "môn học bắt buộc",
-    "example": "数学是我们的必修课。",
-    "example_vi": "Toán học là môn bắt buộc của chúng tôi.",
-    "me": "compulsory subject",
-    "pos": "Danh từ",
-    "cat": "school"
-  },
-  {
-    "w": "选修课",
-    "p": "xuǎnxiūkè",
-    "m": "môn học tự chọn",
-    "example": "这个学期我选了一门有趣的选修课。",
-    "example_vi": "Học kỳ này tôi đã chọn một môn tự chọn thú vị.",
-    "me": "elective",
-    "pos": "Danh từ",
-    "cat": "academic"
-  },
-  {
     "w": "邻里关系",
     "p": "línlǐ guānxi",
     "m": "quan hệ láng giềng",
@@ -58,16 +38,6 @@
     "me": "haggle back and forth",
     "pos": "Động từ",
     "cat": "idiom"
-  },
-  {
-    "w": "出乎意料",
-    "p": "chūhū yìliào",
-    "m": "ngoài dự đoán",
-    "example": "这个结果真是出乎意料。",
-    "example_vi": "Kết quả này thật ngoài dự đoán.",
-    "me": "beyond expectation",
-    "pos": "Tính từ",
-    "cat": "tính từ"
   },
   {
     "w": "住院",
@@ -128,16 +98,6 @@
     "me": "reimburse expenses",
     "pos": "Động từ",
     "cat": "money"
-  },
-  {
-    "w": "干旱",
-    "p": "gānhàn",
-    "m": "hạn hán",
-    "example": "今年这个地区发生了干旱。",
-    "example_vi": "Năm nay khu vực này đã xảy ra hạn hán.",
-    "me": "drought",
-    "pos": "Danh từ",
-    "cat": "environment"
   },
   {
     "w": "班主任",
@@ -318,15 +278,6 @@
     "me": "job hunting",
     "pos": "Động từ",
     "cat": "work"
-  },
-  {
-    "w": "台风",
-    "p": "táifēng",
-    "m": "bão (nhiệt đới)",
-    "example": "这个星期有台风，请注意安全。",
-    "example_vi": "Tuần này có bão, xin chú ý an toàn.",
-    "pos": "Danh từ",
-    "cat": "environment"
   },
   {
     "w": "洪水",
@@ -789,16 +740,6 @@
     "cat": "shopping"
   },
   {
-    "w": "会员卡",
-    "p": "huìyuánkǎ",
-    "m": "thẻ hội viên",
-    "example": "我办了一张超市会员卡。",
-    "example_vi": "Tôi đã làm một chiếc thẻ hội viên siêu thị.",
-    "me": "membership card",
-    "pos": "Danh từ",
-    "cat": "shopping"
-  },
-  {
     "w": "气温",
     "p": "qìwēn",
     "m": "nhiệt độ (khí quyển)",
@@ -955,16 +896,6 @@
     "example": "暑假我要去爷爷家玩。",
     "example_vi": "Kỳ nghỉ hè tôi sẽ đến nhà ông chơi.",
     "me": "summer vacation",
-    "pos": "Danh từ",
-    "cat": "school"
-  },
-  {
-    "w": "校园",
-    "p": "xiàoyuán",
-    "m": "khuôn viên trường",
-    "example": "我们的校园很漂亮。",
-    "example_vi": "Khuôn viên trường chúng tôi rất đẹp.",
-    "me": "school campus",
     "pos": "Danh từ",
     "cat": "school"
   },
@@ -1217,16 +1148,6 @@
     "me": "pharmacy",
     "pos": "Danh từ",
     "cat": "place"
-  },
-  {
-    "w": "体温",
-    "p": "tǐwēn",
-    "m": "thân nhiệt",
-    "example": "护士给病人量了体温。",
-    "example_vi": "Y tá đã đo thân nhiệt cho bệnh nhân.",
-    "me": "body temperature",
-    "pos": "Danh từ",
-    "cat": "health"
   },
   {
     "w": "吃药",
@@ -1509,16 +1430,6 @@
     "cat": "travel"
   },
   {
-    "w": "交换生",
-    "p": "jiāohuànshēng",
-    "m": "sinh viên trao đổi",
-    "example": "她是从美国来的交换生。",
-    "example_vi": "Cô ấy là sinh viên trao đổi đến từ Mỹ.",
-    "me": "exchange student",
-    "pos": "Danh từ",
-    "cat": "education"
-  },
-  {
     "w": "练习题",
     "p": "liànxítí",
     "m": "bài tập luyện tập",
@@ -1729,15 +1640,6 @@
     "cat": "place"
   },
   {
-    "w": "胡同",
-    "p": "hútòng",
-    "m": "ngõ hẻm (Bắc Kinh)",
-    "example": "北京有很多有名的胡同。",
-    "example_vi": "Bắc Kinh có rất nhiều ngõ hẻm nổi tiếng.",
-    "pos": "Danh từ",
-    "cat": "noun"
-  },
-  {
     "w": "村庄",
     "p": "cūnzhuāng",
     "m": "làng, thôn",
@@ -1786,16 +1688,6 @@
     "me": "cloud",
     "pos": "Danh từ",
     "cat": "nature"
-  },
-  {
-    "w": "彩虹",
-    "p": "cǎihóng",
-    "m": "cầu vồng",
-    "example": "雨后天空出现了彩虹。",
-    "example_vi": "Sau cơn mưa bầu trời xuất hiện cầu vồng.",
-    "me": "rainbow",
-    "pos": "Danh từ",
-    "cat": "thiên nhiên"
   },
   {
     "w": "风力",
@@ -1916,26 +1808,6 @@
     "me": "celebrate the New Year/a festival",
     "pos": "Động từ",
     "cat": "culture"
-  },
-  {
-    "w": "端午节",
-    "p": "Duānwǔ Jié",
-    "m": "Tết Đoan Ngọ",
-    "example": "端午节我们要吃粽子。",
-    "example_vi": "Tết Đoan Ngọ chúng ta phải ăn bánh chưng.",
-    "me": "Dragon Boat Festival",
-    "pos": "Danh từ",
-    "cat": "noun"
-  },
-  {
-    "w": "元宵节",
-    "p": "Yuánxiāo Jié",
-    "m": "Tết Nguyên Tiêu",
-    "example": "元宵节晚上有很多灯笼。",
-    "example_vi": "Tối Tết Nguyên Tiêu có rất nhiều đèn lồng.",
-    "me": "Lantern Festival",
-    "pos": "Danh từ",
-    "cat": "noun"
   },
   {
     "w": "放鞭炮",

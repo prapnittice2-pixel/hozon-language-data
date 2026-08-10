@@ -1,21 +1,5 @@
 [
   {
-    "w": "况且",
-    "p": "kuàng qiě",
-    "m": "hơn nữa, vả lại",
-    "cat": "trạng từ",
-    "me": "moreover, besides",
-    "pos": "Phó từ"
-  },
-  {
-    "w": "固然",
-    "p": "gù rán",
-    "m": "cố nhiên, dĩ nhiên là, tuy nhiên, dù cho, đành rằng, tuy là",
-    "cat": "trạng từ",
-    "me": "of course, naturally; however, even though",
-    "pos": "Phó từ"
-  },
-  {
     "w": "诚然",
     "p": "chéng rán",
     "m": "đúng vậy, thật sự, đúng là, thực ra",
@@ -60,29 +44,6 @@
     "pos": "Phó từ"
   },
   {
-    "w": "何况",
-    "p": "hé kuàng",
-    "m": "huống chi, huống hồ, hơn nữa, huống gì",
-    "cat": "trạng từ",
-    "me": "let alone, moreover",
-    "pos": "Phó từ"
-  },
-  {
-    "w": "反而",
-    "p": "fǎn ér",
-    "m": "ngược lại, trái lại",
-    "cat": "trạng từ",
-    "me": "by contrast",
-    "pos": "Phó từ"
-  },
-  {
-    "w": "宁可",
-    "p": "nìng kě",
-    "m": "thà... còn hơn",
-    "cat": "trạng từ",
-    "pos": "Phó từ"
-  },
-  {
     "w": "纵然",
     "p": "zòng rán",
     "m": "dù cho, dẫu rằng",
@@ -90,13 +51,6 @@
     "example": "纵然困难重重，他也没有放弃。",
     "example_vi": "Dù cho khó khăn chồng chất, anh ấy cũng không từ bỏ.",
     "me": "even though",
-    "pos": "Phó từ"
-  },
-  {
-    "w": "既然",
-    "p": "jì rán",
-    "m": "đã..., vì đã",
-    "cat": "trạng từ",
     "pos": "Phó từ"
   },
   {
@@ -175,14 +129,6 @@
     "example_vi": "Chỉ có nỗ lực mới có thể thành công.",
     "me": "only, solely",
     "pos": "Phó từ"
-  },
-  {
-    "w": "固执",
-    "p": "gù zhí",
-    "m": "cứng đầu, bướng bỉnh, cố chấp",
-    "cat": "tính từ",
-    "me": "stubborn, obstinate, headstrong",
-    "pos": "Tính từ"
   },
   {
     "w": "谦逊",
@@ -283,27 +229,12 @@
     "pos": "Động từ"
   },
   {
-    "w": "归纳",
-    "p": "guī nà",
-    "m": "quy nạp, tổng kết",
-    "cat": "học thuật",
-    "pos": "Danh từ"
-  },
-  {
     "w": "演绎",
     "p": "yǎn yì",
     "m": "diễn dịch, suy diễn",
     "cat": "học thuật",
     "me": "deduce, infer",
     "pos": "Danh từ"
-  },
-  {
-    "w": "推断",
-    "p": "tuī duàn",
-    "m": "suy luận, kết luận, suy đoán, phán đoán",
-    "cat": "hành động",
-    "me": "to infer, conclude, speculate, judge",
-    "pos": "Động từ"
   },
   {
     "w": "论证",
@@ -340,13 +271,6 @@
     "example": "我们需要深入探讨这个问题。",
     "example_vi": "Chúng ta cần thảo luận sâu vấn đề này.",
     "me": "discuss, explore",
-    "pos": "Động từ"
-  },
-  {
-    "w": "验证",
-    "p": "yàn zhèng",
-    "m": "kiểm chứng, xác nhận",
-    "cat": "hành động",
     "pos": "Động từ"
   },
   {
@@ -516,14 +440,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "涉及",
-    "p": "shè jí",
-    "m": "liên quan đến, đề cập đến",
-    "cat": "hành động",
-    "me": "relate to, refer to",
-    "pos": "Động từ"
-  },
-  {
     "w": "蕴含",
     "p": "yùn hán",
     "m": "chứa đựng, hàm chứa",
@@ -632,13 +548,6 @@
     "cat": "học thuật",
     "me": "interpret",
     "pos": "Động từ"
-  },
-  {
-    "w": "立场",
-    "p": "lì chǎng",
-    "m": "lập trường, quan điểm",
-    "cat": "chính trị",
-    "pos": "Danh từ"
   },
   {
     "w": "诉求",
@@ -861,14 +770,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "可持续发展",
-    "p": "kě chí xù fā zhǎn",
-    "m": "phát triển bền vững",
-    "cat": "xã hội",
-    "me": "sustainable development",
-    "pos": "Động từ"
-  },
-  {
     "w": "生态文明",
     "p": "shēng tài wén míng",
     "m": "văn minh sinh thái",
@@ -902,13 +803,6 @@
     "m": "chiều sâu văn hóa, nền văn hóa",
     "cat": "văn hóa",
     "me": "cultural depth, cultural foundation",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "传承",
-    "p": "chuán chéng",
-    "m": "kế thừa, truyền thừa",
-    "cat": "văn hóa",
     "pos": "Danh từ"
   },
   {
@@ -1468,13 +1362,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "说明",
-    "p": "shuō míng",
-    "m": "thuyết minh, giải thích",
-    "cat": "học thuật",
-    "pos": "Động từ"
-  },
-  {
     "w": "描写",
     "p": "miáo xiě",
     "m": "miêu tả",
@@ -1733,14 +1620,6 @@
     "example": "这个平台聚合了各种信息。",
     "example_vi": "Nền tảng này tụ hợp các loại thông tin.",
     "me": "gather, combine",
-    "pos": "Động từ"
-  },
-  {
-    "w": "融合",
-    "p": "róng hé",
-    "m": "hòa nhập, hợp nhất, kết hợp, dung hợp, hội nhập",
-    "cat": "hành động",
-    "me": "integrate, merge, blend",
     "pos": "Động từ"
   },
   {

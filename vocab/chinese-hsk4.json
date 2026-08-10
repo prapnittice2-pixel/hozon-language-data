@@ -1,21 +1,5 @@
 [
   {
-    "w": "教育",
-    "p": "jiàoyù",
-    "m": "giáo dục",
-    "cat": "academic",
-    "me": "education",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "课程",
-    "p": "kèchéng",
-    "m": "chương trình học",
-    "cat": "academic",
-    "me": "curriculum",
-    "pos": "Danh từ"
-  },
-  {
     "w": "学院",
     "p": "xuéyuàn",
     "m": "học viện, trường",
@@ -78,14 +62,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "报告",
-    "p": "bàogào",
-    "m": "báo cáo",
-    "cat": "academic",
-    "me": "report",
-    "pos": "Động từ"
-  },
-  {
     "w": "分析",
     "p": "fēnxī",
     "m": "phân tích",
@@ -130,13 +106,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "方法",
-    "p": "fāngfǎ",
-    "m": "phương pháp",
-    "cat": "academic",
-    "pos": "Danh từ"
-  },
-  {
     "w": "资料",
     "p": "zīliào",
     "m": "tài liệu",
@@ -165,14 +134,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "数据",
-    "p": "shùjù",
-    "m": "dữ liệu",
-    "cat": "academic",
-    "me": "data",
-    "pos": "Danh từ"
-  },
-  {
     "w": "调查",
     "p": "diàochá",
     "m": "điều tra, khảo sát",
@@ -191,22 +152,6 @@
     "example_vi": "Đây là số liệu thống kê mới nhất.",
     "me": "statistics",
     "pos": "Danh từ"
-  },
-  {
-    "w": "结果",
-    "p": "jiéguǒ",
-    "m": "kết quả",
-    "cat": "academic",
-    "me": "result",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "影响",
-    "p": "yǐngxiǎng",
-    "m": "ảnh hưởng",
-    "cat": "academic",
-    "me": "influence",
-    "pos": "Động từ"
   },
   {
     "w": "意义",
@@ -245,22 +190,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "发展",
-    "p": "fāzhǎn",
-    "m": "phát triển",
-    "cat": "academic",
-    "me": "develop",
-    "pos": "Động từ"
-  },
-  {
-    "w": "进步",
-    "p": "jìnbù",
-    "m": "tiến bộ",
-    "cat": "academic",
-    "me": "progress",
-    "pos": "Động từ"
-  },
-  {
     "w": "改善",
     "p": "gǎishàn",
     "m": "cải thiện",
@@ -271,22 +200,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "提高",
-    "p": "tígāo",
-    "m": "nâng cao",
-    "cat": "academic",
-    "me": "enhance",
-    "pos": "Động từ"
-  },
-  {
-    "w": "水平",
-    "p": "shuǐpíng",
-    "m": "trình độ, mức độ",
-    "cat": "academic",
-    "me": "level",
-    "pos": "Danh từ"
-  },
-  {
     "w": "标准",
     "p": "biāozhǔn",
     "m": "tiêu chuẩn",
@@ -294,14 +207,6 @@
     "example": "这个产品符合国家标准。",
     "example_vi": "Sản phẩm này đáp ứng tiêu chuẩn quốc gia.",
     "me": "standard",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "质量",
-    "p": "zhìliàng",
-    "m": "chất lượng",
-    "cat": "academic",
-    "me": "quality",
     "pos": "Danh từ"
   },
   {
@@ -322,30 +227,6 @@
     "example": "提高工作效率很重要。",
     "example_vi": "Nâng cao hiệu suất công việc rất quan trọng.",
     "me": "efficiency",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "成功",
-    "p": "chénggōng",
-    "m": "thành công",
-    "cat": "academic",
-    "me": "successful",
-    "pos": "Động từ"
-  },
-  {
-    "w": "失败",
-    "p": "shībài",
-    "m": "thất bại",
-    "cat": "academic",
-    "me": "failure",
-    "pos": "Động từ"
-  },
-  {
-    "w": "经验",
-    "p": "jīngyàn",
-    "m": "kinh nghiệm",
-    "cat": "academic",
-    "me": "experience",
     "pos": "Danh từ"
   },
   {
@@ -391,21 +272,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "努力",
-    "p": "nǔlì",
-    "m": "cố gắng, nỗ lực",
-    "cat": "academic",
-    "me": "make an effort",
-    "pos": "Động từ"
-  },
-  {
-    "w": "坚持",
-    "p": "jiānchí",
-    "m": "kiên trì",
-    "cat": "academic",
-    "pos": "Động từ"
-  },
-  {
     "w": "专心",
     "p": "zhuānxīn",
     "m": "chuyên tâm, tập trung",
@@ -413,22 +279,6 @@
     "example": "请专心听课。",
     "example_vi": "Xin hãy chuyên tâm nghe giảng.",
     "me": "focused, dedicated",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "认真",
-    "p": "rènzhēn",
-    "m": "nghiêm túc, cẩn thận",
-    "cat": "academic",
-    "me": "serious, careful",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "仔细",
-    "p": "zǐxì",
-    "m": "tỉ mỉ, kỹ càng",
-    "cat": "academic",
-    "me": "meticulous, thorough",
     "pos": "Tính từ"
   },
   {
@@ -522,28 +372,12 @@
     "pos": "Danh từ"
   },
   {
-    "w": "社会",
-    "p": "shèhuì",
-    "m": "xã hội",
-    "cat": "society",
-    "me": "society",
-    "pos": "Danh từ"
-  },
-  {
     "w": "文明",
     "p": "wénmíng",
     "m": "văn minh",
     "cat": "society",
     "me": "civilization",
     "pos": "Danh từ"
-  },
-  {
-    "w": "传统",
-    "p": "chuántǒng",
-    "m": "truyền thống",
-    "cat": "society",
-    "me": "traditional",
-    "pos": "Tính từ"
   },
   {
     "w": "现代",
@@ -554,13 +388,6 @@
     "example_vi": "Đây là một thành phố hiện đại.",
     "me": "modern",
     "pos": "Tính từ"
-  },
-  {
-    "w": "变化",
-    "p": "biànhuà",
-    "m": "thay đổi, biến hóa",
-    "cat": "society",
-    "pos": "Động từ"
   },
   {
     "w": "改革",
@@ -599,30 +426,6 @@
     "pos": "Tính từ"
   },
   {
-    "w": "合作",
-    "p": "hézuò",
-    "m": "hợp tác",
-    "cat": "society",
-    "me": "cooperative",
-    "pos": "Động từ"
-  },
-  {
-    "w": "交流",
-    "p": "jiāoliú",
-    "m": "giao lưu, trao đổi",
-    "cat": "society",
-    "me": "exchange, interact",
-    "pos": "Động từ"
-  },
-  {
-    "w": "理解",
-    "p": "lǐjiě",
-    "m": "hiểu, thông cảm, lý giải",
-    "cat": "society",
-    "me": "to understand, sympathize",
-    "pos": "Động từ"
-  },
-  {
     "w": "尊重",
     "p": "zūnzhòng",
     "m": "tôn trọng",
@@ -651,14 +454,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "平等",
-    "p": "píngděng",
-    "m": "bình đẳng",
-    "cat": "society",
-    "me": "equality",
-    "pos": "Danh từ"
-  },
-  {
     "w": "公平",
     "p": "gōngpíng",
     "m": "công bằng",
@@ -677,38 +472,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "权利",
-    "p": "quánlì",
-    "m": "quyền lợi",
-    "cat": "society",
-    "me": "rights, benefits",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "责任",
-    "p": "zérèn",
-    "m": "trách nhiệm",
-    "cat": "society",
-    "me": "responsibility",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "义务",
-    "p": "yìwù",
-    "m": "nghĩa vụ",
-    "cat": "society",
-    "me": "obligation",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "法律",
-    "p": "fǎlǜ",
-    "m": "pháp luật",
-    "cat": "society",
-    "me": "law",
-    "pos": "Danh từ"
-  },
-  {
     "w": "规定",
     "p": "guīdìng",
     "m": "quy định",
@@ -716,13 +479,6 @@
     "example": "学校有严格的规定。",
     "example_vi": "Nhà trường có quy định nghiêm ngặt.",
     "me": "regulation",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "规则",
-    "p": "guīzé",
-    "m": "quy tắc",
-    "cat": "society",
     "pos": "Danh từ"
   },
   {
@@ -744,14 +500,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "政府",
-    "p": "zhèngfǔ",
-    "m": "chính phủ",
-    "cat": "society",
-    "me": "government",
-    "pos": "Danh từ"
-  },
-  {
     "w": "公民",
     "p": "gōngmín",
     "m": "công dân",
@@ -768,14 +516,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "自由",
-    "p": "zìyóu",
-    "m": "tự do",
-    "cat": "society",
-    "me": "freedom",
-    "pos": "Tính từ"
-  },
-  {
     "w": "独立",
     "p": "dúlì",
     "m": "độc lập",
@@ -784,38 +524,6 @@
     "example_vi": "Anh ấy đã học cách sống độc lập từ rất sớm.",
     "me": "independent",
     "pos": "Tính từ"
-  },
-  {
-    "w": "和平",
-    "p": "hépíng",
-    "m": "hòa bình",
-    "cat": "society",
-    "me": "peace",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "友好",
-    "p": "yǒuhǎo",
-    "m": "thân thiện, hữu hảo",
-    "cat": "society",
-    "me": "friendly, amicable",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "文化",
-    "p": "wénhuà",
-    "m": "văn hóa",
-    "cat": "society",
-    "me": "culture",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "艺术",
-    "p": "yìshù",
-    "m": "nghệ thuật",
-    "cat": "society",
-    "me": "art",
-    "pos": "Danh từ"
   },
   {
     "w": "哲学",
@@ -843,21 +551,6 @@
     "example": "每个人都有自己的信仰。",
     "example_vi": "Mỗi người đều có tín ngưỡng riêng của mình.",
     "me": "faith, belief",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "习惯",
-    "p": "xíguàn",
-    "m": "thói quen",
-    "cat": "society",
-    "me": "habit",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "风俗",
-    "p": "fēngsú",
-    "m": "phong tục",
-    "cat": "society",
     "pos": "Danh từ"
   },
   {
@@ -939,14 +632,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "社区",
-    "p": "shèqū",
-    "m": "cộng đồng, khu dân cư, khu phố",
-    "cat": "society",
-    "me": "community, neighborhood",
-    "pos": "Danh từ"
-  },
-  {
     "w": "移民",
     "p": "yímín",
     "m": "di dân, người nhập cư",
@@ -1015,13 +700,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "新闻",
-    "p": "xīnwén",
-    "m": "tin tức, báo chí",
-    "cat": "society",
-    "pos": "Động từ"
-  },
-  {
     "w": "报道",
     "p": "bàodào",
     "m": "đưa tin, phóng sự",
@@ -1066,14 +744,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "感情",
-    "p": "gǎnqíng",
-    "m": "tình cảm, cảm tình",
-    "cat": "psychology",
-    "me": "affection, feeling",
-    "pos": "Danh từ"
-  },
-  {
     "w": "感受",
     "p": "gǎnshòu",
     "m": "cảm nhận",
@@ -1082,14 +752,6 @@
     "example_vi": "Xin hãy nói về cảm nhận của bạn.",
     "me": "perception, feeling",
     "pos": "Động từ"
-  },
-  {
-    "w": "心情",
-    "p": "xīnqíng",
-    "m": "tâm trạng",
-    "cat": "psychology",
-    "me": "mood",
-    "pos": "Danh từ"
   },
   {
     "w": "态度",
@@ -1172,14 +834,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "耐心",
-    "p": "nàixīn",
-    "m": "kiên nhẫn",
-    "cat": "psychology",
-    "me": "patience",
-    "pos": "Tính từ"
-  },
-  {
     "w": "坚强",
     "p": "jiānqiáng",
     "m": "kiên cường",
@@ -1187,14 +841,6 @@
     "example": "她是一个很坚强的女孩。",
     "example_vi": "Cô ấy là một cô gái rất kiên cường.",
     "me": "resilient",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "勇气",
-    "p": "yǒngqì",
-    "m": "can đảm, dũng cảm",
-    "cat": "psychology",
-    "me": "courageous",
     "pos": "Tính từ"
   },
   {
@@ -1278,14 +924,6 @@
     "pos": "Tính từ"
   },
   {
-    "w": "自信",
-    "p": "zìxìn",
-    "m": "tự tin",
-    "cat": "psychology",
-    "me": "confident",
-    "pos": "Tính từ"
-  },
-  {
     "w": "自卑",
     "p": "zìbēi",
     "m": "tự ti, mặc cảm",
@@ -1294,29 +932,6 @@
     "example_vi": "Anh ấy cảm thấy tự ti vì thấp bé.",
     "me": "inferiority complex",
     "pos": "Động từ"
-  },
-  {
-    "w": "骄傲",
-    "p": "jiāo'ào",
-    "m": "kiêu ngạo, tự hào",
-    "cat": "psychology",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "谦虚",
-    "p": "qiānxū",
-    "m": "khiêm tốn",
-    "cat": "psychology",
-    "me": "humble",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "诚实",
-    "p": "chéngshí",
-    "m": "trung thực, thành thật",
-    "cat": "psychology",
-    "me": "honest, truthful",
-    "pos": "Tính từ"
   },
   {
     "w": "诚信",
@@ -1352,14 +967,6 @@
     "example": "她是一个善良的人。",
     "example_vi": "Cô ấy là một người lương thiện.",
     "me": "good-natured, kind",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "聪明",
-    "p": "cōngmíng",
-    "m": "thông minh",
-    "cat": "psychology",
-    "me": "smart",
     "pos": "Tính từ"
   },
   {
@@ -1423,14 +1030,6 @@
     "pos": "Tính từ"
   },
   {
-    "w": "热情",
-    "p": "rèqíng",
-    "m": "nhiệt tình",
-    "cat": "psychology",
-    "me": "enthusiasm",
-    "pos": "Tính từ"
-  },
-  {
     "w": "冷淡",
     "p": "lěngdàn",
     "m": "lạnh lùng, thờ ơ",
@@ -1451,28 +1050,12 @@
     "pos": "Tính từ"
   },
   {
-    "w": "礼貌",
-    "p": "lǐmào",
-    "m": "lịch sự, lễ phép",
-    "cat": "psychology",
-    "me": "polite, courteous",
-    "pos": "Tính từ"
-  },
-  {
     "w": "焦虑",
     "p": "jiāolǜ",
     "m": "lo lắng, bồn chồn",
     "cat": "psychology",
     "me": "anxious",
     "pos": "Tính từ"
-  },
-  {
-    "w": "压力",
-    "p": "yālì",
-    "m": "áp lực",
-    "cat": "psychology",
-    "me": "pressure",
-    "pos": "Danh từ"
   },
   {
     "w": "挫折",
@@ -1485,14 +1068,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "幸福",
-    "p": "xìngfú",
-    "m": "hạnh phúc",
-    "cat": "psychology",
-    "me": "happiness",
-    "pos": "Tính từ"
-  },
-  {
     "w": "满足",
     "p": "mǎnzú",
     "m": "hài lòng, thỏa mãn",
@@ -1503,29 +1078,6 @@
     "pos": "Tính từ"
   },
   {
-    "w": "失望",
-    "p": "shīwàng",
-    "m": "thất vọng",
-    "cat": "psychology",
-    "me": "disappointed",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "经济",
-    "p": "jīngjì",
-    "m": "kinh tế",
-    "cat": "economics",
-    "me": "economy",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "市场",
-    "p": "shìchǎng",
-    "m": "thị trường",
-    "cat": "economics",
-    "pos": "Danh từ"
-  },
-  {
     "w": "商品",
     "p": "shāngpǐn",
     "m": "hàng hóa",
@@ -1533,14 +1085,6 @@
     "example": "超市里的商品很丰富。",
     "example_vi": "Hàng hóa trong siêu thị rất phong phú.",
     "me": "commodity",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "价格",
-    "p": "jiàgé",
-    "m": "giá cả",
-    "cat": "economics",
-    "me": "price",
     "pos": "Danh từ"
   },
   {
@@ -1614,14 +1158,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "公司",
-    "p": "gōngsī",
-    "m": "công ty",
-    "cat": "economics",
-    "me": "company",
-    "pos": "Danh từ"
-  },
-  {
     "w": "股票",
     "p": "gǔpiào",
     "m": "cổ phiếu",
@@ -1629,14 +1165,6 @@
     "example": "他买了一些股票。",
     "example_vi": "Anh ấy đã mua một ít cổ phiếu.",
     "me": "stock, shares",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "银行",
-    "p": "yínháng",
-    "m": "ngân hàng",
-    "cat": "economics",
-    "me": "bank",
     "pos": "Danh từ"
   },
   {
@@ -1772,14 +1300,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "工资",
-    "p": "gōngzī",
-    "m": "lương, tiền công",
-    "cat": "economics",
-    "me": "wage",
-    "pos": "Danh từ"
-  },
-  {
     "w": "薪水",
     "p": "xīnshuǐ",
     "m": "tiền lương",
@@ -1874,30 +1394,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "服务",
-    "p": "fúwù",
-    "m": "dịch vụ",
-    "cat": "economics",
-    "me": "service",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "客户",
-    "p": "kèhù",
-    "m": "khách hàng",
-    "cat": "economics",
-    "me": "customer",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "合同",
-    "p": "hétong",
-    "m": "hợp đồng",
-    "cat": "economics",
-    "me": "contract",
-    "pos": "Danh từ"
-  },
-  {
     "w": "协议",
     "p": "xiéyì",
     "m": "thỏa thuận, hiệp định",
@@ -1966,14 +1462,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "管理",
-    "p": "guǎnlǐ",
-    "m": "quản lý",
-    "cat": "economics",
-    "me": "manage",
-    "pos": "Động từ"
-  },
-  {
     "w": "战略",
     "p": "zhànlüè",
     "m": "chiến lược",
@@ -2024,75 +1512,11 @@
     "pos": "Danh từ"
   },
   {
-    "w": "机会",
-    "p": "jīhuì",
-    "m": "cơ hội",
-    "cat": "economics",
-    "me": "chance",
-    "pos": "Danh từ"
-  },
-  {
     "w": "挑战",
     "p": "tiǎozhàn",
     "m": "thách thức",
     "cat": "economics",
     "me": "challenge",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "目标",
-    "p": "mùbiāo",
-    "m": "mục tiêu",
-    "cat": "economics",
-    "me": "goal",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "计划",
-    "p": "jìhuà",
-    "m": "kế hoạch",
-    "cat": "economics",
-    "me": "plan",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "科学",
-    "p": "kēxué",
-    "m": "khoa học",
-    "cat": "science",
-    "me": "scientific",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "技术",
-    "p": "jìshù",
-    "m": "kỹ thuật, công nghệ",
-    "cat": "science",
-    "me": "technique, technology",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "研究",
-    "p": "yánjiū",
-    "m": "nghiên cứu",
-    "cat": "science",
-    "me": "research",
-    "pos": "Động từ"
-  },
-  {
-    "w": "信息",
-    "p": "xìnxī",
-    "m": "thông tin",
-    "cat": "science",
-    "me": "information",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "网络",
-    "p": "wǎngluò",
-    "m": "mạng lưới, internet",
-    "cat": "science",
-    "me": "network, internet",
     "pos": "Danh từ"
   },
   {
@@ -2103,38 +1527,6 @@
     "example": "互联网改变了我们的生活。",
     "example_vi": "Internet đã thay đổi cuộc sống của chúng ta.",
     "me": "the internet",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "手机",
-    "p": "shǒujī",
-    "m": "điện thoại di động",
-    "cat": "science",
-    "me": "mobile",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "电脑",
-    "p": "diànnǎo",
-    "m": "máy tính",
-    "cat": "science",
-    "me": "computer",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "软件",
-    "p": "ruǎnjiàn",
-    "m": "phần mềm",
-    "cat": "science",
-    "me": "software",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "程序",
-    "p": "chéngxù",
-    "m": "chương trình, quy trình, thủ tục",
-    "cat": "science",
-    "me": "program, process, procedure",
     "pos": "Danh từ"
   },
   {
@@ -2153,14 +1545,6 @@
     "m": "nền tảng, platform",
     "cat": "science",
     "me": "platform",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "应用",
-    "p": "yìngyòng",
-    "m": "ứng dụng",
-    "cat": "science",
-    "me": "app",
     "pos": "Danh từ"
   },
   {
@@ -2242,22 +1626,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "环境",
-    "p": "huánjìng",
-    "m": "môi trường",
-    "cat": "science",
-    "me": "environment",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "污染",
-    "p": "wūrǎn",
-    "m": "ô nhiễm",
-    "cat": "science",
-    "me": "pollution",
-    "pos": "Danh từ"
-  },
-  {
     "w": "生态",
     "p": "shēngtài",
     "m": "sinh thái",
@@ -2322,14 +1690,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "治疗",
-    "p": "zhìliáo",
-    "m": "điều trị",
-    "cat": "science",
-    "me": "treatment",
-    "pos": "Danh từ"
-  },
-  {
     "w": "药物",
     "p": "yàowù",
     "m": "thuốc, dược phẩm",
@@ -2337,14 +1697,6 @@
     "example": "这种药物副作用很小。",
     "example_vi": "Loại thuốc này có tác dụng phụ rất ít.",
     "me": "medicine, pharmaceutical",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "手术",
-    "p": "shǒushù",
-    "m": "phẫu thuật",
-    "cat": "science",
-    "me": "surgery",
     "pos": "Danh từ"
   },
   {
@@ -2363,14 +1715,6 @@
     "example": "孩子需要按时打疫苗。",
     "example_vi": "Trẻ em cần tiêm vắc-xin đúng thời hạn.",
     "me": "vaccine",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "气候",
-    "p": "qìhòu",
-    "m": "khí hậu",
-    "cat": "science",
-    "me": "climate",
     "pos": "Danh từ"
   },
   {
@@ -2441,14 +1785,6 @@
     "m": "sinh học, sinh vật",
     "cat": "science",
     "me": "biology, organism",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "数学",
-    "p": "shùxué",
-    "m": "toán học",
-    "cat": "science",
-    "me": "mathematics",
     "pos": "Danh từ"
   },
   {
@@ -2584,30 +1920,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "尽管",
-    "p": "jǐnguǎn",
-    "m": "mặc dù, dù cho",
-    "cat": "language",
-    "me": "although, even though",
-    "pos": "Động từ"
-  },
-  {
-    "w": "即使",
-    "p": "jíshǐ",
-    "m": "dù, cho dù",
-    "cat": "language",
-    "me": "even if, although",
-    "pos": "Động từ"
-  },
-  {
-    "w": "哪怕",
-    "p": "nǎpà",
-    "m": "dù, ngay cả khi",
-    "cat": "language",
-    "me": "even if, even when",
-    "pos": "Danh từ"
-  },
-  {
     "w": "无论如何",
     "p": "wúlùn rúhé",
     "m": "dù thế nào đi nữa",
@@ -2635,14 +1947,6 @@
     "example": "总体来看，今年的成绩不错。",
     "example_vi": "Nhìn chung mà xét, thành tích năm nay khá tốt.",
     "me": "generally speaking, on the whole",
-    "pos": "Động từ"
-  },
-  {
-    "w": "总的来说",
-    "p": "zǒng de lái shuō",
-    "m": "nhìn chung mà nói",
-    "cat": "language",
-    "me": "generally speaking",
     "pos": "Động từ"
   },
   {
@@ -2682,14 +1986,6 @@
     "example_vi": "Đây không phải lỗi của anh ấy, mà là lỗi của tôi.",
     "me": "but rather, instead",
     "pos": "Danh từ"
-  },
-  {
-    "w": "而且",
-    "p": "érqiě",
-    "m": "hơn nữa, và còn",
-    "cat": "language",
-    "me": "moreover, and also",
-    "pos": "Liên từ"
   },
   {
     "w": "也就是说",
@@ -2732,13 +2028,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "因此",
-    "p": "yīncǐ",
-    "m": "do đó, vì vậy",
-    "cat": "language",
-    "pos": "Phó từ"
-  },
-  {
     "w": "从而",
     "p": "cóng'ér",
     "m": "từ đó, do đó, nhờ đó, bởi vậy",
@@ -2749,22 +2038,6 @@
     "pos": "Phó từ"
   },
   {
-    "w": "以便",
-    "p": "yǐbiàn",
-    "m": "để, nhằm mục đích",
-    "cat": "language",
-    "me": "in order to",
-    "pos": "Động từ"
-  },
-  {
-    "w": "以免",
-    "p": "yǐmiǎn",
-    "m": "để tránh, kẻo",
-    "cat": "language",
-    "me": "in order to avoid, lest",
-    "pos": "Động từ"
-  },
-  {
     "w": "尽快",
     "p": "jǐnkuài",
     "m": "càng sớm càng tốt",
@@ -2773,14 +2046,6 @@
     "example_vi": "Xin hãy trả lời tôi càng sớm càng tốt.",
     "me": "the sooner the better",
     "pos": "Danh từ"
-  },
-  {
-    "w": "逐渐",
-    "p": "zhújiàn",
-    "m": "dần dần, từng bước",
-    "cat": "language",
-    "me": "gradually",
-    "pos": "Phó từ"
   },
   {
     "w": "不断",
@@ -2801,37 +2066,6 @@
     "example_vi": "Trận mưa này kéo dài liên tục ba ngày.",
     "me": "continuous, to maintain",
     "pos": "Phó từ"
-  },
-  {
-    "w": "随着",
-    "p": "suízhe",
-    "m": "cùng với, theo đà",
-    "cat": "language",
-    "me": "along with, in step with",
-    "pos": "Động từ"
-  },
-  {
-    "w": "对于",
-    "p": "duìyú",
-    "m": "đối với, về",
-    "cat": "language",
-    "pos": "Động từ"
-  },
-  {
-    "w": "关于",
-    "p": "guānyú",
-    "m": "về, liên quan đến",
-    "cat": "language",
-    "me": "with regard to",
-    "pos": "Động từ"
-  },
-  {
-    "w": "通过",
-    "p": "tōngguò",
-    "m": "thông qua, qua",
-    "cat": "language",
-    "me": "through, via",
-    "pos": "Danh từ"
   },
   {
     "w": "借助",
@@ -2894,22 +2128,6 @@
     "pos": "Phó từ"
   },
   {
-    "w": "相同",
-    "p": "xiāngtóng",
-    "m": "giống nhau, như nhau",
-    "cat": "language",
-    "me": "same, alike",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "不同",
-    "p": "bùtóng",
-    "m": "khác nhau",
-    "cat": "language",
-    "me": "different",
-    "pos": "Tính từ"
-  },
-  {
     "w": "分别",
     "p": "fēnbié",
     "m": "lần lượt, riêng biệt, chia tay",
@@ -2960,14 +2178,6 @@
     "pos": "Phó từ"
   },
   {
-    "w": "一起",
-    "p": "yīqǐ",
-    "m": "cùng nhau",
-    "cat": "language",
-    "me": "together",
-    "pos": "Phó từ"
-  },
-  {
     "w": "同时",
     "p": "tóngshí",
     "m": "đồng thời",
@@ -2978,27 +2188,12 @@
     "pos": "Phó từ"
   },
   {
-    "w": "另外",
-    "p": "lìngwài",
-    "m": "ngoài ra, hơn nữa",
-    "cat": "language",
-    "pos": "Phó từ"
-  },
-  {
     "w": "其次",
     "p": "qícì",
     "m": "thứ hai, tiếp theo, thứ đến",
     "cat": "language",
     "me": "second, next, following",
     "pos": "Số từ"
-  },
-  {
-    "w": "最后",
-    "p": "zuìhòu",
-    "m": "cuối cùng",
-    "cat": "language",
-    "me": "finally",
-    "pos": "Phó từ"
   },
   {
     "w": "最终",
@@ -3039,14 +2234,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "所有",
-    "p": "suǒyǒu",
-    "m": "tất cả, mọi",
-    "cat": "language",
-    "me": "all, every",
-    "pos": "Danh từ"
-  },
-  {
     "w": "大部分",
     "p": "dà bùfen",
     "m": "phần lớn, đa phần",
@@ -3068,13 +2255,6 @@
     "m": "một loạt, hàng loạt",
     "cat": "language",
     "me": "a series of, a batch of",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "各种",
-    "p": "gèzhǒng",
-    "m": "các loại, đủ thứ",
-    "cat": "language",
     "pos": "Danh từ"
   },
   {
@@ -3104,14 +2284,6 @@
     "example_vi": "Anh ấy là người bạn duy nhất của tôi.",
     "me": "only, unique",
     "pos": "Danh từ"
-  },
-  {
-    "w": "主要",
-    "p": "zhǔyào",
-    "m": "chủ yếu, chính",
-    "cat": "language",
-    "me": "primary",
-    "pos": "Tính từ"
   },
   {
     "w": "次要",
@@ -3152,29 +2324,6 @@
     "pos": "Tính từ"
   },
   {
-    "w": "重要",
-    "p": "zhòngyào",
-    "m": "quan trọng",
-    "cat": "language",
-    "me": "important",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "必要",
-    "p": "bìyào",
-    "m": "cần thiết",
-    "cat": "language",
-    "me": "necessary",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "可能",
-    "p": "kěnéng",
-    "m": "có thể, khả năng",
-    "cat": "language",
-    "pos": "Danh từ"
-  },
-  {
     "w": "也许",
     "p": "yěxǔ",
     "m": "có lẽ, có thể",
@@ -3183,29 +2332,6 @@
     "example_vi": "Có lẽ anh ấy không biết chuyện này.",
     "me": "maybe",
     "pos": "Phó từ"
-  },
-  {
-    "w": "大概",
-    "p": "dàgài",
-    "m": "đại khái, khoảng chừng",
-    "cat": "language",
-    "me": "roughly, approximately",
-    "pos": "Phó từ"
-  },
-  {
-    "w": "估计",
-    "p": "gūjì",
-    "m": "ước tính, dự đoán",
-    "cat": "language",
-    "pos": "Động từ"
-  },
-  {
-    "w": "应该",
-    "p": "yīnggāi",
-    "m": "nên, phải",
-    "cat": "language",
-    "me": "should, must",
-    "pos": "Động từ"
   },
   {
     "w": "建议",
@@ -3218,22 +2344,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "要求",
-    "p": "yāoqiú",
-    "m": "yêu cầu",
-    "cat": "language",
-    "me": "request",
-    "pos": "Động từ"
-  },
-  {
-    "w": "表示",
-    "p": "biǎoshì",
-    "m": "biểu thị, thể hiện, bày tỏ, cho thấy",
-    "cat": "language",
-    "me": "indicate, express, show",
-    "pos": "Động từ"
-  },
-  {
     "w": "说明",
     "p": "shuōmíng",
     "m": "giải thích, chứng tỏ",
@@ -3241,14 +2351,6 @@
     "example": "请你说明一下情况。",
     "example_vi": "Xin bạn giải thích tình hình.",
     "me": "explain, demonstrate",
-    "pos": "Động từ"
-  },
-  {
-    "w": "解释",
-    "p": "jiěshì",
-    "m": "giải thích",
-    "cat": "language",
-    "me": "explain",
     "pos": "Động từ"
   },
   {
@@ -3272,14 +2374,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "认为",
-    "p": "rènwéi",
-    "m": "cho rằng, nghĩ rằng",
-    "cat": "language",
-    "me": "consider, think that",
-    "pos": "Động từ"
-  },
-  {
     "w": "主张",
     "p": "zhǔzhāng",
     "m": "chủ trương, đề xuất",
@@ -3287,22 +2381,6 @@
     "example": "他主张早睡早起。",
     "example_vi": "Anh ấy chủ trương ngủ sớm dậy sớm.",
     "me": "advocate, propose",
-    "pos": "Động từ"
-  },
-  {
-    "w": "反对",
-    "p": "fǎnduì",
-    "m": "phản đối",
-    "cat": "language",
-    "me": "oppose",
-    "pos": "Động từ"
-  },
-  {
-    "w": "支持",
-    "p": "zhīchí",
-    "m": "ủng hộ, hỗ trợ",
-    "cat": "language",
-    "me": "support",
     "pos": "Động từ"
   },
   {
@@ -3376,22 +2454,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "导致",
-    "p": "dǎozhì",
-    "m": "dẫn đến, gây ra",
-    "cat": "language",
-    "me": "give rise to",
-    "pos": "Động từ"
-  },
-  {
-    "w": "造成",
-    "p": "zàochéng",
-    "m": "gây ra, tạo ra",
-    "cat": "language",
-    "me": "cause, create",
-    "pos": "Động từ"
-  },
-  {
     "w": "促进",
     "p": "cùjìn",
     "m": "thúc đẩy, xúc tiến",
@@ -3429,22 +2491,6 @@
     "example": "他达到了自己的目标。",
     "example_vi": "Anh ấy đã đạt được mục tiêu của mình.",
     "me": "attain, achieve",
-    "pos": "Động từ"
-  },
-  {
-    "w": "完成",
-    "p": "wánchéng",
-    "m": "hoàn thành",
-    "cat": "language",
-    "me": "complete",
-    "pos": "Động từ"
-  },
-  {
-    "w": "解决",
-    "p": "jiějué",
-    "m": "giải quyết",
-    "cat": "language",
-    "me": "resolve",
     "pos": "Động từ"
   },
   {
@@ -3538,14 +2584,6 @@
     "pos": "Phó từ"
   },
   {
-    "w": "专业",
-    "p": "zhuānyè",
-    "m": "chuyên ngành, chuyên môn",
-    "cat": "academic",
-    "me": "specialty, field of expertise",
-    "pos": "Danh từ"
-  },
-  {
     "w": "学科",
     "p": "xuékē",
     "m": "môn học, ngành học",
@@ -3561,30 +2599,6 @@
     "example": "公司每年都进行员工考核。",
     "example_vi": "Công ty mỗi năm đều tiến hành đánh giá nhân viên.",
     "me": "check, evaluate",
-    "pos": "Động từ"
-  },
-  {
-    "w": "成绩",
-    "p": "chéngjì",
-    "m": "thành tích, điểm số",
-    "cat": "academic",
-    "me": "achievement, score",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "毕业",
-    "p": "bìyè",
-    "m": "tốt nghiệp",
-    "cat": "academic",
-    "me": "graduate",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "奖学金",
-    "p": "jiǎngxuéjīn",
-    "m": "học bổng",
-    "cat": "academic",
-    "me": "scholarship",
     "pos": "Động từ"
   },
   {
@@ -3642,14 +2656,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "讨论",
-    "p": "tǎolùn",
-    "m": "thảo luận",
-    "cat": "academic",
-    "me": "discuss",
-    "pos": "Động từ"
-  },
-  {
     "w": "辩论",
     "p": "biànlùn",
     "m": "tranh luận, biện luận",
@@ -3696,14 +2702,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "提问",
-    "p": "tíwèn",
-    "m": "đặt câu hỏi",
-    "cat": "academic",
-    "me": "to ask a question",
-    "pos": "Động từ"
-  },
-  {
     "w": "解答",
     "p": "jiědá",
     "m": "giải đáp",
@@ -3711,22 +2709,6 @@
     "example": "老师帮我解答了这个问题。",
     "example_vi": "Thầy giáo đã giúp tôi giải đáp vấn đề này.",
     "me": "to answer, resolve (a question)",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "民族",
-    "p": "mínzú",
-    "m": "dân tộc",
-    "cat": "society",
-    "me": "ethnic group, nation",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "文物",
-    "p": "wénwù",
-    "m": "di vật văn hóa",
-    "cat": "society",
-    "me": "cultural relic",
     "pos": "Danh từ"
   },
   {
@@ -3738,27 +2720,11 @@
     "pos": "Danh từ"
   },
   {
-    "w": "保护",
-    "p": "bǎohù",
-    "m": "bảo vệ",
-    "cat": "society",
-    "me": "protect",
-    "pos": "Động từ"
-  },
-  {
     "w": "传承",
     "p": "chuánchéng",
     "m": "truyền thừa, kế thừa",
     "cat": "society",
     "me": "to pass down, inherit",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "节日",
-    "p": "jiérì",
-    "m": "ngày lễ, lễ hội",
-    "cat": "society",
-    "me": "holiday, festival",
     "pos": "Danh từ"
   },
   {
@@ -3777,14 +2743,6 @@
     "m": "nghi lễ, nghi thức",
     "cat": "society",
     "me": "ritual",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "习俗",
-    "p": "xísú",
-    "m": "phong tục tập quán",
-    "cat": "society",
-    "me": "custom",
     "pos": "Danh từ"
   },
   {
@@ -3928,22 +2886,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "紧张",
-    "p": "jǐnzhāng",
-    "m": "căng thẳng, lo âu",
-    "cat": "psychology",
-    "me": "stressed, anxious",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "放松",
-    "p": "fàngsōng",
-    "m": "thư giãn, buông lỏng",
-    "cat": "psychology",
-    "me": "relax, loosen up",
-    "pos": "Danh từ"
-  },
-  {
     "w": "平静",
     "p": "píngjìng",
     "m": "bình tĩnh, yên tĩnh",
@@ -4004,21 +2946,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "后悔",
-    "p": "hòuhuǐ",
-    "m": "hối hận, tiếc nuối",
-    "cat": "psychology",
-    "me": "regret",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "担心",
-    "p": "dānxīn",
-    "m": "lo lắng, lo âu",
-    "cat": "psychology",
-    "pos": "Tính từ"
-  },
-  {
     "w": "恐惧",
     "p": "kǒngjù",
     "m": "sợ hãi, kinh hoàng",
@@ -4027,14 +2954,6 @@
     "example_vi": "Anh ấy cảm thấy sợ hãi bóng tối.",
     "me": "afraid, terrified",
     "pos": "Tính từ"
-  },
-  {
-    "w": "惊讶",
-    "p": "jīngyà",
-    "m": "ngạc nhiên, kinh ngạc",
-    "cat": "psychology",
-    "me": "surprised, astonished",
-    "pos": "Danh từ"
   },
   {
     "w": "感激",
@@ -4613,14 +3532,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "不过",
-    "p": "búguò",
-    "m": "nhưng, tuy nhiên, có điều",
-    "cat": "language",
-    "me": "but, however",
-    "pos": "Danh từ"
-  },
-  {
     "w": "固然",
     "p": "gùrán",
     "m": "cố nhiên, dĩ nhiên là, tuy nhiên, dù cho, đành rằng, tuy là",
@@ -4676,45 +3587,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "几乎",
-    "p": "jīhū",
-    "m": "hầu như, gần như",
-    "cat": "language",
-    "me": "almost, nearly",
-    "pos": "Phó từ"
-  },
-  {
-    "w": "往往",
-    "p": "wǎngwǎng",
-    "m": "thường thường",
-    "cat": "language",
-    "me": "usually",
-    "pos": "Phó từ"
-  },
-  {
-    "w": "一般",
-    "p": "yībān",
-    "m": "thông thường, nói chung",
-    "cat": "language",
-    "me": "usually, generally",
-    "pos": "Động từ"
-  },
-  {
-    "w": "通常",
-    "p": "tōngcháng",
-    "m": "thông thường",
-    "cat": "language",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "偶尔",
-    "p": "ǒu'ěr",
-    "m": "thỉnh thoảng, đôi khi",
-    "cat": "language",
-    "me": "occasionally",
-    "pos": "Phó từ"
-  },
-  {
     "w": "始终",
     "p": "shǐzhōng",
     "m": "từ đầu đến cuối, luôn luôn",
@@ -4725,14 +3597,6 @@
     "pos": "Phó từ"
   },
   {
-    "w": "一直",
-    "p": "yīzhí",
-    "m": "liên tục, mãi mãi, thẳng, suốt, cứ, luôn luôn",
-    "cat": "language",
-    "me": "continuously, forever, always",
-    "pos": "Phó từ"
-  },
-  {
     "w": "始终如一",
     "p": "shǐzhōng rúyī",
     "m": "nhất quán từ đầu đến cuối",
@@ -4740,14 +3604,6 @@
     "example": "他对朋友始终如一。",
     "example_vi": "Anh ấy luôn nhất quán với bạn bè.",
     "me": "consistent from beginning to end",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "历史",
-    "p": "lìshǐ",
-    "m": "lịch sử",
-    "cat": "society",
-    "me": "historical",
     "pos": "Danh từ"
   },
   {
@@ -4796,61 +3652,6 @@
     "example": "他从事影视行业工作。",
     "example_vi": "Anh ấy làm việc trong ngành phim ảnh và truyền hình.",
     "me": "film and television",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "文学",
-    "p": "wénxué",
-    "m": "văn học",
-    "cat": "society",
-    "me": "literature",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "音乐",
-    "p": "yīnyuè",
-    "m": "âm nhạc",
-    "cat": "society",
-    "me": "music",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "绘画",
-    "p": "huìhuà",
-    "m": "hội họa, vẽ tranh",
-    "cat": "society",
-    "me": "painting",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "雕塑",
-    "p": "diāosù",
-    "m": "điêu khắc",
-    "cat": "society",
-    "me": "sculpture",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "戏剧",
-    "p": "xìjù",
-    "m": "kịch, sân khấu",
-    "cat": "society",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "舞蹈",
-    "p": "wǔdǎo",
-    "m": "vũ điệu, múa, khiêu vũ, vũ đạo",
-    "cat": "society",
-    "me": "dance, choreography",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "摄影",
-    "p": "shèyǐng",
-    "m": "nhiếp ảnh",
-    "cat": "society",
-    "me": "photography",
     "pos": "Danh từ"
   },
   {
@@ -5040,28 +3841,12 @@
     "pos": "Danh từ"
   },
   {
-    "w": "发现",
-    "p": "fāxiàn",
-    "m": "phát hiện",
-    "cat": "academic",
-    "me": "find out",
-    "pos": "Động từ"
-  },
-  {
     "w": "验证",
     "p": "yànzhèng",
     "m": "kiểm chứng, xác minh",
     "cat": "academic",
     "me": "verify, confirm",
     "pos": "Danh từ"
-  },
-  {
-    "w": "比较",
-    "p": "bǐjiào",
-    "m": "so sánh",
-    "cat": "academic",
-    "me": "compare",
-    "pos": "Động từ"
   },
   {
     "w": "解析",
@@ -5280,14 +4065,6 @@
     "example_vi": "Anh ấy nói xong, tiếp ngay sau đó liền rời đi.",
     "me": "immediately following",
     "pos": "Danh từ"
-  },
-  {
-    "w": "首先",
-    "p": "shǒuxiān",
-    "m": "đầu tiên, trước hết",
-    "cat": "language",
-    "me": "first, first of all",
-    "pos": "Phó từ"
   },
   {
     "w": "进而",

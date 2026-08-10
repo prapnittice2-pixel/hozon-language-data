@@ -579,15 +579,6 @@
     "cat": "du lịch"
   },
   {
-    "w": "直达",
-    "p": "zhídá",
-    "m": "đi thẳng, trực tiếp đến",
-    "example": "这趟车直达机场，不用换乘。",
-    "example_vi": "Chuyến xe này đi thẳng đến sân bay, không cần chuyển tuyến.",
-    "pos": "Động từ",
-    "cat": "verb"
-  },
-  {
     "w": "班机",
     "p": "bānjī",
     "m": "chuyến bay định kỳ",
@@ -1328,16 +1319,6 @@
     "cat": "noun"
   },
   {
-    "w": "闺蜜",
-    "p": "guīmì",
-    "m": "bạn thân (nữ)",
-    "example": "她把所有的秘密都告诉了闺蜜。",
-    "example_vi": "Cô ấy đã kể hết mọi bí mật cho bạn thân của mình.",
-    "me": "close friend (female)",
-    "pos": "Danh từ",
-    "cat": "noun"
-  },
-  {
     "w": "死党",
     "p": "sǐdǎng",
     "m": "bạn chí cốt",
@@ -1898,15 +1879,6 @@
     "cat": "noun"
   },
   {
-    "w": "敬业",
-    "p": "jìngyè",
-    "m": "tận tụy với công việc",
-    "example": "她工作非常敬业，从不迟到。",
-    "example_vi": "Cô ấy làm việc rất tận tụy, chưa bao giờ đi trễ.",
-    "pos": "Danh từ",
-    "cat": "work"
-  },
-  {
     "w": "称职",
     "p": "chènzhí",
     "m": "xứng chức, làm tròn nhiệm vụ",
@@ -2127,15 +2099,6 @@
     "cat": "noun"
   },
   {
-    "w": "理赔",
-    "p": "lǐpéi",
-    "m": "giải quyết bồi thường bảo hiểm",
-    "example": "保险公司正在处理这起理赔案件。",
-    "example_vi": "Công ty bảo hiểm đang xử lý vụ bồi thường này.",
-    "pos": "Động từ",
-    "cat": "verb"
-  },
-  {
     "w": "审批",
     "p": "shěnpī",
     "m": "thẩm định phê duyệt",
@@ -2236,16 +2199,6 @@
     "cat": "văn hóa"
   },
   {
-    "w": "登山",
-    "p": "dēngshān",
-    "m": "leo núi",
-    "example": "假期我们计划去登山。",
-    "example_vi": "Kỳ nghỉ chúng tôi dự định đi leo núi.",
-    "me": "climbing",
-    "pos": "Danh từ",
-    "cat": "sport"
-  },
-  {
     "w": "徒步",
     "p": "túbù",
     "m": "đi bộ đường dài",
@@ -2294,15 +2247,6 @@
     "me": "hiking",
     "pos": "Động từ",
     "cat": "thể thao"
-  },
-  {
-    "w": "骑行",
-    "p": "qíxíng",
-    "m": "đạp xe đi",
-    "example": "他每天骑行上班。",
-    "example_vi": "Mỗi ngày anh ấy đạp xe đi làm.",
-    "pos": "Danh từ",
-    "cat": "noun"
   },
   {
     "w": "溜冰",
@@ -3494,15 +3438,6 @@
     "cat": "verb"
   },
   {
-    "w": "固执己见",
-    "p": "gùzhíjǐjiàn",
-    "m": "khăng khăng bảo thủ ý kiến riêng",
-    "example": "他固执己见，谁的意见都听不进去。",
-    "example_vi": "Anh ấy khăng khăng bảo thủ ý kiến riêng, không nghe ai cả.",
-    "pos": "Danh từ",
-    "cat": "idiom"
-  },
-  {
     "w": "老实",
     "p": "lǎoshi",
     "m": "thật thà",
@@ -3783,15 +3718,6 @@
     "cat": "noun"
   },
   {
-    "w": "月供",
-    "p": "yuègòng",
-    "m": "trả góp hàng tháng",
-    "example": "每个月的月供压力不小。",
-    "example_vi": "Áp lực trả góp hàng tháng không nhỏ.",
-    "pos": "Động từ",
-    "cat": "verb"
-  },
-  {
     "w": "房贷",
     "p": "fángdài",
     "m": "vay mua nhà",
@@ -3920,15 +3846,6 @@
     "me": "self-sufficient",
     "pos": "Tính từ",
     "cat": "tính từ"
-  },
-  {
-    "w": "量力而行",
-    "p": "liànglìérxíng",
-    "m": "liệu sức mà làm",
-    "example": "做事要量力而行，不要勉强。",
-    "example_vi": "Làm việc phải liệu sức mà làm, đừng gượng ép.",
-    "pos": "Danh từ",
-    "cat": "idiom"
   },
   {
     "w": "顺水推舟",
@@ -4168,16 +4085,6 @@
     "me": "transfer history",
     "pos": "Danh từ",
     "cat": "tiền bạc"
-  },
-  {
-    "w": "手续费",
-    "p": "shǒuxùfèi",
-    "m": "phí thủ tục",
-    "example": "转账需要支付一定的手续费。",
-    "example_vi": "Chuyển khoản cần phải trả một khoản phí thủ tục nhất định.",
-    "me": "processing fee",
-    "pos": "Danh từ",
-    "cat": "noun"
   },
   {
     "w": "硬币",

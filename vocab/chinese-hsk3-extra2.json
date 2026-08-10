@@ -1,49 +1,10 @@
 [
   {
-    "w": "阿姨",
-    "p": "ā yí",
-    "m": "cô, dì",
-    "cat": "gia đình",
-    "me": "aunt",
-    "pos": "Đại từ"
-  },
-  {
-    "w": "啊",
-    "p": "a",
-    "m": "à, ừ (thán từ), ơi (trợ từ cảm thán), a (thán từ)",
-    "cat": "language",
-    "me": "ah, oh (interjections)",
-    "pos": "Thán từ"
-  },
-  {
-    "w": "矮",
-    "p": "ǎi",
-    "m": "thấp, lùn",
-    "cat": "tính từ",
-    "me": "short",
-    "pos": "Tính từ"
-  },
-  {
     "w": "爱好",
     "p": "ài hào",
     "m": "sở thích",
     "cat": "giải trí",
     "me": "hobby",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "安静",
-    "p": "ān jìng",
-    "m": "yên tĩnh",
-    "cat": "tính từ",
-    "me": "quiet",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "把",
-    "p": "bǎ",
-    "m": "giới từ bả (đem...)",
-    "cat": "language",
     "pos": "Danh từ"
   },
   {
@@ -73,22 +34,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "办公室",
-    "p": "bàn gōng shì",
-    "m": "văn phòng",
-    "cat": "work",
-    "me": "office",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "半",
-    "p": "bàn",
-    "m": "một nửa",
-    "cat": "language",
-    "me": "half",
-    "pos": "Danh từ"
-  },
-  {
     "w": "帮忙",
     "p": "bāng máng",
     "m": "giúp đỡ",
@@ -109,14 +54,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "饱",
-    "p": "bǎo",
-    "m": "no",
-    "cat": "food",
-    "me": "full (from eating)",
-    "pos": "Tính từ"
-  },
-  {
     "w": "北方",
     "p": "běi fāng",
     "m": "miền Bắc",
@@ -125,28 +62,6 @@
     "example_vi": "Mùa đông miền Bắc rất lạnh.",
     "me": "the North (region)",
     "pos": "Danh từ"
-  },
-  {
-    "w": "被",
-    "p": "bèi",
-    "m": "bị (bị động)",
-    "cat": "language",
-    "me": "be (passive voice marker)",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "鼻子",
-    "p": "bí zi",
-    "m": "cái mũi",
-    "cat": "cơ thể",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "比较",
-    "p": "bǐ jiào",
-    "m": "tương đối; so sánh",
-    "cat": "language",
-    "pos": "Động từ"
   },
   {
     "w": "比赛",
@@ -159,21 +74,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "笔记本",
-    "p": "bǐ jì běn",
-    "m": "vở ghi; laptop",
-    "cat": "học tập",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "必须",
-    "p": "bì xū",
-    "m": "phải, bắt buộc",
-    "cat": "language",
-    "me": "must, obligatory",
-    "pos": "Phó từ"
-  },
-  {
     "w": "变化",
     "p": "biàn huà",
     "m": "biến hóa, thay đổi",
@@ -181,45 +81,6 @@
     "example": "这个城市变化很大。",
     "example_vi": "Thành phố này thay đổi rất nhiều.",
     "pos": "Động từ"
-  },
-  {
-    "w": "表示",
-    "p": "biǎo shì",
-    "m": "biểu thị, thể hiện, bày tỏ, cho thấy",
-    "cat": "hành động",
-    "me": "indicate, express, show",
-    "pos": "Động từ"
-  },
-  {
-    "w": "别人",
-    "p": "bié rén",
-    "m": "người khác",
-    "cat": "người",
-    "me": "someone else, other people",
-    "pos": "Đại từ"
-  },
-  {
-    "w": "宾馆",
-    "p": "bīn guǎn",
-    "m": "khách sạn",
-    "cat": "place",
-    "me": "hotel",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "冰箱",
-    "p": "bīng xiāng",
-    "m": "tủ lạnh",
-    "cat": "home",
-    "me": "fridge",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "不但",
-    "p": "bú dàn",
-    "m": "không những",
-    "cat": "language",
-    "pos": "Danh từ"
   },
   {
     "w": "菜单",
@@ -242,37 +103,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "草",
-    "p": "cǎo",
-    "m": "cỏ",
-    "cat": "nature",
-    "me": "grass",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "层",
-    "p": "céng",
-    "m": "tầng",
-    "cat": "place",
-    "me": "floor, layer",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "差",
-    "p": "chà",
-    "m": "kém",
-    "cat": "tính từ",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "超市",
-    "p": "chāo shì",
-    "m": "siêu thị",
-    "cat": "place",
-    "me": "supermarket",
-    "pos": "Danh từ"
-  },
-  {
     "w": "衬衫",
     "p": "chèn shān",
     "m": "áo sơ mi",
@@ -280,21 +110,6 @@
     "example": "他穿着一件白色衬衫。",
     "example_vi": "Anh ấy mặc một chiếc áo sơ mi trắng.",
     "me": "shirt",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "成绩",
-    "p": "chéng jì",
-    "m": "thành tích",
-    "cat": "học tập",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "城市",
-    "p": "chéng shì",
-    "m": "thành phố",
-    "cat": "place",
-    "me": "city",
     "pos": "Danh từ"
   },
   {
@@ -308,14 +123,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "出租车",
-    "p": "chū zū chē",
-    "m": "taxi",
-    "cat": "giao thông",
-    "me": "taxi",
-    "pos": "Danh từ"
-  },
-  {
     "w": "除了",
     "p": "chú le",
     "m": "ngoài... ra",
@@ -323,21 +130,6 @@
     "example": "除了英语，他还会说汉语。",
     "example_vi": "Ngoài tiếng Anh, anh ấy còn biết nói tiếng Trung.",
     "me": "besides..., apart from...",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "穿",
-    "p": "chuān",
-    "m": "mặc",
-    "cat": "hành động",
-    "me": "wear",
-    "pos": "Động từ"
-  },
-  {
-    "w": "船",
-    "p": "chuán",
-    "m": "thuyền",
-    "cat": "giao thông",
     "pos": "Danh từ"
   },
   {
@@ -361,88 +153,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "聪明",
-    "p": "cōng ming",
-    "m": "thông minh",
-    "cat": "tính từ",
-    "me": "smart",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "打扫",
-    "p": "dǎ sǎo",
-    "m": "quét dọn",
-    "cat": "đời sống",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "打算",
-    "p": "dǎ suàn",
-    "m": "dự định",
-    "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
-    "w": "带",
-    "p": "dài",
-    "m": "mang theo",
-    "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
-    "w": "担心",
-    "p": "dān xīn",
-    "m": "lo lắng",
-    "cat": "cảm xúc",
-    "me": "worried",
-    "pos": "Động từ"
-  },
-  {
-    "w": "蛋糕",
-    "p": "dàn gāo",
-    "m": "bánh kem",
-    "cat": "food",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "当然",
-    "p": "dāng rán",
-    "m": "đương nhiên",
-    "cat": "trạng từ",
-    "pos": "Phó từ"
-  },
-  {
-    "w": "灯",
-    "p": "dēng",
-    "m": "đèn",
-    "cat": "đồ vật",
-    "me": "lamp",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "地方",
-    "p": "dì fang",
-    "m": "nơi chốn",
-    "cat": "place",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "地铁",
-    "p": "dì tiě",
-    "m": "tàu điện ngầm",
-    "cat": "giao thông",
-    "me": "subway",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "地图",
-    "p": "dì tú",
-    "m": "bản đồ",
-    "cat": "du lịch",
-    "me": "map",
-    "pos": "Danh từ"
-  },
-  {
     "w": "电梯",
     "p": "diàn tī",
     "m": "thang máy",
@@ -463,14 +173,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "东",
-    "p": "dōng",
-    "m": "phía đông",
-    "cat": "place",
-    "me": "the east",
-    "pos": "Danh từ"
-  },
-  {
     "w": "冬",
     "p": "dōng",
     "m": "mùa đông",
@@ -479,22 +181,6 @@
     "example_vi": "Mùa đông đến rồi, trời rất lạnh.",
     "me": "winter",
     "pos": "Danh từ"
-  },
-  {
-    "w": "动物",
-    "p": "dòng wù",
-    "m": "động vật",
-    "cat": "động vật",
-    "me": "animal",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "短",
-    "p": "duǎn",
-    "m": "ngắn",
-    "cat": "tính từ",
-    "me": "short",
-    "pos": "Tính từ"
   },
   {
     "w": "段",
@@ -507,45 +193,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "锻炼",
-    "p": "duàn liàn",
-    "m": "rèn luyện",
-    "cat": "sport",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "多么",
-    "p": "duō me",
-    "m": "biết bao",
-    "cat": "trạng từ",
-    "me": "how much, so much",
-    "pos": "Phó từ"
-  },
-  {
-    "w": "饿",
-    "p": "è",
-    "m": "đói",
-    "cat": "cơ thể",
-    "me": "hungry",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "耳朵",
-    "p": "ěr duo",
-    "m": "tai",
-    "cat": "cơ thể",
-    "me": "ear",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "发烧",
-    "p": "fā shāo",
-    "m": "sốt",
-    "cat": "health",
-    "me": "fever",
-    "pos": "Động từ"
-  },
-  {
     "w": "发现",
     "p": "fā xiàn",
     "m": "phát hiện",
@@ -553,22 +200,6 @@
     "example": "我发现了一个有趣的现象。",
     "example_vi": "Tôi đã phát hiện ra một hiện tượng thú vị.",
     "me": "find out",
-    "pos": "Động từ"
-  },
-  {
-    "w": "方便",
-    "p": "fāng biàn",
-    "m": "tiện lợi",
-    "cat": "tính từ",
-    "me": "convenient",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "放",
-    "p": "fàng",
-    "m": "đặt, thả, cho, để, bỏ",
-    "cat": "hành động",
-    "me": "to put, place, let, leave",
     "pos": "Động từ"
   },
   {
@@ -582,43 +213,12 @@
     "pos": "Động từ"
   },
   {
-    "w": "分钟",
-    "p": "fēn zhōng",
-    "m": "phút",
-    "cat": "time",
-    "me": "minute",
-    "pos": "Danh từ"
-  },
-  {
     "w": "附近",
     "p": "fù jìn",
     "m": "gần đây, lân cận",
     "cat": "place",
     "example": "附近有没有超市？",
     "example_vi": "Gần đây có siêu thị không?",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "复习",
-    "p": "fù xí",
-    "m": "ôn tập",
-    "cat": "học tập",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "干净",
-    "p": "gān jìng",
-    "m": "sạch sẽ",
-    "cat": "tính từ",
-    "me": "clean",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "感冒",
-    "p": "gǎn mào",
-    "m": "cảm cúm",
-    "cat": "health",
-    "me": "flu, cold",
     "pos": "Danh từ"
   },
   {
@@ -629,13 +229,6 @@
     "example": "我对中国文化很感兴趣。",
     "example_vi": "Tôi rất hứng thú với văn hóa Trung Quốc.",
     "me": "interested in",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "刚才",
-    "p": "gāng cái",
-    "m": "vừa nãy",
-    "cat": "time",
     "pos": "Danh từ"
   },
   {
@@ -654,60 +247,6 @@
     "m": "căn cứ vào",
     "cat": "language",
     "pos": "Động từ"
-  },
-  {
-    "w": "跟",
-    "p": "gēn",
-    "m": "cùng với",
-    "cat": "language",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "更",
-    "p": "gèng",
-    "m": "càng, hơn nữa",
-    "cat": "trạng từ",
-    "me": "the more, moreover",
-    "pos": "Phó từ"
-  },
-  {
-    "w": "公园",
-    "p": "gōng yuán",
-    "m": "công viên",
-    "cat": "place",
-    "me": "park",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "故事",
-    "p": "gù shi",
-    "m": "câu chuyện",
-    "cat": "giải trí",
-    "me": "story",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "刮风",
-    "p": "guā fēng",
-    "m": "nổi gió",
-    "cat": "nature",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "关",
-    "p": "guān",
-    "m": "đóng, tắt",
-    "cat": "hành động",
-    "me": "close, turn off",
-    "pos": "Động từ"
-  },
-  {
-    "w": "关系",
-    "p": "guān xì",
-    "m": "quan hệ",
-    "cat": "người",
-    "me": "relationship",
-    "pos": "Danh từ"
   },
   {
     "w": "关心",
@@ -747,29 +286,6 @@
     "pos": "Phó từ"
   },
   {
-    "w": "过去",
-    "p": "guò qù",
-    "m": "sang đó, đi qua, quá khứ",
-    "cat": "time",
-    "me": "go over there, pass by, the past",
-    "pos": "Động từ"
-  },
-  {
-    "w": "还是",
-    "p": "hái shi",
-    "m": "hay là; vẫn",
-    "cat": "language",
-    "pos": "Phó từ"
-  },
-  {
-    "w": "害怕",
-    "p": "hài pà",
-    "m": "sợ hãi",
-    "cat": "cảm xúc",
-    "me": "scared",
-    "pos": "Tính từ"
-  },
-  {
     "w": "黑板",
     "p": "hēi bǎn",
     "m": "bảng đen",
@@ -786,14 +302,6 @@
     "example_vi": "Sau đó anh ấy đã đến Bắc Kinh làm việc.",
     "me": "afterward",
     "pos": "Phó từ"
-  },
-  {
-    "w": "护照",
-    "p": "hù zhào",
-    "m": "hộ chiếu",
-    "cat": "travel",
-    "me": "passport",
-    "pos": "Danh từ"
   },
   {
     "w": "花园",
@@ -816,31 +324,9 @@
     "pos": "Danh từ"
   },
   {
-    "w": "坏",
-    "p": "huài",
-    "m": "hỏng; xấu",
-    "cat": "tính từ",
-    "pos": "Tính từ"
-  },
-  {
     "w": "欢迎",
     "p": "huān yíng",
     "m": "hoan nghênh",
-    "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
-    "w": "环境",
-    "p": "huán jìng",
-    "m": "môi trường",
-    "cat": "môi trường",
-    "me": "environment",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "换",
-    "p": "huàn",
-    "m": "đổi",
     "cat": "hành động",
     "pos": "Động từ"
   },
@@ -855,28 +341,12 @@
     "pos": "Danh từ"
   },
   {
-    "w": "回答",
-    "p": "huí dá",
-    "m": "trả lời",
-    "cat": "hành động",
-    "me": "answer",
-    "pos": "Động từ"
-  },
-  {
     "w": "会议",
     "p": "huì yì",
     "m": "cuộc họp, hội nghị",
     "cat": "work",
     "me": "meeting, conference",
     "pos": "Danh từ"
-  },
-  {
-    "w": "或者",
-    "p": "huò zhě",
-    "m": "hoặc là",
-    "cat": "language",
-    "me": "or",
-    "pos": "Liên từ"
   },
   {
     "w": "几乎",
@@ -887,14 +357,6 @@
     "example_vi": "Anh ấy hầu như ngày nào cũng đến thư viện.",
     "me": "almost",
     "pos": "Phó từ"
-  },
-  {
-    "w": "机会",
-    "p": "jī huì",
-    "m": "cơ hội",
-    "cat": "language",
-    "me": "chance",
-    "pos": "Danh từ"
   },
   {
     "w": "极",
@@ -925,30 +387,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "检查",
-    "p": "jiǎn chá",
-    "m": "kiểm tra",
-    "cat": "hành động",
-    "me": "check",
-    "pos": "Động từ"
-  },
-  {
-    "w": "简单",
-    "p": "jiǎn dān",
-    "m": "đơn giản",
-    "cat": "tính từ",
-    "me": "simply",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "健康",
-    "p": "jiàn kāng",
-    "m": "khỏe mạnh",
-    "cat": "health",
-    "me": "healthy",
-    "pos": "Tính từ"
-  },
-  {
     "w": "见面",
     "p": "jiàn miàn",
     "m": "gặp mặt",
@@ -969,45 +407,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "角",
-    "p": "jiǎo",
-    "m": "hào (1/10 đồng), góc",
-    "cat": "language",
-    "me": "hao (1/10 of a currency unit), corner",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "脚",
-    "p": "jiǎo",
-    "m": "bàn chân",
-    "cat": "cơ thể",
-    "me": "foot",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "教",
-    "p": "jiāo",
-    "m": "dạy",
-    "cat": "học tập",
-    "me": "teach",
-    "pos": "Động từ"
-  },
-  {
-    "w": "接",
-    "p": "jiē",
-    "m": "đón; nối",
-    "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
-    "w": "街道",
-    "p": "jiē dào",
-    "m": "đường phố",
-    "cat": "place",
-    "me": "street",
-    "pos": "Danh từ"
-  },
-  {
     "w": "结婚",
     "p": "jié hūn",
     "m": "kết hôn",
@@ -1015,14 +414,6 @@
     "example": "他们下个月结婚。",
     "example_vi": "Tháng sau họ kết hôn.",
     "me": "marry",
-    "pos": "Động từ"
-  },
-  {
-    "w": "结束",
-    "p": "jié shù",
-    "m": "kết thúc",
-    "cat": "hành động",
-    "me": "end, conclude",
     "pos": "Động từ"
   },
   {
@@ -1034,37 +425,6 @@
     "example_vi": "Chương trình truyền hình này rất thú vị.",
     "me": "program",
     "pos": "Danh từ"
-  },
-  {
-    "w": "节日",
-    "p": "jié rì",
-    "m": "ngày lễ",
-    "cat": "văn hóa",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "解决",
-    "p": "jiě jué",
-    "m": "giải quyết",
-    "cat": "hành động",
-    "me": "resolve",
-    "pos": "Động từ"
-  },
-  {
-    "w": "借",
-    "p": "jiè",
-    "m": "mượn, cho mượn",
-    "cat": "hành động",
-    "me": "borrow, lend",
-    "pos": "Động từ"
-  },
-  {
-    "w": "经常",
-    "p": "jīng cháng",
-    "m": "thường xuyên",
-    "cat": "trạng từ",
-    "me": "often",
-    "pos": "Phó từ"
   },
   {
     "w": "经过",
@@ -1094,14 +454,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "旧",
-    "p": "jiù",
-    "m": "cũ",
-    "cat": "tính từ",
-    "me": "old",
-    "pos": "Tính từ"
-  },
-  {
     "w": "举行",
     "p": "jǔ xíng",
     "m": "tổ chức, cử hành",
@@ -1122,30 +474,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "决定",
-    "p": "jué dìng",
-    "m": "quyết định",
-    "cat": "hành động",
-    "me": "decide",
-    "pos": "Động từ"
-  },
-  {
-    "w": "咖啡",
-    "p": "kā fēi",
-    "m": "cà phê",
-    "cat": "food",
-    "me": "coffee",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "开始",
-    "p": "kāi shǐ",
-    "m": "bắt đầu",
-    "cat": "hành động",
-    "me": "start",
-    "pos": "Động từ"
-  },
-  {
     "w": "看见",
     "p": "kàn jiàn",
     "m": "nhìn thấy",
@@ -1154,28 +482,6 @@
     "example_vi": "Tôi đã nhìn thấy anh ấy ở công viên.",
     "me": "see",
     "pos": "Động từ"
-  },
-  {
-    "w": "考试",
-    "p": "kǎo shì",
-    "m": "thi cử",
-    "cat": "học tập",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "渴",
-    "p": "kě",
-    "m": "khát",
-    "cat": "cơ thể",
-    "me": "thirsty",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "可爱",
-    "p": "kě ài",
-    "m": "đáng yêu",
-    "cat": "tính từ",
-    "pos": "Tính từ"
   },
   {
     "w": "刻",
@@ -1198,14 +504,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "空调",
-    "p": "kōng tiáo",
-    "m": "điều hòa",
-    "cat": "home",
-    "me": "air conditioner",
-    "pos": "Danh từ"
-  },
-  {
     "w": "口",
     "p": "kǒu",
     "m": "miệng; khẩu",
@@ -1213,22 +511,6 @@
     "example": "他家有五口人。",
     "example_vi": "Nhà anh ấy có năm miệng ăn.",
     "me": "mouth",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "哭",
-    "p": "kū",
-    "m": "khóc",
-    "cat": "cảm xúc",
-    "me": "cry",
-    "pos": "Động từ"
-  },
-  {
-    "w": "裤子",
-    "p": "kù zi",
-    "m": "quần",
-    "cat": "đồ vật",
-    "me": "pants",
     "pos": "Danh từ"
   },
   {
@@ -1242,21 +524,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "蓝",
-    "p": "lán",
-    "m": "màu xanh lam",
-    "cat": "màu sắc",
-    "me": "blue",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "老",
-    "p": "lǎo",
-    "m": "già; cũ",
-    "cat": "tính từ",
-    "pos": "Tính từ"
-  },
-  {
     "w": "离开",
     "p": "lí kāi",
     "m": "rời khỏi",
@@ -1267,57 +534,12 @@
     "pos": "Động từ"
   },
   {
-    "w": "礼物",
-    "p": "lǐ wù",
-    "m": "món quà",
-    "cat": "đồ vật",
-    "pos": "Danh từ"
-  },
-  {
     "w": "历史",
     "p": "lì shǐ",
     "m": "lịch sử",
     "cat": "học tập",
     "me": "historical",
     "pos": "Danh từ"
-  },
-  {
-    "w": "脸",
-    "p": "liǎn",
-    "m": "khuôn mặt",
-    "cat": "cơ thể",
-    "me": "face",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "练习",
-    "p": "liàn xí",
-    "m": "luyện tập",
-    "cat": "học tập",
-    "me": "practice",
-    "pos": "Động từ"
-  },
-  {
-    "w": "辆",
-    "p": "liàng",
-    "m": "chiếc (lượng từ xe)",
-    "cat": "language",
-    "pos": "Lượng từ"
-  },
-  {
-    "w": "聊天",
-    "p": "liáo tiān",
-    "m": "tán gẫu",
-    "cat": "giải trí",
-    "me": "chat",
-    "pos": "Động từ"
-  },
-  {
-    "w": "了解",
-    "p": "liǎo jiě",
-    "m": "hiểu rõ",
-    "cat": "hành động",
-    "pos": "Động từ"
   },
   {
     "w": "邻居",
@@ -1338,123 +560,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "楼",
-    "p": "lóu",
-    "m": "tòa nhà, lầu",
-    "cat": "place",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "绿",
-    "p": "lǜ",
-    "m": "màu xanh lá",
-    "cat": "màu sắc",
-    "me": "green",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "马",
-    "p": "mǎ",
-    "m": "con ngựa",
-    "cat": "động vật",
-    "me": "horse",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "马上",
-    "p": "mǎ shàng",
-    "m": "ngay lập tức",
-    "cat": "trạng từ",
-    "me": "immediately",
-    "pos": "Phó từ"
-  },
-  {
-    "w": "满意",
-    "p": "mǎn yì",
-    "m": "hài lòng",
-    "cat": "cảm xúc",
-    "me": "pleased",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "帽子",
-    "p": "mào zi",
-    "m": "cái mũ",
-    "cat": "đồ vật",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "米",
-    "p": "mǐ",
-    "m": "mét (đơn vị đo), gạo",
-    "cat": "language",
-    "me": "meter (unit); rice",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "面包",
-    "p": "miàn bāo",
-    "m": "bánh mì",
-    "cat": "food",
-    "me": "bread",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "面条",
-    "p": "miàn tiáo",
-    "m": "mì sợi",
-    "cat": "food",
-    "me": "noodle",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "明白",
-    "p": "míng bai",
-    "m": "hiểu rõ",
-    "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
-    "w": "拿",
-    "p": "ná",
-    "m": "cầm, lấy",
-    "cat": "hành động",
-    "me": "hold, take",
-    "pos": "Động từ"
-  },
-  {
-    "w": "奶奶",
-    "p": "nǎi nai",
-    "m": "bà nội",
-    "cat": "gia đình",
-    "me": "paternal grandmother",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "南",
-    "p": "nán",
-    "m": "phía nam",
-    "cat": "place",
-    "me": "the south",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "难",
-    "p": "nán",
-    "m": "khó",
-    "cat": "tính từ",
-    "me": "difficult",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "难过",
-    "p": "nán guò",
-    "m": "buồn bã, khổ tâm, đau lòng, đau khổ, khó chịu",
-    "cat": "cảm xúc",
-    "me": "sad, distressed, heartbroken, suffering, upset",
-    "pos": "Tính từ"
-  },
-  {
     "w": "年级",
     "p": "nián jí",
     "m": "khối lớp",
@@ -1462,37 +567,6 @@
     "example": "他是三年级的学生。",
     "example_vi": "Cậu ấy là học sinh khối lớp ba.",
     "me": "grade level (school)",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "年轻",
-    "p": "nián qīng",
-    "m": "trẻ trung",
-    "cat": "tính từ",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "鸟",
-    "p": "niǎo",
-    "m": "con chim",
-    "cat": "động vật",
-    "me": "bird",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "努力",
-    "p": "nǔ lì",
-    "m": "nỗ lực",
-    "cat": "tính từ",
-    "me": "effort",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "爬山",
-    "p": "pá shān",
-    "m": "leo núi",
-    "cat": "sport",
-    "me": "climbing",
     "pos": "Danh từ"
   },
   {
@@ -1506,14 +580,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "胖",
-    "p": "pàng",
-    "m": "béo, mập",
-    "cat": "cơ thể",
-    "me": "fat, chubby",
-    "pos": "Tính từ"
-  },
-  {
     "w": "皮鞋",
     "p": "pí xié",
     "m": "giày da",
@@ -1524,64 +590,11 @@
     "pos": "Danh từ"
   },
   {
-    "w": "啤酒",
-    "p": "pí jiǔ",
-    "m": "bia",
-    "cat": "food",
-    "me": "beer",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "便宜",
-    "p": "pián yi",
-    "m": "rẻ",
-    "cat": "money",
-    "me": "cheap",
-    "pos": "Tính từ"
-  },
-  {
     "w": "票",
     "p": "piào",
     "m": "vé",
     "cat": "du lịch",
     "me": "ticket",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "漂亮",
-    "p": "piào liang",
-    "m": "xinh đẹp",
-    "cat": "tính từ",
-    "me": "beautiful",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "苹果",
-    "p": "píng guǒ",
-    "m": "quả táo",
-    "cat": "food",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "葡萄",
-    "p": "pú tao",
-    "m": "quả nho",
-    "cat": "food",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "普通",
-    "p": "pǔ tōng",
-    "m": "bình thường, phổ thông",
-    "cat": "tính từ",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "骑自行车",
-    "p": "qí zì xíng chē",
-    "m": "đạp xe",
-    "cat": "giao thông",
-    "me": "cycling",
     "pos": "Danh từ"
   },
   {
@@ -1595,14 +608,6 @@
     "pos": "Tính từ"
   },
   {
-    "w": "铅笔",
-    "p": "qiān bǐ",
-    "m": "bút chì",
-    "cat": "học tập",
-    "me": "pencil",
-    "pos": "Danh từ"
-  },
-  {
     "w": "清楚",
     "p": "qīng chu",
     "m": "rõ ràng",
@@ -1611,14 +616,6 @@
     "example_vi": "Anh ấy nói rất rõ ràng.",
     "me": "clearly",
     "pos": "Tính từ"
-  },
-  {
-    "w": "请假",
-    "p": "qǐng jià",
-    "m": "xin nghỉ phép",
-    "cat": "work",
-    "me": "request leave",
-    "pos": "Danh từ"
   },
   {
     "w": "秋",
@@ -1631,22 +628,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "裙子",
-    "p": "qún zi",
-    "m": "váy",
-    "cat": "đồ vật",
-    "me": "skirt",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "然后",
-    "p": "rán hòu",
-    "m": "sau đó",
-    "cat": "language",
-    "me": "afterward",
-    "pos": "Phó từ"
-  },
-  {
     "w": "热情",
     "p": "rè qíng",
     "m": "nhiệt tình",
@@ -1657,36 +638,6 @@
     "pos": "Tính từ"
   },
   {
-    "w": "认为",
-    "p": "rèn wéi",
-    "m": "cho rằng",
-    "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
-    "w": "认真",
-    "p": "rèn zhēn",
-    "m": "nghiêm túc, chăm chú",
-    "cat": "tính từ",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "容易",
-    "p": "róng yì",
-    "m": "dễ dàng",
-    "cat": "tính từ",
-    "me": "easily",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "如果",
-    "p": "rú guǒ",
-    "m": "nếu như",
-    "cat": "language",
-    "me": "if",
-    "pos": "Liên từ"
-  },
-  {
     "w": "伞",
     "p": "sǎn",
     "m": "cái ô",
@@ -1695,36 +646,6 @@
     "example_vi": "Trời mưa rồi, xin mang theo ô.",
     "me": "umbrella",
     "pos": "Danh từ"
-  },
-  {
-    "w": "上网",
-    "p": "shàng wǎng",
-    "m": "lên mạng",
-    "cat": "tech",
-    "pos": "Động từ"
-  },
-  {
-    "w": "谁",
-    "p": "shéi",
-    "m": "ai",
-    "cat": "language",
-    "me": "who",
-    "pos": "Đại từ"
-  },
-  {
-    "w": "身体",
-    "p": "shēn tǐ",
-    "m": "cơ thể, sức khỏe",
-    "cat": "cơ thể",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "生气",
-    "p": "shēng qì",
-    "m": "tức giận",
-    "cat": "cảm xúc",
-    "me": "angry",
-    "pos": "Tính từ"
   },
   {
     "w": "声音",
@@ -1747,81 +668,11 @@
     "pos": "Danh từ"
   },
   {
-    "w": "事情",
-    "p": "shì qing",
-    "m": "sự việc",
-    "cat": "language",
-    "me": "matter, event",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "试",
-    "p": "shì",
-    "m": "thử",
-    "cat": "hành động",
-    "me": "try",
-    "pos": "Động từ"
-  },
-  {
-    "w": "瘦",
-    "p": "shòu",
-    "m": "gầy",
-    "cat": "cơ thể",
-    "me": "thin",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "叔叔",
-    "p": "shū shu",
-    "m": "chú",
-    "cat": "gia đình",
-    "me": "uncle",
-    "pos": "Đại từ"
-  },
-  {
-    "w": "舒服",
-    "p": "shū fu",
-    "m": "dễ chịu",
-    "cat": "cảm xúc",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "树",
-    "p": "shù",
-    "m": "cây",
-    "cat": "nature",
-    "me": "tree",
-    "pos": "Danh từ"
-  },
-  {
     "w": "数学",
     "p": "shù xué",
     "m": "toán học",
     "cat": "học tập",
     "me": "mathematics",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "刷牙",
-    "p": "shuā yá",
-    "m": "đánh răng",
-    "cat": "đời sống",
-    "me": "brush teeth",
-    "pos": "Động từ"
-  },
-  {
-    "w": "双",
-    "p": "shuāng",
-    "m": "đôi",
-    "cat": "language",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "水果",
-    "p": "shuǐ guǒ",
-    "m": "trái cây",
-    "cat": "food",
-    "me": "fruit",
     "pos": "Danh từ"
   },
   {
@@ -1843,30 +694,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "虽然",
-    "p": "suī rán",
-    "m": "mặc dù, tuy nhiên, dù rằng, tuy rằng",
-    "cat": "language",
-    "me": "although, however, even though",
-    "pos": "Liên từ"
-  },
-  {
-    "w": "太阳",
-    "p": "tài yáng",
-    "m": "mặt trời",
-    "cat": "nature",
-    "me": "sun",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "特别",
-    "p": "tè bié",
-    "m": "đặc biệt",
-    "cat": "trạng từ",
-    "me": "especially",
-    "pos": "Tính từ"
-  },
-  {
     "w": "疼",
     "p": "téng",
     "m": "đau",
@@ -1875,14 +702,6 @@
     "example_vi": "Răng của tôi rất đau.",
     "me": "pain",
     "pos": "Tính từ"
-  },
-  {
-    "w": "提高",
-    "p": "tí gāo",
-    "m": "nâng cao",
-    "cat": "hành động",
-    "me": "enhance",
-    "pos": "Động từ"
   },
   {
     "w": "体育",
@@ -1895,53 +714,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "天气",
-    "p": "tiān qì",
-    "m": "thời tiết",
-    "cat": "nature",
-    "me": "weather",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "甜",
-    "p": "tián",
-    "m": "ngọt",
-    "cat": "food",
-    "me": "sweet",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "条",
-    "p": "tiáo",
-    "m": "chiếc, con (lượng từ)",
-    "cat": "language",
-    "pos": "Lượng từ"
-  },
-  {
-    "w": "跳舞",
-    "p": "tiào wǔ",
-    "m": "nhảy múa",
-    "cat": "nghệ thuật",
-    "me": "dance",
-    "pos": "Động từ"
-  },
-  {
-    "w": "同事",
-    "p": "tóng shì",
-    "m": "đồng nghiệp",
-    "cat": "work",
-    "me": "colleague",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "同意",
-    "p": "tóng yì",
-    "m": "đồng ý",
-    "cat": "hành động",
-    "me": "agree",
-    "pos": "Động từ"
-  },
-  {
     "w": "头发",
     "p": "tóu fa",
     "m": "tóc",
@@ -1952,52 +724,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "突然",
-    "p": "tū rán",
-    "m": "đột nhiên",
-    "cat": "trạng từ",
-    "me": "suddenly",
-    "pos": "Phó từ"
-  },
-  {
-    "w": "图书馆",
-    "p": "tú shū guǎn",
-    "m": "thư viện",
-    "cat": "place",
-    "me": "library",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "腿",
-    "p": "tuǐ",
-    "m": "chân",
-    "cat": "cơ thể",
-    "me": "leg",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "完成",
-    "p": "wán chéng",
-    "m": "hoàn thành",
-    "cat": "hành động",
-    "me": "complete",
-    "pos": "Động từ"
-  },
-  {
-    "w": "碗",
-    "p": "wǎn",
-    "m": "cái bát",
-    "cat": "đồ vật",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "万",
-    "p": "wàn",
-    "m": "vạn, mười nghìn",
-    "cat": "language",
-    "pos": "Số từ"
-  },
-  {
     "w": "忘记",
     "p": "wàng jì",
     "m": "quên",
@@ -2006,13 +732,6 @@
     "example_vi": "Tôi quên mang chìa khóa rồi.",
     "me": "forget",
     "pos": "Động từ"
-  },
-  {
-    "w": "位",
-    "p": "wèi",
-    "m": "vị (lượng từ người)",
-    "cat": "language",
-    "pos": "Lượng từ"
   },
   {
     "w": "为了",
@@ -2030,14 +749,6 @@
     "m": "văn hóa",
     "cat": "văn hóa",
     "me": "culture",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "西",
-    "p": "xī",
-    "m": "phía tây",
-    "cat": "place",
-    "me": "the west",
     "pos": "Danh từ"
   },
   {
@@ -2059,14 +770,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "洗澡",
-    "p": "xǐ zǎo",
-    "m": "tắm",
-    "cat": "đời sống",
-    "me": "to bathe",
-    "pos": "Động từ"
-  },
-  {
     "w": "夏",
     "p": "xià",
     "m": "mùa hè",
@@ -2074,36 +777,6 @@
     "example": "夏天天气很热。",
     "example_vi": "Mùa hè thời tiết rất nóng.",
     "me": "summer",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "先",
-    "p": "xiān",
-    "m": "trước tiên",
-    "cat": "trạng từ",
-    "me": "first of all",
-    "pos": "Phó từ"
-  },
-  {
-    "w": "相信",
-    "p": "xiāng xìn",
-    "m": "tin tưởng",
-    "cat": "cảm xúc",
-    "me": "trust",
-    "pos": "Động từ"
-  },
-  {
-    "w": "香蕉",
-    "p": "xiāng jiāo",
-    "m": "quả chuối",
-    "cat": "food",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "向",
-    "p": "xiàng",
-    "m": "hướng về",
-    "cat": "language",
     "pos": "Danh từ"
   },
   {
@@ -2155,14 +828,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "信用卡",
-    "p": "xìn yòng kǎ",
-    "m": "thẻ tín dụng",
-    "cat": "money",
-    "me": "credit card",
-    "pos": "Danh từ"
-  },
-  {
     "w": "行李箱",
     "p": "xíng li xiāng",
     "m": "vali",
@@ -2173,43 +838,12 @@
     "pos": "Danh từ"
   },
   {
-    "w": "熊猫",
-    "p": "xióng māo",
-    "m": "gấu trúc",
-    "cat": "động vật",
-    "me": "panda",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "需要",
-    "p": "xū yào",
-    "m": "cần",
-    "cat": "hành động",
-    "me": "need",
-    "pos": "Động từ"
-  },
-  {
-    "w": "选择",
-    "p": "xuǎn zé",
-    "m": "lựa chọn",
-    "cat": "hành động",
-    "me": "option",
-    "pos": "Động từ"
-  },
-  {
     "w": "学期",
     "p": "xué qí",
     "m": "học kỳ",
     "cat": "học tập",
     "me": "semester",
     "pos": "Động từ"
-  },
-  {
-    "w": "眼睛",
-    "p": "yǎn jing",
-    "m": "đôi mắt",
-    "cat": "cơ thể",
-    "pos": "Danh từ"
   },
   {
     "w": "要求",
@@ -2220,30 +854,6 @@
     "example_vi": "Yêu cầu của thầy giáo với chúng tôi rất nghiêm khắc.",
     "me": "request",
     "pos": "Động từ"
-  },
-  {
-    "w": "爷爷",
-    "p": "yé ye",
-    "m": "ông nội",
-    "cat": "gia đình",
-    "me": "paternal grandfather",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "一般",
-    "p": "yì bān",
-    "m": "bình thường",
-    "cat": "tính từ",
-    "me": "normal",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "一边",
-    "p": "yì biān",
-    "m": "vừa...vừa, một phía, vừa... vừa",
-    "cat": "language",
-    "me": "on one hand... on the other hand",
-    "pos": "Liên từ"
   },
   {
     "w": "一定",
@@ -2274,58 +884,11 @@
     "pos": "Danh từ"
   },
   {
-    "w": "一样",
-    "p": "yí yàng",
-    "m": "giống nhau",
-    "cat": "tính từ",
-    "me": "same",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "一直",
-    "p": "yì zhí",
-    "m": "liên tục, mãi mãi, thẳng, suốt, cứ, luôn luôn",
-    "cat": "trạng từ",
-    "me": "continuously, forever, always",
-    "pos": "Phó từ"
-  },
-  {
-    "w": "以前",
-    "p": "yǐ qián",
-    "m": "trước đây",
-    "cat": "time",
-    "me": "previously",
-    "pos": "Phó từ"
-  },
-  {
-    "w": "音乐",
-    "p": "yīn yuè",
-    "m": "âm nhạc",
-    "cat": "nghệ thuật",
-    "me": "music",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "银行",
-    "p": "yín háng",
-    "m": "ngân hàng",
-    "cat": "place",
-    "me": "bank",
-    "pos": "Danh từ"
-  },
-  {
     "w": "饮料",
     "p": "yǐn liào",
     "m": "đồ uống",
     "cat": "food",
     "me": "beverage",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "应该",
-    "p": "yīng gāi",
-    "m": "nên",
-    "cat": "language",
     "pos": "Danh từ"
   },
   {
@@ -2345,22 +908,6 @@
     "example_vi": "Trò chơi này rất thú vị.",
     "me": "game",
     "pos": "Danh từ"
-  },
-  {
-    "w": "游泳",
-    "p": "yóu yǒng",
-    "m": "bơi lội",
-    "cat": "sport",
-    "me": "swim",
-    "pos": "Động từ"
-  },
-  {
-    "w": "有名",
-    "p": "yǒu míng",
-    "m": "nổi tiếng",
-    "cat": "tính từ",
-    "me": "famous",
-    "pos": "Tính từ"
   },
   {
     "w": "又",
@@ -2383,14 +930,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "元",
-    "p": "yuán",
-    "m": "nhân dân tệ (đơn vị tiền), đồng (đơn vị tiền tệ TQ)",
-    "cat": "money",
-    "me": "renminbi (currency), yuan (Chinese monetary unit)",
-    "pos": "Danh từ"
-  },
-  {
     "w": "愿意",
     "p": "yuàn yì",
     "m": "sẵn lòng",
@@ -2398,14 +937,6 @@
     "example": "我愿意帮助你。",
     "example_vi": "Tôi sẵn lòng giúp đỡ bạn.",
     "me": "willing",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "月亮",
-    "p": "yuè liang",
-    "m": "mặt trăng",
-    "cat": "nature",
-    "me": "moon",
     "pos": "Danh từ"
   },
   {
@@ -2419,29 +950,6 @@
     "pos": "Phó từ"
   },
   {
-    "w": "站",
-    "p": "zhàn",
-    "m": "trạm, bến, ga, đứng",
-    "cat": "hành động",
-    "me": "station, stop; stand",
-    "pos": "Động từ"
-  },
-  {
-    "w": "张",
-    "p": "zhāng",
-    "m": "tờ, tấm (lượng từ)",
-    "cat": "language",
-    "pos": "Lượng từ"
-  },
-  {
-    "w": "着急",
-    "p": "zháo jí",
-    "m": "lo lắng, nóng lòng, sốt ruột",
-    "cat": "cảm xúc",
-    "me": "worried, anxious, impatient",
-    "pos": "Tính từ"
-  },
-  {
     "w": "照顾",
     "p": "zhào gù",
     "m": "chăm sóc",
@@ -2450,13 +958,6 @@
     "example_vi": "Mẹ rất biết cách chăm sóc con cái.",
     "me": "look after",
     "pos": "Động từ"
-  },
-  {
-    "w": "照片",
-    "p": "zhào piàn",
-    "m": "bức ảnh",
-    "cat": "đồ vật",
-    "pos": "Danh từ"
   },
   {
     "w": "照相机",
@@ -2478,14 +979,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "中间",
-    "p": "zhōng jiān",
-    "m": "ở giữa",
-    "cat": "place",
-    "me": "middle",
-    "pos": "Danh từ"
-  },
-  {
     "w": "中文",
     "p": "zhōng wén",
     "m": "tiếng Trung",
@@ -2494,28 +987,6 @@
     "example_vi": "Tiếng Trung của anh ấy nói rất trôi chảy.",
     "me": "Chinese language",
     "pos": "Danh từ"
-  },
-  {
-    "w": "终于",
-    "p": "zhōng yú",
-    "m": "cuối cùng thì",
-    "cat": "trạng từ",
-    "pos": "Phó từ"
-  },
-  {
-    "w": "种",
-    "p": "zhǒng",
-    "m": "loại; trồng",
-    "cat": "language",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "重要",
-    "p": "zhòng yào",
-    "m": "quan trọng",
-    "cat": "tính từ",
-    "me": "important",
-    "pos": "Tính từ"
   },
   {
     "w": "周末",
@@ -2534,68 +1005,5 @@
     "example_vi": "Cư dân ở đây chủ yếu là người cao tuổi.",
     "me": "mostly",
     "pos": "Tính từ"
-  },
-  {
-    "w": "注意",
-    "p": "zhù yì",
-    "m": "chú ý",
-    "cat": "hành động",
-    "me": "attention, to pay attention",
-    "pos": "Động từ"
-  },
-  {
-    "w": "自己",
-    "p": "zì jǐ",
-    "m": "bản thân",
-    "cat": "người",
-    "me": "oneself",
-    "pos": "Đại từ"
-  },
-  {
-    "w": "自行车",
-    "p": "zì xíng chē",
-    "m": "xe đạp",
-    "cat": "giao thông",
-    "me": "bike",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "总是",
-    "p": "zǒng shì",
-    "m": "luôn luôn",
-    "cat": "trạng từ",
-    "me": "always",
-    "pos": "Phó từ"
-  },
-  {
-    "w": "嘴",
-    "p": "zuǐ",
-    "m": "miệng",
-    "cat": "cơ thể",
-    "me": "mouth",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "最后",
-    "p": "zuì hòu",
-    "m": "cuối cùng",
-    "cat": "time",
-    "me": "finally",
-    "pos": "Phó từ"
-  },
-  {
-    "w": "最近",
-    "p": "zuì jìn",
-    "m": "gần đây",
-    "cat": "time",
-    "me": "recently",
-    "pos": "Phó từ"
-  },
-  {
-    "w": "作业",
-    "p": "zuò yè",
-    "m": "bài tập",
-    "cat": "học tập",
-    "pos": "Danh từ"
   }
 ]

@@ -1,12 +1,5 @@
 [
   {
-    "w": "一帆风顺",
-    "p": "yī fān fēng shùn",
-    "m": "thuận buồm xuôi gió, mọi việc suôn sẻ",
-    "cat": "idiom",
-    "pos": "Danh từ"
-  },
-  {
     "w": "马到成功",
     "p": "mǎ dào chéng gōng",
     "m": "thành công ngay lập tức",
@@ -170,21 +163,6 @@
     "example": "兼听则明，偏信则暗。",
     "example_vi": "Lắng nghe nhiều phía mới sáng suốt, tin một phía sẽ mù quáng.",
     "me": "listening to many sides brings clarity",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "实事求是",
-    "p": "shí shì qiú shì",
-    "m": "thực sự cầu thị, tôn trọng sự thật",
-    "cat": "idiom",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "与时俱进",
-    "p": "yǔ shí jù jìn",
-    "m": "tiến cùng thời đại",
-    "cat": "idiom",
-    "me": "keep pace with the times",
     "pos": "Danh từ"
   },
   {
@@ -1244,13 +1222,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "推陈出新",
-    "p": "tuī chén chū xīn",
-    "m": "đẩy cái cũ ra, đưa cái mới vào",
-    "cat": "idiom",
-    "pos": "Động từ"
-  },
-  {
     "w": "继往开来",
     "p": "jì wǎng kāi lái",
     "m": "tiếp nối quá khứ mở ra tương lai",
@@ -1394,13 +1365,6 @@
     "m": "từng chữ như ngọc châu, lời hay ý đẹp",
     "cat": "idiom",
     "me": "every word like a pearl — beautiful phrasing",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "言简意赅",
-    "p": "yán jiǎn yì gāi",
-    "m": "lời ít ý đủ, cô đọng súc tích",
-    "cat": "idiom",
     "pos": "Danh từ"
   },
   {
@@ -1770,20 +1734,6 @@
     "example_vi": "Phương án này mở ra con đường khác, hiệu quả rất tốt.",
     "me": "open up an alternative path",
     "pos": "Động từ"
-  },
-  {
-    "w": "殊途同归",
-    "p": "shū tú tóng guī",
-    "m": "đường khác nhau đích như nhau",
-    "cat": "idiom",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "异曲同工",
-    "p": "yì qǔ tóng gōng",
-    "m": "khác điệu nhưng hay như nhau",
-    "cat": "idiom",
-    "pos": "Danh từ"
   },
   {
     "w": "不谋而合",
@@ -2584,29 +2534,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "举一反三",
-    "p": "jǔ yī fǎn sān",
-    "m": "suy một biết ba, tư duy suy luận",
-    "cat": "idiom",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "触类旁通",
-    "p": "chù lèi páng tōng",
-    "m": "suy ra từ tương tự, biết loại này thông loại khác",
-    "cat": "idiom",
-    "me": "infer by analogy, understand one type through another",
-    "pos": "Động từ"
-  },
-  {
-    "w": "融会贯通",
-    "p": "róng huì guàn tōng",
-    "m": "thấu hiểu và thông suốt, thấu hiểu hòa nhập toàn diện",
-    "cat": "idiom",
-    "me": "fully comprehend and integrate, thoroughly understand",
-    "pos": "Danh từ"
-  },
-  {
     "w": "博古通今",
     "p": "bó gǔ tōng jīn",
     "m": "rộng xưa thông nay, uyên bác lịch sử",
@@ -2643,29 +2570,6 @@
     "example_vi": "Chúng ta phải lấy cái dài bù cái ngắn, cùng nhau tiến bộ.",
     "me": "use one's strengths to compensate for weaknesses",
     "pos": "Động từ"
-  },
-  {
-    "w": "相辅相成",
-    "p": "xiāng fǔ xiāng chéng",
-    "m": "tương hỗ bổ sung, bổ trợ lẫn nhau cùng hoàn thành",
-    "cat": "idiom",
-    "me": "mutually complementary, jointly completing",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "相得益彰",
-    "p": "xiāng dé yì zhāng",
-    "m": "bổ sung nhau làm nổi bật hơn",
-    "cat": "idiom",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "相互促进",
-    "p": "xiāng hù cù jìn",
-    "m": "thúc đẩy lẫn nhau",
-    "cat": "idiom",
-    "me": "mutually promote",
-    "pos": "Danh từ"
   },
   {
     "w": "珠联璧合",
@@ -5059,13 +4963,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "大同小异",
-    "p": "dà tóng xiǎo yì",
-    "m": "đại thể giống nhau chỉ khác nhỏ",
-    "cat": "idiom",
-    "pos": "Danh từ"
-  },
-  {
     "w": "异中求同",
     "p": "yì zhōng qiú tóng",
     "m": "trong sự khác nhau tìm điểm chung",
@@ -5272,66 +5169,12 @@
     "pos": "Danh từ"
   },
   {
-    "w": "综上所述",
-    "p": "zōng shàng suǒ shù",
-    "m": "tổng hợp những điều trên",
-    "cat": "academic",
-    "me": "synthesizing the above",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "总体而言",
-    "p": "zǒng tǐ ér yán",
-    "m": "nói chung mà nói",
-    "cat": "academic",
-    "me": "generally speaking",
-    "pos": "Động từ"
-  },
-  {
-    "w": "就目前而言",
-    "p": "jiù mù qián ér yán",
-    "m": "về tình hình hiện tại mà nói",
-    "cat": "academic",
-    "pos": "Động từ"
-  },
-  {
-    "w": "从长远来看",
-    "p": "cóng cháng yuǎn lái kàn",
-    "m": "nhìn từ góc độ lâu dài",
-    "cat": "academic",
-    "pos": "Động từ"
-  },
-  {
-    "w": "诚然",
-    "p": "chéng rán",
-    "m": "đúng vậy, thật sự, đúng là, thực ra",
-    "cat": "academic",
-    "me": "indeed, truly, actually",
-    "pos": "Phó từ"
-  },
-  {
-    "w": "固然",
-    "p": "gù rán",
-    "m": "cố nhiên, dĩ nhiên là, tuy nhiên, dù cho, đành rằng, tuy là",
-    "cat": "academic",
-    "me": "of course, naturally; however, even though",
-    "pos": "Phó từ"
-  },
-  {
     "w": "然则",
     "p": "rán zé",
     "m": "vậy thì, trong trường hợp đó",
     "cat": "academic",
     "me": "then, in that case",
     "pos": "Danh từ"
-  },
-  {
-    "w": "况且",
-    "p": "kuàng qiě",
-    "m": "hơn nữa, vả lại",
-    "cat": "academic",
-    "me": "moreover, besides",
-    "pos": "Phó từ"
   },
   {
     "w": "更何况",
@@ -5349,13 +5192,6 @@
     "example": "不唯如此，他还帮助了很多人。",
     "example_vi": "Không chỉ như vậy, anh ấy còn giúp đỡ rất nhiều người.",
     "me": "not just that",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "姑且不论",
-    "p": "gū qiě bù lùn",
-    "m": "tạm thời không bàn đến",
-    "cat": "academic",
     "pos": "Danh từ"
   },
   {
@@ -5533,22 +5369,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "置信区间",
-    "p": "zhì xìn qū jiān",
-    "m": "khoảng tin cậy",
-    "cat": "academic",
-    "me": "confidence interval",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "标准差",
-    "p": "biāo zhǔn chā",
-    "m": "độ lệch chuẩn",
-    "cat": "academic",
-    "me": "standard deviation",
-    "pos": "Danh từ"
-  },
-  {
     "w": "方差分析",
     "p": "fāng chā fēn xī",
     "m": "phân tích phương sai",
@@ -5556,30 +5376,6 @@
     "example": "研究采用方差分析比较各组差异。",
     "example_vi": "Nghiên cứu áp dụng phân tích phương sai để so sánh sự khác biệt giữa các nhóm.",
     "me": "analysis of variance (ANOVA)",
-    "pos": "Động từ"
-  },
-  {
-    "w": "相关系数",
-    "p": "xiāng guān xì shù",
-    "m": "hệ số tương quan",
-    "cat": "academic",
-    "me": "correlation coefficient",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "实证研究",
-    "p": "shí zhèng yán jiū",
-    "m": "nghiên cứu thực chứng",
-    "cat": "academic",
-    "me": "empirical research",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "定性分析",
-    "p": "dìng xìng fēn xī",
-    "m": "phân tích định tính",
-    "cat": "academic",
-    "me": "qualitative analysis",
     "pos": "Động từ"
   },
   {
@@ -5601,27 +5397,11 @@
     "pos": "Danh từ"
   },
   {
-    "w": "田野调查",
-    "p": "tián yě diào chá",
-    "m": "điều tra thực địa",
-    "cat": "academic",
-    "me": "field survey",
-    "pos": "Danh từ"
-  },
-  {
     "w": "案例研究",
     "p": "àn lì yán jiū",
     "m": "nghiên cứu tình huống",
     "cat": "academic",
     "me": "case study",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "比较研究",
-    "p": "bǐ jiào yán jiū",
-    "m": "nghiên cứu so sánh",
-    "cat": "academic",
-    "me": "comparative research",
     "pos": "Danh từ"
   },
   {
@@ -5715,14 +5495,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "零假设",
-    "p": "líng jiǎ shè",
-    "m": "giả thuyết không",
-    "cat": "academic",
-    "me": "null hypothesis",
-    "pos": "Danh từ"
-  },
-  {
     "w": "备择假设",
     "p": "bèi zé jiǎ shè",
     "m": "giả thuyết thay thế",
@@ -5730,14 +5502,6 @@
     "example": "研究提出了备择假设。",
     "example_vi": "Nghiên cứu đã đưa ra giả thuyết thay thế.",
     "me": "alternative hypothesis",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "p值",
-    "p": "p zhí",
-    "m": "giá trị p",
-    "cat": "academic",
-    "me": "p-value",
     "pos": "Danh từ"
   },
   {
@@ -5756,22 +5520,6 @@
     "m": "độ lớn hiệu ứng",
     "cat": "academic",
     "me": "effect size",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "元分析",
-    "p": "yuán fēn xī",
-    "m": "phân tích tổng hợp",
-    "cat": "academic",
-    "me": "meta-analysis",
-    "pos": "Động từ"
-  },
-  {
-    "w": "系统综述",
-    "p": "xì tǒng zōng shù",
-    "m": "tổng quan hệ thống",
-    "cat": "academic",
-    "me": "systematic review",
     "pos": "Danh từ"
   },
   {
@@ -6001,14 +5749,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "批判性思维",
-    "p": "pī pàn xìng sī wéi",
-    "m": "tư duy phê phán",
-    "cat": "academic",
-    "me": "critical thinking",
-    "pos": "Tính từ"
-  },
-  {
     "w": "系统性思考",
     "p": "xì tǒng xìng sī kǎo",
     "m": "tư duy hệ thống",
@@ -6097,22 +5837,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "知识产权",
-    "p": "zhī shí chǎn quán",
-    "m": "quyền sở hữu trí tuệ",
-    "cat": "academic",
-    "me": "intellectual property rights",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "学术诚信",
-    "p": "xué shù chéng xìn",
-    "m": "liêm chính học thuật",
-    "cat": "academic",
-    "me": "academic integrity",
-    "pos": "Danh từ"
-  },
-  {
     "w": "剽窃",
     "p": "piāo qiè",
     "m": "đạo văn",
@@ -6127,14 +5851,6 @@
     "cat": "academic",
     "me": "academic ethics",
     "pos": "Danh từ"
-  },
-  {
-    "w": "同行评审",
-    "p": "tóng háng píng shěn",
-    "m": "đánh giá đồng nghiệp, phản biện, đánh giá ngang hàng",
-    "cat": "academic",
-    "me": "peer review",
-    "pos": "Động từ"
   },
   {
     "w": "匿名评审",
@@ -6153,13 +5869,6 @@
     "cat": "academic",
     "me": "academic publishing",
     "pos": "Danh từ"
-  },
-  {
-    "w": "影响因子",
-    "p": "yǐng xiǎng yīn zǐ",
-    "m": "chỉ số tác động",
-    "cat": "academic",
-    "pos": "Động từ"
   },
   {
     "w": "被引频次",
@@ -6268,22 +5977,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "自变量",
-    "p": "zì biàn liàng",
-    "m": "biến độc lập",
-    "cat": "academic",
-    "me": "independent variable",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "因变量",
-    "p": "yīn biàn liàng",
-    "m": "biến phụ thuộc",
-    "cat": "academic",
-    "me": "dependent variable",
-    "pos": "Danh từ"
-  },
-  {
     "w": "中介变量",
     "p": "zhōng jiè biàn liàng",
     "m": "biến trung gian",
@@ -6301,21 +5994,6 @@
     "example": "年龄在这里作为调节变量。",
     "example_vi": "Độ tuổi ở đây đóng vai trò là biến điều tiết.",
     "me": "moderating variable",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "控制变量",
-    "p": "kòng zhì biàn liàng",
-    "m": "biến kiểm soát",
-    "cat": "academic",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "混淆变量",
-    "p": "hùn xiáo biàn liàng",
-    "m": "biến gây nhiễu",
-    "cat": "academic",
-    "me": "confounding variable",
     "pos": "Danh từ"
   },
   {
@@ -6419,21 +6097,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "研究设计",
-    "p": "yán jiū shè jì",
-    "m": "thiết kế nghiên cứu",
-    "cat": "academic",
-    "me": "research design",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "实验设计",
-    "p": "shí yàn shè jì",
-    "m": "thiết kế thực nghiệm",
-    "cat": "academic",
-    "pos": "Danh từ"
-  },
-  {
     "w": "问卷设计",
     "p": "wèn juàn shè jì",
     "m": "thiết kế bảng câu hỏi",
@@ -6512,14 +6175,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "数据收集",
-    "p": "shù jù shōu jí",
-    "m": "thu thập dữ liệu",
-    "cat": "academic",
-    "me": "data collection",
-    "pos": "Danh từ"
-  },
-  {
     "w": "数据处理",
     "p": "shù jù chǔ lǐ",
     "m": "xử lý dữ liệu",
@@ -6527,14 +6182,6 @@
     "example": "研究团队正在进行数据处理。",
     "example_vi": "Nhóm nghiên cứu đang tiến hành xử lý dữ liệu.",
     "me": "data processing",
-    "pos": "Động từ"
-  },
-  {
-    "w": "数据分析",
-    "p": "shù jù fēn xī",
-    "m": "phân tích dữ liệu",
-    "cat": "academic",
-    "me": "data analysis",
     "pos": "Động từ"
   },
   {
@@ -6722,22 +6369,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "实验组",
-    "p": "shí yàn zǔ",
-    "m": "nhóm thực nghiệm",
-    "cat": "academic",
-    "me": "experimental group",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "对照组",
-    "p": "duì zhào zǔ",
-    "m": "nhóm đối chứng",
-    "cat": "academic",
-    "me": "control group",
-    "pos": "Danh từ"
-  },
-  {
     "w": "随机分组",
     "p": "suí jī fēn zǔ",
     "m": "phân nhóm ngẫu nhiên",
@@ -6745,22 +6376,6 @@
     "example": "实验采用随机分组。",
     "example_vi": "Thí nghiệm áp dụng phân nhóm ngẫu nhiên.",
     "me": "random grouping",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "双盲实验",
-    "p": "shuāng máng shí yàn",
-    "m": "thí nghiệm mù đôi",
-    "cat": "academic",
-    "me": "double-blind experiment",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "安慰剂效应",
-    "p": "ān wèi jì xiào yìng",
-    "m": "hiệu ứng giả dược",
-    "cat": "academic",
-    "me": "placebo effect",
     "pos": "Danh từ"
   },
   {
@@ -7021,14 +6636,6 @@
     "example": "研究者谨慎地进行因果推断。",
     "example_vi": "Nhà nghiên cứu thận trọng tiến hành suy luận nhân quả.",
     "me": "causal reasoning",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "相关性",
-    "p": "xiāng guān xìng",
-    "m": "tương quan",
-    "cat": "academic",
-    "me": "correlation",
     "pos": "Danh từ"
   },
   {
@@ -7590,22 +7197,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "主观性",
-    "p": "zhǔ guān xìng",
-    "m": "tính chủ quan",
-    "cat": "academic",
-    "me": "subjectivity",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "客观性",
-    "p": "kè guān xìng",
-    "m": "tính khách quan",
-    "cat": "academic",
-    "me": "objectivity",
-    "pos": "Danh từ"
-  },
-  {
     "w": "中立性",
     "p": "zhōng lì xìng",
     "m": "tính trung lập",
@@ -8084,14 +7675,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "博弈论",
-    "p": "bó yì lùn",
-    "m": "lý thuyết trò chơi",
-    "cat": "academic",
-    "me": "game theory",
-    "pos": "Danh từ"
-  },
-  {
     "w": "决策理论",
     "p": "jué cè lǐ lùn",
     "m": "lý thuyết ra quyết định",
@@ -8278,14 +7861,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "认知科学",
-    "p": "rèn zhī kē xué",
-    "m": "khoa học nhận thức",
-    "cat": "academic",
-    "me": "cognitive science",
-    "pos": "Danh từ"
-  },
-  {
     "w": "企业治理",
     "p": "qǐ yè zhì lǐ",
     "m": "quản trị doanh nghiệp",
@@ -8362,14 +7937,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "战略布局",
-    "p": "zhàn lüè bù jú",
-    "m": "bố cục chiến lược",
-    "cat": "business",
-    "me": "strategic layout",
-    "pos": "Danh từ"
-  },
-  {
     "w": "转型升级",
     "p": "zhuǎn xíng shēng jí",
     "m": "chuyển đổi nâng cấp",
@@ -8438,14 +8005,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "核心竞争力",
-    "p": "hé xīn jìng zhēng lì",
-    "m": "năng lực cạnh tranh cốt lõi",
-    "cat": "business",
-    "me": "core competitiveness",
-    "pos": "Danh từ"
-  },
-  {
     "w": "护城河",
     "p": "hù chéng hé",
     "m": "hào thành, lợi thế cạnh tranh bền vững",
@@ -8466,51 +8025,11 @@
     "pos": "Động từ"
   },
   {
-    "w": "平台经济",
-    "p": "píng tái jīng jì",
-    "m": "kinh tế nền tảng",
-    "cat": "business",
-    "me": "platform economy",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "共享经济",
-    "p": "gòng xiǎng jīng jì",
-    "m": "kinh tế chia sẻ",
-    "cat": "business",
-    "me": "sharing economy",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "数字经济",
-    "p": "shù zì jīng jì",
-    "m": "kinh tế số",
-    "cat": "business",
-    "me": "digital economy",
-    "pos": "Danh từ"
-  },
-  {
     "w": "金融衍生品",
     "p": "jīn róng yǎn shēng pǐn",
     "m": "sản phẩm phái sinh tài chính",
     "cat": "business",
     "me": "financial derivative product",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "期货",
-    "p": "qī huò",
-    "m": "hợp đồng tương lai",
-    "cat": "business",
-    "me": "futures contract",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "期权",
-    "p": "qī quán",
-    "m": "quyền chọn",
-    "cat": "business",
-    "me": "option (finance)",
     "pos": "Danh từ"
   },
   {
@@ -8547,22 +8066,6 @@
     "example": "这个国家国际收支保持平衡。",
     "example_vi": "Cán cân thanh toán quốc tế của quốc gia này giữ được sự cân bằng.",
     "me": "balance of payments",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "贸易顺差",
-    "p": "mào yì shùn chā",
-    "m": "thặng dư thương mại",
-    "cat": "business",
-    "me": "trade surplus",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "贸易逆差",
-    "p": "mào yì nì chā",
-    "m": "thâm hụt thương mại",
-    "cat": "business",
-    "me": "trade deficit",
     "pos": "Danh từ"
   },
   {
@@ -8614,36 +8117,6 @@
     "example_vi": "Bất cân xứng thông tin sẽ dẫn đến lựa chọn ngược.",
     "me": "adverse selection",
     "pos": "Động từ"
-  },
-  {
-    "w": "信息不对称",
-    "p": "xìn xī bù duì chèn",
-    "m": "thông tin bất cân xứng",
-    "cat": "business",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "市场失灵",
-    "p": "shì chǎng shī líng",
-    "m": "thất bại thị trường",
-    "cat": "business",
-    "me": "market failure",
-    "pos": "Động từ"
-  },
-  {
-    "w": "外部性",
-    "p": "wài bù xìng",
-    "m": "ngoại tác",
-    "cat": "business",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "公共品",
-    "p": "gōng gòng pǐn",
-    "m": "hàng hóa công cộng",
-    "cat": "business",
-    "me": "public good",
-    "pos": "Danh từ"
   },
   {
     "w": "垄断竞争",
@@ -8726,14 +8199,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "纳什均衡",
-    "p": "nà shí jūn héng",
-    "m": "cân bằng Nash",
-    "cat": "business",
-    "me": "Nash equilibrium",
-    "pos": "Danh từ"
-  },
-  {
     "w": "帕累托最优",
     "p": "pà lèi tuō zuì yōu",
     "m": "tối ưu Pareto",
@@ -8741,14 +8206,6 @@
     "example": "这个分配方式达到了帕累托最优。",
     "example_vi": "Cách phân bổ này đã đạt đến tối ưu Pareto.",
     "me": "Pareto optimal",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "规模经济",
-    "p": "guī mó jīng jì",
-    "m": "kinh tế quy mô",
-    "cat": "business",
-    "me": "economies of scale",
     "pos": "Danh từ"
   },
   {
@@ -8792,13 +8249,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "边际成本",
-    "p": "biān jì chéng běn",
-    "m": "chi phí biên",
-    "cat": "business",
-    "pos": "Danh từ"
-  },
-  {
     "w": "固定成本",
     "p": "gù dìng chéng běn",
     "m": "chi phí cố định",
@@ -8829,14 +8279,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "机会成本",
-    "p": "jī huì chéng běn",
-    "m": "chi phí cơ hội",
-    "cat": "business",
-    "me": "opportunity cost",
-    "pos": "Danh từ"
-  },
-  {
     "w": "边际收益",
     "p": "biān jì shōu yì",
     "m": "doanh thu biên",
@@ -8864,14 +8306,6 @@
     "example": "市场最终达到供需均衡。",
     "example_vi": "Thị trường cuối cùng đạt được cân bằng cung cầu.",
     "me": "supply-demand balance",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "价格弹性",
-    "p": "jià gé tán xìng",
-    "m": "độ co giãn giá cả, đàn hồi giá",
-    "cat": "business",
-    "me": "price elasticity",
     "pos": "Danh từ"
   },
   {
@@ -8958,14 +8392,6 @@
     "example": "企业追求成本最小化。",
     "example_vi": "Doanh nghiệp theo đuổi việc tối thiểu hóa chi phí.",
     "me": "cost minimization",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "价值链",
-    "p": "jià zhí liàn",
-    "m": "chuỗi giá trị",
-    "cat": "business",
-    "me": "value chain",
     "pos": "Danh từ"
   },
   {
@@ -9179,13 +8605,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "内容营销",
-    "p": "nèi róng yíng xiāo",
-    "m": "marketing nội dung",
-    "cat": "business",
-    "pos": "Danh từ"
-  },
-  {
     "w": "社交媒体营销",
     "p": "shè jiāo méi tǐ yíng xiāo",
     "m": "marketing mạng xã hội",
@@ -9193,14 +8612,6 @@
     "example": "公司加大了社交媒体营销投入。",
     "example_vi": "Công ty đã tăng cường đầu tư vào marketing mạng xã hội.",
     "me": "social media marketing",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "转化率",
-    "p": "zhuǎn huà lǜ",
-    "m": "tỷ lệ chuyển đổi",
-    "cat": "business",
-    "me": "conversion rate",
     "pos": "Danh từ"
   },
   {
@@ -9234,13 +8645,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "病毒式传播",
-    "p": "bìng dú shì chuán bō",
-    "m": "lan truyền theo kiểu virus",
-    "cat": "business",
-    "pos": "Danh từ"
-  },
-  {
     "w": "裂变营销",
     "p": "liè biàn yíng xiāo",
     "m": "marketing lan truyền",
@@ -9249,14 +8653,6 @@
     "example_vi": "Công ty áp dụng chiến lược marketing lan truyền.",
     "me": "viral marketing",
     "pos": "Danh từ"
-  },
-  {
-    "w": "流量变现",
-    "p": "liú liàng biàn xiàn",
-    "m": "kiếm tiền từ lưu lượng truy cập",
-    "cat": "business",
-    "me": "monetize traffic",
-    "pos": "Động từ"
   },
   {
     "w": "私域流量",
@@ -9362,14 +8758,6 @@
     "example": "这个地区形成了产业集群。",
     "example_vi": "Khu vực này đã hình thành cụm công nghiệp.",
     "me": "industrial cluster",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "产业链",
-    "p": "chǎn yè liàn",
-    "m": "chuỗi công nghiệp",
-    "cat": "business",
-    "me": "industrial chain",
     "pos": "Danh từ"
   },
   {
@@ -9617,13 +9005,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "孵化器",
-    "p": "fū huà qì",
-    "m": "vườn ươm doanh nghiệp",
-    "cat": "business",
-    "pos": "Danh từ"
-  },
-  {
     "w": "加速器",
     "p": "jiā sù qì",
     "m": "bộ tăng tốc khởi nghiệp",
@@ -9639,14 +9020,6 @@
     "example": "公司获得了天使投资。",
     "example_vi": "Công ty đã nhận được đầu tư thiên thần.",
     "me": "angel investment",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "风险投资",
-    "p": "fēng xiǎn tóu zī",
-    "m": "đầu tư mạo hiểm",
-    "cat": "business",
-    "me": "venture investment",
     "pos": "Danh từ"
   },
   {
@@ -9726,14 +9099,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "投资回报率",
-    "p": "tóu zī huí bào lǜ",
-    "m": "tỷ suất hoàn vốn đầu tư (ROI), ROI - lợi tức đầu tư",
-    "cat": "business",
-    "me": "return on investment (ROI)",
-    "pos": "Danh từ"
-  },
-  {
     "w": "资产负债率",
     "p": "zī chǎn fù zhài lǜ",
     "m": "tỷ lệ nợ trên tài sản",
@@ -9741,14 +9106,6 @@
     "example": "公司的资产负债率较低。",
     "example_vi": "Tỷ lệ nợ trên tài sản của công ty khá thấp.",
     "me": "debt-to-asset ratio",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "现金流",
-    "p": "xiàn jīn liú",
-    "m": "dòng tiền",
-    "cat": "business",
-    "me": "cash flow",
     "pos": "Danh từ"
   },
   {
@@ -9904,14 +9261,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "债务重组",
-    "p": "zhài wù chóng zǔ",
-    "m": "tái cơ cấu nợ",
-    "cat": "business",
-    "me": "debt restructuring",
-    "pos": "Danh từ"
-  },
-  {
     "w": "资产剥离",
     "p": "zī chǎn bō lí",
     "m": "thoái vốn tài sản",
@@ -10024,30 +9373,6 @@
     "example_vi": "Công ty hưởng ứng mục tiêu phát triển bền vững.",
     "me": "Sustainable Development Goals",
     "pos": "Danh từ"
-  },
-  {
-    "w": "碳中和",
-    "p": "tàn zhōng hé",
-    "m": "trung hòa carbon",
-    "cat": "business",
-    "me": "carbon neutrality",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "碳排放",
-    "p": "tàn pái fàng",
-    "m": "phát thải carbon",
-    "cat": "business",
-    "me": "carbon emissions",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "碳交易",
-    "p": "tàn jiāo yì",
-    "m": "giao dịch carbon",
-    "cat": "business",
-    "me": "carbon trading",
-    "pos": "Động từ"
   },
   {
     "w": "绿色金融",
@@ -10305,13 +9630,6 @@
     "example": "团队实现了持续交付。",
     "example_vi": "Nhóm đã thực hiện giao hàng liên tục.",
     "me": "continuous delivery",
-    "pos": "Động từ"
-  },
-  {
-    "w": "敏捷开发",
-    "p": "mǐn jié kāi fā",
-    "m": "phát triển linh hoạt",
-    "cat": "business",
     "pos": "Động từ"
   },
   {
@@ -10741,29 +10059,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "货币政策",
-    "p": "huò bì zhèng cè",
-    "m": "chính sách tiền tệ",
-    "cat": "business",
-    "me": "monetary policy",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "财政政策",
-    "p": "cái zhèng zhèng cè",
-    "m": "chính sách tài khóa",
-    "cat": "business",
-    "me": "fiscal policy",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "量化宽松",
-    "p": "liàng huà kuān sōng",
-    "m": "nới lỏng định lượng",
-    "cat": "business",
-    "pos": "Danh từ"
-  },
-  {
     "w": "利率走廊",
     "p": "lì lǜ zǒu láng",
     "m": "hành lang lãi suất",
@@ -10878,14 +10173,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "经济周期",
-    "p": "jīng jì zhōu qī",
-    "m": "chu kỳ kinh tế",
-    "cat": "business",
-    "me": "economic cycle",
-    "pos": "Danh từ"
-  },
-  {
     "w": "商业周期",
     "p": "shāng yè zhōu qī",
     "m": "chu kỳ kinh doanh",
@@ -10894,22 +10181,6 @@
     "example_vi": "Kinh tế đang ở đáy của chu kỳ kinh doanh.",
     "me": "business cycle",
     "pos": "Danh từ"
-  },
-  {
-    "w": "经济萧条",
-    "p": "jīng jì xiāo tiáo",
-    "m": "suy thoái kinh tế",
-    "cat": "business",
-    "me": "recession",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "通货紧缩",
-    "p": "tōng huò jǐn suō",
-    "m": "giảm phát",
-    "cat": "business",
-    "me": "deflation",
-    "pos": "Động từ"
   },
   {
     "w": "滞胀",
@@ -10988,14 +10259,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "量子计算",
-    "p": "liàng zǐ jì suàn",
-    "m": "tính toán lượng tử",
-    "cat": "tech",
-    "me": "quantum computing",
-    "pos": "Danh từ"
-  },
-  {
     "w": "量子通信",
     "p": "liàng zǐ tōng xìn",
     "m": "truyền thông lượng tử",
@@ -11013,14 +10276,6 @@
     "example": "实验室实现了量子密钥分发。",
     "example_vi": "Phòng thí nghiệm đã thực hiện thành công phân phối khóa lượng tử.",
     "me": "quantum key distribution",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "纳米技术",
-    "p": "nà mǐ jì shù",
-    "m": "công nghệ nano",
-    "cat": "tech",
-    "me": "nanotechnology",
     "pos": "Danh từ"
   },
   {
@@ -11087,13 +10342,6 @@
     "example": "这辆汽车使用燃料电池驱动。",
     "example_vi": "Chiếc xe này sử dụng pin nhiên liệu để vận hành.",
     "me": "fuel cell",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "核聚变",
-    "p": "hé jù biàn",
-    "m": "phản ứng nhiệt hạch",
-    "cat": "tech",
     "pos": "Danh từ"
   },
   {
@@ -11351,14 +10599,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "自动驾驶",
-    "p": "zì dòng jià shǐ",
-    "m": "lái xe tự động",
-    "cat": "tech",
-    "me": "autonomous driving",
-    "pos": "Danh từ"
-  },
-  {
     "w": "激光雷达",
     "p": "jī guāng léi dá",
     "m": "LiDAR",
@@ -11377,14 +10617,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "边缘计算",
-    "p": "biān yuán jì suàn",
-    "m": "điện toán biên",
-    "cat": "tech",
-    "me": "edge computing",
-    "pos": "Danh từ"
-  },
-  {
     "w": "雾计算",
     "p": "wù jì suàn",
     "m": "điện toán sương mù",
@@ -11392,13 +10624,6 @@
     "example": "这个系统采用雾计算架构。",
     "example_vi": "Hệ thống này áp dụng kiến trúc điện toán sương mù.",
     "me": "fog computing",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "物联网",
-    "p": "wù lián wǎng",
-    "m": "internet vạn vật (IoT)",
-    "cat": "tech",
     "pos": "Danh từ"
   },
   {
@@ -11412,13 +10637,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "数字孪生",
-    "p": "shù zì luán shēng",
-    "m": "bản sao số",
-    "cat": "tech",
-    "pos": "Danh từ"
-  },
-  {
     "w": "仿真模拟",
     "p": "fǎng zhēn mó nǐ",
     "m": "mô phỏng giả lập",
@@ -11426,14 +10644,6 @@
     "example": "团队进行了仿真模拟测试。",
     "example_vi": "Nhóm đã tiến hành thử nghiệm mô phỏng giả lập.",
     "me": "simulation",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "元宇宙",
-    "p": "yuán yǔ zhòu",
-    "m": "vũ trụ ảo (metaverse)",
-    "cat": "tech",
-    "me": "metaverse",
     "pos": "Danh từ"
   },
   {
@@ -11462,30 +10672,6 @@
     "m": "thực tế tăng cường (AR)",
     "cat": "tech",
     "me": "augmented reality (AR)",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "区块链",
-    "p": "qū kuài liàn",
-    "m": "blockchain",
-    "cat": "tech",
-    "me": "blockchain",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "智能合约",
-    "p": "zhì néng hé yuē",
-    "m": "hợp đồng thông minh",
-    "cat": "tech",
-    "me": "smart contract",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "去中心化",
-    "p": "qù zhōng xīn huà",
-    "m": "phi tập trung hóa",
-    "cat": "tech",
-    "me": "decentralization",
     "pos": "Danh từ"
   },
   {
@@ -11679,14 +10865,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "网络安全",
-    "p": "wǎng luò ān quán",
-    "m": "an ninh mạng",
-    "cat": "tech",
-    "me": "cybersecurity",
-    "pos": "Danh từ"
-  },
-  {
     "w": "零信任架构",
     "p": "líng xìn rèn jià gòu",
     "m": "kiến trúc không tin tưởng",
@@ -11780,14 +10958,6 @@
     "example": "这款设备的固件安全存在漏洞。",
     "example_vi": "Bảo mật firmware của thiết bị này tồn tại lỗ hổng.",
     "me": "firmware security",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "云计算",
-    "p": "yún jì suàn",
-    "m": "điện toán đám mây",
-    "cat": "tech",
-    "me": "cloud",
     "pos": "Danh từ"
   },
   {
@@ -12761,14 +11931,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "基因编辑",
-    "p": "jī yīn biān jí",
-    "m": "chỉnh sửa gen",
-    "cat": "tech",
-    "me": "gene editing",
-    "pos": "Danh từ"
-  },
-  {
     "w": "CRISPR技术",
     "p": "CRISPR jì shù",
     "m": "công nghệ CRISPR",
@@ -12844,14 +12006,6 @@
     "example": "医院开展了个性化医疗服务。",
     "example_vi": "Bệnh viện đã triển khai dịch vụ y tế cá nhân hóa.",
     "me": "personalized medicine",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "精准医学",
-    "p": "jīng zhǔn yī xué",
-    "m": "y học chính xác",
-    "cat": "tech",
-    "me": "precision medicine",
     "pos": "Danh từ"
   },
   {
@@ -13367,14 +12521,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "方法论",
-    "p": "fāng fǎ lùn",
-    "m": "phương pháp luận",
-    "cat": "philosophy",
-    "me": "methodology",
-    "pos": "Danh từ"
-  },
-  {
     "w": "价值论",
     "p": "jià zhí lùn",
     "m": "giá trị luận",
@@ -13749,14 +12895,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "自由主义",
-    "p": "zì yóu zhǔ yì",
-    "m": "chủ nghĩa tự do",
-    "cat": "philosophy",
-    "me": "liberalism",
-    "pos": "Danh từ"
-  },
-  {
     "w": "社群主义",
     "p": "shè qún zhǔ yì",
     "m": "chủ nghĩa cộng đồng",
@@ -13774,22 +12912,6 @@
     "example": "这本书讨论了共和主义传统。",
     "example_vi": "Cuốn sách này đã bàn về truyền thống chủ nghĩa cộng hòa.",
     "me": "republicanism",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "保守主义",
-    "p": "bǎo shǒu zhǔ yì",
-    "m": "chủ nghĩa bảo thủ",
-    "cat": "philosophy",
-    "me": "conservatism",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "无政府主义",
-    "p": "wú zhèng fǔ zhǔ yì",
-    "m": "chủ nghĩa vô chính phủ",
-    "cat": "philosophy",
-    "me": "anarchism",
     "pos": "Danh từ"
   },
   {
@@ -14300,21 +13422,6 @@
     "m": "thế giới khả năng",
     "cat": "philosophy",
     "me": "possible worlds",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "必然性",
-    "p": "bì rán xìng",
-    "m": "tính tất yếu",
-    "cat": "philosophy",
-    "me": "necessity, inevitability",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "可能性",
-    "p": "kě néng xìng",
-    "m": "tính khả năng",
-    "cat": "philosophy",
     "pos": "Danh từ"
   },
   {
@@ -15092,14 +14199,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "辩证法",
-    "p": "biàn zhèng fǎ",
-    "m": "phép biện chứng",
-    "cat": "philosophy",
-    "me": "dialectics",
-    "pos": "Danh từ"
-  },
-  {
     "w": "正题反题合题",
     "p": "zhèng tí fǎn tí hé tí",
     "m": "luận điểm phản đề hợp đề",
@@ -15185,14 +14284,6 @@
     "example": "科技进步提高了生产力。",
     "example_vi": "Sự tiến bộ khoa học kỹ thuật đã nâng cao lực lượng sản xuất.",
     "me": "productive forces",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "阶级意识",
-    "p": "jiē jí yì shí",
-    "m": "ý thức giai cấp",
-    "cat": "philosophy",
-    "me": "class consciousness",
     "pos": "Danh từ"
   },
   {
@@ -15626,13 +14717,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "判断力",
-    "p": "pàn duàn lì",
-    "m": "năng lực phán đoán",
-    "cat": "philosophy",
-    "pos": "Danh từ"
-  },
-  {
     "w": "审美判断",
     "p": "shěn měi pàn duàn",
     "m": "phán đoán thẩm mỹ",
@@ -15667,22 +14751,6 @@
     "example_vi": "Kant cho rằng cảm giác về cái đẹp là một sự thích thú vô tư lợi.",
     "me": "disinterested pleasure",
     "pos": "Động từ"
-  },
-  {
-    "w": "普遍性",
-    "p": "pǔ biàn xìng",
-    "m": "tính phổ biến",
-    "cat": "philosophy",
-    "me": "universality, prevalence",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "必然性",
-    "p": "bì rán xìng",
-    "m": "tính tất yếu",
-    "cat": "philosophy",
-    "me": "necessity, inevitability",
-    "pos": "Danh từ"
   },
   {
     "w": "二律背反",
@@ -15813,14 +14881,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "结论",
-    "p": "jié lùn",
-    "m": "kết luận",
-    "cat": "philosophy",
-    "me": "conclusion",
-    "pos": "Động từ"
-  },
-  {
     "w": "哲学思辨",
     "p": "zhé xué sī biàn",
     "m": "suy tư triết học",
@@ -15847,14 +14907,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "文学批评",
-    "p": "wén xué pī píng",
-    "m": "phê bình văn học",
-    "cat": "art",
-    "me": "literary criticism",
-    "pos": "Động từ"
-  },
-  {
     "w": "批评理论",
     "p": "pī píng lǐ lùn",
     "m": "lý thuyết phê bình",
@@ -15871,14 +14923,6 @@
     "cat": "art",
     "me": "textual analysis",
     "pos": "Động từ"
-  },
-  {
-    "w": "互文性",
-    "p": "hù wén xìng",
-    "m": "tính liên văn bản",
-    "cat": "art",
-    "me": "intertextuality",
-    "pos": "Danh từ"
   },
   {
     "w": "叙事学",
@@ -16047,26 +15091,11 @@
     "pos": "Danh từ"
   },
   {
-    "w": "韵律",
-    "p": "yùn lǜ",
-    "m": "vần luật, nhịp điệu",
-    "cat": "art",
-    "me": "meter, rhythm",
-    "pos": "Danh từ"
-  },
-  {
     "w": "格律",
     "p": "gé lǜ",
     "m": "luật thơ, cách luật",
     "cat": "art",
     "me": "poetic meter, prosodic rules",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "词牌",
-    "p": "cí pái",
-    "m": "điệu từ, bài từ",
-    "cat": "art",
     "pos": "Danh từ"
   },
   {
@@ -16080,20 +15109,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "绝句",
-    "p": "jué jù",
-    "m": "tuyệt cú (thơ tứ tuyệt)",
-    "cat": "art",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "律诗",
-    "p": "lǜ shī",
-    "m": "luật thi (thơ bát cú)",
-    "cat": "art",
-    "pos": "Danh từ"
-  },
-  {
     "w": "古体诗",
     "p": "gǔ tǐ shī",
     "m": "thơ cổ thể",
@@ -16101,13 +15116,6 @@
     "example": "他喜欢写古体诗。",
     "example_vi": "Anh ấy thích viết thơ cổ thể.",
     "me": "ancient-style poetry (gushi)",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "乐府",
-    "p": "yuè fǔ",
-    "m": "nhạc phủ (thơ cổ)",
-    "cat": "art",
     "pos": "Danh từ"
   },
   {
@@ -16209,14 +15217,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "叙事结构",
-    "p": "xù shì jié gòu",
-    "m": "cấu trúc tự sự",
-    "cat": "art",
-    "me": "narrative structure",
-    "pos": "Danh từ"
-  },
-  {
     "w": "时间叙事",
     "p": "shí jiān xù shì",
     "m": "tự sự thời gian",
@@ -16234,14 +15234,6 @@
     "example": "这部作品运用了空间叙事手法。",
     "example_vi": "Tác phẩm này đã vận dụng thủ pháp tự sự không gian.",
     "me": "spatial narrative",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "叙述者",
-    "p": "xù shù zhě",
-    "m": "người kể chuyện",
-    "cat": "art",
-    "me": "narrator",
     "pos": "Danh từ"
   },
   {
@@ -16289,14 +15281,6 @@
     "example_vi": "Lyotard đã phê phán siêu tự sự.",
     "me": "metanarrative",
     "pos": "Danh từ"
-  },
-  {
-    "w": "人物塑造",
-    "p": "rén wù sù zào",
-    "m": "xây dựng nhân vật",
-    "cat": "art",
-    "me": "character building/development",
-    "pos": "Động từ"
   },
   {
     "w": "圆形人物",
@@ -16405,20 +15389,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "意象",
-    "p": "yì xiàng",
-    "m": "hình ảnh, ý tượng",
-    "cat": "art",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "意境",
-    "p": "yì jìng",
-    "m": "thi cảnh, ý cảnh",
-    "cat": "art",
-    "pos": "Danh từ"
-  },
-  {
     "w": "气韵",
     "p": "qì yùn",
     "m": "thần khí vận động",
@@ -16426,13 +15396,6 @@
     "example": "这幅画气韵生动。",
     "example_vi": "Bức tranh này có thần khí vận động sinh động.",
     "me": "spirit and vitality in motion",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "风骨",
-    "p": "fēng gǔ",
-    "m": "phong cốt, phong cách",
-    "cat": "art",
     "pos": "Danh từ"
   },
   {
@@ -16472,20 +15435,6 @@
     "example_vi": "Bài thơ này được sáng tác do tình cảm mà phát ra.",
     "me": "arising from genuine feeling",
     "pos": "Danh từ"
-  },
-  {
-    "w": "托物言志",
-    "p": "tuō wù yán zhì",
-    "m": "mượn vật để bày tỏ chí",
-    "cat": "art",
-    "pos": "Động từ"
-  },
-  {
-    "w": "借景抒情",
-    "p": "jiè jǐng shū qíng",
-    "m": "mượn cảnh để bày tỏ tình",
-    "cat": "art",
-    "pos": "Động từ"
   },
   {
     "w": "情景交融",
@@ -16892,14 +15841,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "非物质文化遗产",
-    "p": "fēi wù zhì wén huà yí chǎn",
-    "m": "di sản văn hóa phi vật thể",
-    "cat": "art",
-    "me": "intangible cultural heritage",
-    "pos": "Danh từ"
-  },
-  {
     "w": "国粹",
     "p": "guó cuì",
     "m": "quốc túy",
@@ -16952,14 +15893,6 @@
     "cat": "art",
     "me": "cultural confidence",
     "pos": "Danh từ"
-  },
-  {
-    "w": "文化交流",
-    "p": "wén huà jiāo liú",
-    "m": "giao lưu văn hóa",
-    "cat": "art",
-    "me": "cultural exchange",
-    "pos": "Động từ"
   },
   {
     "w": "文化输出",
@@ -17500,29 +16433,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "文化认同",
-    "p": "wén huà rèn tóng",
-    "m": "bản sắc văn hóa",
-    "cat": "art",
-    "me": "cultural identity",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "民族认同",
-    "p": "mín zú rèn tóng",
-    "m": "bản sắc dân tộc",
-    "cat": "art",
-    "me": "national identity",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "身份认同",
-    "p": "shēn fèn rèn tóng",
-    "m": "bản sắc cá nhân",
-    "cat": "art",
-    "pos": "Danh từ"
-  },
-  {
     "w": "文化记忆",
     "p": "wén huà jì yì",
     "m": "ký ức văn hóa",
@@ -17580,22 +16490,6 @@
     "m": "văn học di dân",
     "cat": "art",
     "me": "migrant literature",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "世界文学",
-    "p": "shì jiè wén xué",
-    "m": "văn học thế giới",
-    "cat": "art",
-    "me": "world literature",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "比较文学",
-    "p": "bǐ jiào wén xué",
-    "m": "văn học so sánh",
-    "cat": "art",
-    "me": "comparative literature",
     "pos": "Danh từ"
   },
   {
@@ -17668,13 +16562,6 @@
     "m": "dân tục học",
     "cat": "art",
     "me": "folkloristics",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "传播学",
-    "p": "chuán bō xué",
-    "m": "truyền bá học",
-    "cat": "art",
     "pos": "Danh từ"
   },
   {
@@ -18042,45 +16929,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "司法程序",
-    "p": "sī fǎ chéng xù",
-    "m": "thủ tục tư pháp",
-    "cat": "law",
-    "me": "judicial procedure",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "诉讼",
-    "p": "sù sòng",
-    "m": "kiện tụng, tố tụng",
-    "cat": "law",
-    "me": "litigation, lawsuit",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "起诉",
-    "p": "qǐ sù",
-    "m": "khởi tố",
-    "cat": "law",
-    "me": "prosecute, file charges",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "被告",
-    "p": "bèi gào",
-    "m": "bị cáo, bị đơn",
-    "cat": "law",
-    "me": "defendant",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "原告",
-    "p": "yuán gào",
-    "m": "nguyên cáo, nguyên đơn",
-    "cat": "law",
-    "pos": "Danh từ"
-  },
-  {
     "w": "证据规则",
     "p": "zhèng jù guī zé",
     "m": "quy tắc chứng cứ",
@@ -18088,22 +16936,6 @@
     "example": "法庭必须遵守证据规则。",
     "example_vi": "Tòa án phải tuân thủ quy tắc chứng cứ.",
     "me": "rules of evidence",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "辩护权",
-    "p": "biàn hù quán",
-    "m": "quyền bào chữa, quyền biện hộ",
-    "cat": "law",
-    "me": "right to defense",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "沉默权",
-    "p": "chén mò quán",
-    "m": "quyền im lặng",
-    "cat": "law",
-    "me": "right to remain silent",
     "pos": "Danh từ"
   },
   {
@@ -18144,14 +16976,6 @@
     "example": "法院做出了终审判决。",
     "example_vi": "Tòa án đã đưa ra phán quyết chung thẩm.",
     "me": "final ruling",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "法律援助",
-    "p": "fǎ lǜ yuán zhù",
-    "m": "trợ giúp pháp lý",
-    "cat": "law",
-    "me": "legal aid",
     "pos": "Danh từ"
   },
   {
@@ -18233,27 +17057,11 @@
     "pos": "Danh từ"
   },
   {
-    "w": "无罪推定",
-    "p": "wú zuì tuī dìng",
-    "m": "suy đoán vô tội",
-    "cat": "law",
-    "me": "presumption of innocence",
-    "pos": "Danh từ"
-  },
-  {
     "w": "双重危险原则",
     "p": "shuāng chóng wēi xiǎn yuán zé",
     "m": "nguyên tắc không xét xử hai lần",
     "cat": "law",
     "me": "double jeopardy principle",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "正当程序",
-    "p": "zhèng dāng chéng xù",
-    "m": "trình tự tố tụng đúng đắn, thủ tục hợp lệ",
-    "cat": "law",
-    "me": "due process",
     "pos": "Danh từ"
   },
   {
@@ -18435,14 +17243,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "言论自由",
-    "p": "yán lùn zì yóu",
-    "m": "tự do ngôn luận",
-    "cat": "law",
-    "me": "freedom of speech",
-    "pos": "Danh từ"
-  },
-  {
     "w": "集会自由",
     "p": "jí huì zì yóu",
     "m": "tự do hội họp",
@@ -18470,22 +17270,6 @@
     "example": "宪法保护宗教自由。",
     "example_vi": "Hiến pháp bảo vệ tự do tôn giáo.",
     "me": "religious freedom",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "隐私权",
-    "p": "yǐn sī quán",
-    "m": "quyền riêng tư",
-    "cat": "law",
-    "me": "privacy",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "财产权",
-    "p": "cái chǎn quán",
-    "m": "quyền tài sản",
-    "cat": "law",
-    "me": "property rights",
     "pos": "Danh từ"
   },
   {
@@ -18723,22 +17507,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "司法独立",
-    "p": "sī fǎ dú lì",
-    "m": "độc lập tư pháp",
-    "cat": "law",
-    "me": "judicial independence",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "三权分立",
-    "p": "sān quán fēn lì",
-    "m": "tam quyền phân lập",
-    "cat": "law",
-    "me": "separation of the three powers",
-    "pos": "Danh từ"
-  },
-  {
     "w": "行政权",
     "p": "xíng zhèng quán",
     "m": "quyền hành pháp",
@@ -18792,14 +17560,6 @@
     "m": "nhà nước pháp quyền",
     "cat": "law",
     "me": "rule-of-law state",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "行政法",
-    "p": "xíng zhèng fǎ",
-    "m": "luật hành chính",
-    "cat": "law",
-    "me": "administrative law",
     "pos": "Danh từ"
   },
   {
@@ -19005,22 +17765,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "公民社会",
-    "p": "gōng mín shè huì",
-    "m": "xã hội công dân",
-    "cat": "politics",
-    "me": "civil society",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "非政府组织",
-    "p": "fēi zhèng fǔ zǔ zhī",
-    "m": "tổ chức phi chính phủ",
-    "cat": "politics",
-    "me": "NGO",
-    "pos": "Động từ"
-  },
-  {
     "w": "政府透明度",
     "p": "zhèng fǔ tòu míng dù",
     "m": "minh bạch của chính phủ",
@@ -19117,22 +17861,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "利益集团",
-    "p": "lì yì jí tuán",
-    "m": "nhóm lợi ích",
-    "cat": "politics",
-    "me": "interest group",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "游说",
-    "p": "yóu shuō",
-    "m": "vận động hành lang",
-    "cat": "politics",
-    "me": "lobbying",
-    "pos": "Danh từ"
-  },
-  {
     "w": "权力精英",
     "p": "quán lì jīng yīng",
     "m": "tinh hoa quyền lực",
@@ -19178,14 +17906,6 @@
     "m": "lý thuyết nhà nước",
     "cat": "politics",
     "me": "theory of the state",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "地缘政治",
-    "p": "dì yuán zhèng zhì",
-    "m": "địa chính trị",
-    "cat": "politics",
-    "me": "geopolitics",
     "pos": "Danh từ"
   },
   {
@@ -19317,30 +18037,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "软实力",
-    "p": "ruǎn shí lì",
-    "m": "quyền lực mềm, sức mạnh mềm",
-    "cat": "politics",
-    "me": "soft power",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "硬实力",
-    "p": "yìng shí lì",
-    "m": "quyền lực cứng, sức mạnh cứng",
-    "cat": "politics",
-    "me": "hard power",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "巧实力",
-    "p": "qiǎo shí lì",
-    "m": "quyền lực khéo léo (smart power), sức mạnh khéo",
-    "cat": "politics",
-    "me": "smart power",
-    "pos": "Danh từ"
-  },
-  {
     "w": "锐实力",
     "p": "ruì shí lì",
     "m": "sức mạnh sắc",
@@ -19348,29 +18044,6 @@
     "example": "这本书讨论了锐实力的概念。",
     "example_vi": "Cuốn sách này đã bàn về khái niệm sức mạnh sắc.",
     "me": "sharp power",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "外交政策",
-    "p": "wài jiāo zhèng cè",
-    "m": "chính sách đối ngoại",
-    "cat": "politics",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "多边主义",
-    "p": "duō biān zhǔ yì",
-    "m": "chủ nghĩa đa phương",
-    "cat": "politics",
-    "me": "multilateralism",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "单边主义",
-    "p": "dān biān zhǔ yì",
-    "m": "chủ nghĩa đơn phương",
-    "cat": "politics",
-    "me": "unilateralism",
     "pos": "Danh từ"
   },
   {
@@ -19570,22 +18243,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "经济制裁",
-    "p": "jīng jì zhì cái",
-    "m": "trừng phạt kinh tế",
-    "cat": "politics",
-    "me": "sanction",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "贸易战",
-    "p": "mào yì zhàn",
-    "m": "chiến tranh thương mại",
-    "cat": "politics",
-    "me": "trade war",
-    "pos": "Danh từ"
-  },
-  {
     "w": "技术封锁",
     "p": "jì shù fēng suǒ",
     "m": "phong tỏa công nghệ",
@@ -19680,14 +18337,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "网络安全",
-    "p": "wǎng luò ān quán",
-    "m": "an ninh mạng",
-    "cat": "politics",
-    "me": "cybersecurity",
-    "pos": "Danh từ"
-  },
-  {
     "w": "太空安全",
     "p": "tài kōng ān quán",
     "m": "an ninh vũ trụ",
@@ -19703,14 +18352,6 @@
     "m": "hiện đại hóa quản trị nhà nước",
     "cat": "politics",
     "me": "modernization of state governance",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "社会治理",
-    "p": "shè huì zhì lǐ",
-    "m": "quản trị xã hội",
-    "cat": "politics",
-    "me": "social governance",
     "pos": "Danh từ"
   },
   {
@@ -19786,14 +18427,6 @@
     "example_vi": "Chính phủ đã tăng cường quản lý nền tảng.",
     "me": "platform management",
     "pos": "Động từ"
-  },
-  {
-    "w": "反垄断",
-    "p": "fǎn lǒng duàn",
-    "m": "chống độc quyền",
-    "cat": "law",
-    "me": "antitrust",
-    "pos": "Danh từ"
   },
   {
     "w": "市场监管",
@@ -20104,22 +18737,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "国际私法",
-    "p": "guó jì sī fǎ",
-    "m": "tư pháp quốc tế",
-    "cat": "law",
-    "me": "private international law",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "法律冲突",
-    "p": "fǎ lǜ chōng tū",
-    "m": "xung đột pháp luật",
-    "cat": "law",
-    "me": "conflict of laws",
-    "pos": "Danh từ"
-  },
-  {
     "w": "准据法",
     "p": "zhǔn jù fǎ",
     "m": "luật áp dụng",
@@ -20176,14 +18793,6 @@
     "example_vi": "Bên thứ ba đã tiến hành hòa giải.",
     "me": "reconcile",
     "pos": "Động từ"
-  },
-  {
-    "w": "斡旋",
-    "p": "wò xuán",
-    "m": "trung gian, môi giới",
-    "cat": "law",
-    "me": "intermediary, broker",
-    "pos": "Danh từ"
   },
   {
     "w": "协商解决",
@@ -20360,21 +18969,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "不言而喻",
-    "p": "bù yán ér yù",
-    "m": "không nói cũng hiểu",
-    "cat": "particle",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "不可否认",
-    "p": "bù kě fǒu rèn",
-    "m": "không thể phủ nhận",
-    "cat": "particle",
-    "me": "undeniable",
-    "pos": "Danh từ"
-  },
-  {
     "w": "众所周知",
     "p": "zhòng suǒ zhōu zhī",
     "m": "ai cũng biết",
@@ -20392,13 +18986,6 @@
     "example": "这是不容置疑的事实。",
     "example_vi": "Đây là sự thật không thể nghi ngờ.",
     "me": "beyond doubt",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "毋庸置疑",
-    "p": "wú yōng zhì yí",
-    "m": "không cần phải nghi ngờ",
-    "cat": "particle",
     "pos": "Danh từ"
   },
   {
@@ -20610,34 +19197,11 @@
     "pos": "Động từ"
   },
   {
-    "w": "首先",
-    "p": "shǒu xiān",
-    "m": "trước tiên, đầu tiên",
-    "cat": "particle",
-    "pos": "Phó từ"
-  },
-  {
-    "w": "其次",
-    "p": "qí cì",
-    "m": "thứ hai, tiếp theo, thứ đến",
-    "cat": "particle",
-    "me": "second, next, following",
-    "pos": "Số từ"
-  },
-  {
     "w": "再次",
     "p": "zài cì",
     "m": "lần nữa, một lần nữa",
     "cat": "particle",
     "me": "again, once more",
-    "pos": "Phó từ"
-  },
-  {
-    "w": "最终",
-    "p": "zuì zhōng",
-    "m": "cuối cùng",
-    "cat": "particle",
-    "me": "finally",
     "pos": "Phó từ"
   },
   {
@@ -20651,21 +19215,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "由此可见",
-    "p": "yóu cǐ kě jiàn",
-    "m": "từ đây có thể thấy",
-    "cat": "particle",
-    "me": "from this it can be seen",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "由此推断",
-    "p": "yóu cǐ tuī duàn",
-    "m": "từ đây có thể suy ra",
-    "cat": "particle",
-    "pos": "Danh từ"
-  },
-  {
     "w": "概言之",
     "p": "gài yán zhī",
     "m": "nói chung mà nói",
@@ -20673,22 +19222,6 @@
     "example": "概言之，这次改革是成功的。",
     "example_vi": "Nói chung mà nói, cuộc cải cách lần này là thành công.",
     "me": "generally speaking",
-    "pos": "Động từ"
-  },
-  {
-    "w": "言而总之",
-    "p": "yán ér zǒng zhī",
-    "m": "nói tóm lại",
-    "cat": "particle",
-    "me": "in short",
-    "pos": "Động từ"
-  },
-  {
-    "w": "总而言之",
-    "p": "zǒng ér yán zhī",
-    "m": "nói tóm lại",
-    "cat": "particle",
-    "me": "in short",
     "pos": "Động từ"
   },
   {
@@ -20702,21 +19235,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "换言之",
-    "p": "huàn yán zhī",
-    "m": "nói cách khác",
-    "cat": "particle",
-    "me": "in other words",
-    "pos": "Động từ"
-  },
-  {
-    "w": "也就是说",
-    "p": "yě jiù shì shuō",
-    "m": "tức là, có nghĩa là",
-    "cat": "particle",
-    "pos": "Danh từ"
-  },
-  {
     "w": "换而言之",
     "p": "huàn ér yán zhī",
     "m": "nói theo cách khác",
@@ -20725,28 +19243,6 @@
     "example_vi": "Nói theo cách khác, đây là một cơ hội.",
     "me": "put another way",
     "pos": "Động từ"
-  },
-  {
-    "w": "即便如此",
-    "p": "jí biàn rú cǐ",
-    "m": "dù vậy, ngay cả như vậy, dù sao đi nữa",
-    "cat": "particle",
-    "me": "even so, nevertheless",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "尽管如此",
-    "p": "jǐn guǎn rú cǐ",
-    "m": "mặc dù vậy",
-    "cat": "particle",
-    "pos": "Động từ"
-  },
-  {
-    "w": "然而",
-    "p": "rán ér",
-    "m": "tuy nhiên, nhưng",
-    "cat": "particle",
-    "pos": "Danh từ"
   },
   {
     "w": "尽管如是",
@@ -20769,14 +19265,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "况且",
-    "p": "kuàng qiě",
-    "m": "hơn nữa, vả lại",
-    "cat": "particle",
-    "me": "moreover, besides",
-    "pos": "Phó từ"
-  },
-  {
     "w": "非但如此",
     "p": "fēi dàn rú cǐ",
     "m": "không những vậy",
@@ -20784,14 +19272,6 @@
     "example": "非但如此，他还主动道歉。",
     "example_vi": "Không những vậy, anh ấy còn chủ động xin lỗi.",
     "me": "not only that",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "不仅如此",
-    "p": "bù jǐn rú cǐ",
-    "m": "không chỉ như vậy",
-    "cat": "particle",
-    "me": "not just that",
     "pos": "Danh từ"
   },
   {
@@ -20823,13 +19303,6 @@
     "example_vi": "Thực lực của đối thủ này không thể coi thường.",
     "me": "cannot be underestimated",
     "pos": "Danh từ"
-  },
-  {
-    "w": "不得不",
-    "p": "bù dé bù",
-    "m": "không thể không, buộc phải",
-    "cat": "particle",
-    "pos": "Phó từ"
   },
   {
     "w": "不得已",
@@ -20992,14 +19465,6 @@
     "pos": "Phó từ"
   },
   {
-    "w": "与此同时",
-    "p": "yǔ cǐ tóng shí",
-    "m": "đồng thời với đó, cùng lúc đó",
-    "cat": "particle",
-    "me": "at the same time",
-    "pos": "Danh từ"
-  },
-  {
     "w": "与此相关",
     "p": "yǔ cǐ xiāng guān",
     "m": "liên quan đến điều này",
@@ -21008,14 +19473,6 @@
     "example_vi": "Các chính sách liên quan đến điều này cũng đang được điều chỉnh.",
     "me": "regarding this matter",
     "pos": "Danh từ"
-  },
-  {
-    "w": "就此而言",
-    "p": "jiù cǐ ér yán",
-    "m": "về điều này mà nói",
-    "cat": "particle",
-    "me": "speaking of this",
-    "pos": "Động từ"
   },
   {
     "w": "从这个意义上说",
@@ -21142,13 +19599,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "以至于",
-    "p": "yǐ zhì yú",
-    "m": "đến mức",
-    "cat": "particle",
-    "pos": "Động từ"
-  },
-  {
     "w": "至于",
     "p": "zhì yú",
     "m": "đến như...",
@@ -21159,21 +19609,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "关于",
-    "p": "guān yú",
-    "m": "về, liên quan đến",
-    "cat": "particle",
-    "me": "with regard to",
-    "pos": "Động từ"
-  },
-  {
-    "w": "针对",
-    "p": "zhēn duì",
-    "m": "nhắm vào, đối với",
-    "cat": "particle",
-    "pos": "Danh từ"
-  },
-  {
     "w": "有关",
     "p": "yǒu guān",
     "m": "có liên quan",
@@ -21181,13 +19616,6 @@
     "example": "这件事与他有关。",
     "example_vi": "Việc này có liên quan đến anh ta.",
     "me": "related, relevant",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "相较于",
-    "p": "xiāng jiào yú",
-    "m": "so với",
-    "cat": "particle",
     "pos": "Danh từ"
   },
   {
@@ -21249,42 +19677,11 @@
     "pos": "Động từ"
   },
   {
-    "w": "事实上",
-    "p": "shì shí shàng",
-    "m": "trên thực tế",
-    "cat": "particle",
-    "me": "in fact, in practice",
-    "pos": "Phó từ"
-  },
-  {
-    "w": "实际上",
-    "p": "shí jì shàng",
-    "m": "thực tế là",
-    "cat": "particle",
-    "pos": "Danh từ"
-  },
-  {
     "w": "客观而言",
     "p": "kè guān ér yán",
     "m": "nói một cách khách quan",
     "cat": "particle",
     "me": "speak objectively",
-    "pos": "Động từ"
-  },
-  {
-    "w": "理论上",
-    "p": "lǐ lùn shàng",
-    "m": "về mặt lý thuyết",
-    "cat": "particle",
-    "me": "theoretically",
-    "pos": "Phó từ"
-  },
-  {
-    "w": "实践上",
-    "p": "shí jiàn shàng",
-    "m": "về mặt thực tiễn",
-    "cat": "particle",
-    "me": "in practical terms",
     "pos": "Động từ"
   },
   {
@@ -21298,13 +19695,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "表面上",
-    "p": "biǎo miàn shàng",
-    "m": "bề ngoài",
-    "cat": "particle",
-    "pos": "Danh từ"
-  },
-  {
     "w": "本质上",
     "p": "běn zhì shàng",
     "m": "về bản chất",
@@ -21313,21 +19703,6 @@
     "example_vi": "Hai điều này về bản chất là giống nhau.",
     "me": "in essence",
     "pos": "Động từ"
-  },
-  {
-    "w": "根本上",
-    "p": "gēn běn shàng",
-    "m": "về căn bản",
-    "cat": "particle",
-    "me": "fundamentally",
-    "pos": "Động từ"
-  },
-  {
-    "w": "总体上",
-    "p": "zǒng tǐ shàng",
-    "m": "tổng thể mà nói",
-    "cat": "particle",
-    "pos": "Danh từ"
   },
   {
     "w": "整体而言",
@@ -21464,29 +19839,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "由此及彼",
-    "p": "yóu cǐ jí bǐ",
-    "m": "từ cái này đến cái kia",
-    "cat": "particle",
-    "me": "from one thing to another",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "触类旁通",
-    "p": "chù lèi páng tōng",
-    "m": "suy ra từ tương tự, biết loại này thông loại khác",
-    "cat": "particle",
-    "me": "infer by analogy, understand one type through another",
-    "pos": "Động từ"
-  },
-  {
-    "w": "举一反三",
-    "p": "jǔ yī fǎn sān",
-    "m": "suy một biết ba",
-    "cat": "particle",
-    "pos": "Danh từ"
-  },
-  {
     "w": "以此类推",
     "p": "yǐ cǐ lèi tuī",
     "m": "cứ thế mà suy",
@@ -21517,43 +19869,12 @@
     "pos": "Danh từ"
   },
   {
-    "w": "因而",
-    "p": "yīn ér",
-    "m": "do đó, cho nên",
-    "cat": "particle",
-    "pos": "Động từ"
-  },
-  {
-    "w": "因此",
-    "p": "yīn cǐ",
-    "m": "vì vậy",
-    "cat": "particle",
-    "me": "so",
-    "pos": "Danh từ"
-  },
-  {
     "w": "因之",
     "p": "yīn zhī",
     "m": "do đó (văn viết)",
     "cat": "particle",
     "me": "therefore (written form)",
     "pos": "Danh từ"
-  },
-  {
-    "w": "进而",
-    "p": "jìn ér",
-    "m": "tiếp đó, hơn nữa, tiếp theo, từ đó tiến lên, tiến thêm, rồi",
-    "cat": "particle",
-    "me": "next, moreover, further, then",
-    "pos": "Phó từ"
-  },
-  {
-    "w": "从而",
-    "p": "cóng ér",
-    "m": "từ đó, do đó, nhờ đó, bởi vậy",
-    "cat": "particle",
-    "me": "from then, therefore, thereby",
-    "pos": "Phó từ"
   },
   {
     "w": "进而言之",
@@ -21580,49 +19901,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "如前所述",
-    "p": "rú qián suǒ shù",
-    "m": "như đã trình bày trước",
-    "cat": "particle",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "如上所述",
-    "p": "rú shàng suǒ shù",
-    "m": "như đã nêu trên",
-    "cat": "particle",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "如下所述",
-    "p": "rú xià suǒ shù",
-    "m": "như sẽ trình bày dưới đây",
-    "cat": "particle",
-    "me": "as will be presented below",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "综上所述",
-    "p": "zōng shàng suǒ shù",
-    "m": "tổng hợp những điều đã trình bày trên",
-    "cat": "particle",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "有鉴于此",
-    "p": "yǒu jiàn yú cǐ",
-    "m": "dựa vào điều này",
-    "cat": "particle",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "鉴于此",
-    "p": "jiàn yú cǐ",
-    "m": "xét điều này",
-    "cat": "particle",
-    "pos": "Danh từ"
-  },
-  {
     "w": "有此可见",
     "p": "yǒu cǐ kě jiàn",
     "m": "từ đây có thể thấy",
@@ -21631,13 +19909,6 @@
     "example_vi": "Từ đây có thể thấy, anh ấy rất nỗ lực.",
     "me": "from this it can be seen",
     "pos": "Danh từ"
-  },
-  {
-    "w": "值得注意的是",
-    "p": "zhí dé zhù yì de shì",
-    "m": "đáng chú ý là",
-    "cat": "particle",
-    "pos": "Phó từ"
   },
   {
     "w": "值得强调的是",
@@ -22138,113 +20409,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "新媒体",
-    "p": "xīn méi tǐ",
-    "m": "truyền thông mới",
-    "cat": "media",
-    "me": "new media",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "自媒体",
-    "p": "zì méi tǐ",
-    "m": "tự truyền thông, media cá nhân, mạng xã hội tự xuất bản",
-    "cat": "media",
-    "me": "self-media, personal publishing platforms",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "短视频",
-    "p": "duǎn shì pín",
-    "m": "video ngắn",
-    "cat": "media",
-    "me": "short video",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "直播",
-    "p": "zhí bō",
-    "m": "phát trực tiếp",
-    "cat": "media",
-    "me": "livestream",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "播客",
-    "p": "bō kè",
-    "m": "podcast",
-    "cat": "media",
-    "me": "podcast",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "信息茧房",
-    "p": "xìn xī jiǎn fáng",
-    "m": "buồng echo thông tin",
-    "cat": "media",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "算法推荐",
-    "p": "suàn fǎ tuī jiàn",
-    "m": "đề xuất thuật toán",
-    "cat": "media",
-    "pos": "Động từ"
-  },
-  {
-    "w": "舆论引导",
-    "p": "yú lùn yǐn dǎo",
-    "m": "dẫn dắt dư luận",
-    "cat": "media",
-    "me": "guide public opinion",
-    "pos": "Động từ"
-  },
-  {
-    "w": "新闻伦理",
-    "p": "xīn wén lún lǐ",
-    "m": "đạo đức báo chí",
-    "cat": "media",
-    "me": "journalistic integrity",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "假新闻",
-    "p": "jiǎ xīn wén",
-    "m": "tin giả",
-    "cat": "media",
-    "pos": "Động từ"
-  },
-  {
-    "w": "信息核实",
-    "p": "xìn xī hé shí",
-    "m": "xác minh thông tin",
-    "cat": "media",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "新闻自由",
-    "p": "xīn wén zì yóu",
-    "m": "tự do báo chí",
-    "cat": "media",
-    "me": "freedom of the press",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "媒体素养",
-    "p": "méi tǐ sù yǎng",
-    "m": "năng lực truyền thông",
-    "cat": "media",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "数字素养",
-    "p": "shù zì sù yǎng",
-    "m": "hiểu biết số, năng lực số",
-    "cat": "media",
-    "me": "digital literacy",
-    "pos": "Động từ"
-  },
-  {
     "w": "信息素养",
     "p": "xìn xī sù yǎng",
     "m": "năng lực thông tin",
@@ -22260,13 +20424,6 @@
     "example": "这门课研究批判性媒体理论。",
     "example_vi": "Môn học này nghiên cứu lý thuyết truyền thông phê phán.",
     "me": "critical media studies",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "数字鸿沟",
-    "p": "shù zì hóng gōu",
-    "m": "khoảng cách số",
-    "cat": "media",
     "pos": "Danh từ"
   },
   {
@@ -22300,14 +20457,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "绿色发展",
-    "p": "lǜ sè fā zhǎn",
-    "m": "phát triển xanh",
-    "cat": "environment",
-    "me": "green development",
-    "pos": "Động từ"
-  },
-  {
     "w": "可持续消费",
     "p": "kě chí xù xiāo fèi",
     "m": "tiêu dùng bền vững",
@@ -22315,22 +20464,6 @@
     "example": "越来越多人倡导可持续消费。",
     "example_vi": "Ngày càng nhiều người đề xướng tiêu dùng bền vững.",
     "me": "sustainable consumption",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "循环经济",
-    "p": "xún huán jīng jì",
-    "m": "kinh tế tuần hoàn",
-    "cat": "environment",
-    "me": "circular economy",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "生物多样性",
-    "p": "shēng wù duō yàng xìng",
-    "m": "đa dạng sinh học",
-    "cat": "environment",
-    "me": "biodiversity",
     "pos": "Danh từ"
   },
   {
@@ -22374,67 +20507,11 @@
     "pos": "Danh từ"
   },
   {
-    "w": "气候变化",
-    "p": "qì hòu biàn huà",
-    "m": "biến đổi khí hậu",
-    "cat": "environment",
-    "me": "climate change",
-    "pos": "Động từ"
-  },
-  {
-    "w": "全球变暖",
-    "p": "quán qiú biàn nuǎn",
-    "m": "nóng lên toàn cầu",
-    "cat": "environment",
-    "me": "global warming",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "温室效应",
-    "p": "wēn shì xiào yìng",
-    "m": "hiệu ứng nhà kính",
-    "cat": "environment",
-    "me": "greenhouse effect",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "海平面上升",
-    "p": "hǎi píng miàn shàng shēng",
-    "m": "mực nước biển dâng",
-    "cat": "environment",
-    "me": "sea level rise",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "极端天气",
-    "p": "jí duān tiān qì",
-    "m": "thời tiết cực đoan",
-    "cat": "environment",
-    "me": "extreme weather",
-    "pos": "Danh từ"
-  },
-  {
     "w": "冰川消融",
     "p": "bīng chuān xiāo róng",
     "m": "tan băng hà",
     "cat": "environment",
     "me": "glacial melt",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "沙漠化",
-    "p": "shā mò huà",
-    "m": "sa mạc hóa",
-    "cat": "environment",
-    "me": "desertification",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "水土流失",
-    "p": "shuǐ tǔ liú shī",
-    "m": "xói mòn đất",
-    "cat": "environment",
-    "me": "soil erosion",
     "pos": "Danh từ"
   },
   {
@@ -22478,14 +20555,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "微塑料",
-    "p": "wēi sù liào",
-    "m": "vi nhựa",
-    "cat": "environment",
-    "me": "microplastic",
-    "pos": "Danh từ"
-  },
-  {
     "w": "噪音污染",
     "p": "zào yīn wū rǎn",
     "m": "ô nhiễm tiếng ồn",
@@ -22513,22 +20582,6 @@
     "example": "这个农场发展有机农业。",
     "example_vi": "Nông trại này phát triển nông nghiệp hữu cơ.",
     "me": "organic farming",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "可再生能源",
-    "p": "kě zài shēng néng yuán",
-    "m": "năng lượng tái tạo",
-    "cat": "environment",
-    "me": "renewable energy",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "清洁能源",
-    "p": "qīng jié néng yuán",
-    "m": "năng lượng sạch",
-    "cat": "environment",
-    "me": "clean energy",
     "pos": "Danh từ"
   },
   {
@@ -22562,14 +20615,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "自然保护区",
-    "p": "zì rán bǎo hù qū",
-    "m": "khu bảo tồn thiên nhiên",
-    "cat": "environment",
-    "me": "nature reserve",
-    "pos": "Danh từ"
-  },
-  {
     "w": "国家公园",
     "p": "guó jiā gōng yuán",
     "m": "công viên quốc gia",
@@ -22577,14 +20622,6 @@
     "example": "这里被设立为国家公园。",
     "example_vi": "Nơi đây được thiết lập thành công viên quốc gia.",
     "me": "national park",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "生态文明",
-    "p": "shēng tài wén míng",
-    "m": "văn minh sinh thái",
-    "cat": "environment",
-    "me": "ecological civilization",
     "pos": "Danh từ"
   },
   {
@@ -22652,27 +20689,11 @@
     "pos": "Danh từ"
   },
   {
-    "w": "垃圾分类",
-    "p": "lā jī fēn lèi",
-    "m": "phân loại rác",
-    "cat": "environment",
-    "me": "waste sorting",
-    "pos": "Danh từ"
-  },
-  {
     "w": "绿色供应链",
     "p": "lǜ sè gōng yìng liàn",
     "m": "chuỗi cung ứng xanh",
     "cat": "environment",
     "me": "green supply chain",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "生命科学",
-    "p": "shēng mìng kē xué",
-    "m": "khoa học sự sống",
-    "cat": "academic",
-    "me": "life sciences",
     "pos": "Danh từ"
   },
   {
@@ -22839,14 +20860,6 @@
     "m": "lao động số",
     "cat": "academic",
     "me": "digital labor",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "注意力经济",
-    "p": "zhù yì lì jīng jì",
-    "m": "kinh tế chú ý",
-    "cat": "academic",
-    "me": "attention economy",
     "pos": "Danh từ"
   },
   {
@@ -23078,13 +21091,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "预见",
-    "p": "yù jiàn",
-    "m": "tiên liệu, dự đoán",
-    "cat": "academic",
-    "pos": "Động từ"
-  },
-  {
     "w": "情景规划",
     "p": "qíng jǐng guī huà",
     "m": "lập kế hoạch theo kịch bản",
@@ -23142,14 +21148,6 @@
     "example": "这项工程完成了社会影响评估。",
     "example_vi": "Công trình này đã hoàn thành đánh giá tác động xã hội.",
     "me": "social impact assessment",
-    "pos": "Động từ"
-  },
-  {
-    "w": "环境影响评估",
-    "p": "huán jìng yǐng xiǎng píng gū",
-    "m": "đánh giá tác động môi trường",
-    "cat": "environment",
-    "me": "environmental impact assessment",
     "pos": "Động từ"
   },
   {

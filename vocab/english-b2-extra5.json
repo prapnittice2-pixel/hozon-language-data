@@ -7,13 +7,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "hypothesis",
-    "p": "haɪpˈɑːθəsˌɪs",
-    "m": "giả thuyết",
-    "cat": "học thuật",
-    "pos": "Danh từ"
-  },
-  {
     "w": "empirical",
     "p": "ɛmpˈɪɹɪkəl",
     "m": "dựa trên thực nghiệm, thực chứng",
@@ -33,13 +26,6 @@
     "m": "định lượng",
     "cat": "học thuật",
     "pos": "Động từ"
-  },
-  {
-    "w": "variable",
-    "p": "vˈɛɹɪəbəl",
-    "m": "biến số",
-    "cat": "học thuật",
-    "pos": "Danh từ"
   },
   {
     "w": "correlation",
@@ -133,20 +119,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "citation",
-    "p": "saɪtˈeɪʃən",
-    "m": "trích dẫn, tài liệu tham khảo",
-    "cat": "học thuật",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "abstract",
-    "p": "ˈæbstɹækt",
-    "m": "trừu tượng, tóm tắt (bài báo khoa học)",
-    "cat": "học thuật",
-    "pos": "Danh từ"
-  },
-  {
     "w": "findings",
     "p": "fˈaɪndɪŋz",
     "m": "kết quả, phát hiện",
@@ -157,13 +129,6 @@
     "w": "framework",
     "p": "fɹˈeɪmwɜːk",
     "m": "khung lý thuyết, cấu trúc, hệ thống tư duy, khung cơ cấu, hệ thống nền tảng, khuôn khổ",
-    "cat": "học thuật",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "scope",
-    "p": "skˈoʊp",
-    "m": "phạm vi",
     "cat": "học thuật",
     "pos": "Danh từ"
   },
@@ -196,13 +161,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "survey",
-    "p": "sˈɜːveɪ",
-    "m": "khảo sát, điều tra",
-    "cat": "học thuật",
-    "pos": "Danh từ"
-  },
-  {
     "w": "questionnaire",
     "p": "kwˌɛstʃənˈɛɹ",
     "m": "bảng câu hỏi",
@@ -217,20 +175,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "analysis",
-    "p": "ɐnˈæləsˌɪs",
-    "m": "phân tích",
-    "cat": "học thuật",
-    "pos": "Động từ"
-  },
-  {
-    "w": "interpret",
-    "p": "ɪntˈɜːpɹɪt",
-    "m": "giải thích, diễn giải",
-    "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
     "w": "validate",
     "p": "vˈælᵻdˌeɪt",
     "m": "xác nhận tính hợp lệ",
@@ -241,13 +185,6 @@
     "w": "replicate",
     "p": "ɹˈɛplᵻkˌeɪt",
     "m": "tái tạo, lặp lại",
-    "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
-    "w": "evaluate",
-    "p": "ɪvˈæljuːˌeɪt",
-    "m": "đánh giá",
     "cat": "hành động",
     "pos": "Động từ"
   },
@@ -290,13 +227,6 @@
     "w": "chart",
     "p": "tʃˈɑːɹt",
     "m": "biểu đồ",
-    "cat": "học thuật",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "graph",
-    "p": "ɡɹˈæf",
-    "m": "đồ thị",
     "cat": "học thuật",
     "pos": "Danh từ"
   },
@@ -357,20 +287,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "percentage",
-    "p": "pɚsˈɛntɪdʒ",
-    "m": "phần trăm",
-    "cat": "số đếm",
-    "pos": "Số từ"
-  },
-  {
-    "w": "proportion",
-    "p": "pɹəpˈɔːɹʃən",
-    "m": "tỷ lệ",
-    "cat": "số đếm",
-    "pos": "Danh từ"
-  },
-  {
     "w": "ratio",
     "p": "ɹˈeɪʃɪˌoʊ",
     "m": "tỉ số, tỉ lệ",
@@ -383,13 +299,6 @@
     "m": "chỉ số",
     "cat": "kinh doanh",
     "pos": "Động từ"
-  },
-  {
-    "w": "rate",
-    "p": "ɹˈeɪt",
-    "m": "tỉ lệ, đánh giá, tỷ lệ, mức độ",
-    "cat": "kinh doanh",
-    "pos": "Danh từ"
   },
   {
     "w": "frequency",
@@ -406,25 +315,11 @@
     "pos": "Danh từ"
   },
   {
-    "w": "pattern",
-    "p": "pˈætɚn",
-    "m": "mẫu hình, xu hướng",
-    "cat": "học thuật",
-    "pos": "Danh từ"
-  },
-  {
     "w": "fluctuation",
     "p": "flˌʌktʃuːˈeɪʃən",
     "m": "sự biến động",
     "cat": "kinh doanh",
     "pos": "Danh từ"
-  },
-  {
-    "w": "significant",
-    "p": "sɪɡnˈɪfɪkənt",
-    "m": "đáng kể, có ý nghĩa, quan trọng, đáng chú ý",
-    "cat": "tính từ",
-    "pos": "Tính từ"
   },
   {
     "w": "compelling",
@@ -439,41 +334,6 @@
     "m": "mạnh mẽ, vững chắc, bền vững",
     "cat": "tính từ",
     "pos": "Tính từ"
-  },
-  {
-    "w": "rigorous",
-    "p": "ɹˈɪɡɚɹəs",
-    "m": "nghiêm ngặt, chặt chẽ",
-    "cat": "tính từ",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "comprehensive",
-    "p": "kˌɑːmpɹihˈɛnsɪv",
-    "m": "toàn diện, đầy đủ",
-    "cat": "tính từ",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "preliminary",
-    "p": "pɹɪlˈɪmɪnˌɛɹi",
-    "m": "sơ bộ, ban đầu",
-    "cat": "tính từ",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "substantial",
-    "p": "səbstˈænʃəl",
-    "m": "đáng kể, quan trọng",
-    "cat": "tính từ",
-    "pos": "Phó từ"
-  },
-  {
-    "w": "relevant",
-    "p": "ɹˈɛlᵻvənt",
-    "m": "liên quan, thích hợp",
-    "cat": "tính từ",
-    "pos": "Danh từ"
   },
   {
     "w": "inconclusive",
@@ -502,41 +362,6 @@
     "m": "đáng chú ý",
     "cat": "trạng từ",
     "pos": "Danh từ"
-  },
-  {
-    "w": "significantly",
-    "p": "sɪɡnˈɪfɪkəntli",
-    "m": "đáng kể",
-    "cat": "trạng từ",
-    "pos": "Phó từ"
-  },
-  {
-    "w": "consistently",
-    "p": "kənsˈɪstəntli",
-    "m": "nhất quán, đều đặn",
-    "cat": "trạng từ",
-    "pos": "Phó từ"
-  },
-  {
-    "w": "broadly",
-    "p": "bɹˈɔːdli",
-    "m": "một cách tổng quát, nhìn chung, rộng rãi",
-    "cat": "trạng từ",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "accordingly",
-    "p": "ɐkˈɔːɹdɪŋli",
-    "m": "tương ứng, do vậy, do đó, theo đó",
-    "cat": "trạng từ",
-    "pos": "Phó từ"
-  },
-  {
-    "w": "subsequently",
-    "p": "sˈʌbsᵻkwəntli",
-    "m": "sau đó",
-    "cat": "trạng từ",
-    "pos": "Phó từ"
   },
   {
     "w": "conversely",
@@ -574,58 +399,9 @@
     "pos": "Động từ"
   },
   {
-    "w": "demonstrate",
-    "p": "dˈɛmənstɹˌeɪt",
-    "m": "trình bày, chứng minh",
-    "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
-    "w": "highlight",
-    "p": "hˈaɪlaɪt",
-    "m": "nhấn mạnh, điểm nổi bật, nêu bật",
-    "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
-    "w": "summarize",
-    "p": "sˈʌmɚɹˌaɪz",
-    "m": "tóm tắt",
-    "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
-    "w": "present",
-    "p": "pɹˈɛzənt",
-    "m": "giới thiệu, hiện tại, trình bày",
-    "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
-    "w": "illustrate",
-    "p": "ˈɪləstɹˌeɪt",
-    "m": "minh họa",
-    "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
     "w": "clarify",
     "p": "klˈæɹᵻfˌaɪ",
     "m": "làm rõ",
-    "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
-    "w": "conclude",
-    "p": "kəŋklˈuːd",
-    "m": "kết luận",
-    "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
-    "w": "propose",
-    "p": "pɹəpˈoʊz",
-    "m": "đề xuất",
     "cat": "hành động",
     "pos": "Động từ"
   },
@@ -658,24 +434,10 @@
     "pos": "Danh từ"
   },
   {
-    "w": "transition",
-    "p": "tɹænsˈɪʃən",
-    "m": "chuyển tiếp (trong thuyết trình)",
-    "cat": "học thuật",
-    "pos": "Động từ"
-  },
-  {
     "w": "Q&A session",
     "p": "kjˈuː ænd ɐ sˈɛʃən",
     "m": "phiên hỏi đáp",
     "cat": "học thuật",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "audience",
-    "p": "ˈɔːdiəns",
-    "m": "khán giả, người nghe",
-    "cat": "người",
     "pos": "Danh từ"
   },
   {
@@ -698,13 +460,6 @@
     "m": "thảo luận nhóm chuyên gia",
     "cat": "học thuật",
     "pos": "Động từ"
-  },
-  {
-    "w": "agenda",
-    "p": "ɐdʒˈɛndə",
-    "m": "chương trình nghị sự",
-    "cat": "công việc",
-    "pos": "Danh từ"
   },
   {
     "w": "opening remarks",
@@ -749,30 +504,9 @@
     "pos": "Danh từ"
   },
   {
-    "w": "objective",
-    "p": "ɑːbdʒˈɛktɪv",
-    "m": "khách quan, mục tiêu",
-    "cat": "kinh doanh",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "milestone",
-    "p": "mˈaɪlstoʊn",
-    "m": "cột mốc",
-    "cat": "kinh doanh",
-    "pos": "Động từ"
-  },
-  {
     "w": "timeline",
     "p": "tˈaɪmlaɪn",
     "m": "lịch trình, dòng thời gian",
-    "cat": "thời gian",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "deadline",
-    "p": "dˈɛdlaɪn",
-    "m": "hạn chót",
     "cat": "thời gian",
     "pos": "Danh từ"
   },
@@ -789,34 +523,6 @@
     "m": "tính khả thi",
     "cat": "kinh doanh",
     "pos": "Danh từ"
-  },
-  {
-    "w": "strategy",
-    "p": "stɹˈæɾədʒi",
-    "m": "chiến lược",
-    "cat": "kinh doanh",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "initiative",
-    "p": "ɪnˈɪʃiətˌɪv",
-    "m": "sáng kiến, chủ động, bước đầu tiên",
-    "cat": "kinh doanh",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "implement",
-    "p": "ˈɪmplɪmənt",
-    "m": "thực hiện, triển khai",
-    "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
-    "w": "allocate",
-    "p": "ˈæləkˌeɪt",
-    "m": "phân bổ",
-    "cat": "hành động",
-    "pos": "Động từ"
   },
   {
     "w": "prioritize",
@@ -836,20 +542,6 @@
     "w": "optimize",
     "p": "ˈɑːptɪmˌaɪz",
     "m": "tối ưu hóa",
-    "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
-    "w": "monitor",
-    "p": "mˈɑːnɪɾɚ",
-    "m": "theo dõi, giám sát",
-    "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
-    "w": "assess",
-    "p": "ɐsˈɛs",
-    "m": "đánh giá, thẩm định",
     "cat": "hành động",
     "pos": "Động từ"
   },
@@ -896,51 +588,9 @@
     "pos": "Động từ"
   },
   {
-    "w": "mentorship",
-    "p": "mˈɛntɔːɹʃˌɪp",
-    "m": "sự dìu dắt, sự hướng dẫn, kèm cặp, cố vấn",
-    "cat": "công việc",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "networking",
-    "p": "nˈɛtwɜːkɪŋ",
-    "m": "việc kết nối quan hệ, xây dựng mạng lưới quan hệ",
-    "cat": "công việc",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "resume",
-    "p": "ɹᵻzˈuːm",
-    "m": "CV, sơ yếu lý lịch, hồ sơ xin việc",
-    "cat": "công việc",
-    "pos": "Danh từ"
-  },
-  {
     "w": "cover letter",
     "p": "kˈʌvɚ lˈɛɾɚ",
     "m": "thư xin việc",
-    "cat": "công việc",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "interview",
-    "p": "ˈɪntɚvjˌuː",
-    "m": "phỏng vấn",
-    "cat": "công việc",
-    "pos": "Động từ"
-  },
-  {
-    "w": "recruitment",
-    "p": "ɹᵻkɹˈuːtmənt",
-    "m": "tuyển dụng",
-    "cat": "công việc",
-    "pos": "Động từ"
-  },
-  {
-    "w": "promotion",
-    "p": "pɹəmˈoʊʃən",
-    "m": "thăng chức, khuyến mãi",
     "cat": "công việc",
     "pos": "Danh từ"
   },
@@ -952,13 +602,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "qualification",
-    "p": "kwˌɔlɪfɪkˈeɪʃən",
-    "m": "bằng cấp, năng lực, trình độ, điều kiện, chứng chỉ",
-    "cat": "công việc",
-    "pos": "Danh từ"
-  },
-  {
     "w": "credential",
     "p": "kɹᵻdˈɛnʃəl",
     "m": "thông tin xác nhận, chứng chỉ",
@@ -966,58 +609,9 @@
     "pos": "Danh từ"
   },
   {
-    "w": "expertise",
-    "p": "ˌɛkspɚtˈiːz",
-    "m": "chuyên môn, sự am hiểu",
-    "cat": "công việc",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "portfolio",
-    "p": "pɔːɹtfˈoʊlɪˌoʊ",
-    "m": "hồ sơ tác phẩm, danh mục",
-    "cat": "công việc",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "workload",
-    "p": "wˈɜːkloʊd",
-    "m": "khối lượng công việc",
-    "cat": "công việc",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "burnout",
-    "p": "bˈɜːnaʊt",
-    "m": "kiệt sức vì công việc",
-    "cat": "sức khỏe",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "work-life balance",
-    "p": "wˈɜːklˈaɪf bˈæləns",
-    "m": "cân bằng công việc và cuộc sống",
-    "cat": "công việc",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "remote work",
-    "p": "ɹᵻmˈoʊt wˈɜːk",
-    "m": "làm việc từ xa",
-    "cat": "công việc",
-    "pos": "Động từ"
-  },
-  {
     "w": "hybrid model",
     "p": "hˈaɪbɹɪd mˈɑːdəl",
     "m": "mô hình làm việc kết hợp",
-    "cat": "công việc",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "internship",
-    "p": "ɪntˈɜːnʃɪp",
-    "m": "thực tập",
     "cat": "công việc",
     "pos": "Danh từ"
   },
@@ -1032,13 +626,6 @@
     "w": "probation period",
     "p": "pɹoʊbˈeɪʃən pˈiəɹɪəd",
     "m": "thời gian thử việc",
-    "cat": "công việc",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "resignation",
-    "p": "ɹˌɛzɪɡnˈeɪʃən",
-    "m": "việc từ chức",
     "cat": "công việc",
     "pos": "Danh từ"
   },
@@ -1071,30 +658,9 @@
     "pos": "Danh từ"
   },
   {
-    "w": "pension",
-    "p": "pˈɛnʃən",
-    "m": "lương hưu",
-    "cat": "tiền bạc",
-    "pos": "Danh từ"
-  },
-  {
     "w": "incentive",
     "p": "ɪnsˈɛntɪv",
     "m": "động lực khuyến khích, ưu đãi, phần thưởng, sự khích lệ",
-    "cat": "tiền bạc",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "bonus",
-    "p": "bˈoʊnəs",
-    "m": "tiền thưởng",
-    "cat": "tiền bạc",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "commission",
-    "p": "kəmˈɪʃən",
-    "m": "tiền hoa hồng",
     "cat": "tiền bạc",
     "pos": "Danh từ"
   },
@@ -1106,24 +672,10 @@
     "pos": "Danh từ"
   },
   {
-    "w": "budget",
-    "p": "bˈʌdʒɪt",
-    "m": "ngân sách",
-    "cat": "tiền bạc",
-    "pos": "Danh từ"
-  },
-  {
     "w": "expenditure",
     "p": "ɛkspˈɛndɪtʃɚ",
     "m": "chi tiêu, khoản chi",
     "cat": "tiền bạc",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "revenue",
-    "p": "ɹˈɛvənˌuː",
-    "m": "doanh thu",
-    "cat": "kinh doanh",
     "pos": "Danh từ"
   },
   {
@@ -1141,13 +693,6 @@
     "pos": "Tính từ"
   },
   {
-    "w": "sustainable",
-    "p": "səstˈeɪnəbəl",
-    "m": "bền vững",
-    "cat": "tính từ",
-    "pos": "Tính từ"
-  },
-  {
     "w": "scalable",
     "p": "skˈeɪləbəl",
     "m": "có thể mở rộng",
@@ -1158,20 +703,6 @@
     "w": "viable",
     "p": "vˈaɪəbəl",
     "m": "khả thi, có thể thực hiện, có thể sống được",
-    "cat": "tính từ",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "innovative",
-    "p": "ˈɪnəvˌeɪɾɪv",
-    "m": "sáng tạo, đổi mới, cải tiến",
-    "cat": "tính từ",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "competitive",
-    "p": "kəmpˈɛɾᵻtˌɪv",
-    "m": "cạnh tranh",
     "cat": "tính từ",
     "pos": "Tính từ"
   },
@@ -1200,20 +731,6 @@
     "w": "accountable",
     "p": "ɐkˈaʊntəbəl",
     "m": "có trách nhiệm giải trình",
-    "cat": "tính từ",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "transparent",
-    "p": "tɹænspˈæɹənt",
-    "m": "minh bạch, trong suốt, rõ ràng",
-    "cat": "tính từ",
-    "pos": "Tính từ"
-  },
-  {
-    "w": "adaptable",
-    "p": "ɐdˈæptəbəl",
-    "m": "có khả năng thích nghi, linh hoạt",
     "cat": "tính từ",
     "pos": "Tính từ"
   },
@@ -1302,30 +819,9 @@
     "pos": "Động từ"
   },
   {
-    "w": "negotiate",
-    "p": "nᵻɡˈoʊʃɪˌeɪt",
-    "m": "đàm phán",
-    "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
     "w": "mediate",
     "p": "mˈiːdɪˌeɪt",
     "m": "làm trung gian, hòa giải",
-    "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
-    "w": "persuade",
-    "p": "pɚswˈeɪd",
-    "m": "thuyết phục",
-    "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
-    "w": "advocate",
-    "p": "ˈædvəkˌeɪt",
-    "m": "ủng hộ, vận động",
     "cat": "hành động",
     "pos": "Động từ"
   },
@@ -1342,34 +838,6 @@
     "m": "theo dõi, tiếp nối",
     "cat": "hành động",
     "pos": "Động từ"
-  },
-  {
-    "w": "briefing",
-    "p": "bɹˈiːfɪŋ",
-    "m": "buổi phổ biến thông tin, buổi báo cáo tóm tắt",
-    "cat": "công việc",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "minutes",
-    "p": "mˈɪnɪts",
-    "m": "biên bản cuộc họp",
-    "cat": "công việc",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "report",
-    "p": "ɹᵻpˈɔːɹt",
-    "m": "báo cáo",
-    "cat": "công việc",
-    "pos": "Động từ"
-  },
-  {
-    "w": "memo",
-    "p": "mˈɛmoʊ",
-    "m": "bản ghi nhớ nội bộ",
-    "cat": "công việc",
-    "pos": "Danh từ"
   },
   {
     "w": "correspondence",
@@ -1421,27 +889,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "quote",
-    "p": "kwˈoʊt",
-    "m": "trích dẫn",
-    "cat": "hành động",
-    "pos": "Động từ"
-  },
-  {
-    "w": "reference",
-    "p": "ɹˈɛfɹəns",
-    "m": "người giới thiệu, tài liệu tham khảo, tham chiếu",
-    "cat": "học thuật",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "bibliography",
-    "p": "bˌɪblɪˈɑːɡɹəfi",
-    "m": "danh sách tài liệu tham khảo",
-    "cat": "học thuật",
-    "pos": "Danh từ"
-  },
-  {
     "w": "footnote",
     "p": "fˈʊtnoʊt",
     "m": "chú thích dưới trang",
@@ -1459,20 +906,6 @@
     "w": "table of contents",
     "p": "tˈeɪbəl ʌv kˈɑːntɛnts",
     "m": "mục lục",
-    "cat": "học thuật",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "chapter",
-    "p": "tʃˈæptɚ",
-    "m": "chương",
-    "cat": "học thuật",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "thesis",
-    "p": "θˈiːsɪs",
-    "m": "luận văn, luận án",
     "cat": "học thuật",
     "pos": "Danh từ"
   },
@@ -1498,30 +931,9 @@
     "pos": "Danh từ"
   },
   {
-    "w": "conference",
-    "p": "kˈɑːnfɹəns",
-    "m": "hội nghị",
-    "cat": "học thuật",
-    "pos": "Danh từ"
-  },
-  {
     "w": "symposium",
     "p": "sɪmpˈoʊsiəm",
     "m": "hội thảo chuyên đề",
-    "cat": "học thuật",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "seminar",
-    "p": "sˈɛmɪnˌɑːɹ",
-    "m": "buổi hội thảo, chuyên đề",
-    "cat": "học thuật",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "workshop",
-    "p": "wˈɜːkʃɑːp",
-    "m": "buổi thực hành, hội thảo nhỏ",
     "cat": "học thuật",
     "pos": "Danh từ"
   },
@@ -1533,51 +945,9 @@
     "pos": "Danh từ"
   },
   {
-    "w": "tutorial",
-    "p": "tuːtˈɔːɹɪəl",
-    "m": "buổi học kèm cặp, buổi học nhóm nhỏ, hướng dẫn",
-    "cat": "học tập",
-    "pos": "Động từ"
-  },
-  {
-    "w": "lecture",
-    "p": "lˈɛktʃɚ",
-    "m": "bài giảng",
-    "cat": "học tập",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "curriculum",
-    "p": "kɜːɹˈɪkjʊləm",
-    "m": "chương trình học",
-    "cat": "học tập",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "syllabus",
-    "p": "sˈɪlæbəs",
-    "m": "chương trình học, đề cương môn học",
-    "cat": "học tập",
-    "pos": "Danh từ"
-  },
-  {
     "w": "assessment",
     "p": "ɐsˈɛsmənt",
     "m": "kiểm tra đánh giá",
-    "cat": "học tập",
-    "pos": "Động từ"
-  },
-  {
-    "w": "grade",
-    "p": "ɡɹˈeɪd",
-    "m": "điểm số",
-    "cat": "học tập",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "scholarship",
-    "p": "skˈɑːlɚʃˌɪp",
-    "m": "học bổng",
     "cat": "học tập",
     "pos": "Động từ"
   },
@@ -1603,37 +973,9 @@
     "pos": "Danh từ"
   },
   {
-    "w": "accreditation",
-    "p": "ɐkɹˌɛdɪtˈeɪʃən",
-    "m": "sự công nhận, kiểm định",
-    "cat": "học tập",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "critical thinking",
-    "p": "kɹˈɪɾɪkəl θˈɪŋkɪŋ",
-    "m": "tư duy phản biện",
-    "cat": "học tập",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "problem-solving",
-    "p": "pɹˈɑːbləmsˈɑːlvɪŋ",
-    "m": "giải quyết vấn đề",
-    "cat": "học tập",
-    "pos": "Động từ"
-  },
-  {
     "w": "academic integrity",
     "p": "ˌækədˈɛmɪk ɪntˈɛɡɹᵻɾi",
     "m": "tính liêm chính học thuật",
-    "cat": "học tập",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "plagiarism",
-    "p": "plˈeɪdʒɚɹˌɪzəm",
-    "m": "đạo văn",
     "cat": "học tập",
     "pos": "Danh từ"
   },
@@ -1664,13 +1006,6 @@
     "m": "khung khái niệm",
     "cat": "học thuật",
     "pos": "Danh từ"
-  },
-  {
-    "w": "theoretical",
-    "p": "θiəɹˈɛɾɪkəl",
-    "m": "lý thuyết",
-    "cat": "tính từ",
-    "pos": "Tính từ"
   },
   {
     "w": "applied research",
@@ -1736,23 +1071,9 @@
     "pos": "Danh từ"
   },
   {
-    "w": "reliability",
-    "p": "ɹᵻlˌaɪəbˈɪlᵻɾi",
-    "m": "độ tin cậy",
-    "cat": "học thuật",
-    "pos": "Danh từ"
-  },
-  {
     "w": "validity",
     "p": "vælˈɪdᵻɾi",
     "m": "tính hợp lệ",
-    "cat": "học thuật",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "bias",
-    "p": "bˈaɪəs",
-    "m": "thiên kiến, thiên vị, sai lệch, thành kiến, định kiến",
     "cat": "học thuật",
     "pos": "Danh từ"
   },
@@ -1827,20 +1148,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "theme",
-    "p": "θˈiːm",
-    "m": "chủ đề",
-    "cat": "học thuật",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "category",
-    "p": "kˈæɾɪɡɚɹi",
-    "m": "danh mục, thể loại",
-    "cat": "học thuật",
-    "pos": "Danh từ"
-  },
-  {
     "w": "notation",
     "p": "noʊtˈeɪʃən",
     "m": "ký hiệu, ghi chú",
@@ -1869,27 +1176,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "spreadsheet",
-    "p": "spɹˈɛdʃiːt",
-    "m": "bảng tính",
-    "cat": "công nghệ",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "database",
-    "p": "dˈeɪɾəbˌeɪs",
-    "m": "cơ sở dữ liệu",
-    "cat": "công nghệ",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "algorithm",
-    "p": "ˈælɡɚɹˌɪθəm",
-    "m": "thuật toán",
-    "cat": "công nghệ",
-    "pos": "Danh từ"
-  },
-  {
     "w": "model",
     "p": "mˈɑːdəl",
     "m": "mô hình",
@@ -1904,13 +1190,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "forecast",
-    "p": "fˈɔːɹkæst",
-    "m": "dự báo",
-    "cat": "kinh doanh",
-    "pos": "Động từ"
-  },
-  {
     "w": "projection",
     "p": "pɹədʒˈɛkʃən",
     "m": "dự báo, chiếu, số liệu dự phóng, ước tính",
@@ -1918,44 +1197,9 @@
     "pos": "Động từ"
   },
   {
-    "w": "insight",
-    "p": "ˈɪnsaɪt",
-    "m": "thấu hiểu sâu sắc",
-    "cat": "kinh doanh",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "outcome",
-    "p": "ˈaʊtkʌm",
-    "m": "kết quả, đầu ra",
-    "cat": "kinh doanh",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "impact",
-    "p": "ˈɪmpækt",
-    "m": "tác động",
-    "cat": "kinh doanh",
-    "pos": "Danh từ"
-  },
-  {
     "w": "effectiveness",
     "p": "ɪfˈɛktɪvnəs",
     "m": "hiệu quả",
-    "cat": "kinh doanh",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "efficiency",
-    "p": "ɪfˈɪʃənsi",
-    "m": "hiệu suất",
-    "cat": "kinh doanh",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "productivity",
-    "p": "pɹˌɑːdəktˈɪvᵻɾi",
-    "m": "năng suất",
     "cat": "kinh doanh",
     "pos": "Danh từ"
   },
@@ -2065,13 +1309,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "merger",
-    "p": "mˈɜːdʒɚ",
-    "m": "sáp nhập",
-    "cat": "kinh doanh",
-    "pos": "Danh từ"
-  },
-  {
     "w": "acquisition",
     "p": "ɐkwɪsˈɪʃən",
     "m": "mua lại",
@@ -2104,13 +1341,6 @@
     "p": "vˈɛntʃɚ kˈæpɪɾəl",
     "m": "vốn đầu tư mạo hiểm",
     "cat": "tiền bạc",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "shareholder",
-    "p": "ʃˈɛɹhoʊldɚ",
-    "m": "cổ đông",
-    "cat": "người",
     "pos": "Danh từ"
   },
   {
@@ -2191,34 +1421,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "time management",
-    "p": "tˈaɪm mˈænɪdʒmənt",
-    "m": "quản lý thời gian",
-    "cat": "công việc",
-    "pos": "Động từ"
-  },
-  {
-    "w": "leadership",
-    "p": "lˈiːdɚʃˌɪp",
-    "m": "khả năng lãnh đạo",
-    "cat": "công việc",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "teamwork",
-    "p": "tˈiːmwɜːk",
-    "m": "làm việc nhóm",
-    "cat": "công việc",
-    "pos": "Động từ"
-  },
-  {
-    "w": "conflict resolution",
-    "p": "kˈɑːnflɪkt ɹˌɛzəlˈuːʃən",
-    "m": "giải quyết xung đột",
-    "cat": "công việc",
-    "pos": "Động từ"
-  },
-  {
     "w": "decision-making",
     "p": "dᵻsˈɪʒənmˈeɪkɪŋ",
     "m": "ra quyết định",
@@ -2296,13 +1498,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "on the same page",
-    "p": "ɔnðə sˈeɪm pˈeɪdʒ",
-    "m": "đồng thuận, hiểu nhau, thống nhất quan điểm",
-    "cat": "thành ngữ",
-    "pos": "Động từ"
-  },
-  {
     "w": "think outside the box",
     "p": "θˈɪŋk aʊtsˈaɪd ðə bˈɑːks",
     "m": "suy nghĩ sáng tạo, không theo lối mòn",
@@ -2359,20 +1554,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "take the lead",
-    "p": "tˈeɪk ðə lˈiːd",
-    "m": "dẫn đầu, chủ động đảm nhận",
-    "cat": "thành ngữ",
-    "pos": "Động từ"
-  },
-  {
-    "w": "come up with",
-    "p": "kˈʌm ˈʌp wɪð",
-    "m": "nghĩ ra, đề xuất",
-    "cat": "thành ngữ",
-    "pos": "Động từ"
-  },
-  {
     "w": "run by",
     "p": "ɹˈʌn bˈaɪ",
     "m": "tham khảo ý kiến của ai đó",
@@ -2408,20 +1589,6 @@
     "pos": "Động từ"
   },
   {
-    "w": "wrap up",
-    "p": "ɹˈæp ˈʌp",
-    "m": "kết thúc, hoàn tất",
-    "cat": "thành ngữ",
-    "pos": "Động từ"
-  },
-  {
-    "w": "break down",
-    "p": "bɹˈeɪk dˈaʊn",
-    "m": "hỏng, đổ vỡ, phân tích chi tiết, chia nhỏ",
-    "cat": "thành ngữ",
-    "pos": "Động từ"
-  },
-  {
     "w": "bring to the table",
     "p": "bɹˈɪŋ tə ðə tˈeɪbəl",
     "m": "đóng góp vào cuộc thảo luận",
@@ -2432,13 +1599,6 @@
     "w": "keep track of",
     "p": "kˈiːp tɹˈæk ʌv",
     "m": "theo dõi, ghi nhớ",
-    "cat": "thành ngữ",
-    "pos": "Động từ"
-  },
-  {
-    "w": "stand out",
-    "p": "stˈænd ˈaʊt",
-    "m": "nổi bật",
     "cat": "thành ngữ",
     "pos": "Động từ"
   },
@@ -2562,13 +1722,6 @@
     "pos": "Tính từ"
   },
   {
-    "w": "insight",
-    "p": "ˈɪnsaɪt",
-    "m": "cái nhìn sâu sắc, quan điểm thấu đáo",
-    "cat": "học thuật",
-    "pos": "Danh từ"
-  },
-  {
     "w": "implication",
     "p": "ˌɪmplɪkˈeɪʃən",
     "m": "hàm ý, tác động, ý nghĩa sâu xa, hệ quả, ảnh hưởng",
@@ -2590,13 +1743,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "innovation",
-    "p": "ˌɪnəvˈeɪʃən",
-    "m": "sự đổi mới",
-    "cat": "kinh doanh",
-    "pos": "Danh từ"
-  },
-  {
     "w": "disruption",
     "p": "dɪsɹˈʌpʃən",
     "m": "sự gián đoạn, phá vỡ",
@@ -2611,58 +1757,9 @@
     "pos": "Danh từ"
   },
   {
-    "w": "adoption",
-    "p": "ɐdˈɑːpʃən",
-    "m": "sự nhận con nuôi, áp dụng",
-    "cat": "kinh doanh",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "integration",
-    "p": "ˌɪntᵻɡɹˈeɪʃən",
-    "m": "sự hòa nhập (xã hội), tích hợp, kết hợp, hội nhập",
-    "cat": "kinh doanh",
-    "pos": "Danh từ"
-  },
-  {
     "w": "interoperability",
     "p": "ˌɪntɚɹˌɑːpɚɹəbˈɪlᵻɾi",
     "m": "khả năng tương tác",
-    "cat": "công nghệ",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "ecosystem",
-    "p": "ˈiːkoʊsˌɪstəm",
-    "m": "hệ sinh thái",
-    "cat": "kinh doanh",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "platform",
-    "p": "plˈætfɔːɹm",
-    "m": "sân ga, bến, ke ga, nền tảng, thềm ga",
-    "cat": "công nghệ",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "infrastructure",
-    "p": "ˈɪnfɹəstɹˌʌktʃɚ",
-    "m": "hạ tầng",
-    "cat": "kinh doanh",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "capacity",
-    "p": "kəpˈæsᵻɾi",
-    "m": "năng lực, công suất",
-    "cat": "kinh doanh",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "bandwidth",
-    "p": "bˈændwɪdθ",
-    "m": "băng thông, khả năng xử lý",
     "cat": "công nghệ",
     "pos": "Danh từ"
   },
@@ -2723,20 +1820,6 @@
     "pos": "Danh từ"
   },
   {
-    "w": "policy",
-    "p": "pˈɑːlɪsi",
-    "m": "chính sách",
-    "cat": "chính trị",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "regulation",
-    "p": "ɹˌɛɡjʊlˈeɪʃən",
-    "m": "quy định, điều lệ",
-    "cat": "chính trị",
-    "pos": "Danh từ"
-  },
-  {
     "w": "legislation",
     "p": "lˌɛdʒɪslˈeɪʃən",
     "m": "luật pháp, lập pháp, pháp chế",
@@ -2754,20 +1837,6 @@
     "w": "accountability",
     "p": "ɐkˌaʊntəbˈɪlᵻɾi",
     "m": "trách nhiệm pháp lý",
-    "cat": "chính trị",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "reform",
-    "p": "ɹᵻfˈɔːɹm",
-    "m": "cải cách",
-    "cat": "chính trị",
-    "pos": "Danh từ"
-  },
-  {
-    "w": "initiative",
-    "p": "ɪnˈɪʃiətˌɪv",
-    "m": "sáng kiến, chủ động, bước đầu tiên",
     "cat": "chính trị",
     "pos": "Danh từ"
   },
